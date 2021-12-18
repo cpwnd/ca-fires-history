@@ -26,6 +26,30 @@
       "priorityValue": 302
     },
     {
+      "id": "ac97376e-1308-4124-a214-65d14c634332",
+      "headline": "Beeinträchtigungen im Großraum Dortmund",
+      "newsType": "Notarzteinsatz auf der Strecke",
+      "timePeriod": "Am heutigen Samstag, 18. Dezember 2021 bis in die Vormittagsstunden",
+      "introText": "<p>Aufgrund eines Notarzteinsatzes auf der Strecke in Dortmund Hbf kommt es aktuell zu gro&szlig;en Einschr&auml;nkungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Die Strecken zwischen Dortmund und M&uuml;nster(Westf) bzw. Hamm(Westf) sind derzeit gesperrt.<br />\nDa dar&uuml;ber hinaus keine Fahrten vom Abstellbahnhof zum Hauptbahnhof Dortmund m&ouml;glich sind, sind auch in Dortmund beginnende Z&uuml;ge in Richtung Essen - D&uuml;sseldorf bzw. in Richtung Wuppertal - K&ouml;ln betroffen.</p>\n\n<p>Es kommt zu hohen Versp&auml;tungen, zu Ausf&auml;llen von Z&uuml;gen sowie zum Ausfall des Haltes in Dortmund Hbf.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE-, EC- und IC-Züge, die über Dortmund Hbf verkehren"
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Dortmund Hbf ist weiterhin mit Z&uuml;gen des Regional- und Fernverkehrs aus Richtung K&ouml;ln, D&uuml;sseldorf, Essen, Bochum bzw. Wuppertal und Hagen erreichbar.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "ni",
+        "nw"
+      ],
+      "lastModified": "18.12.2021 06:36",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
+    },
+    {
       "id": "b15f9eb2-cb6b-4de9-9358-0f6e3522b6bf",
       "headline": "Entschärfung einer Weltkriegsbombe in Braunschweig",
       "newsType": "Bombenentschärfung",
@@ -46,7 +70,7 @@
       "areas": [
         "ni"
       ],
-      "lastModified": "17.12.2021 13:49",
+      "lastModified": "18.12.2021 06:36",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 301
@@ -114,6 +138,60 @@
       "lastModified": "17.12.2021 16:23",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "d7340022-ab69-4d07-9ccc-c2b563c3e98d",
+      "headline": "Einschränkungen bei der Westfrankenbahn",
+      "newsType": "Reduziertes Fahrplanangebot aufgrund erhöhten Krankenstandes",
+      "timePeriod": "Ab Montag, den 20.12 bis Mittwoch, 22.12.21",
+      "introText": "<p>Die Westfrankenbahn wird ab Montag, 20. Dezember bis einschli&szlig;lich Mittwoch, 22. Dezember&nbsp;ihr Fahrplanangebot vor&uuml;bergehend reduzieren. Es kommt zu Zugausf&auml;llen und Schienenersatzverkehr.Grund ist ein deutlich erh&ouml;hter Krankenstand unter den Lokf&uuml;hrern. Der Sch&uuml;ler- und Pendlerverkehr soll gr&ouml;&szlig;tm&ouml;glich aufrechterhalten werden.&nbsp;</p>\n\n<p>Die dazugeh&ouml;rigen Fahrpl&auml;ne f&uuml;r den 20. bis 22. Dezember 2021 finden Sie weiter unten.</p>\n\n<p>(Madonnenlandbahn) Bitte beachten Sie: Aufgrund Stra&szlig;enarbeiten m&uuml;ssen die Busse durch den Ort Breitendiel fahren. <strong>Die Busse Richtung Amorbach halten an &quot;Breitendiel Kindergarten&quot;. Und in Richtung Miltenberg an &quot;Breitendiel Schule&quot;.</strong></p>\n\n<p>Bitte informieren Sie sich tagesaktuell &uuml;ber die <a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a> oder den digitalen Reiseauskunftsmedien. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n",
+      "connectionsHeadline": "Betroffene Strecken: ",
+      "connections": [
+        "Hohenlohebahn: Crailsheim - Heilbronn",
+        "Madonnenlandbahn: Miltenberg - Walldürn - Seckach",
+        "Maintalbahn: Aschaffenburg - Miltenberg - Wertheim",
+        "Tauberbahn: Wertheim - Lauda - Bad Mergentheim - Crailsheim"
+      ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:f446ab1b-70f2-4978-838c-219a375640ec/Reduziertes%20Fahrplanangebot%20Hohenlohebahn%20ab%2020.12-%2022-12.pdf",
+            "title": "Reduziertes Fahrplanangebot Hohenlohebahn ab 20.12- 22-12.pdf (PDF, 431 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:fceea0a3-c90b-4b2a-add4-f82307f7c5e9/Madonnenlandbahn.pdf",
+            "title": "Madonnenlandbahn.pdf (PDF, 415 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:d731e802-9b28-4e4a-b8a4-27bfd2e57ece/Reduziertes%20Fahrplanangebot%20Maintalbahn%2020-22Dez.pdf",
+            "title": "Reduziertes Fahrplanangebot Maintalbahn 20-22Dez.pdf (PDF, 456 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:3c8936b4-c5b2-4e45-9f85-419151a9f026/Reduziertes%20Fahrplanangebot%20Tauberbahn%2020-22Dez.pdf",
+            "title": "Reduziertes Fahrplanangebot Tauberbahn 20-22Dez.pdf (PDF, 528 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "by"
+      ],
+      "lastModified": "17.12.2021 22:13",
+      "expand": false,
       "priorityValue": 102
     },
     {
