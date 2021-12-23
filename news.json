@@ -1,27 +1,31 @@
 {
   "news": [
     {
-      "id": "6f5a85bc-8b3c-49ba-9228-3b2e6bbb157b",
-      "headline": "Notarzteinsatz auf der Strecke beendet",
-      "newsType": "Streckensperrung zwischen Dresden-Reick und Heidenau aufgehoben",
-      "timePeriod": "Bis auf Weiteres",
-      "introText": "<p>Der Notarzteinsatzes am Gleis auf dem Streckenabschnitt zwischen Dresden Reick und Heidenau ist beendet.</p>\n",
-      "connectionsHeadline": "Betroffene Linien:",
+      "id": "d55a25a9-75ce-44cb-9945-43634f5355f2",
+      "headline": "Beeinträchtigungen zwischen Berlin und Hannover",
+      "newsType": "Polizeiliche Ermittlung",
+      "timePeriod": "Am Donnerstag, 23.12.2021 bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund polizeilicher Ermittlungen im Bahnhof Stendal k&ouml;nnen Z&uuml;ge des Fernverkehrs der Deutschen Bahn Stendal Hbf vor&uuml;bergehend nicht anfahren. Es kommt zu und Haltausf&auml;llen und Versp&auml;tungen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "S 1: Meißen Triebischtal - Coswig(b Dresden) - Dresden Hbf - Pirna - Bad Schandau/Schöna"
+        "Alle ICE/IC-Züge zwischen Berlin und Hannover mit Zwischenhalt in Stendal Hbf werden in beiden Fahrtrichtungen umgeleitet. Der Halt Stendal Hbf entfällt. Ersatzhalt Rathenow. Verspätungen sind keine zu erwarten.",
+        "Alle IC-Züge zwischen Magdeburg und Wittenberge werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 40 Minuten. Der Halt Stendal Hbf entfällt."
       ],
-      "closingText": "<p>Es kommt weiterhin zu Folgeversp&auml;tungen und Teil- sowie Vollausf&auml;llen.&nbsp;</p>\n\n<p>Informationen zu den aktuellen Versp&auml;tungen und Zugausf&auml;llen finden Sie auch in der Reiseauskunft unter <a href=\"http://www.bahn.de\" style=\"color:blue; text-decoration:underline\">www.bahn.de</a>&nbsp;oder bei der&nbsp;kostenlosen VVO-Kundengarantie-Hotline unter 0800&nbsp;/&nbsp;3&nbsp;111&nbsp;888.</p>\n",
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Reisende von/nach Stendal nutzen bitte den Ersatzhalt Rathenow und zwischen Stendal und Rathenow&nbsp;die Regionalbahn RB 34.</p>\n\n<p><br />\nSobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
-        "regional"
+        "longDistance"
       ],
       "areas": [
-        "sn"
+        "be",
+        "br",
+        "ni",
+        "st"
       ],
-      "lastModified": "22.12.2021 10:44",
-      "author": "suedost",
+      "lastModified": "23.12.2021 08:01",
+      "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 301
+      "priorityValue": 304
     },
     {
       "id": "57e5ff3b-345d-48ba-9325-11c9fe6945a2",
