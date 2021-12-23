@@ -26,30 +26,6 @@
       "priorityValue": 302
     },
     {
-      "id": "25c5f363-fa51-4a51-a8bf-4cadfe0b173a",
-      "headline": "Beeinträchtigungen zwischen Hamburg und Hannover",
-      "newsType": "Stellwerkstörung",
-      "timePeriod": "Am Donnerstag, 23.12.2021 bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund der Reparatur eines Stellwerks in Deutsch-Evern auf der Strecke Hamburg &ndash; Hannover ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Haltausf&auml;llen und Versp&auml;tungen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE/IC-Züge zwischen Hamburg und Hannover werden in beiden Fahrtrichtungen umgeleitet und verspäten sich um etwa 20 Minuten. Die Halte Lüneburg, Uelzen und Celle entfallen."
-      ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Reisende von/nach L&uuml;neburg nutzen bitte die Regionalz&uuml;ge zwischen Hamburg und L&uuml;neburg.</p>\n\n<p>Reisende von/nach Uelzen und Celle nutzen bitte die&nbsp;Regionalz&uuml;ge zwischen Hannover und Uelzen.<br />\n&nbsp;</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "hh",
-        "ni"
-      ],
-      "lastModified": "23.12.2021 12:15",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 302
-    },
-    {
       "id": "57e5ff3b-345d-48ba-9325-11c9fe6945a2",
       "headline": "Meldungen der S-Bahn Hamburg",
       "newsType": "Störungen",
@@ -69,6 +45,38 @@
       "author": "niedersachsen_bremen",
       "expand": true,
       "priorityValue": 103
+    },
+    {
+      "id": "3cedafee-8375-4273-b03b-fe230328bc98",
+      "headline": "RB11 - Vorübergehend leicht reduziertes Angebot",
+      "newsType": "erhöhter Krankenstand unter den Lokführer:innen",
+      "timePeriod": "vom 25. Dezember bis vsl. 27. Dezember 2021",
+      "introText": "<p>Vom 25. bis 27. Dezember reduziert DB Regio Nordost vor&uuml;bergehend leicht das Verkehrsangebot auf der Linie RB11. Grund ist ein erh&ouml;hter Krankenstand unter den Lokf&uuml;hrer:innen.&nbsp;</p>\n\n<p><strong>RB11 Frankfurt (Oder) - Cottbus</strong></p>\n\n<ul>\n\t<li><strong>Vom 25.12. (Sa) bis 27.12. (Mo) </strong>wird der Fahrplantakt reduziert:</li>\n\t<li>Zwischen Frankfurt (Oder) und Cottbus fallen einzelne Verbindungen aus.</li>\n\t<li>Ein Schienenersatzverkehr zwischen Frankfurt (Oder) und Eisenh&uuml;ttenstadt ist <strong>am 27.12. (Mo)</strong> eingerichtet. Den Fahrplan f&uuml;r den Ersatzverkehr finden Sie unten.&nbsp;</li>\n</ul>\n",
+      "connections": [],
+      "download": {
+        "text": "<p>&nbsp;</p>\n\n<p><strong>Hier finden Sie den Fahrplan f&uuml;r den Ersatzverkehr auf der Linie RB11:</strong></p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:45484523-637b-40af-982c-a00503f4dfb8/SEVBEHSBFPRB11_25bis27122021.pdf",
+            "title": "Ersatzverkehr RB11 am 27.12.21 (PDF, 198 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<ul>\n</ul>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "23.12.2021 13:32",
+      "author": "nordost",
+      "expand": true,
+      "priorityValue": 102
     },
     {
       "id": "495ab10e-f2ef-434a-93a8-220c3aff1951",
