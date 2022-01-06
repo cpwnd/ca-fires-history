@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "id": "12be731f-2f87-4f9d-9767-4ec3a5d80480",
+      "headline": "Beeinträchtigungen zwischen Villach und Spittal-Millstätter See (Österreich)",
+      "newsType": "Schnee und Eis",
+      "timePeriod": "Bis vsl. Freitag, 07.01.2022 in die Morgenstunden",
+      "introText": "<p>Aufgrund witterungsbedingter Einschr&auml;nkungen&nbsp;zwischen Villach und Spittal-Millst&auml;tter See kommt es derzeit in <strong>&Ouml;sterreich</strong> zu Ausf&auml;llen und Versp&auml;tungen.</p>\n\n<p><strong>Aktuelle Informationen zur St&ouml;rung erhalten Sie&nbsp;<a href=\"https://fahrplan.oebb.at/bin/help.exe/dn?tpl=showmap_external\">hier</a>&nbsp;auf der Website der &Ouml;sterreichischen Bundesbahn(&Ouml;BB).</strong></p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle IC/EC/RJX-Züge zwischen Villach und Spittal-Millstätter See"
+      ],
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "by"
+      ],
+      "lastModified": "06.01.2022 12:22",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
       "id": "57e5ff3b-345d-48ba-9325-11c9fe6945a2",
       "headline": "Meldungen der S-Bahn Hamburg",
       "newsType": "Störungen",
