@@ -1,6 +1,54 @@
 {
   "news": [
     {
+      "id": "447b978a-ccc8-4aef-9d15-7b807eb8a41a",
+      "headline": "Beeinträchtigungen zwischen Hannover Hbf und Hamburg Hbf",
+      "newsType": "Reparatur an einem Signal",
+      "timePeriod": "Am Donnerstag, 13.01.2022 bis in die späten Abendstunden",
+      "introText": "<p>Aufgrund einer Reparatur an einem Signal zwischen Hannover Hbf und Hamburg Hbf kommt es im Fernverkehr der Deutschen Bahn zu Beeintr&auml;chtigungen.</p>\n\n<p>Die Z&uuml;ge des Fernverkehrs werden umgeleiitet und erhalten dadurch eine Versp&auml;tung von etwa 25 Minuten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE/IC-Züge zwischen Hannover Hbf und Hamburg Hbf (ohne Zwischenhalt)"
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "hh",
+        "ni"
+      ],
+      "lastModified": "13.01.2022 18:27",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
+    },
+    {
+      "id": "8bd30604-829c-45e4-8f3c-c776851e9809",
+      "headline": "S 1 fährt verknüpft mit S 6",
+      "newsType": "Fahrplanänderung im Streckenverlauf",
+      "timePeriod": "vorerst bis 30. Januar 2022",
+      "introText": "<p>Bitte beachten Sie, aus betriebllichen Gr&uuml;nden verkehren die beiden S-Bahn Linien S 1 und S 6 miteinander verkn&uuml;pft. Dadurch ergeben sich folgende Fahrplan&auml;nderungen:</p>\n\n<p><strong>S 1:</strong></p>\n\n<p>Der Streckenabschnitt zwischen Leipzig Hbf (tief) und Leipzig-St&ouml;tteritz entf&auml;llt. Nutzen Sie hier bitte alternativ die S-Bahn Linien S 2 und S 3.</p>\n\n<p><strong>S 6:</strong></p>\n\n<p>Der Streckenabschnitt zwischen Leipzig Hbt (tief) und Leipzig Messe entf&auml;llt. Nutzen Sie hier bitte alternativ die S-Bahn Linien S 5 und S 5X.</p>\n",
+      "connectionsHeadline": "Folgende Linien sind davon betroffen:",
+      "connections": [
+        "S 1 - Leipzig Miltitzer-Allee - Leipzig-Stötteritz",
+        "S 6 - Leipzig Messe - Borna - Geithain"
+      ],
+      "closingText": "<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder der DB Streckenagent App zu infomieren.</p>\n\n<p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>\n",
+      "priority": "1",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sn"
+      ],
+      "lastModified": "13.01.2022 18:36",
+      "author": "suedost",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
       "id": "57e5ff3b-345d-48ba-9325-11c9fe6945a2",
       "headline": "Meldungen der S-Bahn Hamburg",
       "newsType": "Störungen",
@@ -189,28 +237,6 @@
       "lastModified": "13.12.2021 17:08",
       "author": "bayern",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "8bc78e03-0b9b-4498-80c6-9ed115838848",
-      "headline": "Strecke zwischen Freiburg(Breisgau) und Müllheim(Baden) wieder frei befahrbar",
-      "newsType": "Weichenstörung behoben",
-      "timePeriod": "seit 17:20 Uhr",
-      "introText": "<p>Die Reparatur an der Weiche im Raum Bad Krozingen ist beendet und der Streckenabshnitt zwischen Freiburg(Brsg) und M&uuml;llheim(Baden) ist wieder frei befahrbar. Bitte rechnen Sie bis Betriebsschluss noch mit Versp&auml;tungen bis sich der Bahnverkehr wieder normalisiert hat. Der Ersatzverkehr mit sechs Bussen zwischen Freiburg(Bsg) und M&uuml;llheim(Baden) im Pendelverkehr endet.&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffene Strecke: ",
-      "connections": [
-        "Freiburg(Brsg) - Müllheim(Baden)"
-      ],
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "13.01.2022 17:25",
-      "expand": false,
       "priorityValue": 101
     },
     {
