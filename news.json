@@ -8,9 +8,9 @@
       "introText": "<p>Aufgrund einer Reparatur an der Weiche zwischen Freiburg (Breisgau) Hbf und Basel SBB kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Da der betroffene Streckenabschnitt nur eingeschr&auml;nkt befahrbar ist, kommt es zu (Teil-)Ausf&auml;llen und Reisezeitverl&auml;ngerungen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE/IC/EC/ECE-Züge zwischen Freiburg (Breisgau) Hbf und Basel SBB"
+        "ICE-Züge Basel-Köln/NRW fallen zwischen Basel SBB und Karlsruhe Hbf aus"
       ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><u><strong>Alternative Reisem&ouml;glichkeit:</strong></u></p>\n\n<p>Nutzen Sie bitte die verbleibenden Z&uuml;ge des Fernverkehrs der Deutschen Bahn AG in diesem Abschnitt.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -18,7 +18,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "13.01.2022 14:23",
+      "lastModified": "13.01.2022 15:19",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 301
@@ -216,10 +216,10 @@
     },
     {
       "id": "8bc78e03-0b9b-4498-80c6-9ed115838848",
-      "headline": "Für RB-Züge ist aktuell zwischen Freiburg(Brsg) und Müllheim(Baden) kein Zugverkehr möglich",
+      "headline": "Ausfall der Regionalbahnen zwischen Freiburg(Breisgau) und Müllheim(Baden) ",
       "newsType": "Weichenstörung",
-      "timePeriod": "Dauer bis zum Betriebsschluss",
-      "introText": "<p>Reparatur an der Weiche im Raum Bad Krozingen. F&uuml;r RB-Z&uuml;ge zwischen Freiburg(Brsg) und M&uuml;llheim(Baden) aktuell kein Zugverkehr m&ouml;glich. Ersatzverkehr mit sechs Bussen (drei ab Freiburg(Brsg) und drei ab M&uuml;llheim(Baden), ist ab ca. 13 Uhr zwischen Freiburg(Brsg) und M&uuml;llheim(Baden) im Pendelverkehr bis Betriebsschluss eingerichtet. Die Busse verkehren immer ab Freiburg(Brsg) zur Minute .43 und ab M&uuml;llheim(Baden) zur Minute .53. Dauer der Reparatur bis zum Betriebsschluss. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n",
+      "timePeriod": "bis voraussichtlich 19 Uhr",
+      "introText": "<p>Aufgrund einer Reparatur an der Weiche im Raum Bad Krozingen fallen die Regionalbahnen zwischen Freiburg(Breisgau) und M&uuml;llheim(Baden) aus. Ein Ersatzverkehr mit sechs Bussen ist zwischen Freiburg(Breisgau) und M&uuml;llheim(Baden) im Pendelverkehr eingerichtet. Die Busse verkehren immer ab Freiburg(Brsg) zur Minute 43 und ab M&uuml;llheim(Baden) zur Minute 53. Prognose zur St&ouml;rungsbehebung ist voraussichtlich 19 Uhr. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n",
       "connectionsHeadline": "Betroffene Strecke: ",
       "connections": [
         "Freiburg(Brsg) - Müllheim(Baden)"
@@ -232,7 +232,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "13.01.2022 13:23",
+      "lastModified": "13.01.2022 15:01",
       "expand": false,
       "priorityValue": 101
     },
