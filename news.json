@@ -4,7 +4,7 @@
       "id": "9f79a98c-09f2-43c6-98d4-9e253a724748",
       "headline": "Beeinträchtigungen zwischen Hannover und Hamburg",
       "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Am Freitag, 21.01.2022 bis in die Nachmittagsstunden",
+      "timePeriod": "Am Freitag, 21.01.2022 bis in die Abendstunden",
       "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Celle und Uelzen kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.&nbsp;Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 25 Minuten.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
@@ -19,7 +19,7 @@
         "hh",
         "ni"
       ],
-      "lastModified": "21.01.2022 16:03",
+      "lastModified": "21.01.2022 16:45",
       "author": "fernverkehr_ag",
       "expand": true,
       "priorityValue": 302
@@ -259,6 +259,28 @@
       "lastModified": "13.12.2021 17:08",
       "author": "bayern",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "5310fc49-ce85-4d09-8703-e62e9da68c35",
+      "headline": "Zugausfälle zwischen Müllheim(Baden) und Neuenburg(Baden) infolge einer Reparatur an der Oberleitung",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "bis vsl. im Laufe des heutigen Abends (21. Januar 2022)",
+      "introText": "<p>Heute Nachmittag f&uuml;hrte eine Reparatur an der Oberleitung im Raum M&uuml;llheim(Baden) zu Beeintr&auml;chtigungen im Zugverkehr.</p>\n\n<p>Die Strecke ist mittlerweile wieder uneingeschr&auml;nkt befahrbar. Allerdings kann es heute Nachmittag und am Abend zwischen M&uuml;llheim(Baden) und Neuenburg(Baden) noch zu Zugausf&auml;llen kommen. Ein Schienenersatzverkehr haben wir f&uuml;r Sie eingerichtet.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
+      "connectionsHeadline": "Betroffene Strecke:",
+      "connections": [
+        "Müllheim(Baden) - Neuenburg(Baden)"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung&nbsp;mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "21.01.2022 16:59",
+      "expand": false,
       "priorityValue": 101
     },
     {
