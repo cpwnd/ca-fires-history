@@ -240,11 +240,27 @@
       "headline": "Entschärfung einer Fliegerbombe zwischen Karlsruhe Hbf und Rastatt",
       "newsType": "Streckensperrung",
       "timePeriod": "Heute 21. Januar 2022 ab 11:20 Uhr bis ca. 14 Uhr",
-      "introText": "<p>Aufgrund der Entsch&auml;rfung einer Fliegerbombe&nbsp;zwischen Karlsruhe Hbf und Rastatt ist ab 11:20 Uhr bis ca. 14 Uhr kein Zugverkehr m&ouml;glich. Ein Ersatzverkehr mit mehreren Bussen ist im Pendelverkehr eingerichtet (Abfahrt der Busse in Karlsruhe Hbf &uuml;ber Karlsruhe-S&uuml;dausgang). Bitte achten Sie auf die l&auml;ngere Fahrzeit vom Bus. Bitte pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n\n<p>Sobald uns neue Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
+      "introText": "<p>Aufgrund der Entsch&auml;rfung einer Fliegerbombe&nbsp;zwischen Karlsruhe Hbf und Rastatt ist ab 11:20 Uhr bis ca. 14 Uhr kein Zugverkehr m&ouml;glich. Ein Ersatzverkehr mit mehreren Bussen ist im Pendelverkehr eingerichtet</p>\n\n<p><strong>Abfahrt der Busse in Karlsruhe Hbf &uuml;ber Karlsruhe-S&uuml;dausgang. (Siehe Anhang)</strong></p>\n\n<p><strong>Abfahrt der Busse in Rastatt &uuml;ber die Rauentaler Stra&szlig;e, Ein-/Ausgang Ost). (Siehe Anhang)</strong></p>\n\n<p>Bitte achten Sie auf die l&auml;ngere Fahrzeit vom Bus und pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n\n<p>Sobald uns neue Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
       "connectionsHeadline": "Betroffene Strecke:",
       "connections": [
         "Karlsruhe Hbf - Rastatt "
       ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:ad6f04cf-af78-446c-92da-417ef8de94f5/SEV%20Karlsruhe.pdf",
+            "title": "SEV Karlsruhe.pdf (PDF, 59 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:15bd40dd-8589-4fb2-8f32-6a5b1a94ed82/SEV%20Rastatt.pdf",
+            "title": "SEV Rastatt.pdf (PDF, 54 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Sperrung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!<br />\n&nbsp;</p>\n",
       "priority": "0",
       "distance": [
@@ -253,7 +269,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "21.01.2022 11:13",
+      "lastModified": "21.01.2022 12:16",
       "author": "baden_wuerttemberg",
       "expand": true,
       "priorityValue": 101
