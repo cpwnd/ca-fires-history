@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "id": "57e725f8-00aa-4393-a2b2-a341b8a8dd69",
+      "headline": "Beeinträchtigungen zwischen Hamburg und Hagenow Land",
+      "newsType": "Reparatur an der Oberleitung\t",
+      "timePeriod": "Heute, 25.01.2022, vsl. bis in die Nachmittagsstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Schwarzenbek und Hagenow Land kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Versp&auml;tungen und Haltausf&auml;lle sind die Folge.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE, IC/EC Züge zwischen Hamburg und Berlin",
+        "Alle ICE, IC/EC Züge zwischen Hamburg und Schwerin"
+      ],
+      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "be",
+        "br",
+        "hh",
+        "mv"
+      ],
+      "lastModified": "25.01.2022 13:30",
+      "expand": false,
+      "priorityValue": 304
+    },
+    {
       "id": "2b9af152-af8e-463a-aea3-2ab2601f140e",
       "headline": "Beeinträchtigungen zwischen Hagen und Hamm(W)",
       "newsType": "Bauarbeiten",
@@ -72,6 +98,26 @@
       "priorityValue": 201
     },
     {
+      "id": "c5c647fc-5457-4d8d-bd6f-5e878e9a9219",
+      "headline": "Ausfall RB91 zwischen Frankfurt(Oder) und Rzepin",
+      "newsType": "Betriebliche Gründe",
+      "timePeriod": "25. Januar 2022",
+      "introText": "<p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Aus betrieblichen Gr&uuml;nden fallen folgende Z&uuml;ge zwischen Rzepin und Frankfurt (Oder) aus:</font></font></p>\n\n<p><strong><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">RB 5832</font></font></strong><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\"> (77223) planm&auml;&szlig;ige Abfahrt ab Rzepin ab 12:32 Uhr nach Frankfurt (Oder)</font></font></p>\n\n<p><strong><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">RB 5833&nbsp;</font></font></strong><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 12:59 Uhr nach Rzepin</font></font></p>\n\n<p><strong><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">RB 5834</font></font></strong><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\"> (77225) planm&auml;&szlig;ige Abfahrt ab Rzepin ab 17:32 Uhr nach Frankfurt (Oder)</font></font></p>\n\n<p><font style=\"vertical-align: inherit;\"><font style=\"vertical-align: inherit;\">Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Rzepin und Frankfurt und zur&uuml;ck.</font></font></p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter 0<strong><a href=\"tel:03312356881\" style=\"color:blue; text-decoration:underline\">331 235-6881</a></strong> und&nbsp;<strong><a href=\"tel:03857502405\" style=\"color:blue; text-decoration:underline\">0385 750-2405</a>&nbsp;</strong>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "25.01.2022 13:19",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
       "headline": "Meldungen der S-Bahn Berlin",
       "newsType": "Störung",
@@ -118,26 +164,6 @@
       "lastModified": "13.10.2021 08:58",
       "author": "suedostbayernbahn",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "0a9eebef-6de9-45a2-8023-e6326305e866",
-      "headline": "Unfall an Bahnübergang zwischen Königslutter und Frellstedt",
-      "newsType": "Streckensperrung Braunschweig bis Helmstedt",
-      "timePeriod": "bis vsl. 13 Uhr",
-      "introText": "<p>Aufgrund eines Unfalles an einem Bahn&uuml;bergang zwischen K&ouml;nigslutter und Frellstedt ist die Strecke von Braunschweig bis Helmstedt gesperrt.<br />\n<br />\nEin Busnotverkehr ist jeweils mit einem Bus beginnend ab Braunschweig und Helmstedt eingerichtet.</p>\n",
-      "connections": [
-        "<b>RB 40</b> Burg (Magdeburg) - Magdeburg Hbf - Eilsleben (b Magdeburg) - Helmstedt - Braunschweig Hbf"
-      ],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "st"
-      ],
-      "lastModified": "25.01.2022 08:38",
-      "expand": false,
       "priorityValue": 101
     },
     {
