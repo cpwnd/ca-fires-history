@@ -80,16 +80,27 @@
       "introText": "<p>DB Regio Baden-W&uuml;rttemberg hat das Fahrplangebot reduziert. Es kommt bei den Regionalz&uuml;gen zu Zugausf&auml;llen und Schienenersatzverkehr. Grund ist ein erh&ouml;hter Krankenstand beim Fahrpersonal.</p>\n",
       "connectionsHeadline": "Betroffene Strecken:",
       "connections": [
-        "Hochrhein: Basel – Waldshut (bis voraussichtlich 06. März)",
+        "Hochrhein: Basel – Waldshut - Stühlingen (bis voraussichtlich 06. März)",
         " Schwarzwaldbahn: Offenburg – Konstanz (ab 02. Februar bis voraussichtlich 06. März)"
       ],
       "download": {
+        "text": "<p>Den ver&auml;nderten Fahrplan k&ouml;nnen Sie als PDF-Datei herunterladen. Der Fahrplan zwischen Basel und Waldshut ist bereits bis zum 11. Februar in der Reiseauskunft hinterlegt. Ab 01. Februar finden Sie den gesamten ge&auml;nderten Fahrplan in den digitalen Auskunftsmedien (z.B. bahn.de, DB Navigator, <a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">DB Streckenagent</a>)</p>\n",
         "linkDataList": [
-          null,
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:662d5366-e6e1-455e-9abd-85c672186293/Fahrplan%20Basel%20-%20Waldshut%20-%20St%C3%BChlingen%20zusammengef%C3%BCgt.pdf",
+            "title": "Fahrplan Basel - Waldshut - Stühlingen (PDF, 264 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:6bebd159-8038-4bfe-ba3b-0c9f2ee0295c/Konstanz%20-%20Offenburg-zusammengef%C3%BCgt.pdf",
+            "title": "Fahrplan Offenburg - Konstanz (PDF, 414 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
         ]
       },
-      "closingText": "<p>Sollte sich die Lage zwischenzeitlich stabilisieren, soll schnellstm&ouml;glich zum normalen Fahrplanangebot zur&uuml;ckgekehrt werden. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n\n<p>Den ver&auml;nderten Fahrplan k&ouml;nnen Sie weiter unten als PDF-Datei herunterladen. Der Fahrplan zwischen Basel und Waldshut ist bereits bis zum 11. Februar in der Reiseauskunft hinterlegt. Ab 01. Februar finden Sie den gesamten ge&auml;nderten Fahrplan in den digitalen Auskunftsmedien (z.B. bahn.de, DB Navigator, <a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">DB Streckenagent</a>)</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.</p>\n\n<p>&nbsp;</p>\n",
+      "closingText": "<p>Sollte sich die Lage zwischenzeitlich stabilisieren, soll schnellstm&ouml;glich zum normalen Fahrplanangebot zur&uuml;ckgekehrt werden. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.</p>\n\n<p>&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -112,7 +123,7 @@
         "sh",
         "th"
       ],
-      "lastModified": "27.01.2022 15:23",
+      "lastModified": "27.01.2022 15:48",
       "expand": false,
       "priorityValue": 116
     },
