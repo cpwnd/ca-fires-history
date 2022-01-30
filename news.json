@@ -27,30 +27,6 @@
       "priorityValue": 304
     },
     {
-      "id": "af7b8759-9a26-428d-ad50-2bd8f54958c5",
-      "headline": "Unwetter: Bahnverkehr im Norden Deutschlands aktuell beeinträchtigt.",
-      "newsType": "Unwetter mit sturm- und orkanartigen Böen",
-      "timePeriod": "Heute, 30.01.2022 vsl. bis in die Abendstunden",
-      "introText": "<p>Aufgrund&nbsp;von&nbsp;Unwettersch&auml;den&nbsp;kommt&nbsp;es&nbsp;aktuell zu&nbsp;Versp&auml;tungen&nbsp;und&nbsp;Zugausf&auml;llen im Regionalverkehr&nbsp;in Niedersachsen und Bremen.</p>\n",
-      "connectionsHeadline": "Folgende Linien sind derzeit betroffen:",
-      "connections": [
-        "S 4 (Hannover Hbf - Hildesheim Hbf) Der Zugverkehr zwischen Hannover Messe/Laatzen und Hildesheim Hb wird wieder aufgenommen. Bitte rechnen Sie noch mit Verspätungen und Teilausfällen."
-      ],
-      "closingText": "<p>Bitte beachten Sie, dass Busse verkehrs- und witterungsbedingt l&auml;ngere Fahrzeiten haben.</p>\n\n<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>, in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a>&nbsp;</u>oder beim regionalen Kundendialog unter 0511 45901645.</p>\n\n<p>Folgen Sie auch der DB RegioNiedersachsen auf&nbsp;<u><a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a></u>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
-      "priority": "2",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "hb",
-        "ni"
-      ],
-      "lastModified": "30.01.2022 21:04",
-      "author": "niedersachsen_bremen",
-      "expand": false,
-      "priorityValue": 302
-    },
-    {
       "id": "9798687e-da8b-462b-acb5-a9cd14b0c267",
       "headline": "Streckensperrung zwischen Bonn-Beuel und Koblenz",
       "newsType": "Streckenstörung",
@@ -97,29 +73,6 @@
       "priorityValue": 302
     },
     {
-      "id": "e71e2ee6-3aca-476c-ac38-088eb2fbe908",
-      "headline": "Unwetter: Regionalverkehr im Norden Deutschlands aktuell beeinträchtigt.",
-      "newsType": "Unwetter mit sturm- und orkanartigen Böen",
-      "timePeriod": "Heute, 30.01.2022 ",
-      "introText": "<p>Aufgrund&nbsp;von&nbsp;Unwettersch&auml;den&nbsp;kommt&nbsp;es&nbsp;aktuell zu&nbsp;Versp&auml;tungen&nbsp;und&nbsp;Zugausf&auml;llen im Bahnverkehr&nbsp;in Schleswig-Holstein.</p>\n",
-      "connectionsHeadline": "Folgende Linien sind derzeit betroffen:",
-      "connections": [
-        "RE 7 (Hamburg Hbf - Neumünster - Flensburg) Der Zugverkehr zwischen Neumünster und Rendsburg wird wieder aufgenommen. Bitte rechnen Sie noch mit Verspätungen und Teilausfällen."
-      ],
-      "closingText": "<p>Bitte beachten Sie, dass Busse verkehrs- und witterungsbedingt l&auml;ngere Fahrzeiten haben.</p>\n\n<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>, in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a></u>&nbsp;oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf&nbsp;<u><a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a></u>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
-      "priority": "2",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "sh"
-      ],
-      "lastModified": "30.01.2022 21:04",
-      "author": "schleswig_holstein",
-      "expand": false,
-      "priorityValue": 301
-    },
-    {
       "id": "2b9af152-af8e-463a-aea3-2ab2601f140e",
       "headline": "Beeinträchtigungen zwischen Hagen und Hamm(W)",
       "newsType": "Bauarbeiten",
@@ -142,30 +95,6 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 301
-    },
-    {
-      "id": "8bd30604-829c-45e4-8f3c-c776851e9809",
-      "headline": "Einschränkungen S-Bahn Mitteldeutschland, S 1 fährt verknüpft mit S 6",
-      "newsType": "Fahrplanänderung im Streckenverlauf",
-      "timePeriod": "vorerst bis 30. Januar 2022",
-      "introText": "<p>Bitte beachten Sie, aus betriebllichen Gr&uuml;nden verkehren die beiden S-Bahn Linien S 1 und S 6 miteinander verkn&uuml;pft.</p>\n",
-      "connectionsHeadline": "Folgende Linien sind davon betroffen:",
-      "connections": [
-        "S 1 - Leipzig Miltitzer-Allee - Leipzig-Stötteritz",
-        "S 6 - Leipzig Messe - Borna - Geithain"
-      ],
-      "closingText": "<p>Dadurch ergeben sich folgende Fahrplan&auml;nderungen:</p>\n\n<p><strong>S 1&nbsp;</strong>Der Streckenabschnitt zwischen Leipzig Hbf (tief) und Leipzig-St&ouml;tteritz entf&auml;llt. Nutzen Sie hier bitte alternativ die S-Bahn Linien S 2 und S 3.</p>\n\n<p><strong>S 6&nbsp;</strong>Der Streckenabschnitt zwischen Leipzig Hbf (tief) und Leipzig Messe entf&auml;llt. Nutzen Sie hier bitte alternativ die S-Bahn Linien S 5 und S 5X.</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren. Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>\n",
-      "priority": "1",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "sn"
-      ],
-      "lastModified": "13.01.2022 19:43",
-      "author": "suedost",
-      "expand": false,
-      "priorityValue": 201
     },
     {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
@@ -214,29 +143,6 @@
       "lastModified": "13.10.2021 08:58",
       "author": "suedostbayernbahn",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "71fb1cc6-cae0-420d-9419-3a11eafbaac5",
-      "headline": "Regionalverkehr in Mecklenburg- Vorpommern durch witterungsbedingte Beeinträchtigungen eingeschränkt",
-      "newsType": "Unwetter mit orkanartigen Böen",
-      "timePeriod": "Heute, 30. Januar 2022 ",
-      "introText": "<p>Aufgrund&nbsp;von&nbsp;Unwettersch&auml;den&nbsp;kommt&nbsp;es&nbsp;aktuell zu&nbsp;Versp&auml;tungen&nbsp;und&nbsp;Zugausf&auml;llen im Regionalverkehr in Mecklenburg- Vorpommern.</p>\n\n<p>Auf folgender Linie wird der Verkehr ab 16:00 Uhr bis Betriebsschluss eingestellt:</p>\n\n<p>RE4 - L&uuml;beck - Bad Kleinen - G&uuml;strow - Neubrandenburg - Pasewalk - Ueckerm&uuml;nde/Szczecin Glowny</p>\n\n<p>im Streckenabschnitt Neubrandenburg - G&uuml;strow</p>\n\n<p>Ein Ersatzverkehr mit Bussen ist eingerichtet.</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
-      "connectionsHeadline": "In Mecklenburg - Vorpommern sind folgende Linien betroffen:",
-      "connections": [
-        "RE4 - Lübeck - Bad Kleinen - Güstrow - Neubrandenburg - Pasewalk - Ueckermünde/Szczecin Glowny",
-        ""
-      ],
-      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "mv"
-      ],
-      "lastModified": "30.01.2022 19:39",
-      "expand": false,
       "priorityValue": 101
     },
     {
