@@ -2,14 +2,15 @@
   "news": [
     {
       "id": "ee4d867d-cdfc-4cfd-91b9-f28b54d43995",
-      "headline": "Unwetter: Bahnverkehr im Norden Deutschlands aktuell beeinträchtigt",
+      "headline": "Unwetter: Bahnverkehr im Norden, sowie im Nord-Osten Deutschlands, aktuell beeinträchtigt",
       "newsType": "Unwetterschäden",
-      "timePeriod": "Heute, 30.01.2022 vsl. bis in die Morgenstunden",
-      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es aktuell im Norden Deutschlands zu Versp&auml;tungen und Zugausf&auml;llen im Bahnverkehr.</p>\n",
+      "timePeriod": "Heute, 30.01.2022 vsl. bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es aktuell im Norden Deutschlands, sowie im Nord-Ostenn, zu Versp&auml;tungen und Zugausf&auml;llen im Bahnverkehr.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE, IC Züge fallen auf dem Abschnitt Stralsund - Ostseebad Binz aus.",
-        "ICE, IC/EC Züge auf dem Abschnitt Bremen - Hamburg werden umgeleitet und verspäten sich um etwa 60 Minuten."
+        "ICE/IC Züge fallen auf dem Abschnitt Stralsund - Ostseebad Binz aus.",
+        "ICE, IC/EC Züge auf dem Abschnitt Bremen - Hamburg werden umgeleitet und verspäten sich um etwa 60 Minuten.",
+        "ICE/IC Züge Rostock - Hamburg/Berlin kann es zu kurzfristigen Zugausfällen kommen"
       ],
       "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
@@ -17,20 +18,22 @@
         "longDistance"
       ],
       "areas": [
+        "br",
         "hb",
         "hh",
         "mv",
         "ni",
         "sh"
       ],
-      "lastModified": "30.01.2022 05:22",
+      "lastModified": "30.01.2022 06:26",
       "expand": false,
-      "priorityValue": 305
+      "priorityValue": 306
     },
     {
       "id": "af7b8759-9a26-428d-ad50-2bd8f54958c5",
       "headline": "Unwetter: Bahnverkehr im Norden Deutschlands aktuell beeinträchtigt.",
       "newsType": "Unwetter mit sturm- und orkanartigen Böen",
+      "timePeriod": "Heute, 30.01.2022 vsl. bis in die Mittagsstunden",
       "introText": "<p>Aufgrund&nbsp;von&nbsp;Unwettersch&auml;den&nbsp;kommt&nbsp;es&nbsp;aktuell zu&nbsp;Versp&auml;tungen&nbsp;und&nbsp;Zugausf&auml;llen im Regionalverkehr&nbsp;in Niedersachsen und Bremen.</p>\n",
       "connectionsHeadline": "Folgende Linien sind derzeit betroffen:",
       "connections": [
@@ -47,7 +50,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "30.01.2022 02:03",
+      "lastModified": "30.01.2022 06:44",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 302
@@ -56,10 +59,12 @@
       "id": "e71e2ee6-3aca-476c-ac38-088eb2fbe908",
       "headline": "Unwetter: Regionalverkehr im Norden Deutschlands aktuell beeinträchtigt.",
       "newsType": "Unwetter mit sturm- und orkanartigen Böen",
+      "timePeriod": "Heute, 30.01.2022 vsl. bis in die Mittagsstunden",
       "introText": "<p>Aufgrund&nbsp;von&nbsp;Unwettersch&auml;den&nbsp;kommt&nbsp;es&nbsp;aktuell zu&nbsp;Versp&auml;tungen&nbsp;und&nbsp;Zugausf&auml;llen im Bahnverkehr&nbsp;in Schleswig-Holstein.</p>\n",
       "connectionsHeadline": "Folgende Linien sind derzeit betroffen:",
       "connections": [
         "RE 1 (Hamburg Hbf - Büchen) Der Zugverkehr zwischen Hamburg Hbf und Büchen ist eingestellt. Grund hierfür sind witterungsbedinget Schäden an der Oberleitung.",
+        "RE 7 (Hamburg Hbf - Neumünster - Flensburg) Der Zugverkehr zwischen Neumünster und Rendsburg ist eingestellt. Grund hierfür ist eine Oberleitungsstörung.",
         "RE 72 (Kiel Hbf - Eckernförde) Der Zugverkehr zwischen Kiel Hbf und Eckernförde ist eingestellt. Grund hierfür sind mehrere Bäume im Gleis. Ein Busnotverkehr ist eingerichtet.",
         "RE 72 (Flensburg - Süderbrarup) Der Zugverkehr zwischen Flensburg und Süderbrarup ist eingestellt. Grund hierfür sind mehrere Bäume im Gleis. Ein Busnotverkehr ist eingerichtet.",
         "RB 73 (Kiel Hbf - Eckernförde) Der Zugverkehr zwischen Kiel Hbf und Eckernförde ist eingestellt. Grund hierfür sind mehrere Bäume im Gleis. Ein Busnotverkehr ist eingerichtet.",
@@ -67,8 +72,8 @@
         "RB 75 (Kiel Hbf - Rendsburg) Der Zugverkehr zwischen Kiel Hbf und Rensburg ist eingestellt. Grund hierfür sind mehrere Bäume im Gleis.",
         "RB 76 (Kiel Hbf - Oppendorf) Der Zugverkehr zwischen Kiel Hbf und Oppendorf ist eingestellt. Grund hierfür sind mehrere Bäume im Gleis.",
         "RE 83 (Kiel Hbf - Lübeck Hbf - Lüneburg) Der Zugverkehr zwischen Kiel Hbf und Lüneburg ist eingestellt. Grund hierfür sind mehrere Bäume im Gleis. Ein Busnotverkehr ist eingerichtet.",
-        "RB 85 (Lübeck Hbf - Puttgarden) Der Zugverkehr zwischen Lübeck Hbf und Puttgarden ist eingestellt. Grund hierfür sind mehrere Bäume im Gleis.",
-        "RB 84 (Kiel Hbf - Lübeck Hbf) Der Zugverkehr zwischen Kiel Hbf und Lübeck Hbf ist eingestellt. Grund hierfür sind mehrere Bäume im Gleis."
+        "RB 84 (Kiel Hbf - Lübeck Hbf) Der Zugverkehr zwischen Kiel Hbf und Lübeck Hbf ist eingestellt. Grund hierfür sind mehrere Bäume im Gleis.",
+        "RB 85 (Lübeck Hbf - Puttgarden) Der Zugverkehr zwischen Lübeck Hbf und Puttgarden ist eingestellt. Grund hierfür sind mehrere Bäume im Gleis."
       ],
       "closingText": "<p>Bitte beachten Sie, dass Busse verkehrs- und witterungsbedingt l&auml;ngere Fahrzeiten haben.</p>\n\n<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>, in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a></u>&nbsp;oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf&nbsp;<u><a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a></u>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "2",
@@ -78,7 +83,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "29.01.2022 22:44",
+      "lastModified": "30.01.2022 06:44",
       "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 301
@@ -149,6 +154,31 @@
       "lastModified": "22.12.2021 03:42",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "f5ed71ca-19f5-48eb-b805-15e87f265513",
+      "headline": "Kein Zugverkehr zwischen Wörth (Rhein) und Karlsruhe ",
+      "newsType": "Bauarbeiten",
+      "timePeriod": "30. Januar 2022 bis ca. 8 Uhr",
+      "introText": "<p><strong>Bauarbeiten beeintr&auml;chtigen den Bahnverkehr zwischen W&ouml;rth(Rhein) und Karlsruhe Hbf.</strong></p>\n\n<p>Zur Zeit sind<strong> keine Zugfahrten</strong> im betroffenen Streckenabschnitt m&ouml;glich.</p>\n\n<p>In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen.</p>\n\n<p>Wir haben f&uuml;r Sie einen<strong> Busnotverkehr, mit zwei Bussen der Firma Holiday-Reisen, zwischen W&ouml;rth(Rhein) und Karlsruhe Hbf eingerichtet, </strong>die alle Unterwegshalte anfahren.</p>\n\n<p>Voraussichtliche Dauer der Sperrung bis ca.8 Uhr.</p>\n",
+      "connectionsHeadline": "Betroffenen Linien: ",
+      "connections": [
+        "RE6 Karlsruhe - Landau - Neustadt - Kaiserslautern",
+        "RB51 Neustadt - Landau - Winden - Wörth - Karlsruhe "
+      ],
+      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der Sperrung auf jeden Fall mehr Reisezeit ein und informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "rp"
+      ],
+      "lastModified": "30.01.2022 06:40",
+      "author": "mitte",
+      "expand": false,
       "priorityValue": 102
     },
     {
