@@ -196,17 +196,19 @@
     },
     {
       "id": "f641011e-79b7-430a-9a0d-7680b6079dca",
-      "headline": "Vorübergehend reduziertes Fahrplanangebot am Hochrhein und auf der Schwarzwaldbahn ",
+      "headline": "Vorübergehend reduziertes Fahrplanangebot in Südbaden ",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "bis voraussichtlich 06. März 2022",
       "introText": "<p>DB Regio Baden-W&uuml;rttemberg hat das Fahrplangebot reduziert. Es kommt bei den Regionalz&uuml;gen zu Zugausf&auml;llen und Schienenersatzverkehr. Grund ist ein erh&ouml;hter Krankenstand beim Fahrpersonal.</p>\n",
       "connectionsHeadline": "Betroffene Strecken:",
       "connections": [
         "Hochrhein: Basel – Waldshut - Stühlingen (bis voraussichtlich 06. März)",
-        " Schwarzwaldbahn: Offenburg – Konstanz (ab 02. Februar bis voraussichtlich 06. März)"
+        " Schwarzwaldbahn: Offenburg – Konstanz (ab 02. Februar bis voraussichtlich 06. März)",
+        "Rheintalbahn: Karlsruhe - Offenburg - Freiburg (Breisgau)  - Basel (ab 08. Februar bis voraussichtlich 06. März)",
+        "Breisgau S-Bahn: Breisach/Endingen  - Freiburg (Brsg) - Titisee - Seebrugg/Donaueschingen   (ab 08. Februar bis voraussichtlich 06. März)"
       ],
       "download": {
-        "text": "<p>Den ver&auml;nderten Fahrplan k&ouml;nnen Sie als PDF-Datei herunterladen. Der Fahrplan zwischen Basel und&nbsp; St&uuml;hlingen ist bereits bis zum 11. Februar in der Reiseauskunft hinterlegt. Ab 01. Februar finden Sie den gesamten ge&auml;nderten Fahrplan in den digitalen Auskunftsmedien (z.B. bahn.de, DB Navigator, <a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">DB Streckenagent</a>)</p>\n",
+        "text": "<p>Den ver&auml;nderten Fahrplan k&ouml;nnen Sie als PDF-Datei herunterladen. Der Fahrplan zwischen Basel und&nbsp; St&uuml;hlingen ist bereits bis zum 11. Februar in der Reiseauskunft hinterlegt. Ab 01. Februar finden Sie den ge&auml;nderten Fahrplan f&uuml;r Hochrhein, Schwarzwaldbahn und Rheintalbahn in den digitalen Auskunftsmedien (z.B. bahn.de, DB Navigator, <a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">DB Streckenagent</a>). Ab 02. Februar ist dann auch der angepasste Fahrplan f&uuml;r die Breisgau S-Bahn abrufbar.&nbsp;</p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:662d5366-e6e1-455e-9abd-85c672186293/Fahrplan%20Basel%20-%20Waldshut%20-%20St%C3%BChlingen%20zusammengef%C3%BCgt.pdf",
@@ -217,6 +219,18 @@
           {
             "link": "https://assets.static-bahn.de/dam/jcr:6bebd159-8038-4bfe-ba3b-0c9f2ee0295c/Konstanz%20-%20Offenburg-zusammengef%C3%BCgt.pdf",
             "title": "Fahrplan Offenburg - Konstanz (PDF, 414 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:654ff791-06df-4b98-85b1-04528b7c4407/Fahrplan%20Karlsruhe%20-%20Basel.pdf",
+            "title": "Fahrplan Karlsruhe - Basel.pdf (PDF, 325 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:b47bdfce-55f7-47f6-9400-95c359dfb841/Fahrplan%20Breisgau%20S-Bahn.pdf",
+            "title": "Fahrplan Breisgau S-Bahn.pdf (PDF, 2 MB)",
             "info": "",
             "openInNewTab": false
           }
@@ -230,7 +244,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "28.01.2022 14:59",
+      "lastModified": "31.01.2022 15:19",
       "expand": false,
       "priorityValue": 101
     },
