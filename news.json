@@ -2,10 +2,10 @@
   "news": [
     {
       "id": "241f06dd-1e7b-4f61-9f9c-0a283d95b1cd",
-      "headline": "Beeinträchtigungen von/nach Hamburg in/aus Richtung Westen und Süden",
+      "headline": "Stellwerksstörung: Bahnverkehr ist im Großraum Hamburg am 3.2. beeinträchtigt",
       "newsType": "Stellwerksstörung",
       "timePeriod": "Am Donnerstag, 03.02.2022 bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund eines Stellwerksausfalles in Hamburg-Harburg k&ouml;nnen Z&uuml;ge des Fernverkehrs der Deutschen Bahn Hamburg-Harburg vor&uuml;bergehend nicht anfahren. Es kommt zu Zug- und Haltausf&auml;llen und Versp&auml;tungen.</p>\n",
+      "introText": "<p>Aufgrund einer Stellwerksst&ouml;rung kommt es am 3.2. im Gro&szlig;raum Hamburg zu Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "Alle ICE/EC/IC-Züge zwischen Hamburg und Hannover in beiden Fahrtrichtungen.",
@@ -22,7 +22,7 @@
         "ni",
         "sh"
       ],
-      "lastModified": "03.02.2022 11:08",
+      "lastModified": "03.02.2022 12:25",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 304
@@ -127,6 +127,29 @@
       "lastModified": "22.12.2021 03:42",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "dde6cacb-b971-4c31-a0b7-cf2c339d7a2e",
+      "headline": "Aufgrund einer Stellwerksstörung kommt es am 3.2. im Großraum Hamburg zu Verspätungen und Zugausfällen",
+      "newsType": "Stellwerksstörung",
+      "timePeriod": "Am Donnerstag, 3.2.22 bis in die Nachmittagsstunden",
+      "introText": "<p>Aufgrund einer Stellwerksst&ouml;rung kommt es am 3.2. im Gro&szlig;raum Hamburg zu Versp&auml;tungen und Zugausf&auml;llen des Regionalverkehrs. Die Z&uuml;ge k&ouml;nnen den Bahnhof Hamburg-Harburg vor&uuml;bergehend nicht anfahren.</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "RE 5 (Cuxhaven - Hamburg Hbf): Die Züge der RE 5 enden und beginnen heute in Buxtehude."
+      ],
+      "closingText": "<p>Die Z&uuml;ge der RE 5 enden und beginnen heute in Buxtehude. Wir empfehlen Reisenden in Richtung Hamburg ab Buxtehude die Nutzung der S-Bahn-Linie 3.</p>\n\n<p>Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges und rechnen Sie mit Reisezeitverl&auml;ngerungen.</p>\n\n<p>Sobald uns neue Informationen vorliegen wird diese Seite aktualisiert.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der <a href=\"http://bahn.de/reiseauskunft\">Reiseauskunft</a><a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">,</a> in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a> oder beim regionalen Kundendialog unter <a href=\"tel:0511 45901645\">0511 45901645</a>.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf <a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter.</a></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrecht</a></p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "hb",
+        "ni"
+      ],
+      "lastModified": "03.02.2022 12:24",
+      "expand": false,
       "priorityValue": 102
     },
     {
@@ -333,8 +356,8 @@
             "openInNewTab": false
           },
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:5f8ecafe-12d0-4c6a-8234-394122ce15e3/Breisgau%20S-Bahn.pdf",
-            "title": "Breisgau S-Bahn.pdf (PDF, 384 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:485365bf-aa8f-4c0f-9b5b-c923edafd0be/Fahrplan%20Breisgau%20S-Bahn.pdf",
+            "title": "Fahrplan Breisgau S-Bahn.pdf (PDF, 397 KB)",
             "info": "",
             "openInNewTab": false
           }
@@ -348,7 +371,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "02.02.2022 08:29",
+      "lastModified": "03.02.2022 12:23",
       "expand": false,
       "priorityValue": 101
     },
