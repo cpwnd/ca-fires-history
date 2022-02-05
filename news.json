@@ -2,16 +2,16 @@
   "news": [
     {
       "id": "2ceb214d-82fa-4433-81b4-d69b2b0ac5b8",
-      "headline": "Haltausfälle in Duisburg Hbf und Oberhausen Hbf",
+      "headline": "Beeinträchtigungen zwischen Duisburg und Oberhausen",
       "newsType": "Bauarbeiten",
-      "timePeriod": "Bis einschließlich Sonntag, 06.02.2022 Tagesende",
-      "introText": "<p>Aufgrund von kurzfristig notwendigen Bauarbeiten zwischen Duisburg Hbf und Oberhausen Hbf kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.&nbsp;</p>\n",
+      "timePeriod": "Vsl. bis 06.02.2022 in den späten Abendstunden ",
+      "introText": "<p>Aufgrund von Bauarbeiten zwischen Duisburg und Oberhausen kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet.</p>\n\n<p>Durch die Umleitungen entfallen die Halte Duisburg Hbf und Oberhausen Hbf. Fernverkehrsz&uuml;ge der Deutschen Bahn halten ersatzweise in Oberhausen-Sterkrade.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE-Züge Frankfurt(M) - Köln - Duisburg - Oberhausen - Amsterdam werden umgeleitet und halten nicht in Duisburg Hbf und Oberhausen Hbf. Ersatzhalt in Oberhausen-Sterkrade. (Ausnahme: ICE 105 hält NICHT ersatzweise in Oberhausen-Sterkrade)",
-        "Übrige EC/IC/ICE-Züge mit planmäßigem Halt in Oberhausen Hbf werden umgeleitet. Der Halt in Oberhausen Hbf entfällt."
+        "Internationale ICE - Züge Frankfurt(M) - Köln - Duisburg - Amsterdam",
+        "IC – Züge Koblenz - Köln - Münster(Westf.) - Emden"
       ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Nutzen Sie zwischen <u>Oberhausen Hbf</u> und <u>Oberhausen-Sterkrade</u> bitte die verbleibenden Nahverkehrsz&uuml;ge der Linie RE5, die Stra&szlig;enbahn-Linie 112 oder die Bus-Linien SB98, 960. <u>Bitte &uuml;berpr&uuml;fen Sie die G&uuml;ltigkeit Ihres Tickets vor Fahrtantritt. Ggf. ist ein weiterer Fahrschein notwendig!</u></p>\n\n<p>Nutzen Sie zwischen <u>Oberhausen-Sterkrade</u> und <u>Duisburg/D&uuml;sseldorf</u> bitte auch die Nahverkehrsz&uuml;ge der Linie VIA RE19.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Nutzen Sie zwischen Oberhausen Hbf und Oberhausen-Sterkrade bitte die verbleibenden Nahverkehrsz&uuml;ge der Linie RE5, die Stra&szlig;enbahn-Linie 112 oder die Bus-Linien SB98, 960. Bitte &uuml;berpr&uuml;fen Sie die G&uuml;ltigkeit Ihres Tickets vor Fahrtantritt. Ggf. ist ein weiterer Fahrschein notwendig!</p>\n\n<p>Nutzen Sie zwischen Oberhausen-Sterkrade und Duisburg/D&uuml;sseldorf bitte auch die Nahverkehrsz&uuml;ge der Linie VIA RE19.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf<strong> </strong><a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\"><strong>ww</strong>w.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -19,7 +19,7 @@
       "areas": [
         "nw"
       ],
-      "lastModified": "05.02.2022 05:27",
+      "lastModified": "05.02.2022 16:13",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 301
@@ -72,6 +72,26 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
+    },
+    {
+      "id": "dcff8e8e-681e-416c-a16e-cf63281c922f",
+      "headline": "ODEG-Ersatzverkehr",
+      "newsType": "kurzfristige Mitarbeiterausfälle",
+      "timePeriod": "7. bis 11. Februar 2022",
+      "introText": "<p>Folgende Z&uuml;ge sind betroffen.</p>\n\n<p><strong>RE18448&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 5:48 Uhr ab Berlin-Gesundbrunnen nach Nauen</p>\n\n<p><strong>RE18442&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 7:21 Uhr ab Nauen nach Berlin-Ostkreuz</p>\n\n<p><strong>RE18449&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 15:54 Uhr ab Berlin Hbf(tief) nach Nauen</p>\n\n<p><strong>RE18444&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 16:44 Uhr ab Nauen nach Berlin-S&uuml;dkreuz</p>\n\n<p><strong>RE18447</strong>&nbsp;planm&auml;&szlig;ige Abfahrt 17:44 Uhr ab Berlin-S&uuml;dkreuz nach Nauen</p>\n\n<p><strong>RE18446</strong>&nbsp;planm&auml;&szlig;ige Abfahrt 18:39 Uhr ab Nauen nach Berlin Hbf(tief)</p>\n\n<p>Bitte nutzen Sie als Ersatz die Z&uuml;ge der Linie RB14 und RB10.</p>\n\n<p>&nbsp;</p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "05.02.2022 16:09",
+      "expand": false,
+      "priorityValue": 102
     },
     {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
