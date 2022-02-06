@@ -1,42 +1,6 @@
 {
   "news": [
     {
-      "id": "38812437-ec46-469b-b925-9878bf3784d9",
-      "headline": "Unwetter: Auswirkungen auf Bahnverkehr in der Mitte und im Süden Deutschlands heute möglich",
-      "newsType": "Unwetter",
-      "timePeriod": "Heute, 06.02.2022",
-      "introText": "<p>Es kann zu Versp&auml;tungen und Zugausf&auml;llen kommen.</p>\n",
-      "connections": [],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "regional",
-        "longDistance"
-      ],
-      "areas": [
-        "bw",
-        "by",
-        "be",
-        "br",
-        "hb",
-        "hh",
-        "he",
-        "mv",
-        "ni",
-        "nw",
-        "rp",
-        "sl",
-        "sn",
-        "st",
-        "sh",
-        "th"
-      ],
-      "lastModified": "06.02.2022 16:57",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 316
-    },
-    {
       "id": "652e85d5-0834-4025-a68c-aea0953d8d32",
       "headline": "Streckensperrung zwischen Hamburg und Berlin",
       "newsType": "Reparatur an der Strecke",
@@ -366,6 +330,26 @@
       "lastModified": "13.12.2021 17:08",
       "author": "bayern",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "0a523c6b-c2fb-42b7-bd2a-4606851139d5",
+      "headline": "Unwetter: Auswirkungen auf Bahnverkehr in der Mitte und Im Süden Deutschlands heute möglich",
+      "newsType": "Sturmtief \"Roxana\"",
+      "timePeriod": "am Sonntag, 06.Februar. 2022",
+      "introText": "<p>Starker Wind und orkanartige B&ouml;en sorgen f&uuml;r Beeintr&auml;chtigungen im Regionalverkehr. Es kann zu Versp&auml;tungen und Zugausf&auml;llen kommen.&nbsp;</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber <a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">Ihre Verbindung.</a>&nbsp;</p>\n\n<p><br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a>&nbsp;immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "06.02.2022 18:44",
+      "author": "baden_wuerttemberg",
+      "expand": false,
       "priorityValue": 101
     },
     {
