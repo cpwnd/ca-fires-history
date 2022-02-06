@@ -6,7 +6,6 @@
       "newsType": "Unwetter",
       "timePeriod": "Heute, 06.02.2022",
       "introText": "<p>Es kann zu Versp&auml;tungen und Zugausf&auml;llen kommen.</p>\n",
-      "connectionsHeadline": "Derzeit bestehen keine wetterbedingten Einschränkungen im Personenverkehr der Deutschen Bahn.",
       "connections": [],
       "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
@@ -32,7 +31,7 @@
         "sh",
         "th"
       ],
-      "lastModified": "06.02.2022 16:14",
+      "lastModified": "06.02.2022 16:57",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 316
@@ -96,7 +95,6 @@
       "introText": "<p>Aufgrund einer Gleisuntersp&uuml;lung auf der Strecke Hamburg Hbf - Hamburg-Altona ist die Strecke in beide Richtungen gesperrt.</p>\n",
       "connectionsHeadline": "Aktuell betroffen sind folgende Linien",
       "connections": [
-        "RE 6 (Westerland - Hamburg-Altona) endet/beginnt in Elmshorn. Reisende nutzen zwischen Elmshorn - Hamburg Hbf die Züge der Linie RE 70. Bitte rechnen Sie mit einer Reisezeitverlängerung bis zu 60 Minuten.",
         "RE 7 (Kiel Hbf - Hamburg Hbf) endet/beginnt in Hamburg-Altona. Reisende nutzen zwischen Hamburg Hbf - Hamburg-Altona bitte die S-Bahn. Bitte rechnen Sie mit einer Reisezeitverlängerung bis zu 60 Minuten.",
         "RE 70 (Neumünster - Hamburg Hbf) verkehrt über Hamburg-Altona nach Hamburg Hbf. Bitte rechnen Sie mit einer Reisezeitverlängerung bis zu 60 Minuten."
       ],
@@ -108,7 +106,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "06.02.2022 16:47",
+      "lastModified": "06.02.2022 16:50",
       "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 301
@@ -136,6 +134,53 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 301
+    },
+    {
+      "id": "174cc5cb-308d-4809-8cf7-3dd391f5d9c6",
+      "headline": "Unwetterwarnung Rheinland-Pfalz, Saarland und Baden-Württemberg",
+      "newsType": "Verspätungen und Ausfälle",
+      "introText": "<p>Sturmwarnung im Bereich der Region Mitte (Rheinland-Pfalz, Saarland und Baden-W&uuml;rttemberg):</p>\n\n<p>Es kann zu Versp&auml;tungen und Zugausf&auml;llen kommen.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a>&nbsp;oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n\n<p>&nbsp;</p>\n",
+      "connections": [],
+      "closingText": "<p><strong>Abbinder Vorrangig. Sharepoint nachschauen. </strong></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer der St&ouml;rung auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "priority": "1",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "rp",
+        "sl"
+      ],
+      "lastModified": "06.02.2022 17:28",
+      "expand": false,
+      "priorityValue": 203
+    },
+    {
+      "id": "5b6a04d9-8a92-48df-af88-531c9621ebcc",
+      "headline": "Beeinträchtigungen zwischen Hamburg und Kiel",
+      "newsType": "Streckensperrung",
+      "timePeriod": "Bis 07.02.2022 bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund einer Gleisuntersp&uuml;lung bei Hamburg-Eidelstedt ist der Streckenabschnitt zwischen Hamburg Hbf und Kiel beeintr&auml;chtigt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 15 Minuten. Die Halte Hamburg Hbf und Hamburg Dammtor entfallen. Die Z&uuml;ge halten ersatzweise in Hamburg-Harburg.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "ICE - Züge Kiel/Hamburg - Berlin - Erfurt - München",
+        "ICE - Züge Kiel/Hamburg - Hannover - Kassel-Wilhelmshöhe - Frankfurt(M) - Stuttgart/Karlsruhe - Schweiz",
+        "ICE - Züge Kiel/Lübeck - Hamburg - Hannover - Kassel-Wilhelmshöhe - Würzburg - München",
+        "IC - Züge Hamburg - Padborg - Koebenhavn H",
+        "IC - Züge Kiel/Hamburg - Bremen - Köln - Frankfurt (M)/Stuttgart - Nürnberg/München"
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Nutzen Sie zwischen Hamburg-Harburg - Hamburg Hbf und Hamburg Dammtor Die S-Bahnlinie S 31.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "hh"
+      ],
+      "lastModified": "06.02.2022 17:29",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 201
     },
     {
       "id": "dcff8e8e-681e-416c-a16e-cf63281c922f",
