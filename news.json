@@ -73,7 +73,7 @@
       "introText": "<p>Aufgrund eines umgest&uuml;rzten Baumes auf der Strecke Hameln - Paderborn Hbf ist die Strecke zwischen Hameln und Bad Pyrmont in beide Richtungen gesperrt.</p>\n",
       "connectionsHeadline": "betroffen sind folgende Verbindungen:",
       "connections": [
-        "S 5  ( Hannover-Flughafen - Hannover Hbf - Hameln - Paderborn Hbf ) Züge aus Hannover enden / beginnen in Hameln. Züge aus Paderborn enden / beginnen in Bad Pyrmont. Zwischen Hameln und Bad Pyrmont ist ein Busnotverkehr mit zwei Bussen im Pendel eingerichtet. Rechnen Sie mit einer Reisezeitverlängerung bis zu 60 Minuten."
+        "S 5  ( Hannover-Flughafen - Hannover Hbf - Hameln - Paderborn Hbf ) Züge aus Hannover enden / beginnen in Hameln. Züge aus Paderborn enden / beginnen in Bad Pyrmont. Zwischen Hameln und Bad Pyrmont ist ein Busnotverkehr mit zwei Bussen im Pendel eingerichtet. Bitte rechnen Sie mit einer Reisezeitverlängerung bis zu 60 Minuten."
       ],
       "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>, in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a></u>&nbsp;oder beim regionalen Kundendialog unter 0511 45901645.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf&nbsp;<u><a href=\"https://twitter.com/DBRegio_NDS\" target=\"_blank\">Twitter</a></u>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "2",
@@ -84,9 +84,34 @@
         "hb",
         "ni"
       ],
-      "lastModified": "06.02.2022 16:10",
+      "lastModified": "06.02.2022 16:41",
       "expand": false,
       "priorityValue": 302
+    },
+    {
+      "id": "d2357b3b-f8c4-4341-86f4-1d7c77ab5191",
+      "headline": "Beeinträchtigung im Regionalverkehr auf der Strecke Hamburg Hbf - Hamburg-Altona",
+      "newsType": "Gleisunterspülung",
+      "timePeriod": "Sonntag, 6 Februar vsl. bis 21 Uhr",
+      "introText": "<p>Aufgrund einer Gleisuntersp&uuml;lung auf der Strecke Hamburg Hbf - Hamburg-Altona ist die Strecke in beide Richtungen gesperrt.</p>\n",
+      "connectionsHeadline": "Aktuell betroffen sind folgende Linien",
+      "connections": [
+        "RE 6 (Westerland - Hamburg-Altona) endet/beginnt in Elmshorn. Reisende nutzen zwischen Elmshorn - Hamburg Hbf die Züge der Linie RE 70. Bitte rechnen Sie mit einer Reisezeitverlängerung bis zu 60 Minuten.",
+        "RE 7 (Kiel Hbf - Hamburg Hbf) endet/beginnt in Hamburg-Altona. Reisende nutzen zwischen Hamburg Hbf - Hamburg-Altona bitte die S-Bahn. Bitte rechnen Sie mit einer Reisezeitverlängerung bis zu 60 Minuten.",
+        "RE 70 (Neumünster - Hamburg Hbf) verkehrt über Hamburg-Altona nach Hamburg Hbf. Bitte rechnen Sie mit einer Reisezeitverlängerung bis zu 60 Minuten."
+      ],
+      "closingText": "<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>, in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a></u>&nbsp;oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf&nbsp;<u><a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a></u>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "priority": "2",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sh"
+      ],
+      "lastModified": "06.02.2022 16:47",
+      "author": "schleswig_holstein",
+      "expand": false,
+      "priorityValue": 301
     },
     {
       "id": "2ceb214d-82fa-4433-81b4-d69b2b0ac5b8",
