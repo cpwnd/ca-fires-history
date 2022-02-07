@@ -29,26 +29,6 @@
       "priorityValue": 304
     },
     {
-      "id": "dcff8e8e-681e-416c-a16e-cf63281c922f",
-      "headline": "Ausfall ODEG-Ersatzverkehr",
-      "newsType": "kurzfristige Mitarbeiterausfälle",
-      "timePeriod": "7. bis 11. Februar 2022",
-      "introText": "<p>Aufgrund kurzfristiger Mitarbeiterausf&auml;lle fallen folgende Z&uuml;ge des ODEG-Ersatzverkehrs aus.</p>\n\n<p><strong>RE18448&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 5:48 Uhr ab Berlin-Gesundbrunnen nach Nauen</p>\n\n<p><strong>RE18442&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 7:21 Uhr ab Nauen nach Berlin-Ostkreuz</p>\n\n<p><strong>RE18449&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 15:54 Uhr ab Berlin Hbf(tief) nach Nauen</p>\n\n<p><strong>RE18444&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 16:44 Uhr ab Nauen nach Berlin-S&uuml;dkreuz</p>\n\n<p><strong>RE18447</strong>&nbsp;planm&auml;&szlig;ige Abfahrt 17:44 Uhr ab Berlin-S&uuml;dkreuz nach Nauen</p>\n\n<p><strong>RE18446</strong>&nbsp;planm&auml;&szlig;ige Abfahrt 18:39 Uhr ab Nauen nach Berlin Hbf(tief)</p>\n\n<p>Nutzen Sie bitte als Ersatz auch die Z&uuml;ge der Linie RB14 Nauen - Flughafen BER Terminal 1-2 und RB10 Nauen-Berlin S&uuml;dkreuz.</p>\n\n<p>&nbsp;</p>\n",
-      "connections": [],
-      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "06.02.2022 14:16",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
       "headline": "Meldungen der S-Bahn Berlin",
       "newsType": "Störung",
@@ -66,6 +46,41 @@
       "lastModified": "22.12.2021 03:42",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "25a57c20-a335-4fe4-9604-e86a361bbbb7",
+      "headline": "Vorübergehend leicht reduziertes Fahrplanangebot auf einigen Linien in Berlin und Brandenburg",
+      "newsType": "erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "bis vsl. 11.02.2022",
+      "introText": "<p>Auf einigen Linien in Berlin und Brandenburg muss das Fahrplanangebot geringf&uuml;gig reduziert werden.<br />\nGrund ist ein erh&ouml;hter Krankenstand beim Fahrpersonal.&nbsp;</p>\n",
+      "connectionsHeadline": "Folgende Linien sind betroffen:",
+      "connections": [
+        "ODEG Ersatzverkehr zwischen Nauen und Berlin - vsl. noch bis zum 11.02.22",
+        "RB66 zwischen Angermünde - Szczecin -  am 08.02. und 10.02.22"
+      ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:8be6960b-dc03-415d-9b57-f69f80f60456/20220202_BNV_BB_RB66_WA-XPSG_08.02.+10.02.2022__V3_SUh.pdf",
+            "title": "Ersatzverkehr RB66, alle anderen Züge unverändert (PDF, 73 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p><strong>ODEG Ersatzverkehr zwischen Nauen und Berlin - bereits laufend und vsl. noch bis zum 11.02.22</strong><br />\nWegen des erh&ouml;hten Krankenstandes beim Fahrpersonal fallen folgende Z&uuml;ge des ODEG-Ersatzverkehrs aus:<br />\n<strong>- RE18448&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 5:48 Uhr ab Berlin-Gesundbrunnen nach Nauen<br />\n-&nbsp;<strong>RE18442&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 7:21 Uhr ab Nauen nach Berlin Ostkreuz<br />\n-&nbsp;<strong>RE18449&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 15:54 Uhr ab Berlin Hbf(tief) nach Nauen<br />\n-&nbsp;<strong>RE18444&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 16:44 Uhr ab Nauen nach Berlin S&uuml;dkreuz<br />\n-&nbsp;<strong>RE18447</strong>&nbsp;planm&auml;&szlig;ige Abfahrt 17:44 Uhr ab Berlin S&uuml;dkreuz nach Nauen<br />\n-&nbsp;<strong>RE18446</strong>&nbsp;planm&auml;&szlig;ige Abfahrt 18:39 Uhr ab Nauen nach Berlin Hbf(tief)</p>\n\n<p>Nutzen Sie bitte als Ersatz die Z&uuml;ge der Linien RB14 Nauen - Flughafen BER Terminal 1-2 und RB10 Nauen - Berlin S&uuml;dkreuz.</p>\n\n<p><strong>RB66 zwischen Angerm&uuml;nde und Szczecin - am 08.02. und 10.02.22</strong><br />\nWegen des erh&ouml;hten Krankenstandes beim Fahrpersonal fallen folgende Z&uuml;ge der RB66 am 08.02. und 10.02.22 zwischen Angerm&uuml;nde und Szczecin aus und werden durch Busse ersetzt:<br />\n- RB5806&nbsp;planm&auml;&szlig;ige Abfahrt 5:44 Uhr ab Angerm&uuml;nde<br />\n- RB5808&nbsp;planm&auml;&szlig;ige Abfahrt 10:43 Uhr ab Angerm&uuml;nde<br />\n- RB5810&nbsp;planm&auml;&szlig;ige Abfahrt 13:40 Uhr ab Angerm&uuml;nde<br />\n- RB5807&nbsp;planm&auml;&szlig;ige Abfahrt 8:23 Uhr ab&nbsp;Szczecin Gl.<br />\n- RB5811&nbsp;planm&auml;&szlig;ige Abfahrt 12:13 Uhr ab&nbsp;Szczecin Gl.<br />\n- RB5813&nbsp;planm&auml;&szlig;ige Abfahrt 15:16 Uhr ab&nbsp;Szczecin Gl.</p>\n\n<p>&nbsp;Den Fahrplan des Ersatzverkehrs finden Sie in der beigef&uuml;gten Datei.&nbsp;</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "07.02.2022 14:22",
+      "author": "nordost",
+      "expand": false,
       "priorityValue": 102
     },
     {
