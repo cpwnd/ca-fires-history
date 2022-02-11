@@ -1,30 +1,6 @@
 {
   "news": [
     {
-      "id": "5541c1fa-4a33-4409-adf7-51f9c41617ca",
-      "headline": "Beeinträchtigungen im Zugverkehr zwischen Flensburg und Neumünster",
-      "newsType": "Weichenstörung",
-      "timePeriod": "11. Februar 2022 bis vsl. 12:00 Uhr",
-      "introText": "<p>Die Reparatur an der Weiche zwischen Owschlag und Rendsburg beendet.&nbsp;Der Ersatzverkehr mit Bus zwischen Husum und J&uuml;bek endet in K&uuml;rze. Bitte rechnen Sie noch mit Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffene Linien",
-      "connections": [
-        "RE 7 Flensburg - Neumünster - Hamburg Hbf",
-        "RE 74 Husum - Rendsburg - Kiel",
-        "RB 75 Kiel - Rendsburg -Flensburg"
-      ],
-      "closingText": "<p>&nbsp;Die ersten durchfahrenden Z&uuml;ge der Linie RE74 sind RE 21214 von Kiel nach Husum und RE 21221 von Husum nach Kiel Hbf. Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a>&nbsp;oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein <a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
-      "priority": "2",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "sh"
-      ],
-      "lastModified": "11.02.2022 11:43",
-      "expand": false,
-      "priorityValue": 301
-    },
-    {
       "id": "99c3d4b0-0c13-4671-a4b1-8cc85a958eaa",
       "headline": "Ausfall der Züge der RB93 zwischen  Zagan und Forst(Lausitz) ",
       "newsType": "Betriebliche Gründe",
@@ -304,15 +280,14 @@
     },
     {
       "id": "b6dfd586-5a90-411a-ac40-832334963dca",
-      "headline": "Streckensperrung zwischen Entringen und Herrenberg",
-      "newsType": "Feuerwehreinsatz in Gleisnähe",
-      "timePeriod": "Bis voraussichtlich heute, 11. Februar 2022",
-      "introText": "<p>Ein Feuerwehreinsatz in Gleisn&auml;he beeintr&auml;chtigt den Bahnverkehr zwischen Entringen und Herrenberg. Die Strecke ist gesperrt. Die Z&uuml;ge aus Richtung T&uuml;bingen Hbf enden und beginnen in Entringen. Ersatzverkehr ist zwischen Entringen und Herrenberg im Pendel eingerichtet. Die Strecke ist vsl. bis in die Mittagsstunden gesperrt. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
+      "headline": "Streckensperrung zwischen Entringen und Herrenberg aufgehoben",
+      "newsType": "Feuerwehreinsatz in Gleisnähe beendet",
+      "introText": "<p>Der Feuerwehreinsatz auf der Strecke zwischen Entringen und Herrenberg ist beendet. Die Streckensperrung ist aufgehoben. Der Ersatzverkehr mit Bus zwischen Entringen und Herrenberg endet in K&uuml;rze. Rechnen Sie noch gegebenenfalls mit Folgeversp&auml;tungen und Teilausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffene Strecke:",
       "connections": [
         "Entringen - Herrenberg"
       ],
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "closingText": "<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -320,7 +295,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "11.02.2022 08:22",
+      "lastModified": "11.02.2022 12:09",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
