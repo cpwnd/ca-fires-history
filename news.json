@@ -4,7 +4,7 @@
       "id": "5541c1fa-4a33-4409-adf7-51f9c41617ca",
       "headline": "Beeinträchtigungen im Zugverkehr zwischen Flensburg und Neumünster",
       "newsType": "Weichenstörung",
-      "timePeriod": "11. Februar 2022 bis vsl. 10:00 Uhr",
+      "timePeriod": "11. Februar 2022 bis vsl. 12:00 Uhr",
       "introText": "<p>Aufgrund einer Weichenst&ouml;rung zwischen Owschlag und Rendsburg, kommt es im Regionalverkehr der DB Regio Schleswig Holstein derzeit zu Versp&auml;tungen und Teilausf&auml;llen in beiden Richtungen.</p>\n",
       "connectionsHeadline": "Betroffene Linien",
       "connections": [
@@ -20,9 +20,30 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "11.02.2022 02:52",
+      "lastModified": "11.02.2022 06:48",
       "expand": false,
       "priorityValue": 301
+    },
+    {
+      "id": "99c3d4b0-0c13-4671-a4b1-8cc85a958eaa",
+      "headline": "Ausfall der Züge der RB93 zwischen  Zagan und Forst(Lausitz) ",
+      "newsType": "Betriebliche Gründe",
+      "timePeriod": "11. Februar 2022",
+      "connections": [
+        "RB93  Zagan - Forst(Lausitz)"
+      ],
+      "closingText": "<p>Aus betrieblichen Gr&uuml;nden&nbsp;fallen folgende Z&uuml;ge von Zagan nach Forst(Lausitz) aus:</p>\n\n<p><strong>RB5840 </strong>planm&auml;&szlig;ige Abfahrt 6:01 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5841&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp;6:58 Uhr ab&nbsp;Forst(Lausitz) nach Zagan</p>\n\n<p><strong>RB5848&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp;8:36 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5849 </strong>planm&auml;&szlig;ige Abfahrt 9:50 Uhr ab<strong>&nbsp;</strong>Forst(Lausitz) nach Zagan</p>\n\n<p><strong>RB5844</strong> planm&auml;&szlig;ige Abfahrt 16:37 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5845</strong> planm&auml;&szlig;ige Abfahrt 17:38 Uhr ab Forst(Lausitz) nach Zagan</p>\n\n<p>Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Forst (Lausitz) und Zagan und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881\" style=\"color:blue; text-decoration:underline\">0331 235 6881 </a>und<a href=\"tel: 0385%20750%202405 \" style=\"color:blue; text-decoration:underline\">&nbsp;0385 750 2405</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "11.02.2022 07:23",
+      "expand": false,
+      "priorityValue": 102
     },
     {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
