@@ -37,27 +37,26 @@
       "priorityValue": 316
     },
     {
-      "id": "7fee5df5-9bb7-4af4-91b1-5dc3fee80b4a",
-      "headline": "Beeinträchtigungen zwischen Koblenz und Mainz",
-      "newsType": "Defektes Stellwerk\t",
-      "timePeriod": "vsl. bis Mittwoch, 16.02.2022, in die Mittagsstunden",
-      "introText": "<p>Aufgrund eines defekten Stellwerkes in Bingen(Rhein) kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p><strong>Die Strecke zwischen Koblenz und Mainz ist inzwischen wieder befahrbar. Es kommt jedoch weiterhin zu Versp&auml;tungen im betroffenen Streckenabschnitt. Die Halte Boppard und Bingen (Rhein) Hbf werden wieder bedient.</strong></p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "id": "8158bc72-df2b-4460-9880-681d6719be37",
+      "headline": "Angebotsanpassungen S 2",
+      "newsType": "erhöhte Krankenstände des Zugpersonals",
+      "timePeriod": "ab Montag, 21. Februar bis 05. März 2022",
+      "introText": "<p>Wie &uuml;berall in Deutschland beobachten wir derzeit erh&ouml;hte Krankenst&auml;nde. Aus diesem Grund haben wir die Linie S2 moderat angepasst. Wir bitten die Unannehmlichkeiten zu entschuldigen.</p>\n",
       "connections": [
-        "Alle ICE, IC/EC Züge zwischen Koblenz und Mainz."
+        "S 2 Pirna - Dresden Hbf - Dresden Flughafen"
       ],
-      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
+      "closingText": "<p>Z&uuml;ge der S2 fahren von <strong>Dresden Hauptbahnhof </strong>bis <strong>Dresden Flughafen</strong>. Zwischen <strong>Pirna</strong> und <strong>Dresden Hauptbahnhof</strong> k&ouml;nnen Fahrg&auml;ste die Z&uuml;ge der Linie S1 nutzen.</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft unter 030 297 0 zu informieren.</p>\n",
+      "priority": "1",
       "distance": [
-        "longDistance"
+        "regional"
       ],
       "areas": [
-        "rp"
+        "sn"
       ],
-      "lastModified": "16.02.2022 11:04",
-      "author": "fernverkehr_ag",
+      "lastModified": "16.02.2022 15:58",
+      "author": "suedost",
       "expand": false,
-      "priorityValue": 301
+      "priorityValue": 201
     },
     {
       "id": "7b74d6f4-7670-496d-abf9-f02e5e45235b",
@@ -146,9 +145,10 @@
       "connections": [
         "RE6 zwischen Wittenberge und Neuruppin",
         "RB23 zwischen Potsdam Hbf und Michendorf",
+        "RB55 zwischen Kremmen und Hennigsdorf ",
         "RB66 zwischen Angermünde und Szczecin"
       ],
-      "closingText": "<p><strong>RE6 Wittenberge - Neuruppin</strong><br />\nInformation folgt<br />\n<br />\n<strong>RB23 Potsdam Hbf - Michendorf</strong><br />\nRB 18140 entf&auml;llt zwischen Potsdam Hbf und Michendorf<br />\nRB 18141 entf&auml;llt zwischen Michendorf &ndash; Potsdam Hbf<br />\nRB 18142entf&auml;llt zwischen Potsdam Hbf und Michendorf<br />\nRB 18143 entf&auml;llt zwischen Michendorf &ndash; Potsdam Hbf</p>\n\n<p><strong>RB66 Angerm&uuml;nde -&nbsp;Szczecin Gł&oacute;wny</strong><br />\nRB5819 entf&auml;llt&nbsp;Szczecin Gł&oacute;wny &ndash; Angerm&uuml;nde<br />\nnachfolgende Z&uuml;ge mit zum Teil erheblichen Versp&auml;tungen</p>\n\n<p><strong>Unabh&auml;ngig davon kann es am gesamten Donnerstag je nach St&auml;rke der Unwetterauswirkungen zu weiteren Versp&auml;tungen und Zugausf&auml;llen kommen, &uuml;ber die wir an dieser Stelle informieren werden.</strong></p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n",
+      "closingText": "<p><strong>RE6 Wittenberge - Neuruppin</strong><br />\nRE3601 entf&auml;llt Hennigsdorf - Berlin Gesundbrunnen<br />\nRE3622&nbsp;entf&auml;llt Berlin Gesundbrunnen - Hennigsdorf<br />\nRE3621 entf&auml;llt Wittstock - Neuruppin<br />\nRE3623&nbsp;entf&auml;llt Wittenberge - Wittstock<br />\nRE3603&nbsp;entf&auml;llt Wittenberge - Wittstock<br />\nRE3600&nbsp;entf&auml;llt Wittstock - Wittenberge<br />\n<br />\n<strong>RB55&nbsp;Kremmen und Hennigsdorf&nbsp;</strong><br />\nRB18586&nbsp;entf&auml;llt Hennigsdorf - Velten<br />\nRB18587entf&auml;llt Velten - Hennigsdorf<br />\nRB18550&nbsp;entf&auml;llt Hennigsdorf - Kremmen<br />\nRB18551 entf&auml;llt Kremmen - Hennigsdorf<br />\nRB18552&nbsp;entf&auml;llt Hennigsdorf - Kremmen<br />\nRB18553&nbsp;entf&auml;llt Kremmen - Hennigsdorf<br />\n<br />\n<strong>RB23 Potsdam Hbf - Michendorf</strong><br />\nRB18140 entf&auml;llt Potsdam Hbf - Michendorf<br />\nRB18141 entf&auml;llt Michendorf &ndash; Potsdam Hbf<br />\nRB18142entf&auml;llt Potsdam Hbf - Michendorf&nbsp;<br />\nRB18143 entf&auml;llt Michendorf &ndash; Potsdam Hbf</p>\n\n<p><strong>RB66 Angerm&uuml;nde -&nbsp;Szczecin Gł&oacute;wny</strong><br />\nRB5819 entf&auml;llt&nbsp;Szczecin Gł&oacute;wny &ndash; Angerm&uuml;nde<br />\nnachfolgende Z&uuml;ge mit zum Teil erheblichen Versp&auml;tungen</p>\n\n<p><strong>Unabh&auml;ngig davon kann es am gesamten Donnerstag je nach St&auml;rke der Unwetterauswirkungen zu weiteren Versp&auml;tungen und Zugausf&auml;llen kommen, &uuml;ber die wir an dieser Stelle informieren werden.</strong></p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -157,7 +157,7 @@
         "be",
         "br"
       ],
-      "lastModified": "16.02.2022 15:48",
+      "lastModified": "16.02.2022 16:20",
       "author": "nordost",
       "expand": true,
       "priorityValue": 102
@@ -250,14 +250,15 @@
       "headline": "Unwetterwarnung: Auswirkungen auf Bahnverkehr in Mecklenburg-Vorpommern am 17. Februar 2022",
       "newsType": "Unwetterwarnung",
       "timePeriod": "17. Februar 2022 ab Betriebsbeginn",
-      "introText": "<p>Auf Grund der Unwetterwarnung des Deutschen Wetterdienstes und den damit erforderlichen Sicherheitsma&szlig;nahmen werden in den Morgenstunden des 17. Februar 2022 (Do) auf einigen Linien folgende Fahrplan&auml;nderungen erforderlich:</p>\n\n<p>- Die Betriebsaufnahme erfolgt erst um 6.30 Uhr, davor verkehrende Z&uuml;ge fallen aus.<br />\n- Die konkreten Fahrten finden Sie demn&auml;chst hier.<br />\n- Die Z&uuml;ge fahren mit verminderter Geschwindigkeit, somit kommt es zus&auml;tzlich zu Versp&auml;tungen.</p>\n",
+      "introText": "<p>Auf Grund der Unwetterwarnung des Deutschen Wetterdienstes und den damit erforderlichen Sicherheitsma&szlig;nahmen werden in den Morgenstunden des 17. Februar 2022 (Do) auf einigen Linien folgende Fahrplan&auml;nderungen erforderlich:</p>\n\n<p>- Die Betriebsaufnahme erfolgt erst um 6.30 Uhr, davor verkehrende Z&uuml;ge fallen aus.<br />\n- Die konkreten Fahrten finden Sie im nachfolgenden Text.<br />\n- Die nachfolgenden Z&uuml;ge fahren mit verminderter Geschwindigkeit, somit kommt es zus&auml;tzlich zu Versp&auml;tungen.</p>\n",
       "connectionsHeadline": "In Mecklenburg-Vorpommern sind folgende Linien betroffen:",
       "connections": [
         "RE4 - zwischen Lübeck - Bad Kleinen - Neubrandenburg - Pasewalk - Szczecin/Ueckermünde",
         "RE5 - zwischen Neubrandenburg - Altentreptow",
-        "RB11 - zwischen Wismar - Bad Doberan"
+        "RB11 - zwischen Wismar - Bad Doberan",
+        "RB12 - zwischen"
       ],
-      "closingText": "<p>Unabh&auml;ngig davon&nbsp;kann es am gesamten Donnerstag je nach St&auml;rke der Unwetterauswirkungen zu weiteren Versp&auml;tungen und Zugausf&auml;llen kommen, &uuml;ber die wir an dieser Stelle informieren werden.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n\n<p>&nbsp;</p>\n",
+      "closingText": "<p><strong>RE4&nbsp;L&uuml;beck - Bad Kleinen - Neubrandenburg - Pasewalk - Szczecin/Ueckerm&uuml;nde</strong><br />\nInformation folgt</p>\n\n<p><strong>RE5&nbsp;Neubrandenburg - Altentreptow</strong><br />\nInformation folgt<br />\n<br />\n<strong>RB11&nbsp;&nbsp;Wismar - Bad Doberan</strong><br />\nRB13100 entf&auml;llt Rostock - Wismar<br />\nRB13105 entf&auml;llt Wismar - Rostock<br />\nRB13107entf&auml;llt Wismar - Rostock<br />\nRB13102entf&auml;llt Rostock - Wismar<br />\nRB13111 entf&auml;llt Wismar - Rostock</p>\n\n<p><strong>RB12 Rostock - Graal M&uuml;ritz</strong><br />\nRB13223&nbsp;entf&auml;llt Rostock - Graal-M&uuml;ritz<br />\nRB13224 entf&auml;llt Graal-M&uuml;ritz - Rostock<br />\nRB13225 entf&auml;llt Rostock - Graal-M&uuml;ritz​​​​​​​</p>\n\n<p><strong>Unabh&auml;ngig davon&nbsp;kann es am gesamten Donnerstag je nach St&auml;rke der Unwetterauswirkungen zu weiteren Versp&auml;tungen und Zugausf&auml;llen kommen, &uuml;ber die wir an dieser Stelle informieren werden.</strong></p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n\n<p>&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -265,9 +266,9 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "16.02.2022 11:45",
+      "lastModified": "16.02.2022 16:07",
       "author": "nordost",
-      "expand": false,
+      "expand": true,
       "priorityValue": 101
     },
     {
