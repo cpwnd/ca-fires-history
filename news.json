@@ -186,11 +186,11 @@
         "RB 37 (Bremen Hbf - Uelzen): Nutzen Sie bitte den Ersatzverkehr mit einem Bus. Es verkehrt ein Bus je Richtung.",
         "RB 38 (Hannover Hbf - Buchholz (Nordheide)): Nutzen Sie bitte den Ersatzverkehr mit einem Bus. Es verkehrt ein Bus je Richtung.",
         "RB 77/79  (Bodenburg/Hildesheim Hbf - Bünde(Westf): Nutzen Sie bitte den Ersatzverkehr mit einem Bus. Es verkehrt ein Bus je Richtung.",
-        "S1 (Minden – Hannover Hbf – Haste): Aktuell kein Zugverkehr möglich.",
-        "S2 (Nienburg - Hannover - Haste): Aktuell kein Zugverkehr möglich.",
-        "S4 (Bennemühlen – Hildesheim Hbf): Aktuell kein Zugverkehr möglich.",
+        "S1 (Minden – Hannover Hbf – Haste): Züge verkehren aktuell im Abschnitt Haste - Hannover Hbf.",
+        "S2 (Nienburg - Hannover - Haste): Züge verkehren aktuell im Abschnitt Haste - Hannover Hbf.",
+        "S4 (Bennemühlen – Hildesheim Hbf): Züge verkehren aktuell im Abschnitt Bennemühlen - Hannover Hbf.",
         "S5 (Hannover Flughafen – Hameln (-Paderborn)): Aktuell kein Zugverkehr möglich.",
-        "S21 (Hannover Hbf – Barsinghausen): ",
+        "S21 (Hannover Hbf – Barsinghausen): Aktuell kein Zugverkehr möglich.",
         "S51 (Seelze – Hameln): Aktuell kein Zugverkehr möglich."
       ],
       "closingText": "<p>Der Ersatzverkehr kann auch von Sturmauswirkungen betroffen sein. Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung.</p>\n\n<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">bahn.de/reiseauskunft</a>&nbsp;oder&nbsp;in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a>.&nbsp;Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen auf&nbsp;<a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Auch den Twitterkan&auml;len der Start Unterelbe&nbsp;<a href=\"http://twitter.com/start_unterelbe\" target=\"_blank\">Twitter</a>&nbsp;oder Start Niedersachsen Mitte&nbsp;<a href=\"https://twitter.com/start_NI_mitte\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://twitter.com/start_ni_mitte\">Twitter</a>&nbsp;k&ouml;nnen Sie folgen.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
@@ -202,7 +202,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "17.02.2022 12:08",
+      "lastModified": "17.02.2022 12:17",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
@@ -494,11 +494,10 @@
     },
     {
       "id": "e81bf9c3-d65a-435f-a2ec-3d4f47c9ff02",
-      "headline": "Unwetter: Aktuelle Beeinträchtigungen im Regionalverkehr in Bayern ",
+      "headline": "Unwetterschäden: Aktuelle Beeinträchtigungen im Regionalverkehr in Bayern ",
       "newsType": "Unwetter",
       "timePeriod": "17. - 19.02.2022 ",
       "introText": "<p>Aufgrund eines Unwetters kommt es vom 17. &ndash; 19. Februar zu&nbsp;Beeintr&auml;chtigungen im&nbsp;Regionalverkehr in&nbsp;Bayern.&nbsp;Eine kostenlose Servicenummer ist unter <a href=\"tel:08000 996633\">08000 996633</a> eingerichtet.</p>\n\n<p><strong>Hier geht es zur&nbsp;<a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\" target=\"_blank\">Aktuellen Betriebslage</a></strong></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffene Linien DB Regio Bayern: ",
       "connections": [],
       "closingText": "<p>Fahrg&auml;ste werden gebeten, auf den Bahnsteigen besondere Vorsicht walten zu lassen!</p>\n\n<p>Bitte informieren Sie sich regelm&auml;&szlig;ig auf <a href=\"https://www.bahn.de/\" target=\"_blank\">bahn.de</a> bzw. im <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a> oder in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">App DB Streckenagent</a> &uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p><a href=\"tel: 08000 996633\">Kostenfreie Sonderhotline 08000 996633</a>&nbsp;</p>\n\n<p>Zus&auml;tzlich: Verkehrsmeldungen 24/7 finden Sie auch auf unseren <a href=\"https://regional.bahn.de/regionen/bayern/service/streckenagent_anmeldung_twitter\" target=\"_blank\">Twitter-Kan&auml;len von DB Regio Bayern</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis. DB Regio AG, Region Bayern&nbsp;</p>\n",
       "priority": "0",
@@ -508,7 +507,7 @@
       "areas": [
         "by"
       ],
-      "lastModified": "17.02.2022 12:15",
+      "lastModified": "17.02.2022 12:24",
       "author": "bayern",
       "expand": true,
       "priorityValue": 101
