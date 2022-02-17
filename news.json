@@ -72,14 +72,13 @@
       "introText": "<p>Aufgrund eines Unwetters kann es vom 17. - 19.02.22 zu Beeintr&auml;chtigungen im Regionalverkehr in Nordbaden, Rheinland-Pfalz und im Saarland kommen.</p>\n",
       "connectionsHeadline": "Aktuell betroffene Linien und Abschnitte",
       "connections": [
-        "RE1/RB81 Koblenz <> Bullay <> Wittlich <> Trier",
-        "RB82 Koblenz <> Bullay <> Wittlich <> Perl",
         "RB23 Kaisersesch <> Mayen Ost <> Limburg(Lahn)",
         "RB38 Kaisersesch <> Mayen Ost <> Andernach",
         "RB67 Kaiserslautern <> Landstuhl <> Ramstein <> Altenglan <> Kusel",
-        ""
+        "RE1 Saarbrücken - Saarlouis - Trier",
+        "RB70 Saarbrücken - Dillingen - Merzig"
       ],
-      "closingText": "<p>Information zur&nbsp;<strong>RE1, RB81 &amp; RB82</strong><br />\nBaum auf der Strecke zwischen Bullay(DB) und &Uuml;rzig(DB) entfernt.<br />\nDer Zugverkehr wurde wieder aufgenommen.<br />\nBis sich der Bahnverkehr normalisiert hat, muss noch mit Folgeverz&ouml;gerungen und Fahrausf&auml;llen gerechnet werden.<br />\n<br />\nInformation zur&nbsp;<strong>RB23 &amp; RB38</strong><br />\nGegenst&auml;nde auf der Strecke zwischen Andernach und Kruft beseitigt.<br />\nDer Zugverkehr wurde wieder aufgenommen.<br />\nBis sich der Bahnverkehr normalisiert hat, muss noch mit Folgeverz&ouml;gerungen und Fahrausf&auml;llen gerechnet werden.<br />\n<br />\nInformation zur&nbsp;<strong>RB67</strong><br />\nBaum auf der Strecke zwischen Kusel und Altenglan beseitig.<br />\nBis sich der Bahnverkehr wieder normalisiert hat muss noch mit Folgeversp&auml;tungen und kurzfristigen Fahrtausf&auml;llen gerechnet werden.<br />\nWir haben f&uuml;r Sie einen Busnotverkehr mit zwei Bussen der Fa. Layer Reisen bis 9 Uhr zwischen Landstuhl und Kusel eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer des Unwetters auf jeden Fall mehr Reisezeit ein und&nbsp;informieren Sie sich regelm&auml;&szlig;ig kurz&nbsp;vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
+      "closingText": "<p><strong>RB23 &amp; RB38:&nbsp;</strong>Gegenst&auml;nde auf der Strecke zwischen Andernach und Kruft beseitigt.<br />\nDer Zugverkehr wurde wieder aufgenommen.<br />\nBis sich der Bahnverkehr normalisiert hat, muss noch mit Folgeverz&ouml;gerungen und Fahrausf&auml;llen gerechnet werden.<br />\n<br />\n<strong>RB67:&nbsp;</strong>Baum auf der Strecke zwischen Kusel und Altenglan beseitig.<br />\nBis sich der Bahnverkehr wieder normalisiert hat muss noch mit Folgeversp&auml;tungen und kurzfristigen Fahrtausf&auml;llen gerechnet werden.<br />\nWir haben f&uuml;r Sie einen Busnotverkehr mit zwei Bussen der Fa. Layer Reisen bis 9 Uhr zwischen Landstuhl und Kusel eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p><strong>RE1 &amp; RB70</strong>: Baum auf der Strecke zwischen Dillingen und Saarlouis. STreckenabschnitt eingleisig befahrbar. Es kommt zu Versp&auml;tungen. Kurzfristige Teilausf&auml;lle m&ouml;glich.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer des Unwetters auf jeden Fall mehr Reisezeit ein und&nbsp;informieren Sie sich regelm&auml;&szlig;ig kurz&nbsp;vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -90,7 +89,7 @@
         "rp",
         "sl"
       ],
-      "lastModified": "17.02.2022 08:09",
+      "lastModified": "17.02.2022 08:30",
       "expand": false,
       "priorityValue": 104
     },
@@ -190,29 +189,6 @@
       ],
       "lastModified": "17.02.2022 08:22",
       "author": "niedersachsen_bremen",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
-      "id": "2257ac28-0323-429f-9a46-85a07fd7faae",
-      "headline": "Unwetter: Regionalverkehr bei der Westfrankenbahn aktuell beeinträchtigt",
-      "newsType": "Aktuelle Sturmtiefs",
-      "timePeriod": "vsl. bis Samstag, den 19. Februar 2022",
-      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es aktuell bundesweit zu Versp&auml;tungen und Zugausf&auml;llen im Bahnverkehr.</p>\n\n<p><strong>Aktuell sind folgende Strecken bei der Westfrankenbahn beeintr&auml;chtigt:</strong></p>\n\n<p><strong>Aschaffenburg - Miltenberg</strong>:<strong>&nbsp;</strong>Der umgest&uuml;rzte Baum auf der Strecke zwischen Aschaffenburg Hbf und Miltenberg wurde beseitigt. Die Streckensperrung ist aufgehoben. In K&uuml;rze fahren die Z&uuml;ge wieder auf der geplanten Strecke mit allen geplanten Halten.</p>\n",
-      "connections": [
-        ""
-      ],
-      "closingText": "<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber <a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">Ihre Verbindung.</a>&nbsp;</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a>&nbsp;immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "by"
-      ],
-      "lastModified": "17.02.2022 08:10",
-      "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 102
     },
@@ -472,15 +448,16 @@
     {
       "id": "e81bf9c3-d65a-435f-a2ec-3d4f47c9ff02",
       "headline": "Unwetter: Aktuelle Beeinträchtigungen im Regionalverkehr in Bayern ",
-      "newsType": "Unwetter ",
+      "newsType": "Unwetter",
       "timePeriod": "17. - 19.02.2022 ",
-      "introText": "<p>Aufgrund eines Unwetters kommt es vom 17. &ndash; 19. Februar zu&nbsp;Beeintr&auml;chtigungen im&nbsp;Regionalverkehr in&nbsp;Bayern.&nbsp;Eine kostenlose Servicenummer ist unter <a href=\"tel:08000 996633\">08000 996633</a> eingerichtet.</p>\n\n<p><strong>Aktuell beroffen Linien (Stand: 17.02. / 7:00 Uhr)&nbsp;</strong></p>\n\n<p><br />\n<strong>M&uuml;nchen Hbf - Geltendorf - Buchloe:</strong> Gegenst&auml;nde auf der Strecke / Streckensperrung / Umleitung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p>Die Z&uuml;ge aus und in Richtung Kempten (Allg&auml;u) Hbf RE 70 und RE 76 werden zwischen Buchloe und M&uuml;nchen-Pasing &uuml;ber Augsburg Hbf umgeleitet.</p>\n\n<p><strong>F&uuml;rth(Bay) Hbf - Cadolzburg:</strong> Umgest&uuml;rzter Baum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen</p>\n\n<p>Die Z&uuml;ge aus Richtung F&uuml;rth(Bay)Hbf wenden vorzeitig in Zirndorf.</p>\n\n<p><strong>W&uuml;rzburg Hbf - Gem&uuml;nden (Main): </strong>Reparatur an der Oberleitung / Streckensperrung / Beeintr&auml;chtigungen</p>\n\n<p><strong>Nordostbayern:</strong> Zugverkehr wird teilweise eingestellt</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Hier geht es zur<a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\" target=\"_blank\">&nbsp;Aktuellen Betriebslage&nbsp;</a></strong></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+      "introText": "<p>Aufgrund eines Unwetters kommt es vom 17. &ndash; 19. Februar zu&nbsp;Beeintr&auml;chtigungen im&nbsp;Regionalverkehr in&nbsp;Bayern.&nbsp;Eine kostenlose Servicenummer ist unter <a href=\"tel:08000 996633\">08000 996633</a> eingerichtet.</p>\n\n<p><strong>Aktuell beroffen Linien (Stand: 17.02. / 7:00 Uhr)&nbsp;</strong></p>\n\n<p><br />\n<strong>M&uuml;nchen Hbf - Geltendorf - Buchloe:</strong> Gegenst&auml;nde auf der Strecke / Streckensperrung / Umleitung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p>Die Z&uuml;ge aus und in Richtung Kempten (Allg&auml;u) Hbf RE 70 und RE 76 werden zwischen Buchloe und M&uuml;nchen-Pasing &uuml;ber Augsburg Hbf umgeleitet.</p>\n\n<p><strong>F&uuml;rth(Bay) Hbf - Cadolzburg:</strong> Umgest&uuml;rzter Baum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen</p>\n\n<p>Die Z&uuml;ge aus Richtung F&uuml;rth(Bay)Hbf wenden vorzeitig in Zirndorf.</p>\n\n<p><strong>W&uuml;rzburg Hbf - Gem&uuml;nden (Main): </strong>Reparatur an der Oberleitung / Streckensperrung / Beeintr&auml;chtigungen</p>\n\n<p><strong>Nordostbayern:</strong> Zugverkehr wird teilweise eingestellt -&nbsp;Betroffen sind die Linien RE 30, RE 31, RE 32, RE 33, RE 35, RE 38, RE 39, RE 40, RE 41, RE 47</p>\n\n<p><strong>R&ouml;dental Mitte - M&ouml;nchr&ouml;den: B</strong>aum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Hier geht es zur<a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\" target=\"_blank\">&nbsp;Aktuellen Betriebslage&nbsp;</a></strong></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linien DB Regio Bayern: ",
       "connections": [
         "RE 70 und RE 76 Kempten - München Hbf ",
         "RB 53 / 54 / 55 Würzburg Hbf - Gemünden (Main)",
         "RB 11 Fürth Hbf - Cadolzburg ",
-        "Nordostbayern - Zugverkehr wird teilweise eingestellt "
+        "Nordostbayern - Zugverkehr wird teilweise eingestellt ",
+        "Re 19 und RE 49 Rödental Mitte - Mönchröden"
       ],
       "closingText": "<p>Fahrg&auml;ste werden gebeten, auf den Bahnsteigen besondere Vorsicht walten zu lassen!</p>\n\n<p>Bitte informieren Sie sich regelm&auml;&szlig;ig auf <a href=\"https://www.bahn.de/\" target=\"_blank\">bahn.de</a> bzw. im <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a> oder in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">App DB Streckenagent</a> &uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p><a href=\"tel: 08000 996633\">Kostenfreie Sonderhotline 08000 996633</a>&nbsp;</p>\n\n<p>Zus&auml;tzlich: Verkehrsmeldungen 24/7 finden Sie auch auf unseren <a href=\"https://regional.bahn.de/regionen/bayern/service/streckenagent_anmeldung_twitter\" target=\"_blank\">Twitter-Kan&auml;len von DB Regio Bayern</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis. DB Regio AG, Region Bayern&nbsp;</p>\n",
       "priority": "0",
@@ -490,7 +467,7 @@
       "areas": [
         "by"
       ],
-      "lastModified": "17.02.2022 08:02",
+      "lastModified": "17.02.2022 08:44",
       "author": "bayern",
       "expand": true,
       "priorityValue": 101
