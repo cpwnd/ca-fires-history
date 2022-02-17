@@ -281,7 +281,8 @@
       "headline": "Unwetter: Regionalverkehr in Schleswig-Holstein aktuell beeinträchtigt",
       "newsType": "aktuelle Sturmtiefs",
       "timePeriod": "vsl. bis Samstag, den 19. Februar 2022",
-      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es aktuell in Schleswig-Holstein zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr.</p>\n\n<p><strong>Folgende Linien sind derzeit nicht betroffen:</strong></p>\n",
+      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es aktuell in Schleswig-Holstein zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr.</p>\n",
+      "connectionsHeadline": "Aktuell nicht betroffene Linien und Abschnitte:",
       "connections": [
         "RE 6 Hamburg-Altona - Westerland: Verkehrt derzeit nur zwischen Itzehoe und Westerland (Sylt).",
         "RB 62 Heide - Itzehoe: Derzeit liegen keine Einschränkungen vor.",
@@ -295,10 +296,11 @@
         "RE 8 Lübeck Hbf – Hamburg Hbf: Derzeit liegen keine Einschränkungen vor.",
         "RE 80 Lübeck Hbf - Ahrensburg - Hamburg Hbf: Derzeit liegen keine Einschränkungen vor.",
         "RB 81 Bad Oldesloe - Hamburg Hbf: Derzeit liegen keine Einschränkungen vor.",
+        "RB 84 Kiel Hbf - Lübeck Hbf: Derzeit liegen keine Einschränkungen vor.",
         "RB 85 Lübeck Hbf - Puttgarden: Verkehrt derzeit nur zwischen Lübeck Hbf und Burg (Fehmarn).",
         "RB 86 Lübeck Hbf - Lübeck-Travemünde Strand: Derzeit liegen keine Einschränkungen vor."
       ],
-      "closingText": "<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>&nbsp;oder in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a></u>.&nbsp;Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf&nbsp;<u><a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a></u>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "closingText": "<p>Auf allen nicht genannten Linien und Abschnitten ist derzeit kein Zugverkehr m&ouml;glich.&nbsp;</p>\n\n<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>&nbsp;oder in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a></u>.&nbsp;Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf&nbsp;<u><a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a></u>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -306,7 +308,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "17.02.2022 09:21",
+      "lastModified": "17.02.2022 09:27",
       "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 101
@@ -431,7 +433,7 @@
     },
     {
       "id": "4ca09c74-098c-4c32-bd10-bc3654e57fab",
-      "headline": "Unwetterwarnung: Bahnverkehr der Kurhessenbahn beeinträchtigt",
+      "headline": "Unwetter: Bahnverkehr der Kurhessenbahn beeinträchtigt",
       "newsType": "Unwetter",
       "timePeriod": "Donnerstag, den 17. Februar 2022, ca. 12:00 Uhr",
       "introText": "<p>Es kommt im Bahnverkehr der Kurhessenbahn zu Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
@@ -443,7 +445,7 @@
         "RB94: Marburg(Lahn) - Biedenkopf - Bad Laasphe - Erndtebrück",
         "RB97 / RE97: Marburg(Lahn) - Frankenberg(Eder) - Korbach Hbf - Brilon Stadt"
       ],
-      "closingText": "<p><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></p>\n\n<p>-</p>\n\n<p><strong>17.02.2022</strong><br />\n&nbsp;</p>\n\n<p><strong><u>Einstellung des Zugverkehrs ab Betriebsbeginn bis vsl. 12:00 Uhr:</u></strong></p>\n\n<p><strong>RB4:</strong></p>\n\n<p>- Zugverkehr eingestellt.</p>\n\n<p><strong>RB38:</strong></p>\n\n<p>- Zugverkehr eingestellt.</p>\n\n<p><strong>RB39 / RE39:</strong>&nbsp;</p>\n\n<p>- Zugverkehr eingestellt.</p>\n\n<p><strong>RB94:</strong></p>\n\n<p>- Zugverkehr eingestellt.</p>\n\n<p><strong>RB97 / RE97:</strong></p>\n\n<p>- Zugverkehr eingestellt.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter: 069 24445710</p>\n",
+      "closingText": "<p><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></p>\n\n<p><strong><u>Einstellung des Zugverkehrs bis vsl. 12:00 Uhr:</u></strong></p>\n\n<p><strong>RB4:</strong></p>\n\n<p>- Zugverkehr eingestellt.</p>\n\n<p><strong>RB38:</strong></p>\n\n<p>- Zugverkehr eingestellt.</p>\n\n<p><strong>RB39 / RE39:</strong>&nbsp;</p>\n\n<p>- Zugverkehr eingestellt.</p>\n\n<p><strong>RB94:</strong></p>\n\n<p>- Zugverkehr eingestellt.</p>\n\n<p><strong>RB97 / RE97:</strong></p>\n\n<p>- Zugverkehr eingestellt.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter: 069 24445710</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -451,7 +453,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "17.02.2022 05:28",
+      "lastModified": "17.02.2022 09:22",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
@@ -461,7 +463,7 @@
       "headline": "Unwetter: Aktuelle Beeinträchtigungen im Regionalverkehr in Bayern ",
       "newsType": "Unwetter",
       "timePeriod": "17. - 19.02.2022 ",
-      "introText": "<p>Aufgrund eines Unwetters kommt es vom 17. &ndash; 19. Februar zu&nbsp;Beeintr&auml;chtigungen im&nbsp;Regionalverkehr in&nbsp;Bayern.&nbsp;Eine kostenlose Servicenummer ist unter <a href=\"tel:08000 996633\">08000 996633</a> eingerichtet.</p>\n\n<p><strong>Aktuell beroffen Linien (Stand: 17.02. / 08:58 Uhr)&nbsp;</strong></p>\n\n<p><br />\n<strong>M&uuml;nchen Hbf - Geltendorf - Buchloe:</strong> Gegenst&auml;nde auf der Strecke / Streckensperrung / Umleitung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p>Die Z&uuml;ge aus und in Richtung Kempten (Allg&auml;u) Hbf RE 70 und RE 76 werden zwischen Buchloe und M&uuml;nchen-Pasing &uuml;ber Augsburg Hbf umgeleitet.</p>\n\n<p><strong>F&uuml;rth(Bay) Hbf - Cadolzburg:</strong> Umgest&uuml;rzter Baum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen</p>\n\n<p>Die Z&uuml;ge aus Richtung F&uuml;rth(Bay)Hbf wenden vorzeitig in Zirndorf.</p>\n\n<p><strong>W&uuml;rzburg Hbf - Gem&uuml;nden (Main): </strong>Reparatur an der Oberleitung / Streckensperrung / Beeintr&auml;chtigungen</p>\n\n<p><strong>Nordostbayern:</strong> Zugverkehr wird teilweise eingestellt -&nbsp;Betroffen sind die Linien RE 30, RE 31, RE 32, RE 33, RE 35, RE 38, RE 39, RE 40, RE 41, RE 47</p>\n\n<p><strong>R&ouml;dental Mitte - M&ouml;nchr&ouml;den: </strong>Baum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p><strong>Landshut (Bay) Hbf - Regensburg Hbf:</strong> Reparatur an der Oberleitung / Keine Zugfahrten m&ouml;glich / Beeintr&auml;chtigungen</p>\n\n<p><strong>Sonneberg(Th&uuml;r) Hbf - Coburg:</strong> Baum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p><strong>Neunkirchen a Sand - Simmelsdorf-H&uuml;ttenbach: </strong>Baum auf der Strecke / Streckensperrung /Beeintr&auml;chtigungen</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Hier geht es zur&nbsp;<a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\" target=\"_blank\">Aktuellen Betriebslage</a></strong></p>\n\n<p>&nbsp;</p>\n",
+      "introText": "<p>Aufgrund eines Unwetters kommt es vom 17. &ndash; 19. Februar zu&nbsp;Beeintr&auml;chtigungen im&nbsp;Regionalverkehr in&nbsp;Bayern.&nbsp;Eine kostenlose Servicenummer ist unter <a href=\"tel:08000 996633\">08000 996633</a> eingerichtet.</p>\n\n<p><strong>Aktuell betroffene Linien:</strong></p>\n\n<p><br />\n<strong>M&uuml;nchen Hbf - Geltendorf - Buchloe:</strong> Gegenst&auml;nde auf der Strecke / Streckensperrung / Umleitung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p>Die Z&uuml;ge aus und in Richtung Kempten (Allg&auml;u) Hbf RE 70 und RE 76 werden zwischen Buchloe und M&uuml;nchen-Pasing &uuml;ber Augsburg Hbf umgeleitet.</p>\n\n<p><strong>F&uuml;rth(Bay) Hbf - Cadolzburg:</strong> Umgest&uuml;rzter Baum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen</p>\n\n<p>Die Z&uuml;ge aus Richtung F&uuml;rth(Bay)Hbf wenden vorzeitig in Zirndorf.</p>\n\n<p><strong>W&uuml;rzburg Hbf - Gem&uuml;nden (Main): </strong>Reparatur an der Oberleitung / Streckensperrung / Beeintr&auml;chtigungen</p>\n\n<p><strong>Nordostbayern:</strong> Zugverkehr wird teilweise eingestellt -&nbsp;Betroffen sind die Linien RE 30, RE 31, RE 32, RE 33, RE 35, RE 38, RE 39, RE 40, RE 41, RE 47</p>\n\n<p><strong>R&ouml;dental Mitte - M&ouml;nchr&ouml;den: </strong>Baum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p><strong>Landshut (Bay) Hbf - Regensburg Hbf:</strong> Reparatur an der Oberleitung / Keine Zugfahrten m&ouml;glich / Beeintr&auml;chtigungen</p>\n\n<p><strong>Sonneberg(Th&uuml;r) Hbf - Coburg:</strong> Baum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p><strong>Neunkirchen a Sand - Simmelsdorf-H&uuml;ttenbach: </strong>Baum auf der Strecke / Streckensperrung /Beeintr&auml;chtigungen</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Hier geht es zur&nbsp;<a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\" target=\"_blank\">Aktuellen Betriebslage</a></strong></p>\n\n<p>&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linien DB Regio Bayern: ",
       "connections": [
         "RE 70 und RE 76 Kempten - München Hbf ",
@@ -480,7 +482,7 @@
       "areas": [
         "by"
       ],
-      "lastModified": "17.02.2022 09:17",
+      "lastModified": "17.02.2022 09:28",
       "author": "bayern",
       "expand": true,
       "priorityValue": 101
