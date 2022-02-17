@@ -2,16 +2,16 @@
   "news": [
     {
       "id": "8717c5e9-3e97-49ca-aa74-35d1e150f4d6",
-      "headline": "Unwetter: Bahnverkehr bundesweit mit Schwerpunkt in der Nordhälfte Deutschlands aktuell beeinträchtigt",
+      "headline": "Unwetterschäden: Bahnverkehr bundesweit aktuell beeinträchtigt",
       "newsType": "aktuelle Sturmtiefs",
-      "timePeriod": "vsl. bis Samstag, den 19. Februar 2022",
-      "introText": "<p>Aufgrund von Unwettersch&auml;den&nbsp;kommt es aktuell bundesweit mit Schwerpunkt in der Nordh&auml;lfte Deutschlands zu Versp&auml;tungen und Zugausf&auml;llen im Bahnverkehr.</p>\n",
+      "timePeriod": "Im Zeitraum 17. bis 19. Februar 2022",
+      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es aktuell bundesweit zu Versp&auml;tungen und Zugausf&auml;llen im Bahnverkehr.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr: ",
       "connections": [
-        "In folgenden Bundesländern fahren derzeit keine Züge des Fernverkehrs: Niedersachsen, Bremen, Hamburg, Schleswig-Holstein, Mecklenburg-Vorpommern, Brandenburg, Berlin. ",
-        "Die Auswirkungen erstrecken sich jedoch auch auf andere Bundesländer, insbesondere auf Nordrhein-Westfalen, Rheinland-Pfalz, Hessen, Thüringen, Sachsen-Anhalt und Sachsen. ",
-        " Züge des Fernverkehrs enden und beginnen teilweise bereits deutlich vor den betroffenen Bundesländern. ",
-        "Prüfen Sie Ihre beabsichtigte Reiseverbindung bitte regelmäßig bis kurz vor Abfahrt auf aktuelle Änderungen."
+        "Es fahren aktuell keine Fernzüge nördlich der Bahnhöfe Münster(Westf), Hamm(Westf), Kassel-Wilhelmshöhe, Magdeburg und Berlin",
+        "ICE-Züge Frankfurt(Main) - Amsterdam werden zwischen Köln und Utrecht über Mönchengladbach umgeleitet. Ca. 60 Minuten Verspätung",
+        "ICE-Züge Frankfurt(Main) - Nürnberg - Passau - Wien warten derzeit in Regensburg bzw. Passau eine Streckensperrung ab",
+        "ECE-Züge München - Bregenz - Zürich fallen zwischen München und Lindau-Reutin aus."
       ],
       "closingText": "<p><strong>G&uuml;ltigkeit der Tickets</strong></p>\n\n<p>F&uuml;r den Zeitraum der aktuellen Sturmtiefs gelten besondere Kulanzregelungen f&uuml;r die G&uuml;ltigkeit bereits gekaufter Fernverkehrstickets:</p>\n\n<p>Alle Fahrg&auml;ste, die ihre f&uuml;r den Zeitraum vom&nbsp;17.02.22&nbsp;bis&nbsp;19.02.22 geplante Reise aufgrund der aktuellen Sturmtiefs verschieben m&ouml;chten, k&ouml;nnen ihr bereits gebuchtes Ticket f&uuml;r den Fernverkehr ab sofort bis einschlie&szlig;lich 7 Tage nach St&ouml;rungsende entweder flexibel nutzen oder kostenfrei stornieren. Auch Sitzplatzreservierungen k&ouml;nnen kostenfrei storniert werden.</p>\n\n<p>Zudem gelten bei Versp&auml;tung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter&nbsp;<a href=\"https://www.bahn.de/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Wir haben alle Informationen zu Reisen w&auml;hrend der aktuellen Sturmtiefs <a href=\"https://www.bahn.de/sonderkulanz\" style=\"color:#0563c1; text-decoration:underline\" title=\"https://www.bahn.de/sonderkulanz\">hier</a>&nbsp;nochmals ausf&uuml;hrlich f&uuml;r Sie zusammengestellt.</p>\n\n<p><strong>Kostenlose Sonderhotline</strong></p>\n\n<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet. Die Nummer lautet 08000 99 66 33.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der kostenlosen Sonderhotline Tel. +49 (0)8000 99 66 33.</p>\n",
       "priority": "2",
@@ -37,7 +37,7 @@
         "sh",
         "th"
       ],
-      "lastModified": "17.02.2022 07:38",
+      "lastModified": "17.02.2022 10:53",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 316
@@ -165,14 +165,36 @@
       "priorityValue": 102
     },
     {
-      "id": "b82fa67c-f0c6-4203-b7c6-b99af51480d0",
+      "id": "24a1f1a0-0691-4b67-987f-c3a58f6c4600",
       "headline": "Unwetter: Regionalverkehr in Niedersachsen und Bremen aktuell beeinträchtigt",
       "newsType": "aktuelle Sturmtiefs",
       "timePeriod": "vsl. bis Samstag, den 19. Februar 2022",
-      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es aktuell in Niedersachsen und Bremen&nbsp;zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr.</p>\n",
+      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es aktuell in Niedersachsen und Bremen&nbsp;zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr.</p>\n\n<p>Der Betrieb ist bisher weiter eingestellt, es werden jetzt Erkundungsfahrten auf den verschiedenen Linien geplant. Es wurde versucht einen Busnotverkehr einzurichten, leider konnten nicht auf allen Linien Busunternehmen von der SEV GmbH gestellt werden.</p>\n",
       "connectionsHeadline": "Alle Linien sind derzeit betroffen.",
-      "connections": [],
-      "closingText": "<p>Die Z&uuml;ge der DB Regio Niedersachsen und Bremen, die Z&uuml;ge der S-Bahn Hannover sowie die Z&uuml;ge der Start Niedersachsen Mitte und Start Unterelbe entfallen bis vsl. 17. Februar 2022, vormittags (mind. bis 11:00 Uhr).</p>\n\n<p>Ersatzverkehr mit Bussen im Pendel zwischen Cuxhaven und Stade und zwischen Stade und Hamburg-Neugraben eingerichtet. Witterungsbedingt kommt es auch hier zu Reisezeitverl&auml;ngerungen.</p>\n\n<p>Auf allen weiteren Strecken ist die&nbsp; Einrichtung von Ersatzverkehren mit Bussen witterungsbedingt leider nicht m&ouml;glich.&nbsp;</p>\n\n<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">bahn.de/reiseauskunft</a>&nbsp;oder&nbsp;in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a>.&nbsp;Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen auf&nbsp;<a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Auch den Twitterkan&auml;len der Start Unterelbe&nbsp;<a href=\"http://twitter.com/start_unterelbe\" target=\"_blank\">Twitter</a>&nbsp;oder Start Niedersachsen Mitte&nbsp;<a href=\"https://twitter.com/start_NI_mitte\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://twitter.com/start_ni_mitte\">Twitter</a>&nbsp;k&ouml;nnen Sie folgen.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "connections": [
+        "RE 1 (Nordddeich(Mole) - Bremen Hbf – Hannover Hbf): Zugverkehr wird aufgenommen. Erster Zug RE 4414, planmäßige Abfahrt in Hannover Hbf um 11:20 Uhr, beginnt um 11:54 Uhr in Nienburg (Weser).",
+        "RE 8 (Bremerhaven-Lehe – Hannover Hbf): Aktuell kein Zugverkehr möglich.",
+        "RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe): Aktuell kein Zugverkehr möglich.",
+        "RB 40 (Braunschweig Hbf – Helmstedt): Aktuell kein Zugverkehr möglich.",
+        "RB 44 (Braunschweig - Salzgitter-Lebenstedt): Aktuell kein Zugverkehr möglich.",
+        "RB 45 (Braunschweig Hbf – Schöppenstedt): Aktuell kein Zugverkehr möglich.",
+        "RB 46 (Braunschweig Hbf – Herzberg(Harz): Aktuell kein Zugverkehr möglich.",
+        "RB 48 (Braunschweig–Salzgitter-Lebenstedt): Aktuell kein Zugverkehr möglich.",
+        "RB 80/81 (Göttingen/Bodenfelde – Nordhausen): Aktuell kein Zugverkehr möglich.",
+        "RB 82 (Göttingen – Kreiensen – Bad Harzburg): Aktuell kein Zugverkehr möglich.",
+        "RB 86 (Einbeck Mitte – Göttingen): Aktuell kein Zugverkehr möglich.",
+        "RE 5 (Cuxhaven – Hamburg Hbf): Busnotverkehr von Cuxhaven bis Stade und von Stade bis Hamburg-Neugraben im Pendel eingerichtet..",
+        "RB 37 (Bremen Hbf - Uelzen): Nutzen Sie bitte den Ersatzverkehr mit einem Bus. Es verkehrt ein Bus je Richtung.",
+        "RB 38 (Hannover Hbf - Buchholz (Nordheide)): Nutzen Sie bitte den Ersatzverkehr mit einem Bus. Es verkehrt ein Bus je Richtung.",
+        "RB 77/79  (Bodenburg/Hildesheim Hbf - Bünde(Westf): Nutzen Sie bitte den Ersatzverkehr mit einem Bus. Es verkehrt ein Bus je Richtung.",
+        "S1 (Minden – Hannover Hbf – Haste): Aktuell kein Zugverkehr möglich.",
+        "S2 (Nienburg - Hannover - Haste): Aktuell kein Zugverkehr möglich.",
+        "S4 (Bennemühlen – Hildesheim Hbf): Aktuell kein Zugverkehr möglich.",
+        "S5 (Hannover Flughafen – Hameln (-Paderborn)): Aktuell kein Zugverkehr möglich.",
+        "S21 (Hannover Hbf – Barsinghausen): ",
+        "S51 (Seelze – Hameln): Aktuell kein Zugverkehr möglich."
+      ],
+      "closingText": "<p>Der Ersatzverkehr kann auch von Sturmauswirkungen betroffen sein. Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung.</p>\n\n<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">bahn.de/reiseauskunft</a>&nbsp;oder&nbsp;in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a>.&nbsp;Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen auf&nbsp;<a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Auch den Twitterkan&auml;len der Start Unterelbe&nbsp;<a href=\"http://twitter.com/start_unterelbe\" target=\"_blank\">Twitter</a>&nbsp;oder Start Niedersachsen Mitte&nbsp;<a href=\"https://twitter.com/start_NI_mitte\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://twitter.com/start_ni_mitte\">Twitter</a>&nbsp;k&ouml;nnen Sie folgen.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -181,7 +203,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "17.02.2022 10:08",
+      "lastModified": "17.02.2022 11:12",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
@@ -481,17 +503,13 @@
       "headline": "Unwetter: Aktuelle Beeinträchtigungen im Regionalverkehr in Bayern ",
       "newsType": "Unwetter",
       "timePeriod": "17. - 19.02.2022 ",
-      "introText": "<p>Aufgrund eines Unwetters kommt es vom 17. &ndash; 19. Februar zu&nbsp;Beeintr&auml;chtigungen im&nbsp;Regionalverkehr in&nbsp;Bayern.&nbsp;Eine kostenlose Servicenummer ist unter <a href=\"tel:08000 996633\">08000 996633</a> eingerichtet.</p>\n\n<p><strong>Aktuell betroffene Linien:</strong></p>\n\n<p><br />\n<strong>M&uuml;nchen Hbf - Geltendorf - Buchloe:</strong> Gegenst&auml;nde auf der Strecke / Streckensperrung / Umleitung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p><strong>F&uuml;rth(Bay) Hbf - Cadolzburg:</strong> Umgest&uuml;rzter Baum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen</p>\n\n<p><strong>W&uuml;rzburg Hbf - Gem&uuml;nden (Main): </strong>Reparatur an der Oberleitung / Streckensperrung / Beeintr&auml;chtigungen</p>\n\n<p><strong>Nordostbayern:</strong> Zugverkehr wird teilweise eingestellt -&nbsp;Betroffen sind die Linien RE 30, RE 31, RE 32, RE 33, RE 35, RE 38, RE 39, RE 40, RE 41, RE 47</p>\n\n<p><strong>R&ouml;dental Mitte - M&ouml;nchr&ouml;den: </strong>Baum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p><strong>Landshut (Bay) Hbf - Regensburg Hbf:</strong> Reparatur an der Oberleitung / Keine Zugfahrten m&ouml;glich / Beeintr&auml;chtigungen</p>\n\n<p><strong>Sonneberg(Th&uuml;r) Hbf - Coburg:</strong> Baum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p><strong>N&uuml;rnberg Nordost und Gr&auml;fenberg:&nbsp;</strong>Baum auf der Strecke / Streckensperrung / Beeintr&auml;chtigungen</p>\n\n<p><strong>Ansbach - Domb&uuml;hl:&nbsp;</strong>Umgest&uuml;rzter Baum auf der Strecke / Beeintr&auml;chtigungen</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Hier geht es zur&nbsp;<a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\" target=\"_blank\">Aktuellen Betriebslage</a></strong></p>\n\n<p>&nbsp;</p>\n",
+      "introText": "<p>Aufgrund eines Unwetters kommt es vom 17. &ndash; 19. Februar zu&nbsp;Beeintr&auml;chtigungen im&nbsp;Regionalverkehr in&nbsp;Bayern.&nbsp;Eine kostenlose Servicenummer ist unter <a href=\"tel:08000 996633\">08000 996633</a> eingerichtet.</p>\n\n<p><strong>Aktuell betroffene Linien:</strong></p>\n\n<p><br />\n<strong>M&uuml;nchen Hbf - Geltendorf - Buchloe:</strong> Gegenst&auml;nde auf der Strecke / Streckensperrung / Umleitung / Beeintr&auml;chtigungen / Schienenersatzverkehr</p>\n\n<p><strong>Nordostbayern:</strong> Zugverkehr wird teilweise eingestellt -&nbsp;Betroffen sind die Linien RE 30, RE 31, RE 32, RE 33, RE 35, RE 38, RE 39, RE 40, RE 41, RE 47</p>\n\n<p><strong>Landshut (Bay) Hbf - Regensburg Hbf:</strong> Reparatur an der Oberleitung / Keine Zugfahrten m&ouml;glich / Beeintr&auml;chtigungen</p>\n\n<p><strong>M&uuml;nchen Hbf - Garmisch-Partenkirchen:</strong> Baum auf der Strecke / Beeintr&auml;chtigungen</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Hier geht es zur&nbsp;<a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\" target=\"_blank\">Aktuellen Betriebslage</a></strong></p>\n\n<p>&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linien DB Regio Bayern: ",
       "connections": [
         "RE 70 und RE 76 Kempten - München Hbf ",
-        "RB 53 / 54 / 55 Würzburg Hbf - Gemünden (Main)",
-        "RB 11 Fürth Hbf - Cadolzburg ",
-        "Nordostbayern - Zugverkehr wird teilweise eingestellt ",
-        "Re 19 und RE 49 Rödental Mitte - Mönchröden / Sonneberg (Thür) Hbf - Coburg ",
         "RE 22 und RE 50 Landshut (Bay) Hbf - Regensburg Hbf",
-        "RB 21 Nürnberg Nordost und Gräfenberg",
-        "S4  Ansbach - Dombühl"
+        "Nordostbayern: Zugverkehr wurde teilweise eingestellt",
+        "RB 6 und RB 60 München Hbf - Garmisch-Partenkirchen"
       ],
       "closingText": "<p>Fahrg&auml;ste werden gebeten, auf den Bahnsteigen besondere Vorsicht walten zu lassen!</p>\n\n<p>Bitte informieren Sie sich regelm&auml;&szlig;ig auf <a href=\"https://www.bahn.de/\" target=\"_blank\">bahn.de</a> bzw. im <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a> oder in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">App DB Streckenagent</a> &uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p><a href=\"tel: 08000 996633\">Kostenfreie Sonderhotline 08000 996633</a>&nbsp;</p>\n\n<p>Zus&auml;tzlich: Verkehrsmeldungen 24/7 finden Sie auch auf unseren <a href=\"https://regional.bahn.de/regionen/bayern/service/streckenagent_anmeldung_twitter\" target=\"_blank\">Twitter-Kan&auml;len von DB Regio Bayern</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis. DB Regio AG, Region Bayern&nbsp;</p>\n",
       "priority": "0",
@@ -501,7 +519,7 @@
       "areas": [
         "by"
       ],
-      "lastModified": "17.02.2022 10:15",
+      "lastModified": "17.02.2022 11:01",
       "author": "bayern",
       "expand": true,
       "priorityValue": 101
@@ -539,6 +557,26 @@
       "lastModified": "13.12.2021 17:08",
       "author": "bayern",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "0a523c6b-c2fb-42b7-bd2a-4606851139d5",
+      "headline": "Unwetter: Bahnverkehr in Baden-Württemberg bei der DB Regio AG aktuell beeinträchtigt",
+      "newsType": "Aktuelle Sturmtiefs",
+      "timePeriod": "vsl. bis Samstag, den 19. Februar 2022",
+      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es aktuell bundesweit zu Versp&auml;tungen und Zugausf&auml;llen im Bahnverkehr.</p>\n\n<p><strong>Aktuell sind folgende Strecken beeintr&auml;chtigt:</strong></p>\n\n<p><strong>Winnenden - Backnang</strong></p>\n\n<p>Ein umgest&uuml;rzter Baum auf der Strecke beeintr&auml;chtigt den Zugverkehr zwischen Winnenden und Backnang. Die Strecke ist gesperrt. In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen. Bisher haben wir leider keine Informationen zur Dauer der St&ouml;rung. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber <a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">Ihre Verbindung.</a>&nbsp;</p>\n\n<p><br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a>&nbsp;immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "17.02.2022 10:51",
+      "author": "baden_wuerttemberg",
+      "expand": false,
       "priorityValue": 101
     },
     {
