@@ -219,8 +219,37 @@
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "ab 21. Februar 2022",
-      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal kommt es&nbsp;in den n&auml;chsten Tagen zu Zugausf&auml;llen. Wo es m&ouml;glich ist, wird Ersatzverkehr mit Bussen bereitgestellt.</p>\n\n<p>Bitte informieren Sie sich tagesaktuell in den Online-Reiseausk&uuml;nften oder &uuml;ber die App DB-Streckenagent.</p>\n\n<p><strong>In K&uuml;rze finden Sie hier die Tabellen f&uuml;r das reduzierte Fahrplan-Angebot.</strong></p>\n",
+      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal kommt es&nbsp;in den n&auml;chsten Tagen zu Zugausf&auml;llen. Wo es m&ouml;glich ist, wird Ersatzverkehr mit Bussen bereitgestellt.</p>\n\n<p>Bitte informieren Sie sich tagesaktuell in den Online-Reiseausk&uuml;nften oder &uuml;ber die App DB-Streckenagent.</p>\n\n<p>&nbsp;</p>\n",
+      "connectionsHeadline": "Hier finden Sie die Tabellen für das reduzierte Fahrplan-Angebot:",
       "connections": [],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:b82a2240-4218-4153-9046-7234da060c77/Maintalbahn_reduziertes_Angebot_210222_250222.pdf",
+            "title": "Aschaffenburg - Miltenberg - Wertheim (Maintalbahn) (PDF, 454 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:7794e13a-eb97-48cf-9659-03b358ba7338/Tauberbahn_reduziertes_Angebot_210222_250222.pdf",
+            "title": "Wertheim - Lauda - Crailsheim (Tauberbahn) (PDF, 456 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:909e50fd-55eb-4f7e-81dd-ada2609e0685/Hohenlohebahn_reduziertes_Angebot_210222_250222.pdf",
+            "title": "Crailsheim - Schwäbisch Hall - Heilbronn (Hohenlohebahn) (PDF, 422 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:ea3aecf1-0829-46f5-bfb7-0f5b6fb52809/Madonnenlandbahn_reduziertes_Angebot_210222_250222.pdf",
+            "title": "Miltenberg - Walldürn - Seckach (Madonnenlandbahn) (PDF, 417 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
@@ -230,7 +259,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "18.02.2022 10:58",
+      "lastModified": "18.02.2022 16:25",
       "expand": false,
       "priorityValue": 102
     },
