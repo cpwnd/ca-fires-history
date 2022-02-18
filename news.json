@@ -101,28 +101,6 @@
       "priorityValue": 201
     },
     {
-      "id": "8158bc72-df2b-4460-9880-681d6719be37",
-      "headline": "Angebotsanpassungen S 2",
-      "newsType": "erhöhte Krankenstände des Zugpersonals",
-      "timePeriod": "ab Montag, 21. Februar bis 05. März 2022",
-      "introText": "<p>Wie &uuml;berall in Deutschland beobachten wir derzeit erh&ouml;hte Krankenst&auml;nde. Aus diesem Grund haben wir die Linie S2 moderat angepasst. Wir bitten die Unannehmlichkeiten zu entschuldigen.</p>\n",
-      "connections": [
-        "S 2 Pirna - Dresden Hbf - Dresden Flughafen"
-      ],
-      "closingText": "<p>Z&uuml;ge der S2 fahren von <strong>Dresden Hauptbahnhof </strong>bis <strong>Dresden Flughafen</strong>. Zwischen <strong>Pirna</strong> und <strong>Dresden Hauptbahnhof</strong> k&ouml;nnen Fahrg&auml;ste die Z&uuml;ge der Linie S1 nutzen.</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft unter 030 297 0 zu informieren.</p>\n",
-      "priority": "1",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "sn"
-      ],
-      "lastModified": "16.02.2022 15:58",
-      "author": "suedost",
-      "expand": false,
-      "priorityValue": 201
-    },
-    {
       "id": "f9ecc72a-9319-4e42-bb93-2ba800dec14d",
       "headline": "Unwetterschäden: Auswirkungen auf den Bahnverkehr in Nordbaden, Rheinland-Pfalz und im Saarland",
       "newsType": "Sturmtief Xandra",
@@ -257,6 +235,29 @@
       "priorityValue": 102
     },
     {
+      "id": "2257ac28-0323-429f-9a46-85a07fd7faae",
+      "headline": "Unwetter: Regionalverkehr bei der Westfrankenbahn aktuell beeinträchtigt",
+      "newsType": "Aktuelle Sturmtiefs",
+      "timePeriod": "vsl. bis Samstag, den 19. Februar 2022",
+      "introText": "<p>Aufgrund von Unwetter kommt es aktuell bundesweit zu Versp&auml;tungen und Zugausf&auml;llen im Bahnverkehr.</p>\n\n<p><strong>Auch einige Strecken bei der Westfrankenbahn sind beeintr&auml;chtigt.</strong></p>\n",
+      "connections": [
+        ""
+      ],
+      "closingText": "<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet. Die Nummer lautet 08000 99 66 33.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf<strong>&nbsp;<a href=\"https://www.bahn.de/reiseauskunft\" target=\"_blank\">www.bahn.de/reiseauskunft</a></strong>, im<strong>&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a></strong>&nbsp;oder bei der kostenlosen Sonderhotline Tel. +49 (0)8000 99 66 33.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "by"
+      ],
+      "lastModified": "18.02.2022 15:15",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "d91268e7-0a13-433e-b963-1287e2ec9159",
       "headline": "Meldungen der Südostbayernbahn",
       "newsType": "Störungen",
@@ -287,13 +288,11 @@
     },
     {
       "id": "7b16f4f5-9911-42c5-a8b7-3dea6e586965",
-      "headline": "Angebotsanpassungen RB 33",
+      "headline": "Angebotsanpassungen S-Bahn Linie 2 und RB 33",
       "newsType": "erhöhte Krankenstände des Zugpersonals",
       "timePeriod": "ab Montag, 21. Februar bis 05. März 2022",
-      "introText": "<p>Die Linie verkehrt nur im Abschnitt Dresden-Neustadt &ndash; Ottendorf-Okrilla S&uuml;d mit Ausnahme einzelner Fahrten in Tagesrandlage:</p>\n",
-      "connections": [
-        "RB 33  Dresden – Königsbrück"
-      ],
+      "introText": "<p>Wie &uuml;berall in Deutschland beobachten wir derzeit erh&ouml;hte Krankenst&auml;nde. Aus diesem Grund haben wir die Linie S2 und die RB 33 moderat angepasst. Wir bitten die Unannehmlichkeiten zu entschuldigen.</p>\n\n<p><strong>S 2 Pirna - Dresden Hbf - Dresden Flughafen:</strong></p>\n\n<p>Z&uuml;ge der S2 fahren von Dresden Hauptbahnhof<strong> </strong>bis Dresden Flughafen. Zwischen Pirna und Dresden<strong> </strong>Hauptbahnhof k&ouml;nnen Fahrg&auml;ste die Z&uuml;ge der Linie S1 nutzen.</p>\n\n<p><strong>RB 33 K&ouml;nigsbr&uuml;ck - Ottendorf Okrilla Hp - Dresden-Neustadt:</strong></p>\n\n<p>Die Linie verkehrt nur im Abschnitt Dresden-Neustadt &ndash; Ottendorf-Okrilla S&uuml;d mit Ausnahme einzelner Fahrten in Tagesrandlage:</p>\n",
+      "connections": [],
       "download": {
         "text": "<p>Im Abschnitt K&ouml;nigsbr&uuml;ck &ndash; Ottendorf-Okrilla S&uuml;d wird f&uuml;r die entfallenden Z&uuml;ge ein Schienenersatzverkehr eingerichtet.</p>\n",
         "linkDataList": [
@@ -305,7 +304,7 @@
           }
         ]
       },
-      "closingText": "<p>RB 16960, K&ouml;nigsbr&uuml;ck ab 4.44 Uhr verkehrt durchgehend als Zug (Zug nur verkehrt W(Sa))</p>\n\n<p>RB 16993, Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis K&ouml;nigsbr&uuml;ck als Zug</p>\n\n<p>RB 16996, K&ouml;nigsbr&uuml;ck ab 22.54 Uhr verkehrt durchgehend als Zug</p>\n\n<p>RB 16997, Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis K&ouml;nigsbr&uuml;ck als Zug</p>\n\n<p>RB 16998, K&ouml;nigsbr&uuml;ck ab 6.54 Uhr verkehrt durchgehend als Zug (Zug nur verkehrt Sa+So)</p>\n\n<p>&nbsp;</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft unter 030 297 0 zu informieren.</p>\n",
+      "closingText": "<p><strong>RB 16960</strong>, K&ouml;nigsbr&uuml;ck ab 4.44 Uhr verkehrt durchgehend als Zug (Zug nur verkehrt W(Sa))</p>\n\n<p><strong>RB 16993</strong>, Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis K&ouml;nigsbr&uuml;ck als Zug</p>\n\n<p><strong>RB 16996</strong>, K&ouml;nigsbr&uuml;ck ab 22.54 Uhr verkehrt durchgehend als Zug</p>\n\n<p><strong>RB 16997</strong>, Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis K&ouml;nigsbr&uuml;ck als Zug</p>\n\n<p><strong>RB 16998</strong>, K&ouml;nigsbr&uuml;ck ab 6.54 Uhr verkehrt durchgehend als Zug (Zug nur verkehrt Sa+So)</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft unter 030 297 0 zu informieren.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -313,7 +312,8 @@
       "areas": [
         "sn"
       ],
-      "lastModified": "17.02.2022 13:44",
+      "lastModified": "18.02.2022 15:13",
+      "author": "suedost",
       "expand": false,
       "priorityValue": 101
     },
@@ -322,7 +322,7 @@
       "headline": "Unwetter: Regionalverkehr in Schleswig-Holstein wird sukzessive eingestellt",
       "newsType": "aktuelle Sturmtiefs",
       "timePeriod": "vsl. bis Samstag, den 19. Februar 2022",
-      "introText": "<p>Der Deutsche Wetterdienst&nbsp;(<a href=\"http://www.dwd.de\" target=\"_blank\">DWD</a>) hat seine Prognose noch einmal deutlich versch&auml;rft. Aufgrund des orkanartigen Sturms, der heute erwartet wird, stellt die Deutsche Bahn deshalb im Norden Deutschlands und in der Nordh&auml;lfte NRWs den gesamten Personenverkehr zum Schutz der Reisenden und Mitarbeitenden schrittweise bis mindestens zum Betriebsschluss ein. Das betrifft den Fern- und Regionalverkehr der DB und die Z&uuml;ge aller Eisenbahnverkehrsunternehmen, die nicht zur DB geh&ouml;ren.</p>\n\n<p>Wir versuchen den Zugverkehr auf der&nbsp;Linie RE 6 (Westerland(Sylt) - Hamburg-Altona), wie bereits angek&uuml;ndigt, bis ca. 19 Uhr aufrechtzuerhalten. Unser Ziel ist es, folgende Z&uuml;ge als letzte Verbindung des heutigen Tages fahren zu lassen:</p>\n\n<ul>\n\t<li>letzte Abfahrt aus Westerland (Sylt) nach Hamburg-Altona mit RE 11031 um 16:19 Uhr,</li>\n\t<li>letzte Abfahrt aus Westerland (Sylt) nach Husum mit RE 11037 um 19:19 Uhr,</li>\n\t<li>letzte Abfahrt aus Hamburg-Altona nach Westerland (Sylt) mit RE 11022 um 15:40 Uhr,</li>\n\t<li>letzte Abfahrt aus Hamburg-Altona nach Husum mit RE 11028 um 18:40 Uhr.</li>\n</ul>\n\n<p>Alle weiteren Linien der DB Regio Schleswig-Holstein werden gegen ca. 15 Uhr eingestellt. Bitte pr&uuml;fen Sie noch einmal Ihre Reiseverbindung kurz vor Abfahrt.<br />\n<br />\nDer Zugverkehr wird voraussichtlich am Samstagmorgen, den 19. Februar 2022, nach den ersten Streckenerkundungsfahrten sowie R&auml;umung der Strecken ab circa 9:00 Uhr wieder m&ouml;glich sein.<br />\n<br />\nBitte beachten Sie, dass bei derartigen witterungsbedingten Beeintr&auml;chtigungen auch der Stra&szlig;enverkehr betroffen sein kann und somit erfahrungsgem&auml;&szlig; eine Einrichtung von Ersatzverkehr nicht m&ouml;glich sein wird.</p>\n",
+      "introText": "<p>Der Deutsche Wetterdienst&nbsp;(<a href=\"http://www.dwd.de\" target=\"_blank\">DWD</a>) hat seine Prognose noch einmal deutlich versch&auml;rft. Aufgrund des orkanartigen Sturms, der heute erwartet wird, stellt die Deutsche Bahn deshalb im Norden Deutschlands und in der Nordh&auml;lfte NRWs den gesamten Personenverkehr zum Schutz der Reisenden und Mitarbeitenden schrittweise bis mindestens zum Betriebsschluss ein. Das betrifft den Fern- und Regionalverkehr der DB und die Z&uuml;ge aller Eisenbahnverkehrsunternehmen, die nicht zur DB geh&ouml;ren.</p>\n\n<p>Wir versuchen den Zugverkehr auf der&nbsp;Linie RE 6 (Westerland(Sylt) - Hamburg-Altona), wie bereits angek&uuml;ndigt, bis ca. 19 Uhr aufrechtzuerhalten. Unser Ziel ist es, folgende Z&uuml;ge als letzte Verbindung des heutigen Tages fahren zu lassen:</p>\n\n<ul>\n\t<li>letzte Abfahrt aus Westerland (Sylt) nach Husum mit RE 11085 um 18:52 Uhr,</li>\n\t<li>letzte Abfahrt aus Hamburg-Altona nach Westerland (Sylt) mit RE 11022 um 15:40 Uhr,</li>\n</ul>\n\n<p>Alle weiteren Linien der DB Regio Schleswig-Holstein werden gegen ca. 15 Uhr eingestellt. Bitte pr&uuml;fen Sie noch einmal Ihre Reiseverbindung kurz vor Abfahrt.<br />\n<br />\nDer Zugverkehr wird voraussichtlich am Samstagmorgen, den 19. Februar 2022, nach den ersten Streckenerkundungsfahrten sowie R&auml;umung der Strecken ab circa 9:00 Uhr wieder m&ouml;glich sein.<br />\n<br />\nBitte beachten Sie, dass bei derartigen witterungsbedingten Beeintr&auml;chtigungen auch der Stra&szlig;enverkehr betroffen sein kann und somit erfahrungsgem&auml;&szlig; eine Einrichtung von Ersatzverkehr nicht m&ouml;glich sein wird.</p>\n",
       "connections": [],
       "closingText": "<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>&nbsp;oder in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a></u>.&nbsp;Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf&nbsp;<u><a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a></u>.</p>\n\n<p>Bitte informieren Sie sich auch bei der <a href=\"https://www.nordbahn.de/reiseplanung/eilmeldungen\" target=\"_blank\">Nordbahn</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
@@ -332,7 +332,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "18.02.2022 14:12",
+      "lastModified": "18.02.2022 14:49",
       "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 101
@@ -431,7 +431,7 @@
         "RE2: Kassel-Wilhelmshöhe - Hann Münden - Eichenberg - Mühlhausen(Thür) - Erfurt Hbf",
         "RB61: (Frankfurt(Main)Hbf -) Dreieich-Buchschlag - Rödermark-Ober Roden (-Dieburg)"
       ],
-      "closingText": "<p><strong><u>Es kommt zu folgenden Einschr&auml;nkungen:</u></strong></p>\n\n<p><strong>RE2 (Kassel-Wilhelmsh&ouml;he - Erfurt Hbf):</strong></p>\n\n<p>Unwettersch&auml;den st&ouml;ren den Bahnverkehr zwischen Kassel-Wilhelmsh&ouml;he und Eichenberg.</p>\n\n<p>Die Folge sind Teilausf&auml;lle zwischen Kassel-Wilhelmsh&ouml;he und Eichenberg.</p>\n\n<p>Wir haben f&uuml;r Sie einen&nbsp;<strong>Busnotverkehr </strong>mit Bussen der Firma Fr&ouml;lich-Reisen GmbH zwischen Kassel-Wilhelmsh&ouml;he und Eichenberg eingerichtet.</p>\n\n<p><strong>RB61:</strong></p>\n\n<p>Unwetterauswirkungen beeintr&auml;chtigen den Bahnverkehr.</p>\n\n<p>Daher kommt es zu Versp&auml;tungen und Teilausf&auml;llen.</p>\n\n<p>Die Z&uuml;ge mit Fahrtziel und -beginn in R&ouml;dermark-Ober Roden entfallen komplett.</p>\n\n<p>In dem Zeitraum <u>zwischen 15:00 Uhr und 20:00 Uhr</u> verkehrt zus&auml;tzlich f&uuml;r Sie ein <strong>Busnotverkehr </strong>mit 6 Bussen der Firma Holiday-Reisen GmbH zwischen Dreieich-Buchschlag und R&ouml;dermark-Ober Roden.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Die Busse fahren von den Bushaltestellen mit dem SEV-Piktogramm. Bitte folgen Sie der Beschilderung.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>Kostenlose Sonderhotline:</strong></u></p>\n\n<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet.<br />\nDie Nummer lautet:<br />\n<a href=\"tel:08000 99 66 33\">08000 99 66 33</a></p>\n\n<p>&nbsp;</p>\n\n<p>Btte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n\n<p>&nbsp;</p>\n",
+      "closingText": "<p><strong><u>Es kommt zu folgenden Einschr&auml;nkungen:</u></strong></p>\n\n<p><strong>RE2 (Kassel-Wilhelmsh&ouml;he - Erfurt Hbf):</strong></p>\n\n<p>Unwettersch&auml;den st&ouml;ren den Bahnverkehr zwischen Kassel-Wilhelmsh&ouml;he und Eichenberg.</p>\n\n<p>Die Folge sind Teilausf&auml;lle zwischen Kassel-Wilhelmsh&ouml;he und Eichenberg.</p>\n\n<p>Wir haben f&uuml;r Sie einen&nbsp;<strong>Busnotverkehr </strong>mit Bussen der Firma Fr&ouml;lich-Reisen GmbH zwischen Kassel-Wilhelmsh&ouml;he und Eichenberg eingerichtet.</p>\n\n<p><strong>RB61:</strong></p>\n\n<p>Unwetterauswirkungen beeintr&auml;chtigen den Bahnverkehr.</p>\n\n<p>Daher kommt es zu Versp&auml;tungen sowie zu zahlreichen Teil- und Zugausf&auml;llen.</p>\n\n<p><u>Bis ca.&nbsp;20:00 Uhr</u> verkehrt zus&auml;tzlich f&uuml;r Sie ein <strong>Busnotverkehr </strong>mit 6 Bussen der Firma Holiday-Reisen GmbH zwischen Dreieich-Buchschlag und R&ouml;dermark-Ober Roden.<br />\n&nbsp;</p>\n\n<p><strong>Die Busse fahren von den Bushaltestellen mit dem SEV-Piktogramm. Bitte folgen Sie der Beschilderung.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>Kostenlose Sonderhotline:</strong></u></p>\n\n<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet.<br />\nDie Nummer lautet:<br />\n<a href=\"tel:08000 99 66 33\">08000 99 66 33</a></p>\n\n<p>&nbsp;</p>\n\n<p>Btte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n\n<p>&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -439,7 +439,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "18.02.2022 13:59",
+      "lastModified": "18.02.2022 14:56",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
