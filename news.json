@@ -175,7 +175,7 @@
       "connectionsHeadline": "Aktuell betroffene Linien und Abschnitte:",
       "connections": [
         "RE 1 (Nordddeich(Mole) – Bremen Hbf – Hannover Hbf): Oberleitungsstörung in Norddeich(Mole). Züge verkehren aktuell zw. Norddeich – Hannover Hbf.",
-        "RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe): Züge verkehren zwischen Osnabrück Hbf – Bremen Hbf.",
+        "RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe): Es kommt auf dem Abschnitt Osnabrück Hbf – Bremen Hbf zu Ausfällen.",
         "RB 80/81 (Göttingen/Bodenfelde – Nordhausen): Zugverkehr zwischen Northeim(Han) - Bodenfelde aktuell nicht möglich.",
         "RB 82 (Göttingen – Kreiensen – Bad Harzburg): Strecke zw. Seesen – Kreiensen gesperrt. Reiseverbindung bitte prüfen.",
         "RE 5 (Cuxhaven – Hamburg Hbf): Züge verkehren zw. Cuxhaven – Hamburg-Harburg. Zusätzlich hält der RE 5 an den S-Bahn Halten: Hamburg-Neugraben, Hamburg-Fischbek, Neu Wulmstorf, Neukloster und Dollern.",
@@ -198,7 +198,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "17.02.2022 21:20",
+      "lastModified": "18.02.2022 02:16",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
@@ -329,7 +329,8 @@
       "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es aktuell in Schleswig-Holstein zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr.</p>\n\n<p>Auf allen genannten Linien und Abschnitten ist derzeit mit Einschr&auml;nkungen zu rechnen.&nbsp;Eingerichtete Ersatzverkehre k&ouml;nnen auch von Sturmauswirkungen betroffen sein. Bitte rechnen Sie deshalb auch hier mit einer Reisezeitverl&auml;ngerung.</p>\n",
       "connectionsHeadline": "Aktuell betroffene Linien und Abschnitte:",
       "connections": [
-        "RE 83 Lübeck Hbf - Lüneburg: Derzeit kein Zugverkehr zwischen Büchen und Lüneburg möglich. Es verkehr ein Busnotverkehr im Pendel zwischen Büchen und Lüneburg. "
+        "RB 81 Bad Oldesloe - Hamburg Hbf: Auf dem Abschnitt zwischen Hamburg Hbf und Ahrensburg kommt es zu Ausfällen.",
+        "RE 83 Lübeck Hbf - Lüneburg: Derzeit kein Zugverkehr zwischen Büchen und Lüneburg möglich."
       ],
       "closingText": "<p>Aufgrund der anhaltenden Unwetterwarnung mit Sturmb&ouml;en bis zu 160km/h f&uuml;r Freitagabend, den 18. Februar 2022, gehen wir nach derzeitigem Stand davon aus, dass die Z&uuml;ge der DB Regio Schleswig-Holstein ab circa 19:00 Uhr nicht mehr fahren werden.<br />\nDer Zugverkehr wird voraussichtlich am Samstagmorgen, den 19. Februar 2022, nach den ersten Streckenerkundungsfahrten sowie R&auml;umung der Strecken ab circa 9:00 Uhr wieder m&ouml;glich sein.<br />\nBitte beachten Sie, dass bei derartigen witterungsbedingten Beeintr&auml;chtigungen auch der Stra&szlig;enverkehr betroffen sein kann und somit erfahrungsgem&auml;&szlig; eine Einrichtung von Ersatzverkehr nicht m&ouml;glich sein wird.</p>\n\n<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten. Aufgrund der witterungsbedingt angepassten Geschwindigkeiten kann es zu Versp&auml;tungen kommen.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>&nbsp;oder in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a></u>.&nbsp;Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf&nbsp;<u><a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a></u>.</p>\n\n<p>Bitte informieren Sie sich auch bei der <a href=\"https://www.nordbahn.de/reiseplanung/eilmeldungen\" target=\"_blank\">Nordbahn</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
@@ -339,7 +340,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "17.02.2022 21:45",
+      "lastModified": "18.02.2022 02:15",
       "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 101
@@ -546,29 +547,6 @@
         "bw"
       ],
       "lastModified": "17.02.2022 20:40",
-      "author": "baden_wuerttemberg",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "5bf63065-df17-4479-93b3-277609235057",
-      "headline": "RE5 + RB93: Haltausfall Lindau-Aeschach aufgrund kurzfristiger Baumaßnahmen",
-      "newsType": "Bauarbeiten",
-      "timePeriod": "seit 15. Februar, ca. 13:00 Uhr",
-      "introText": "<p>Aufgrund von kurzfristigen Bauarbeiten entf&auml;llt seit 15. Februar, ca. 13:00 Uhr der Halt <strong>in Lindau-Aeschach</strong> auf der Strecke zwischen Friedrichshafen und Lindau. Ein Ersatzverkehr mit Bus konnte leider nicht eingerichtet werden. Reisende von/nach Lindau-Aeschach nutzen bitte alternativ die Stadtbusse.&nbsp;Bitte pr&uuml;fen Sie hierzu Ihre Reiseverbindung zum Beispiel auf www.bahn.de.</p>\n\n<p>Eine Prognose zur Dauer der Beeintr&auml;chtigungen kann aktuell noch nicht gegeben werden. Diese Meldung wird aktualisiert sobald uns neue Informationen vorliegen.</p>\n",
-      "connectionsHeadline": "Betroffener Halt:",
-      "connections": [
-        "Lindau-Aeschach"
-      ],
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "16.02.2022 08:48",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
