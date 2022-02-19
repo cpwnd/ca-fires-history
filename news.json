@@ -155,27 +155,6 @@
       "priorityValue": 102
     },
     {
-      "id": "5b52ed05-e97a-43ae-92e3-a929e1870533",
-      "headline": "Unwetterschäden: wieder Zugverkehr auf einigen Linien in Berlin und Brandenburg, aber noch starke Einschränkungen bis vsl. Montag",
-      "newsType": "Unwetterschäden",
-      "timePeriod": "bis vsl. Montag Nachmittag",
-      "introText": "<p>Wegen gravierender Unwettersch&auml;den ist der Regionalverkehr von DB Regio Nordost in Berlin und Brandenburg zum Schutz der Fahrg&auml;ste und Mitarbeiter noch immer auf einigen Linien eingestellt.</p>\n\n<p><strong>Auf folgenden Linien wurde der Betrieb zwischenzeitlich wieder aufgenommen:</strong><br />\n- RE1 zwischen Frankfurt (Oder) und Berlin-Charlottenburg<br />\n- RE15 Hoyerswerda - Ruhland - Dresden (noch nicht alle Z&uuml;ge)<br />\n- RE18&nbsp;Cottbus - Ruland - Dresden<br />\n- RB10 Nauen - Berlin S&uuml;dkreuz<br />\n- RB14 Nauen - Berlin Ostbahnhof<br />\n- RB31 Elsterwerda - Dresden (noch nicht alle Z&uuml;ge)<br />\n- RB49 Cottbus - Ruhland<br />\n- RB11 Frankfurt (Oder) - Eisenh&uuml;ttenstadt<br />\n<br />\n<strong>Leider werden sich die Erkundungsfahrten und R&auml;umungsarbeiten noch bis vsl.&nbsp; Montag Nachmittag hinziehen.</strong></p>\n\n<p>Da bei derartigen witterungsbedingten Beeintr&auml;chtigungen auch der Stra&szlig;enverkehr betroffen ist, ist erfahrungsgem&auml;&szlig; eine Einrichtung von Ersatzverkehr nicht &uuml;berall m&ouml;glich.</p>\n",
-      "connections": [],
-      "closingText": "<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet. Die Nummer lautet <a href=\"tel:08000996633\">08000 99 66 33&nbsp;</a></p>\n\n<p><strong>Die Reiseauskunft wird st&auml;ndig aktualisiert.</strong></p>\n\n<p>Bitte informieren Sie sich daher unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n\n<p>&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "19.02.2022 17:37",
-      "author": "nordost",
-      "expand": true,
-      "priorityValue": 102
-    },
-    {
       "id": "b60c629b-4dbc-4322-b38c-3f98c3c8ee8e",
       "headline": "Unwetterschäden: Regionalverkehr in Niedersachen und Bremen bis mindestens Montagnachmittag stark beeinträchtigt",
       "newsType": "aktuelle Sturmtiefs",
@@ -183,28 +162,28 @@
       "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es im Norden Deutschlands und in NRW bis mindestens Montagnachmittag zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr. Vermeiden Sie Reisen von und nach Hamburg und Bremen.</p>\n\n<p>Die ersten Erkundungsfahrten der DB Regio Niedersachsen und Bremen sowie der Start Unterelbe und Start Niedersachsen Mitte haben bereits am Samstagvormittag begonnen.</p>\n\n<p>Bitte beachten Sie, dass bei derartigen witterungsbedingten Beeintr&auml;chtigungen auch der Stra&szlig;enverkehr betroffen sein kann und somit erfahrungsgem&auml;&szlig; eine Einrichtung von Ersatzverkehr nicht m&ouml;glich sein wird.</p>\n",
       "connectionsHeadline": "Nachfolgend erhalten Sie eine Übersicht über die aktuelle Streckenlage:",
       "connections": [
-        "RE 1 (Nordddeich(Mole) - Bremen Hbf - Hannover Hbf): RE 4419 verkehrt heute als erster Zug auf Regelweg von Norddeich-Mole bis Hannover Hbf. Zwischen Norddeich-Mole und Leer verkehrt ein Bus der Firma Driver und Uffen. Zwischen Leer und Oldenburg verkehrt im Pendel die Firma Uffen und ab 12:00 Uhr verkehrt zwischen Bremerhaven-Lehe und Bremen Hbf die Firma BUS-Punkt.",
-        "RE 8 (Bremerhaven-Lehe - Hannover Hbf): Züge verkehren mit Verspätungen. Zugausfälle sind noch möglich. 2 Busse im Pendel von der Firma von Rahden zwischen Bremen Hbf und Bremerhaven-Lehe. Zwei Busse der Firma Stepo Reisen verkehren im Pendel zwischen Nienburg und Verden.",
-        "RE 9 (Osnabrück Hbf - (Bremen Hbf) - Bremerhaven-Lehe): Züge verkehren zwischen Osnabrück und Bremen Hbf. Erster Zug von Bremen nach Osnabrück ist RE 4459 Abfahrtszeit ab 13:07 Uhr. 2 Busse verkehren im Pendel von der Firma von Rahden zwischen Bremen Hbf und Bremerhaven-Lehe. Abfahrtszeiten in Bremen Hbf um ca. 12:30h und 13:00h.",
+        "RE 1 (Nordddeich(Mole) - Bremen Hbf - Hannover Hbf): Züge verkehren mit Verspätungen. Zugausfälle sind noch möglich. Zwischen Oldenburg und Norddeich Mole ist ein Schienenersatzverkehr (SEV) eingerichtet",
+        "RE 8 (Bremerhaven-Lehe - Hannover Hbf): Züge verkehren mit Verspätungen. Zugausfälle sind noch möglich.",
+        "RE 9 (Osnabrück Hbf - (Bremen Hbf) - Bremerhaven-Lehe): Züge verkehren mit Verspätungen. Zugausfälle sind noch möglich.",
         "RB 40 (Braunschweig Hbf - Helmstedt): Züge verkehren mit Verspätungen. Zugausfälle sind noch möglich.",
-        "RB 44 (Braunschweig - Salzgitter-Lebenstedt): Derzeit finden Erkundungsfahrten ohne Personenbeförderung statt.",
+        "RB 44 (Braunschweig - Salzgitter-Lebenstedt): Züge verkehren mit Verspätungen. Zugausfälle sind noch möglich.",
         "RB 45 (Braunschweig Hbf - Schöppenstedt): Züge verkehren wieder auf Regelweg. Bitte rechnen Sie noch mit Verspätungen und Zugausfällen bis sich der Zugverkehr wieder stabilisiert hat.",
         "RB 46 (Braunschweig Hbf - Herzberg(Harz): Züge verkehren wieder auf Regelweg. Bitte rechnen Sie noch mit Verspätungen und Zugausfällen bis sich der Zugverkehr wieder stabilisiert hat.",
-        "RB 48 (Braunschweig - Salzgitter-Lebenstedt): Derzeit finden Erkundungsfahrten ohne Personenbeförderung statt.",
-        "RB 80/81 (Göttingen/Bodenfelde - Nordhausen): Derzeit finden Erkundungsfahrten ohne Personenbeförderung statt. Zur Zeit kein Zugverkehr zwischen  Northeim und Bodenfelde.",
-        "RB 82 (Göttingen - Kreiensen - Bad Harzburg): Zur Zeit verkehren keine Züge zwischen Kreiensen und Bad Harzburg. Ersatzverkehr mit einem Bus der Firma Wrede Reisedienst im Pendel zwischen Kreiensen und Bad Harzburg ist eingerichtet.",
+        "RB 48 (Braunschweig - Salzgitter-Lebenstedt): Züge verkehren mit Verspätungen. Zugausfälle sind noch möglich.",
+        "RB 80/81 (Göttingen/Bodenfelde - Nordhausen): Züge verkehren mit Verspätungen. Zugausfälle sind noch möglich.",
+        "RB 82 (Göttingen - Kreiensen - Bad Harzburg): Züge verkehren mit Verspätungen. Zugausfälle sind noch möglich.",
         "RB 86 (Einbeck Mitte - Göttingen): Derzeit finden Erkundungsfahrten ohne Personenbeförderung statt.",
         "RE 5 (Cuxhaven - Hamburg Hbf): Die Züge verkehren zwischen Cuxhaven und Stade sowie zwischen Horneburg und Hamburg-Neugraben mit Zusatzhalt in Neukloster. Ersatzverkehr im Pendel mit einem Bus der S Bahn Hamburg ist zwischen Stade und Horneburg/Buxtehude eingerichtet.  S3 verkehrt zwischen Buxtehude und Hamburg Hbf.",
         "RB 37 (Bremen Hbf - Uelzen): Zwischen Uelzen und Soltau verkehrt ein Bus der Firma ERRO-Reisen. Zwischen Soltau und Bremen verkehrt ein Bus der Firma Hentscheck-Reisen.",
-        "RB 38 (Hannover Hbf - Hamburg-Harburg): Zwischen Hannover und Soltau verkehrt ein Bus der Firma ORS Hannover Reisen. Zwischen Soltau und Hannover verkehrt ein Bus der Firma Aldag Reisen.  Zwischen Soltau und Buchholz verkehrt ein Bus der Firma Hentscheck-Reisen und zwischen Buchholz und Soltau die Firma Aldag Reisen.",
-        "RB 77 (Bünde(Westf.) - Hildesheim Hbf): Defektes Stellwerk zwischen Emmerke und Hildesheim Hbf. Züge enden und beginnen heute in Elze.  Zwischen Löhne und Hildesheim verkehrt ein Bus der Firma LEO-Reisen. Zwischen Hildesheim nach Löhne verkehrt ein Bus der Firma Wenzel-Reisen.n",
-        "RB 79 (Hildesheim Hbf - Bodenburg): Zwischen Hildesheim und Bodenburg verkehrt die Firma Dieter Bernhardt Reisen",
+        "RB 38 (Hannover Hbf - Buchholz - Hamburg-Harburg): Kein Zugverkehr zwischen Soltau und Buchholz  Zwischen Soltau und Buchholz verkehrt ein Bus der Firma Hentscheck-Reisen und zwischen Buchholz und Soltau die Firma Aldag Reisen.",
+        "RB 77 (Bünde(Westf.) - Hildesheim Hbf): Defektes Stellwerk zwischen Emmerke und Hildesheim Hbf. Züge enden und beginnen heute in Elze.  Zwischen Hildesheim nach Löhne verkehrt ein Bus der Firma Wenzel-Reisen.",
+        "RB 79 (Hildesheim Hbf - Bodenburg): Züge verkehren mit Verspätungen. Zugausfälle sind noch möglich.",
         "S1 (Minden - Hannover Hbf - Haste): S1 ab Haste Abfahrt um 13:34 Uhr verkehrt auf Regelweg. ",
-        "S2 (Nienburg - Hannover - Haste): Züge verkehren wieder auf Regelweg. Der erste Zug fährt ab Nienburg um 14:09 Uhr.",
+        "S2 (Nienburg - Hannover - Haste): Die Züge verkehren mit Verspätungen. Weitere Zugausfälle sind möglich.",
         "S4 (Bennehmülen - Hannover Hbf): Defektes Stellwerk zwischen Emmerke und Hildesheim Hbf. Züge enden und beginnen heute in Barnten. Ersatzverkehr mit einem Bus der Firma ORS Reisen von Hildesheim Hbf nach Barnten ist eingerichtet. ",
-        "S5 (Hannover Flughafen - Hameln (-Paderborn)): Züge verkehren wieder auf Regelweg. Bitte rechnen Sie noch mit Verspätungen und Zugausfällen bis sich der Zugverkehr wieder stabilisiert hat. Ein Busnotverkehr zwischen Hameln und Altenbeken ist eingerichtet. vom Flughafen zum Hauptbahnhof: Nutzen Sie Bus 470 bis Langenhagen-Zentrum und dann weiter mit der Stadtbahnlinie 1 zum Hauptbahnhof (U). vom Hauptbahnhof zum Flughafen: Nutzen Sie Stadtbahnlinie 1 bis Langenhagen Zentrum und weiter mit der Bus 470 zum Flughafen.",
-        "S21 (Hannover Hbf - Barsinghausen): Bitte rechnen Sie noch mit Verspätungen und Zugausfällen bis sich der Zugverkehr wieder stabilisiert hat.",
-        "S51 (Seelze - Hameln): Bitte rechnen Sie noch mit Verspätungen und Zugausfällen bis sich der Zugverkehr wieder stabilisiert hat."
+        "S5 (Hannover Flughafen - Hameln (-Paderborn)): Züge verkehren wieder auf Regelweg. Bitte rechnen Sie noch mit Verspätungen und Zugausfällen bis sich der Zugverkehr wieder stabilisiert hat. Ein Busnotverkehr zwischen Hameln und Altenbeken ist eingerichtet. Vom Flughafen bis zum Hauptbahnhof nutzen Sie bitte die Busse der Line 470 bis Langenhagen-Zentrum und dann weiter mit der Stadtbahnlinie 1 zum Hauptbahnhof (U).",
+        "S21 (Hannover Hbf - Barsinghausen): Die Züge verkehren mit Verspätungen. Weitere Zugausfälle sind möglich.",
+        "S51 (Seelze - Hameln): Die Züge verkehren mit Verspätungen. Weitere Zugausfälle sind möglich."
       ],
       "closingText": "<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">bahn.de/reiseauskunft</a>&nbsp;oder&nbsp;in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a>.&nbsp;Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen auf&nbsp;<a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Auch den Twitterkan&auml;len der Start Unterelbe&nbsp;<a href=\"http://twitter.com/start_unterelbe\" target=\"_blank\">Twitter</a>&nbsp;oder Start Niedersachsen Mitte&nbsp;<a href=\"https://twitter.com/start_NI_mitte\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://twitter.com/start_ni_mitte\">Twitter</a>&nbsp;k&ouml;nnen Sie folgen.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
@@ -215,7 +194,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "19.02.2022 18:55",
+      "lastModified": "19.02.2022 19:56",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
@@ -334,11 +313,11 @@
       "headline": "Unwetterschäden: Regionalverkehr in Schleswig-Holstein bis mindestens Montagnachmittag stark beeinträchtigt",
       "newsType": "aktuelle Sturmtiefs",
       "timePeriod": "vsl. bis mindestens Montag, den 21. Februar 2022",
-      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es im Norden Deutschlands und in NRW bis mindestens Montagnachmittag zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr. Vermeiden Sie Reisen von und nach Hamburg und Bremen.</p>\n\n<p>Die ersten Erkundungsfahrten der DB Regio Schleswig-Holstein haben bereits am Samstagvormittag begonnen.</p>\n\n<p>Bitte beachten Sie, dass bei derartigen witterungsbedingten Beeintr&auml;chtigungen auch der Stra&szlig;enverkehr betroffen sein kann und somit erfahrungsgem&auml;&szlig; eine Einrichtung von Ersatzverkehr nicht m&ouml;glich sein wird.</p>\n",
-      "connectionsHeadline": "Nachfolgend erhalten Sie eine Übersicht über die aktuelle Streckenlage:",
+      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es im Norden Deutschlands und in NRW bis mindestens Montagnachmittag zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr. Vermeiden Sie Reisen von und nach Hamburg und Bremen.</p>\n",
+      "connectionsHeadline": "Derzeit liegen keine Streckensperrungen vor. Die Züge verkehren teilweise mit Verspätungen. Zugausfälle sind noch möglich.",
       "connections": [
-        "RE 6 (Westerland(Sylt) - Hamburg-Altona): Baum auf der Strecke zwischen Elmshorn und Itzehoe. Der Streckenabschnitt ist gesperrt. Die Züge enden / beginnen abweichend in Itzehoe.",
-        "RB 62 (Heide(Holst) - Itzehoe): umgestürzter Baum auf der Strecke. Die Züge verkehren mit Verspätungen. Weitere Zugausfälle sind möglich.",
+        "RE 6 (Westerland(Sylt) - Hamburg-Altona): Die Züge verkehren mit Verspätungen. Weitere Zugausfälle sind möglich.",
+        "RB 62 (Heide(Holst) - Itzehoe): Die Züge verkehren mit Verspätungen. Weitere Zugausfälle sind möglich.",
         "RB 64 (Bad St. Peter-Ording - Husum): Die Züge verkehren mit Verspätungen. Weitere Zugausfälle sind möglich.",
         "RE 7/RE 70 (Flensburg/Kiel Hbf - Hamburg Hbf):  Die Züge verkehren mit Verspätungen. Weitere Zugausfälle sind möglich.",
         "RE 72 (Flensburg - Kiel Hbf): Die Züge verkehren mit Verspätungen. Weitere Zugausfälle sind möglich.",
@@ -362,29 +341,9 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "19.02.2022 19:06",
+      "lastModified": "19.02.2022 19:59",
       "author": "schleswig_holstein",
       "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "6551d643-df7e-4ebb-b3d1-c17c46696f6f",
-      "headline": "Unwetterschäden: wieder Zugverkehr auf einigen Linien in Mecklenburg-Vorpommern, aber noch starke Einschränkungen bis vsl. Montag",
-      "newsType": "Unwetterschäden",
-      "timePeriod": "bis vsl. Montag Nachmittag",
-      "introText": "<p>Wegen gravierender Unwettersch&auml;den ist der Regionalverkehr von DB Regio Nordost in Mecklenburg-Vorpommern zum Schutz der Fahrg&auml;ste und Mitarbeiter noch immer auf einigen Linien eingestellt.</p>\n\n<p><strong>Auf folgenden Linien wurde der Betrieb zwischenzeitlich wieder aufgenommen:</strong><br />\n- RB11 Wismar - Rostock - Tessin<br />\n- RB12 Rostock - Graal-M&uuml;ritz<br />\n- RB23/RB24 - Usedomer B&auml;derbahn<br />\n- RE4 zwischen L&uuml;beck und B&uuml;tzow sowie zwischen Neubrandenburg und Pasewalk<br />\n- S1, S2 und S3 Warnem&uuml;nde - Rostock - Schwaan/Laage - G&uuml;strow</p>\n\n<p><strong>Leider werden sich die Erkundungsfahrten und R&auml;umungsarbeiten noch bis vsl.&nbsp; Montag Nachmittag hinziehen.</strong></p>\n\n<p>Da bei derartigen witterungsbedingten Beeintr&auml;chtigungen auch der Stra&szlig;enverkehr betroffen ist, ist erfahrungsgem&auml;&szlig; eine Einrichtung von Ersatzverkehr nicht m&ouml;glich.</p>\n",
-      "connections": [],
-      "closingText": "<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet. Die Nummer lautet <a href=\"tel:08000996633\">08000 99 66 33&nbsp;</a></p>\n\n<p><strong>Die Reiseauskunft wird st&auml;ndig aktualisiert.</strong></p>\n\n<p>Bitte informieren Sie sich daher unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n\n<p>&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "mv"
-      ],
-      "lastModified": "19.02.2022 17:36",
-      "author": "nordost",
-      "expand": true,
       "priorityValue": 101
     },
     {
