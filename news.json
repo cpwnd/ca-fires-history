@@ -155,11 +155,32 @@
       "priorityValue": 102
     },
     {
+      "id": "5b52ed05-e97a-43ae-92e3-a929e1870533",
+      "headline": "Unwetterschäden: wieder Zugverkehr auf einigen Linien in Berlin und Brandenburg, aber noch starke Einschränkungen bis vsl. Montag",
+      "newsType": "Unwetterschäden",
+      "timePeriod": "bis vsl. Montag Nachmittag",
+      "introText": "<p>Wegen gravierender Unwettersch&auml;den ist der Regionalverkehr von DB Regio Nordost in Berlin und Brandenburg zum Schutz der Fahrg&auml;ste und Mitarbeiter noch immer auf einigen Linien eingestellt.</p>\n\n<p><strong>Auf folgenden Linien wurde der Betrieb zwischenzeitlich wieder aufgenommen:</strong><br />\n- RE1 zwischen Frankfurt (Oder) und Berlin-Charlottenburg<br />\n- RE15 Hoyerswerda - Ruhland - Dresden (noch nicht alle Z&uuml;ge)<br />\n- RE18&nbsp;Cottbus - Ruland - Dresden<br />\n- RB10 Nauen - Berlin S&uuml;dkreuz<br />\n- RB14 Nauen - Berlin Ostbahnhof<br />\n- RB31 Elsterwerda - Dresden (noch nicht alle Z&uuml;ge)<br />\n- RB49 Cottbus - Ruhland<br />\n- RB11 Frankfurt (Oder) - Eisenh&uuml;ttenstadt<br />\n<br />\n<strong>Leider werden sich die Erkundungsfahrten und R&auml;umungsarbeiten noch bis vsl.&nbsp; Montag Nachmittag hinziehen.</strong></p>\n\n<p>Da bei derartigen witterungsbedingten Beeintr&auml;chtigungen auch der Stra&szlig;enverkehr betroffen ist, ist erfahrungsgem&auml;&szlig; eine Einrichtung von Ersatzverkehr nicht &uuml;berall m&ouml;glich.</p>\n",
+      "connections": [],
+      "closingText": "<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet. Die Nummer lautet <a href=\"tel:08000996633\">08000 99 66 33&nbsp;</a></p>\n\n<p><strong>Die Reiseauskunft wird st&auml;ndig aktualisiert.</strong></p>\n\n<p>Bitte informieren Sie sich daher unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n\n<p>&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "19.02.2022 20:38",
+      "author": "nordost",
+      "expand": true,
+      "priorityValue": 102
+    },
+    {
       "id": "b60c629b-4dbc-4322-b38c-3f98c3c8ee8e",
       "headline": "Unwetterschäden: Regionalverkehr in Niedersachen und Bremen bis mindestens Montagnachmittag stark beeinträchtigt",
       "newsType": "aktuelle Sturmtiefs",
       "timePeriod": "vsl. bis mindestens Montagnachmittag, den 21. Februar 2022",
-      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es im Norden Deutschlands und in NRW bis mindestens Montagnachmittag zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr. Vermeiden Sie Reisen von und nach Hamburg und Bremen.</p>\n\n<p>Die ersten Erkundungsfahrten der DB Regio Niedersachsen und Bremen sowie der Start Unterelbe und Start Niedersachsen Mitte haben bereits am Samstagvormittag begonnen.</p>\n\n<p>Bitte beachten Sie, dass bei derartigen witterungsbedingten Beeintr&auml;chtigungen auch der Stra&szlig;enverkehr betroffen sein kann und somit erfahrungsgem&auml;&szlig; eine Einrichtung von Ersatzverkehr nicht m&ouml;glich sein wird.</p>\n",
+      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es im Norden Deutschlands und in NRW bis mindestens Montagnachmittag zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr. Vermeiden Sie Reisen von und nach Hamburg und Bremen.</p>\n\n<p>Die ersten Erkundungsfahrten der DB Regio Niedersachsen und Bremen sowie der Start Unterelbe und Start Niedersachsen Mitte haben bereits am Samstagvormittag begonnen.</p>\n\n<p>Bitte beachten Sie, dass bei derartigen witterungsbedingten Beeintr&auml;chtigungen auch der Stra&szlig;enverkehr betroffen sein kann und somit erfahrungsgem&auml;&szlig; eine Einrichtung von Ersatzverkehr nicht immer m&ouml;glich sein wird.</p>\n",
       "connectionsHeadline": "Nachfolgend erhalten Sie eine Übersicht über die aktuelle Streckenlage:",
       "connections": [
         "RE 1 (Nordddeich(Mole) - Bremen Hbf - Hannover Hbf): Züge verkehren mit Verspätungen. Zugausfälle sind noch möglich. Zwischen Oldenburg und Norddeich Mole ist ein Schienenersatzverkehr (SEV) eingerichtet",
@@ -194,7 +215,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "19.02.2022 19:56",
+      "lastModified": "19.02.2022 20:44",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
@@ -344,6 +365,26 @@
       "lastModified": "19.02.2022 19:59",
       "author": "schleswig_holstein",
       "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "6551d643-df7e-4ebb-b3d1-c17c46696f6f",
+      "headline": "Unwetterschäden: wieder Zugverkehr auf einigen Linien in Mecklenburg-Vorpommern, aber noch starke Einschränkungen bis vsl. Montag",
+      "newsType": "Unwetterschäden",
+      "timePeriod": "bis vsl. Montag Nachmittag",
+      "introText": "<p>Wegen gravierender Unwettersch&auml;den ist der Regionalverkehr von DB Regio Nordost in Mecklenburg-Vorpommern zum Schutz der Fahrg&auml;ste und Mitarbeiter noch immer auf einigen Linien eingestellt.</p>\n\n<p><strong>Auf folgenden Linien wurde der Betrieb zwischenzeitlich wieder aufgenommen:</strong><br />\n- RB11 Wismar - Rostock - Tessin<br />\n- RB12 Rostock - Graal-M&uuml;ritz<br />\n- RB23/RB24 - Usedomer B&auml;derbahn<br />\n- RE4 zwischen L&uuml;beck und B&uuml;tzow sowie zwischen Neubrandenburg und Pasewalk<br />\n- S1, S2 und S3 Warnem&uuml;nde - Rostock - Schwaan/Laage - G&uuml;strow</p>\n\n<p><strong>Leider werden sich die Erkundungsfahrten und R&auml;umungsarbeiten noch bis vsl.&nbsp; Montag Nachmittag hinziehen.</strong></p>\n\n<p>Da bei derartigen witterungsbedingten Beeintr&auml;chtigungen auch der Stra&szlig;enverkehr betroffen ist, ist erfahrungsgem&auml;&szlig; eine Einrichtung von Ersatzverkehr nicht m&ouml;glich.</p>\n",
+      "connections": [],
+      "closingText": "<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet. Die Nummer lautet <a href=\"tel:08000996633\">08000 99 66 33&nbsp;</a></p>\n\n<p><strong>Die Reiseauskunft wird st&auml;ndig aktualisiert.</strong></p>\n\n<p>Bitte informieren Sie sich daher unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n\n<p>&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "mv"
+      ],
+      "lastModified": "19.02.2022 20:38",
+      "author": "nordost",
+      "expand": true,
       "priorityValue": 101
     },
     {
