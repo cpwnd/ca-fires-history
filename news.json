@@ -9,8 +9,9 @@
       "connectionsHeadline": "Vom Sturm betroffen sind aktuell insbesondere folgende Verbindungen im Fernverkehr: ",
       "connections": [
         "Es verkehren keine Fernverkehrszüge zwischen Hamburg und Berlin",
-        "Es verkehren keine Fernverkehrszüge nördlich von Berlin",
-        "Es verkehren keine Fernverkehrszüge zwischen Norddeich Mole/Emden und Köln/Hannover"
+        "Es verkehren keine Fernverkehrszüge zwischen Berlin/Hamburg und Rostock/Stralsund",
+        "Es verkehren keine Fernverkehrszüge zwischen Norddeich Mole/Emden und Köln/Hannover",
+        "IC-Züge zwischen Berlin und Amsterdam fallen am 20.02. aus"
       ],
       "closingText": "<p><strong>Bitte rechnen Sie in den Fernverkehrsz&uuml;gen aktuell mit einer sehr hohen Auslastung.</strong></p>\n\n<p>F&uuml;r die durch Sturmfolgen in Norddeutschland gesperrten Strecken ist im Moment noch keine sichere Prognose m&ouml;glich.&nbsp;</p>\n\n<p>Bitte informieren Sie sich 1 Stunde vor Fahrtbeginn zu ihrer aktuellen Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der kostenlosen Sonderhotline Tel. +49 (0)8000 99 66 33.</p>\n\n<p><strong>G&uuml;ltigkeit der Tickets</strong></p>\n\n<p>F&uuml;r den Zeitraum der aktuellen Sturmtiefs gelten besondere Kulanzregelungen f&uuml;r die G&uuml;ltigkeit bereits gekaufter Fernverkehrstickets:</p>\n\n<p>Alle Fahrg&auml;ste, die ihre f&uuml;r den Zeitraum vom&nbsp;17.02.22&nbsp;bis 21.02.22 geplante Reise aufgrund der aktuellen Sturmtiefs verschieben m&ouml;chten, k&ouml;nnen ihr bereits gebuchtes Ticket f&uuml;r den Fernverkehr ab sofort bis einschlie&szlig;lich 7 Tage nach St&ouml;rungsende entweder flexibel nutzen oder kostenfrei stornieren. Auch Sitzplatzreservierungen k&ouml;nnen kostenfrei storniert werden.</p>\n\n<p>Zudem gelten bei Versp&auml;tung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter&nbsp;<a href=\"https://www.bahn.de/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Wir haben alle Informationen zu Reisen w&auml;hrend der aktuellen Sturmtiefs <a href=\"https://www.bahn.de/sonderkulanz\" style=\"color: rgb(5, 99, 193); text-decoration: underline; --darkreader-inline-color:#46cbff;\" title=\"https://www.bahn.de/sonderkulanz\">hier</a>&nbsp;nochmals ausf&uuml;hrlich f&uuml;r Sie zusammengestellt.</p>\n\n<p><strong>Kostenlose Sonderhotline</strong></p>\n\n<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet. Die Nummer lautet 08000 99 66 33.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der kostenlosen Sonderhotline Tel. +49 (0)8000 99 66 33.</p>\n",
       "priority": "2",
@@ -35,7 +36,7 @@
         "sh",
         "th"
       ],
-      "lastModified": "20.02.2022 12:05",
+      "lastModified": "20.02.2022 13:20",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 316
@@ -109,14 +110,11 @@
       "id": "f9ecc72a-9319-4e42-bb93-2ba800dec14d",
       "headline": "Unwetter: Auswirkungen auf den Bahnverkehr in Nordbaden, Rheinland-Pfalz und im Saarland",
       "newsType": "Aktuelles Sturmtief ",
-      "timePeriod": "16.02.-19.02.2022",
-      "introText": "<p><strong>Neue Unwetterwarnung:</strong> Bundesweite Auswirkungen ab Sonntagabend m&ouml;glich.</p>\n\n<p>Regionalverkehr in Nordbaden, Rheinland-Pfalz und im Saarland, kann mindestens bis Montagnachmittag beeintr&auml;chtigt sein.</p>\n\n<p><strong><em>Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</em></strong></p>\n",
+      "timePeriod": "16.02.-21.02.2022",
+      "introText": "<p><strong>Neue Unwetterwarnung:</strong> Bundesweite Auswirkungen ab Sonntagabend m&ouml;glich.</p>\n\n<p>Regionalverkehr in Nordbaden, Rheinland-Pfalz und im Saarland, kann mindestens bis Montagnachmittag 21.02.2022 beeintr&auml;chtigt sein.</p>\n\n<p><strong><em>Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</em></strong></p>\n",
       "connectionsHeadline": "Aktuell betroffene Linien:",
-      "connections": [
-        "S51 Heidelberg - Meckesheim - Aglasterhausen",
-        "S5 Heidelberg - Meckesheim - Eppingen"
-      ],
-      "closingText": "<p><strong>Regio Mitte gibt derzeit noch zwei Einschr&auml;nkungen:</strong></p>\n\n<p><strong>______________________________________________________</strong></p>\n\n<p><strong>S5 / S51:&nbsp;Sturmsch&auml;den an der Oberleitung zw. Neckargem&uuml;nd und Meckesheim.</strong><br />\nDer Zugverkehr im betroffenen Streckenabschnitt ist bis vsl. <strong>20.02.22</strong> eingestellt.&nbsp;<br />\n<strong>S5:&nbsp;</strong>Die Z&uuml;ge verkehren nur zwischen Meckesheim und Eppingen.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <strong>S51:&nbsp;</strong>Die Z&uuml;ge verkehren nur zwischen Meckesheim und Aglasterhausen.</p>\n\n<p>Busnotverkehr ab 04:30 Uhr zw. Meckesheim und Neckargem&uuml;nd eingerichtet.<br />\n______________________________________________________<br />\n<br />\nBitte rechnen Sie f&uuml;r die Dauer des Unwetters auf jeden Fall mehr Reisezeit ein und&nbsp;informieren Sie sich regelm&auml;&szlig;ig kurz&nbsp;vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
+      "connections": [],
+      "closingText": "<p><br />\nBitte rechnen Sie f&uuml;r die Dauer des Unwetters auf jeden Fall mehr Reisezeit ein und&nbsp;informieren Sie sich regelm&auml;&szlig;ig kurz&nbsp;vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -127,7 +125,7 @@
         "rp",
         "sl"
       ],
-      "lastModified": "20.02.2022 11:52",
+      "lastModified": "20.02.2022 13:29",
       "expand": false,
       "priorityValue": 104
     },
@@ -181,7 +179,7 @@
       "connectionsHeadline": "Die Züge verkehren teilweise mit Verspätungen. Zugausfälle sind noch möglich. Auf folgenden Strecken kommt es derzeit noch zu stärkeren Beeinträchtigungen:",
       "connections": [
         "RE 1 (Nordddeich(Mole) - Bremen Hbf - Hannover Hbf): Züge verkehren mit Verspätungen. Zugausfälle sind noch möglich. Zwischen Oldenburg und Norddeich Mole ist ein Schienenersatzverkehr (SEV) eingerichtet. Ab 9:00 Uhr ein Bus der Firma Uffen von Emden - Bad Zwischenahn. Nach Ankunft Busnotverkehr im Pendel zwischen Bad Zwischenahn und Norddeich. Ab 10:00 Uhr 2 Busse der Firma Driever zwischen Norddeich und Bad Zwischenahn im Pendel.",
-        "RE 5 (Cuxhaven - Hamburg Hbf): Die Züge verkehren zwischen Cuxhaven und Stade sowie zusätzlich bis ca. 14:00 Uhr zwischen Horneburg und Hamburg-Neugraben mit Zusatzhalt in Neukloster. Ersatzverkehr im Pendel mit einem Bus der S Bahn Hamburg ist zwischen Stade und Horneburg/Buxtehude eingerichtet.  S3 verkehrt zwischen Buxtehude und Hamburg Hbf.",
+        "RE 5 (Cuxhaven - Hamburg Hbf): Die Züge verkehren zwischen Cuxhaven und Stade sowie zusätzlich zwischen Horneburg und Hamburg-Neugraben mit Zusatzhalt in Neukloster. Ersatzverkehr im Pendel mit einem Bus der S Bahn Hamburg ist zwischen Stade und Horneburg/Buxtehude eingerichtet.  S3 verkehrt zwischen Buxtehude und Hamburg Hbf.",
         "RB 77 (Bünde(Westf.) - Hildesheim Hbf): Defektes Stellwerk zwischen Emmerke und Hildesheim Hbf. Züge enden und beginnen heute in Elze.  Zwischen Hildesheim nach Elze verkehrt ein Bus der Firma Wenzel-Reisen.",
         "S4 (Bennehmülen - Hannover Hbf): Defektes Stellwerk zwischen Emmerke und Hildesheim Hbf. Züge enden und beginnen heute in Barnten. Ersatzverkehr mit Bussen von Hildesheim Hbf nach Barnten ist eingerichtet. ",
         "S5 (Hannover Flughafen - Hameln (-Paderborn)): Streckensperrung zwischen Hameln und Altenbeken. Ein Busnotverkehr ist eingerichtet."
@@ -195,7 +193,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "20.02.2022 12:07",
+      "lastModified": "20.02.2022 13:01",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
@@ -253,7 +251,7 @@
       "id": "8bdcdb82-75f3-40bd-a96e-71334b25ca61",
       "headline": "Unwetter: Regionalverkehr bei der Westfrankenbahn wird komplett eingestellt",
       "newsType": "Aktuelle Sturmtiefs",
-      "timePeriod": "ab Heute, 20. Februar 2022 ca. 19 Uhr bis Montag, 21. Februar 2022 ca. 9:00 - 10:00 Uhr",
+      "timePeriod": "ab heute, 20. Februar 2022 ca. 19 Uhr bis Montag, 21. Februar 2022 ca. 9:00 - 10:00 Uhr",
       "introText": "<p>Aufgrund von Unwetter kommt es bundesweit zu Versp&auml;tungen und Zugausf&auml;llen im Bahnverkehr.</p>\n\n<p><strong>Der Zugverkehr der Westfrankenbahn wird ab 19 Uhr auf allen Strecken komplett eingestellt.</strong></p>\n",
       "connections": [
         ""
@@ -267,7 +265,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "20.02.2022 12:38",
+      "lastModified": "20.02.2022 12:50",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 102
