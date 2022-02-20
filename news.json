@@ -43,9 +43,9 @@
     {
       "id": "0fd69635-a2e8-4bc7-a148-10b4cecc7964",
       "headline": "Unwetterschäden: Auswirkungen auf Bahnverkehr bis Montagnachmittag in Thüringen",
-      "newsType": "Sturmtief Zeynep",
-      "timePeriod": "ab 18. Februar 2022 ",
-      "introText": "<p><strong>Auf Grund des angek&uuml;ndigten Sturmtiefs &quot;Zeynep&quot; muss mit Einschr&auml;nkungen im Bahnverkehr gerechnet werden. Nach aktuellem Wetterbericht ist auch die Region Th&uuml;ringen betroffen. Bitte rechnen Sie trotzallem mit Versp&auml;tungen und Zugausf&auml;llen &uuml;ber die wir an dieser Stelle informieren werden.</strong></p>\n",
+      "newsType": "Sturmtief Antonia",
+      "timePeriod": "ab 20. Februar 2022 ",
+      "introText": "<p><strong>Auf Grund des angek&uuml;ndigten Sturmtiefs &quot;Antonia&quot; muss mit Einschr&auml;nkungen im Bahnverkehr gerechnet werden. Nach aktuellem Wetterbericht ist auch die Region Th&uuml;ringen betroffen. Bitte rechnen Sie mit Versp&auml;tungen und Zugausf&auml;llen &uuml;ber die wir an dieser Stelle informieren werden.</strong></p>\n",
       "connections": [],
       "closingText": "<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet. Die Nummer lautet 08000 99 66 33.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" style=\"box-sizing:border-box; font-size:0.875rem; background-position:0.25rem; background-size:0.6875rem 0.6875rem; padding-left:1rem; color:blue; text-decoration:underline\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" style=\"box-sizing:border-box; font-size:0.875rem; background-position:0.25rem; background-size:0.6875rem 0.6875rem; padding-left:1rem; color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator</a>&nbsp;oder bei der kostenlosen Sonderhotline Tel. +49 (0)8000 99 66 33.</p>\n",
       "priority": "1",
@@ -55,7 +55,7 @@
       "areas": [
         "th"
       ],
-      "lastModified": "20.02.2022 08:14",
+      "lastModified": "20.02.2022 12:29",
       "author": "suedost",
       "expand": false,
       "priorityValue": 201
@@ -246,6 +246,29 @@
         "by"
       ],
       "lastModified": "18.02.2022 17:47",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "8bdcdb82-75f3-40bd-a96e-71334b25ca61",
+      "headline": "Unwetter: Regionalverkehr bei der Westfrankenbahn wird komplett eingestellt",
+      "newsType": "Aktuelle Sturmtiefs",
+      "timePeriod": "ab Heute, 20. Februar 2022 ca. 19 Uhr bis Montag, 21. Februar 2022 ca. 9:00 - 10:00 Uhr",
+      "introText": "<p>Aufgrund von Unwetter kommt es bundesweit zu Versp&auml;tungen und Zugausf&auml;llen im Bahnverkehr.</p>\n\n<p><strong>Der Zugverkehr der Westfrankenbahn wird ab 19 Uhr auf allen Strecken komplett eingestellt.</strong></p>\n",
+      "connections": [
+        ""
+      ],
+      "closingText": "<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet. Die Nummer lautet 08000 99 66 33.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf<strong>&nbsp;<a href=\"https://www.bahn.de/reiseauskunft\" target=\"_blank\">www.bahn.de/reiseauskunft</a></strong>, im<strong>&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a></strong>&nbsp;oder bei der kostenlosen Sonderhotline Tel. +49 (0)8000 99 66 33.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "by"
+      ],
+      "lastModified": "20.02.2022 12:38",
+      "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 102
     },
