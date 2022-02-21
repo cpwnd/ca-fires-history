@@ -43,6 +43,44 @@
       "priorityValue": 316
     },
     {
+      "id": "cd824aaa-dc83-466b-8b8a-fbb80fee1e67",
+      "headline": "Beeinträchtigungen zwischen Hannover und Minden(W) bzw. Bremen",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "Am Montag, 21.02.2022 bis in die Nachmittagsstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung im Bahnhof Wunstorf zwischen Hannover und Bremen bzw. Hannover und Minden(W) kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Derzeit sind keine Zugfahrten auf diesem Abschnitt m&ouml;glich. Es kommt zu erheblichen Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE, IC/EC Züge auf dem Abschnitt Hannover <-> Minden(W) sowie Hannover <-> Bremen"
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Zwischen Berlin und Hannover nutzen Sie die verkehrenden Fernverkehrsz&uuml;ge &uuml;ber Hannover Messe/Laatzen. Zwischen Hannover Hbf und Hannover Messe/Laatzen nutzen Sie den Regionalverkehr der S-Bahn Linie 4 sowie die Stra&szlig;enbahnlinien 1 und 2.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
+      ],
+      "lastModified": "21.02.2022 15:33",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 316
+    },
+    {
       "id": "0fd69635-a2e8-4bc7-a148-10b4cecc7964",
       "headline": "Unwetter: Auswirkungen auf Bahnverkehr in Thüringen",
       "newsType": "Sturmtief Antonia",
@@ -105,29 +143,6 @@
       ],
       "lastModified": "21.02.2022 15:17",
       "author": "suedost",
-      "expand": false,
-      "priorityValue": 201
-    },
-    {
-      "id": "353fc0fd-0a64-4584-98cd-ed2cfeca4a28",
-      "headline": "Beeinträchtigungen zwischen Münster(Westf) und Recklinghausen",
-      "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Heute, 21.02.2022 bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen M&uuml;nster(Westf) und Recklinghausen&nbsp;kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 15 Minuten. Der Halt&nbsp;Recklinghausen Hbf entf&auml;llt.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle IC Züge zwischen Münster(Westf) - Recklinghausen - Wanne-Eickel"
-      ],
-      "closingText": "<p><strong>Recklinghausen Hbf erreichen Sie &uuml;ber Herne</strong>: Nutzen Sie bitte zwischen Wanne-Eickel Hbf und Herne die Regionallinen der DB Regio AG NRW. In Herrne besteh Anschluss an die S-Bahnlinien zwischen Herne und&nbsp;Recklinghausen&nbsp;Hbf.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "21.02.2022 14:23",
-      "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
     },
