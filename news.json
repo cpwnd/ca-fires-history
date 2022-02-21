@@ -8,11 +8,10 @@
       "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es weiterhin in Teilen Deutschlands zu Versp&auml;tungen und Zugausf&auml;llen im Bahnverkehr.</p>\n",
       "connectionsHeadline": "Von Unwetterauswirkungen sind aktuell noch folgende Verbindungen im Fernverkehr betroffen: ",
       "connections": [
-        "Die ICE-Züge von Hamburg nach Hannover werden südwärts über Bremen umgeleitet und verspäten sich um etwa 60 Min. Nordwärts von Hannover nach Hamburg fahren die Züge auf dem planmäßigen Weg.",
+        "ICE-Züge zwischen Hamburg nach Hannover verspäten sich um etwa 60 Min. Es kommt zu Teilausfällen zwischen Hamburg und Hannover.",
         "Es fahren heute noch keine Fernverkehrszüge von und nach Schwerin, Rostock und Stralsund",
         "Es fahren heute noch keine Fernverkehrszüge von und nach Leer, Emden und Norddeich Mole.",
-        "Es fahren bis vsl. 23.02. keine Fernverkehrszüge zwischen Siegen und Dortmund.",
-        "Berlin, Hamburg, Hannover, Bremen, Münster und Kiel sind mit Zügen des Fernverkehrs wieder erreichbar"
+        "Es fahren bis vsl. 23.02. keine Fernverkehrszüge zwischen Siegen und Dortmund."
       ],
       "closingText": "<p><strong>G&uuml;ltigkeit der Tickets</strong></p>\n\n<p>F&uuml;r den Zeitraum der aktuellen Sturmtiefs gelten besondere Kulanzregelungen f&uuml;r die G&uuml;ltigkeit bereits gekaufter Fernverkehrstickets:</p>\n\n<p>Alle Fahrg&auml;ste, die ihre f&uuml;r den Zeitraum vom&nbsp;17.02.22&nbsp;bis 21.02.22 geplante Reise aufgrund der aktuellen Sturmtiefs verschieben m&ouml;chten, k&ouml;nnen ihr bereits gebuchtes Ticket f&uuml;r den Fernverkehr ab sofort bis einschlie&szlig;lich 7 Tage nach St&ouml;rungsende entweder flexibel nutzen oder kostenfrei stornieren. Auch Sitzplatzreservierungen k&ouml;nnen kostenfrei storniert werden.</p>\n\n<p>Zudem gelten bei Versp&auml;tung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter&nbsp;<a href=\"https://www.bahn.de/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Wir haben alle Informationen zu Reisen w&auml;hrend der aktuellen Sturmtiefs <a href=\"https://www.bahn.de/sonderkulanz\" style=\"color: rgb(5, 99, 193); text-decoration: underline; --darkreader-inline-color:#46cbff;\" title=\"https://www.bahn.de/sonderkulanz\">hier</a>&nbsp;nochmals ausf&uuml;hrlich f&uuml;r Sie zusammengestellt.</p>\n\n<p><strong>Kostenlose Sonderhotline</strong></p>\n\n<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet. Die Nummer lautet 08000 99 66 33.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der kostenlosen Sonderhotline Tel. +49 (0)8000 99 66 33.</p>\n",
       "priority": "2",
@@ -37,7 +36,7 @@
         "sh",
         "th"
       ],
-      "lastModified": "21.02.2022 14:18",
+      "lastModified": "21.02.2022 17:07",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 316
@@ -46,13 +45,15 @@
       "id": "cd824aaa-dc83-466b-8b8a-fbb80fee1e67",
       "headline": "Beeinträchtigungen zwischen Hannover und Minden(W) bzw. Bremen",
       "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Am Montag, 21.02.2022 bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung im Bahnhof Wunstorf zwischen Hannover und Bremen bzw. Hannover und Minden(W) kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Derzeit sind Zugfahrten auf diesem Abschnitt nur stark eingeschr&auml;nkt m&ouml;glich. Es kommt zu erheblichen Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
+      "timePeriod": "Am Montag, 21.02.2022 bis in die Abendstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung im Bahnhof Wunstorf zwischen Hannover und Bremen bzw. Hannover und Minden(W) kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Derzeit sind keine Zugfahrten auf diesem Abschnitt m&ouml;glich. Es kommt zu erheblichen Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle ICE, IC/EC Züge auf dem Abschnitt Hannover <-> Minden(W) sowie Hannover <-> Bremen"
+        "Alle ICE, IC/EC Züge auf dem Abschnitt Hannover <-> Minden(W) sowie Hannover <-> Bremen",
+        "ICE Züge Berlin - Hannover - Hamm(W) - Düsseldorf / Köln fallen auf dem Abschnitt Berlin - Hamm(W) aus.",
+        "IC Züge Berlin - Hannover - Bad Bentheim - Amsterdam fallen auf dem Abschnitt Berlin - Bad Bentheim aus."
       ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Zwischen Berlin und Hannover nutzen Sie die verkehrenden Fernverkehrsz&uuml;ge &uuml;ber Hannover Messe/Laatzen. Zwischen Hannover Hbf und Hannover Messe/Laatzen nutzen Sie den Regionalverkehr der S-Bahn Linie 4 sowie die Stra&szlig;enbahnlinien 1 und 2.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Zwischen Berlin und Hannover nutzen Sie die verkehrenden Fernverkehrsz&uuml;ge &uuml;ber Hannover Messe/Laatzen. Zwischen Hannover Hbf und Hannover Messe/Laatzen nutzen Sie den Regionalverkehr der S-Bahn Linie 4 sowie die Stra&szlig;enbahnlinien 1 und 2.</p>\n\n<p>Bitte rechnen Sie mit einem erh&ouml;hten Reisendenaufkommen bei den noch verkehrenden Z&uuml;gen.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -62,7 +63,7 @@
         "hh",
         "ni"
       ],
-      "lastModified": "21.02.2022 16:18",
+      "lastModified": "21.02.2022 17:13",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 303
@@ -90,26 +91,6 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 302
-    },
-    {
-      "id": "0fd69635-a2e8-4bc7-a148-10b4cecc7964",
-      "headline": "Unwetter: Auswirkungen auf Bahnverkehr in Thüringen",
-      "newsType": "Sturmtief Antonia",
-      "timePeriod": "ab 20. Februar 2022 ",
-      "introText": "<p><strong>Der Regionalverkehr der DB Regio AG in Th&uuml;ringen verkehrt stabil. Bitte rechnen Sie noch mit vereinzelten Versp&auml;tungen und ggf. Zugausf&auml;llen.</strong></p>\n",
-      "connections": [],
-      "closingText": "<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen des aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet. Die Nummer lautet 08000 99 66 33.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" style=\"box-sizing:border-box; font-size:0.875rem; background-position:0.25rem; background-size:0.6875rem 0.6875rem; padding-left:1rem; color:blue; text-decoration:underline\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" style=\"box-sizing:border-box; font-size:0.875rem; background-position:0.25rem; background-size:0.6875rem 0.6875rem; padding-left:1rem; color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator</a>&nbsp;oder bei der kostenlosen Sonderhotline Tel. +49 (0)8000 99 66 33.</p>\n",
-      "priority": "1",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "th"
-      ],
-      "lastModified": "21.02.2022 12:10",
-      "author": "suedost",
-      "expand": false,
-      "priorityValue": 201
     },
     {
       "id": "a93b29ea-2736-4ad7-82ba-47191b433f0f",
