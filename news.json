@@ -46,14 +46,15 @@
       "headline": "Beeinträchtigungen zwischen Hannover und Minden(W) bzw. Bremen",
       "newsType": "Reparatur an der Oberleitung",
       "timePeriod": "Am Montag, 21.02.2022 bis in die Abendstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung im Bahnhof Wunstorf zwischen Hannover und Bremen bzw. Hannover und Minden(W) kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Derzeit sind keine Zugfahrten auf diesem Abschnitt m&ouml;glich. Es kommt zu erheblichen Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung im Bahnhof Wunstorf zwischen Hannover und Bremen bzw. Hannover und Minden(W) kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu erheblichen Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle ICE, IC/EC Züge auf dem Abschnitt Hannover <-> Minden(W) sowie Hannover <-> Bremen",
         "ICE Züge Berlin - Hannover - Hamm(W) - Düsseldorf / Köln fallen auf dem Abschnitt Berlin - Hamm(W) aus.",
-        "IC Züge Berlin - Hannover - Bad Bentheim - Amsterdam fallen auf dem Abschnitt Berlin - Bad Bentheim aus."
+        "IC Züge Berlin - Hannover - Bad Bentheim - Amsterdam fallen auf dem Abschnitt Berlin - Bad Bentheim aus.",
+        "ICE, IC Züge Norddeich - Oldenburg - Bremen - Hannover fallen auf diesem Abschnitt aus.",
+        "Einzelne ICE, IC Züge (Kiel - ) Hamburg - Hannover - Kassel - Süddeutschland fallen aus."
       ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Zwischen Berlin und Hannover nutzen Sie die verkehrenden Fernverkehrsz&uuml;ge &uuml;ber Hannover Messe/Laatzen. Zwischen Hannover Hbf und Hannover Messe/Laatzen nutzen Sie den Regionalverkehr der S-Bahn Linie 4 sowie die Stra&szlig;enbahnlinien 1 und 2.</p>\n\n<p>Bitte rechnen Sie mit einem erh&ouml;hten Reisendenaufkommen bei den noch verkehrenden Z&uuml;gen.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p><strong>Zwischen Berlin und Hannover</strong> nutzen Sie die verkehrenden Fernverkehrsz&uuml;ge &uuml;ber Hannover Messe/Laatzen. Zwischen Hannover Hbf und Hannover Messe/Laatzen nutzen Sie den Regionalverkehr der S-Bahn Linie 4 sowie die Stra&szlig;enbahnlinien 1 und 2.</p>\n\n<p><strong>Zwischen Hannover - Minden und NRW&nbsp;</strong>nutzen Sie die noch verkehrenden IC Z&uuml;ge.</p>\n\n<p>Bitte rechnen Sie mit einem erh&ouml;hten Reisendenaufkommen bei den noch verkehrenden Z&uuml;gen.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -63,7 +64,7 @@
         "hh",
         "ni"
       ],
-      "lastModified": "21.02.2022 17:13",
+      "lastModified": "21.02.2022 18:39",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 303
@@ -205,11 +206,11 @@
       "id": "b60c629b-4dbc-4322-b38c-3f98c3c8ee8e",
       "headline": "Regionalverkehr in Niedersachsen und Bremen weiterhin beeinträchtigt.",
       "newsType": "aktuelle Sturmtiefs",
-      "timePeriod": "vsl. bis mindestens Montagnachmittag, den 21. Februar 2022",
+      "timePeriod": "vsl. bis mindestens Dienstagnachmittag, den 22. Februar 2022",
       "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es weiterhin in Niedersachsen und Bremen zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr.</p>\n",
       "connectionsHeadline": "Die Züge verkehren teilweise mit Verspätungen. Zugausfälle sind noch möglich. Auf folgenden Strecken kommt es derzeit noch zu stärkeren Beeinträchtigungen:",
       "connections": [
-        "S1 (Minden(Westf) – Wunstorf – Hannover Hbf - Haste): Streckenabschnitt zwischen Minden(Westf) und Hannover gesperrt.  Es verkehrt ein Bus der Firma Scholkemeyer im Pendel.",
+        "S1 (Minden(Westf) – Wunstorf – Hannover Hbf - Haste): Streckenabschnitt zwischen Minden(Westf) und Wunstorf gesperrt.  Es verkehrt ein Bus der Firma Scholkemeyer im Pendel.",
         "S2 (Nienburg(Weser) - Hannover Hbf - Haste): Streckensperrung zwischen Nienburg(Weser) und Wunstorf. Es verkehren jeweils 3 Busse pro Richtung der Firma ORS/Block und Kingstravel im Pendel.",
         "S4 (Bennemühlen - Hannover Hbf): Streckenabschnitt zwischen Emmerke und Hildesheim eingleisig befahrbar. Bitte rechnen Sie noch mit Verspätungen und Zugausfällen bis sich der Zugverkehr wieder stabilisiert hat.",
         "S5 (Hannover Flughafen - Hameln (-Paderborn): Streckensperrung vsl. bis zum 23.02.2022 zwischen Hameln und Altenbeken. Ein Ersatzverkehr mit Bussen ist eingerichtet.",
@@ -225,7 +226,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "21.02.2022 16:48",
+      "lastModified": "21.02.2022 18:38",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
@@ -241,23 +242,7 @@
         "S7 Riedstadt-Goddelau - Groß Gerau-Dornberg - Frankfurt am Main-Stadion - Frankfurt(Main)Hbf",
         "RE70 Frankfurt(Main)Hbf - Biblis - Mannheim Hbf"
       ],
-      "download": {
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:bb93e65e-4e6c-4039-9146-61d7658ac522/02-22_S7_50120.pdf",
-            "title": "Plakat S7 (PDF, 197 KB)",
-            "info": "Plakat S7",
-            "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:6080bcd0-9361-4c61-8f1f-818cf288bded/02-22_RE70_50120.pdf",
-            "title": "Plakat RE70 (PDF, 424 KB)",
-            "info": "Plakat RE70",
-            "openInNewTab": true
-          }
-        ]
-      },
-      "closingText": "<p><strong>S7:</strong></p>\n\n<p>Die Strecke zwischen Gro&szlig;-Gerau Dornberg und Riedstadt-Goddelau bleibt bis zum Betriebsschluss des 22. Februar 2022 gesperrt. Die Z&uuml;ge der S-Bahn-Linie S7 fallen zwischen Gro&szlig;-Gerau Dornberg und Riedstadt-Goddelau aus. Wir haben einen Schienenersatzverkehr f&uuml;r Sie eingerichtet.</p>\n\n<p><strong>RE70:</strong></p>\n\n<p>Zwischen Frankfurt(Main)Hbf und Mannheim Hbf kommt es zu ge&auml;nderten Fahrzeiten und Teilausf&auml;llen. Die Z&uuml;ge der RE70 verkehren ausschlie&szlig;lich zwischen Mannheim Hbf und Biebesheim. Reisende zwischen Frankfurt(Main)Hbf und Gro&szlig; Gerau-Dornberg nutzen bitte die S-Bahn-Linie S7. Wir haben einen Schienenersatzverkehr zwischen Gro&szlig; Gerau-Dornberg und Biebesheim f&uuml;r Sie eingerichtet.</p>\n\n<p>Die Fahrzeiten der Schienenersatzverkehre k&ouml;nnen Sie den beigef&uuml;gten Plakaten entnehmen. Diese gelten auch f&uuml;r den 22. Februar 2022.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter: <a href=\"tel:06924445710\">069 24445710</a></p>\n",
+      "closingText": "<p><strong>S7:</strong></p>\n\n<p>Die Strecke zwischen Gro&szlig;-Gerau Dornberg und Riedstadt-Goddelau bleibt bis zum Betriebsschluss des 22. Februar 2022 gesperrt. Die Z&uuml;ge der S-Bahn-Linie S7 fallen zwischen Gro&szlig;-Gerau Dornberg und Riedstadt-Goddelau aus. Wir haben einen Schienenersatzverkehr f&uuml;r Sie eingerichtet.</p>\n\n<p><strong>RE70:</strong></p>\n\n<p>Zwischen Frankfurt(Main)Hbf und Mannheim Hbf kommt es zu ge&auml;nderten Fahrzeiten und Teilausf&auml;llen. Die Z&uuml;ge der RE70 verkehren ausschlie&szlig;lich zwischen Mannheim Hbf und Biebesheim. Reisende zwischen Frankfurt(Main)Hbf und Gro&szlig; Gerau-Dornberg nutzen bitte die S-Bahn-Linie S7. Wir haben einen Schienenersatzverkehr zwischen Gro&szlig; Gerau-Dornberg und Biebesheim f&uuml;r Sie eingerichtet.</p>\n\n<p>Die Fahrzeiten der Schienenersatzverkehre k&ouml;nnen Sie den beigef&uuml;gten Plakaten f&uuml;r die S7 (<a href=\"https://assets.static-bahn.de/dam/jcr:bb93e65e-4e6c-4039-9146-61d7658ac522/02-22_S7_50120.pdf\">hier</a>) sowie den RE70 (<a href=\"https://assets.static-bahn.de/dam/jcr:6080bcd0-9361-4c61-8f1f-818cf288bded/02-22_RE70_50120.pdf\">hier</a>)&nbsp;entnehmen. Diese gelten auch f&uuml;r den 22. Februar 2022.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter: <a href=\"tel:06924445710\">069 24445710</a></p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -266,7 +251,7 @@
         "bw",
         "he"
       ],
-      "lastModified": "21.02.2022 18:24",
+      "lastModified": "21.02.2022 18:33",
       "author": "hessen",
       "expand": false,
       "priorityValue": 102
@@ -377,6 +362,27 @@
       ],
       "lastModified": "18.02.2022 19:25",
       "author": "suedost",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "7757b761-fc44-4562-85c8-d5576b35a8c8",
+      "headline": "Regionalverkehr in Schleswig-Holstein weiterhin beeinträchtigt.",
+      "newsType": "aktuelle Sturmtiefs",
+      "timePeriod": "vsl. bis mindestens Dienstag, den 22. Februar 2022",
+      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es weiterhin in Schleswig-Holstein zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr.</p>\n",
+      "connectionsHeadline": "Die Züge verkehren teilweise mit Verspätungen. Zugausfälle sind noch möglich. Auf folgenden Strecken kommt es derzeit noch zu Beeinträchtigungen:",
+      "connections": [],
+      "closingText": "<ul>\n\t<li><strong>RE 8 (L&uuml;beck Hbf &ndash; Hamburg Hbf):</strong>&nbsp;Streckensperrung zwischen Hamburg-Rahlstedt und&nbsp; Hamburg-Wandsbek.&nbsp;Die Z&uuml;ge verkehren zwischen L&uuml;beck Hbf - Ahrensburg. Ein Busnotverkehr ist im Pendel zwischen Ahrensburg Bahnhof und Ahrensburg West (U-Bahn) eingerichtet.</li>\n\t<li><strong>RE 80 (L&uuml;beck Hbf &ndash; Ahrensburg &ndash; Hamburg Hbf):&nbsp;</strong>Streckensperrung zwischen Hamburg-Rahlstedt und Hamburg-Wandsbek.&nbsp;Die Z&uuml;ge verkehren zwischen L&uuml;beck Hbf - Ahrensburg.&nbsp;Ein Busnotverkehr ist im Pendel zwischen Ahrensburg Bahnhof und Ahrensburg West (U-Bahn) eingerichtet.</li>\n\t<li><strong>RB 81 (Bad Oldesloe - Hamburg Hbf):&nbsp;</strong>Streckensperrung zwischen Hamburg-Rahlstedt und Hamburg-Wandsbek.&nbsp;Die Z&uuml;ge verkehren zwischen Hamburg Hbf - Hamburg-Rahlstedt.</li>\n</ul>\n\n<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>&nbsp;oder in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a></u>.&nbsp;Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf&nbsp;<u><a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a></u>.</p>\n\n<p>Bitte informieren Sie sich auch bei der <a href=\"https://www.nordbahn.de/reiseplanung/eilmeldungen\" target=\"_blank\">Nordbahn</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sh"
+      ],
+      "lastModified": "21.02.2022 18:41",
+      "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 101
     },
@@ -504,11 +510,9 @@
       "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es weiterhin im Regional- und S-Bahn-Verkehr der Deutschen Bahn AG in Hessen zu Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
-        "S2: Dietzenbach Bahnhof - Offenbach(Main)Ost - Frankfurt Hbf (tief) - Niedernhausen(Taunus)",
-        "RE20 / RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Idstein(Taunus) - Limburg(Lahn)",
         "RB61: (Frankfurt(Main)Hbf -) Dreieich-Buchschlag - Rödermark-Ober Roden (-Dieburg)"
       ],
-      "closingText": "<p>&nbsp;</p>\n\n<p><strong><u>Es kommt zu folgenden Einschr&auml;nkungen</u></strong>:</p>\n\n<p><strong>RB61:</strong></p>\n\n<p>Unwetterauswirkungen beeintr&auml;chtigen den Bahnverkehr.</p>\n\n<p>Daher kommt es zu Versp&auml;tungen.<br />\nZwischen Dreieich-Buchschlag - Neu-Isenburg - Frankfurt(Main)Hbf kommt es zu vereinzelten Teilausf&auml;llen.</p>\n\n<p>Unsere Empfehlung: Nutzen Sie zwischen Frankfurt Hbf (tief) und Dreieich-Buchschlag bitte auch die Z&uuml;ge der S-Bahn-Linien S3 und S4.</p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>Beendete Einschr&auml;nkungen:</strong></u></p>\n\n<p>&nbsp;</p>\n\n<p><strong>S2:</strong></p>\n\n<p>Die Z&uuml;ge fahren auf der geplanten Strecke mit allen Halten.</p>\n\n<p>Es kommt noch zu Folgeversp&auml;tungen und kurzfristigen Teilausf&auml;llen.</p>\n\n<p><strong>RE20 / RB22:</strong></p>\n\n<p>Die Z&uuml;ge fahren auf der geplanten Strecke mit allen Halten.</p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>Kostenlose Sonderhotline:</strong></u></p>\n\n<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet.<br />\nDie Nummer lautet:<br />\n<a href=\"tel:08000 99 66 33\">08000 99 66 33</a></p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer des Unwetters auf jeden Fall mehr Reisezeit ein und informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n\n<p>&nbsp;</p>\n",
+      "closingText": "<p>&nbsp;</p>\n\n<p><strong><u>Es kommt zu folgenden Einschr&auml;nkungen</u></strong>:</p>\n\n<p><strong>RB61:</strong></p>\n\n<p>Unwetterauswirkungen beeintr&auml;chtigen den Bahnverkehr.</p>\n\n<p>Daher kommt es zu Versp&auml;tungen.<br />\nZwischen Dreieich-Buchschlag - Neu-Isenburg - Frankfurt(Main)Hbf kommt es zu vereinzelten Teilausf&auml;llen.</p>\n\n<p>Unsere Empfehlung: Nutzen Sie zwischen Frankfurt Hbf (tief) und Dreieich-Buchschlag bitte auch die Z&uuml;ge der S-Bahn-Linien S3 und S4.</p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>Kostenlose Sonderhotline:</strong></u></p>\n\n<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet.<br />\nDie Nummer lautet:<br />\n<a href=\"tel:08000 99 66 33\">08000 99 66 33</a></p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer des Unwetters auf jeden Fall mehr Reisezeit ein und informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n\n<p>&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -516,7 +520,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "21.02.2022 15:27",
+      "lastModified": "21.02.2022 18:28",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
