@@ -47,7 +47,7 @@
       "headline": "Beeinträchtigungen zwischen Hannover und Minden(W) bzw. Bremen",
       "newsType": "Reparatur an der Oberleitung",
       "timePeriod": "Am Montag, 21.02.2022 bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung im Bahnhof Wunstorf zwischen Hannover und Bremen bzw. Hannover und Minden(W) kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Derzeit sind keine Zugfahrten auf diesem Abschnitt m&ouml;glich. Es kommt zu erheblichen Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung im Bahnhof Wunstorf zwischen Hannover und Bremen bzw. Hannover und Minden(W) kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Derzeit sind Zugfahrten auf diesem Abschnitt nur stark eingeschr&auml;nkt m&ouml;glich. Es kommt zu erheblichen Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "Alle ICE, IC/EC Züge auf dem Abschnitt Hannover <-> Minden(W) sowie Hannover <-> Bremen"
@@ -58,27 +58,38 @@
         "longDistance"
       ],
       "areas": [
-        "bw",
-        "by",
-        "be",
-        "br",
         "hb",
         "hh",
-        "he",
-        "mv",
-        "ni",
-        "nw",
-        "rp",
-        "sl",
-        "sn",
-        "st",
-        "sh",
-        "th"
+        "ni"
       ],
-      "lastModified": "21.02.2022 15:33",
+      "lastModified": "21.02.2022 16:18",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 316
+      "priorityValue": 303
+    },
+    {
+      "id": "1d2d0203-ff5b-4484-96bc-46bc0a1bdac9",
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Mannheim",
+      "newsType": "Bauarbeiten",
+      "timePeriod": "Am Dienstag, 22.02.2022",
+      "introText": "<p>Aufgrund von Bauarbeiten zwischen Frankfurt(M) und Riedstadt-Goddelau kommt es zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 25 Minuten. Einzelne Z&uuml;ge halten nicht in Mannheim Hbf. Ersatzweise halten die Z&uuml;ge in Heidelberg Hbf.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE/TGV, IC/EC Züge auf dem Abschnitt Frankfurt(M) - Mannheim - Karlsruhe / Stuttgart"
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Zwischen Mannheim Hbf und Heidelberg Hbf nutzen Sie bitte die Z&uuml;ge der S-Bahn Linie S1, S2 und S3.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "he"
+      ],
+      "lastModified": "21.02.2022 16:12",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
     },
     {
       "id": "0fd69635-a2e8-4bc7-a148-10b4cecc7964",
@@ -148,10 +159,10 @@
     },
     {
       "id": "f9ecc72a-9319-4e42-bb93-2ba800dec14d",
-      "headline": "Unwetter: Auswirkungen auf den Bahnverkehr in Nordbaden, Rheinland-Pfalz und im Saarland",
+      "headline": "Unwetterschäden: Regionalverkehr in Nordbaden, Rheinland-Pfalz und im Saarland weiterhin beeinträchtigt",
       "newsType": "Aktuelles Sturmtief ",
-      "timePeriod": "16.02.-21.02.2022",
-      "introText": "<p><strong>Neue Unwetterwarnung:</strong> Bundesweite Auswirkungen ab Sonntagabend m&ouml;glich.</p>\n\n<p>Regionalverkehr in Nordbaden, Rheinland-Pfalz und im Saarland, kann mindestens bis Montagnachmittag 21.02.2022 beeintr&auml;chtigt sein.</p>\n\n<p><strong><em>Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</em></strong></p>\n",
+      "timePeriod": "21.02.-22.02.2022",
+      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es weiterhin in&nbsp;Nordbaden, Rheinland-Pfalz und im Saarland zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr.</p>\n\n<p><strong><em>Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</em></strong></p>\n",
       "connections": [],
       "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer des Unwetters auf jeden Fall mehr Reisezeit ein und&nbsp;informieren Sie sich regelm&auml;&szlig;ig kurz&nbsp;vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
       "priority": "0",
@@ -164,7 +175,7 @@
         "rp",
         "sl"
       ],
-      "lastModified": "21.02.2022 08:31",
+      "lastModified": "21.02.2022 16:16",
       "expand": false,
       "priorityValue": 104
     },
@@ -217,8 +228,12 @@
       "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es weiterhin in Niedersachsen und Bremen zu Versp&auml;tungen und Zugausf&auml;llen im Regionalverkehr.</p>\n",
       "connectionsHeadline": "Die Züge verkehren teilweise mit Verspätungen. Zugausfälle sind noch möglich. Auf folgenden Strecken kommt es derzeit noch zu stärkeren Beeinträchtigungen:",
       "connections": [
+        "S1 (Minden(Westf) – Wunstorf – Hannover Hbf - Haste): Streckenabschnitt zwischen Minden(Westf) und Hannover gesperrt.  Es verkehrt ein Bus der Firma Scholkemeyer im Pendel.",
         "S4 (Bennemühlen - Hannover Hbf): Streckenabschnitt zwischen Emmerke und Hildesheim eingleisig befahrbar. Bitte rechnen Sie noch mit Verspätungen und Zugausfällen bis sich der Zugverkehr wieder stabilisiert hat.",
-        "S5 (Hannover Flughafen - Hameln (-Paderborn)): Streckensperrung vsl. bis zum 23.02.2022 zwischen Hameln und Altenbeken. Ein Ersatzverkehr mit Bussen ist eingerichtet."
+        "S5 (Hannover Flughafen - Hameln (-Paderborn): Streckensperrung vsl. bis zum 23.02.2022 zwischen Hameln und Altenbeken. Ein Ersatzverkehr mit Bussen ist eingerichtet.",
+        "S2 (Nienburg(Weser) - Hannover Hbf - Haste): Streckensperrung zwischen Nienburg(Weser) und Wunstorf. Es verkehren jeweils 3 Busse pro Richtung der Firma ORS/Block und Kingstravel im Pendel.",
+        "RE1 (Hannover Hbf - Bremen Hbf - Norddeich Mole): Streckensperrung zwischen Nienburg(Weser) und Wunstorf. Es verkehren jeweils 3 Busse pro Richtung der Firma ORS/Block und Kingstravel im Pendel.",
+        "RE8 (Hannover Hbf - Bremen Hbf - Bremerhaven-Lehe): Streckensperrung zwischen Nienburg(Weser) und Wunstorf. Es verkehren jeweils 3 Busse pro Richtung der Firma ORS/Block und Kingstravel im Pendel."
       ],
       "closingText": "<p>Wir werden Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">bahn.de/reiseauskunft</a>&nbsp;oder&nbsp;in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a>.&nbsp;Eine kostenlose Servicenummer ist unter 08000 996633 eingerichtet.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen auf&nbsp;<a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Auch den Twitterkan&auml;len der Start Unterelbe&nbsp;<a href=\"http://twitter.com/start_unterelbe\" target=\"_blank\">Twitter</a>&nbsp;oder Start Niedersachsen Mitte&nbsp;<a href=\"https://twitter.com/start_NI_mitte\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://twitter.com/start_ni_mitte\">Twitter</a>&nbsp;k&ouml;nnen Sie folgen.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
@@ -229,7 +244,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "21.02.2022 14:26",
+      "lastModified": "21.02.2022 16:20",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
@@ -366,7 +381,7 @@
     },
     {
       "id": "6551d643-df7e-4ebb-b3d1-c17c46696f6f",
-      "headline": "Regionalverkehr in Mecklenburg-Vorpommern nur noch leicht beeinträchtigt - Zugverkehr auf RE4 ist wieder durchgängig möglich",
+      "headline": "Regionalverkehr in Mecklenburg-Vorpommern nur noch leicht beeinträchtigt",
       "newsType": "Unwetterschäden",
       "timePeriod": "bis vsl. Dienstag Nachmittag",
       "introText": "<p><strong>Der Regionalverkehr in Mecklenburg-Vorpommern ist nur noch leicht beeintr&auml;chtigt.<br />\nAuch die Linie RE4 verkehrt wieder durchg&auml;ngig zwischen L&uuml;beck und Szczecin/Ueckerm&uuml;nde.</strong></p>\n\n<p>Auf folgenden Linien <strong>fahren derzeit abschnittsweise keine Z&uuml;ge:&nbsp;</strong>&nbsp;<br />\n- RE5 - zwischen Neubrandenburg und Neustrelitz<br />\n-&nbsp;Ein Busnotverkehr ist eingerichtet. Den Fahrplan f&uuml;r den Ersatzverkehr finden Sie in der beigef&uuml;gten Datei.</p>\n",
@@ -389,7 +404,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "21.02.2022 13:11",
+      "lastModified": "21.02.2022 16:11",
       "author": "nordost",
       "expand": true,
       "priorityValue": 101
