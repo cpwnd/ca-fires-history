@@ -379,8 +379,11 @@
       "headline": "Regionalverkehr in Mecklenburg-Vorpommern ",
       "newsType": "Unwetterschäden",
       "timePeriod": "21. Februar 2022",
-      "introText": "<p>Der Regionalverkehr ist auf den meisten Linien mit Ausnahme der Linie RE5 wieder aufgenommen.</p>\n\n<p>Folgende Fahrten der Linie RE5 sind von witterungsedingten Beeintr&auml;chtigungen betroffen und fallen teilweise aus. Busnotverkehr ist eingerichtet.</p>\n\n<p><strong>RE 3506</strong> Ausfall zwischen Neustrelitz Hbf (ab 09:01 Uhr) und Neubrandenburg</p>\n\n<p><strong>RE 3508</strong> Ausfall zwischen Neustrelitz Hbf (ab 11:01 Uhr) und Neubrandenburg</p>\n\n<p><strong>RE 3510</strong> Ausfall zwischen Neustrelitz Hbf (ab 13:01 Uhr) und Neubrandenburg</p>\n\n<p><strong>RE 3512</strong> Ausfall zwischen Neustrelitz Hbf (ab 15:01 Uhr) und Neubrandenburg</p>\n\n<p><strong>RE 3514</strong> Ausfall zwischen Neustrelitz Hbf (ab 17:01 Uhr) und Neubrandenburg</p>\n\n<p><strong>RE 3516</strong> Ausfall zwischen Neustrelitz Hbf (ab 19:01 Uhr) und Neubrandenburg</p>\n\n<p><strong>RE 3509</strong> Ausfall zwischen Neubrandenburg (ab 10:30 Uhr) und Neustrelitz Hbf</p>\n\n<p><strong>RE 3511</strong> Ausfall zwischen Neubrandenburg (ab 12:30 Uhr) und Neustrelitz Hbf</p>\n\n<p><strong>RE 3513</strong> Ausfall zwischen Neubrandenburg (ab 14:30 Uhr) und Neustrelitz Hbf</p>\n\n<p><strong>RE 3515</strong> Ausfall zwischen Neubrandenburg (ab 16:30 Uhr) und Neustrelitz Hbf</p>\n\n<p><strong>RE 3517</strong> Ausfall zwischen Neubrandenburg (ab 18:30 Uhr) und Neustrelitz Hbf</p>\n\n<p><strong>RE 13057</strong> zwischen Neubrandenburg (ab 11:31 Uhr) und Neustrelitz Hbf</p>\n\n<p><strong>RE 13059</strong> zwischen Neubrandenburg (ab 13:31 Uhr) und Neustrelitz Hbf</p>\n\n<p><strong>RE 13061 </strong>zwischen Neubrandenburg (ab 15:31 Uhr) und Neustrelitz Hbf</p>\n\n<p><strong>RE13063</strong> zwischen Neubrandenburg (ab 17:31 Uhr) und Neustrelitz Hbf</p>\n\n<p><strong>RE13058</strong> zwischen Neustrelitz Hbf (ab 12:03 Uhr) und Neubrandenburg</p>\n\n<p><strong>RE13060</strong> zwischen Neustrelitz Hbf (ab 14:03 Uhr) und Neubrandenburg</p>\n\n<p><strong>RE13062</strong> zwischen Neustrelitz Hbf (ab 16:03 Uhr) und Neubrandenburg</p>\n\n<p><strong>RE 13064</strong> zwischen Neustrelitz Hbf (ab 18:03 Uhr) und Neubrandenburg</p>\n",
-      "connections": [],
+      "introText": "<p>Der Regionalverkehr ist auf den Linien RE4 und&nbsp; RE5 weiterhin unterbrochen.&nbsp;</p>\n\n<p>Der Zugverkehr des RE4 ist wegen eines umgest&uuml;tzten Baumes in der Strecke zwischen Reuterstadt Stavenhagen und Neubrandenburg unterbrochen. Informationen zur St&ouml;rungsdauer liegen aktuell nicht vor Ein Busnotverkehr ist eingerichtet.&nbsp;</p>\n\n<p>Folgende Fahrten der Linie RE5 sind von witterungsedingten Beeintr&auml;chtigungen betroffen und fallen bis ca. 16:00 Uhr zwischen Neustrelitz Hbf und Neubrandenburg aus. Busnotverkehr ist eingerichtet.</p>\n\n<p>&nbsp;</p>\n",
+      "connections": [
+        "RE5 Stralsund-Neubrandenburg-Neustrelitz-Berlin",
+        "RE4 Szczecin Glowny-Pasewalk-Neubrandenburg- Bad Kleinen-Lübeck Hbf"
+      ],
       "closingText": "<p>F&uuml;r Reisende, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen der aktuellen Sturmtiefs auf den Bahnverkehr informieren m&ouml;chten, wurde eine kostenfreie Sonderhotline eingerichtet. Die Nummer lautet <a href=\"tel:08000996633\">08000 99 66 33&nbsp;</a></p>\n\n<p><strong>Die Reiseauskunft wird st&auml;ndig aktualisiert.</strong></p>\n\n<p>Bitte informieren Sie sich daher unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter 0331 235 6881 und&nbsp;0385 750 2405.</p>\n",
       "priority": "0",
       "distance": [
@@ -389,7 +392,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "21.02.2022 10:07",
+      "lastModified": "21.02.2022 10:20",
       "author": "nordost",
       "expand": true,
       "priorityValue": 101
@@ -548,7 +551,7 @@
       "headline": "Unwetter: Regionalverkehr in Baden-Württemberg bei der DB Regio AG beeinträchtigt",
       "newsType": "Aktuelle Sturmtiefs",
       "timePeriod": "am 21. Februar 2022",
-      "introText": "<p>Aufgrund von Unwetter kommt es derzeit bundesweit zu Einschr&auml;nkungen im Bahnverkehr. Bitte rechnen Sie im Laufe des heutigen Tages, 21. Februar 2022 mit Versp&auml;tungen und Zugausf&auml;llen bei der DB Regio AG in Baden-W&uuml;rttemberg.</p>\n\n<p>Ein Ersatzverkehr mit einem Gelenkbus ist zwischen <strong>Backnang und Sulzbach(Murr</strong>) eingerichtet.</p>\n\n<p>Ab 07:30 Uhr pendeln zwei Busse zwischen <strong>Titisse und Himmelreich</strong> mit Unterwegshalt in Hinterzarten. Die St&ouml;rungsbeseitigung hier wird mindestens bis 18:00 Uhr andauern.</p>\n\n<p>&nbsp;</p>\n",
+      "introText": "<p>Aufgrund von Unwetter kommt es derzeit bundesweit zu Einschr&auml;nkungen im Bahnverkehr. Bitte rechnen Sie im Laufe des heutigen Tages, 21. Februar 2022 mit Versp&auml;tungen und Zugausf&auml;llen bei der DB Regio AG in Baden-W&uuml;rttemberg.</p>\n\n<p>Ein Ersatzverkehr mit einem Gelenkbus ist zwischen <strong>Backnang und Sulzbach(Murr</strong>) eingerichtet.</p>\n\n<p>Ab 07:30 Uhr pendeln zwei Busse zwischen <strong>Titisee und Himmelreich</strong> mit Unterwegshalt in Hinterzarten. Die St&ouml;rungsbeseitigung hier wird mindestens bis 18:00 Uhr andauern.</p>\n\n<p>&nbsp;</p>\n",
       "connectionsHeadline": "Aktuell sind folgende Strecke gesperrt:",
       "connections": [
         "Backnang - Sulzbach/Murr",
@@ -562,7 +565,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "21.02.2022 10:07",
+      "lastModified": "21.02.2022 10:12",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
