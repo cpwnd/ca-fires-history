@@ -1,30 +1,6 @@
 {
   "news": [
     {
-      "id": "e26e1e88-e310-4f65-8663-f15beeac0530",
-      "headline": "Beeinträchtigungen zwischen Bielefeld und Minden",
-      "newsType": "Baum im Gleis",
-      "timePeriod": "Am heutigen Donnerstag, 24.02.2022, vsl. bis in die Nachmittagsstunden",
-      "introText": "<p>Ein umgest&uuml;rzter Baum auf der Strecke beeintr&auml;chtigt derzeit den Fernverkehr der Deutschen Bahn zwischen Minden und Bielefeld. Es kommt zu Versp&auml;tungen und Haltausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE- und IC-Züge zwischen Hannover / Minden – Bielefeld – Gütersloh – Hamm (Westf) werden umgeleitet. Die Halte in Herford, Bielefeld und Gütersloh entfallen. Verspätungen von etwa 30 Minuten sind zu erwarten."
-      ],
-      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "ni",
-        "nw"
-      ],
-      "lastModified": "24.02.2022 19:22",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 302
-    },
-    {
       "id": "8717c5e9-3e97-49ca-aa74-35d1e150f4d6",
       "headline": "Unwetterauswirkungen: Bahnverkehr normalisiert sich",
       "newsType": "Kulanzregelung",
@@ -83,21 +59,21 @@
       "id": "b60c629b-4dbc-4322-b38c-3f98c3c8ee8e",
       "headline": "Streckensperrung zwischen Altenbeken und Bad Pyrmont",
       "newsType": "Unwetterschäden",
-      "timePeriod": "vsl. bis mindestens Donnerstagabend, den 24. Februar 2022",
-      "introText": "<p>Es kommt zu Beeintr&auml;chtigungen auf der Strecke&nbsp;S5 (Hannover Flughafen - Hameln (-Paderborn). Streckensperrung vsl. bis zum 24.02.2022 zwischen Bad Pyrmont und Altenbeken. Ein Ersatzverkehr mit Bussen ist eingerichtet.&nbsp;</p>\n\n<p><strong>Die Busse des Schienenersatzverkehres zwischen Altenbeken und Bad Pyrmont verkehren im Zwei-Stunden-Takt zu jeder geraden Uhrzeit wie folgt:</strong></p>\n\n<ul>\n\t<li>ab Altenbeken zur Minute 27</li>\n\t<li>Ab Steinheim (Westf) zur Minute 07</li>\n\t<li>Ab Schieder zur Minute 28</li>\n\t<li>Ab L&uuml;gde zur Minute 45</li>\n</ul>\n\n<p>Ankunft in Bad Pyrmont zur Minute 55. Die S-Bahnen fahren zur Minute 02 Richtung Hannover-Flughafen.</p>\n\n<p><strong>Die Busse des Schienenersatzverkehres zwischen Bad Pyrmont und Altenbeken verkehren im Zwei-Stunden-Takt zur geraden Stunde wie folgt:</strong></p>\n\n<ul>\n\t<li>Ab Bad Pyrmont zur Minute 10</li>\n\t<li>Ab L&uuml;gde Minute 20</li>\n\t<li>Ab Schieder zur Minute 37</li>\n\t<li>Ab Steinheim (Westf) zur Minute 58</li>\n</ul>\n\n<p>Ankunft in Altenbeken zur Minute 38.</p>\n",
+      "timePeriod": "vsl. bis mindestens Donnerstagabend, den 25. Februar 2022",
+      "introText": "<p>Es kommt zu Beeintr&auml;chtigungen auf der Strecke&nbsp;S5 (Hannover Flughafen - Hameln (-Paderborn). Streckensperrung vsl. bis zum 25.02.2022 zwischen Bad Pyrmont und Altenbeken. Ein Ersatzverkehr mit Bussen ist eingerichtet.&nbsp;</p>\n\n<p><strong>Die Busse des Schienenersatzverkehres zwischen Altenbeken und Bad Pyrmont verkehren im Zwei-Stunden-Takt zu jeder geraden Uhrzeit wie folgt:</strong></p>\n\n<ul>\n\t<li>ab Altenbeken zur Minute 27</li>\n\t<li>Ab Steinheim (Westf) zur Minute 07</li>\n\t<li>Ab Schieder zur Minute 28</li>\n\t<li>Ab L&uuml;gde zur Minute 45</li>\n</ul>\n\n<p>Ankunft in Bad Pyrmont zur Minute 55. Die S-Bahnen fahren zur Minute 02 Richtung Hannover-Flughafen.</p>\n\n<p><strong>Die Busse des Schienenersatzverkehres zwischen Bad Pyrmont und Altenbeken verkehren im Zwei-Stunden-Takt zur geraden Stunde wie folgt:</strong></p>\n\n<ul>\n\t<li>Ab Bad Pyrmont zur Minute 10</li>\n\t<li>Ab L&uuml;gde Minute 20</li>\n\t<li>Ab Schieder zur Minute 37</li>\n\t<li>Ab Steinheim (Westf) zur Minute 58</li>\n</ul>\n\n<p>Ankunft in Altenbeken zur Minute 38.</p>\n",
       "connections": [],
       "download": {
         "text": "<p><strong>Nachfolgend finden Sie die Fahrpl&auml;ne f&uuml;r den Ersatzverkehr:</strong></p>\n",
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:6d2afb6e-1a7e-4d4c-8f4a-1cce3f1337cd/Kopie%20von%20Ersatzverkehr%20Altenbeken%20-%20Bad%20Pyrmont.pdf",
+            "link": "https://assets.static-bahn.de/dam/jcr:6d2afb6e-1a7e-4d4c-8f4a-1cce3f1337cd/Ersatzverkehr%20Altenbeken%20-%20Bad%20Pyrmont%2025.2.pdf",
             "title": "Ersatzverkehr Altenbeken--Bad Pyrmont (PDF, 114 KB)",
             "info": "Ersatzverkehr Altenbeken--Bad Pyrmont",
             "openInNewTab": true
           },
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:1319bdc6-ec0c-455c-aa0d-56cf3887765b/Kopie%20von%20Ersatzverkehr%20Bad%20Pyrmont-Altenbeken.pdf",
-            "title": "Ersatzverkehr Bad Pyrmont - Altenbeken (PDF, 114 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:1319bdc6-ec0c-455c-aa0d-56cf3887765b/Ersatzverkehr%20Bad%20Pyrmont-%20Altenbeken%20%2025.2.pdf",
+            "title": "Ersatzverkehr Bad Pyrmont - Altenbeken (PDF, 115 KB)",
             "info": "Ersatzverkehr Bad Pyrmont - Altenbeken",
             "openInNewTab": false
           }
@@ -112,7 +88,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "24.02.2022 07:51",
+      "lastModified": "25.02.2022 00:14",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
