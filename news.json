@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "id": "7f0bdc20-3f2e-4d1b-8306-18808be8a301",
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M) Flughafen und Mainz",
+      "newsType": "Streckenstörung",
+      "timePeriod": "vsl. bis Donnerstag, 03.03.2022",
+      "introText": "<p>Aufgrund einer Streckenst&ouml;rung ist der Streckenabschnitt zwischen Frankfurt(M) Flughafen und Mainz Hbf derzeit gesperrt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und halten nicht in Frankfurt(M) Flughafen Fernbahnhof und Mainz Hbf. Ersatzweise halten die Z&uuml;ge in Mainz-Mombach.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE, IC/EC Züge auf dem Abschnitt Frankfurt(M) Flughafen und Mainz Hbf"
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>- Zwischen Mainz Hbf und Mainz-Mombach<strong> </strong>nutzen Sie bitte die Regionalz&uuml;ge der Linie RB 26 sowie den st&auml;dtischen Busverkehr.</p>\n\n<p>- Frankfurt(M) Flughafen erreichen Sie weiterhin von Mainz Hbf bzw. Frankfurt(M) Hbf mit den S-Bahn Linien 8 und 9 sowie den Regionalverkehrsz&uuml;gen &uuml;ber Frankfurt(M) Flughafen Regionalbahnhof.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "he",
+        "rp"
+      ],
+      "lastModified": "25.02.2022 08:03",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
+    },
+    {
       "id": "8717c5e9-3e97-49ca-aa74-35d1e150f4d6",
       "headline": "Unwetterauswirkungen: Bahnverkehr normalisiert sich",
       "newsType": "Kulanzregelung",
@@ -34,6 +58,30 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 216
+    },
+    {
+      "id": "cce11cdb-1026-44e8-8072-2356d1085b50",
+      "headline": "Verspätungen zwischen Braunschweig und Magdeburg ",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "Heute, 25.02.2022 bis in die Mittagsstunden ",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Braunschweig und Magdeburg&nbsp;kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 35 Minuten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle IC- Züge Hannover - Magdeburg - Leipzig"
+      ],
+      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "ni",
+        "st"
+      ],
+      "lastModified": "25.02.2022 08:01",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 202
     },
     {
       "id": "27f73f30-1515-42f7-824f-ef56f7970d0a",
