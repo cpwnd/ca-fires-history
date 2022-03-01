@@ -151,7 +151,7 @@
       "id": "c790b415-0136-4aac-9829-b95de0f387d7",
       "headline": "Teilausfall RB11 zwischen Rostock Hbf und Tessin ",
       "newsType": "defektes Stellwerk ",
-      "timePeriod": "01.März 2022 bis ca. 18:00 Uhr",
+      "timePeriod": "01.März 2022 bis Tagesauslauf",
       "introText": "<p>Als Folge eines defekten Stellwerkes m&uuml;ssen auf der Linie RB11 die Z&uuml;ge zwischen Rostock Hbf und Tessin in beiden Richtungen bis ca. 18:00 Uhr ausfallen.</p>\n\n<p>Ein Ersatzverkehr mit Bussen ist eingerichtet (Busnotverkehr).</p>\n\n<p>Bitte informieren Sie sich daher unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder telefonisch unter 0331 235 6881 und&nbsp;0385 750 2405.</p>\n",
       "connections": [],
       "priority": "0",
@@ -161,7 +161,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "01.03.2022 11:27",
+      "lastModified": "01.03.2022 13:05",
       "expand": false,
       "priorityValue": 101
     },
@@ -266,15 +266,15 @@
     },
     {
       "id": "5bf63065-df17-4479-93b3-277609235057",
-      "headline": "RE5 + RB93: Haltausfall Lindau-Aeschach aufgrund kurzfristiger Baumaßnahmen",
+      "headline": "Haltausfall Lindau-Aeschach",
       "newsType": "Bauarbeiten",
-      "timePeriod": "seit 15. Februar 2022",
-      "introText": "<p>Aufgrund von kurzfristigen Bauarbeiten entf&auml;llt seit 15. Februar 2022 der Halt <strong>in Lindau-Aeschach</strong> auf der Strecke zwischen Friedrichshafen und Lindau. Reisende von/nach Lindau-Aeschach nutzen bitte alternativ die Stadtbusse der Linie 4 zwischen Enzisweiler und Lindau&nbsp;Aeschach (Haltestelle Lindau, Wackersta&szlig;e). Bitte pr&uuml;fen Sie hierzu Ihre Reiseverbindung zum Beispiel auf www.bahn.de.</p>\n\n<p>Eine Prognose zur Dauer der Beeintr&auml;chtigungen kann aktuell noch nicht gegeben werden. Diese Meldung wird aktualisiert sobald uns neue Informationen vorliegen.</p>\n",
-      "connectionsHeadline": "Betroffener Halt:",
+      "timePeriod": "Bis auf Weiteres",
+      "connectionsHeadline": "Betroffene Linien:",
       "connections": [
-        "Lindau-Aeschach"
+        "RE5 Lindau - Ulm - Stuttgart",
+        "RB93 Friedrichshafen - Lindau"
       ],
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "closingText": "<p><u>Empfehlung:</u> Reisende von/nach Lindau-Aeschach nutzen bitte alternativ die Stadtbusse der Linie 4 zwischen Enzisweiler und Lindau&nbsp;Aeschach (Haltestelle Lindau, Wackersta&szlig;e). Bitte pr&uuml;fen Sie hierzu Ihre Reiseverbindung zum Beispiel auf www.bahn.de.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -282,7 +282,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "22.02.2022 01:01",
+      "lastModified": "01.03.2022 13:22",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
