@@ -35,7 +35,7 @@
       "connections": [
         "Alle ICE, IC/EC Züge zwischen Offenburg und Freiburg (Breisgau)"
       ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -43,7 +43,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "03.03.2022 16:46",
+      "lastModified": "03.03.2022 17:11",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 301
@@ -80,6 +80,61 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 216
+    },
+    {
+      "id": "345520c9-2ce0-4509-b24d-daf0bd288480",
+      "headline": "Streckensperrung zwischen Lahr(Schwarzwald) und Offenburg",
+      "newsType": "Reparatur an der Strecke",
+      "timePeriod": "seit 3. März 2020 um 14:35 Uhr",
+      "introText": "<p>Reparatur an der Strecke zwischen Lahr(Schwarzw) und Offenburg, der Streckenabschnitt ist f&uuml;r Zugfahrten gesperrt. In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen. Wir haben einen Ersatzverkehr mit Bussen zwischen Lahr(Schwarzw) und Offenburg im Pendelverkehr eingerichtet. Genaue Informationen zur Dauer der Sperrung liegen leider noch nicht vor, wir aktualisieren diese Meldung sobald uns neue Informationen vorliegen.</p>\n",
+      "connections": [
+        "Lahr(Schwarzw) - Offenburg"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
+      ],
+      "lastModified": "03.03.2022 17:39",
+      "expand": false,
+      "priorityValue": 116
+    },
+    {
+      "id": "77092980-23e5-4122-87ec-7bae23b5c484",
+      "headline": "Ausfall Kulturzug vom 4. bis 8 März 2022",
+      "newsType": "betriebliche Gründe",
+      "timePeriod": "4. bis 8. März 2022",
+      "introText": "<p>Alle Fahrten des Kulturzuges fallen im Zeitraum vom 4. bis 8. M&auml;rz aus betrieblichen Gr&uuml;nden aus.&nbsp;</p>\n\n<p>Bitte wenden Sie sich bei Erstattungsanspr&uuml;chen an das Servicecenter Fahrgastrechte www.bahn.de/fahrgastrechte.</p>\n\n<p>&nbsp;</p>\n",
+      "connections": [],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "03.03.2022 17:39",
+      "expand": true,
+      "priorityValue": 102
     },
     {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
