@@ -26,6 +26,29 @@
       "priorityValue": 302
     },
     {
+      "id": "7f3f677c-cbdf-42f4-9ea3-76a83741d162",
+      "headline": "Beeinträchtigungen zwischen Offenburg und Freiburg (Breisgau)",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "Am heutigen Donnerstag, 03.03.2022, bis in die Nachmittagsstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Offenburg und Freiburg (Breisgau) kommt es zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Zwischen Offenburg und Freiburg (Breisgau) findet zurzeit <strong>kein Zugverkehr</strong> statt.</p>\n\n<p>Einzelne Z&uuml;ge fallen zwischen Karlsruhe und Basel SBB aus.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE, IC/EC Züge zwischen Offenburg und Freiburg (Breisgau)"
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "03.03.2022 16:46",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 301
+    },
+    {
       "id": "e69a497b-85da-4812-a86e-a7a5176254b6",
       "headline": "Informationen für Ukraine-Flüchtlinge zur Ein- und Weiterreise ",
       "newsType": "Informationen",
@@ -59,88 +82,23 @@
       "priorityValue": 216
     },
     {
-      "id": "345520c9-2ce0-4509-b24d-daf0bd288480",
-      "headline": "Streckensperrung zwischen Lahr(Schwarzwald) und Offenburg",
-      "newsType": "Reparatur an der Strecke",
-      "timePeriod": "seit 3. März 2020 um 14:35 Uhr",
-      "introText": "<p>Reparatur an der Strecke zwischen Lahr(Schwarzw) und Offenburg, der Streckenabschnitt ist f&uuml;r Zugfahrten gesperrt. In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen. Wir haben die Zusage f&uuml;r einen Ersatzverkehr mit Bus zwischen Lahr(Schwarzw) und Offenburg. Der Ersatzverkehr ist ab 17:15 Uhr einsatzbereit. Genaue Informationen zur Dauer der Sperrung liegen leider noch nicht vor, wir aktualisieren diese Meldung sobald uns neue Informationen vorliegen.</p>\n",
-      "connections": [
-        "Lahr(Schwarzw) - Offenburg"
-      ],
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "by",
-        "be",
-        "br",
-        "hb",
-        "hh",
-        "he",
-        "mv",
-        "ni",
-        "nw",
-        "rp",
-        "sl",
-        "sn",
-        "st",
-        "sh",
-        "th"
-      ],
-      "lastModified": "03.03.2022 16:24",
-      "expand": false,
-      "priorityValue": 116
-    },
-    {
-      "id": "81f7af84-be03-4f9d-8b35-01f22dced291",
-      "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
-      "newsType": "erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "ab  Montag, 7. März 2022 bis vsl. Freitag, 11. März 2022 ",
-      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal kommt es ab Montag, den 7. M&auml;rz bis vsl. Freitag, den 11. M&auml;rz zu Zugausf&auml;llen.</p>\n\n<p>Wo es m&ouml;glich ist, haben wir Schienenersatzverkehr f&uuml;r Sie eingerichtet.</p>\n\n<p>Bitte informieren Sie sich tagesaktuell in den Online-Reiseausk&uuml;nften oder &uuml;ber die App DB-Streckenagent.</p>\n",
+      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
+      "headline": "Meldungen der S-Bahn Berlin",
+      "newsType": "Störung",
+      "timePeriod": "unbefristet",
+      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
       "connections": [],
-      "download": {
-        "text": "<p><strong>Die Fahrpl&auml;ne zum reduzierten Fahrplanangebot finden Sie hier:</strong></p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:335f5b8e-db55-4764-b71c-0359b3182729/Hohenlohebahn_reduziertes_Angebot_07032022.pdf",
-            "title": "Crailsheim - Heilbronn (Hohenlohebahn) (PDF, 441 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:43adbd3b-e002-4aef-921b-df94b97ac1ba/Madonnenlandbahn_reduziertes_Angebot_07032022.pdf",
-            "title": "Miltenberg - Seckach (Madonnenlandbahn) (PDF, 458 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:1c0f66e2-8555-4d64-b9c1-2bf0bac9ae33/Maintalbahn_reduziertes_Angebot_07032022.pdf",
-            "title": "Aschaffenburg - Miltenberg - Wertheim (Maintalbahn) (PDF, 512 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:f219b848-805e-4553-9ac5-aa2f25f452d9/Tauberbahn_reduziertes_Angebot_07032022.pdf",
-            "title": "Wertheim - Lauda - Crailsheim (Tauberbahn) (PDF, 627 KB)",
-            "info": "",
-            "openInNewTab": true
-          }
-        ]
-      },
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
       ],
       "areas": [
-        "bw",
-        "by"
+        "be",
+        "br"
       ],
-      "lastModified": "03.03.2022 16:09",
-      "expand": false,
+      "lastModified": "22.12.2021 03:42",
+      "author": "nordost",
+      "expand": true,
       "priorityValue": 102
     },
     {
@@ -153,7 +111,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
@@ -300,30 +258,6 @@
       "lastModified": "01.03.2022 14:42",
       "author": "bayern",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "161c829e-9eac-4c47-8be8-5b47d1a6ad06",
-      "headline": "Eingeschränkter Zugverkehr zwischen Horb und Tübingen",
-      "newsType": "Kurzfristige Personalausfälle im Stellwerk in Rottenburg(Neckar)",
-      "timePeriod": "bis Sonntag, 6. März",
-      "introText": "<p><strong>- Am Donnerstag, 3. M&auml;rz und Freitag, 4. M&auml;rz</strong> ist der Zugverkehr jeweils auf die Zeit von 6:00 bis 16:30 Uhr beschr&auml;nkt (Erster verkehrende Zug RB 17401 um 6:00 Uhr ab T&uuml;bingen und letzter verkehrende Zug RB 17424 um 16:00 Uhr ab Horb)</p>\n\n<p>-<strong> Am Samstag, 5. M&auml;rz und Sonntag, 6. M&auml;rz</strong> ist der Zugverkehr jeweils auf die Zeit von 7:15 Uhr bis 17:20 beschr&auml;nkt. (Erster verkehrende Zug RB 17435 um 7:23 Uhr ab T&uuml;bingen und letzter verkehrende Zug RB 17426 um 16:52 Uhr ab Horb)</p>\n",
-      "connectionsHeadline": "Betroffene Linien: ",
-      "connections": [
-        "RB74 Horb <> Tübingen",
-        "RB6 Horb <> Tübingen"
-      ],
-      "closingText": "<p>Ein Ersatzverkehr mit zwei Bussen ist zwischen T&uuml;bingen Hbf und Horb bis zum 6. M&auml;rz eingerichtet. Die Busse verkehren ab T&uuml;bingen st&uuml;ndlich zur Minute 35 und ab Horb zur Minute 20.&nbsp;Die Busse verkehren am <strong>3. und 4. M&auml;rz&nbsp;im Zeitraum von 16:35 Uhr - 24:00 Uhr und am 5. und 6. M&auml;rz von 17:35 Uhr - bis 24:00 Uhr</strong>.</p>\n\n<p><strong>Zus&auml;tzlich verkehren am 3. und 4. M&auml;rz jeweils von 16:25 Uhr bis 21:30 Uhr</strong> zwischen T&uuml;bingen und Rottenburg(Neckar) zwei weitere Busse. Abfahrt ab T&uuml;bingen st&uuml;ndlich zur Minute 10 und ab Rottenburg(Neckar) zur Minute 25. Wir arbeiten daran, diese Busse auch f&uuml;r den 5. und 6. M&auml;rz zu verl&auml;ngern, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>Bitte achten Sie auf die l&auml;ngere Fahrzeit vom Bus.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "03.03.2022 14:09",
-      "author": "baden_wuerttemberg",
-      "expand": false,
       "priorityValue": 101
     },
     {
