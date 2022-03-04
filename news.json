@@ -100,6 +100,26 @@
       "priorityValue": 102
     },
     {
+      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
+      "headline": "Meldungen der S-Bahn Berlin",
+      "newsType": "Störung",
+      "timePeriod": "unbefristet",
+      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
+      "connections": [],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "22.12.2021 03:42",
+      "author": "nordost",
+      "expand": true,
+      "priorityValue": 102
+    },
+    {
       "id": "81f7af84-be03-4f9d-8b35-01f22dced291",
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
@@ -158,7 +178,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
@@ -318,7 +338,7 @@
         "RB74 Horb <> Tübingen",
         "RB6 Horb <> Tübingen"
       ],
-      "closingText": "<p>Ein Ersatzverkehr mit zwei Bussen ist zwischen T&uuml;bingen Hbf und Horb bis zum 6. M&auml;rz eingerichtet. Die Busse verkehren ab T&uuml;bingen st&uuml;ndlich zur Minute 35 und ab Horb zur Minute 20.&nbsp;Die Busse verkehren am <strong>4. M&auml;rz&nbsp;im Zeitraum von 16:35 Uhr - 24:00 Uhr und am 5. und 6. M&auml;rz von 17:35 Uhr - bis 23:30 Uhr</strong>. Ebenso ist am<strong> 5. und 6. M&auml;rz jeweils morgens</strong> ein Ersatzverkehr mit Bus f&uuml;r die Z&uuml;ge RB 17400, RB 17441, RB 17440 und RB 17404 eingerichtet.&nbsp;</p>\n\n<p><strong>Zus&auml;tzlich verkehren am 4. M&auml;rz jeweils von 16:25 Uhr bis 21:30 Uhr&nbsp;und am 5. und 6. M&auml;rz von 18:00 Uhr - 23:30 Uhr</strong> zwischen T&uuml;bingen und Rottenburg(Neckar) zwei weitere Busse. Abfahrt ab T&uuml;bingen st&uuml;ndlich zur Minute 10 und ab Rottenburg(Neckar) zur Minute 25. Am <strong>5. M&auml;rz</strong> ist erg&auml;nzend f&uuml;r die Z&uuml;ge RB 17455 (Ab T&uuml;bingen 23:33 Uhr), RB 17458 (Ab Rottenburg(Neckar) 23:46 Uhr), RB 17457 (Ab T&uuml;bingen 0:33 Uhr) und RB 17460 (Ab Rottenburg(Neckar) 0:46 Uhr) und am <strong>6. M&auml;rz</strong> f&uuml;r die Z&uuml;ge RB 17455 (Ab T&uuml;bingen 23:33 Uhr) und RB 17458 (Ab Rottenburg(Neckar) 23:46 Uhr) ein Ersatzverkehr mit Bus eingerichtet.&nbsp;</p>\n\n<p>Bitte achten Sie auf die l&auml;ngere Fahrzeit vom Bus.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "closingText": "<p>Ein Ersatzverkehr mit zwei Bussen ist zwischen T&uuml;bingen Hbf und Horb bis zum 6. M&auml;rz eingerichtet. Die Busse verkehren ab T&uuml;bingen st&uuml;ndlich zur Minute 35 und ab Horb zur Minute 20.&nbsp;Die Busse verkehren am <strong>4. M&auml;rz&nbsp;im Zeitraum von 16:35 Uhr - 24:00 Uhr und am 5. und 6. M&auml;rz von 17:35 Uhr - bis 23:30 Uhr</strong>. Ebenso ist am<strong> 5. und 6. M&auml;rz jeweils morgens</strong> ein Ersatzverkehr mit Bus f&uuml;r die Z&uuml;ge RB 17400 (Ab Horb 4:52 Uhr), RB 17441 (Ab T&uuml;bingen 5:33 Uhr), RB 17440 (Ab Rottenburg(Neckar) 05:48 Uhr) und RB 17404 (Ab Horb 6:52 Uhr) eingerichtet.&nbsp;</p>\n\n<p><strong>Zus&auml;tzlich verkehren am 4. M&auml;rz jeweils von 16:25 Uhr bis 21:30 Uhr&nbsp;und am 5. und 6. M&auml;rz von 18:00 Uhr - 23:30 Uhr</strong> zwischen T&uuml;bingen und Rottenburg(Neckar) zwei weitere Busse. Abfahrt ab T&uuml;bingen st&uuml;ndlich zur Minute 10 und ab Rottenburg(Neckar) zur Minute 25. Am <strong>5. M&auml;rz</strong> ist erg&auml;nzend f&uuml;r die Z&uuml;ge RB 17455 (Ab T&uuml;bingen 23:33 Uhr), RB 17458 (Ab Rottenburg(Neckar) 23:46 Uhr), RB 17457 (Ab T&uuml;bingen 0:33 Uhr) und RB 17460 (Ab Rottenburg(Neckar) 0:46 Uhr) und am <strong>6. M&auml;rz</strong> f&uuml;r die Z&uuml;ge RB 17455 (Ab T&uuml;bingen 23:33 Uhr) und RB 17458 (Ab Rottenburg(Neckar) 23:46 Uhr) ein Ersatzverkehr mit Bus eingerichtet.&nbsp;</p>\n\n<p>Bitte achten Sie auf die l&auml;ngere Fahrzeit vom Bus.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -326,7 +346,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "04.03.2022 11:03",
+      "lastModified": "04.03.2022 11:35",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
