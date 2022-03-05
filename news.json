@@ -29,7 +29,7 @@
       "id": "16ee6aa9-07bb-4853-9362-127e6f646986",
       "headline": "Beeinträchtigungen zwischen Hannover und Braunschweig bzw. Wolfsburg",
       "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Am Samstag, 05.03.2022 bis in die Nachmittagsstunden",
+      "timePeriod": "Am Samstag, 05.03.2022 bis in die Nachtstunden",
       "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Hannover und Lehrte kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 15 Minuten.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
@@ -43,7 +43,7 @@
       "areas": [
         "ni"
       ],
-      "lastModified": "05.03.2022 16:11",
+      "lastModified": "05.03.2022 16:57",
       "author": "fernverkehr_ag",
       "expand": true,
       "priorityValue": 301
@@ -97,6 +97,26 @@
         "br"
       ],
       "lastModified": "03.03.2022 17:42",
+      "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
+      "headline": "Meldungen der S-Bahn Berlin",
+      "newsType": "Störung",
+      "timePeriod": "unbefristet",
+      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
+      "connections": [],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "22.12.2021 03:42",
+      "author": "nordost",
       "expand": true,
       "priorityValue": 102
     },
@@ -159,7 +179,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
