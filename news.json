@@ -101,26 +101,6 @@
       "priorityValue": 102
     },
     {
-      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
-      "headline": "Meldungen der S-Bahn Berlin",
-      "newsType": "Störung",
-      "timePeriod": "unbefristet",
-      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
-      "connections": [],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "22.12.2021 03:42",
-      "author": "nordost",
-      "expand": true,
-      "priorityValue": 102
-    },
-    {
       "id": "81f7af84-be03-4f9d-8b35-01f22dced291",
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
@@ -179,7 +159,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
@@ -196,37 +176,6 @@
       "lastModified": "13.10.2021 08:58",
       "author": "suedostbayernbahn",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "7b16f4f5-9911-42c5-a8b7-3dea6e586965",
-      "headline": "Angebotsanpassungen S-Bahn Linie 2 und RB 33",
-      "newsType": "erhöhte Krankenstände des Zugpersonals",
-      "timePeriod": "ab Montag, 21. Februar bis 05. März 2022",
-      "introText": "<p>Wie &uuml;berall in Deutschland beobachten wir derzeit erh&ouml;hte Krankenst&auml;nde. Aus diesem Grund haben wir die Linie S2 und die RB 33 moderat angepasst. Wir bitten die Unannehmlichkeiten zu entschuldigen.</p>\n\n<p><strong>S 2 Pirna - Dresden Hbf - Dresden Flughafen:</strong></p>\n\n<p>Z&uuml;ge der S2 fahren von Dresden Hauptbahnhof<strong> </strong>bis Dresden Flughafen. Zwischen Pirna und Dresden<strong> </strong>Hauptbahnhof k&ouml;nnen Fahrg&auml;ste die Z&uuml;ge der Linie S1 nutzen.</p>\n\n<p><strong>RB 33 K&ouml;nigsbr&uuml;ck - Ottendorf Okrilla Hp - Dresden-Neustadt:</strong></p>\n\n<p>Die Linie verkehrt nur im Abschnitt Dresden-Neustadt &ndash; Ottendorf-Okrilla S&uuml;d mit Ausnahme einzelner Fahrten in Tagesrandlage:</p>\n",
-      "connections": [],
-      "download": {
-        "text": "<p>Im Abschnitt K&ouml;nigsbr&uuml;ck &ndash; Ottendorf-Okrilla S&uuml;d wird f&uuml;r die entfallenden Z&uuml;ge ein Schienenersatzverkehr eingerichtet.</p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:f27ed07b-b703-479a-a9c1-2dbfea7cf4f7/Aush%20Fplo%20Corona%20DOS-DON-DKB%2021_02-05_03_22_Layout%20angepasst.pdf",
-            "title": "Fahrplan Schienenersatzverkehr  (PDF, 393 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p><strong>RB 16960</strong>, K&ouml;nigsbr&uuml;ck ab 4.44 Uhr verkehrt durchgehend als Zug (Zug nur verkehrt W(Sa))</p>\n\n<p><strong>RB 16993</strong>, Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis K&ouml;nigsbr&uuml;ck als Zug</p>\n\n<p><strong>RB 16996</strong>, K&ouml;nigsbr&uuml;ck ab 22.54 Uhr verkehrt durchgehend als Zug</p>\n\n<p><strong>RB 16997</strong>, Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis K&ouml;nigsbr&uuml;ck als Zug</p>\n\n<p><strong>RB 16998</strong>, K&ouml;nigsbr&uuml;ck ab 6.54 Uhr verkehrt durchgehend als Zug (Zug nur verkehrt Sa+So)</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft unter 030 297 0 zu informieren.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "sn"
-      ],
-      "lastModified": "18.02.2022 19:25",
-      "author": "suedost",
-      "expand": false,
       "priorityValue": 101
     },
     {
