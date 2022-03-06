@@ -26,29 +26,6 @@
       "priorityValue": 302
     },
     {
-      "id": "16ee6aa9-07bb-4853-9362-127e6f646986",
-      "headline": "Beeinträchtigungen zwischen Hannover und Braunschweig bzw. Wolfsburg",
-      "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Am Samstag, 05.03.2022 bis in die Nachtstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Hannover und Lehrte kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 15 Minuten.&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE, IC Züge auf dem Abschnitt Hannover - Wolfsburg sowie auf dem Abschnitt Hannover - Braunschweig."
-      ],
-      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "ni"
-      ],
-      "lastModified": "05.03.2022 16:57",
-      "author": "fernverkehr_ag",
-      "expand": true,
-      "priorityValue": 301
-    },
-    {
       "id": "e69a497b-85da-4812-a86e-a7a5176254b6",
       "headline": "Informationen für Ukraine-Flüchtlinge zur Ein- und Weiterreise ",
       "newsType": "Informationen",
@@ -97,6 +74,26 @@
         "br"
       ],
       "lastModified": "03.03.2022 17:42",
+      "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
+      "headline": "Meldungen der S-Bahn Berlin",
+      "newsType": "Störung",
+      "timePeriod": "unbefristet",
+      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
+      "connections": [],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "22.12.2021 03:42",
+      "author": "nordost",
       "expand": true,
       "priorityValue": 102
     },
@@ -159,7 +156,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
