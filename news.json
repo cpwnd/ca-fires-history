@@ -99,26 +99,6 @@
       "priorityValue": 102
     },
     {
-      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
-      "headline": "Meldungen der S-Bahn Berlin",
-      "newsType": "Störung",
-      "timePeriod": "unbefristet",
-      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
-      "connections": [],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "22.12.2021 03:42",
-      "author": "nordost",
-      "expand": true,
-      "priorityValue": 102
-    },
-    {
       "id": "81f7af84-be03-4f9d-8b35-01f22dced291",
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
@@ -177,7 +157,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
@@ -346,8 +326,8 @@
             "openInNewTab": true
           },
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:a286cb50-7c74-463b-bb80-fca020f399e2/Fahrplan_Breisgau_S-Bahn_Stand_220225.pdf",
-            "title": "Fahrplan Breisgau S-Bahn (PDF, 980 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:b7637539-a139-46fc-8273-6e058ad26fd6/Fahrplan_Breisgau_S-Bahn_Stand_220307.pdf",
+            "title": "Fahrplan Breisgau S-Bahn (PDF, 894 KB)",
             "info": "",
             "openInNewTab": true
           }
@@ -361,7 +341,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "07.03.2022 00:32",
+      "lastModified": "07.03.2022 10:22",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
