@@ -78,6 +78,40 @@
       "priorityValue": 102
     },
     {
+      "id": "131b3476-a2c1-45ba-a791-cc8a04f6a3ff",
+      "headline": "Ausfall der Linie RB55",
+      "newsType": "betriebliche Gründe",
+      "timePeriod": "am 8. und 9. März 20222",
+      "introText": "<p>Die Z&uuml;ge der Linie RB55 fallen am 8. und 9. M&auml;rz aus betrieblichen Gr&uuml;nden aus und werden durch Busse ersetzt.</p>\n",
+      "connections": [
+        "RB55 - Kremmen - Hennigsdorf"
+      ],
+      "download": {
+        "text": "<p>Den Fahrplan f&uuml;r den Ersatzverkehr finden Sie hier:</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:cee02909-0b03-4690-ab03-9e6aeff5d19c/BNV_RB55_BHND_BKRM%2008.-09.03.22.pdf",
+            "title": "Ersatzverkehr RB55 (PDF, 110 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "07.03.2022 13:13",
+      "author": "nordost",
+      "expand": true,
+      "priorityValue": 102
+    },
+    {
       "id": "81f7af84-be03-4f9d-8b35-01f22dced291",
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
