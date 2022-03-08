@@ -112,6 +112,26 @@
       "priorityValue": 102
     },
     {
+      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
+      "headline": "Meldungen der S-Bahn Berlin",
+      "newsType": "Störung",
+      "timePeriod": "unbefristet",
+      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
+      "connections": [],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "22.12.2021 03:42",
+      "author": "nordost",
+      "expand": true,
+      "priorityValue": 102
+    },
+    {
       "id": "81f7af84-be03-4f9d-8b35-01f22dced291",
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
@@ -170,7 +190,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
@@ -194,7 +214,7 @@
       "headline": "Zugausfälle zwischen Teuchern und Zeitz",
       "newsType": "Betriebsstörung",
       "timePeriod": "09. - 11.03.2022",
-      "introText": "<p>Aus&nbsp;betrieblichen&nbsp;Gr&uuml;nden&nbsp;m&uuml;ssen&nbsp;leider die Z&uuml;ge der RB-Linie 76 zwischen <strong>Teuchern</strong> und <strong>Zeitz</strong>&nbsp;ausfallen.</p>\n\n<p>Die Z&uuml;ge werden durch einen Busnotverkehr ersetzt. Bitte beachten Sie, dass die Busse nicht immer die Fahrzeiten der Z&uuml;ge halten k&ouml;nnen und due Haltestellen des Busnotverkehres nicht immer direkt an den jeweiligen Bahnh&ouml;fen liegen.</p>\n\n<p>&nbsp;</p>\n",
+      "introText": "<p>Aus&nbsp;betrieblichen&nbsp;Gr&uuml;nden&nbsp;m&uuml;ssen&nbsp;leider die Z&uuml;ge der RB-Linie 76 zwischen <strong>Teuchern</strong> und <strong>Zeitz</strong>&nbsp;ausfallen.</p>\n\n<p>Die Z&uuml;ge werden durch einen Busnotverkehr ersetzt. Bitte beachten Sie, dass die Busse nicht immer die Fahrzeiten der Z&uuml;ge halten k&ouml;nnen und die Haltestellen des Busnotverkehres nicht immer direkt an den jeweiligen Bahnh&ouml;fen liegen.</p>\n\n<p>&nbsp;</p>\n",
       "connections": [],
       "download": {
         "linkDataList": [
@@ -213,7 +233,7 @@
       "areas": [
         "st"
       ],
-      "lastModified": "08.03.2022 19:35",
+      "lastModified": "08.03.2022 19:50",
       "author": "suedost",
       "expand": false,
       "priorityValue": 101
