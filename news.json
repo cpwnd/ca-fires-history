@@ -59,25 +59,6 @@
       "priorityValue": 216
     },
     {
-      "id": "77092980-23e5-4122-87ec-7bae23b5c484",
-      "headline": "Ausfall Kulturzug vom 4. bis 8 März 2022",
-      "newsType": "betriebliche Gründe",
-      "timePeriod": "4. bis 8. März 2022",
-      "introText": "<p>Alle Fahrten des Kulturzuges zwischen Berlin und Wrocław fallen im Zeitraum vom 4. bis 8. M&auml;rz aus betrieblichen Gr&uuml;nden aus.&nbsp;</p>\n\n<p>Bitte wenden Sie sich bei Erstattungsanspr&uuml;chen an das Servicecenter Fahrgastrechte www.bahn.de/fahrgastrechte.</p>\n\n<p>&nbsp;</p>\n",
-      "connections": [],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "03.03.2022 17:42",
-      "expand": true,
-      "priorityValue": 102
-    },
-    {
       "id": "131b3476-a2c1-45ba-a791-cc8a04f6a3ff",
       "headline": "Ausfall der Linie RB55",
       "newsType": "betriebliche Gründe",
@@ -107,26 +88,6 @@
         "br"
       ],
       "lastModified": "07.03.2022 13:13",
-      "author": "nordost",
-      "expand": true,
-      "priorityValue": 102
-    },
-    {
-      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
-      "headline": "Meldungen der S-Bahn Berlin",
-      "newsType": "Störung",
-      "timePeriod": "unbefristet",
-      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
-      "connections": [],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "22.12.2021 03:42",
       "author": "nordost",
       "expand": true,
       "priorityValue": 102
@@ -190,7 +151,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
