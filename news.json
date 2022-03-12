@@ -299,19 +299,12 @@
       "introText": "<p>DB Regio Baden-W&uuml;rttemberg hat das Fahrplangebot bis voraussichtlich <strong>13. M&auml;rz 2022</strong>&nbsp;reduziert. Grund ist ein erh&ouml;hter Krankenstand beim Fahrpersonal.</p>\n",
       "connectionsHeadline": "Betroffene Strecken:",
       "connections": [
-        "Hochrhein: Basel - Waldshut - Stühlingen bis voraussichtlich 11. März 2022",
         "Oberrhein: (Karlsruhe) - Offenburg - Freiburg (Breisgau) - Basel bis voraussichtlich 13. März 2022",
         "Breisgau S-Bahn: Breisach/Endingen  - Freiburg (Brsg) - Titisee - Seebrugg/Donaueschingen  bis voraussichtlich 13. März 2022"
       ],
       "download": {
         "text": "<p><strong>Auf der Strecke zwischen Offenburg - Freiburg(Breisgau) - Basel k&ouml;nnen Reisende mit einer Zeitkarte des Nahverkehrs auch die Z&uuml;ge des Fernverkehrs nutzen.</strong></p>\n\n<p>Die reduzierten Fahrpl&auml;ne finden Sie in den digitalen Auskunftsmedien (z.B. bahn.de, DB Navigator, <a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">DB Streckenagent</a>) und k&ouml;nnen diese auch hier als PDF-Datei im Anhang abrufen.</p>\n",
         "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:65b2eeee-3f25-4edb-acac-79a4fd26e5bb/Fahrplan_Basel-Waldshut-St%C3%BChlingen_Stand_220225.pdf",
-            "title": "Fahrplan Basel - Waldshut - Stühlingen (PDF, 656 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:cef02f2f-db1f-45cb-a7d0-6ec2b6cc5bd8/Fahrplan_Karlsruhe-Freiburg-Basel_Stand%20220225.pdf",
             "title": "Fahrplan Karlsruhe - Basel SBB (PDF, 695 KB)",
@@ -334,7 +327,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "11.03.2022 14:20",
+      "lastModified": "12.03.2022 02:45",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
