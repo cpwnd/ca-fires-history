@@ -26,30 +26,6 @@
       "priorityValue": 302
     },
     {
-      "id": "ab4f18c9-c0fa-4eb3-902d-b8a3faec39f5",
-      "headline": "Beeinträchtigungen zwischen Osnabrück und Bremen",
-      "newsType": "Defektes Stellwerk",
-      "timePeriod": "Am heutigen Montag, 14.03.2022 vsl. bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund eines defekten Stellwerkes zwischen Osnabr&uuml;ck Hbf und Bremen Hbf kommt es im Fernverkehr der Deutschen Bahn derzeit zu Versp&auml;tungen von etwa 15 Minuten im betroffenen Streckenabschnitt.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE, IC/EC Züge zwischen Osnabrück Hbf und Bremen Hbf."
-      ],
-      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "hb",
-        "nw"
-      ],
-      "lastModified": "14.03.2022 12:39",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 302
-    },
-    {
       "id": "82231873-d415-4d82-8766-c17693371f4c",
       "headline": "Beeinträchtigungen zwischen Koblenz und Mainz",
       "newsType": "Bauarbeiten",
@@ -346,6 +322,41 @@
         "bw"
       ],
       "lastModified": "14.03.2022 08:40",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "383694eb-19ec-48c4-901a-af32d1359f91",
+      "headline": "Vorübergehend reduziertes Fahrplanangebot auf dem Hochrhein",
+      "newsType": "erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "ab 18. März bis vsl. 25. März 2022",
+      "introText": "<p>DB Regio Baden-W&uuml;rttemberg wird das Fahrplangebot ab <strong>18. M&auml;rz 2022 </strong>auf dem Hochrhein zwischen Basel Bad Bf - Waldshut und St&uuml;hlingen bzw. Erzingen(Baden) reduzieren.</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "RB 35: Basel - Waldshut - Erzingen(Baden)",
+        "RB 37: Waldshut - Stühlingen"
+      ],
+      "download": {
+        "text": "<p>Die reduzierten Fahrpl&auml;ne finden Sie hier als PDF-Datei im Anhang und ab Mittwoch, den 16.03.2022 in den digitalen Auskunftsmedien wie z.B. bahn.de, DB Navigator, <a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">DB Streckenagent</a>.</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:018104d7-863a-43aa-b6ec-1400103dd59c/Fahrplan_Basel-Singen_Stand_140322.pdf",
+            "title": "Ersatzfahrplan Hochrhein (PDF, 641 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Sollte sich die Lage zwischenzeitlich stabilisieren, werden wir schnellstm&ouml;glich zum normalen Fahrplanangebot zur&uuml;ckkehren.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "14.03.2022 13:12",
+      "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
     },
