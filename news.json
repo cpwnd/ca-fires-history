@@ -121,6 +121,26 @@
       "priorityValue": 102
     },
     {
+      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
+      "headline": "Meldungen der S-Bahn Berlin",
+      "newsType": "Störung",
+      "timePeriod": "unbefristet",
+      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
+      "connections": [],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "22.12.2021 03:42",
+      "author": "nordost",
+      "expand": true,
+      "priorityValue": 102
+    },
+    {
       "id": "2b07dae6-7cb0-4101-87c3-18cef62b0d79",
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
@@ -179,7 +199,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
@@ -244,7 +264,7 @@
       "headline": "Vorübergehend leicht reduziertes Fahrplanangebot auf den Linien RB23 und RB24 (Usedomer Bäderbahn)",
       "newsType": "krankheitsbedingte Personalausfälle",
       "timePeriod": "vom 16. bis vsl. 21. März 2022",
-      "introText": "<p>Auf den Linien RB23 und RB24 (Usedomer B&auml;derbahn) muss das Fahrplanangebot geringf&uuml;gig reduziert werden. Einige Z&uuml;ge fallen aus und werden abends <u>teilweise</u> durch Busse ersetzt.</p>\n\n<p>- RB23: verkehrt nur zwischen ca. 5.30 und 17.30 Uhr<br />\n- RB24: verkehrt nur zwischen ca. 6.00 und 17.00 Uhr</p>\n\n<p>Grund sind hohe krankheitsbedingte Personalausf&auml;lle.</p>\n",
+      "introText": "<p>Auf den Linien RB23 und RB24 (Usedomer B&auml;derbahn) muss das Fahrplanangebot geringf&uuml;gig reduziert werden. Einige Z&uuml;ge fallen aus und werden abends <u>teilweise</u> durch Busse ersetzt. Bitte beachten Sie, dass sich die Haltestelle des Busnotverkehrs in Seebad Ahlbeck an der Ahlbeck Pommernhalle befindet.</p>\n\n<p>- RB23: verkehrt nur zwischen ca. 5.30 und 17.30 Uhr<br />\n- RB24: verkehrt nur zwischen ca. 6.00 und 17.00 Uhr</p>\n\n<p>Grund sind hohe krankheitsbedingte Personalausf&auml;lle.</p>\n",
       "connectionsHeadline": "Folgende Linien sind betroffen:",
       "connections": [
         "RB23 - Züssow - Wolgast - Heringsdorf - Świnoujście",
@@ -275,7 +295,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "15.03.2022 08:27",
+      "lastModified": "16.03.2022 19:55",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
