@@ -81,27 +81,6 @@
       "priorityValue": 102
     },
     {
-      "id": "27f73f30-1515-42f7-824f-ef56f7970d0a",
-      "headline": "Ausfall der Züge der RB93 zwischen  Zagan und Forst(Lausitz) ",
-      "newsType": "Betriebliche Gründe",
-      "timePeriod": "16. März 2022",
-      "introText": "<p>Aus betrieblichen Gr&uuml;nden&nbsp;fallen folgende Z&uuml;ge zwischen Zagan und Forst(Lausitz) aus:</p>\n\n<p><strong>RB5840 </strong>planm&auml;&szlig;ige Abfahrt 5:59 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5841&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp;6:58 Uhr ab&nbsp;Forst(Lausitz) nach Zagan</p>\n\n<p><strong>RB5848&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp;8:47 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5849 </strong>planm&auml;&szlig;ige Abfahrt 9:50 Uhr ab<strong>&nbsp;</strong>Forst(Lausitz) nach Zagan</p>\n\n<p>Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Forst (Lausitz) und Zagan und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881\" style=\"color:blue; text-decoration:underline\">0331 235 6881 </a>und<a href=\"tel: 0385%20750%202405 \" style=\"color:blue; text-decoration:underline\">&nbsp;0385 750 2405</a></p>\n",
-      "connections": [
-        "RB93  Zagan - Forst(Lausitz)"
-      ],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "16.03.2022 03:43",
-      "expand": true,
-      "priorityValue": 102
-    },
-    {
       "id": "131b3476-a2c1-45ba-a791-cc8a04f6a3ff",
       "headline": "Ausfall der Linie RB66/RE66",
       "newsType": "Beförderung von Flüchtlingen aus der Ukraine",
@@ -137,26 +116,6 @@
         "br"
       ],
       "lastModified": "14.03.2022 15:31",
-      "author": "nordost",
-      "expand": true,
-      "priorityValue": 102
-    },
-    {
-      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
-      "headline": "Meldungen der S-Bahn Berlin",
-      "newsType": "Störung",
-      "timePeriod": "unbefristet",
-      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
-      "connections": [],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "22.12.2021 03:42",
       "author": "nordost",
       "expand": true,
       "priorityValue": 102
@@ -220,7 +179,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
