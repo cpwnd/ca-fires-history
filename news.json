@@ -1,28 +1,30 @@
 {
   "news": [
     {
-      "id": "b4630884-d3b3-4472-844a-be56d9e95a31",
-      "headline": "Beeinträchtigungen zwischen Mainz und Koblenz",
-      "newsType": "Defektes Stellwerk",
+      "id": "8df66f9b-3fbc-4f50-99a7-0d97d5e88ad9",
+      "headline": "Beeinträchtigungen zwischen Hamburg und Berlin",
+      "newsType": "Streckensperrung",
       "timePeriod": "Am heutigen Donnerstag, 17.03.2022 bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund eines defekten Stellwerkes zwischen Mainz und Koblenz kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.<br />\n<br />\nEinzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten. Der Halt in Bingen(Rhein)Hbf muss leider entfallen.</p>\n",
+      "introText": "<p>Aufgrund einer Reparatur an einem Zug ist die Strecke zwischen Hamburg und Berlin derzeit gesperrt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 90 Minuten. Die Halte Hamburg-Bergedorf, B&uuml;chen, Ludwigslust und Wittenberge m&uuml;ssen leider entfallen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle ICE-, EC- und IC-Züge, die zwischen Mainz und Koblenz verkehren."
+        "Alle ICE-, EC- und IC-Züge zwischen Hamburg und Berlin"
       ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Bingen erreichen Sie ab Mainz Hbf mit den Z&uuml;gen der Regionalverkehrslinien RE 2 und RB 26.&nbsp;</p>\n\n<p>Unser Personal vor Ort arbeitet unter Hochdruck an der St&ouml;rungsbeseitigung. Die Behebung der St&ouml;rung soll vsl. bis in den Nachmittagsstunden am heutigen 17.03.2022 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n",
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Wittenberge und Ludwigslust erreichen Sie ab Berlin-Spandau mit den Regionalverkehrsz&uuml;gen der Linie RE 2.</p>\n\n<p>Hamburg-Bergedorf und B&uuml;chen erreichen Sie ab Hamburg Hbf mit den Z&uuml;gen der Regionalverkehrslinie RE 1.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
       ],
       "areas": [
-        "nw",
-        "rp"
+        "be",
+        "br",
+        "hh",
+        "mv"
       ],
-      "lastModified": "17.03.2022 10:49",
+      "lastModified": "17.03.2022 13:20",
       "author": "fernverkehr_ag",
-      "expand": true,
-      "priorityValue": 302
+      "expand": false,
+      "priorityValue": 304
     },
     {
       "id": "7f0bdc20-3f2e-4d1b-8306-18808be8a301",
@@ -325,8 +327,8 @@
       "id": "5544d96c-b29b-4b60-a518-aaa53ff0dece",
       "headline": "Zugverkehr auf der Schwarzwaldbahn ist beeinträchtigt",
       "newsType": "Reparatur an einem Zug",
-      "timePeriod": "Seit Mittwoch, 16. März, 12 Uhr",
-      "introText": "<p>Am Donnerstag, 17. M&auml;rz fallen die Z&uuml;ge der Linie RE 2 auf der Schwarzwaldbahn zwischen Karlsruhe Hbf und Offenburg. Zwischen Offenburg und Konstanz verkehrt die Schwarzwaldbahn zweist&uuml;ndlich.&nbsp;</p>\n",
+      "timePeriod": "Seit Mittwoch, 16. März bis voraussichtlich Sonntag, 3. April 2022",
+      "introText": "<p>Am Donnerstag, 17.&nbsp;und 18. M&auml;rz fahren die Z&uuml;ge der Linie RE 2 (Schwarzwaldbahn) zweist&uuml;ndlich zwischen Offenburg und Konstanz. Auf dem Abschnitt Karlsruhe Hbf und Offenburg&nbsp;fallen die Z&uuml;ge der Linie RE 2&nbsp;aus.&nbsp;Der Halt Gengenbach wird zus&auml;tzlich um 14.05 Uhr und 18.05 Uhr in Richtung Konstanz und um 13.54 Uhr und 17.54 Uhr in Richtung Offenburg bedient.</p>\n",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
         "RE 2 Karlsruhe Hbf - Konstanz"
@@ -334,14 +336,14 @@
       "download": {
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:b5974c0c-40a4-42c1-8ef0-4386e90fe5c1/KBS_720_SWB_17.03_Stand_170322.pdf",
-            "title": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) 17.03.2022 (PDF, 441 KB)",
-            "info": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) 17.03.2022",
-            "openInNewTab": false
+            "link": "https://assets.static-bahn.de/dam/jcr:0e6d925b-5965-42e9-af55-79684e60ffda/KBS_720_SWB_18.03_Stand_170322.pdf",
+            "title": "KBS_720_SWB_18.03_Stand_170322.pdf (PDF, 452 KB)",
+            "info": "",
+            "openInNewTab": true
           }
         ]
       },
-      "closingText": "<p><strong>Empfehlungen/Alternativen:</strong></p>\n\n<p>Zwischen Karlsruhe Hbf und Offenburg nutzen Sie die Z&uuml;ge der Linie RE 7 (Karlsruhe Hbf - Basel Bad Bf).</p>\n\n<p>Am 17.03.22 k&ouml;nnen Sie die ICE/IC/EC zwischen Karlsruhe und Offenburg auch mit Fahrkarten des Nahverkehrs nutzen.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong><a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\" target=\"_blank\">Streckenagent-APP</a></strong> immer dabei!</p>\n",
+      "closingText": "<p><strong>Empfehlungen/Alternativen:</strong></p>\n\n<p>Ab Samstag, 19. M&auml;rz bis voraussichtlich Sonntag, 3. April 2022 fahren die Z&uuml;ge der Linie RE 2 (Schwarzwaldbahn) zweist&uuml;ndlich zwischen Karlsruhe Hbf und Konstanz. Zwischen Karlsruhe Hbf und Offenburg fahren die Z&uuml;ge nach dem regul&auml;ren Fahrplanangebot.</p>\n\n<p>Empfehlungen/Alternativen:</p>\n\n<p>Zwischen Karlsruhe Hbf und Offenburg nutzen Sie die Z&uuml;ge der Linie RE 7 (Karlsruhe Hbf - Basel Bad Bf).</p>\n\n<p>Am 17.03.22 k&ouml;nnen Sie die ICE/IC/EC zwischen Karlsruhe und Offenburg auch mit Fahrkarten des Nahverkehrs nutzen.</p>\n\n<p><br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong><a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\" target=\"_blank\">Streckenagent-APP</a></strong> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -349,7 +351,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "17.03.2022 10:12",
+      "lastModified": "17.03.2022 13:08",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
