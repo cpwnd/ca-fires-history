@@ -114,6 +114,26 @@
       "priorityValue": 102
     },
     {
+      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
+      "headline": "Meldungen der S-Bahn Berlin",
+      "newsType": "Störung",
+      "timePeriod": "unbefristet",
+      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
+      "connections": [],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "22.12.2021 03:42",
+      "author": "nordost",
+      "expand": true,
+      "priorityValue": 102
+    },
+    {
       "id": "d91268e7-0a13-433e-b963-1287e2ec9159",
       "headline": "Meldungen der Südostbayernbahn",
       "newsType": "Störungen",
@@ -123,7 +143,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
@@ -336,9 +356,15 @@
       "download": {
         "linkDataList": [
           {
+            "link": "https://assets.static-bahn.de/dam/jcr:b5974c0c-40a4-42c1-8ef0-4386e90fe5c1/KBS_720_SWB_17.03_Stand_170322.pdf",
+            "title": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) 17.03.2022 (PDF, 441 KB)",
+            "info": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) 17.03.2022",
+            "openInNewTab": true
+          },
+          {
             "link": "https://assets.static-bahn.de/dam/jcr:0e6d925b-5965-42e9-af55-79684e60ffda/KBS_720_SWB_18.03_Stand_170322.pdf",
-            "title": "KBS_720_SWB_18.03_Stand_170322.pdf (PDF, 452 KB)",
-            "info": "",
+            "title": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) ab 18.03.2022 (PDF, 452 KB)",
+            "info": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) ab 18.03.2022",
             "openInNewTab": true
           }
         ]
@@ -351,7 +377,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "17.03.2022 13:08",
+      "lastModified": "17.03.2022 13:47",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
