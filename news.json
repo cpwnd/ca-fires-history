@@ -121,6 +121,26 @@
       "priorityValue": 102
     },
     {
+      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
+      "headline": "Meldungen der S-Bahn Berlin",
+      "newsType": "Störung",
+      "timePeriod": "unbefristet",
+      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
+      "connections": [],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "22.12.2021 03:42",
+      "author": "nordost",
+      "expand": true,
+      "priorityValue": 102
+    },
+    {
       "id": "2ef2f9ec-38c8-4364-b98f-264c06f4f70c",
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
@@ -228,7 +248,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
@@ -487,7 +507,7 @@
       "headline": "Zugverkehr auf der Schwarzwaldbahn ist beeinträchtigt",
       "newsType": "Untersuchung an mehreren Zügen",
       "timePeriod": "Seit Mittwoch, 16. März bis voraussichtlich Sonntag, 3. April 2022",
-      "introText": "<p>Am 17. und 18. M&auml;rz fahren die Z&uuml;ge der Linie RE 2 zweist&uuml;ndlich zwischen Offenburg und Konstanz. Zwischen Karlsruhe Hbf und Offenburg&nbsp;fallen die Z&uuml;ge der Linie RE 2&nbsp;aus. Am 18. M&auml;rz ab 21 Uhr bis 1 Uhr nachts fallen die Z&uuml;ge zwischen Engen und Konstanz aus. Zwischen Engen und Singen(Hohentwiel) verkehren Busse, von Singen(Hohentwiel) nach Konstanz nutzen Sie die Z&uuml;ge des Seehas.</p>\n\n<p><strong>Empfehlungen/Alternativen:</strong></p>\n\n<p>Zwischen Karlsruhe Hbf und Offenburg nutzen Sie die Z&uuml;ge der Linie RE 7 (Karlsruhe Hbf - Basel Bad Bf).</p>\n\n<p>Am 17. M&auml;rz k&ouml;nnen Sie die ICE/IC/EC zwischen Karlsruhe und Offenburg auch mit Fahrkarten des Nahverkehrs nutzen.</p>\n",
+      "introText": "<p>Am 18. M&auml;rz fahren die Z&uuml;ge der Linie RE 2 zweist&uuml;ndlich zwischen Offenburg und Konstanz. Zwischen Karlsruhe Hbf und Offenburg&nbsp;fallen die Z&uuml;ge der Linie RE 2&nbsp;aus. Am 18. M&auml;rz ab 21 Uhr bis 1 Uhr nachts fallen die Z&uuml;ge zwischen Engen und Konstanz aus. Zwischen Engen und Singen(Hohentwiel) verkehren Busse, von Singen(Hohentwiel) nach Konstanz nutzen Sie die Z&uuml;ge des Seehas.</p>\n\n<p><strong>Empfehlungen/Alternativen:</strong></p>\n\n<p>Zwischen Karlsruhe Hbf und Offenburg nutzen Sie die Z&uuml;ge der Linie RE 7 (Karlsruhe Hbf - Basel Bad Bf).</p>\n\n<p>&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
         "RE 2 Karlsruhe Hbf - Offenburg - Konstanz"
@@ -516,7 +536,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "17.03.2022 20:12",
+      "lastModified": "18.03.2022 00:21",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
