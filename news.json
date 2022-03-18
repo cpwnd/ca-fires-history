@@ -121,26 +121,6 @@
       "priorityValue": 102
     },
     {
-      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
-      "headline": "Meldungen der S-Bahn Berlin",
-      "newsType": "Störung",
-      "timePeriod": "unbefristet",
-      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
-      "connections": [],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "22.12.2021 03:42",
-      "author": "nordost",
-      "expand": true,
-      "priorityValue": 102
-    },
-    {
       "id": "34644dc7-73c8-4a63-881f-6423a8958f51",
       "headline": "Teilausfälle zwischen Crailsheim und Niederstetten",
       "newsType": "kurzfristige Erkrankung von Personal",
@@ -268,7 +248,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "17.03.2022 18:22",
+      "lastModified": "19.03.2022 00:04",
       "expand": false,
       "priorityValue": 102
     },
@@ -282,7 +262,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
@@ -382,65 +362,6 @@
       ],
       "lastModified": "18.03.2022 14:45",
       "author": "nordost",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "a08fef34-46af-4940-bd52-845279d4a833",
-      "headline": "Zugausfälle am 17. und 18. März auf den Linien RB17, RE4 und RE5",
-      "newsType": "krankheitsbedingte Personalausfälle",
-      "timePeriod": "vom 17. bis 18. März 2022",
-      "introText": "<p>Auf den Linien RB17, RE4 und RE5 muss das Fahrplanangebot geringf&uuml;gig reduziert werden. Einige Z&uuml;ge fallen aus und werden&nbsp;durch Busse ersetzt.</p>\n\n<p>Grund sind hohe krankheitsbedingte Personalausf&auml;lle.</p>\n",
-      "connectionsHeadline": "Folgende Linien sind betroffen:",
-      "connections": [
-        "RB17 Wismar/Rostock - Schwerin - Ludwigslust",
-        "RE4 zwischen Neubrandenburg - Pasewalk - Szczecin Glowny/Ueckermünde",
-        "RE5 zwischen Stralsund und Neustrelitz"
-      ],
-      "download": {
-        "text": "<p><strong>Auf der Linie RB17 fallen am 17. und 18. M&auml;rz 2022 aus:</strong></p>\n\n<p>RB13150 Ludwigslust ab 04:57 Uhr nach Wismar&nbsp;<br />\nRB13158 Ludwigslust ab 08:25 Uhr nach Wismar<br />\nRB13162 Ludwigslust ab 12:25 Uhr nach Wismar&nbsp;<br />\nRB13170 Ludwigslust ab 16:25 Uhr nach Wismar<br />\nRB13176 Ludwigslust ab 20:25 Uhr nach Wismar<br />\nRB13180 Ludwigslust ab 23:56 Uhr nach Schwerin Hbf&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n\n<p>RB13153 Wismar ab 06:24 Uhr nach Ludwigslust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />\nRB13159 Wismar ab 10:24 Uhr nach Ludwigslust<br />\nRB13163 Wismar ab 14:24 Uhr nach Ludwigslust<br />\nRB13171 Wismar ab 18:24 Uhr nach Ludwigslust<br />\nRB13177 Wismar ab 22:24 Uhr nach Ludwigslust</p>\n\n<p>Bitte nutzen Sie die nachfolgenden Z&uuml;ge der Linie RE2 bzw. den Busnotverkehr.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\n\n<p><strong>Auf der Linie RE5 fallen am 17. und 18. M&auml;rz 2022 zwischen Neubrandenburg und Neustrelitz aus:</strong></p>\n\n<p>RE13051 Neubrandenburg ab 05:29 Uhr nach Neustrelitz<br />\nRE13053 Neubrandenburg ab 07:31 Uhr nach&nbsp;Neustrelitz<br />\nRE13055 Neubrandenburg ab 09:31 Uhr nach Neustrelitz<br />\nRE13057 Neubrandenburg ab 11:31 Uhr nach Neustrelitz<br />\nRE13063 Neubrandenburg ab 17:31 Uhr nach&nbsp;Neustrelitz<br />\nRE13065 Neubrandenburg ab 19:31 Uhr nach Neustrelitz<br />\nRE13067 Neubrandenburg ab 21:31 Uhr nach Neustrelitz&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />\n<br />\nRE13052 Neustrelitz ab 06:02 Uhr nach Neubrandenburg<br />\nRE13054 Neustrelitz ab 08:03 Uhr nach Neubrandenburg<br />\nRE13056 Neustrelitz ab 10:03 Uhr nach Neubrandenburg<br />\nRE13058 Neustrelitz ab 12:03 Uhr nach Neubrandenburg<br />\nRE13064 Neustrelitz ab 18:03 Uhr nach Neubrandenburg<br />\nRE13066 Neustrelitz ab 20:03 Uhr nach Neubrandenburg<br />\nRE13068 Neustrelitz ab 22:03 Uhr nach Neubrandenburg<br />\n<br />\nBitte nutzen Sie die nachfolgenden Z&uuml;ge der Linie RE5 von/nach Stralsund und von/nach W&uuml;nsdorf-Waldstadt/Elsterwerda.<strong>&nbsp;<br />\n<br />\nAuf Linie RE4 fallen am 17. und 18. M&auml;rz 2022 zwischen Pasewalk und Ueckerm&uuml;nde Stadthafen aus</strong>:</p>\n\n<p>RE13271&nbsp;Pasewalk ab 06:10 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\nRE13273 Pasewalk ab 08:22 Uhr nach Ueckerm&uuml;nde&nbsp;Stadthafen<br />\nRE13275 Pasewalk ab 10:22 Uhr nach Ueckerm&uuml;nde&nbsp;Stadthafen<br />\nRE13277 Pasewalk ab 12:22 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\nRE13279 Pasewalk ab 14:22 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\nRE13270 Ueckerm&uuml;nde Stadthafen ab 07:00 Uhr nach&nbsp;Pasewalk<br />\nRE13272 Ueckerm&uuml;nde Stadthafen ab 09:00 Uhr nach Pasewalk<br />\nRE13274 Ueckerm&uuml;nde Stadthafen ab 11:00 Uhr nach&nbsp;Pasewalk<br />\nRE13276 Ueckerm&uuml;nde Stadthafen ab 13:00 Uhr nach Pasewalk<br />\nRE13278 Ueckerm&uuml;nde Stadthafen ab 15:00 Uhr nach Pasewalk&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\n\n<p><strong>am 18. M&auml;rz 2022 fallen auf der Linie RE4 zus&auml;tzlich aus:</strong></p>\n\n<p>RE5351 &nbsp;&nbsp;Neubrandenburg ab 05:13 Uhr nach Szczecin Glowny<br />\nRE5355 &nbsp;&nbsp;Neubrandenburg ab 09:33 Uhr nach Szczecin Glowny<br />\nRE5352&nbsp;&nbsp;&nbsp;Szczecin Glowny ab 07:01 Uhr Neubrandenburg<br />\nRE5356&nbsp;&nbsp;&nbsp;Szczecin Glowny ab 11:01 Uhr Neubrandenburg<br />\n<br />\nRE13281 Pasewalk ab 16:08 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\nRE13283 Pasewalk ab 18:22 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\nRE13285 Pasewalk ab 20:22 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\nRE13280 Ueckerm&uuml;nde Stadthafen ab 17:00 Uhr nach Pasewalk<br />\nRE13282<strong>&nbsp;</strong>Ueckerm&uuml;nde Stadthafen ab 19:00 Uhr nach Pasewalk<br />\nRE13284 Ueckerm&uuml;nde Stadthafen ab 21:00 Uhr nach Pasewalk<br />\n<br />\nBitte nutzen Sie als Ersatz den bereitgestellten Ersatzverkehr.</p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:67ee5f3c-5043-4244-b2ee-160a0398cb3b/Busnotverkehr%20Pasewalk-Ueckerm%C3%BCnde%20Stadthafen%2017.-18.03.22.pdf",
-            "title": "Busnotverkehr Pasewalk-Ueckermünde Stadthafen 17.-18.03.22.pdf (PDF, 64 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:94fc0afa-1ca3-486f-a54e-64d67c89f4c0/Busnotverkehr%20Ueckerm%C3%BCnde%20Stadthafen-Pasewalk%2017.-18.03.22%20.pdf",
-            "title": "Busnotverkehr Ueckermünde Stadthafen-Pasewalk 17.-18.03.22 .pdf (PDF, 66 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:bb953054-dbd1-4a28-aa63-1680302078cd/Busnotverkehr%20von%20Ueckerm%C3%BCnde-Pasewalk%20am%2018.03.22.pdf",
-            "title": "Busnotverkehr von Ueckermünde-Pasewalk am 18.03.22.pdf (PDF, 70 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:aab13535-7840-42d9-8690-b061f21f7888/Busnotverkehr%20Pasewalk-Ueckerm%C3%BCnde%20am%2018.03.22.pdf",
-            "title": "Busnotverkehr Pasewalk-Ueckermünde am 18.03.22.pdf (PDF, 72 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:1648777e-f139-42de-b140-f20949337e32/Busnotverkehr%20RB17%20am%2017.%20und%2018.%20M%C3%A4rz%202022.pdf",
-            "title": "Busnotverkehr RB17 am 17. und 18. März 2022.pdf (PDF, 75 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "mv"
-      ],
-      "lastModified": "18.03.2022 14:45",
       "expand": false,
       "priorityValue": 101
     },
@@ -585,11 +506,11 @@
       "priorityValue": 101
     },
     {
-      "id": "5544d96c-b29b-4b60-a518-aaa53ff0dece",
-      "headline": "Zugverkehr auf der Schwarzwaldbahn ist beeinträchtigt",
+      "id": "8e0b9fc7-d8d6-42b4-a543-23d179b52e55",
+      "headline": "Veränderter Fahrplan auf der Schwarzwaldbahn",
       "newsType": "Untersuchung an mehreren Zügen",
       "timePeriod": "Seit Mittwoch, 16. März bis voraussichtlich Sonntag, 3. April 2022",
-      "introText": "<p>Am 18. M&auml;rz fahren die Z&uuml;ge der Linie RE 2 zweist&uuml;ndlich zwischen Offenburg und Konstanz. Zwischen Karlsruhe Hbf und Offenburg&nbsp;fallen die Z&uuml;ge der Linie RE 2&nbsp;aus. Ab 21 Uhr bis 1 Uhr nachts fallen die Z&uuml;ge zwischen Engen und Konstanz aus. Zwischen Engen und Singen(Hohentwiel) verkehren Busse, von Singen(Hohentwiel) nach Konstanz nutzen Sie die Z&uuml;ge des Seehas.</p>\n\n<p><strong>Empfehlungen/Alternativen:</strong></p>\n\n<p>Zwischen Karlsruhe Hbf und Offenburg nutzen Sie die Z&uuml;ge der Linie RE 7 (Karlsruhe Hbf - Basel Bad Bf).</p>\n\n<p>Am 18. M&auml;rz k&ouml;nnen Sie die ICE/IC/EC zwischen Karlsruhe und Offenburg auch mit Fahrkarten des Nahverkehrs nutzen.</p>\n",
+      "introText": "<p>Die Regional-Express-Z&uuml;ge (RE) fahren in einem vor&uuml;bergehend reduzierten, aber verl&auml;sslichen Grundtakt: Zwischen Konstanz und Offenburg alle zwei Stunden, zwischen Offenburg und Karlsruhe st&uuml;ndlich. Im wichtigen Verkehr f&uuml;r Sch&uuml;ler:innen und Pendler:innen bleibt der Fahrplan wie gewohnt. Dazu setzt die DB zum Teil auch Busse ein.</p>\n\n<p>An den Wochenenden jeweils von Freitag, 21 Uhr bis Montag, 1 Uhr, ist die Strecke zwischen Engen und Singen (Hohentwiel) wegen Bauarbeiten gesperrt.&nbsp;Die Regional-Express-Z&uuml;ge (RE) fallen zwischen Engen und Konstanz aus. Zwischen Engen und Singen (Hohentwiel) fahren Busse. Zwischen Singen (Hohentwiel) und Konstanz fahren die Z&uuml;ge des Seehas.</p>\n",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
         "RE 2 Karlsruhe Hbf - Offenburg - Konstanz"
@@ -597,20 +518,20 @@
       "download": {
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:b5974c0c-40a4-42c1-8ef0-4386e90fe5c1/KBS_720_SWB_17.03_Stand_170322.pdf",
-            "title": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) 17.03.2022 (PDF, 441 KB)",
-            "info": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) 17.03.2022",
-            "openInNewTab": true
+            "link": "https://assets.static-bahn.de/dam/jcr:f047d103-3761-4790-acce-4821ac92bfb5/KBS_720_SWB_18.03_Mo-Fr_Stand_180322.pdf",
+            "title": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) Montag-Freitag (PDF, 444 KB)",
+            "info": "",
+            "openInNewTab": false
           },
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:0e6d925b-5965-42e9-af55-79684e60ffda/KBS_720_SWB_18.03_Stand_170322.pdf",
-            "title": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) ab 18.03.2022 (PDF, 452 KB)",
-            "info": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) ab 18.03.2022",
-            "openInNewTab": true
+            "link": "https://assets.static-bahn.de/dam/jcr:41b4ff22-db64-41e6-894e-e6c93739d332/KBS_720_SWB_18.03_Sa-So_Stand_180322.pdf",
+            "title": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) Samstag-Sonntag (PDF, 458 KB)",
+            "info": "",
+            "openInNewTab": false
           }
         ]
       },
-      "closingText": "<p><strong>Regelung ab Samstag, 19. M&auml;rz bis Sonntag, 20. M&auml;rz:&nbsp;</strong><br />\n- Karlsruhe Hbf &lt;&gt; Offenburg regul&auml;rer Fahrplan<br />\n- Offenburg &lt;&gt; Engen, Z&uuml;ge verkehren zweist&uuml;ndlich&nbsp;<br />\n- Engen &lt;&gt; Singen(Hohentwiel) st&uuml;ndlich Schienenersatzverkehr mit Bus &nbsp;<br />\n- Singen(Hohentwiel) &lt;&gt; Konstanz entf&auml;llt. Nutzen Sie bitte die Z&uuml;ge des Seehas&nbsp;</p>\n\n<p><strong>Regelung ab Montag, 21. M&auml;rz folgt.</strong></p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong><a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\" target=\"_blank\">Streckenagent-APP</a></strong> immer dabei!</p>\n",
+      "closingText": "<p>Der ver&auml;nderte Fahrplan ist ab Mittwoch, 23. M&auml;rz in die Reiseauskunft auf bahn.de und der DB Navigator APP eingearbeitet.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong><a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\" target=\"_blank\">Streckenagent-APP</a></strong> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -618,7 +539,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "18.03.2022 12:29",
+      "lastModified": "18.03.2022 12:27",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
