@@ -161,6 +161,26 @@
       "priorityValue": 102
     },
     {
+      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
+      "headline": "Meldungen der S-Bahn Berlin",
+      "newsType": "Störung",
+      "timePeriod": "unbefristet",
+      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
+      "connections": [],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "22.12.2021 03:42",
+      "author": "nordost",
+      "expand": true,
+      "priorityValue": 102
+    },
+    {
       "id": "34644dc7-73c8-4a63-881f-6423a8958f51",
       "headline": "Teilausfälle zwischen Crailsheim und Niederstetten",
       "newsType": "kurzfristige Erkrankung von Personal",
@@ -253,7 +273,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
@@ -540,7 +560,7 @@
       "headline": "Streckensperrung zwischen Himmelreich - Titisee",
       "newsType": "Reparatur an der Strecke",
       "timePeriod": "Störungsdauer voraussichtlich bis Sonntag, den 20. März 2022",
-      "introText": "<p>Die Sprengung zweier Felsbrocken ist erfogreich verlaufen. Die Aufr&auml;umarbeiten auf den Schienen der H&ouml;llentalbahn k&ouml;nnen morgen, am 19. M&auml;rz beginnen und dauern den ganzen Tag &uuml;ber an.&nbsp;Betriebsaufnahme der H&ouml;llentalbahn voraussichtlich am Sonntag, 20. M&auml;rz. Eine verl&auml;ssliche Prognose &uuml;ber die Betriebsaufnahme kann erst am 19. M&auml;rz ab 14 Uhr getroffen werden.</p>\n",
+      "introText": "<p>Die Sprengung zweier Felsbrocken ist erfogreich verlaufen. Die Aufr&auml;umarbeiten auf den Schienen der H&ouml;llentalbahn sind seit heute gestartet und dauern den ganzen Tag &uuml;ber an.&nbsp;Betriebsaufnahme der H&ouml;llentalbahn voraussichtlich am Sonntag, 20. M&auml;rz. Eine verl&auml;ssliche Prognose &uuml;ber die Betriebsaufnahme kann erst heute ab vsl. sp&auml;ten Nachmittag getroffen werden.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "S1, S10 und S11 zwischen Himmelreich und Titisee"
@@ -553,7 +573,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "19.03.2022 05:43",
+      "lastModified": "19.03.2022 14:35",
       "expand": false,
       "priorityValue": 101
     },
