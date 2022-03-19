@@ -161,26 +161,6 @@
       "priorityValue": 102
     },
     {
-      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
-      "headline": "Meldungen der S-Bahn Berlin",
-      "newsType": "Störung",
-      "timePeriod": "unbefristet",
-      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
-      "connections": [],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "22.12.2021 03:42",
-      "author": "nordost",
-      "expand": true,
-      "priorityValue": 102
-    },
-    {
       "id": "34644dc7-73c8-4a63-881f-6423a8958f51",
       "headline": "Teilausfälle zwischen Crailsheim und Niederstetten",
       "newsType": "kurzfristige Erkrankung von Personal",
@@ -273,7 +253,7 @@
       "internal": {
         "linkDataList": [
           {
-            "link": "https://www.suedostbayernbahn.de/aktuell/newsticker",
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
             "title": "Aktuelle Betriebslage",
             "info": "",
             "openInNewTab": true
@@ -559,13 +539,13 @@
       "id": "a7f9a368-90fa-404e-a54c-33d5fd752c89",
       "headline": "Streckensperrung zwischen Himmelreich - Titisee",
       "newsType": "Reparatur an der Strecke",
-      "timePeriod": "Störungsdauer voraussichtlich bis Sonntag, den 20. März 2022",
-      "introText": "<p>Die Sprengung zweier Felsbrocken ist erfogreich verlaufen. Die Aufr&auml;umarbeiten auf den Schienen der H&ouml;llentalbahn sind seit heute gestartet und dauern den ganzen Tag &uuml;ber an.&nbsp;Betriebsaufnahme der H&ouml;llentalbahn voraussichtlich am Sonntag, 20. M&auml;rz. Eine verl&auml;ssliche Prognose &uuml;ber die Betriebsaufnahme kann erst heute ab vsl. sp&auml;ten Nachmittag getroffen werden.</p>\n",
+      "timePeriod": "Störungsdauer vsl. bis Samstag, den 19. März 2022",
+      "introText": "<p>Die Sprengung zweier Felsbrocken ist erfogreich verlaufen. Die Aufr&auml;umarbeiten auf den Schienen der H&ouml;llentalbahn sind seit heute gestartet und dauern noch bis heute Abend an.&nbsp;</p>\n\n<p>Betriebsaufnahme der H&ouml;llentalbahn voraussichtlich am Sonntag, 20. M&auml;rz.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "S1, S10 und S11 zwischen Himmelreich und Titisee"
       ],
-      "closingText": "<p>Die Z&uuml;ge und der Ersatzverkehr mit Bussen fahren zwischen:</p>\n\n<ul>\n\t<li>Breisach/Endigen am Kaiserstuhl - Freiburg (Breisgau) - Himmelreich</li>\n\t<li>Titisee - Seebrugg/Villingen (Schwarzw)</li>\n\t<li>Ersatzverkehr mit Bussen zwischen Himmelreich - Hinterzarten - Titisee</li>\n</ul>\n\n<p>Es kann bei den Z&uuml;gen zu Versp&auml;tungen kommen.</p>\n\n<p>Die Bundesstra&szlig;e 31 ist von den Hangsicherungsarbeiten ebenfalls betroffen und f&uuml;r den Stra&szlig;enverkehr gesperrt. Die Busse m&uuml;ssen daher eine weitr&auml;umige Umleitung fahren, wodurch sich die Fahrzeit erh&ouml;ht.</p>\n\n<p>Eine verl&auml;ssliche Prognose &uuml;ber die tats&auml;chliche Dauer der St&ouml;rung kann fr&uuml;hestens am Samstag, den 19. M&auml;rz erfolgen.</p>\n\n<p>--Update folgt--</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "closingText": "<p>Die Z&uuml;ge und der Ersatzverkehr mit Bussen fahren zwischen:</p>\n\n<ul>\n\t<li>Breisach/Endigen am Kaiserstuhl - Freiburg (Breisgau) - Himmelreich</li>\n\t<li>Titisee - Seebrugg/Villingen (Schwarzw)</li>\n\t<li>Ersatzverkehr mit Bussen zwischen Himmelreich - Hinterzarten - Titisee</li>\n</ul>\n\n<p>Es kann bei den Z&uuml;gen zu Versp&auml;tungen kommen.</p>\n\n<p>Die Bundesstra&szlig;e 31 ist von den Hangsicherungsarbeiten ebenfalls betroffen und f&uuml;r den Stra&szlig;enverkehr weiterhin gesperrt. Die Busse m&uuml;ssen daher eine weitr&auml;umige Umleitung fahren, wodurch sich die Fahrzeit erh&ouml;ht.</p>\n\n<p>-- Update folgt --</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -573,7 +553,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "19.03.2022 14:38",
+      "lastModified": "19.03.2022 19:14",
       "expand": false,
       "priorityValue": 101
     },
