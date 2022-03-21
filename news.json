@@ -85,14 +85,14 @@
     {
       "id": "d29584f5-01ee-4f9f-9628-662131caa507",
       "headline": "Verspätungen und Zugausfälle",
-      "newsType": "Feuerwehreinsatz an der Strecke",
+      "newsType": "Feuerwehreinsatz und Reparatur an der Strecke",
       "timePeriod": "bis voraussichtlich 22. März 2022 -18:00 Uhr",
       "connectionsHeadline": "folgende Linie ist betroffen:",
       "connections": [
         "RE1 Magdeburg-Potsdam- Berlin - Frankfurt (Oder) - Eisenhüttenstadt - Cottbus"
       ],
       "download": {
-        "text": "<p>Aufgrund eines Feuerwehreinsatzes an der Strecke werden die Z&uuml;ge der Linie RE1 &uuml;ber Berlin-Lichtenberg (Zusatzhalt) und Berlin-Gesundbrunnen (Zusatzhalt) umgeleitet. Die Halte zwischen Erkner und Berlin Wannsee entfallen. Es kann zu Versp&auml;tungen und Teilausf&auml;llen in den Abschnitten Burg(Magdeburg) bis Magdeburg Hbf, Potsdam Hbf bis Brandenburg Hbf/Magdeburg sowie Frankfurt(Oder) bis Eisenh&uuml;ttenstadt kommen.&nbsp;</p>\n"
+        "text": "<p>Aufgrund eines Feuerwehreinsatzes und Reparatur an der Strecke werden die Z&uuml;ge der Linie RE1 &uuml;ber Berlin-Lichtenberg (Zusatzhalt) und Berlin-Gesundbrunnen (Zusatzhalt) umgeleitet. Die Halte zwischen Erkner und Berlin Wannsee entfallen. Es kann zu Versp&auml;tungen und Teilausf&auml;llen in den Abschnitten Burg(Magdeburg) bis Magdeburg Hbf, Potsdam Hbf bis Brandenburg Hbf/Magdeburg sowie Frankfurt(Oder) bis Eisenh&uuml;ttenstadt kommen.&nbsp;</p>\n"
       },
       "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n",
       "priority": "0",
@@ -104,30 +104,9 @@
         "br",
         "st"
       ],
-      "lastModified": "21.03.2022 13:13",
+      "lastModified": "21.03.2022 14:34",
       "expand": false,
       "priorityValue": 103
-    },
-    {
-      "id": "c5039e0c-2b0b-4765-b731-d7ffce6c186e",
-      "headline": "Ausfall RB31 zwischen Elsterwerda-Coswig (b Dresden)-Dresden Hbf",
-      "newsType": "krankheitsbedingte Personalausfälle",
-      "timePeriod": "21. März 2022",
-      "introText": "<p>Folgende Z&uuml;ge fallen aus:</p>\n\n<p>RB18001 ab Elsterwerda 04:43 Uhr nach Dresden Hbf</p>\n\n<p>RB18011 ab Elsterwerda 07:43 Uhr nach Dresden Hbf</p>\n\n<p>RB18019 ab Elsterwerda 11:43 Uhr nach Dresden Hbf</p>\n\n<p>&nbsp;</p>\n\n<p>RB18006 ab Dresden Hbf&nbsp; 06:08 Uhr nach Elsterwerda</p>\n\n<p>RB18014 ab Dresden Hbf 09:08 Uhr&nbsp; nach Elsterwerda</p>\n\n<p>RB18022 ab Dresden Hbf 13:08 Uhr nach Elsterwerda</p>\n\n<p>Bitte nutzen Sie die nachfolgenden Z&uuml;ge.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <strong><a href=\"tel:03312356881\">0331 235-6881</a></strong> und&nbsp;<strong><a href=\"tel:03857502405\">0385 750-2405</a>&nbsp;</strong>.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
-      "connections": [
-        "RB31Elsterwerda-Coswig (b Dresden)-Dresden Hbf"
-      ],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "sn"
-      ],
-      "lastModified": "21.03.2022 04:14",
-      "expand": false,
-      "priorityValue": 102
     },
     {
       "id": "4f14c07f-5966-4c81-9373-59abeec3cc63",
@@ -213,6 +192,26 @@
       "priorityValue": 102
     },
     {
+      "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
+      "headline": "Meldungen der S-Bahn Berlin",
+      "newsType": "Störung",
+      "timePeriod": "unbefristet",
+      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie <a href=\"https://sbahn.berlin/fahren/fahrplanaenderungen/\" target=\"_blank\">hier</a>.</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der S-Bahn Berlin finden Sie auf dem frei zug&auml;nglichen <a href=\"https://twitter.com/SBahnBerlin\" target=\"_blank\">Twitter-Kanal</a>.</p>\n",
+      "connections": [],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "22.12.2021 03:42",
+      "author": "nordost",
+      "expand": true,
+      "priorityValue": 102
+    },
+    {
       "id": "2ef2f9ec-38c8-4364-b98f-264c06f4f70c",
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
@@ -270,12 +269,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
