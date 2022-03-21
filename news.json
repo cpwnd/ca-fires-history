@@ -50,6 +50,29 @@
       "priorityValue": 302
     },
     {
+      "id": "8c42c857-ad0b-44d6-8005-9f2c2dcf9579",
+      "headline": "Beeinträchtigungen zwischen Emden und Leer(Ostfriesl)",
+      "newsType": "defektes Stellwerk",
+      "timePeriod": "Am Montag, 21.03.2022 bis in die Nachmittagsstunden",
+      "introText": "<p>Aufgrund eines defekten Stellwerkes zwischen Emden und Leer(Ostfriesl) kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Aktuell ist die Strecke gesperrt. Es kommt im Fernverkehr zu Zugausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "IC Züge fallen zwischen Leer(Ostfriesl) - Emden - Norddeich aus"
+      ],
+      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "ni"
+      ],
+      "lastModified": "21.03.2022 15:07",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 301
+    },
+    {
       "id": "e69a497b-85da-4812-a86e-a7a5176254b6",
       "headline": "Informationen für Ukraine-Flüchtlinge zur Ein- und Weiterreise ",
       "newsType": "Informationen",
@@ -128,27 +151,6 @@
       "lastModified": "18.03.2022 11:05",
       "author": "nordost",
       "expand": false,
-      "priorityValue": 102
-    },
-    {
-      "id": "27f73f30-1515-42f7-824f-ef56f7970d0a",
-      "headline": "Ausfall der Züge der RB93 zwischen  Zagan und Forst(Lausitz) ",
-      "newsType": "Betriebliche Gründe",
-      "timePeriod": "21. März 2022",
-      "introText": "<p>Aus betrieblichen Gr&uuml;nden&nbsp;fallen folgende Z&uuml;ge zwischen Zagan und Forst(Lausitz) aus:</p>\n\n<p><strong>RB5628&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 11:56 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5629&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 12:56 Uhr ab&nbsp;Forst(Lausitz) nach Zagan</p>\n\n<p>Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Forst (Lausitz) und Zagan und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881\" style=\"color:blue; text-decoration:underline\">0331 235 6881 </a>und<a href=\"tel: 0385%20750%202405 \" style=\"color:blue; text-decoration:underline\">&nbsp;0385 750 2405</a></p>\n",
-      "connections": [
-        "RB93  Zagan - Forst(Lausitz)"
-      ],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "21.03.2022 12:14",
-      "expand": true,
       "priorityValue": 102
     },
     {
