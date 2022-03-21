@@ -1,17 +1,17 @@
 {
   "news": [
     {
-      "id": "7f0bdc20-3f2e-4d1b-8306-18808be8a301",
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) Flughafen und Mainz",
-      "newsType": "Reparatur an der Strecke",
-      "timePeriod": "vsl. bis Dienstag, 22.03.2022",
-      "introText": "<p>Aufgrund einer Reparatur an der Strecke ist der Abschnitt zwischen Frankfurt(M) Flughafen und Mainz Hbf derzeit gesperrt. Dadurch m&uuml;ssen die Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und halten <strong><u>nicht</u></strong> in Frankfurt(M) Flughafen Fernbahnhof, Mainz Hbf und Wiesbaden Hbf.</p>\n",
+      "id": "59f1914c-b2a3-4b15-858a-224a826ca43a",
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Mainz",
+      "newsType": "Bauarbeiten",
+      "timePeriod": "Am Dienstag, 22.03.2022 bis in die Nachtstunden",
+      "introText": "<p>Aufgrund von Bauarbeiten auf der Strecke Mainz - Frankfurt(M) Flughafen ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE, IC/EC, NJ Züge zwischen Frankfurt(M) Flughafen und Koblenz Hbf über Mainz.",
-        "ICE-Züge zwischen Frankfurt(M) Hbf und Wiesbaden Hbf über Mainz fallen aus."
+        "Einzelne ICE-Züge in/aus Richtung Erfurt/Leipzig/Dresden, die in Wiesbaden Hbf beginnen bzw. enden, fallen zwischen Wiesbaden und Frankfurt(M) aus. Die Halte Wiesbaden Hbf, Mainz Hbf und Frankfurt(M) Flughafen entfallen bei diesen.",
+        "Die ÖBB-Nachtzüge, die in der Nacht 21. auf 22.03.2022 zwischen Wien bzw. Zürich und Amsterdam verkehren, werden in beiden Fahrtrichtungen umgeleitet. Die Halte Mainz Hbf und Frankfurt(M) Flughafen entfallen."
       ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>- Frankfurt(M) Flughafen erreichen Sie weiterhin &uuml;ber Frankfurt(M)Hbf mit der S-Bahn Linien 8 und 9 sowie den ICE-Z&uuml;gen Richtung K&ouml;ln/Stuttgart.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p>Die ausfallenden ICE-Z&uuml;ge sind in die Auskunfstmedien eingearbeitet.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -248,7 +248,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
