@@ -114,7 +114,7 @@
         "RE1 Magdeburg-Potsdam- Berlin - Frankfurt (Oder) - Eisenhüttenstadt - Cottbus"
       ],
       "download": {
-        "text": "<p>Aufgrund eines Feuerwehreinsatzes und resultierenden Reparaturarbeiten an der Strecke werden die Z&uuml;ge der Linie RE1 &uuml;ber Berlin-Lichtenberg (Zusatzhalt) und Berlin-Gesundbrunnen (Zusatzhalt) umgeleitet. Die Halte Berlin Ostkreuz, Berlin Ostbahnhof, Berlin Alexanderplatz, Berlin Friedrichstra&szlig;e, Berlin Hbf, Berlin Zoologischer Garten und Berlin-Charlottenburg entfallen. Es kann zu Versp&auml;tungen und Teilausf&auml;llen in den Abschnitten Burg(Magdeburg) bis Magdeburg Hbf, Potsdam Hbf bis Brandenburg Hbf/Magdeburg sowie Frankfurt(Oder) bis Eisenh&uuml;ttenstadt kommen.&nbsp;</p>\n"
+        "text": "<p>Aufgrund eines Feuerwehreinsatzes und resultierenden Reparaturarbeiten an der Strecke werden die Z&uuml;ge der Linie RE1 von/nach Magdeburg Hbf &uuml;ber Berlin-Lichtenberg (Zusatzhalt) und Berlin-Gesundbrunnen (Zusatzhalt) und die Z&uuml;ge von/nach Brandenburg Hbf &uuml;ber Berlin Gesundbrunnen(Zusatzhalt) und Berlin Hohensch&ouml;nhausen(Zusatzhalt) umgeleitet.</p>\n\n<p>Die Halte Berlin Ostkreuz, Berlin Ostbahnhof, Berlin Alexanderplatz, Berlin Friedrichstra&szlig;e, Berlin Hbf, Berlin Zoologischer Garten und Berlin-Charlottenburg entfallen.</p>\n\n<p>Es kann zu Versp&auml;tungen und Teilausf&auml;llen kommen.&nbsp;</p>\n"
       },
       "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n",
       "priority": "0",
@@ -126,7 +126,7 @@
         "br",
         "st"
       ],
-      "lastModified": "21.03.2022 19:14",
+      "lastModified": "22.03.2022 07:53",
       "expand": false,
       "priorityValue": 103
     },
@@ -291,7 +291,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
