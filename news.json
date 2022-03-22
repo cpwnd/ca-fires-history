@@ -271,12 +271,13 @@
       "id": "2600c4a3-e330-4c88-b501-e007d3a6741c",
       "headline": "Aktuelle Einschränkungen zwischen Erfurt Hbf und Bad Neustadt(Saale)",
       "newsType": "Reparatur an einem Signal",
-      "introText": "<p>Aufgrund einer Reparatur an einem Signal kommt es zu Einschr&auml;nkungen im Bahnverkehr zwischen Erfurt Hbf und Bad Neustadt(Saale).</p>\n",
+      "timePeriod": "bis 13:30 Uhr",
+      "introText": "<p>Die Reparatur an einem Signal zwischen Erfurt Hbf und Bad Neustadt(Saale) ist beendet.</p>\n",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
         "RE 7 Erfurt Hbf - Arnstadt Hbf - Suhl - Grimmenthal - Schweinfurt Hbf - Meiningen"
       ],
-      "closingText": "<p>Z&uuml;ge dieser Linie fallen im Streckenabschnitt von Erfurt Hbf bis Bad Neustadt(Saale) sowie Gegenrichtung aus.</p>\n\n<p>Wir haben f&uuml;r Sie ab ca. 12:00 Uhr einen Busnotverkehr zwischen Erfurt Hbf und Bad Neustadt(Saale) sowie Gegenrichtung mit allen Unterwegshalten eingerichtet.</p>\n\n<p>Genaue Informationen zur Dauer der Sperrung liegen uns noch nicht vor. &Uuml;ber &Auml;nderungen der Betriebslage werden wir Sie auch an dieser Stelle informieren.</p>\n\n<p>Informationen zu den aktuellen Versp&auml;tungen und Zugausf&auml;llen finden Sie auch in der Reiseauskunft unter www.bahn.de.</p>\n",
+      "closingText": "<p>Bitte rechnen Sie noch mit Versp&auml;tungen und ggf. Teilausf&auml;llen.</p>\n\n<p>Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.&nbsp;Informationen zu den aktuellen Versp&auml;tungen und Zugausf&auml;llen finden Sie auch in der Reiseauskunft unter www.bahn.de.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -284,7 +285,7 @@
       "areas": [
         "th"
       ],
-      "lastModified": "22.03.2022 12:19",
+      "lastModified": "22.03.2022 13:31",
       "expand": false,
       "priorityValue": 101
     },
@@ -517,7 +518,7 @@
       "headline": "Vorübergehend reduziertes Fahrplanangebot auf dem Hochrhein",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "ab 18. März bis vsl. 25. März 2022",
-      "introText": "<p>DB Regio Baden-W&uuml;rttemberg hat das Fahrplangebot auf dem Hochrhein zwischen Basel Bad Bf - Waldshut und St&uuml;hlingen bzw. Erzingen(Baden) reduziert.</p>\n",
+      "introText": "<p>DB Regio Baden-W&uuml;rttemberg hat das Fahrplangebot auf dem Hochrhein zwischen Basel Bad Bf - Waldshut - Erzingen(Baden) bzw. St&uuml;hlingen reduziert.</p>\n\n<p>Die Z&uuml;ge der Linie RB 37 zwischen Waldshut und St&uuml;hlingen verkehren ab dem 23. M&auml;rz wieder regul&auml;r. Der Ersatzverkehr mit Bus wird auf diesem Abschnitt eingestellt.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "RB 35: Basel - Waldshut - Erzingen(Baden)",
@@ -542,7 +543,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "22.03.2022 09:16",
+      "lastModified": "22.03.2022 12:59",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
