@@ -270,7 +270,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -475,7 +480,7 @@
       "headline": "Veränderter Fahrplan auf der Schwarzwaldbahn",
       "newsType": "Untersuchung an mehreren Zügen",
       "timePeriod": "Seit Mittwoch, 16. März bis voraussichtlich Sonntag, 3. April 2022",
-      "introText": "<p>Die Regional-Express-Z&uuml;ge (RE) fahren in einem vor&uuml;bergehend reduzierten, aber verl&auml;sslichen Grundtakt: Zwischen Konstanz und Offenburg alle zwei Stunden, zwischen Offenburg und Karlsruhe st&uuml;ndlich. Im wichtigen Verkehr f&uuml;r Sch&uuml;ler:innen und Pendler:innen bleibt der Fahrplan wie gewohnt. Dazu setzt die DB zum Teil auch Busse ein.</p>\n\n<p>An den Wochenenden jeweils von Freitag, 21 Uhr bis Montag, 1 Uhr, ist die Strecke zwischen Engen und Singen (Hohentwiel) wegen Bauarbeiten gesperrt.&nbsp;Die Regional-Express-Z&uuml;ge (RE) fallen zwischen Engen und Konstanz aus. Zwischen Engen und Singen (Hohentwiel) fahren Busse. Zwischen Singen (Hohentwiel) und Konstanz fahren die Z&uuml;ge des Seehas.</p>\n",
+      "introText": "<p>Die Regional-Express-Z&uuml;ge (RE) fahren in einem vor&uuml;bergehend reduzierten, aber verl&auml;sslichen Grundtakt: Zwischen Konstanz und Offenburg alle zwei Stunden, zwischen Offenburg und Karlsruhe st&uuml;ndlich. Im wichtigen Verkehr f&uuml;r Sch&uuml;ler:innen und Pendler:innen bleibt der Fahrplan wie gewohnt. Dazu setzt die DB zum Teil auch Busse ein.&nbsp;<strong>Am 22. M&auml;rz k&ouml;nnen Sie die ICE/IC/EC zwischen Offenburg und Karlsruhe auch mit Fahrkarten des Nahverkehrs nutzen.</strong></p>\n\n<p>An den Wochenenden jeweils von Freitag, 21 Uhr bis Montag, 1 Uhr, ist die Strecke zwischen Engen und Singen (Hohentwiel) wegen Bauarbeiten gesperrt.&nbsp;Die Regional-Express-Z&uuml;ge (RE) fallen zwischen Engen und Konstanz aus. Zwischen Engen und Singen (Hohentwiel) fahren Busse. Zwischen Singen (Hohentwiel) und Konstanz fahren die Z&uuml;ge des Seehas.</p>\n",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
         "RE 2 Karlsruhe Hbf - Offenburg - Konstanz"
@@ -504,7 +509,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "18.03.2022 12:27",
+      "lastModified": "22.03.2022 05:49",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
