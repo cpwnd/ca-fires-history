@@ -291,7 +291,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -535,7 +540,7 @@
       "headline": "Vorübergehend reduziertes Fahrplanangebot auf dem Hochrhein",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "ab 18. März bis vsl. 25. März 2022",
-      "introText": "<p>DB Regio Baden-W&uuml;rttemberg wird das Fahrplangebot ab <strong>18. M&auml;rz 2022 </strong>auf dem Hochrhein zwischen Basel Bad Bf - Waldshut und St&uuml;hlingen bzw. Erzingen(Baden) reduzieren.</p>\n",
+      "introText": "<p>DB Regio Baden-W&uuml;rttemberg hat das Fahrplangebot auf dem Hochrhein zwischen Basel Bad Bf - Waldshut und St&uuml;hlingen bzw. Erzingen(Baden) reduziert.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "RB 35: Basel - Waldshut - Erzingen(Baden)",
@@ -560,7 +565,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "18.03.2022 15:07",
+      "lastModified": "22.03.2022 09:16",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
