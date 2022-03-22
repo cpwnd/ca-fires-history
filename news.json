@@ -247,12 +247,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
@@ -265,28 +260,6 @@
       "lastModified": "13.10.2021 08:58",
       "author": "suedostbayernbahn",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "2600c4a3-e330-4c88-b501-e007d3a6741c",
-      "headline": "Aktuelle Einschränkungen zwischen Erfurt Hbf und Bad Neustadt(Saale)",
-      "newsType": "Reparatur an einem Signal",
-      "timePeriod": "bis 13:30 Uhr",
-      "introText": "<p>Die Reparatur an einem Signal zwischen Erfurt Hbf und Bad Neustadt(Saale) ist beendet.</p>\n",
-      "connectionsHeadline": "Betroffene Linie:",
-      "connections": [
-        "RE 7 Erfurt Hbf - Arnstadt Hbf - Suhl - Grimmenthal - Schweinfurt Hbf - Meiningen"
-      ],
-      "closingText": "<p>Bitte rechnen Sie noch mit Versp&auml;tungen und ggf. Teilausf&auml;llen.</p>\n\n<p>Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.&nbsp;Informationen zu den aktuellen Versp&auml;tungen und Zugausf&auml;llen finden Sie auch in der Reiseauskunft unter www.bahn.de.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "th"
-      ],
-      "lastModified": "22.03.2022 13:31",
-      "expand": false,
       "priorityValue": 101
     },
     {
