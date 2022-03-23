@@ -194,12 +194,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
@@ -448,7 +443,7 @@
           }
         ]
       },
-      "closingText": "<p>Der ver&auml;nderte Fahrplan ist ab Mittwoch, 23. M&auml;rz in die Reiseauskunft auf bahn.de und der DB Navigator APP eingearbeitet.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong><a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\" target=\"_blank\">Streckenagent-APP</a></strong> immer dabei!</p>\n",
+      "closingText": "<p>Der ver&auml;nderte Fahrplan ist in die Reiseauskunft auf bahn.de und der DB Navigator APP eingearbeitet.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong><a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\" target=\"_blank\">Streckenagent-APP</a></strong> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -456,7 +451,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "23.03.2022 01:47",
+      "lastModified": "23.03.2022 07:48",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
