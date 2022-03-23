@@ -378,6 +378,30 @@
       "priorityValue": 101
     },
     {
+      "id": "30ece343-6c54-4a86-9d36-f589cb757c03",
+      "headline": "Kein Zugverkehr auf den Linien RB52 und RB54",
+      "newsType": "erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "Donnerstag, 24.03.2022 bis voraussichtlich Sonntag, 10.04.2022",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal fallen die Z&uuml;ge zwischen W&ouml;rth (Rhein) und Lauterbourg sowie zwischen Winden(Pfalz) und Bad Bergzabern leider aus.</p>\n\n<p>Wir haben auf beiden Strecken einen Ersatzverkehr mit Bussen f&uuml;r Sie eingerichtet.</p>\n",
+      "connectionsHeadline": "Betroffene Linien: ",
+      "connections": [
+        "RB52 Wörth (Rhein) - Lauterbourg",
+        "RB54 Winden - Bad Bergzabern"
+      ],
+      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "23.03.2022 13:14",
+      "author": "mitte",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "1d3241f6-b686-4f6f-b90b-1f50d24644e7",
       "headline": "Keine Zugfahrten zwischen Bad Dürkheim und Freinsheim",
       "newsType": "Bauarbeiten",
@@ -459,6 +483,25 @@
       "lastModified": "01.03.2022 14:42",
       "author": "bayern",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "eaee44b9-a6a8-48da-a8f2-f511bc9247a6",
+      "headline": "Beeinträchtigungen zwischen Freiburg(Breisgau) und Basel",
+      "newsType": "Reparatur einer Weiche",
+      "timePeriod": "Störungsdauer vsl. bis in die Nachmittagsstunden",
+      "introText": "<p>Auf dem Streckenabschnitt zwischen Freiburg(Breisgau) Hbf und Basel Bad Bf ist der Zugverkehr beeintr&auml;chtigt. Der Grund hierf&uuml;r ist die Reparatur an einer Weiche im Raum Bad Krozingen. Der betroffene Streckenabschnitt ist eingleisig befahrbar. In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen.</p>\n\n<p><strong>Regionalexpress Z&uuml;ge aus Richtung Offenburg wenden in Freiburg(Breisgau) und fallen zwischen Freiburg(Breisgau) und Basel Bad Bf aus.</strong></p>\n\n<p><strong>Regionalbahnen fahren regul&auml;r zwischen Freiburg(Breisgau) und Basel Bad Bf.</strong></p>\n\n<p>ICE 276 ab Basel (14:13 Uhr) bis Freiburg(Breisgau) f&uuml;r Reisende mit Nahverkehrsfahrkarten freigegeben. Bitte pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "23.03.2022 13:23",
+      "expand": false,
       "priorityValue": 101
     },
     {
