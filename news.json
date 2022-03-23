@@ -229,12 +229,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
@@ -387,8 +382,18 @@
       "download": {
         "text": "<p>Fahrplan f&uuml;r den Schienenersatzverkehr der Linien RB 52 &amp; RB 54</p>\n",
         "linkDataList": [
-          null,
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:922af30d-51e5-4533-a19c-3c04d6dc8744/Schienenersatzverkehr%20Fahrplan%20RB%2052.pdf",
+            "title": "Schienenersatzverkehr Fahrplan RB 52.pdf (PDF, 311 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:5fda805e-8c06-44b6-9432-628b6062763a/Schienenersatzverkehr%20Fahrplan%20RB%2054.pdf",
+            "title": "Schienenersatzverkehr Fahrplan RB 54.pdf (PDF, 61 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
         ]
       },
       "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
@@ -399,7 +404,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "23.03.2022 15:13",
+      "lastModified": "23.03.2022 15:25",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
