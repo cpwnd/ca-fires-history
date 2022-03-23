@@ -81,8 +81,8 @@
       "id": "e6e505da-4a29-4d59-8acf-745c89b41143",
       "headline": "Ausfall der Linie RB66 / RE66",
       "newsType": "Beförderung von Flüchtlingen aus der Ukraine",
-      "timePeriod": "21. bis 27. März 2022",
-      "introText": "<p>Fast alle Z&uuml;ge der Linie RE/RB66 fallen vom 21.- 27. M&auml;rz 2022 weiterhin aus und es wird Ersatzverkehr eingerichtet. Seit dem 07.03.2022 besteht bereits ein ver&auml;ndertes Fahrplanangebot aufgrund von Bauarbeiten (Gleisbauarbeiten) zwischen Angerm&uuml;nde und Passow (Uckerm).&nbsp;Da wir baubedingt aktuell nicht durchgehend fahren k&ouml;nnen, werden deshalb vor&uuml;bergehend&nbsp;die f&uuml;r den Verkehr nach Polen zugelassenen Fahrzeuge f&uuml;r die Bef&ouml;rderung von Fl&uuml;chtenden aus der Ukraine eingesetzt. Grund ist, dass nur wenige Fahrzeuge in Deutschland&nbsp;&uuml;ber die daf&uuml;r erforderlichen technischen Voraussetzungen&nbsp;verf&uuml;gen. Die Fahrzeuge dieser Linie z&auml;hlen dazu. Wir bitten Sie um Ihr Verst&auml;ndnis und danken Ihnen, dass Sie somit&nbsp;unsere Bem&uuml;hungen zur Evakuierung der Fl&uuml;chtenden unterst&uuml;tzen.</p>\n",
+      "timePeriod": "21. bis vsl. 07. April 2022",
+      "introText": "<p>Fast alle Z&uuml;ge der Linie RE/RB66 fallen vom 21.bis voraussichtlich 07. April 2022 weiterhin aus und es wird Ersatzverkehr eingerichtet. Seit dem 07.03.2022 besteht bereits ein ver&auml;ndertes Fahrplanangebot aufgrund von Bauarbeiten (Gleisbauarbeiten) zwischen Angerm&uuml;nde und Passow (Uckerm).&nbsp;Da wir baubedingt aktuell nicht durchgehend fahren k&ouml;nnen, werden deshalb vor&uuml;bergehend&nbsp;die f&uuml;r den Verkehr nach Polen zugelassenen Fahrzeuge f&uuml;r die Bef&ouml;rderung von Fl&uuml;chtenden aus der Ukraine eingesetzt. Grund ist, dass nur wenige Fahrzeuge in Deutschland&nbsp;&uuml;ber die daf&uuml;r erforderlichen technischen Voraussetzungen&nbsp;verf&uuml;gen. Die Fahrzeuge dieser Linie z&auml;hlen dazu. Wir bitten Sie um Ihr Verst&auml;ndnis und danken Ihnen, dass Sie somit&nbsp;unsere Bem&uuml;hungen zur Evakuierung der Fl&uuml;chtenden unterst&uuml;tzen.</p>\n",
       "connections": [
         "RB66/RE66 Berlin - Angermünde - Szczecin Glowny"
       ],
@@ -91,13 +91,25 @@
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:7494c69e-00cf-44b6-8b0c-81a908a5d10d/BNV%20RB66%20WA-XPSG%2021.03.-27.03.2022.pdf",
-            "title": "Ersatzverkehr RE / RB66 (PDF, 82 KB)",
+            "title": "Ersatzverkehr RE / RB66 bis 27. März 2022 (PDF, 82 KB)",
             "info": "",
             "openInNewTab": false
           },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:9a79a2e3-3d38-4a79-931a-3c4f4ed9c27f/ExpressbusseRB66%20WA-XPSG%2021.03.-27.03.2022.pdf",
-            "title": "Expressbusse RE / RB66 (PDF, 58 KB)",
+            "title": "Expressbusse RE / RB66 bis 27. März 2022 (PDF, 58 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:a40bc3b6-83ce-40d1-9be7-5b365c73b9cf/20220323_BNV_BB_RB66X_WA-XPSG_29.03.-07.04.2022_v01__V3_SUhE.pdf",
+            "title": "Espressbusse RE /RB66 ab 28.März 2022 (PDF, 68 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:e67ff511-b7a7-4726-8a01-bce9d798e584/20220323_BNV_BB_RB66_WA-XPSG_28.03.-07.04.2022_v03__V3_SUh.pdf",
+            "title": "Ersatzverkehr RE/ RB66 ab 28. März 2022 (PDF, 112 KB)",
             "info": "",
             "openInNewTab": false
           }
@@ -112,7 +124,7 @@
         "be",
         "br"
       ],
-      "lastModified": "19.03.2022 11:10",
+      "lastModified": "23.03.2022 15:51",
       "author": "nordost",
       "expand": true,
       "priorityValue": 102
@@ -229,7 +241,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
