@@ -2,12 +2,13 @@
   "news": [
     {
       "id": "dee2d877-2eb9-4595-92a7-4a43c9509738",
-      "headline": "Entschärfung einer Weltkriegsbombe in Frankfurt am Main",
+      "headline": "Entschärfung einer Weltkriegsbombe in Frankfurt am Main / Gallus",
       "newsType": "Bombenentschärfung",
-      "timePeriod": "Am Donnerstag, 24.03.2022 in den Mittagsstunden",
-      "introText": "<p>Am Donnerstag, den 24.03.2022 ist die Entsch&auml;rfung einer Weltkriegsbombe in Frankfurt am Main geplant.</p>\n\n<p>W&auml;hrend der unmitttelbaren Entsch&auml;rfung wird es vsl. zur Sperrung der Bahnstrecke Frankfurt-Niederrad &ndash; Frankfurt(M) Hbf kommen. Betroffene Fernverkehrsz&uuml;ge werden umgeleitet, wodurch es in Frankfurt(M) Hbf zu Gleis&auml;nderungen kommen kann. Vereinzelt kann auch der Halt Frankfurt(M) Hbf ausfallen. Ersatzhalt dann Frankfurt(M) S&uuml;d.</p>\n",
+      "timePeriod": "Heute, 24.03.2022 bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund der Entsch&auml;rfung einer Weltkriegsbombe am heutigen Donnerstag, den 24.03.2022,&nbsp;&nbsp;kommt es ab 12:00 Uhr in im Bereich <strong>Frankfurt(M) Flughafen - Niederrad &ndash; Frankfurt(M) Hbf </strong>zu Beeintr&auml;chtigungen im Zugverkehr der Deutschen Bahn. Die betroffenen Z&uuml;ge m&uuml;ssen umgeleitet werden, dadurch entf&auml;llt<strong> der Halt Frankfurt(M) Flughafen Fern. </strong>Einzelne Z&uuml;ge im Fernverkehrs der Deutschen Bahn enden und beginnen in Frankfurt(M)Hbf, in diesem Fall entfallen zus&auml;tzlich die Halte&nbsp;Mainz Hbf und Wiesbaden Hbf.</p>\n",
+      "connectionsHeadline": "ICE/IC Züge Frankfurt(M) Flughafen - Frankfurt(M) Hbf",
       "connections": [],
-      "closingText": "<p>Reisende der umgeleiteten Fernverkehrsz&uuml;ge, die nicht in Frankfurt(M) Hbf halten, nutzen bitte zwischen Frankfurt(M) Hbf und Frankfurt(M) S&uuml;d die Regionalz&uuml;ge und S-Bahnen (S3, S4, S5, S6).<br />\n&nbsp;</p>\n\n<p>Infos zur geplanten Entsch&auml;rfung der Fliegerbombe finden Sie auch auf der Seite der <a href=\"https://feuerwehr-frankfurt.de/\" target=\"_blank\">Feuerwehr Frankfurt am Main</a>.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p>Infos zur geplanten Entsch&auml;rfung der Fliegerbombe finden Sie auch auf der Seite der <a href=\"https://feuerwehr-frankfurt.de/\" target=\"_blank\">Feuerwehr Frankfurt am Main</a>.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -15,7 +16,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "23.03.2022 22:58",
+      "lastModified": "24.03.2022 11:17",
       "expand": false,
       "priorityValue": 301
     },
@@ -258,7 +259,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
