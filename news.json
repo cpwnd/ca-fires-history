@@ -58,31 +58,6 @@
       "priorityValue": 201
     },
     {
-      "id": "a6b8f937-3829-4306-93e8-3cdd7a1e64f9",
-      "headline": "Begrenzte Zugfahrten zwischen Worms und Oppenheim",
-      "newsType": "Defektes Stellwerk",
-      "timePeriod": "bis voraussichtlich 27.03.2022",
-      "introText": "<p>Wegen eines defekten Stellwerkes sind nur begrenzte Zugfahrten zwischen Worms und Oppenheim m&ouml;glich.</p>\n\n<p><strong>Wir haben f&uuml;r Sie einen Busnotverkehr (7 Busse Firma Holiday-Reisen) zwischen Oppenheim und Worms Hbf eingerichtet, der alle Unterwegshalte anf&auml;hrt.&nbsp;</strong></p>\n",
-      "connectionsHeadline": "Betroffene Linien:",
-      "connections": [
-        "S6 Bensheim <> Mannheim <> Worms <> Mainz",
-        "RE4/RE14 Mannheim/Karlsruhe <> Worms <> Mainz <> Frankfurt"
-      ],
-      "closingText": "<p>Die Z&uuml;ge der Linie <strong>S6</strong> aus Richtung Mainz Hbf enden und beginnen in Oppenheim. Aus Richtung Mannheim Hbf enden und beginnen in Worms Hbf.</p>\n\n<p>Die Z&uuml;ge der Linie <strong>RE4/RE14</strong>&nbsp;verkehren auf dem Regelweg. Es kommt zu Versp&auml;tungen.</p>\n\n<p>&nbsp;</p>\n\n<p>Sobald wir weitere Informationen erhalten, halten wir Sie an dieser Stelle auf dem Laufenden.<br />\nBitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;<br />\nInformieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "he",
-        "rp"
-      ],
-      "lastModified": "26.03.2022 17:40",
-      "expand": false,
-      "priorityValue": 103
-    },
-    {
       "id": "4f14c07f-5966-4c81-9373-59abeec3cc63",
       "headline": "Ausfall der Kulturzüge",
       "newsType": "Beförderung von Flüchtlingen aus der Ukraine",
@@ -253,7 +228,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -348,6 +328,29 @@
       "lastModified": "04.11.2021 10:10",
       "author": "nrw",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "a6b8f937-3829-4306-93e8-3cdd7a1e64f9",
+      "headline": "Begrenzte Zugfahrten zwischen Worms und Oppenheim",
+      "newsType": "Defektes Stellwerk",
+      "timePeriod": "bis voraussichtlich 27.03.2022",
+      "introText": "<p>Wegen eines defekten Stellwerkes sind nur begrenzte Zugfahrten zwischen Worms und Oppenheim m&ouml;glich.</p>\n\n<p><strong>Wir haben f&uuml;r Sie einen Busnotverkehr (7 Busse Firma Holiday-Reisen) zwischen Oppenheim und Worms Hbf eingerichtet, der alle Unterwegshalte anf&auml;hrt.&nbsp;</strong></p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "S6 Bensheim <> Mannheim <> Worms <> Mainz",
+        "RE4/RE14 Mannheim/Karlsruhe <> Worms <> Mainz <> Frankfurt"
+      ],
+      "closingText": "<p>Die Z&uuml;ge der Linie <strong>S6</strong> aus Richtung Mainz Hbf enden und beginnen in Oppenheim. Aus Richtung Mannheim Hbf enden und beginnen in Worms Hbf.</p>\n\n<p>Die Z&uuml;ge der Linie <strong>RE4/RE14</strong>&nbsp;verkehren auf dem Regelweg. Es kommt zu Versp&auml;tungen.</p>\n\n<p>&nbsp;</p>\n\n<p>Sobald wir weitere Informationen erhalten, halten wir Sie an dieser Stelle auf dem Laufenden.<br />\nBitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;<br />\nInformieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "26.03.2022 20:59",
+      "expand": false,
       "priorityValue": 101
     },
     {
