@@ -228,12 +228,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
@@ -430,6 +425,29 @@
       "lastModified": "01.03.2022 14:42",
       "author": "bayern",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "a20c458c-1641-4ae6-a0de-ddb63ca3c9fb",
+      "headline": "Streckensperrung zwischen Nimburg(Baden) und Endingen am Kaiserstuhl",
+      "newsType": "Personen auf der Strecke",
+      "timePeriod": "seit ca. 16:00 Uhr, 27. März",
+      "introText": "<p>Die Z&uuml;ge aus Richtung Gottenheim beginnen und enden vorzeitg in Nimburg(Baden). Ein Ersatzverkehr mit Bussen im Pendelverkehr ist zwischen Nimburg(Baden) und Endingen am Kaiserstuhl eingerichtet. Bisher liegt uns keine Information zur Dauer der Sperrung vor.</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "S11"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "27.03.2022 18:20",
+      "author": "baden_wuerttemberg",
+      "expand": false,
       "priorityValue": 101
     },
     {
