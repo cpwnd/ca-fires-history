@@ -4,7 +4,7 @@
       "id": "fcc9d636-f8af-4b00-a780-c8e54e7b6655",
       "headline": "Verspätungen zwischen Mannheim und Frankfurt(M) (Riedbahn)",
       "newsType": "Streckenstörung",
-      "timePeriod": "Heute, 28.03.2022 bis in die frühen Morgenstunden",
+      "timePeriod": "Heute, 28.03.2022 bis in die Mittagsstunden",
       "introText": "<p>Aufgrund einer Streckenst&ouml;rung ist der Streckenabschnitt zwischen Mannheim und Frankfurt(M) (Riedbahn) derzeit beeintr&auml;chtigt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 30 Minuten.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
@@ -19,7 +19,7 @@
         "bw",
         "he"
       ],
-      "lastModified": "28.03.2022 05:06",
+      "lastModified": "28.03.2022 05:51",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 302
@@ -239,7 +239,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
