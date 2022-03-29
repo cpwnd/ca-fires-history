@@ -242,7 +242,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -442,32 +447,26 @@
       "priorityValue": 101
     },
     {
-      "id": "8e0b9fc7-d8d6-42b4-a543-23d179b52e55",
-      "headline": "Veränderter Fahrplan auf der Schwarzwaldbahn",
+      "id": "129286d6-d1e9-481b-a4c0-718e5e22cc05",
+      "headline": "Veränderter Fahrplan auf der Schwarzwaldbahn ",
       "newsType": "Untersuchung an mehreren Zügen",
-      "timePeriod": "bis voraussichtlich Sonntag, 3. April 2022",
-      "introText": "<p>Die Regional-Express-Z&uuml;ge (RE) fahren in einem vor&uuml;bergehend reduzierten, aber verl&auml;sslichen Grundtakt: Zwischen Konstanz und Offenburg alle zwei Stunden, zwischen Offenburg und Karlsruhe st&uuml;ndlich. Im wichtigen Verkehr f&uuml;r Sch&uuml;ler:innen und Pendler:innen bleibt der Fahrplan wie gewohnt. Dazu setzt die DB zum Teil auch Busse ein.&nbsp;</p>\n\n<p>An den Wochenenden jeweils von Freitag, 21 Uhr bis Montag, 1 Uhr, ist die Strecke zwischen Engen und Singen (Hohentwiel) wegen Bauarbeiten gesperrt.&nbsp;Die Regional-Express-Z&uuml;ge (RE) fallen zwischen Engen und Konstanz aus. Zwischen Engen und Singen (Hohentwiel) fahren Busse. Zwischen Singen (Hohentwiel) und Konstanz fahren die Z&uuml;ge des Seehas.</p>\n",
+      "timePeriod": "bis voraussichtlich Sonntag, den 24. April 2022",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
-        "RE 2 Karlsruhe Hbf - Offenburg - Konstanz"
+        "Linie RE 2 (Schwarzwaldbahn): Karlsruhe - Offenburg - Konstanz"
       ],
       "download": {
+        "text": "<p>Die Regional-Express-Z&uuml;ge (RE) fahren in einem vor&uuml;bergehend reduzierten, aber verl&auml;sslichen Grundtakt:</p>\n\n<p><strong>- zwischen Konstanz und Offenburg alle zwei Stunden</strong></p>\n\n<p><strong>- zwischen Offenburg und Karlsruhe st&uuml;ndlich</strong></p>\n\n<p>Im wichtigen Verkehr f&uuml;r Sch&uuml;ler:innen und Pendler:innen bleibt der Fahrplan wie gewohnt. Dazu setzt die DB zum Teil auch Busse ein.&nbsp;</p>\n\n<p><strong>Der ver&auml;nderte Fahrplan ist vsl. ab Mittwoch, den 30. M&auml;rz 2022 in die Reiseauskunft auf www.bahn.de und der DB Navigator App eingearbeitet.</strong></p>\n",
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:f047d103-3761-4790-acce-4821ac92bfb5/KBS_720_SWB_18.03_Mo-Fr_Stand_180322.pdf",
-            "title": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) Montag-Freitag (PDF, 444 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:41b4ff22-db64-41e6-894e-e6c93739d332/KBS_720_SWB_18.03_Sa-So_Stand_180322.pdf",
-            "title": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) Samstag-Sonntag (PDF, 458 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:b99c2750-68da-4811-826a-620297f2225e/Ersatzfahrplan%20Schwarzwaldbahn%2004.04.-24.04..pdf",
+            "title": "Zugverkehr Linie RE 2 (Schwarzwaldbahn) (PDF, 450 KB)",
             "info": "",
             "openInNewTab": false
           }
         ]
       },
-      "closingText": "<p>Der ver&auml;nderte Fahrplan ist in die Reiseauskunft auf bahn.de und der DB Navigator APP eingearbeitet.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong><a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\" target=\"_blank\">Streckenagent-APP</a></strong> immer dabei!</p>\n",
+      "closingText": "<p>Beachten Sie au&szlig;erdem:&nbsp;Am kommenden Wochenende (ab Freitag, 21 Uhr bis Montag, 1 Uhr nachts) ist die Strecke zwischen Engen und Singen (Hohentwiel) wegen Bauarbeiten gesperrt. Die Regional-Express-Z&uuml;ge (RE) fallen zwischen Engen und Konstanz aus. Zwischen Engen und Singen (Hohentwiel) fahren Busse. Zwischen Singen (Hohentwiel) und Konstanz fahren die Z&uuml;ge des Seehas.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -475,8 +474,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "28.03.2022 00:56",
-      "author": "baden_wuerttemberg",
+      "lastModified": "29.03.2022 11:29",
       "expand": false,
       "priorityValue": 101
     },
