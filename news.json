@@ -290,7 +290,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -455,15 +460,14 @@
       "id": "30ece343-6c54-4a86-9d36-f589cb757c03",
       "headline": "Kein Zugverkehr auf den Linien RB52 und RB54",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "Donnerstag, 24.03.2022 bis voraussichtlich Freitag, 01.04.2022",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal fallen die Z&uuml;ge zwischen W&ouml;rth (Rhein) und Lauterbourg sowie zwischen Winden(Pfalz) und Bad Bergzabern leider aus.</p>\n\n<p>Wir haben auf beiden Strecken einen Ersatzverkehr mit Bussen f&uuml;r Sie eingerichtet.&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffene Linien: ",
-      "connections": [
-        "RB52 Wörth (Rhein) - Lauterbourg",
-        "RB54 Winden(Pfalz) - Bad Bergzabern"
-      ],
+      "timePeriod": "24.03.2022 bis 01.04.2022 / 10.04.2022",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal fallen die Z&uuml;ge zwischen W&ouml;rth (Rhein) und Lauterbourg sowie zwischen Winden(Pfalz) und Bad Bergzabern leider aus.</p>\n\n<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<p><strong>*&nbsp;RB52 W&ouml;rth (Rhein) - Lauterbourg</strong></p>\n\n<p>*&nbsp;<strong>RB54 Winden(Pfalz) - Bad Bergzabern</strong></p>\n\n<p>Die Z&uuml;ge der Linie <strong>RB52</strong> verkehren <strong>ab Samstag, 2. April 2022</strong> wieder planm&auml;&szlig;ig zwischen W&ouml;rth(Rhein) und Lauterbourg. Bis einschl. Freitag, 1. April 2022 verkehrt ein Ersatzverkehr mit Bussen.</p>\n\n<p>Auf der Linie <strong>RB54</strong> verkehrt der Ersatzverkehr mit Bussen weiterhin bis voraussichtlich 10. April 2022.</p>\n",
+      "connections": [],
+      "internal": {
+        "text": "<p>Bitte beachten Sie, dass die SEV-Haltestellen der Busse nicht immer direkt am Bahnhof liegen und dass die Mitnahme von Fahrr&auml;dern in den Bussen aus Platzgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>&nbsp;</p>\n"
+      },
       "download": {
-        "text": "<p>Ersatzfahrpl&auml;ne RB52 und RB54 als Download:</p>\n",
+        "text": "<p><strong><em>Ersatzfahrpl&auml;ne RB52 und RB54 als Download:</em></strong></p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:be2d6d12-8371-4ec5-bc03-3d2515ea2242/RB52%20-%20W%C3%B6rth-Lauterbourg-W%C3%B6rth.pdf",
@@ -487,7 +491,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "24.03.2022 11:42",
+      "lastModified": "30.03.2022 18:59",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
