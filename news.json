@@ -239,8 +239,8 @@
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "RB 38  (Buchholz (Nordheide) - Hannover Hbf): Züge aus Buchholz enden/beginnen in Langenhagen Mitte. Ersatzverkehr mit Bus wird eingerichtet.",
-        "S4 (Hildesheim - Bennemühlen): Züge aus Bennemühlen enden/beginnen in Langenhagen-Pferdemarkt. Bis zum Beginn der Räumung ist am Halt Hannover-Ledeburg nur Zustieg gestattet.",
-        "S5 (Paderborn - Hameln - Hannover Flughafen): Züge vom Hannover Flughafen enden/beginnen in Hannover-Vinnhorst.  Bis zum Beginn der Räumung ist am Halt Hannover-Ledeburg nur Zustieg gestattet."
+        "S4 (Hildesheim - Bennemühlen): Züge aus Bennemühlen enden/beginnen in Langenhagen-Pferdemarkt. Ab Evakuierung um 15:00 Uhr ist am Halt Hannover-Ledeburg nur der Zustieg gestattet.",
+        "S5 (Paderborn - Hameln - Hannover Flughafen): Züge vom Hannover Flughafen enden/beginnen in Hannover-Vinnhorst.  Ab Evakuierung um 15:00 Uhr ist am Halt Hannover-Ledeburg nur der Zustieg gestattet."
       ],
       "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator-App</a>&nbsp;oder beim regionalen Kundendialog unter&nbsp;0511 45901645.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen auf <a href=\"http://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Auch den Twitterkan&auml;len der <a href=\"http://twitter.com/start_unterelbe\" target=\"_blank\">Start Unterelbe</a>&nbsp;oder <a href=\"https://twitter.com/start_NI_mitte\" target=\"_blank\">Start Niedersachsen Mitte</a>&nbsp;k&ouml;nnen Sie folgen.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
@@ -251,7 +251,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "29.03.2022 12:07",
+      "lastModified": "30.03.2022 10:31",
       "expand": false,
       "priorityValue": 102
     },
@@ -335,12 +335,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
@@ -374,6 +369,34 @@
       ],
       "lastModified": "30.03.2022 08:42",
       "author": "suedost",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "60694f33-ab64-4359-af16-936134704995",
+      "headline": "Zugausfälle auf den Linien RE4, RB17 und S1 vom 4. bis 6. April 2022",
+      "newsType": "krankheitsbedingte Personalausfälle",
+      "timePeriod": "vom 4. bis 6. April 2022",
+      "introText": "<p>Auf den Linien RE4, RB17 und S1 muss das Fahrplanangebot weiterhin reduziert werden. Einige Z&uuml;ge fallen aus und werden zum Teil durch Busse ersetzt.</p>\n\n<p>Die RE5 kann - soweit derzeit absehbar - wieder fahren.</p>\n\n<p>Grund sind hohe krankheitsbedingte Personalausf&auml;lle.</p>\n",
+      "connectionsHeadline": "Folgende Linien sind betroffen:",
+      "connections": [
+        "RE4 Pasewalk - Ueckermünde Stadthafen",
+        "RB17/RB18 Ludwigslust - Schwerin - Bad Kleinen - Wismar sowie Rostock - Schwerin",
+        "S1 Warnemünde - Rostock "
+      ],
+      "download": {
+        "text": "<p><strong>Auf der Linie RE4 fallen vom vom 4. bis 6. April 2022 aus:<br />\nRE13271</strong>&nbsp;Pasewalk ab 06:10 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\n<strong>RE13273</strong>&nbsp;Pasewalk ab 08:22 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\n<strong>RE13275</strong>&nbsp;Pasewalk ab 10:22 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\n<strong>RE13277</strong>&nbsp;Pasewalk ab 12:22 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\n<strong>RE13279</strong>&nbsp;Pasewalk ab 14:22 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\n<strong>RE13281</strong>&nbsp;Pasewalk ab 16:08 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\n<strong>RE13283</strong>&nbsp;Pasewalk ab 18:22 Uhr nach Ueckerm&uuml;nde Stadthafen<br />\n<strong>RE13285</strong>&nbsp;Pasewalk ab 20:22 Uhr nach Ueckerm&uuml;nde Stadthafen</p>\n\n<p><strong>RE13270</strong>&nbsp;Ueckerm&uuml;nde Stadthafen ab 07:00 Uhr nach Pasewalk<br />\nR<strong>E13272</strong>&nbsp;Ueckerm&uuml;nde Stadthafen ab 09:00 Uhr nach Pasewalk<br />\n<strong>RE13274</strong>&nbsp;Ueckerm&uuml;nde Stadthafen ab 11:00 Uhr nach Pasewalk<br />\n<strong>RE13276</strong>&nbsp;Ueckerm&uuml;nde Stadthafen ab 13:00 Uhr nach Pasewalk<br />\n<strong>RE13278</strong>&nbsp;Ueckerm&uuml;nde Stadthafen ab 13:00 Uhr nach Pasewalk<br />\n<strong>RE13280</strong>&nbsp;Ueckerm&uuml;nde Stadthafen ab 17:00 Uhr nach Pasewalk<br />\n<strong>RE13282</strong>&nbsp;Ueckerm&uuml;nde Stadthafen ab 19:00 Uhr nach Pasewalk<br />\n<strong>RE13284</strong>&nbsp;Ueckerm&uuml;nde Stadthafen ab 21:00 Uhr nach Pasewalk</p>\n\n<p>Bitte nutzen Sie als Ersatz den bereitgestellten Ersatzverkehr.</p>\n\n<p><strong>Auf der Linie RB17 fallen vom 4. bis 6. April 2022 aus:<br />\nRB13150</strong>&nbsp;Ludwigslust ab 04:57 Uhr nach Wismar<br />\n<strong>RB13158</strong>&nbsp;Ludwigslust ab 08:25 Uhr nach Wismar<br />\n<strong>RB13162</strong>&nbsp;Ludwigslust ab 12:25 Uhr nach Wismar<br />\n<strong>RB13170</strong>&nbsp;Ludwigslust ab 16:25 Uhr nach Wismar<br />\n<strong>RB13176</strong>&nbsp;Ludwigslust ab 20:25 Uhr nach Wismar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />\n<strong>RB13180</strong>&nbsp;Ludwigslust ab 23:56 Uhr nach Schwerin Hbf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p><strong>RB13153</strong>&nbsp;Wismar ab 06:24 Uhr nach Ludwigslust&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />\n<strong>RB13159</strong>&nbsp;Wismar ab 10:24 Uhr nach Ludwigslust<br />\n<strong>RB13163</strong>&nbsp;Wismar ab 14:24 Uhr nach Ludwigslust<br />\n<strong>RB13171</strong>&nbsp;Wismar ab 18:24 Uhr nach Ludwigslust&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />\n<strong>RB13177</strong>&nbsp;Wismar ab 22:24 Uhr nach Ludwigslust<br />\n<br />\nBitte nutzen Sie die nachfolgenden Z&uuml;ge der Linie RE2 bzw. den Ersatzverkehr.<br />\n<br />\n<strong>Auf der Linie RB17 fallen vom 4. bis 6. April 2022 aus:</strong><br />\nRE13154 Schwerin ab 06:42 Uhr nach Rostock<br />\nRE13169 Rostock ab 16:09 Uhr nach Schwerin</p>\n\n<p><strong>Auf der Linie S1 fallenvom 4. bis 6. April 2022 aus:</strong><br />\nS33916 Rostock ab 13:25 Uhr nach Warnem&uuml;nde<br />\nS33924 Rostock ab 14:25 Uhr nach Warnem&uuml;nde<br />\nS33917 Warnem&uuml;nde ab 13:56 Uhr nach Rostock<br />\nS33925 Warnem&uuml;nde ab 14:54 Uhr nach Rostock</p>\n\n<p>Den Fahrplan f&uuml;r die angek&uuml;ndigten Ersatzverkehre finden Sie in K&uuml;rze hier.</p>\n"
+      },
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "mv"
+      ],
+      "lastModified": "30.03.2022 10:48",
+      "author": "nordost",
       "expand": false,
       "priorityValue": 101
     },
