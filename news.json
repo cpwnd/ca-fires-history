@@ -5,7 +5,7 @@
       "headline": "Beeinträchtigungen zwischen Helmstedt und Magdeburg",
       "newsType": "Reparatur an einem Signal",
       "timePeriod": "Am Mittwoch, 30.03.2022 bis in die Vormittagsstunden",
-      "introText": "<p>Aufgrund einer Reparatur an einem Signal zwischen Eilsleben und Magdeburg kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden zwischen Hannover Hbf und Magdeburg Hbf umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten.</p>\n\n<p><strong>Durch die Umleitung entfallen die Halte in Helmstedt, Braunschweig Hbf und Peine. Ersatzweise halten die Z&uuml;ge in Wolfsburg Hbf.</strong></p>\n",
+      "introText": "<p>Aufgrund einer Reparatur an einem Signal zwischen Eilsleben und Magdeburg kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden zwischen Hannover Hbf und Magdeburg Hbf umgeleitet und versp&auml;ten sich dadurch um etwa 30 Minuten.</p>\n\n<p><strong>Durch die Umleitung entfallen die Halte in Helmstedt, Braunschweig Hbf und Peine. Ersatzweise halten die Z&uuml;ge in Wolfsburg Hbf.</strong></p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "Alle IC Züge auf dem Abschnitt Hannover - Braunschweig - Magdeburg"
@@ -19,7 +19,7 @@
         "ni",
         "st"
       ],
-      "lastModified": "30.03.2022 05:12",
+      "lastModified": "30.03.2022 05:43",
       "author": "fernverkehr_ag",
       "expand": true,
       "priorityValue": 302
@@ -101,6 +101,27 @@
       "lastModified": "23.03.2022 09:06",
       "author": "nordost",
       "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "27793113-5bab-4443-98be-272413f5008a",
+      "headline": "Ausfall der Züge der RB93 zwischen  Zagan und Forst(Lausitz) ",
+      "newsType": "Betriebliche Gründe",
+      "timePeriod": "30. März 2022",
+      "introText": "<p>Aus betrieblichen Gr&uuml;nden&nbsp;fallen folgende Z&uuml;ge zwischen Zagan und Forst(Lausitz) aus:</p>\n\n<p><strong>RB5840 </strong>planm&auml;&szlig;ige Abfahrt 6:01 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5848&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 8:36 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5841&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp;6:58 Uhr ab&nbsp;Forst(Lausitz) nach Zagan</p>\n\n<p><strong>RB5849&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp;9:50 Uhr ab&nbsp;Forst(Lausitz) nach Zagan</p>\n\n<p><strong>RB5628&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 11:56 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5629&nbsp;</strong>planm&auml;&szlig;ige Abfahrt 12:56 Uhr ab Forst(Lausitz) nach Zagan</p>\n\n<p>Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Forst (Lausitz) und Zagan und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881\" style=\"color:blue; text-decoration:underline\">0331 235 6881 </a>und<a href=\"tel: 0385%20750%202405 \" style=\"color:blue; text-decoration:underline\">&nbsp;0385 750 2405</a></p>\n",
+      "connections": [
+        "RB93  Zagan - Forst(Lausitz)"
+      ],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "30.03.2022 05:36",
+      "expand": true,
       "priorityValue": 102
     },
     {
@@ -290,7 +311,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
