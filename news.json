@@ -243,31 +243,6 @@
       "priorityValue": 102
     },
     {
-      "id": "edd306a1-740d-439f-9692-ddd4f8155f9d",
-      "headline": "Kampfmittelsondierung: Auswirkungen im Regionalverkehr im Großraum Hannover",
-      "newsType": "Kampfmittelsondierung",
-      "timePeriod": "Donnerstag, den 31. März 2022, vsl. ab 15:00 Uhr",
-      "introText": "<p>Am Donnerstag, den 31. M&auml;rz 2022, wird es aufgrund der Kampfmittelsondierung zwischen Hannover Hbf und Langenhagen Mitte im Hannoverschen Stadtteil Burg zu Auswirkungen auf den Bahnverkehr kommen.&nbsp;</p>\n\n<p>Laut Beh&ouml;rden soll die Evakuierung um 15:00 Uhr und die&nbsp;Kampfmittelsondierung ab 18:00 Uhr beginnen.</p>\n\n<p>Alle weiteren Informationen zur Kampfmittelsondierung finden Sie <a href=\"https://www.hannover.de/Leben-in-der-Region-Hannover/Sicherheit-Ordnung/Feuerwehr-Hannover/Presse-und-%C3%96ffentlichkeitsarbeit/Pressemitteilungen/M%C3%A4rz-2022/Kampfmittelverdacht-Evakuierung-beginnt-um-15-Uhr\" target=\"_blank\">hier</a>.</p>\n\n<p>Sobald uns neue Informationen vorliegen, wird diese Meldung aktualisiert. Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p>\n",
-      "connectionsHeadline": "Betroffene Linien:",
-      "connections": [
-        "RB 38  (Buchholz (Nordheide) - Hannover Hbf): Züge aus Buchholz enden/beginnen in Langenhagen Mitte. Reisende nutzen alternativ bitte die Stadtbahnlinie 1.",
-        "S4 (Hildesheim - Bennemühlen): Ab Evakuierung um 15:00 Uhr ist am Halt Hannover-Ledeburg nur der Zustieg gestattet. Züge aus Bennemühlen enden/beginnen in Hannover-Vinnhorst. Alternative: Stadtbahnlinie 1 und Bus 470.",
-        "S5 (Paderborn - Hameln - Hannover Flughafen): Ab Beginn der Evakuierung um 15:00 Uhr ist am Halt Hannover-Ledeburg nur der Zustieg gestattet. Ab 17:00 Uhr entfallen die Züge der Linie zwischen Hannover Hbf und Hannover Flughafen, sowie in der Gegenrichtung. Alternative von Hannover Flughafen nach Hannover Hbf: Buslinie 470 mit Umstieg in Langenhagen-Mitte auf Stadtbahnlinie 1. Alternative von Hannover Hbf in Richtung Hannover Flughafen: Stadtbahnlinie 1 mit Umstieg in Langenhagen-Mitte auf Buslinie 470."
-      ],
-      "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator-App</a>&nbsp;oder beim regionalen Kundendialog unter&nbsp;<a href=\"tel:0511 45901645\">0511 45901645</a></p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen auf <a href=\"http://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Auch den Twitterkan&auml;len der <a href=\"http://twitter.com/start_unterelbe\" target=\"_blank\">Start Unterelbe</a>&nbsp;oder <a href=\"https://twitter.com/start_NI_mitte\" target=\"_blank\">Start Niedersachsen Mitte</a>&nbsp;k&ouml;nnen Sie folgen.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "hb",
-        "ni"
-      ],
-      "lastModified": "31.03.2022 16:44",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "e82f3bee-36f5-43e8-9f30-3be6f45b7cdf",
       "headline": "Ab 29.03.2022 Zugausfälle zwischen Weinheim(Bergstr) und Fürth(Odenw)",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
@@ -347,12 +322,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
