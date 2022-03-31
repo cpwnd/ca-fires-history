@@ -347,7 +347,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -366,12 +371,12 @@
       "id": "849a0e1a-b225-44df-8625-8b0fe012e682",
       "headline": "Einschränkungen zwischen Magdeburg und Eilsleben(b. Magdeburg)",
       "newsType": "Streckensperrung zwischen Eilsleben(b. Magdeburg) und Magdeburg Hbf",
-      "timePeriod": "bis voraussichtlich 31.03. Betriebsende",
+      "timePeriod": "bis voraussichtlich 01.04, 12:00 Uhr",
       "introText": "<p>Aufgrund von Vandalismussch&auml;den ist der Streckenabschnitt derzeit gesperrt und kann nicht befahren werden.</p>\n",
       "connections": [
         "RB 40 Burg(Magdeburg) - Magdeburg - Braunschweig"
       ],
-      "closingText": "<p>Zwischen Magdeburg Hbf und Eilsleben wurde ein Ersatzverkehr mit Bussen eingerichtet, der auf den Unterwegshalten h&auml;lt.</p>\n\n<p>Voraussichtlich wird die Sperrung am 31.03.2022 ganzt&auml;gig notwendig sein. Liegen uns neue Informationen vor, werden wir Sie hier informieren.</p>\n\n<p>&nbsp;</p>\n",
+      "closingText": "<p>Zwischen Magdeburg Hbf und Eilsleben wurde ein Ersatzverkehr mit Bussen eingerichtet, der auf den Unterwegshalten h&auml;lt.</p>\n\n<p>&Uuml;ber &Auml;nderungen der Betriebslage werden wir Sie auch an dieser Stelle informieren.&nbsp;Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder telefonisch unter 03601 799 44 62 (Mo-Fr zw. 7 und 20 Uhr, Ortstarif) zu informieren.</p>\n\n<p>&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -379,7 +384,7 @@
       "areas": [
         "st"
       ],
-      "lastModified": "31.03.2022 06:19",
+      "lastModified": "31.03.2022 21:20",
       "author": "suedost",
       "expand": false,
       "priorityValue": 101
