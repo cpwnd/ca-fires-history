@@ -1,6 +1,38 @@
 {
   "news": [
     {
+      "id": "177d1f8b-a313-4ebb-8909-a3899853adc0",
+      "headline": "Beeinträchtigungen im Raum Hamburg",
+      "newsType": "Winterwitterung",
+      "timePeriod": "Am heutigen Donnerstag, 31.03.2022 vsl. bis in die Mittagsstunden",
+      "introText": "<p>Aktuell kommt es vor allem in Raum Hamburg zu Beeintr&auml;chtigungen aufgrund von Winterwitterung. In der Folge kommt es nun zu Ausf&auml;llen im Fernverkehr der Deutschen Bahn.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Strecken:",
+      "connections": [
+        "Hamburg - Büchen - Ludwigslust - Wittenberge - Berlin. Die Züge enden/beginnen in Berlin Hbf.",
+        "Hamburg - Bremen - NRW: Einzelne Züge fallen aus bzw. enden/beginnen in Bremen Hbf.",
+        "Hamburg - Lüneburg - Uelzen - Celle - Hannover.  Die Züge enden/beginnen in Hannover Hbf.",
+        "Hamburg - Neumünster - Flensburg - Dänemark. Die Züge enden/beginnen in Neumünster.",
+        "Hamburg - Neumünster - Kiel. IC/ICE-Züge fallen ersatzlos aus.",
+        "Hamburg - Büchen - Stralsund. IC/ICE-Züge fallen ersatzlos aus."
+      ],
+      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "be",
+        "hb",
+        "hh",
+        "mv",
+        "sh"
+      ],
+      "lastModified": "31.03.2022 10:07",
+      "author": "fernverkehr_ag",
+      "expand": true,
+      "priorityValue": 305
+    },
+    {
       "id": "ccace42c-709e-4710-8b3d-0dc86a49f016",
       "headline": "Beeinträchtigungen zwischen Hannover und Magdeburg",
       "newsType": "Vandalismusschäden",
@@ -193,7 +225,7 @@
       "introText": "<p>Am Donnerstag, den 31. M&auml;rz 2022, wird es aufgrund der Kampfmittelsondierung zwischen Hannover Hbf und Langenhagen Mitte im Hannoverschen Stadtteil Burg zu Auswirkungen auf den Bahnverkehr kommen.&nbsp;</p>\n\n<p>Laut Beh&ouml;rden soll die Evakuierung um 15:00 Uhr und die&nbsp;Kampfmittelsondierung ab 18:00 Uhr beginnen.</p>\n\n<p>Alle weiteren Informationen zur Kampfmittelsondierung finden Sie <a href=\"https://www.hannover.de/Leben-in-der-Region-Hannover/Sicherheit-Ordnung/Feuerwehr-Hannover/Presse-und-%C3%96ffentlichkeitsarbeit/Pressemitteilungen/M%C3%A4rz-2022/Kampfmittelverdacht-Evakuierung-beginnt-um-15-Uhr\" target=\"_blank\">hier</a>.</p>\n\n<p>Sobald uns neue Informationen vorliegen, wird diese Meldung aktualisiert. Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
-        "RB 38  (Buchholz (Nordheide) - Hannover Hbf): Züge aus Buchholz enden/beginnen in Langenhagen Mitte. Ersatzverkehr mit Bus wird eingerichtet.",
+        "RB 38  (Buchholz (Nordheide) - Hannover Hbf): Züge aus Buchholz enden/beginnen in Langenhagen Mitte. Reisende nutzen alternativ bitte die Stadtbahnlinie 1.",
         "S4 (Hildesheim - Bennemühlen): Züge aus Bennemühlen enden/beginnen in Langenhagen-Pferdemarkt. Ab Evakuierung um 15:00 Uhr ist am Halt Hannover-Ledeburg nur der Zustieg gestattet.",
         "S5 (Paderborn - Hameln - Hannover Flughafen): Züge vom Hannover Flughafen enden/beginnen in Hannover-Vinnhorst.  Ab Evakuierung um 15:00 Uhr ist am Halt Hannover-Ledeburg nur der Zustieg gestattet."
       ],
@@ -206,7 +238,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "30.03.2022 18:09",
+      "lastModified": "31.03.2022 10:17",
       "expand": false,
       "priorityValue": 102
     },
