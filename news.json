@@ -1,30 +1,6 @@
 {
   "news": [
     {
-      "id": "177d1f8b-a313-4ebb-8909-a3899853adc0",
-      "headline": "Beeinträchtigungen im Raum Hamburg",
-      "newsType": "Winterwitterung",
-      "timePeriod": "Am heutigen Donnerstag, 31.03.2022 vsl. bis in die Nachmittagsstunden",
-      "introText": "<p>Nach witterungsbedingten Beeintr&auml;chtigungen normalisiert sich der Bahnverkehr im Raum Hamburg. Es kann noch zu geringf&uuml;gigen Beeintr&auml;chtigungen und vereinzelten Ausf&auml;llen kommen.</p>\n\n<p><u><strong>Bitte rechnen Sie aktuell mit einem erh&ouml;hten Reisendenaufkommen in den Z&uuml;gen!</strong></u></p>\n",
-      "connections": [],
-      "closingText": "<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "be",
-        "hb",
-        "hh",
-        "mv",
-        "sh"
-      ],
-      "lastModified": "31.03.2022 14:39",
-      "author": "fernverkehr_ag",
-      "expand": true,
-      "priorityValue": 305
-    },
-    {
       "id": "ccace42c-709e-4710-8b3d-0dc86a49f016",
       "headline": "Beeinträchtigungen zwischen Hannover und Magdeburg",
       "newsType": "Vandalismusschäden",
@@ -395,12 +371,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
