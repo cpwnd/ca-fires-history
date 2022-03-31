@@ -157,6 +157,54 @@
       "priorityValue": 201
     },
     {
+      "id": "0b455ec4-cdc5-4c9e-8a13-00adedaca07a",
+      "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn ",
+      "newsType": "erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "Ab Montag 4. bis Freitag 8. April 2022",
+      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal wird der Fahrplan auf der Hohenlohebahn reduziert. F&uuml;r die ausfallenden Z&uuml;ge wird ein Schienenersatzverkehr mit Bus eingesetzt.&nbsp;Bitte informieren Sie sich tagesaktuell in den Online-Reiseausk&uuml;nften oder &uuml;ber die App DB-Streckenagent.</p>\n",
+      "connectionsHeadline": "Hohenlohebahn:",
+      "connections": [
+        "Crailsheim - Heilbronn Hbf"
+      ],
+      "download": {
+        "text": "<p>Den Fahrplan zum reduzierten Fahrplanangebot finden Sie hier:</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:b1d67bb3-b1b7-4422-9588-8ebd7311f9e5/Hohenlohebahn_reduziertes%20Angebot_KW%2014.pdf",
+            "title": "Hohenlohebahn_reduziertes Angebot_KW 14.pdf (PDF, 430 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
+      ],
+      "lastModified": "31.03.2022 15:36",
+      "expand": false,
+      "priorityValue": 116
+    },
+    {
       "id": "4f14c07f-5966-4c81-9373-59abeec3cc63",
       "headline": "Ausfall der Kulturzüge",
       "newsType": "Beförderung von Flüchtlingen aus der Ukraine",
@@ -252,7 +300,7 @@
       "connections": [
         "RB 38  (Buchholz (Nordheide) - Hannover Hbf): Züge aus Buchholz enden/beginnen in Langenhagen Mitte. Reisende nutzen alternativ bitte die Stadtbahnlinie 1.",
         "S4 (Hildesheim - Bennemühlen): Züge aus Bennemühlen enden/beginnen in Langenhagen-Pferdemarkt. Ab Evakuierung um 15:00 Uhr ist am Halt Hannover-Ledeburg nur der Zustieg gestattet.",
-        "S5 (Paderborn - Hameln - Hannover Flughafen): Züge vom Hannover Flughafen enden/beginnen in Hannover-Vinnhorst.  Ab Evakuierung um 15:00 Uhr ist am Halt Hannover-Ledeburg nur der Zustieg gestattet."
+        "S5 (Paderborn - Hameln - Hannover Flughafen): Ab Beginn der Evakuierung um 15:00 Uhr ist am Halt Hannover-Ledeburg nur der Zustieg gestattet. Ab 17:00 Uhr entfallen die Züge der Linie zwischen Hannover Hbf und Hannover Flughafen, sowie in der Gegenrichtung."
       ],
       "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator-App</a>&nbsp;oder beim regionalen Kundendialog unter&nbsp;<a href=\"tel:0511 45901645\">0511 45901645</a></p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen auf <a href=\"http://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Auch den Twitterkan&auml;len der <a href=\"http://twitter.com/start_unterelbe\" target=\"_blank\">Start Unterelbe</a>&nbsp;oder <a href=\"https://twitter.com/start_NI_mitte\" target=\"_blank\">Start Niedersachsen Mitte</a>&nbsp;k&ouml;nnen Sie folgen.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
@@ -263,7 +311,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "31.03.2022 10:17",
+      "lastModified": "31.03.2022 15:39",
       "expand": false,
       "priorityValue": 102
     },
