@@ -82,54 +82,6 @@
       "priorityValue": 201
     },
     {
-      "id": "0b455ec4-cdc5-4c9e-8a13-00adedaca07a",
-      "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn ",
-      "newsType": "erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "Ab Montag 4. bis Freitag 8. April 2022",
-      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal wird der Fahrplan auf der Hohenlohebahn reduziert. F&uuml;r die ausfallenden Z&uuml;ge wird ein Schienenersatzverkehr mit Bus eingesetzt.&nbsp;Bitte informieren Sie sich tagesaktuell in den Online-Reiseausk&uuml;nften oder &uuml;ber die App DB-Streckenagent.</p>\n",
-      "connectionsHeadline": "Hohenlohebahn:",
-      "connections": [
-        "Crailsheim - Heilbronn Hbf"
-      ],
-      "download": {
-        "text": "<p>Den Fahrplan zum reduzierten Fahrplanangebot finden Sie hier:</p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:b1d67bb3-b1b7-4422-9588-8ebd7311f9e5/Hohenlohebahn_reduziertes%20Angebot_KW%2014.pdf",
-            "title": "Hohenlohebahn_reduziertes Angebot_KW 14.pdf (PDF, 430 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "by",
-        "be",
-        "br",
-        "hb",
-        "hh",
-        "he",
-        "mv",
-        "ni",
-        "nw",
-        "rp",
-        "sl",
-        "sn",
-        "st",
-        "sh",
-        "th"
-      ],
-      "lastModified": "31.03.2022 15:36",
-      "expand": false,
-      "priorityValue": 116
-    },
-    {
       "id": "4f14c07f-5966-4c81-9373-59abeec3cc63",
       "headline": "Ausfall der Kulturzüge",
       "newsType": "Beförderung von Flüchtlingen aus der Ukraine",
@@ -561,6 +513,39 @@
       "lastModified": "01.03.2022 14:42",
       "author": "bayern",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "0b455ec4-cdc5-4c9e-8a13-00adedaca07a",
+      "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn ",
+      "newsType": "erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "Ab Montag 4. bis Freitag 8. April 2022",
+      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal wird der Fahrplan auf der Hohenlohebahn reduziert. F&uuml;r die ausfallenden Z&uuml;ge wird ein Schienenersatzverkehr mit Bus eingesetzt.&nbsp;Bitte informieren Sie sich tagesaktuell in den Online-Reiseausk&uuml;nften oder &uuml;ber die App DB-Streckenagent.</p>\n",
+      "connectionsHeadline": "Hohenlohebahn:",
+      "connections": [
+        "Crailsheim - Heilbronn Hbf"
+      ],
+      "download": {
+        "text": "<p>Den Fahrplan zum reduzierten Fahrplanangebot finden Sie hier:</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:b1d67bb3-b1b7-4422-9588-8ebd7311f9e5/Hohenlohebahn_reduziertes%20Angebot_KW%2014.pdf",
+            "title": "Hohenlohebahn_reduziertes Angebot_KW 14.pdf (PDF, 430 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "01.04.2022 15:21",
+      "expand": false,
       "priorityValue": 101
     },
     {
