@@ -186,12 +186,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
@@ -335,12 +330,8 @@
       "headline": "Weiterhin kein Zugverkehr zwischen Winden(Pfalz) und Bad Bergzabern",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "24.03.2022 bis voraussichtlich 10.04.2022",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal fallen die Z&uuml;ge zwischen Winden(Pfalz) und Bad Bergzabern leider aus.</p>\n\n<p>Wir haben einen Ersatzverkehr mit Bussen f&uuml;r Sie eingerichtet. Bitte beachten Sie, dass die SEV-Haltestellen der Busse nicht immer direkt am Bahnhof liegen und dass die Mitnahme von Fahrr&auml;dern in den Bussen aus Platzgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n",
-      "connectionsHeadline": "RB54 Winden(Pfalz) - Bad Bergzabern",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal fallen die Z&uuml;ge zwischen Winden(Pfalz) und Bad Bergzabern leider aus.</p>\n\n<p><strong>RB54 Winden(Pfalz) - Bad Bergzabern</strong></p>\n\n<p>Wir haben einen Ersatzverkehr mit Bussen f&uuml;r Sie eingerichtet. Bitte beachten Sie, dass die SEV-Haltestellen der Busse nicht immer direkt am Bahnhof liegen und dass die Mitnahme von Fahrr&auml;dern in den Bussen aus Platzgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n",
       "connections": [],
-      "internal": {
-        "text": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n"
-      },
       "download": {
         "text": "<p><strong><em>Ersatzfahrplan RB54:</em></strong></p>\n",
         "linkDataList": [
@@ -360,7 +351,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "02.04.2022 09:44",
+      "lastModified": "02.04.2022 09:50",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
