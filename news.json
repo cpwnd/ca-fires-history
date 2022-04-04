@@ -233,7 +233,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -463,11 +468,11 @@
         "RE 2 (Schwarzwaldbahn): Karlsruhe - Offenburg - Konstanz"
       ],
       "download": {
-        "text": "<p>Die Regional-Express-Z&uuml;ge (RE) fahren in einem vor&uuml;bergehend reduzierten, aber verl&auml;sslichen Grundtakt:</p>\n\n<p><strong>- zwischen Karlsruhe und Offenburg st&uuml;ndlich</strong></p>\n\n<p><strong>- zwischen Offenburg und Konstanz alle zwei Stunden</strong></p>\n\n<p>Im wichtigen Verkehr f&uuml;r Sch&uuml;ler:innen und Pendler:innen bleibt der Fahrplan wie gewohnt. Dazu setzt die DB zum Teil auch Busse ein.&nbsp;</p>\n\n<p>Der Fahrplan ist in der Reiseauskunft auf www.bahn.de und der DB Navigator App bereits eingearbeitet, den ge&auml;nderten Fahrplan zwischen Offenburg und Konstanz ab dem 4. April finden Sie zus&auml;tzlich auch in der PDF weiter unten.&nbsp;</p>\n",
+        "text": "<p>Die Regional-Express-Z&uuml;ge (RE) fahren in einem vor&uuml;bergehend reduzierten, aber verl&auml;sslichen Grundtakt:</p>\n\n<p><strong>- zwischen Karlsruhe und Offenburg st&uuml;ndlich</strong></p>\n\n<p><strong>- zwischen Offenburg und Konstanz alle zwei Stunden</strong></p>\n\n<p>Im wichtigen Verkehr f&uuml;r Sch&uuml;ler:innen und Pendler:innen bleibt der Fahrplan wie gewohnt. Dazu setzt die DB zum Teil auch Busse ein.&nbsp;</p>\n\n<p>Der Fahrplan ist in der Reiseauskunft auf www.bahn.de und der DB Navigator App bereits eingearbeitet, den ge&auml;nderten Fahrplan zwischen Offenburg und Konstanz finden Sie zus&auml;tzlich auch in der PDF weiter unten.&nbsp;</p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:61ae462f-e7a9-4603-a87d-ebbe897ec477/Ersatzfahrplan_Schwarzwaldbahn_0404_2404%20Stand_29032022.pdf",
-            "title": "Fahrplan Linie RE 2 (Schwarzwaldbahn) ab dem 4. April (PDF, 454 KB)",
+            "title": "Fahrplan Linie RE 2 (Schwarzwaldbahn)  (PDF, 454 KB)",
             "info": "",
             "openInNewTab": false
           }
@@ -481,7 +486,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "04.04.2022 01:02",
+      "lastModified": "04.04.2022 06:59",
       "expand": false,
       "priorityValue": 101
     },
@@ -489,7 +494,7 @@
       "id": "383694eb-19ec-48c4-901a-af32d1359f91",
       "headline": "Vorübergehend reduziertes Fahrplanangebot auf dem Hochrhein",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "ab 18. März bis vsl. 24. April 2022",
+      "timePeriod": "bis voraussichtlich 24. April 2022",
       "introText": "<p>DB Regio Baden-W&uuml;rttemberg hat das Fahrplangebot auf dem Hochrhein zwischen Basel Bad Bf - Waldshut - Erzingen(Baden) reduziert.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
@@ -500,7 +505,7 @@
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:8e5eaa60-dcec-4cc3-8be6-49a15586f29c/KBS730_vermindertes%20Zugangebot_Stand%20240322_Ex.pdf",
-            "title": "Ersatzfahrplan Hochrhein ab 26.03. (PDF, 798 KB)",
+            "title": "Ersatzfahrplan Hochrhein (PDF, 798 KB)",
             "info": "",
             "openInNewTab": true
           }
@@ -514,7 +519,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "26.03.2022 02:01",
+      "lastModified": "04.04.2022 07:00",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
