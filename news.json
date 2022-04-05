@@ -34,30 +34,6 @@
       "priorityValue": 216
     },
     {
-      "id": "9a943f8a-a498-4f28-a47a-48f836912809",
-      "headline": "Beeinträchtigungen zwischen Koblenz und Bonn",
-      "newsType": "Reparatur an der Weiche",
-      "timePeriod": "Heute, 05.04.2022 bis in die frühen Morgenstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Weiche zwischen Koblenz und Bonn kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 30 Minuten.</p>\n\n<p>Die Halte Bonn Hbf, Remagen und Andernach entfallen. Z&uuml;ge halten ersatzweise in Bonn-Beuel.&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE, IC/EC Züge auf dem Abschnitt Köln - Bonn - Koblenz - Mainz"
-      ],
-      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "nw",
-        "rp"
-      ],
-      "lastModified": "05.04.2022 07:15",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 202
-    },
-    {
       "id": "4f14c07f-5966-4c81-9373-59abeec3cc63",
       "headline": "Ausfall der Kulturzüge",
       "newsType": "Beförderung von Flüchtlingen aus der Ukraine",
@@ -163,6 +139,32 @@
       "lastModified": "21.03.2022 18:12",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "cae2b70b-d93e-44eb-83e3-0816bbb30c36",
+      "headline": "Streckenstörung zwischen Hannover Hbf und Wunstorf",
+      "newsType": "Weichenstörung",
+      "timePeriod": "05.04.2022 bis vsl. 15:00 Uhr",
+      "introText": "<p>Aufgrund einer Weichenst&ouml;rung im Bereich Wunstorf kommt es aktuell zwischen Hannover Hbf und Wunstorf zu Versp&auml;tungen, Teil- und Haltausf&auml;llen im Regionalverkehr der Deutschen Bahn.</p>\n",
+      "connectionsHeadline": "Folgende Linien sind betroffen",
+      "connections": [
+        "RE1 Hannover Hbf - Wunstorf - Bremen Hbf - Norddeich - Norddeich Mole: Züge entfallen zwischen Hannover Hbf und Wunstorf.",
+        "RE8 Hannover Hbf - Wunstorf - Bremen Hbf - Bremerhaven-Lehe: Züge entfallen zwischen Hannover Hbf und Wunstorf.",
+        "S1 Hannover Hbf - Wunstorf - Haste - Minden(Westf): Züge entfallen zw. Hannover Hbf und Haste; Züge pendeln zwischen Haste und Minden(Westf).",
+        "S2 Hannover Hbf - Wunstorf - Nienburg(Weser): Die Züge verkehren im Gegengleis und bedienen alle planmäßigen Halte."
+      ],
+      "closingText": "<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 30 Minuten.</p>\n\n<p>Sobald uns neue Informationen vorliegen, wird diese Seite aktualisiert.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de/\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a>&nbsp;oder beim regionalen Kundendialog unter 0511 45901645.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen&nbsp;auf <a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "hb",
+        "ni"
+      ],
+      "lastModified": "05.04.2022 07:44",
+      "expand": false,
       "priorityValue": 102
     },
     {
