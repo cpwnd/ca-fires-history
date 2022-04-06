@@ -162,7 +162,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -353,7 +358,7 @@
       "id": "0b455ec4-cdc5-4c9e-8a13-00adedaca07a",
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn ",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "Ab Montag 4. bis Freitag 8. April 2022",
+      "timePeriod": "Ab Montag, 4. April bis Freitag, 8. April und ab Montag, 11. April bis Mittwoch, 13. April",
       "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal wird der Fahrplan auf der Hohenlohebahn reduziert. F&uuml;r die ausfallenden Z&uuml;ge wird ein Schienenersatzverkehr mit Bus eingesetzt.&nbsp;Bitte informieren Sie sich tagesaktuell in den Online-Reiseausk&uuml;nften oder &uuml;ber die App DB-Streckenagent.</p>\n",
       "connectionsHeadline": "Hohenlohebahn:",
       "connections": [
@@ -363,8 +368,8 @@
         "text": "<p>Den Fahrplan zum reduzierten Fahrplanangebot finden Sie hier:</p>\n",
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:b1d67bb3-b1b7-4422-9588-8ebd7311f9e5/Hohenlohebahn_reduziertes%20Angebot_KW%2014.pdf",
-            "title": "Hohenlohebahn_reduziertes Angebot_KW 14.pdf (PDF, 430 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:ee4bac76-f17e-4142-bd6b-d22751f11cd4/Hohenlohebahn_reduziertes_Angebot_11042022_bis_13042022.pdf",
+            "title": "Fahrplan Hohenlohebahn (Crailsheim - Schwäbisch Hall-Hessental - Öhringen - Heilbronn (PDF, 451 KB)",
             "info": "",
             "openInNewTab": false
           }
@@ -378,7 +383,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "01.04.2022 15:21",
+      "lastModified": "06.04.2022 17:16",
       "expand": false,
       "priorityValue": 101
     },
