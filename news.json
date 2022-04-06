@@ -124,7 +124,7 @@
       "headline": "Zugausfälle zwischen Weinheim(Bergstr) und Fürth(Odenw)",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "Dienstag, 29.03.2022 bis voraussichtlich Freitag, 14.04.2022",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal kommt es zu Zugausf&auml;llen zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw).</p>\n\n<p>F&uuml;r ausfallende Z&uuml;ge haben wir einen Ersatzverkehr mit Bussen eingerichtet. Den Ersatzfahrplan finden Sie als Download weiter unten.</p>\n",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal kommt es zu Zugausf&auml;llen zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw).</p>\n\n<p>F&uuml;r ausfallende Z&uuml;ge haben wir einen Ersatzverkehr mit Bussen eingerichtet. Den Ersatzfahrplan finden Sie als Download weiter unten.</p>\n\n<p>Bitte beachten Sie, dass die SEV-Haltestellen der Busse nicht immer direkt am Bahnhof liegen und dass die Mitnahme von Fahrr&auml;dern in den Bussen aus Platzgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n",
       "connections": [
         "RB69 Weinheim (Bergstr) - Fürth(Odenw)"
       ],
@@ -148,7 +148,7 @@
         "bw",
         "he"
       ],
-      "lastModified": "05.04.2022 11:55",
+      "lastModified": "06.04.2022 14:58",
       "author": "mitte",
       "expand": false,
       "priorityValue": 102
@@ -162,7 +162,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -283,7 +288,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "05.04.2022 11:53",
+      "lastModified": "06.04.2022 14:58",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
