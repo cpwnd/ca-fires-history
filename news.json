@@ -220,7 +220,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -333,7 +338,7 @@
       "id": "bccdd559-37ad-4f86-896b-7491b1f8ba6c",
       "headline": "Bahnverkehr der Kuhrhessenbahn zwischen Korbach Hbf und Brilon Stadt beeinträchtigt",
       "newsType": "Unwetter",
-      "timePeriod": "Donnerstag, den 7. April 2022",
+      "timePeriod": "Donnerstag, den 7. und Freitag, den 8. April 2022 ",
       "introText": "<p>Es kommt im Bahnverkehr der Kurhessenbahn zu Teilausf&auml;llen zwischen Korbach Hbf und Willingen bzw. Brilon Stadt.</p>\n",
       "connectionsHeadline": "Linie:",
       "connections": [
@@ -347,7 +352,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "07.04.2022 19:47",
+      "lastModified": "07.04.2022 22:09",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
@@ -393,12 +398,13 @@
       "headline": "Unwetter: Regionalverkehr in Baden-Württemberg bei der DB Regio AG beeinträchtigt",
       "newsType": "Unwetter mit Orkanböen",
       "timePeriod": "am 7. April ",
-      "introText": "<p>- Zwischen Breisach und Gottenheim ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum. Ein Ersatzverkehr mit Bussen ist eingerichtet. Die Strecke wird voraussichtlich noch den ganzen Abend, eventuell sogar noch bis in die Morgenstunden gesperrt bleiben.</p>\n\n<p>-&nbsp;Zwischen Himmelreich und Titisee ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum. Ein Ersatzverkehr mit Bussen ist eingerichtet. Bisher liegen uns keine Informationen zur Dauer der Beeintr&auml;chtigungen vor.</p>\n\n<p>- Zwischen Hausach und St. Georgen(Schwarzwald) befindet sich ein Baum im Gleis. Die Strecke ist gesperrt. Es liegen noch keine Informationen zur Dauer vor.</p>\n",
+      "introText": "<p>- Zwischen Breisach und Gottenheim ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum. Ein Ersatzverkehr mit Bussen ist eingerichtet. Die Strecke wird voraussichtlich noch den ganzen Abend, eventuell sogar noch bis in die Morgenstunden gesperrt bleiben.</p>\n\n<p>-&nbsp;Zwischen Himmelreich und Titisee ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum. Ein Ersatzverkehr mit Bussen ist eingerichtet. Bisher liegen uns keine Informationen zur Dauer der Beeintr&auml;chtigungen vor.</p>\n\n<p>- Zwischen Hausach und St. Georgen(Schwarzwald) befindet sich ein Baum im Gleis. Die Strecke ist gesperrt. Es liegen noch keine Informationen zur Dauer vor.</p>\n\n<p>- Zwischen Ki&szlig;legg und Aulendorf befinden sich mehrere B&auml;ume auf der Strecke. Der Abschnitt ist gesperrt. Ein Schienenersatzverkehr wurde eingerichtet. &Uuml;ber die Dauer der St&ouml;rung liegen noch keine Informationen vor.</p>\n",
       "connectionsHeadline": "Betroffene Strecken:",
       "connections": [
         "S1: Breisach - Gottenheim",
         "S1/S10/S11: Himmelreich - Titisee",
-        "RE2 Hausach - St. Georgen(Schwarzwald)"
+        "RE2 Hausach - St. Georgen(Schwarzwald)",
+        "RB53 Kißlegg - Aulendorf"
       ],
       "closingText": "<p><u>Auf folgenden Strecken wird die Geschwindigkeit reduziert:</u></p>\n\n<p>- Aulendorf &lt;&gt; Ki&szlig;legg</p>\n\n<p>- Donaueschingen &lt;&gt; Freiburg(Breisgau) &lt;&gt; Gottenheim &lt;&gt; Endingen am Kaiserstuhl</p>\n\n<p>- Titisee &lt;&gt; Seebrugg</p>\n\n<p>- Aulendorf &lt;&gt; Sigmaringen</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
       "priority": "0",
@@ -408,7 +414,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "07.04.2022 21:43",
+      "lastModified": "07.04.2022 22:02",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
