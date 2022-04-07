@@ -149,11 +149,36 @@
       "priorityValue": 102
     },
     {
+      "id": "1fab69aa-72a8-4b33-80e8-c8322fb4a7c4",
+      "headline": "Unwetterschäden auf verschiedenen Strecken",
+      "newsType": "Streckensperrungen wegen Aufräumarbeiten",
+      "timePeriod": " bis voraussichtlich 08.04.2022",
+      "introText": "<p>Wegen Unwettersch&auml;den und Aufr&auml;umarbeiten kann es im gesamten S-Bahn-Netz auch am 08.04.2022 noch zu hohen Versp&auml;tungen und kurzfristigen Teilausf&auml;llen kommen.</p>\n",
+      "connectionsHeadline": "Gesperrte Streckenabschnitte und betroffene Linien:",
+      "connections": [
+        "Heidelberg <> Neckargemünd (S1, S2, S3, S4, S5 & S51)",
+        "Graben-Neudorf <> Karlsruhe (S9)",
+        "Wörth <> Germersheim (S1, S3 & S44)"
+      ],
+      "closingText": "<p><strong>Heidelberg Hbf und Neckargem&uuml;nd:&nbsp;</strong>Zur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich. In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen. Bitte weichen Sie ggf. auf die Stadtbusse aus.</p>\n\n<p><strong>Graben-Neudorf und Karlsruhe Hbf:</strong> Die S-Bahnen werden zwischen Graben-Neudorf und Karlsruhe Hbf ohne Zwischenhalt umgeleitet.<br />\nIn der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen auf der gesamten S-Bahn-Linie.<br />\nWir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.&nbsp;</p>\n\n<p><strong>W&ouml;rth(Rhein) und Germersheim:&nbsp;</strong>Zur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich. In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.&nbsp;<br />\n<strong>Busnotverkehr der AGV ist eingerichtet.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "rp"
+      ],
+      "lastModified": "07.04.2022 22:43",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "a220e130-bbcd-402b-a806-01ff68ccae42",
       "headline": "Beeinträchtigungen im Regionalverkehr in Rheinland-Pfalz möglich",
       "newsType": "Unwetterwarnung / Sturm",
-      "timePeriod": "Donnerstag, 07.04.2022 und Freitag, 08.04.2022, jeweils ganztägig",
-      "introText": "<p>Aufgrund der aktuellen Unwetterwarnungen des Deutschen Wetterdienstes kommt es zu Beeintr&auml;chtigungen im Regionalverkehr in der Region Mitte.</p>\n\n<p>Zur Sicherheit verkehren die Z&uuml;ge auf mehreren Strecken am 07.04.2022 und am 08.04.2022 jeweils ganzt&auml;gig mit reduzierter Geschwindigkeit. Bitte rechnen Sie mit Versp&auml;tungen &amp; kurzfristigen Fahrtausf&auml;llen.</p>\n",
+      "timePeriod": "Freitag, 08.04.2022 morgens",
+      "introText": "<p>Aufgrund der aktuellen Unwetterwarnungen des Deutschen Wetterdienstes kommt es zu Beeintr&auml;chtigungen im Regionalverkehr in der Region Mitte.</p>\n\n<p>Zur Sicherheit verkehren die Z&uuml;ge auf mehreren Strecken bis vsl. 08.04.2022 08 Uhr mit reduzierter Geschwindigkeit. Bitte rechnen Sie mit Versp&auml;tungen &amp; kurzfristigen Fahrtausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "RE6 / RB51 Neustadt - Landau(Pfalz) - Wörth(Rhein) - Karlsruhe",
@@ -173,7 +198,7 @@
         "rp",
         "sl"
       ],
-      "lastModified": "07.04.2022 14:10",
+      "lastModified": "07.04.2022 22:46",
       "expand": false,
       "priorityValue": 102
     },
