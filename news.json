@@ -142,20 +142,21 @@
     },
     {
       "id": "a220e130-bbcd-402b-a806-01ff68ccae42",
-      "headline": "Heftige Unwetterfront in Rheinland-Pfalz und Saarland",
-      "newsType": "Unwetter: Bahnverkehr Geschwindigkeitsreduziert",
-      "timePeriod": "Donnerstag, 07. April 2022",
-      "introText": "<p>Aufgrund der aktuellen Unwetterwarnungen des Deutschen Wetterdienstes sind Auswirkungen auf den Regionalverkehr in der Region Mitte zu rechnen.</p>\n\n<p>Bitte beachten sie auf folgenden Strecken am 07.04.2022 bis Betriebsschluss, Geschwindigkeitsreduziert fahren.&nbsp;</p>\n",
+      "headline": "Beeinträchtigungen im Regionalverkehr in Rheinland-Pfalz möglich",
+      "newsType": "Unwetter / Sturm",
+      "timePeriod": "Donnerstag, 7. April 2022, ganztägig",
+      "introText": "<p>Aufgrund der aktuellen Unwetterwarnungen des Deutschen Wetterdienstes kommt es zu Beeintr&auml;chtigungen im Regionalverkehr in der Region Mitte.</p>\n\n<p>Zur Sicherheit verkehren die Z&uuml;ge auf mehreren Streckenabschnitten am 07.04.2022 ganzt&auml;gig mit reduzierter Geschwindigkeit. Bitte rechnen Sie mit Verz&ouml;gerungen.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
-        "RB51 Neustadt - Landau - Winden - Wörth - Karlsruhe",
-        "RB55 Landau - Annweiler - Hinterweidenthal - Pirmasens",
-        "RB64 Pirmasens - Schopp - Kaiserslautern ",
+        "RE6 / RB51 Neustadt - Landau(Pfalz) - Wörth(Rhein) - Karlsruhe",
+        "RB55 Landau(Pfalz) - Annweiler - Hinterweidenthal - Pirmasens",
+        "RB64 Kaiserslautern - Waldfischbach - Pirmasens ",
         "RB65 Kaiserslautern - Alsenz - Bad Münster - Bad Kreuznach - Bingen",
         "RB66 Kaiserslautern - Wolfstein - Lauterecken Grumbach ",
-        "RB67 Kaiserslautern - Landstuhl - Ramstein - Altenglan - Kusel "
+        "RB67 Kaiserslautern - Landstuhl - Altenglan - Kusel ",
+        "RB68 Pirmasens - Zweibrücken - Saarbrücken"
       ],
-      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der beeintr&auml;chtigung auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -164,7 +165,7 @@
         "rp",
         "sl"
       ],
-      "lastModified": "07.04.2022 06:29",
+      "lastModified": "07.04.2022 07:07",
       "expand": false,
       "priorityValue": 102
     },
@@ -211,7 +212,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
