@@ -191,12 +191,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
@@ -362,6 +357,30 @@
       "lastModified": "01.03.2022 14:42",
       "author": "bayern",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "8f9732e4-85fe-4f1d-932f-b68ec511bdfa",
+      "headline": "Unwetter: Regionalverkehr in Baden-Württemberg bei der DB Regio AG beeinträchtigt",
+      "newsType": "Unwetter mit Orkanböen",
+      "timePeriod": "am 7. April ",
+      "introText": "<p>- Zwischen Breisach und Gottenheim ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum. Ein Ersatzverkehr mit zwei Bussen ist eingerichtet.</p>\n\n<p>- Zwischen Engen und Immendingen ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum.</p>\n",
+      "connectionsHeadline": "Betroffene Strecken:",
+      "connections": [
+        "S1: Breisach - Gottenheim",
+        "RE2: Engen - Immendingen"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "07.04.2022 13:15",
+      "author": "baden_wuerttemberg",
+      "expand": false,
       "priorityValue": 101
     },
     {
