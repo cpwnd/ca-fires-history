@@ -160,7 +160,7 @@
           }
         ]
       },
-      "closingText": "<p>Dieser Ersatzfahrpl&auml;ne sind in den Auskunftssystemen des VBB und der Deutschen Bahn schon enthalten.</p>\n\n<p>Bitte informieren Sie sich trotzdem unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n",
+      "closingText": "<p>Diese Ersatzfahrpl&auml;ne sind in den Auskunftssystemen des VBB und der Deutschen Bahn schon enthalten.</p>\n\n<p>Bitte informieren Sie sich trotzdem unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881 \">0331 235 6881 </a>und<a href=\"tel: 0385 750 2405 \">&nbsp;0385 750 2405</a>.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -169,7 +169,7 @@
         "be",
         "br"
       ],
-      "lastModified": "08.04.2022 11:28",
+      "lastModified": "08.04.2022 11:35",
       "author": "nordost",
       "expand": true,
       "priorityValue": 102
@@ -285,12 +285,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
@@ -440,7 +435,7 @@
       "headline": "Unwetter: Regionalverkehr in Baden-Württemberg bei der DB Regio AG beeinträchtigt",
       "newsType": "Unwetter mit Orkanböen",
       "timePeriod": "Seit 7. April ",
-      "introText": "<p>- Zwischen Freiburg und Breisach ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum auf der Strecke. Ersatzverkehr mit vier Bussen zwischen Freiburg(Breisgau) Hbf und Breisach eingerichtet. Zus&auml;tzlich haben wir drei weitere Busse zwischen Freiburg(Breisgau) Hbf und Gottenheim eingerichtet. Die Strecke wird voraussichtlich bis in die sp&auml;ten Vormittagsstunden gesperrt bleiben.</p>\n\n<p>- Zwischen Hausach und Villingen(Schwarzw.) befindet sich ein Baum auf der Strecke. Die Strecke ist gesperrt. Ersatzverkehr mit zwei Busse im Pendel zwischen Hausach und Villingen ist eingerichtet. Die Strecke wird voraussichtlich bis in die sp&auml;ten Vormittagsstunden gesperrt bleiben.</p>\n",
+      "introText": "<p>- Streckenabschnitt Freiburg(Breisgau) - Gottenheim wieder befahrbar. Streckensperrung ist aufgehoben. Z&uuml;ge fahren in K&uuml;rze wieder ohne Einschr&auml;nkungen. Zwischen Gottenheim und Breisach ist die Strecke weiterhin gesperrt. Grund hierf&uuml;r: Baum auf der Strecke. Ersatzverkehr mit vier Bussen zwischen Gottenheim und Breisach eingerichtet. Aktuell keine Information zur St&ouml;rungsdauer.</p>\n\n<p>- Zwischen Hausach und Villingen(Schwarzw.) befindet sich ein Baum auf der Strecke. Die Strecke ist gesperrt. Ersatzverkehr mit zwei Busse im Pendel zwischen Hausach und Villingen ist eingerichtet. Aktuell keine Information zur St&ouml;rungsdauer.</p>\n",
       "connectionsHeadline": "Betroffene Strecken:",
       "connections": [
         "S1: Breisach - Gottenheim - Freiburg(Breisgau)",
@@ -454,7 +449,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "08.04.2022 10:03",
+      "lastModified": "08.04.2022 11:46",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
@@ -563,7 +558,7 @@
       "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville ",
       "newsType": "Kurzfristige Personalausfälle",
       "timePeriod": "Sonntag, den 10. April 2022 ab 14 Uhr",
-      "introText": "<p>Ein Ersatzverkehr mit Bus ist zwischen M&uuml;llheim(Baden) und&nbsp;Mulhouse Ville f&uuml;r die ausfallenden Z&uuml;ge eingerichtet. Der Bus bedient nicht die Haltestelle Bantzenheim.&nbsp;</p>\n\n<p>Abfahrt in M&uuml;llheim: 15:11 Uhr; 17:11 Uhr; 19:11 Uhr.</p>\n\n<p>Abfahrt in Mulhouse: 14:18 Uhr; 16:18 Uhr; 18:11 Uhr.</p>\n",
+      "introText": "<p>Ein Ersatzverkehr mit Bus ist zwischen M&uuml;llheim(Baden) und&nbsp;Mulhouse Ville f&uuml;r die ausfallenden Z&uuml;ge eingerichtet. Der Bus bedient nicht die Haltestelle Bantzenheim.&nbsp;</p>\n\n<p>Abfahrt in M&uuml;llheim(Baden): 15:11 Uhr; 17:11 Uhr; 19:11 Uhr.</p>\n\n<p>Abfahrt in Mulhouse Ville: 14:18 Uhr; 16:18 Uhr; 18:11 Uhr.</p>\n",
       "connectionsHeadline": "Betroffene Strecke:",
       "connections": [
         "RB 107: Müllheim(Baden) - Mulhouse Ville"
@@ -576,7 +571,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "08.04.2022 11:34",
+      "lastModified": "08.04.2022 11:47",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
