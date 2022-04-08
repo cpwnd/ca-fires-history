@@ -62,7 +62,7 @@
       "headline": "Verspätung zwischen Karlsruhe und Mannheim",
       "newsType": "Streckenstörung",
       "timePeriod": "Heute, 08.04.2022 bis in die späten Abendstunden",
-      "introText": "<p>Aufgrund einer Streckenst&ouml;rung ist der Streckenabschnitt zwischen Karlsruhe und Mannheim derzeit beeintr&auml;chtigt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 25 Minuten.</p>\n",
+      "introText": "<p>Aufgrund einer Streckenst&ouml;rung ist der Streckenabschnitt zwischen Karlsruhe und Mannheim derzeit beeintr&auml;chtigt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 25 Minuten.</p>\n\n<p>&nbsp;</p>\n\n<p>Betroffen ist nur der Streckenabschnitt von Norden in den S&uuml;den (Mannheim nach Karlsruhe)</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "Alle ICE, TGV, IC/EC Züge auf dem Abschnitt Mannheim und Karlsruhe"
@@ -75,7 +75,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "08.04.2022 18:55",
+      "lastModified": "08.04.2022 19:38",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
@@ -197,10 +197,39 @@
       "priorityValue": 102
     },
     {
+      "id": "a220e130-bbcd-402b-a806-01ff68ccae42",
+      "headline": "Beeinträchtigungen im Regionalverkehr in Rheinland-Pfalz möglich",
+      "newsType": "Unwetterwarnung / Sturm",
+      "timePeriod": "Donnerstag, 07.04.2022 und Freitag, 08.04.2022 jeweils ganztägig",
+      "introText": "<p>Aufgrund der aktuellen Unwetterwarnungen des Deutschen Wetterdienstes kommt es zu Beeintr&auml;chtigungen im Regionalverkehr in der Region Mitte.</p>\n\n<p>Zur Sicherheit verkehren die Z&uuml;ge auf mehreren Strecken am 07.04.2022 und am 08.04.2022 jeweils ganzt&auml;gig mit reduzierter Geschwindigkeit. Bitte rechnen Sie mit Versp&auml;tungen und kurzfristigen Fahrtausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "RE6 / RB51 Neustadt - Landau(Pfalz) - Wörth(Rhein) - Karlsruhe",
+        "RB55 Landau(Pfalz) - Annweiler - Hinterweidenthal - Pirmasens",
+        "RB64 Kaiserslautern - Waldfischbach - Pirmasens ",
+        "RB65 Kaiserslautern - Alsenz - Bad Münster - Bad Kreuznach - Bingen",
+        "RB66 Kaiserslautern - Wolfstein - Lauterecken Grumbach ",
+        "RB67 Kaiserslautern - Landstuhl - Altenglan - Kusel ",
+        "RB68 Pirmasens - Zweibrücken - Saarbrücken"
+      ],
+      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der Ma&szlig;nahme auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp",
+        "sl"
+      ],
+      "lastModified": "08.04.2022 19:35",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "e82f3bee-36f5-43e8-9f30-3be6f45b7cdf",
       "headline": "Zugausfälle zwischen Weinheim(Bergstr) und Fürth(Odenw)",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "Dienstag, 29.03.2022 bis voraussichtlich Freitag, 14.04.2022",
+      "timePeriod": "Dienstag, 29.03.2022 bis voraussichtlich Freitag, 22.04.2022 (Mo.-Fr.)",
       "introText": "<p>Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal kommt es zu Zugausf&auml;llen zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw).</p>\n\n<p>F&uuml;r ausfallende Z&uuml;ge haben wir einen Ersatzverkehr mit Bussen eingerichtet. Den Ersatzfahrplan finden Sie als Download weiter unten.</p>\n\n<p>Bitte beachten Sie, dass die SEV-Haltestellen der Busse nicht immer direkt am Bahnhof liegen und dass die Mitnahme von Fahrr&auml;dern in den Bussen aus Platzgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n",
       "connections": [
         "RB69 Weinheim (Bergstr) - Fürth(Odenw)"
@@ -225,7 +254,7 @@
         "bw",
         "he"
       ],
-      "lastModified": "06.04.2022 14:58",
+      "lastModified": "08.04.2022 19:34",
       "author": "mitte",
       "expand": false,
       "priorityValue": 102
@@ -325,7 +354,7 @@
       "id": "30ece343-6c54-4a86-9d36-f589cb757c03",
       "headline": "Weiterhin kein Zugverkehr zwischen Winden(Pfalz) und Bad Bergzabern",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "24.03.2022 bis voraussichtlich 14.04.2022",
+      "timePeriod": "24.03.2022 bis voraussichtlich 22.04.2022",
       "introText": "<p>Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal fallen die Z&uuml;ge zwischen Winden(Pfalz) und Bad Bergzabern leider aus.</p>\n\n<p><strong>RB54 Winden(Pfalz) - Bad Bergzabern</strong></p>\n\n<p>Wir haben einen Ersatzverkehr mit Bussen f&uuml;r Sie eingerichtet. Bitte beachten Sie, dass die SEV-Haltestellen der Busse nicht immer direkt am Bahnhof liegen und dass die Mitnahme von Fahrr&auml;dern in den Bussen aus Platzgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n",
       "connections": [],
       "download": {
@@ -347,7 +376,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "06.04.2022 14:58",
+      "lastModified": "08.04.2022 19:34",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
