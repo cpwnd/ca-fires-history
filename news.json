@@ -111,18 +111,6 @@
         "text": "<p>Die Fahrpl&auml;ne f&uuml;r den Ersatzverkehr bis zum 10. April finden Sie hier.</p>\n\n<p>Den Fahrplan f&uuml;r den Ersatzverkehr im Zeitraum vom 10. bis 24. April ver&ouml;ffentlichen wir demn&auml;chst an dieser Stelle.</p>\n",
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:a40bc3b6-83ce-40d1-9be7-5b365c73b9cf/20220323_BNV_BB_RB66X_WA-XPSG_29.03.-07.04.2022_v01__V3_SUhE.pdf",
-            "title": "Espressbusse RE /RB66 bis 7. April 2022 (PDF, 68 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:e67ff511-b7a7-4726-8a01-bce9d798e584/20220323_BNV_BB_RB66_WA-XPSG_28.03.-07.04.2022_v03__V3_SUh.pdf",
-            "title": "Ersatzverkehr RE/ RB66 bis 7. April 2022 (PDF, 112 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
             "link": "https://assets.static-bahn.de/dam/jcr:d4bc834e-66b5-4170-b787-9af715b20fb6/Baufpl%2010344_N1_RB66%20WA-XPSG%2008.-10.04.22.pdf",
             "title": "Ersatzverkehr RE/ RB66 vom 7. April abends bis 10. April 2022 (PDF, 122 KB)",
             "info": "",
@@ -145,7 +133,7 @@
         "be",
         "br"
       ],
-      "lastModified": "07.04.2022 16:28",
+      "lastModified": "08.04.2022 10:06",
       "author": "nordost",
       "expand": true,
       "priorityValue": 102
@@ -261,7 +249,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -371,29 +364,6 @@
       "priorityValue": 101
     },
     {
-      "id": "bccdd559-37ad-4f86-896b-7491b1f8ba6c",
-      "headline": "Bahnverkehr der Kuhrhessenbahn zwischen Korbach Hbf und Brilon Stadt normalisiert sich",
-      "newsType": "Unwetter",
-      "timePeriod": "Freitag, den 8. April 2022 ",
-      "introText": "<p>Es kommt noch zu Folgeversp&auml;tungen und kurzfristigen Teilausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Linie:",
-      "connections": [
-        "RB97 / RE97: Marburg(Lahn) - Frankenberg(Eder) - Korbach Hbf - Willingen - Brilon Stadt"
-      ],
-      "closingText": "<p><u><strong>Erste planm&auml;&szlig;ige Fahrten auf dem Abschnitt Korbach Hbf - Brilon Stadt:</strong></u></p>\n\n<p>- RB 23215, Abfahrt in Brilon Stadt planm&auml;&szlig;ig um 08:56 Uhr</p>\n\n<p>- RB 23208, Abfahrt in Korbach Hbf planm&auml;&szlig;ig um 09:10 Uhr</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "he"
-      ],
-      "lastModified": "08.04.2022 09:05",
-      "author": "hessen",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
       "id": "0b3fbf14-d456-4c39-ba7a-41fa7b5ca467",
       "headline": "Meldungen der DB Regio Bayern",
       "newsType": "Störungen",
@@ -448,7 +418,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "08.04.2022 09:36",
+      "lastModified": "08.04.2022 10:03",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
