@@ -24,6 +24,29 @@
       "priorityValue": 301
     },
     {
+      "id": "c230a41e-9049-4729-acb1-e4615b077141",
+      "headline": "Beeinträchtigungen zwischen Aschaffenburg Hbf und Würzburg Hbf",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "Am Tag, 08.04.2022 bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Aschaffenburg Hbf und W&uuml;rzburg Hbf kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Z&uuml;ge des Fernverkehrs werden umgeleitet und versp&auml;ten sich dadurch um etwa 30 Minuten.Der Halt Aschaffenburg Hbf entf&auml;llt.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE, IC Züge auf dem Abschnitt Aschaffenburg Hbf und Würzburg Hbf"
+      ],
+      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "by"
+      ],
+      "lastModified": "08.04.2022 02:29",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 301
+    },
+    {
       "id": "e69a497b-85da-4812-a86e-a7a5176254b6",
       "headline": "Informationen für Ukraine-Flüchtlinge zur Ein- und Weiterreise ",
       "newsType": "Informationen",
@@ -422,8 +445,8 @@
       "id": "8f9732e4-85fe-4f1d-932f-b68ec511bdfa",
       "headline": "Unwetter: Regionalverkehr in Baden-Württemberg bei der DB Regio AG beeinträchtigt",
       "newsType": "Unwetter mit Orkanböen",
-      "timePeriod": "am 7. April ",
-      "introText": "<p>- Zwischen Freiburg und Breisach ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum. Ein Ersatzverkehr mit Bussen ist eingerichtet. Die Strecke wird voraussichtlich bis in die Morgenstunden gesperrt bleiben.</p>\n\n<p>-&nbsp;Zwischen Himmelreich und Titisee ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum. Ein Ersatzverkehr mit Bussen ist eingerichtet. Die Strecke wird voraussichtlich noch den ganzen Abend gesperrt bleiben.</p>\n\n<p>- Zwischen Hausach und St. Georgen(Schwarzwald) befindet sich ein Baum im Gleis. Die Strecke ist gesperrt. Die Strecke wird voraussichtlich bis in die Morgenstunden gesperrt bleiben.</p>\n\n<p>- Zwischen Ki&szlig;legg und Aulendorf befinden sich mehrere B&auml;ume auf der Strecke. Der Abschnitt ist gesperrt. Ein Schienenersatzverkehr wurde eingerichtet. Die Strecke wird voraussichtlich noch den ganzen Abend gesperrt bleiben.</p>\n",
+      "timePeriod": "seit 7. April ",
+      "introText": "<p>- Zwischen Freiburg und Breisach ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum. Ein Ersatzverkehr mit Bussen ist eingerichtet. Die Strecke wird voraussichtlich bis in die Vormittagsstunden gesperrt bleiben.</p>\n\n<p>-&nbsp;Zwischen Himmelreich und Titisee ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum. Ein Ersatzverkehr mit Bussen ist eingerichtet. Die Strecke wird voraussichtlich bis in die fr&uuml;hen Morgenstunden gesperrt bleiben.</p>\n\n<p>- Zwischen Hausach und St. Georgen(Schwarzwald) befindet sich ein Baum im Gleis. Die Strecke ist gesperrt. Die Strecke wird voraussichtlich bis in die Vormittagsstunden gesperrt bleiben.</p>\n\n<p>- Zwischen Ki&szlig;legg und Aulendorf befinden sich mehrere B&auml;ume auf der Strecke. Der Abschnitt ist gesperrt. Ein Schienenersatzverkehr wurde eingerichtet. Die Strecke wird voraussichtlich bis in die fr&uuml;hen Morgenstunden gesperrt bleiben.</p>\n",
       "connectionsHeadline": "Betroffene Strecken:",
       "connections": [
         "S1: Breisach - Gottenheim - Freiburg(Breisgau)",
@@ -439,7 +462,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "08.04.2022 00:57",
+      "lastModified": "08.04.2022 03:27",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
