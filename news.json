@@ -58,6 +58,31 @@
       "priorityValue": 216
     },
     {
+      "id": "de7ce356-9061-4740-b844-ae59deff60f0",
+      "headline": "Zugverkehr in Nordbaden, Rheinland-Pfalz und im Saarland stark eingeschränkt",
+      "newsType": "Schneefall",
+      "timePeriod": "bis vsl. 09.04.2022 ",
+      "introText": "<p>Aufgrund von Schneefall ist der Regionalverkehr derzeit in Nordbaden, Rheinland-Pfalz und im Saarland stark eingeschr&auml;nkt. Es kommt zu hohen Versp&auml;tungen und Teilausf&auml;llen im gesamten Gebiet.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffene Regionen:",
+      "connections": [
+        "Großraum Mannheim",
+        "Großraum Kaiserslautern"
+      ],
+      "closingText": "<p><strong>Leider k&ouml;nnen wir witterungsbedingt keinen Ersatzverkehr anbieten.</strong></p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.&nbsp;</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer des Unwetters auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio AG, Region Mitte&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "rp",
+        "sl"
+      ],
+      "lastModified": "08.04.2022 23:13",
+      "expand": false,
+      "priorityValue": 103
+    },
+    {
       "id": "4f14c07f-5966-4c81-9373-59abeec3cc63",
       "headline": "Ausfall der Kulturzüge",
       "newsType": "Beförderung von Flüchtlingen aus der Ukraine",
@@ -150,30 +175,6 @@
       "priorityValue": 102
     },
     {
-      "id": "1fab69aa-72a8-4b33-80e8-c8322fb4a7c4",
-      "headline": "Beeinträchtigungen zwischen Graben-Neudorf und Karlsruhe und zwischen Germersheim und Wörth(Rhein)",
-      "newsType": "Unwetterschäden / Aufräumarbeiten",
-      "timePeriod": "Freitag, 08.04.2022",
-      "introText": "<p>Wegen Aufr&auml;umarbeiten nach Unwettersch&auml;den kommt es aktuell noch zu Versp&auml;tungen, Umleitungen und kurzfristigen Zugausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffene Linien:",
-      "connections": [
-        "S9 Mannheim <> Graben-Neudorf <> Karlsruhe",
-        "S1 / S3 / S44 Germerheim <> Wörth(Rhein)"
-      ],
-      "closingText": "<p>Bitte informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "rp"
-      ],
-      "lastModified": "08.04.2022 13:05",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "a220e130-bbcd-402b-a806-01ff68ccae42",
       "headline": "Beeinträchtigungen im Regionalverkehr in Rheinland-Pfalz möglich",
       "newsType": "Unwetterwarnung / Sturm",
@@ -245,12 +246,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
@@ -566,6 +562,25 @@
       ],
       "lastModified": "08.04.2022 11:47",
       "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "f62c69e3-f62b-49d5-ad5f-9decd99e9746",
+      "headline": "Fahrzeugengpass im Großraum Ulm, Bodensee und Allgäu",
+      "newsType": "Außerplanmäßige Werkstattuntersuchung",
+      "timePeriod": "9. und 10. April",
+      "introText": "<p>Aufgrund eines au&szlig;erplanm&auml;&szlig;igen Werkstattaufenthaltes stehen weniger Fahrzeuge zur Verf&uuml;gung als geplant. Es kommt daher auf einigen Strecken zu Zugausf&auml;llen. Bitte pr&uuml;fen Sie Ihre Reisem&ouml;glichkeiten rechtzeitig vor Reisebeginn.</p>\n",
+      "connections": [],
+      "closingText": "<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">Streckenagent-APP</a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "08.04.2022 23:01",
       "expand": false,
       "priorityValue": 101
     },
