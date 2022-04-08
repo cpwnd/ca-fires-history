@@ -150,30 +150,6 @@
       "priorityValue": 102
     },
     {
-      "id": "1146e2e3-d0f1-4098-8dca-3d2388eb3623",
-      "headline": "Streckensperrung zwischen Bremen Hbf und Bremerhaven-Lehe",
-      "newsType": "umgestürzter Baum auf der Strecke",
-      "timePeriod": "08.04.2022 bis vsl. 16:00 Uhr",
-      "introText": "<p>Ein umgest&uuml;rzter Baum auf der Strecke zwischen Bremen Hbf und Bremerhaven-Lehe beeintr&auml;chtigt den Regionalverkehr der Deutschen Bahn.</p>\n",
-      "connectionsHeadline": "Folgende Linien sind betroffen:",
-      "connections": [
-        "RE8 Hannover Hbf - Bremen Hbf - Bremerhaven-Lehe: Züge aus/in Richtung Hannover Hbf enden/beginnen vorzeitig in Bremen Hbf.",
-        "RE9 Osnabrück Hbf - Bremen Hbf - Bremerhaven-Lehe: Züge aus/in Richtung Osnabrück Hbf enden/beginnen vorzeitig in Bremen Hbf. "
-      ],
-      "closingText": "<p>Nutzen Sie bitte alternativ die Z&uuml;ge der NordWestBahn Linie RS2 zwischen Bremen Hbf und Bremerhaven-Lehe.</p>\n\n<p>Sobald uns neue Informationen vorliegen, wird diese Seite aktualisiert.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de/\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a>&nbsp;oder beim regionalen Kundendialog unter 0511 45901645.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen&nbsp;auf <a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "hb",
-        "ni"
-      ],
-      "lastModified": "08.04.2022 11:22",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "1fab69aa-72a8-4b33-80e8-c8322fb4a7c4",
       "headline": "Beeinträchtigungen zwischen Graben-Neudorf und Karlsruhe und zwischen Germersheim und Wörth(Rhein)",
       "newsType": "Unwetterschäden / Aufräumarbeiten",
@@ -240,7 +216,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
