@@ -2,26 +2,27 @@
   "news": [
     {
       "id": "c230a41e-9049-4729-acb1-e4615b077141",
-      "headline": "Beeinträchtigungen zwischen Aschaffenburg Hbf und Würzburg Hbf",
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Würzburg",
       "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Am Tag, 08.04.2022 bis in die Mittagsstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Aschaffenburg Hbf und W&uuml;rzburg Hbf kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Z&uuml;ge des Fernverkehrs werden umgeleitet und versp&auml;ten sich dadurch um etwa 30 Minuten.Der Halt Aschaffenburg Hbf entf&auml;llt.</p>\n",
+      "timePeriod": "Am Freitag, 08.04.2022 bis in die Nachmittagsstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung auf der Strecke Aschaffenburg &ndash; W&uuml;rzburg ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Haltausf&auml;llen und Versp&auml;tungen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle ICE, IC Züge auf dem Abschnitt Aschaffenburg Hbf und Würzburg Hbf"
+        "Alle ICE/IC-Züge zwischen Frankfurt(M) und Würzburg werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 30 Minuten. Der Halt Aschaffenburg Hbf entfällt."
       ],
-      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Reisende von/nach Aschaffenburg nutzen bitte die Regionalz&uuml;ge zwischen Aschaffenburg Hbf und Frankfurt(M) Hbf, Frankfurt(M) S&uuml;d bzw. Hanau Hbf. In&nbsp;Frankfurt(M) Hbf, Frankfurt(M) S&uuml;d und Hanau Hbf bestehen Anschlussverbindungen mit dem Fernverkehr.<br />\n&nbsp;</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
       ],
       "areas": [
-        "by"
+        "by",
+        "he"
       ],
-      "lastModified": "08.04.2022 05:29",
+      "lastModified": "08.04.2022 06:50",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 301
+      "priorityValue": 302
     },
     {
       "id": "e69a497b-85da-4812-a86e-a7a5176254b6",
@@ -198,8 +199,8 @@
       "id": "a220e130-bbcd-402b-a806-01ff68ccae42",
       "headline": "Beeinträchtigungen im Regionalverkehr in Rheinland-Pfalz möglich",
       "newsType": "Unwetterwarnung / Sturm",
-      "timePeriod": "Freitag, 08.04.2022 morgens",
-      "introText": "<p>Aufgrund der aktuellen Unwetterwarnungen des Deutschen Wetterdienstes kommt es zu Beeintr&auml;chtigungen im Regionalverkehr in der Region Mitte.</p>\n\n<p>Zur Sicherheit verkehren die Z&uuml;ge auf mehreren Strecken bis vsl. 08.04.2022 08 Uhr mit reduzierter Geschwindigkeit. Bitte rechnen Sie mit Versp&auml;tungen &amp; kurzfristigen Fahrtausf&auml;llen.</p>\n",
+      "timePeriod": "Donnerstag, 07.04.2022 und Freitag, 08.04.2022 jeweils ganztägig",
+      "introText": "<p>Aufgrund der aktuellen Unwetterwarnungen des Deutschen Wetterdienstes kommt es zu Beeintr&auml;chtigungen im Regionalverkehr in der Region Mitte.</p>\n\n<p>Zur Sicherheit verkehren die Z&uuml;ge auf mehreren Strecken am 07.04.2022 und am 08.04.2022 jeweils ganzt&auml;gig mit reduzierter Geschwindigkeit. Bitte rechnen Sie mit Versp&auml;tungen und kurzfristigen Fahrtausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "RE6 / RB51 Neustadt - Landau(Pfalz) - Wörth(Rhein) - Karlsruhe",
@@ -210,7 +211,7 @@
         "RB67 Kaiserslautern - Landstuhl - Altenglan - Kusel ",
         "RB68 Pirmasens - Zweibrücken - Saarbrücken"
       ],
-      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer des Unwetters auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der Ma&szlig;nahme auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -219,7 +220,7 @@
         "rp",
         "sl"
       ],
-      "lastModified": "07.04.2022 22:46",
+      "lastModified": "08.04.2022 06:30",
       "expand": false,
       "priorityValue": 102
     },
@@ -390,7 +391,7 @@
       "connections": [
         "RB97 / RE97: Marburg(Lahn) - Frankenberg(Eder) - Korbach Hbf - Willingen - Brilon Stadt"
       ],
-      "closingText": "<p><strong><u>Es kommt zu folgenden&nbsp;</u></strong><strong><u>Einschr&auml;nkungen:</u></strong></p>\n\n<p>- <u>RB 23200, Abfahrt in Korbach Hbf planm&auml;&szlig;ig um 05:15 Uhr:</u><br />\nDer Zug entf&auml;llt.<br />\nWir haben f&uuml;r Sie einen <strong>Ersatzverkehr </strong>mit einem Gro&szlig;raumtaxi der Firma &quot;TAXI 24 - WILLINGEN&quot; eingerichtet.</p>\n\n<p>- <u>RB 23202, Abfahrt in Frankenberg(Eder) planm&auml;&szlig;ig um 05:05 Uhr:</u><br />\nDer Zug entf&auml;llt.</p>\n\n<p>- <u>RB 23205, Abfahrt in Brilon Wald planm&auml;&szlig;ig um 05:58 Uhr:</u><br />\nTeilausfall von Brilon Wald bis Korbach Hbf.<br />\nWir haben f&uuml;r Sie einen <strong>Ersatzverkehr </strong>mit einem Gro&szlig;raumtaxi der Firma &quot;TAXI 24 - WILLINGEN&quot; eingerichtet.</p>\n\n<p>- <u>RB 23204, Abfahrt in Korbach Hbf planm&auml;&szlig;ig um 06:41 Uhr:</u><br />\nDer Zug entf&auml;llt.</p>\n\n<p>- <u>RB 23207, Abfahrt in Brilon Wald planm&auml;&szlig;ig um 06:54 Uhr:</u><br />\nDer Zug entf&auml;llt.</p>\n\n<p>- <u>RB 23247, Abfahrt in Brilon Wald planm&auml;&szlig;ig um 07:56 Uhr:</u><br />\nDer Zug entf&auml;llt.</p>\n\n<p>- <u>RB 23200, Abfahrt in Willingen planm&auml;&szlig;ig um 08:39 Uhr:</u><br />\nTeilausfall von Willingen bis Korbach Hbf.<br />\n&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
+      "closingText": "<p><strong><u>Es kommt zu folgenden&nbsp;</u></strong><strong><u>Einschr&auml;nkungen:</u></strong></p>\n\n<p>- <u>RB 23200, Abfahrt in Korbach Hbf planm&auml;&szlig;ig um 05:15 Uhr:</u><br />\nDer Zug entf&auml;llt.<br />\nWir haben f&uuml;r Sie einen <strong>Ersatzverkehr </strong>mit einem Gro&szlig;raumtaxi der Firma &quot;TAXI 24 - WILLINGEN&quot; eingerichtet.</p>\n\n<p>- <u>RB 23202, Abfahrt in Frankenberg(Eder) planm&auml;&szlig;ig um 05:05 Uhr:</u><br />\nDer Zug entf&auml;llt.</p>\n\n<p>- <u>RB 23205, Abfahrt in Brilon Wald planm&auml;&szlig;ig um 05:58 Uhr:</u><br />\nTeilausfall von Brilon Wald bis Korbach Hbf.<br />\nWir haben f&uuml;r Sie einen <strong>Ersatzverkehr </strong>mit einem Gro&szlig;raumtaxi der Firma &quot;TAXI 24 - WILLINGEN&quot; eingerichtet.</p>\n\n<p>- <u>RB 23204, Abfahrt in Korbach Hbf planm&auml;&szlig;ig um 06:41 Uhr:</u><br />\nDer Zug entf&auml;llt.</p>\n\n<p>Wir haben f&uuml;r Sie einen <strong>Ersatzverkehr </strong>mit einem Gro&szlig;raumtaxi der Firma &quot;TAXI 24 - WILLINGEN&quot; eingerichtet.</p>\n\n<p>- <u>RB 23207, Abfahrt in Brilon Wald planm&auml;&szlig;ig um 06:54 Uhr:</u><br />\nDer Zug entf&auml;llt.</p>\n\n<p>- <u>RB 23247, Abfahrt in Brilon Wald planm&auml;&szlig;ig um 07:56 Uhr:</u><br />\nDer Zug entf&auml;llt.</p>\n\n<p>Wir haben f&uuml;r Sie einen <strong>Ersatzverkehr </strong>mit einem Gro&szlig;raumtaxi der Firma &quot;TAXI 24 - WILLINGEN&quot; eingerichtet.</p>\n\n<p>- <u>RB 23213, Abfahrt in Willingen planm&auml;&szlig;ig um 08:39 Uhr:</u><br />\nTeilausfall von Willingen bis Korbach Hbf.</p>\n\n<p>Wir haben f&uuml;r Sie einen <strong>Ersatzverkehr </strong>mit einem Gro&szlig;raumtaxi der Firma &quot;TAXI 24 - WILLINGEN&quot; eingerichtet.</p>\n\n<p>- <u>RB 23211, Abfahrt in Brilon Stadt planm&auml;&szlig;ig um 07:05 Uhr:</u><br />\nTeilausfall von Brilon Stadt bis Korbach Hbf.</p>\n\n<p>- <u>RB 23206, Abfahrt in Marburg(Lahn) planm&auml;&szlig;ig um 06:29 Uhr:</u><br />\nTeilausfall von Korbach Hbf bis Brilon Stadt.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -398,7 +399,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "08.04.2022 06:24",
+      "lastModified": "08.04.2022 06:48",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
@@ -444,7 +445,7 @@
       "headline": "Unwetter: Regionalverkehr in Baden-Württemberg bei der DB Regio AG beeinträchtigt",
       "newsType": "Unwetter mit Orkanböen",
       "timePeriod": "Seit 7. April ",
-      "introText": "<p>- Zwischen Freiburg und Breisach ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum auf der Strecke. Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner. Die Strecke wird voraussichtlich bis in die sp&auml;ten Vormittagsstunden gesperrt bleiben.</p>\n\n<p>- Zwischen Hausach und Villingen(Schwarzwald) befindet sich ein Baum auf der Strecke. Die Strecke ist gesperrt. Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner. Die Strecke wird voraussichtlich bis in die sp&auml;ten Vormittagsstunden gesperrt bleiben.</p>\n\n<p>-&nbsp;Zwischen Sigmaringen und Storzingen befindet sich ein Baum auf der Strecke. Die Strecke ist gesperrt. Die Dauer der St&ouml;rung ist noch nicht bekannt.</p>\n",
+      "introText": "<p>- Zwischen Freiburg und Breisach ist die Strecke gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum auf der Strecke. Ersatzverkehr mit zwei Bussen ab ca. 7:15 Uhr ab Freiburg(Breisgau) Hbf eingerichet. Weitere Busse in Planung. Die Strecke wird voraussichtlich bis in die sp&auml;ten Vormittagsstunden gesperrt bleiben.</p>\n\n<p>- Zwischen Hausach und Villingen(Schwarzwald) befindet sich ein Baum auf der Strecke. Die Strecke ist gesperrt. Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner. Die Strecke wird voraussichtlich bis in die sp&auml;ten Vormittagsstunden gesperrt bleiben.</p>\n\n<p>-&nbsp;Zwischen Sigmaringen und Storzingen befindet sich ein Baum auf der Strecke. Die Strecke ist gesperrt. Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner. Die Dauer der St&ouml;rung ist noch nicht bekannt.</p>\n",
       "connectionsHeadline": "Betroffene Strecken:",
       "connections": [
         "S1: Breisach - Gottenheim - Freiburg(Breisgau)",
@@ -459,7 +460,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "08.04.2022 06:25",
+      "lastModified": "08.04.2022 06:45",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
