@@ -285,7 +285,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -435,13 +440,13 @@
       "headline": "Unwetter: Regionalverkehr in Baden-Württemberg bei der DB Regio AG beeinträchtigt",
       "newsType": "Unwetter mit Orkanböen",
       "timePeriod": "Seit 7. April ",
-      "introText": "<p>- Streckenabschnitt Freiburg(Breisgau) - Gottenheim wieder befahrbar. Streckensperrung ist aufgehoben. Z&uuml;ge fahren in K&uuml;rze wieder ohne Einschr&auml;nkungen. Zwischen Gottenheim und Breisach ist die Strecke weiterhin gesperrt. Grund hierf&uuml;r: Baum auf der Strecke. Ersatzverkehr mit vier Bussen zwischen Gottenheim und Breisach eingerichtet. Aktuell keine Information zur St&ouml;rungsdauer.</p>\n\n<p>- Zwischen Hausach und Villingen(Schwarzw.) befindet sich ein Baum auf der Strecke. Die Strecke ist gesperrt. Ersatzverkehr mit zwei Busse im Pendel zwischen Hausach und Villingen ist eingerichtet. Aktuell keine Information zur St&ouml;rungsdauer.</p>\n",
+      "introText": "<p>Ab Nachmittag, dem 8. April, ist erneut mit Sturmb&ouml;en und Starkregen zu rechnen. Es kann erneut zu Beeintr&auml;chtigungen und Geschwindigkeitsreduzierungen auf einigen Strecken kommen.</p>\n\n<p>Wegen Unwettersch&auml;den und Aufr&auml;umarbeiten kommt es aktuell zu Streckensperrungen und Schienenersatzverkehr.</p>\n\n<p>- Zwischen Gottenheim und Breisach ist die Strecke weiterhin gesperrt. Grund hierf&uuml;r ist ein umgest&uuml;rtzer Baum auf der Strecke. Ersatzverkehr mit vier Bussen ist eingerichtet. Aktuell keine Information zur St&ouml;rungsdauer.</p>\n\n<p>- Zwischen Hausach und Villingen(Schwarzw.) befindet sich ein Baum auf der Strecke. Die Strecke ist gesperrt. Ersatzverkehr mit zwei Bussen im Pendel ist eingerichtet. Aktuell keine Information zur St&ouml;rungsdauer.</p>\n",
       "connectionsHeadline": "Betroffene Strecken:",
       "connections": [
-        "S1: Breisach - Gottenheim - Freiburg(Breisgau)",
+        "S1: Breisach - Gottenheim",
         "RE2: Hausach - Villingen(Schwarzw.)"
       ],
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "closingText": "<p>Bitte informieren Sie sich regelm&auml;&szlig;ig &uuml;ber Ihre Verbindung und&nbsp;ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung. Rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -449,7 +454,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "08.04.2022 11:46",
+      "lastModified": "08.04.2022 12:02",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
