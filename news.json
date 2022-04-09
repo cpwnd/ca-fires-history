@@ -205,16 +205,17 @@
     },
     {
       "id": "1fab69aa-72a8-4b33-80e8-c8322fb4a7c4",
-      "headline": "Beeinträchtigungen zwischen Graben-Neudorf und Karlsruhe und zwischen Germersheim und Wörth(Rhein)",
-      "newsType": "Unwetterschäden / Aufräumarbeiten",
-      "timePeriod": "Freitag, 08.04.2022",
-      "introText": "<p>Wegen Aufr&auml;umarbeiten nach Unwettersch&auml;den kommt es aktuell noch zu Versp&auml;tungen, Umleitungen und kurzfristigen Zugausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffene Linien:",
+      "headline": "Beeinträchtigungen nach Unwetterschäden",
+      "newsType": "mehrere Streckensperrungen",
+      "timePeriod": "mind. bis 10.04.2022",
+      "introText": "<p>Wegen Aufr&auml;umarbeiten nach Unwettersch&auml;den kommt es aktuell zu Versp&auml;tungen, Umleitungen und Zugausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffene Streckenabschnitte:",
       "connections": [
-        "S9 Mannheim <> Graben-Neudorf <> Karlsruhe",
-        "S1 / S3 / S44 Germerheim <> Wörth(Rhein)"
+        "Graben-Neudorf <> Bruchsal/Karlsruhe",
+        "Pirmasens <> Kaiserslautern",
+        "Neustadt <> Kaiserslautern"
       ],
-      "closingText": "<p>Bitte informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "closingText": "<p><strong>Graben-Neudorf &lt;&gt; Bruchsal/Karlsruhe:</strong><br />\nEs kann kurzfristig zu Umleitungen ohne Halt zwischen Graben-Neudorf und Karlsruhe Hbf kommen.<br />\nDes Weiteren kommt es zu Versp&auml;tungen und Teilausf&auml;llen auf der gesamten S-Bahn-Linie.<br />\nEs fahren <strong>zwei zus&auml;tzliche Busse zur Entlastung zwischen Graben-Neudorf und Karlsruhe Hbf.</strong></p>\n\n<p><strong>Pirmasens &lt;&gt; Kaiserslautern:</strong><br />\nEs sind keine Zugfahrten zwischen Pirmasens und Kaiserslautern m&ouml;glich.<br />\nIn der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\nWir haben f&uuml;r Sie einen<strong> Busnotverkehr zwischen Kaiserslautern Hbf und Pirmasens Hbf</strong> eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p><strong>Neustadt &lt;&gt; Kaiserslautern:</strong><br />\nZur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.<br />\nIn der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen.<br />\n<strong>Leider k&ouml;nnen wir keinen Ersatzverkehr anbieten, da die umliegenden Stra&szlig;en ebenfalls gesperrt sind..</strong></p>\n\n<p>Bitte informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -223,7 +224,7 @@
         "bw",
         "rp"
       ],
-      "lastModified": "09.04.2022 21:19",
+      "lastModified": "09.04.2022 21:46",
       "expand": false,
       "priorityValue": 102
     },
