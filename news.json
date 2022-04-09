@@ -1,16 +1,18 @@
 {
   "news": [
     {
-      "id": "1b2529ec-8d53-47a9-8f79-eb4179def6a9",
-      "headline": "Verspätungen zwischen Berlin und Dresden",
+      "id": "f526e56d-99aa-4660-bdba-efba9af138f0",
+      "headline": "Beeinträchtigungen zwischen Mannheim und Kaiserslautern",
       "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Am Samstag, 09.04.2022 bis vsl. Montag, 11.04.2022 (Abendstunden)",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung in Elsterwerda kommt es im Fernverkehr der Deutschen Bahn derzeit zu Versp&auml;tungen von etwa 15 Minuten im betroffenen Streckenabschnitt.</p>\n",
+      "timePeriod": "Am Samstag, 09.04.2022 bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung&nbsp;auf der Strecke Mannheim &ndash; Kaiserslautern ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Zug- und Haltausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle IC-/EC-Züge zwischen Berlin und Dresden."
+        "Alle ICE-Züge in/aus Richtung Frankfurt(M), die in Saarbrücken beginnen bzw. enden, fallen zwischen Frankfurt(M) und Saarbrücken aus. Die Halte Saarbrücken Hbf, Homburg(Saar) Hbf, Kaiserslautern Hbf, Neustadt(Weinstr) Hbf, Mannheim Hbf, Bensheim und Darmstadt Hbf entfallen.",
+        "Alle EC-Züge in/aus Richtung Stuttgart, die in Saarbrücken beginnen bzw. enden, fallen zwischen Stuttgart und Saarbrücken aus. Die Halte Saarbrücken Hbf, Homburg(Saar) Hbf, Landstuhl, Kaiserslautern Hbf, Neustadt(Weinstr) Hbf, Ludwigshafen(Rhein) Hbf und Mannheim Hbf entfallen.",
+        "Alle ICE-/TGV-Züge zwischen Frankfurt (M) und Paris werden in beiden Fahrtrichtungen zwischen Mannheim und Paris umgeleitet. Die Halte Saarbrücken Hbf, Kaiserslautern Hbf und Forbach entfallen."
       ],
-      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -21,38 +23,35 @@
         "rp",
         "sl"
       ],
-      "lastModified": "09.04.2022 03:37",
+      "lastModified": "09.04.2022 06:52",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 304
     },
     {
-      "id": "f526e56d-99aa-4660-bdba-efba9af138f0",
-      "headline": "Beeinträchtigungen zwischen Mannheim und Kaiserslautern",
-      "newsType": "Reparatur an der Weiche",
-      "timePeriod": "Am Samstag, 09.04.2022 bis in die Mittagsstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Weiche zwischen Mannheim und Kaiserslautern kommt es im Fernverkehr der Deutschen Bahn derzeit zu Beeintr&auml;chtigungen.</p>\n\n<p>Es kommt zu Haltausf&auml;llen und vereinzelten Zugausf&auml;llen.</p>\n",
+      "id": "1b2529ec-8d53-47a9-8f79-eb4179def6a9",
+      "headline": "Verspätungen zwischen Berlin und Dresden",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "Am Samstag, 09.04.2022 bis Montag, 11.04.2022 in die Abendstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung in Elsterwerda ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Versp&auml;tungen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE-Züge Berlin – Frankfurt (M) – Saarbrücken fallen zwischen Frankfurt (M) und Saarbrücken aus.",
-        "EC-Züge Klagensfurt – Stuttgart – Mannheim – Saarbrücken fallen zwischen Stuttgart und Saarbrücken aus.",
-        "ICE-/TGV-Züge Frankfurt (M) – Mannheim – Saarbrücken – Paris Est werden zwischen Mannheim und Paris umgeleitet. Die Halte Kaiserslautern, Saarbrücken und Forbach entfallen."
+        "Alle ICE/EC/IC-Züge zwischen Berlin und Dresden verspäten sich in beiden Fahrtrichtungen um etwa 15 Minuten."
       ],
-      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
       ],
       "areas": [
-        "bw",
-        "he",
-        "rp",
-        "sl"
+        "be",
+        "br",
+        "sn"
       ],
-      "lastModified": "09.04.2022 03:26",
+      "lastModified": "09.04.2022 06:52",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 304
+      "priorityValue": 303
     },
     {
       "id": "e69a497b-85da-4812-a86e-a7a5176254b6",
@@ -276,12 +275,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
