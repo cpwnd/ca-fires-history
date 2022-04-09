@@ -88,8 +88,8 @@
     },
     {
       "id": "de7ce356-9061-4740-b844-ae59deff60f0",
-      "headline": "Zugverkehr in Nordbaden, Rheinland-Pfalz und im Saarland stark eingeschränkt",
-      "newsType": "Schneefall",
+      "headline": "Zugverkehr in Nordbaden, Rheinland-Pfalz und im Saarland eingeschränkt",
+      "newsType": "Schnee und Eis",
       "timePeriod": "bis vsl. 09.04.2022 ",
       "introText": "<p>Aufgrund von Schneefall ist der Regionalverkehr derzeit in Nordbaden, Rheinland-Pfalz und im Saarland stark eingeschr&auml;nkt. Es kommt zu hohen Versp&auml;tungen und Teilausf&auml;llen im gesamten Gebiet.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Regionen:",
@@ -97,7 +97,7 @@
         "Großraum Mannheim",
         "Großraum Kaiserslautern"
       ],
-      "closingText": "<p><strong>Leider k&ouml;nnen wir witterungsbedingt keinen Ersatzverkehr anbieten.</strong></p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.&nbsp;</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer des Unwetters auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio AG, Region Mitte&nbsp;</p>\n",
+      "closingText": "<p><strong>RE1 S1 S2</strong>: Strecke zwischen<strong> Kaiserslauten und Neustadt</strong> bis vsl. <strong>10.04.2022</strong> gesperrt.</p>\n\n<p><strong>Leider k&ouml;nnen wir witterungsbedingt keinen Ersatzverkehr anbieten.</strong></p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.&nbsp;</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer des Unwetters auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio AG, Region Mitte&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -107,7 +107,7 @@
         "rp",
         "sl"
       ],
-      "lastModified": "08.04.2022 23:13",
+      "lastModified": "09.04.2022 11:44",
       "expand": false,
       "priorityValue": 103
     },
@@ -275,7 +275,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -467,26 +472,6 @@
       "lastModified": "01.03.2022 14:42",
       "author": "bayern",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "8f9732e4-85fe-4f1d-932f-b68ec511bdfa",
-      "headline": "Unwetter: Regionalverkehr in Baden-Württemberg bei der DB Regio AG nicht mehr beeinträchtigt",
-      "newsType": "Unwetter mit Orkanböen",
-      "timePeriod": "Seit 7. April bis 9. April 10:30 Uhr",
-      "introText": "<p>Alle Unwettersch&auml;den bei der DB Regio in Baden-W&uuml;rttemberg sind beseitigt. Bitte rechnen Sie in der Folge noch mit Versp&auml;tungen und einzelnen Teilausf&auml;llen bis sich der Bahnverkehr wieder vollst&auml;ndig normalisiert hat.</p>\n\n<p>- Baum auf der Strecke zwischen Hornberg(Schwarzw) und Villingen(Schwarzw) beseitigt. Strecke ist wieder frei befahrbar. Ersatzverkehr mit Bussen wird eingestellt.</p>\n",
-      "connections": [],
-      "closingText": "<p>Bitte informieren Sie sich regelm&auml;&szlig;ig &uuml;ber Ihre Verbindung und&nbsp;ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung. Rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "09.04.2022 10:40",
-      "author": "baden_wuerttemberg",
-      "expand": false,
       "priorityValue": 101
     },
     {
