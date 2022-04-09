@@ -269,13 +269,12 @@
     {
       "id": "62b3094e-9658-4570-80ed-e0c63ced6731",
       "headline": "Unwetterschäden bei der Westfrankenbahn",
-      "newsType": "Unwetter mit Orkanböhen",
+      "newsType": "Unwetter und Schneelast auf den Bäumen",
       "timePeriod": "seit 9. April 2022 07:15 Uhr",
-      "introText": "<p>- Mehrere B&auml;ume auf der Strecke zwischen Miltenberg und Seckach. Die Strecke ist gesperrt. In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen. Ersatzverkehr mit Bus ist zwischen Miltenberg und Seckach bis 18 Uhr am 9. April eingerichtet, danach stehen leider keine Busse mehr zur Verf&uuml;gung.&nbsp;Am Morgen des 10. Aprils beginnen die ersten Z&uuml;ge mit Erkundungsfahrten, danach aktualisieren wir diese Meldung.</p>\n\n<p>-&nbsp;Mehrere umgest&uuml;rzte B&auml;ume auf der Strecke st&ouml;ren den Zugverkehr zwischen Wertheim und Tauberbischofsheim. Die Strecke ist gesperrt. In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen. Bisher haben wir leider keine Informationen zur Dauer der Sperrung.</p>\n",
+      "introText": "<p>- Mehrere B&auml;ume auf der Strecke zwischen Miltenberg und Seckach. Die Strecke ist gesperrt. In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen. Ersatzverkehr mit Bus ist zwischen Miltenberg und Seckach bis 18 Uhr am 9. April eingerichtet, danach stehen leider keine Busse mehr zur Verf&uuml;gung.&nbsp;Am Morgen des 10. Aprils beginnen die ersten Z&uuml;ge mit Erkundungsfahrten, danach aktualisieren wir diese Meldung.</p>\n\n<p>-&nbsp;Mehrere B&auml;ume auf der Strecke zwischen Wertheim und Tauberbischofsheim beseitigt. Streckensperrung aufgehoben. In der Folge noch Versp&auml;tungen und Teilausf&auml;lle bis sich der Bahnverkehr wieder stabilisiert hat.</p>\n",
       "connectionsHeadline": "Betroffene Linien und Strecken:",
       "connections": [
-        "RB 84: Miltenberg - Seckach",
-        "RE 87: Wertheim - Tauberbischofsheim"
+        "RB 84: Miltenberg - Seckach"
       ],
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
       "priority": "0",
@@ -286,7 +285,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "09.04.2022 16:06",
+      "lastModified": "09.04.2022 16:37",
       "expand": false,
       "priorityValue": 102
     },
@@ -299,7 +298,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
