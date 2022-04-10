@@ -324,12 +324,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
@@ -524,39 +519,6 @@
       "priorityValue": 101
     },
     {
-      "id": "0b455ec4-cdc5-4c9e-8a13-00adedaca07a",
-      "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn ",
-      "newsType": "erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "Ab Montag, 11. April bis Mittwoch, 13. April",
-      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal wird der Fahrplan auf der Hohenlohebahn reduziert. F&uuml;r die ausfallenden Z&uuml;ge wird ein Schienenersatzverkehr mit Bus eingesetzt.&nbsp;Bitte informieren Sie sich tagesaktuell in den Online-Reiseausk&uuml;nften oder &uuml;ber die App DB-Streckenagent.</p>\n",
-      "connectionsHeadline": "Hohenlohebahn:",
-      "connections": [
-        "Crailsheim - Heilbronn Hbf"
-      ],
-      "download": {
-        "text": "<p>Den Fahrplan zum reduzierten Fahrplanangebot finden Sie hier:</p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:ee4bac76-f17e-4142-bd6b-d22751f11cd4/Hohenlohebahn_reduziertes_Angebot_11042022_bis_13042022.pdf",
-            "title": "Fahrplan Hohenlohebahn (Crailsheim - Schwäbisch Hall-Hessental - Öhringen - Heilbronn (PDF, 451 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "09.04.2022 12:17",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
       "id": "129286d6-d1e9-481b-a4c0-718e5e22cc05",
       "headline": "Veränderter Fahrplan auf der Schwarzwaldbahn ",
       "newsType": "Untersuchung an mehreren Zügen",
@@ -642,28 +604,6 @@
       ],
       "lastModified": "08.04.2022 11:47",
       "author": "baden_wuerttemberg",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "f62c69e3-f62b-49d5-ad5f-9decd99e9746",
-      "headline": "Fahrzeugengpass am Bodensee",
-      "newsType": "Außerplanmäßige Werkstattuntersuchung",
-      "timePeriod": "seit 9. April 2022",
-      "introText": "<p>Aufgrund eines au&szlig;erplanm&auml;&szlig;igen Werkstattaufenthaltes stehen weniger Fahrzeuge zur Verf&uuml;gung als geplant. Es kommt daher auf einigen Strecken am Bodensee zu Zugausf&auml;llen. Bitte pr&uuml;fen Sie Ihre Reisem&ouml;glichkeiten rechtzeitig vor Reisebeginn.&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffene Strecke:",
-      "connections": [
-        "RB31 Markdorf(Baden) - Radolfzell"
-      ],
-      "closingText": "<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">Streckenagent-APP</a> immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "09.04.2022 14:14",
       "expand": false,
       "priorityValue": 101
     },
