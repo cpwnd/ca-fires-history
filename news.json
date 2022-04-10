@@ -87,31 +87,6 @@
       "priorityValue": 216
     },
     {
-      "id": "de7ce356-9061-4740-b844-ae59deff60f0",
-      "headline": "Zugverkehr in Nordbaden, Rheinland-Pfalz und im Saarland eingeschränkt",
-      "newsType": "Schnee und Eis",
-      "timePeriod": "bis vsl. 09.04.2022 ",
-      "introText": "<p>Aufgrund von Schneefall ist der Regionalverkehr derzeit in Nordbaden, Rheinland-Pfalz und im Saarland stark eingeschr&auml;nkt. Es kommt zu hohen Versp&auml;tungen und Teilausf&auml;llen im gesamten Gebiet.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffene Regionen:",
-      "connections": [
-        "Großraum Mannheim",
-        "Großraum Kaiserslautern"
-      ],
-      "closingText": "<p><strong>RE1 S1 S2</strong>: Strecke zwischen<strong> Kaiserslauten und Neustadt</strong> bis vsl. <strong>10.04.2022</strong> gesperrt.</p>\n\n<p><strong>Leider k&ouml;nnen wir witterungsbedingt keinen Ersatzverkehr anbieten.</strong></p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.&nbsp;</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer des Unwetters auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio AG, Region Mitte&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "rp",
-        "sl"
-      ],
-      "lastModified": "09.04.2022 11:44",
-      "expand": false,
-      "priorityValue": 103
-    },
-    {
       "id": "4f14c07f-5966-4c81-9373-59abeec3cc63",
       "headline": "Ausfall der Kulturzüge",
       "newsType": "Beförderung von Flüchtlingen aus der Ukraine",
@@ -129,6 +104,28 @@
         "br"
       ],
       "lastModified": "01.04.2022 12:21",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "cd2d253b-e0d1-49d6-9051-a78ec51db5f2",
+      "headline": "Ausfall RB91 zwischen Frankfurt(Oder) und Rzepin",
+      "newsType": "Betriebliche Gründe",
+      "timePeriod": "10. April 2022",
+      "connections": [
+        "RB91 Frankfurt(Oder) - Rzepin"
+      ],
+      "closingText": "<p>Aus betrieblichen Gr&uuml;nden fallen folgende Z&uuml;ge zwischen Rzepin und Frankfurt (Oder) aus:</p>\n\n<p><strong>RB 5830</strong> planm&auml;&szlig;ige Abfahrt ab Rzepin um 7:32 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5831&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 8:10 Uhr nach Rzepin</p>\n\n<p><strong>RB 5832&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 12:32 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5833&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 12:59 Uhr nach Rzepin</p>\n\n<p><strong>RB 5834</strong>&nbsp;planm&auml;&szlig;ige Abfahrt ab Rzepin ab 17:32 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5835&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 18:14 Uhr nach Rzepin</p>\n\n<p>Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Rzepin und Frankfurt und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <strong><a href=\"tel:03312356881\" style=\"color:blue; text-decoration:underline\">0331 235-6881</a></strong> und&nbsp;<strong><a href=\"tel:03857502405\" style=\"color:blue; text-decoration:underline\">0385 750-2405</a>&nbsp;</strong>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "10.04.2022 08:45",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -216,7 +213,7 @@
         "Neustadt <> Kaiserslautern",
         "Kaiserslautern <> Rockenhausen"
       ],
-      "closingText": "<p><strong>Graben-Neudorf &lt;&gt; Bruchsal/Karlsruhe:</strong><br />\nEs kann kurzfristig zu Umleitungen ohne Halt zwischen Graben-Neudorf und Karlsruhe Hbf kommen.<br />\nDes Weiteren kommt es zu Versp&auml;tungen und Teilausf&auml;llen auf der gesamten S-Bahn-Linie.<br />\nEs fahren <strong>zwei zus&auml;tzliche Busse zur Entlastung zwischen Graben-Neudorf und Karlsruhe Hbf.</strong></p>\n\n<p><strong>Pirmasens &lt;&gt; Kaiserslautern:</strong><br />\nEs sind keine Zugfahrten zwischen Pirmasens und Kaiserslautern m&ouml;glich.<br />\nIn der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\nWir haben f&uuml;r Sie einen<strong> Busnotverkehr zwischen Kaiserslautern Hbf und Pirmasens Hbf</strong> eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p><strong>Neustadt &lt;&gt; Kaiserslautern:</strong><br />\nZur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.<br />\nIn der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen.<br />\nWir haben f&uuml;r Sie einen <strong>Busnotverkehr&nbsp;</strong>mit einem Bus zwischen Kaiserslautern Hbf und Neustadt Hbf eingerichtet. Ab ca 7:30 Uhr starten zwei weitere Busse. Die Busse verkehren <strong>ohne Zwischenhalte</strong>.</p>\n\n<p><strong>Kaiserslautern &lt;&gt; Rockenhausen:</strong><br />\nZur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.&nbsp;Wir haben f&uuml;r Sie einen<strong> Busnotverkehr zwischen Kaiserslautern Hbf und Rockenhausen&nbsp;</strong>eingerichtet, der alle Unterwegshalte anf&auml;hrt.&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "closingText": "<p><strong>Graben-Neudorf &lt;&gt; Bruchsal/Karlsruhe:</strong><br />\nEs kann kurzfristig zu Umleitungen ohne Halt zwischen Graben-Neudorf und Karlsruhe Hbf kommen.<br />\nDes Weiteren kommt es zu Versp&auml;tungen und Teilausf&auml;llen auf der gesamten S-Bahn-Linie.<br />\nEs verkehrt <strong>ein zus&auml;tzlicher Bus zur Entlastung zwischen Graben-Neudorf und Karlsruhe Hbf.</strong></p>\n\n<p><strong>Pirmasens &lt;&gt; Kaiserslautern:</strong><br />\nEs sind keine Zugfahrten zwischen Pirmasens und Kaiserslautern m&ouml;glich.<br />\nIn der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\nWir haben f&uuml;r Sie einen<strong> Busnotverkehr zwischen Kaiserslautern Hbf und Pirmasens Hbf</strong> eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p><strong>Neustadt &lt;&gt; Kaiserslautern:</strong><br />\nZur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.<br />\nIn der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen.<br />\nWir haben f&uuml;r Sie einen <strong>Busnotverkehr&nbsp;</strong>mit einem Bus zwischen Kaiserslautern Hbf und Neustadt Hbf eingerichtet. Ab ca 7:30 Uhr starten zwei weitere Busse. Die Busse verkehren <strong>ohne Zwischenhalte</strong>.</p>\n\n<p><strong>Kaiserslautern &lt;&gt; Rockenhausen:</strong><br />\nZur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.&nbsp;Wir haben f&uuml;r Sie einen<strong> Busnotverkehr zwischen Kaiserslautern Hbf und Rockenhausen&nbsp;</strong>eingerichtet, der alle Unterwegshalte anf&auml;hrt.&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -225,7 +222,7 @@
         "bw",
         "rp"
       ],
-      "lastModified": "10.04.2022 06:33",
+      "lastModified": "10.04.2022 08:44",
       "expand": false,
       "priorityValue": 102
     },
@@ -296,8 +293,8 @@
       "id": "62b3094e-9658-4570-80ed-e0c63ced6731",
       "headline": "Unwetterschäden bei der Westfrankenbahn",
       "newsType": "Unwetter und Schneelast auf den Bäumen",
-      "timePeriod": "voraussichtlich bis 10.04.22 ",
-      "introText": "<p>Mehrere B&auml;ume auf der Strecke zwischen Miltenberg und Seckach. Voraussichtliche Dauer der Sperrung bis 10. April 2022 ca. 10 Uhr. Ein Ersatzverkehr mit Bus zwischen Miltenberg und Seckach ist eingerichtet.&nbsp;</p>\n",
+      "timePeriod": "voraussichtlich bis 10. April 2022 ",
+      "introText": "<p>Mehrere B&auml;ume auf der Strecke zwischen Miltenberg und Seckach. Die Strecke ist gesperrt. Wir haben einen Ersatzverkehr mit Bus f&uuml;r die ausfallenden Z&uuml;ge eingerichtet. Update folgt sobald neue Informationen vorliegen.</p>\n",
       "connectionsHeadline": "Betroffene Linien und Strecken:",
       "connections": [
         "RB 84: Miltenberg - Seckach"
@@ -311,7 +308,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "10.04.2022 02:02",
+      "lastModified": "10.04.2022 08:43",
       "expand": false,
       "priorityValue": 102
     },
@@ -617,7 +614,7 @@
       "headline": "Zusätzliche Busse zum Schüler- und Berufsverkehr",
       "newsType": "Kapazitätssteigerung",
       "timePeriod": "an Schul- und Werktagen",
-      "introText": "<p>Die DB Regio AG Baden-W&uuml;rttemberg setzt wieder zus&auml;tzliche Verst&auml;rkerbusse von Montag bis Freitag f&uuml;r&nbsp;den Sch&uuml;ler- und Berufsverkehr ein. Durch den Einsatz der zus&auml;tzlich verkehrenden Busse wird die Kapazit&auml;t nochmals erh&ouml;ht werden. Die Abfahrtszeiten der Unterwegshalte finden sie in der Fahrplanauskunft z.B. unter <a href=\"https://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a></p>\n",
+      "introText": "<p>Die DB Regio AG Baden-W&uuml;rttemberg setzt wieder zus&auml;tzliche Verst&auml;rkerbusse von Montag bis Freitag f&uuml;r&nbsp;den Sch&uuml;ler- und Berufsverkehr ein bis zu den Osterferien. Durch den Einsatz der zus&auml;tzlich verkehrenden Busse wird die Kapazit&auml;t nochmals erh&ouml;ht werden. Die Abfahrtszeiten der Unterwegshalte finden sie in der Fahrplanauskunft z.B. unter <a href=\"https://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a></p>\n",
       "connections": [],
       "closingText": "<p>Die meist parallel zu den Z&uuml;gen verkehrenden Busse starten wie folgt:</p>\n\n<p><strong>Hochschwarzwald:</strong><br />\n-&nbsp;L&ouml;ffingen - Neustadt/Schwarzwald mit Abfahrt 07:07 Uhr in L&ouml;ffingen<br />\n- Titisee - Neustadt(Schwarzw) mit Abfahrt 07:14 Uhr in Titisee</p>\n\n<p><strong>Kaiserstuhl:</strong><br />\n-&nbsp;Eichstetten Bahnhof -&nbsp;B&ouml;tzingen - Gottenheim - Freiburg Bissierstr. - Freiburg Robert-Koch-Str, Freiburg ZOB mit Abfahrt 7:10 Uhr in Eichstetten</p>\n\n<p><strong>Hochrhein:</strong><br />\n- Bietingen - Gottmadingen - Singen Anton-Bruckner-Str. - Singen (Htw) Bahnhof Bandoleros mit Abfahrt 07:15 Uhr in Bietingen<br />\n-&nbsp;&nbsp;Gottmadingen - Singen Anton-Bruckner-Str. - Singen (Htw) Bahnhof Bandoleros mit Abfahrt 07:20 Uhr in Gottmadingen<br />\n- Singen (Htw) Maggi - Gottmadingen Bf mit Abfahrt 13:06 Uhr in Singen<br />\n-&nbsp;Singen (Htw) Maggi - Gottmadingen Bf - Bietingen Bf mit Abfahrt 13:36 Uhr in Singen</p>\n\n<p><strong>Raum Neckar-Alb:&nbsp;</strong><br />\n- Metzingen Busbahnhof - Metzingen-Neuhausen Insel - Dettingen (Erms) Lehen Bushaltestelle - Dettingen (Erms) Mitte Bahnhof - Dettingen (Erms) Freibad Bushaltestelle - Dettingen (Erms) Gsaidt Bushaltestelle - Bad Urach Wasserfall Bushaltestelle - Bad Urach Busbahnhof mit Abfahrt 07:12 Uhr in Metzingen<br />\n- T&uuml;bingen Hbf, Bushaltestelle Neckaraue, Kirchentellinsfurt Bahnhof, Bushaltestelle Sigel-Stuben, Ersatzhaltestelle Schulbus Olgastra&szlig;e, Bushaltestelle Westbahnhof, Reutlingen Hbf Bahnhofstra&szlig;e, Bushaltestelle Am Heilbrunnen, Metzingen Bahnhof mit Abfahrt 06:31 Uhr in T&uuml;bingen Hbf</p>\n\n<p><strong>Gro&szlig;raum Ulm:&nbsp;</strong><br />\n-&nbsp;Schemmerberg Bf - Warthausen Rathaus - Biberach(Ri&szlig;) Bhf - Biberach Schulzentrum - Biberach Liebherr/B465 mit Abfahrt 07:00 Uhr in Schemmerberg<br />\n&nbsp;</p>\n\n<p><strong>Raum Bodensee:&nbsp;&nbsp;</strong><br />\n-&nbsp;Kressbronn Bahnhof - Langenargen Bahnhof - Langenargen Bahnhof - Friedrichshafen Jugendherberge - Friedrichshafen Stadtbahnhof - Friedrichshafen Jugendherberge mit Abfahrt 06:53 Uhr in Kressbronn<br />\n-&nbsp;Kressbronn Bahnhof - Langenargen Bahnhof - Eriskirch Irisstra&szlig;e - Friedrichshafen Jugendherberge - Friedrichshafen Stadtbahnhof - Friedrichshafen Jugendherberge mit Abfahrt 07:29 Uhr in Kressbronn<br />\n-&nbsp;Kressbronn, Bahnhof - Langenargen Bahnhof - Eriskirch Irisstra&szlig;e - Friedrichshafen Jugendherberge - Friedrichshafen Stadtbahnhof - Friedrichshafen Schulzentrum mit Abfahrt 07:57 Uhr in Kressbronn</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;immer dabei!</p>\n",
       "priority": "0",
@@ -627,7 +624,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "07.03.2022 00:32",
+      "lastModified": "10.04.2022 08:32",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
