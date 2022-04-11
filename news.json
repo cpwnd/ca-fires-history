@@ -207,10 +207,10 @@
     },
     {
       "id": "62b3094e-9658-4570-80ed-e0c63ced6731",
-      "headline": "Unwetterschäden bei der Westfrankenbahn",
+      "headline": "Unwetterschäden bei der Westfrankenbahn - wurden beseitigt",
       "newsType": "Unwetter und Schneelast auf den Bäumen",
       "timePeriod": "voraussichtlich bis 11. April 2022 ",
-      "introText": "<p>Mehrere B&auml;ume auf der Strecke zwischen Walld&uuml;rn und Seckach. Die Strecke ist gesperrt. Wir haben einen Ersatzverkehr mit Bus f&uuml;r die ausfallenden Z&uuml;ge eingerichtet. Dauer der Streckensperrung bis voraussichtlich 12 Uhr am 11. April 2022.</p>\n",
+      "introText": "<p>Die umgest&uuml;rzten B&auml;ume auf der Strecke zwischen Walld&uuml;rn und Seckach wurden beseitigt. Die Streckensperrung ist aufgehoben.</p>\n\n<p>In K&uuml;rze fahren die Z&uuml;ge auf dem Streckenabschnitt wieder ohne Einschr&auml;nkungen. Ersatzverkehr mit Bus wird eingestellt.</p>\n",
       "connectionsHeadline": "Betroffene Linien und Strecken:",
       "connections": [
         "RB 84: Walldürn - Seckach"
@@ -224,7 +224,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "10.04.2022 16:53",
+      "lastModified": "11.04.2022 09:14",
       "expand": false,
       "priorityValue": 102
     },
@@ -237,7 +237,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
