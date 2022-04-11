@@ -4,11 +4,11 @@
       "id": "1b2529ec-8d53-47a9-8f79-eb4179def6a9",
       "headline": "Verspätungen zwischen Berlin und Dresden",
       "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Am Samstag, 09.04.2022 bis Montag, 11.04.2022 in die Abendstunden",
+      "timePeriod": "Am Montag, 11.04.2022 vsl. bis in die Nachmittagsstunden",
       "introText": "<p>Aufgrund einer Reparatur an der Oberleitung in Elsterwerda ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Versp&auml;tungen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle ICE/EC/IC-Züge zwischen Berlin und Dresden verspäten sich in beiden Fahrtrichtungen um etwa 15 Minuten."
+        "Alle ICE/EC/IC-Züge zwischen Berlin und Dresden verspäten sich in beiden Fahrtrichtungen um etwa 10 Minuten."
       ],
       "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
@@ -20,7 +20,7 @@
         "br",
         "sn"
       ],
-      "lastModified": "09.04.2022 06:52",
+      "lastModified": "11.04.2022 10:31",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 303
@@ -498,6 +498,39 @@
       ],
       "lastModified": "04.04.2022 07:00",
       "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "0b455ec4-cdc5-4c9e-8a13-00adedaca07a",
+      "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn ",
+      "newsType": "erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "Ab Montag, 11. April bis Mittwoch, 13. April",
+      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal wird der Fahrplan auf der Hohenlohebahn reduziert. F&uuml;r die ausfallenden Z&uuml;ge wird ein Schienenersatzverkehr mit Bus eingesetzt.&nbsp;Bitte informieren Sie sich tagesaktuell in den Online-Reiseausk&uuml;nften oder &uuml;ber die App DB-Streckenagent.</p>\n",
+      "connectionsHeadline": "Hohenlohebahn:",
+      "connections": [
+        "Crailsheim - Heilbronn Hbf"
+      ],
+      "download": {
+        "text": "<p>Den Fahrplan zum reduzierten Fahrplanangebot finden Sie hier:</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:ee4bac76-f17e-4142-bd6b-d22751f11cd4/Hohenlohebahn_reduziertes_Angebot_11042022_bis_13042022.pdf",
+            "title": "Fahrplan Hohenlohebahn (Crailsheim - Schwäbisch Hall-Hessental - Heilbronn) (PDF, 451 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "11.04.2022 10:41",
       "expand": false,
       "priorityValue": 101
     },
