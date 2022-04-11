@@ -75,7 +75,7 @@
         "be",
         "br"
       ],
-      "lastModified": "11.04.2022 07:04",
+      "lastModified": "11.04.2022 10:23",
       "expand": true,
       "priorityValue": 102
     },
@@ -206,29 +206,6 @@
       "priorityValue": 102
     },
     {
-      "id": "62b3094e-9658-4570-80ed-e0c63ced6731",
-      "headline": "Unwetterschäden bei der Westfrankenbahn - wurden beseitigt",
-      "newsType": "Unwetter und Schneelast auf den Bäumen",
-      "timePeriod": "voraussichtlich bis 11. April 2022 ",
-      "introText": "<p>Die umgest&uuml;rzten B&auml;ume auf der Strecke zwischen Walld&uuml;rn und Seckach wurden beseitigt. Die Streckensperrung ist aufgehoben.</p>\n\n<p>In K&uuml;rze fahren die Z&uuml;ge auf dem Streckenabschnitt wieder ohne Einschr&auml;nkungen. Ersatzverkehr mit Bus wird eingestellt.</p>\n",
-      "connectionsHeadline": "Betroffene Linien und Strecken:",
-      "connections": [
-        "RB 84: Walldürn - Seckach"
-      ],
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "by"
-      ],
-      "lastModified": "11.04.2022 09:14",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "d91268e7-0a13-433e-b963-1287e2ec9159",
       "headline": "Meldungen der Südostbayernbahn",
       "newsType": "Störungen",
@@ -237,7 +214,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
