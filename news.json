@@ -237,12 +237,7 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          {
-            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-            "title": "Aktuelle Betriebslage",
-            "info": "",
-            "openInNewTab": true
-          }
+          null
         ]
       },
       "priority": "0",
@@ -346,16 +341,15 @@
     },
     {
       "id": "1fab69aa-72a8-4b33-80e8-c8322fb4a7c4",
-      "headline": "Beeinträchtigungen nach Unwetterschäden",
-      "newsType": "mehrere Streckensperrungen",
-      "timePeriod": "mind. bis 12.04.2022",
-      "introText": "<p>Wegen Aufr&auml;umarbeiten nach Unwettersch&auml;den kommt es aktuell zu Versp&auml;tungen, Umleitungen und Zugausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffene Streckenabschnitte:",
+      "headline": "Weiterhin kein Zugverkehr zwischen Kaiserslautern und Pirmasens",
+      "newsType": "Unwetterschäden",
+      "timePeriod": "bis mindestens 12.04.2022",
+      "introText": "<p>Zwischen Kaiserslautern und Pirmasens sind bis voraussichtlich&nbsp;<strong>12.04.2022</strong> keine Zugfahrten m&ouml;glich.<br />\nWir haben f&uuml;r Sie einen<strong> Busnotverkehr zwischen Kaiserslautern Hbf und Pirmasens Hbf</strong> eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
       "connections": [
-        "Pirmasens <> Kaiserslautern",
-        "Kaiserslautern <> Rockenhausen"
+        "RB64 Kaiserslautern <> Pirmasens"
       ],
-      "closingText": "<p><strong>Pirmasens &lt;&gt; Kaiserslautern:</strong><br />\nEs sind bis vsl. <strong>12.04.2022</strong> keine Zugfahrten zwischen Pirmasens und Kaiserslautern m&ouml;glich.<br />\nIn der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\nWir haben f&uuml;r Sie einen<strong> Busnotverkehr zwischen Kaiserslautern Hbf und Pirmasens Hbf</strong> eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p><strong>Kaiserslautern &lt;&gt; Rockenhausen:</strong><br />\nZur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.&nbsp;Wir haben f&uuml;r Sie einen<strong> Busnotverkehr zwischen Kaiserslautern Hbf und Rockenhausen&nbsp;</strong>eingerichtet, der alle Unterwegshalte anf&auml;hrt.&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der Sperrung mit l&auml;ngeren Reisezeiten.</p>\n\n<p>Bitte informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -363,7 +357,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "10.04.2022 21:23",
+      "lastModified": "11.04.2022 09:43",
       "expand": false,
       "priorityValue": 101
     },
