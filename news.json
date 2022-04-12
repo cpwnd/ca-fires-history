@@ -97,27 +97,6 @@
       "priorityValue": 203
     },
     {
-      "id": "5a45f533-87df-49aa-a2c6-e260378dff74",
-      "headline": "Ausfall der Züge der RB93 zwischen  Zagan und Forst(Lausitz) ",
-      "newsType": "Betriebliche Gründe",
-      "timePeriod": "12. April 2022",
-      "connections": [
-        "RB93  Zagan - Forst(Lausitz)"
-      ],
-      "closingText": "<p>Aus betrieblichen Gr&uuml;nden&nbsp;fallen folgende Z&uuml;ge zwischen Zagan und Forst(Lausitz) aus:</p>\n\n<p><strong>RB5840 </strong>planm&auml;&szlig;ige Abfahrt&nbsp; &nbsp;6:04 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5848&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp; &nbsp;8:52 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5841&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp; &nbsp;6:58 Uhr ab&nbsp;Forst(Lausitz) nach Zagan</p>\n\n<p><strong>RB5849&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp; &nbsp;9:50 Uhr ab&nbsp;Forst(Lausitz) nach Zagan</p>\n\n<p>Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Forst (Lausitz) und Zagan und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <a href=\"tel:03312356881\" style=\"color:blue; text-decoration:underline\">0331 235 6881 </a>und<a href=\"tel: 0385%20750%202405 \" style=\"color:blue; text-decoration:underline\">&nbsp;0385 750 2405</a></p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "12.04.2022 04:08",
-      "expand": true,
-      "priorityValue": 102
-    },
-    {
       "id": "cd2d253b-e0d1-49d6-9051-a78ec51db5f2",
       "headline": "Ausfall RB91 zwischen Frankfurt(Oder) und Rzepin",
       "newsType": "Betriebliche Gründe",
@@ -543,6 +522,29 @@
         "bw"
       ],
       "lastModified": "11.04.2022 10:41",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "7bbf4138-5ee1-4c19-99ab-a11afcf81d36",
+      "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville ",
+      "newsType": "Kurzfristige Personalausfälle",
+      "timePeriod": "13. April (bis 14:00 Uhr), 16. April (ganztägig) und 17. April (ab 14:00 Uhr)",
+      "introText": "<p>Ein Ersatzverkehr mit Bus ist zwischen M&uuml;llheim(Baden) und&nbsp;Mulhouse Ville mit allen Unterwegshalten f&uuml;r die ausfallenden Z&uuml;ge eingerichtet.</p>\n",
+      "connectionsHeadline": "Betroffene Strecke:",
+      "connections": [
+        "RB 107: Müllheim(Baden) - Mulhouse Ville"
+      ],
+      "closingText": "<p><u>13. April:</u></p>\n\n<p>Abfahrt Bus in M&uuml;llheim(Baden): 7:03 Uhr, 9:45 Uhr, 11:03 Uhr, 13:18 Uhr</p>\n\n<p>Abfahrt Bus in Mulhouse Ville: 6:20 Uhr, 8:18 Uhr, 10:20 Uhr, 12:11 Uhr</p>\n\n<p><u>16.April:</u></p>\n\n<p>Abfahrt Bus in M&uuml;llheim(Baden): 9:45 Uhr, 11:03 Uhr, 13:08 Uhr, 15:06 Uhr, 17:06 Uhr, 19:06 Uhr</p>\n\n<p>Abfahrt Bus in Mulhouse Ville: 8:18 Uhr, 10:20 Uhr, 12:18 Uhr,&nbsp;14:18 Uhr, 16:18 Uhr, 18:18 Uhr</p>\n\n<p><u>17.April:</u></p>\n\n<p>Abfahrt Bus in M&uuml;llheim(Baden):&nbsp;15:06 Uhr, 17:06 Uhr, 19:06 Uhr</p>\n\n<p>Abfahrt Bus in Mulhouse Ville: 14:18 Uhr, 16:18 Uhr, 18:18 Uhr</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung insbesondere aufgrund der l&auml;ngeren Fahrzeiten der Busse mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "12.04.2022 14:33",
+      "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
     },
