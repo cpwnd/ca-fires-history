@@ -39,29 +39,6 @@
       "priorityValue": 316
     },
     {
-      "id": "d66ebf69-b481-4081-8df2-6117b83473af",
-      "headline": "Beeinträchtigungen zwischen Nürnberg Hbf und Passau Hbf",
-      "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Am Dienstag, 12.04.2022 bis in die frühen Nachmittagsstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen N&uuml;rnberg Hbf und Passau Hbf kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 45 Minuten.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE/IC-Züge zwischen Nürnberg Hbf und Passau Hbf"
-      ],
-      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "by"
-      ],
-      "lastModified": "12.04.2022 09:30",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 301
-    },
-    {
       "id": "e69a497b-85da-4812-a86e-a7a5176254b6",
       "headline": "Informationen für Ukraine-Flüchtlinge zur Ein- und Weiterreise ",
       "newsType": "Informationen",
@@ -299,7 +276,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
