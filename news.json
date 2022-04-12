@@ -214,7 +214,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -227,6 +232,29 @@
       "lastModified": "13.10.2021 08:58",
       "author": "suedostbayernbahn",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "d584f8a1-1130-4752-b305-5a51b29507b8",
+      "headline": "S1 Richtung Schönebeck-Bad Salzelmen nur bis Magdeburg Hbf, RE 30 von Halle (Saale) nur bis Calbe",
+      "newsType": "Reparatur an der Strecke",
+      "timePeriod": "12.04.2022 bis vsl. 16 Uhr",
+      "introText": "<p><strong>S1</strong>: - Z&uuml;ge aus Stendal, Wittenberge und Zielitz nach Sch&ouml;nebeck-Bad Salzelmen enden in Magdeburg&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hauptbahnhof</p>\n\n<p>&nbsp; &nbsp; &nbsp; - Z&uuml;ge nach Stendal, WIttenberge und Zielitz beginnen in Magdeburg Hauptbahnhof</p>\n\n<p>&nbsp; &nbsp; &nbsp; - Busnotverkehr zwischen Magdeburg und Sch&ouml;nebeck-Bad Salzelmen verkehrt ohne Fahrplan</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RE 30</strong>: - Z&uuml;ge aus Halle(Saale) nach Magdeburg enden in Calbe</p>\n\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Z&uuml;ge nach Halle(Saale) beginnen in Calbe</p>\n",
+      "connectionsHeadline": "Betroffene Linien",
+      "connections": [
+        "S 1 Wittenberge/Stendal/Zielitz -Schönebeck-Bad Salzelmen",
+        "RE 30 Halle-Magdeburg"
+      ],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "st"
+      ],
+      "lastModified": "12.04.2022 09:16",
+      "author": "suedost",
+      "expand": false,
       "priorityValue": 101
     },
     {
