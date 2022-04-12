@@ -214,7 +214,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -227,35 +232,6 @@
       "lastModified": "13.10.2021 08:58",
       "author": "suedostbayernbahn",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "18b29fda-53fb-4e87-9a6d-7345e659de1e",
-      "headline": "Zugausfälle zwischen Merseburg und Querfurt",
-      "newsType": "Betriebsstörung",
-      "timePeriod": "in der Nacht vom 11. auf den 12. April ",
-      "introText": "<p>Aus&nbsp;betrieblichen&nbsp;Gr&uuml;nden&nbsp;m&uuml;ssen&nbsp;leider die Z&uuml;ge der RB-Linie 78 zwischen <strong>Merseburg&nbsp;</strong>und <strong>Querfurt&nbsp;</strong>ausfallen.</p>\n\n<p>Die Z&uuml;ge werden durch einen Busnotverkehr ersetzt. Bitte beachten Sie, dass die Busse nicht immer die Fahrzeiten der Z&uuml;ge halten k&ouml;nnen und die Haltestellen des Busnotverkehres nicht immer direkt an den jeweiligen Bahnh&ouml;fen liegen.</p>\n\n<p>&nbsp;</p>\n",
-      "connections": [],
-      "download": {
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:560b0ff8-ba73-4adb-8e63-c7df827639b9/BNV%20RB%2078_11+12042022.pdf",
-            "title": "BNV RB 78_11+12042022.pdf (PDF, 92 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "st"
-      ],
-      "lastModified": "08.04.2022 15:03",
-      "author": "suedost",
-      "expand": false,
       "priorityValue": 101
     },
     {
