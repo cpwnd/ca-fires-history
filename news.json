@@ -238,7 +238,12 @@
       "connections": [],
       "internal": {
         "linkDataList": [
-          null
+          {
+            "link": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+            "title": "Aktuelle Betriebslage",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "priority": "0",
@@ -543,7 +548,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "11.04.2022 11:00",
+      "lastModified": "13.04.2022 11:29",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
