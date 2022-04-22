@@ -1,34 +1,6 @@
 {
   "news": [
     {
-      "id": "5ca5e840-4165-4c49-823f-23a402f306ba",
-      "headline": "Bauarbeiten Saarbrücken-Burbach",
-      "newsType": "Bauarbeiten Saarbrücken Burbach. Verspätungen und Teilausfällen",
-      "timePeriod": "bis ca. 25. April 2022, 05:00 Uhr",
-      "introText": "<p>Bauarbeiten Saarbr&uuml;cken- Burbach beeintr&auml;chtigen den Bahnverkehr zwischen Merzig(Saar) und Saarbr&uuml;cken Hbf&nbsp;geplant bis Montag 25.04.22 05:00 Uhr. Der Halt Saarbr&uuml;cken Burbach entf&auml;llt&nbsp;</p>\n\n<p>In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen. Es kann zu Abweichungen bei den Abfahrtsgleisen kommen,&nbsp;bitte achten Sie auf die Anzeigen und Ansagen an den Bahnsteigen.</p>\n\n<p>Ersatzverkehr mit 4 Busse die im Pendel zwischen V&ouml;lklingen und Saarbr&uuml;cken (mit allen Unterwegsbahnh&ouml;fen) verkehren, die Firma Lay Reisen von 05:00 Uhr bis 00:00 Uhr.</p>\n\n<p>Alle Halte in Burbach Mitte und Saarbr&uuml;cken- Burbach der Linien RB 70 und 71 aus beiden Richtungen im Ausfall.&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffenen Linien: ",
-      "connections": [
-        "RE1 Koblenz - Trier - Saarbrücken - Kaiserslautern - Mannheim",
-        "RB70 Kaiserslautern - Homburg - Saarbrücken - Dillingen - Merzig ",
-        "RB71 Homburg - Saarbrücken - Dillingen - Merzig - Trier",
-        "RB82 Tier - Perl"
-      ],
-      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der St&ouml;rung auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "rp",
-        "sl"
-      ],
-      "lastModified": "22.04.2022 11:27",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 103
-    },
-    {
       "id": "cd2d253b-e0d1-49d6-9051-a78ec51db5f2",
       "headline": "Ausfall RB91 zwischen Frankfurt(Oder) und Rzepin",
       "newsType": "Betriebliche Gründe",
@@ -243,6 +215,31 @@
       "lastModified": "04.11.2021 10:10",
       "author": "nrw",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "5ca5e840-4165-4c49-823f-23a402f306ba",
+      "headline": "Haltausfall Saarbrücken-Burbach und Burbach Mitte, Beeinträchtigungen zwischen Saarbrücken und Völklingen",
+      "newsType": "Unregelmäßigkeiten bei Bauarbeiten",
+      "timePeriod": "bis vsl. 24.04.2022, Betriebsschluss",
+      "introText": "<p>Wegen Unregelm&auml;&szlig;igkeiten bei Bauarbeiten im Raum Burbach kommt es derzeit zu Beeintr&auml;chtigungen zwischen Saarbr&uuml;cken und V&ouml;lklingen.</p>\n\n<p>Z&uuml;ge <strong>halten nicht</strong> in <strong>Saarbr&uuml;cken-Burbach</strong> und <strong>BurbachMitte</strong>. In den Hauptverkehrszeiten kann es au&szlig;erdem zu Versp&auml;tungen und kurzfristigen Fahrtausf&auml;llen im weiteren Streckenverlauf kommen.</p>\n\n<p>Wir haben einen Ersatzverkehr mit Bussen zwischen Saarbr&uuml;cken Hbf und V&ouml;lklingen f&uuml;r Sie eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.</p>\n",
+      "connectionsHeadline": "Betroffenen Linien: ",
+      "connections": [
+        "RB70 Kaiserslautern - Homburg - Saarbrücken - Dillingen - Merzig ",
+        "RB71 Homburg - Saarbrücken - Dillingen - Merzig - Trier",
+        "RE1 Koblenz - Trier - Saarbrücken - Kaiserslautern - Mannheim"
+      ],
+      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sl"
+      ],
+      "lastModified": "22.04.2022 14:48",
+      "author": "mitte",
+      "expand": false,
       "priorityValue": 101
     },
     {
@@ -479,7 +476,7 @@
       "connections": [
         "RB 83: Crailsheim - Heilbronn Hbf"
       ],
-      "closingText": "<p><u>Sonntag, den 24. April</u></p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23424 von Schw&auml;bisch Hall - Hessental (ab 08:13 Uhr) nach &Ouml;hringen (an 08:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23441 von &Ouml;hringen (ab 09:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 09:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23426 von Schw&auml;bisch Hall - Hessental (ab 10:13 Uhr) nach &Ouml;hringen (an 10:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23443 von &Ouml;hringen (ab 11:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 11:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23428 von Schw&auml;bisch Hall - Hessental (ab 12:13 Uhr) nach &Ouml;hringen (an 12:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23445 von &Ouml;hringen (ab 13:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 13:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23430 von Schw&auml;bisch Hall - Hessental (ab 14:13 Uhr) nach &Ouml;hringen (an 14:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23447 von &Ouml;hringen (ab 15:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 15:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23432 von Schw&auml;bisch Hall - Hessental (ab 16:13 Uhr) nach &Ouml;hringen (an 16:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23439 von &Ouml;hringen (ab 17:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 17:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23434 von Schw&auml;bisch Hall - Hessental (ab 18:13 Uhr) nach &Ouml;hringen (an 18:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23451 von &Ouml;hringen (ab 19:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 19:31 Uhr)</p>\n\n<p><u>Montag, den 25. April</u></p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RE80 23408 von Crailsheim (ab 16:38 Uhr) nach Heilbronn (an 17:52 Uhr) Bus abweichend um 16:48 Uhr vsl. Bus Steig 7</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23434 von Schw&auml;bisch Hall - Hessental (ab 18:03 Uhr) nach Heilbronn (an 18:52 Uhr) Bus bis &Ouml;hringen Hbf.</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23433 von Heilbronn (ab 19:06 Uhr) nach Schw&auml;bisch Hall - Hessental (an 19:56 Uhr) Bus ab &Ouml;hringen Hbf.</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23436 von Schw&auml;bisch Hall - Hessental (ab 20:03 Uhr) nach &Ouml;hringen (an 20:32 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23435 von &Ouml;hringen (ab 21:25 Uhr) nach Schw&auml;bisch Hall - Hessental (an 21:55 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23438 von Schw&auml;bisch Hall - Hessental (ab 22:03 Uhr) nach &Ouml;hringen (an 22:32 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23437 von &Ouml;hringen (ab 23.58 Uhr) nach Schw&auml;bisch Hall - Hessental (an 00:28 Uhr)</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "closingText": "<p><u>Zugausf&auml;lle am Sonntag, den 24. April</u></p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23424 von Schw&auml;bisch Hall - Hessental (ab 08:13 Uhr) nach &Ouml;hringen (an 08:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23441 von &Ouml;hringen (ab 09:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 09:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23426 von Schw&auml;bisch Hall - Hessental (ab 10:13 Uhr) nach &Ouml;hringen (an 10:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23443 von &Ouml;hringen (ab 11:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 11:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23428 von Schw&auml;bisch Hall - Hessental (ab 12:13 Uhr) nach &Ouml;hringen (an 12:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23445 von &Ouml;hringen (ab 13:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 13:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23430 von Schw&auml;bisch Hall - Hessental (ab 14:13 Uhr) nach &Ouml;hringen (an 14:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23447 von &Ouml;hringen (ab 15:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 15:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23432 von Schw&auml;bisch Hall - Hessental (ab 16:13 Uhr) nach &Ouml;hringen (an 16:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23439 von &Ouml;hringen (ab 17:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 17:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23434 von Schw&auml;bisch Hall - Hessental (ab 18:13 Uhr) nach &Ouml;hringen (an 18:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23451 von &Ouml;hringen (ab 19:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 19:31 Uhr)</p>\n\n<p><u>Zugausf&auml;lle am Montag, den 25. April</u></p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RE80 23408 von Crailsheim (ab 16:38 Uhr) nach Heilbronn (an 17:52 Uhr) Bus abweichend um 16:48 Uhr vsl. Bus Steig 7</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23434 von Schw&auml;bisch Hall - Hessental (ab 18:03 Uhr) nach Heilbronn (an 18:52 Uhr) Bus bis &Ouml;hringen Hbf.</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23433 von Heilbronn (ab 19:06 Uhr) nach Schw&auml;bisch Hall - Hessental (an 19:56 Uhr) Bus ab &Ouml;hringen Hbf.</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23436 von Schw&auml;bisch Hall - Hessental (ab 20:03 Uhr) nach &Ouml;hringen (an 20:32 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23435 von &Ouml;hringen (ab 21:25 Uhr) nach Schw&auml;bisch Hall - Hessental (an 21:55 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23438 von Schw&auml;bisch Hall - Hessental (ab 22:03 Uhr) nach &Ouml;hringen (an 22:32 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23437 von &Ouml;hringen (ab 23.58 Uhr) nach Schw&auml;bisch Hall - Hessental (an 00:28 Uhr)</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -487,7 +484,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "22.04.2022 13:34",
+      "lastModified": "22.04.2022 14:55",
       "expand": false,
       "priorityValue": 101
     },
