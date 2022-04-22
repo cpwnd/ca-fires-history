@@ -343,6 +343,29 @@
       "priorityValue": 101
     },
     {
+      "id": "c072114f-cce0-447b-9b30-1926b229518d",
+      "headline": "Bahnverkehr der Kurhessenbahn zwischen Kassel Hbf und Bad Wildungen beeinträchtigt",
+      "newsType": "Kurzfristiger Personalausfall",
+      "timePeriod": "Freitag, den 22. April 2022",
+      "introText": "<p>Es kommt im Bahnverkehr der Kurhessenbahn zwischen Willingen und Brilon Stadt zu Teil- und Zugausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Linie:",
+      "connections": [
+        "RB39: Kassel Hbf - Kassel-Wilhelmshöhe - Wabern - Bad Wildungen"
+      ],
+      "closingText": "<p><strong><u>Es kommt zu folgenden&nbsp;</u></strong><strong><u>Einschr&auml;nkungen:</u></strong></p>\n\n<p>Einzelne Z&uuml;ge fallen zwischen&nbsp;Kassel Hbf und Bad Wildungen aus.</p>\n\n<p>Wir haben f&uuml;r die ausfallenden Fahrten einen <strong>Erstazverkehr </strong>mit Bussen der Firma B&ouml;rner Reisen f&uuml;r Sie eingerichtet. Die Busse halten nicht in Baunatal-Rengershausen. Bitte nutzen Sie hierf&uuml;r als Ersatz die Linie RT5.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "he"
+      ],
+      "lastModified": "22.04.2022 13:47",
+      "author": "hessen",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "d24232f2-9580-4093-a09b-db631572279b",
       "headline": "Bahnverkehr der Kurhessenbahn zwischen Willingen und Brilon Stadt beeinträchtigt",
       "newsType": "Kurzfristiger Personalausfall",
@@ -469,15 +492,15 @@
     },
     {
       "id": "0b455ec4-cdc5-4c9e-8a13-00adedaca07a",
-      "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn ",
+      "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn auf der Hohenlohebahn",
       "newsType": "Kurzfristiger Personalausfall",
       "timePeriod": "Ab Sonntag, 24. April bis Montag, 25. April",
-      "introText": "<p>F&uuml;r die ausfallenden Z&uuml;ge wird ein Schienenersatzverkehr mit Bus eingesetzt.&nbsp;Ab &Ouml;hringen Hbf weiter mit den Z&uuml;gen der AVG von/bis Heilbronn Hbf. Von SHA-Hessental nach/bis Crailsheim bitte die verbliebenden Z&uuml;ge der RE Linie 90 bzw. RB Linie 19 nutzen.</p>\n",
+      "introText": "<p>F&uuml;r die ausfallenden Z&uuml;ge wird ein Schienenersatzverkehr mit Bus eingesetzt.&nbsp;Bitte nutzen Sie ab &Ouml;hringen Hbf die Z&uuml;ge der AVG von/bis Heilbronn Hbf. Von Schw&auml;bisch Hall-Hessental nach/bis Crailsheim bitte die verbliebenden Z&uuml;ge der RE Linie 90 bzw. RB Linie 19 nutzen.</p>\n",
       "connectionsHeadline": "Hohenlohebahn:",
       "connections": [
-        "Crailsheim - Heilbronn Hbf"
+        "RB 83: Crailsheim - Heilbronn Hbf"
       ],
-      "closingText": "<p><u>Sonntag, den 24. April</u></p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23424 von Schw&auml;bisch Hall - Hessental (ab 08:13 Uhr) nach &Ouml;hringen (an 08:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23441 von &Ouml;hringen (ab 09:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 09:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23426 von Schw&auml;bisch Hall - Hessental (ab 10:13 Uhr) nach &Ouml;hringen (an 10:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23443 von &Ouml;hringen (ab 11:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 11:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23428 von Schw&auml;bisch Hall - Hessental (ab 12:13 Uhr) nach &Ouml;hringen (an 12:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23445 von &Ouml;hringen (ab 13:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 13:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23430 von Schw&auml;bisch Hall - Hessental (ab 14:13 Uhr) nach &Ouml;hringen (an 14:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23447 von &Ouml;hringen (ab 15:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 15:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23432 von Schw&auml;bisch Hall - Hessental (ab 16:13 Uhr) nach &Ouml;hringen (an 16:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23439 von &Ouml;hringen (ab 17:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 17:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23434 von Schw&auml;bisch Hall - Hessental (ab 18:13 Uhr) nach &Ouml;hringen (an 18:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23451 von &Ouml;hringen (ab 19:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 19:31 Uhr)</p>\n\n<p><u>Montag, den 25. April</u></p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RE80 23408 von Crailsheim (ab 16:38 Uhr) nach Heilbronn (an 17:52 Uhr) Bus abweichend um 16:48 Uhr vsl. Bus Steig 7</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23434 von Schw&auml;bisch Hall - Hessental (ab 18:03 Uhr) nach Heilbronn (an 18:52 Uhr) Bus bis &Ouml;hringen Hbf.</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23433 von Heilbronn (ab 19:06 Uhr) nach Schw&auml;bisch Hall - Hessental (an 19:56 Uhr) Bus ab &Ouml;hringen Hbf.</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23436 von Schw&auml;bisch Hall - Hessental (ab 20:03 Uhr) nach &Ouml;hringen (an 20:32 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23435 von &Ouml;hringen (ab 21:25 Uhr) nach Schw&auml;bisch Hall - Hessental (an 21:55 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23438 von Schw&auml;bisch Hall - Hessental (ab 22:03 Uhr) nach &Ouml;hringen (an 22:32 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23437 von &Ouml;hringen (ab 23.58 Uhr) nach Schw&auml;bisch Hall - Hessental (an 00:28 Uhr)</p>\n\n<p>itte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "closingText": "<p><u>Sonntag, den 24. April</u></p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23424 von Schw&auml;bisch Hall - Hessental (ab 08:13 Uhr) nach &Ouml;hringen (an 08:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23441 von &Ouml;hringen (ab 09:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 09:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23426 von Schw&auml;bisch Hall - Hessental (ab 10:13 Uhr) nach &Ouml;hringen (an 10:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23443 von &Ouml;hringen (ab 11:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 11:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23428 von Schw&auml;bisch Hall - Hessental (ab 12:13 Uhr) nach &Ouml;hringen (an 12:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23445 von &Ouml;hringen (ab 13:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 13:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23430 von Schw&auml;bisch Hall - Hessental (ab 14:13 Uhr) nach &Ouml;hringen (an 14:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23447 von &Ouml;hringen (ab 15:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 15:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23432 von Schw&auml;bisch Hall - Hessental (ab 16:13 Uhr) nach &Ouml;hringen (an 16:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23439 von &Ouml;hringen (ab 17:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 17:31 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23434 von Schw&auml;bisch Hall - Hessental (ab 18:13 Uhr) nach &Ouml;hringen (an 18:42 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23451 von &Ouml;hringen (ab 19:01 Uhr) nach Schw&auml;bisch Hall - Hessental (an 19:31 Uhr)</p>\n\n<p><u>Montag, den 25. April</u></p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RE80 23408 von Crailsheim (ab 16:38 Uhr) nach Heilbronn (an 17:52 Uhr) Bus abweichend um 16:48 Uhr vsl. Bus Steig 7</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23434 von Schw&auml;bisch Hall - Hessental (ab 18:03 Uhr) nach Heilbronn (an 18:52 Uhr) Bus bis &Ouml;hringen Hbf.</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23433 von Heilbronn (ab 19:06 Uhr) nach Schw&auml;bisch Hall - Hessental (an 19:56 Uhr) Bus ab &Ouml;hringen Hbf.</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23436 von Schw&auml;bisch Hall - Hessental (ab 20:03 Uhr) nach &Ouml;hringen (an 20:32 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23435 von &Ouml;hringen (ab 21:25 Uhr) nach Schw&auml;bisch Hall - Hessental (an 21:55 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23438 von Schw&auml;bisch Hall - Hessental (ab 22:03 Uhr) nach &Ouml;hringen (an 22:32 Uhr)</p>\n\n<p>&bull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RB83 23437 von &Ouml;hringen (ab 23.58 Uhr) nach Schw&auml;bisch Hall - Hessental (an 00:28 Uhr)</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -485,7 +508,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "22.04.2022 12:58",
+      "lastModified": "22.04.2022 13:34",
       "expand": false,
       "priorityValue": 101
     },
