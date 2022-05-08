@@ -1,6 +1,31 @@
 {
   "news": [
     {
+      "id": "e05afe9a-b637-4ff9-81a9-749c55ff40be",
+      "headline": "Beeinträchtigungen zwischen Köln und Siegburg/Bonn",
+      "newsType": "Streckensperrung",
+      "timePeriod": "Heute, 08.05.2022 bis in die frühen Vormittagsstunden",
+      "introText": "<p>Aufgrund einer&nbsp;Reparatur an einem Zug ist die Strecke zwischen K&ouml;ln und Siegburg/Bonn derzeit gesperrt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 90 Minuten. Die Halte Siegburg/Bonn, Montabaur und Limburg S&uuml;d m&uuml;ssen leider entfallen. Z&uuml;ge halten ersatzweise in Bonn Hbf oder Bonn-Beuel.</p>\n\n<p>Auch kommt es zu kurzfristigen Zugausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE auf der Schnellfahrstrecke Köln - Rhein/Main : Köln - Montabaur - Frankfurt(M)"
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "he",
+        "nw",
+        "rp"
+      ],
+      "lastModified": "08.05.2022 08:03",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 203
+    },
+    {
       "id": "819dc79c-dc18-49bf-852f-85c9f378b523",
       "headline": "Beeinträchtigungen zwischen Berlin Hbf und Berlin Gesundbrunnen",
       "newsType": "Reparatur an der Oberleitung",
