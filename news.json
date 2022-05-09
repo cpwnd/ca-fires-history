@@ -24,28 +24,6 @@
       "priorityValue": 201
     },
     {
-      "id": "a5ff052c-ce15-4596-97cb-fd59493ae6e2",
-      "headline": "Zugausfälle",
-      "newsType": "Bauarbeiten",
-      "timePeriod": "9. Mai 2022 bis voraus. 18 Uhr",
-      "connectionsHeadline": "RE5 Berlin - Wünsdorf-Waldstadt/Elsterwerda",
-      "connections": [
-        "RB43 Cottbus - Doberlug-Kirchhain - Falkenberg (Elster)-Herzberg(Elster)"
-      ],
-      "closingText": "<p>Wegen Bauarbeiten ist die Strecke der Linie RE5 zwischen W&uuml;nsdorf-Waldstadt und Baruth(Mark) gesperrt. Es besteht Busnotverkehr. Dauer der Sperrung bis voraussichtlich 18:00 Uhr.</p>\n\n<p>Ebenfalls ist die Strecke der Linie RB43 zwischen Falkenberg(Elster) und Herzberg(Elster) wegen Bauarbeiten gesperrt. Nutzen Sie bitte die Z&uuml;ge der Linie RE3. Dauer der Sperrung bis voraussichtlich 18:00 Uhr.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <strong><a href=\"tel:03312356881\" style=\"color:blue; text-decoration:underline\">0331 235-6881</a></strong> und&nbsp;<strong><a href=\"tel:03857502405\" style=\"color:blue; text-decoration:underline\">0385 750-2405</a>.</strong></p>\n\n<p>&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "09.05.2022 11:16",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "63ed50bb-c3cf-4e09-b3c4-21534e804e28",
       "headline": "Ausfall RB91 zwischen Frankfurt(Oder) und Rzepin",
       "newsType": "Betriebliche Gründe",
@@ -127,14 +105,14 @@
     },
     {
       "id": "29b5d487-f6ef-4f96-8434-008cbaa39a64",
-      "headline": "Beeinträchtigungen zwischen Lauda und Crailsheim",
-      "newsType": "Signalstörung",
+      "headline": "Beeinträchtigungen zwischen Lauda und Crailsheim bestehen nicht mehr",
+      "newsType": "Signalstörung ist behoben",
       "timePeriod": "seit heute Mittag, den 9. Mai 2022",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
         "RE 87/RB 88: Lauda - Bad Mergentheim - (Crailsheim)"
       ],
-      "closingText": "<p>Aufgrund der Reparatur an einem Signal auf der Strecke zwischen Bad Mergentheim und K&ouml;nigshofen(Baden) kommt es zu Versp&auml;tungen und Teilausf&auml;llen. Informationen zur Dauer der Beeintr&auml;chtigung liegen nicht vor. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert. Bitte pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "closingText": "<p>Die Reparatur an einem Signal auf der Strecke zwischen Bad Mergentheim und Lauda ist beendet. In K&uuml;rze fahren die Z&uuml;ge auf dem Streckenabschnitt wieder ohne Einschr&auml;nkungen. Bitte rechnen Sie mit Folgeversp&auml;tungen und ggf. Teilausf&auml;llen bis sich die Betrieblage wieder stabilisiert hat.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -143,7 +121,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "09.05.2022 16:28",
+      "lastModified": "09.05.2022 18:08",
       "expand": false,
       "priorityValue": 102
     },
@@ -218,7 +196,7 @@
       "id": "2a323a9a-15ec-4d79-88b9-7caa3bb919db",
       "headline": "Keine Zugfahrten zwischen Winden(Pfalz) und Bad Bergzabern",
       "newsType": "Reparatur an einem Zug",
-      "timePeriod": "bis mind. 09.05.2022",
+      "timePeriod": "bis zum 09.05.2022 ",
       "introText": "<p>Eine Reparatur an einem Zug zwischen Winden(Pfalz) und Bad Bergzabern beeintr&auml;chtigt den Bahnverkehr. Zur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.</p>\n\n<p>Wir haben f&uuml;r Sie einen Busnotverkehr zwischen Winden(Pfalz) und Bad Bergzabern eingerichtet, der alle Unterwegshalte anf&auml;hrt. Dauer der Beeintr&auml;chtigung bis Betriebsschluss.</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.</p>\n\n<p>Rechnen Sie auf jeden Fall mit l&auml;ngeren Reisezeiten.</p>\n",
       "connectionsHeadline": "RB54 Winden(Pfalz) - Bad Bergzabern",
       "connections": [],
@@ -230,7 +208,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "09.05.2022 16:56",
+      "lastModified": "09.05.2022 18:11",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
