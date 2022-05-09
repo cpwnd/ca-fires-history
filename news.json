@@ -28,9 +28,11 @@
       "headline": "Zugausfälle",
       "newsType": "Bauarbeiten",
       "timePeriod": "9. Mai 2022 bis voraus. 18 Uhr",
-      "connectionsHeadline": "RE5  Berlin - Wünsdorf-Waldstadt/Elsterwerda",
-      "connections": [],
-      "closingText": "<p>Wegen Bauarbeiten ist die Strecke der Linie RE5 zwischen W&uuml;nsdorf-Waldstadt und Baruth(Mark) gesperrt. Es besteht Busnotverkehr. Dauer der Sperrung bis voraussichtlich 18:00 Uhr.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <strong><a href=\"tel:03312356881\" style=\"color:blue; text-decoration:underline\">0331 235-6881</a></strong> und&nbsp;<strong><a href=\"tel:03857502405\" style=\"color:blue; text-decoration:underline\">0385 750-2405</a>.</strong></p>\n\n<p>&nbsp;</p>\n",
+      "connectionsHeadline": "RE5 Berlin - Wünsdorf-Waldstadt/Elsterwerda",
+      "connections": [
+        "RB43 Cottbus - Doberlug-Kirchhain - Falkenberg (Elster)-Herzberg(Elster)"
+      ],
+      "closingText": "<p>Wegen Bauarbeiten ist die Strecke der Linie RE5 zwischen W&uuml;nsdorf-Waldstadt und Baruth(Mark) gesperrt. Es besteht Busnotverkehr. Dauer der Sperrung bis voraussichtlich 18:00 Uhr.</p>\n\n<p>Ebenfalls ist die Strecke der Linie RB43 zwischen Falkenberg(Elster) und Herzberg(Elster) wegen Bauarbeiten gesperrt. Nutzen Sie bitte die Z&uuml;ge der Linie RE3. Dauer der Sperrung bis voraussichtlich 18:00 Uhr.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <strong><a href=\"tel:03312356881\" style=\"color:blue; text-decoration:underline\">0331 235-6881</a></strong> und&nbsp;<strong><a href=\"tel:03857502405\" style=\"color:blue; text-decoration:underline\">0385 750-2405</a>.</strong></p>\n\n<p>&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -39,7 +41,7 @@
         "be",
         "br"
       ],
-      "lastModified": "09.05.2022 10:10",
+      "lastModified": "09.05.2022 11:16",
       "expand": false,
       "priorityValue": 102
     },
