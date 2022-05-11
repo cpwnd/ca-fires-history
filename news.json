@@ -24,6 +24,33 @@
       "priorityValue": 201
     },
     {
+      "id": "b697de65-9794-4601-830e-6291de68d725",
+      "headline": "Sperrung City Tunnel Leipzig",
+      "newsType": "Bombenfund ",
+      "timePeriod": "ab 17:00 Uhr ",
+      "introText": "<p>Aufgrund eines Bombenfundes in Leipzig alte Messe</p>\n\n<p>ist der Bahnverkehr im Leipziger City Tunnel ab 17 Uhr gesperrt.</p>\n",
+      "connections": [
+        "S 1 Leipzig-Stötteritz - Leipzig Hbf (tief) - Leipzig Miltitzer Allee",
+        "S 2 Leipzig-Stötteritz - Leipzig Hbf (tief) - Bitterfeld - Dessau/Lutherstadt Wittenberg ",
+        "S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf (tief) - Wurzen",
+        "S 4 Markkleeberg-Gaschwitz - Leipzig Hbf (tief) - Torgau - Falkenberg - Hoyerswerda",
+        "S 5/S 5X Halle(Saale) Hbf - Leipzig/Halle Flughafen - Leipzig Hbf (tief) - Altenburg - Zwickau(Sachs) Hbf ",
+        "S 6 Leipzig Messe - Leipzig Hbf (tief) - Böhlen (Leipzig) - Borna - Geithain"
+      ],
+      "closingText": "<p>Die Linien verkehren wie folgt:<br />\n<br />\n-S1: Pendelverkehr zwischen Leipzig Hbf oben und Leipzig Miltitzer Allee<br />\nAusfall zwischen Leipzig Hbf(tief) und Leipzig-St&ouml;tteritz<br />\n<br />\n-S2: Fahrten ab und bis Leipzig Hbf oben<br />\nAusfall zwischen Leipzig Hbf(tief) undLeipzig-St&ouml;tteritz<br />\n<br />\n-S3: Fahrten zwischen Leipzig Hbf oben und Wurzen, Umleitung &uuml;ber Leipzig-Thekla<br />\nAusfall zwischen Leipzig Hbf(tief) und Halle</p>\n\n<p>-S4: Fahrten zwischen Leipzig Hbf oben und Torgau/Hoyerswerda<br />\nAusfall zwischen Leipzig Hbf(tief) und Markkleeberg-Gaschwitz</p>\n\n<p>-S5/S5X: Fahrten zwischen Leipzig Hbf oben und Altenburg/Zwickau(Sachs), Umleitung &uuml;ber Au&szlig;enstrecke<br />\nAusfall zwischen Leipzig Hbf(tief) und Halle(Saale) Hbf</p>\n\n<p>-S6: Fahrten zwischen Leipzig-Connewitz und Borna/Geithain<br />\nAusfall zwischen Leipzig-Connewitz und Leipzig Messe<br />\n<br />\nSobald uns n&auml;here Informationen vorliegen werden wir Sie an dieser Stelle informieren.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sn",
+        "st"
+      ],
+      "lastModified": "11.05.2022 16:17",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "5db6194c-0de5-4e75-b290-22b6bfd3cca4",
       "headline": "Schienenersatzverkehr zwischen Bad Langensalza und Leinefelde",
       "newsType": "Baumaßnahme an einer Straßenbrücke",
@@ -68,7 +95,7 @@
         "hh",
         "sh"
       ],
-      "lastModified": "11.05.2022 15:54",
+      "lastModified": "11.05.2022 16:00",
       "expand": false,
       "priorityValue": 102
     },
