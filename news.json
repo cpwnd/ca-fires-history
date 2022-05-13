@@ -8,13 +8,13 @@
       "introText": "<p>Aufgrund von einem Kabelbrand in Hamburg wird es aktuell zu Versp&auml;tungen und Zugausf&auml;llen kommen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE-Züge Kiel - Hamburg - Berlin - Süddeutschland fallen zwischen Hamburg-Altona und Hamburg Hbf aus.",
-        "ICE-Züge Kiel/Lübeck - Hamburg - Hannover - Nürnberg fallen auf dem Abschnitt nördlich von Hannover aus.",
-        "ICE-, IC/EC-Züge Hamburg - Berlin - Süddeutschland/Tschechien fallen auf dem Abschnitt Hamburg - Berlin aus. Die ICE Züge Hamburg - Berlin - Leipzig - München verkehren bis Hamburg-Bergedorf und fallen auf dem Abschnitt Hamburg-Altona - Hamburg-Bergedorf aus.",
-        "ICE-, IC/EC-Züge Hamburg - Bremen - NRW fallen auf dem Abschnitt Hamburg-Altona - Hamburg-Harburg aus. Einzelne IC-Züge fallen zwischen Hamburg und NRW komplett aus.",
+        "ICE-Züge Kiel/Hamburg - Hannover - Süddeutschland verkehren vereinzelt. ",
+        "ICE/IC-Züge Hamburg - Hannover - Fulda - Süddeutschland fallen auf der gesamten Strecke aus.",
+        "ICE-, IC/EC-Züge Hamburg - Berlin - Süddeutschland/Tschechien fallen auf dem Abschnitt Hamburg - Berlin aus. Die ICE Züge Hamburg - Berlin - Leipzig - München verkehren bis Hamburg-Bergedorf und fallen auf dem Abschnitt Hamburg-Altona - Berlin Hbf (tief) aus.",
+        "ICE-, IC/EC-Züge Hamburg - Bremen - NRW fallen auf dem Abschnitt Hamburg-Altona - Hamburg-Harburg aus. Einzelne IC-Züge fallen auf der gesamten Strecke aus.",
         "IC-Züge Hamburg - Flensburg - Dänemark fallen aus."
       ],
-      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p><strong>Nutzen Sie zwischen Hamburg-Altona und Hamburg Hbf die verkehrenden S-Bahnlinien S1 und S3.</strong></p>\n\n<p><strong>Zwischen Hamburg-Altona und Kiel verkehren die Z&uuml;ge des Nahverkehrs der Linie RE7.</strong></p>\n\n<p><strong>Zwischen Hamburg Hbf und Hamburg-Harburg nutzen Sie die verkehrenden S-Bahnlinie S1 sowie die Z&uuml;ge des metronom der Linie RB 31.</strong></p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p><strong>Nutzen Sie zwischen Hamburg-Altona und Hamburg Hbf die verkehrenden S-Bahnlinien S1 und S3.</strong></p>\n\n<p><strong>Zwischen Hamburg-Altona und Kiel verkehren die Z&uuml;ge des Nahverkehrs der Linie RE70.</strong></p>\n\n<p><strong>Zwischen Hamburg Hbf und Hamburg-Harburg nutzen Sie die verkehrenden S-Bahnlinie S1 sowie die Z&uuml;ge des metronom der Linie RB 31.</strong></p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -24,7 +24,7 @@
         "ni",
         "sh"
       ],
-      "lastModified": "13.05.2022 05:48",
+      "lastModified": "13.05.2022 07:00",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 303
@@ -71,6 +71,28 @@
       ],
       "lastModified": "13.05.2022 04:29",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "de2798cf-b4a1-4628-9657-f925b1b45cad",
+      "headline": "Ausfall RB91 zwischen Frankfurt(Oder) und Rzepin",
+      "newsType": "Betriebliche Gründe",
+      "timePeriod": "13. Mai 2022",
+      "connections": [
+        "RB91 Frankfurt(Oder) - Rzepin"
+      ],
+      "closingText": "<p>Aus betrieblichen Gr&uuml;nden fallen folgende Z&uuml;ge zwischen Rzepin und Frankfurt (Oder) aus:</p>\n\n<p><strong>RB 5830</strong> planm&auml;&szlig;ige Abfahrt ab Rzepin um 7:33 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5831&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 8:10 Uhr nach Rzepin</p>\n\n<p><strong>RB 5832&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 12:32 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5833&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 12:59 Uhr nach Rzepin</p>\n\n<p><strong>RB 5834&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 17:32 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5835&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) ab 18:14 Uhr nach Rzepin</p>\n\n<p>Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Rzepin und Frankfurt und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder pers&ouml;nlich unter <strong><a href=\"tel:03312356881\" style=\"color:blue; text-decoration:underline\">0331 235-6881</a></strong> und&nbsp;<strong><a href=\"tel:03857502405\" style=\"color:blue; text-decoration:underline\">0385 750-2405</a>.</strong></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "13.05.2022 04:18",
+      "author": "nordost",
+      "expand": false,
       "priorityValue": 102
     },
     {
@@ -131,7 +153,7 @@
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "RE 7 (Kiel Hbf - Hamburg Hbf):  Die Züge enden/beginnen in Neumünster.",
-        "RE 8 (Lübeck Hbf - Hamburg Hbf): Die Züge enden/beginnen in Neumünster"
+        "RE 70 (Kiel Hbf - Hamburg Hbf): Die Züge werden über Hamburg-Altona umgeleitet. "
       ],
       "closingText": "<p>Alternative Reisem&ouml;glichkeiten:&nbsp;</p>\n\n<p><strong>Nutzen Sie zwischen Hamburg-Altona und Hamburg Hbf die noch verkehrenden S-Bahnlinien S1 und S3.</strong></p>\n\n<p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>Bitte informieren Sie sich&nbsp;weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im<a href=\"https://reiseauskunft.bahn.de/\" target=\"_blank\">&nbsp;DB Navigator</a>&nbsp;oder beim regionalen Kundendialog unter:</p>\n\n<p><a href=\"tel:043153440500\">+4943153440500</a>.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen auf&nbsp;<a href=\"https://twitter.com/dbregio_NDS\" style=\"color:blue; text-decoration:underline\">Twitter</a><a href=\"http://www.twitter.com\" target=\"_blank\">.</a></p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
@@ -141,7 +163,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "13.05.2022 05:36",
+      "lastModified": "13.05.2022 06:17",
       "expand": false,
       "priorityValue": 101
     },
@@ -188,11 +210,10 @@
       "headline": "Beeinträchtigungen zwischen Meckesheim und Aglasterhausen",
       "newsType": "Reparatur an einem Signal",
       "timePeriod": "bis voraussichtlich 13.05.2022",
-      "introText": "<p>Aufgrund einer Reparatur an einem Signal in Waibstadt, kommt es aktuell zu Versp&auml;tungen und Haltausf&auml;llen zwischen Meckesheim und Aglasterhausen.</p>\n\n<p>Zur Entlastung Pendelt 1 Bus der Firma Laier zwischen Waibstadt und Aglasterhausen bis Betriebsschluss.</p>\n\n<p>Am 13.05.22 Pendelt 1 Bus ab ca. 04:55 Uhr der Firma Wagner zwischen Waibstadt und Aglasterhausen.</p>\n",
+      "introText": "<p>Aufgrund einer Reparatur an einem Signal in Waibstadt, kommt es aktuell zu Versp&auml;tungen und Haltausf&auml;llen zwischen Meckesheim und Aglasterhausen.</p>\n\n<p>Ersatzverkehr mit einem Bus der Firma Wagner zwischen Waibstadt und Aglasterhausen eingerichtet.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
-        "S51 Aglasterhausen - Heidelberg - Mannheim",
-        "S5 Eppingen - Heidelberg"
+        "S51 Aglasterhausen - Heidelberg - Mannheim"
       ],
       "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der St&ouml;rung auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio AG, Region Mitte&nbsp;</p>\n",
       "priority": "0",
@@ -202,7 +223,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "12.05.2022 19:59",
+      "lastModified": "13.05.2022 05:56",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
