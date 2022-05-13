@@ -30,6 +30,30 @@
       "priorityValue": 303
     },
     {
+      "id": "7c204aab-ce35-4879-804b-9dd4d7466c7f",
+      "headline": "Beeinträchtigungen zwischen Frankfurt(Main) und Mannheim",
+      "newsType": "Stellwerk nicht besetzt",
+      "timePeriod": "Am heutigen Freitag, 13. Mai 2022 bis in die frühen Abendstunden",
+      "introText": "<p>Aufgrund eines kurzfristigen Personalausfalls ist die Strecke zwischen Frankfurt(Main)Hbf bzw. Flughafen und Mannheim derzeit gesperrt.</p>\n\n<p>Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 30 Minuten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE-, TGV- und IC-Züge, die zwischen Frankfurt(Main)Hbf bzw. Flughafen und Mannheim verkehren."
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "he"
+      ],
+      "lastModified": "13.05.2022 13:15",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
+    },
+    {
       "id": "c100bd8e-6a5e-4da0-a700-22ce79b21ba8",
       "headline": "Kabelbrand Hamburg: Starke Beeinträchtigung im Nahverkehr erwartet",
       "newsType": "Streckensperrung",
@@ -48,7 +72,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "13.05.2022 12:39",
+      "lastModified": "13.05.2022 13:09",
       "expand": false,
       "priorityValue": 201
     },
@@ -136,6 +160,33 @@
       "lastModified": "21.03.2022 18:12",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "25a57c20-a335-4fe4-9604-e86a361bbbb7",
+      "headline": "Ausfälle auf der RB 55",
+      "newsType": "Personalausfall ",
+      "timePeriod": "14. und 15 Mai 2022",
+      "introText": "<p>Wegen einer kurzfristigen Krankmeldung von Personalen fallen alle Z&uuml;ge auf der RB 55 aus:</p>\n\n<p>Es ist ein Busnotverkehr zwischen Kremmen, Velten und Hennigsdorf (b.Berlin) eingerichtet.&nbsp;</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;.</p>\n",
+      "connections": [
+        "RB55 Kremmen - Hennigsdorf (b Berlin)"
+      ],
+      "download": {
+        "linkDataList": [
+          null
+        ]
+      },
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "13.05.2022 13:16",
+      "author": "nordost",
+      "expand": false,
       "priorityValue": 102
     },
     {
