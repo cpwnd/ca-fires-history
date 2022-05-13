@@ -4,12 +4,12 @@
       "id": "c557f773-1071-4dbe-b9ad-34a39a792132",
       "headline": "Kabelbrand Hamburg: Starke Beeinträchtigung im Fernverkehr",
       "newsType": "Streckensperrung",
-      "timePeriod": "Am Freitag, 13.05.2022 ",
+      "timePeriod": "Am Freitag, 13.05.2022, und Samstag, 14.05.2022 ",
       "introText": "<p>Aufgrund eines Kabelbrandes in Hamburg kommt es aktuell zu starken Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "ICE-Züge Kiel/Hamburg - Hannover - Frankfurt/M - Stuttgart/Schweiz verspäten sich im Raum Hamburg um etwa 30 Minuten.",
-        "ICE-Züge Kiel/Lübeck - Hamburg - Hannover - Kassel-Wilhelmshöhe - Süddeutschland fallen zwischen Norddeutschland und Hannover Hbf aus.",
+        "ICE-Züge Kiel/Lübeck - Hamburg - Hannover - Kassel-Wilhelmshöhe - Süddeutschland fallen zwischen Norddeutschland und Hannover Hbf aus. Einzelne Züge verkehren ab/bis Hamburg Hbf.",
         "ICE-Züge Hamburg - Berlin - Erfurt - München verkehren zwischen Hamburg und Berlin nur zweistündlich und verspäten sich im Raum Hamburg um etwa 30 Minuten.",
         "ICE-/IC-/EC-Züge Hamburg - Bremen - Köln - Süddeutschland verspäten sich im Raum Hamburg um etwa 30 Minuten oder beginnen/enden in Hamburg-Harburg statt Hamburg-Altona.",
         "IC-Züge Hamburg - Dänemark beginnen/enden in Hamburg-Altona.",
@@ -25,7 +25,7 @@
         "ni",
         "sh"
       ],
-      "lastModified": "13.05.2022 13:24",
+      "lastModified": "13.05.2022 20:05",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 303
@@ -176,7 +176,12 @@
       ],
       "download": {
         "linkDataList": [
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:654a6329-94ea-4a57-8cca-0e531726ed15/Busnotverkehr%20Hennigsdorf%20-%20Kremmen%20(RB55)%2014.-15.05.22.pdf",
+            "title": "Busnotverkehr Hennigsdorf - Kremmen (RB55) 14.-15.05.22.pdf (PDF, 108 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
         ]
       },
       "priority": "0",
@@ -187,7 +192,7 @@
         "be",
         "br"
       ],
-      "lastModified": "13.05.2022 18:08",
+      "lastModified": "13.05.2022 20:09",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -265,6 +270,37 @@
       "priorityValue": 101
     },
     {
+      "id": "73896d47-de22-46dd-83f1-511a758a3bda",
+      "headline": "RE1, RE4 und RB17 ",
+      "newsType": "kurzfristige Krankmeldungen ",
+      "timePeriod": "14.Mai - 15. Mai 2022",
+      "introText": "<p>Am 14.und 15. Mai&nbsp; 2022 fallen auf den Linien RE1, RE4 und RB17 folgende Z&uuml;ge aus.&nbsp;</p>\n\n<p><strong>RE1 zwischen Hamburg - B&uuml;chen</strong></p>\n\n<p><strong>Am 14. und 15. Mai&nbsp;</strong>&nbsp;fallen auf der RE1 zwischen Hamburg und B&uuml;chen zwei Z&uuml;ge pro Tag aus. Dies betrifft:</p>\n\n<p>- RE13021 - Abfahrt 17:21 Uhr in Hamburg Hbf<br />\n- RE13020 - Abfahrt 18:11 Uhr in B&uuml;chen</p>\n\n<p>Benutzen Sie bitte nachfolgende Z&uuml;ge.<br />\n&nbsp;</p>\n\n<p><strong>RE4&nbsp;zwischen Pasewalk - Ueckerm&uuml;nde</strong></p>\n\n<ul>\n\t<li><strong>Am 15. Mai</strong>&nbsp;</li>\n\t<li>fallen auf dem Streckenabschnitt zwischen Pasewalk und Ueckerm&uuml;nde einige Z&uuml;ge aus</li>\n\t<li>Ein Schienenersatzverkehr wird zwischen Pasewalk und Ueckerm&uuml;nde eingerichtet.</li>\n\t<li>Den Fahrplan f&uuml;r den Ersatzverkehr finden Sie unten.&nbsp;&nbsp;</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>RB17 zwischen Wismar - Ludwigslust</strong></p>\n\n<ul>\n\t<li><strong>Am 15. Mai </strong>fallen folgende Z&uuml;ge aus:</li>\n\t<li>RB 13150 Schwerin (ab 5:39 Uhr) nach Wismar</li>\n\t<li>RB 13153&nbsp; Wismar (ab 6:24 Uhr) nach Ludwigslust</li>\n\t<li>RB13159 Wismar (ab10:24 Uhr) nach Ludwigslust</li>\n\t<li>RB 13163 Wismar (ab 14:24 Uhr) nach Schwerin</li>\n\t<li>RB 13158 Ludwigslust (ab 8:25 Uhr) nach Wismar</li>\n\t<li>RB 13162 Ludwigslust (ab 12:25 Uhr) nach Wismar</li>\n\t<li>Nutzen Sie jeweils die Folgez&uuml;ge</li>\n</ul>\n",
+      "connections": [],
+      "download": {
+        "text": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:f262f358-714a-4d91-8520-5b343190e175/Busnotverkehr%20RE4%20Pasewalk-Ueckerm%C3%BCnde.pdf",
+            "title": "Busnotverkehr RE4 Pasewalk-Ueckermünde.pdf (PDF, 71 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<ul>\n</ul>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "mv"
+      ],
+      "lastModified": "13.05.2022 20:27",
+      "author": "nordost",
+      "expand": true,
+      "priorityValue": 101
+    },
+    {
       "id": "60694f33-ab64-4359-af16-936134704995",
       "headline": "Zugausfälle auf der Linie RE5",
       "newsType": "krankheitsbedingte Mitarbeiterausfälle",
@@ -273,7 +309,12 @@
       "connections": [],
       "download": {
         "linkDataList": [
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:fef4a690-0646-44f7-8ac7-ab776294374e/Busnotverkehr%20RE5%20Neustrelitz-Neubrandenburg.pdf",
+            "title": "Busnotverkehr RE5 Neustrelitz-Neubrandenburg.pdf (PDF, 64 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
         ]
       },
       "closingText": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n",
@@ -284,7 +325,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "13.05.2022 18:31",
+      "lastModified": "13.05.2022 20:02",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
@@ -432,7 +473,7 @@
           }
         ]
       },
-      "closingText": "<p>Bitte informieren Sie sich regelm&auml;&szlig;ig vor Abfahrt auch in der&nbsp;<strong><a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a> oder <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a> App&nbsp;</strong>&uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p><strong>Verkehrsmeldungen 24/7</strong> finden Sie auch auf unseren <strong>Twitter-Kan&auml;len</strong>:&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagent_M\" target=\"_blank\">Streckenagent S-Bahn M&uuml;nchen</a></p>\n\n<p><a href=\"https://twitter.com/streckenagent_N\" target=\"_blank\">Streckenagent S-Bahn N&uuml;rnberg</a>&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagentAS\" target=\"_blank\">Streckenagent Allg&auml;u-Schwaben</a></p>\n\n<p><a href=\"https://twitter.com/streckenagentOB\" target=\"_blank\">Streckenagent Oberbayern</a></p>\n\n<p><a href=\"https://twitter.com/streckenagentFR\" target=\"_blank\">Streckenagent Franken</a>&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagentNB\" target=\"_blank\">Streckenagent Nordostbayern</a>&nbsp;</p>\n",
+      "closingText": "<p>Bitte informieren Sie sich regelm&auml;&szlig;ig vor Abfahrt auch in der&nbsp;<strong><a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a> oder <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a> App&nbsp;</strong>&uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p><strong>Verkehrsmeldungen 24/7</strong> finden Sie auch auf unseren <strong>Twitter-Kan&auml;len</strong>:&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagent_N\" target=\"_blank\">Streckenagent S-Bahn N&uuml;rnberg</a>&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagentAS\" target=\"_blank\">Streckenagent Allg&auml;u-Schwaben</a></p>\n\n<p><a href=\"https://twitter.com/streckenagentOB\" target=\"_blank\">Streckenagent Oberbayern</a></p>\n\n<p><a href=\"https://twitter.com/streckenagentFR\" target=\"_blank\">Streckenagent Franken</a>&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagentNB\" target=\"_blank\">Streckenagent Nordostbayern</a>&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -440,9 +481,9 @@
       "areas": [
         "by"
       ],
-      "lastModified": "13.05.2022 15:58",
+      "lastModified": "13.05.2022 20:15",
       "author": "bayern",
-      "expand": false,
+      "expand": true,
       "priorityValue": 101
     },
     {
