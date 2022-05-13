@@ -131,7 +131,7 @@
       "connections": [
         "RE3 Berlin Südkreuz - Prenzlau"
       ],
-      "closingText": "<p>Aus betrieblichen Gr&uuml;nden fallen folgende Ausflugsz&uuml;ge aus.</p>\n\n<p>RE18494 Berlin-S&uuml;dkreuz (ab 10:09 Uhr) nach Prenzlau<br />\nRE18495 Prenzlau (ab 15:34 Uhr) nach Berlin-S&uuml;dkreuz<br />\n<br />\nBitte nutzen Sie alternativ die Z&uuml;ge der RE Linie 3.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Streckenagent und im DB Navigator.&nbsp;</p>\n",
+      "closingText": "<p>Aus betrieblichen Gr&uuml;nden fallen folgende Ausflugsz&uuml;ge aus.</p>\n\n<p><strong>Am 14.Mai und 15.Mai</strong></p>\n\n<p>RE18494 Berlin-S&uuml;dkreuz (ab 10:09 Uhr) nach Prenzlau<br />\nRE18495 Prenzlau (ab 15:34 Uhr) nach Berlin-S&uuml;dkreuz</p>\n\n<p><strong>Am 15.Mai&nbsp;</strong></p>\n\n<p>RE18492 Berlin-S&uuml;dkreuz (ab 10:01 Uhr) nach Neustrelitz</p>\n\n<p>RE18495 Neustrelitz (ab 16:19 Uhr) nach Berlin-S&uuml;dkreuz<br />\n<br />\nBitte nutzen Sie alternativ die Z&uuml;ge der Linie RE3.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Streckenagent und im DB Navigator.&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -140,7 +140,7 @@
         "be",
         "br"
       ],
-      "lastModified": "13.05.2022 15:00",
+      "lastModified": "13.05.2022 18:17",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -198,12 +198,7 @@
       ],
       "download": {
         "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:290bc73b-75af-4be9-8cd3-49601b96b972/20220513%20BNV%20BHND-BKRM%20(RB55)%2014.-15.05.22.pdf",
-            "title": "Busnotverkehr RB55 14. und 15.Mai 2022 (PDF, 110 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
+          null
         ]
       },
       "priority": "0",
@@ -214,7 +209,7 @@
         "be",
         "br"
       ],
-      "lastModified": "13.05.2022 16:28",
+      "lastModified": "13.05.2022 18:08",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -298,6 +293,11 @@
       "timePeriod": "vom 14. und 15. Mai 2022",
       "introText": "<p>Wegen kurzfristiger Krankmeldung fallen einige Z&uuml;ge der Linie RE5 zwischen Neustrelitz Hbf und Neubrandenburg am 14. und 15. Mai aus.</p>\n\n<p>Nutzen Sie als Ersatz die durchgehenden Z&uuml;ge der RE5 aus und nach Berlin.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator</a>.&nbsp;</p>\n",
       "connections": [],
+      "download": {
+        "linkDataList": [
+          null
+        ]
+      },
       "closingText": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>\n",
       "priority": "0",
       "distance": [
@@ -306,7 +306,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "13.05.2022 15:19",
+      "lastModified": "13.05.2022 18:31",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
