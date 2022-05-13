@@ -224,7 +224,7 @@
       "headline": "Vorübergehend verändertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "ab Montag, 16. Mai bis voraussichtlich Freitag, 20. Mai 2022",
-      "introText": "<p>F&uuml;r die Zugausf&auml;lle planen wir einen Schienenersatzverkehr mit Bus. Wir warten hier noch auf R&uuml;ckmeldung unserer Partner.</p>\n\n<p>Bitte informieren Sie sich tagesaktuell in den Online-Reiseausk&uuml;nften oder &uuml;ber die App <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB-Streckenagent</a>.</p>\n",
+      "introText": "<p>F&uuml;r die Zugausf&auml;lle haben wir einen Schienenersatzverkehr mit Bus eingerichtet.</p>\n\n<p>Bitte informieren Sie sich tagesaktuell in den Online-Reiseausk&uuml;nften oder &uuml;ber die App <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB-Streckenagent</a>.</p>\n",
       "connectionsHeadline": "Die Fahrpläne zum reduzierten Fahrplanangebot finden Sie hier:",
       "connections": [],
       "download": {
@@ -258,7 +258,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "13.05.2022 14:57",
+      "lastModified": "13.05.2022 16:23",
       "expand": false,
       "priorityValue": 102
     },
@@ -408,6 +408,36 @@
       "priorityValue": 101
     },
     {
+      "id": "d66d444e-3f60-4842-ab48-c936f19f07a2",
+      "headline": "Meldungen der S-Bahn München",
+      "newsType": "Störungen",
+      "timePeriod": "unbefristet",
+      "introText": "<p>Meldungen &uuml;ber die&nbsp;<strong>aktuelle Betriebslage der S-Bahn M&uuml;nchen</strong>&nbsp;finden Sie auf folgender Seite:</p>\n",
+      "connections": [],
+      "internal": {
+        "linkDataList": [
+          {
+            "link": "https://www.s-bahn-muenchen.de/fahren/betriebslage",
+            "title": "Meldungen der S-Bahn München",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>Bitte informieren Sie sich auch regelm&auml;&szlig;ig vor Abfahrt im <strong><a href=\"https://www.s-bahn-muenchen.de/app\">M&uuml;nchen Navigator</a></strong> &uuml;ber Ihre Verbindung.</p>\n\n<p>Infos zu unserer Betriebslage finden Sie auch auf <strong>Twitter</strong>:</p>\n\n<p><a href=\"https://twitter.com/streckenagent_M\" target=\"_blank\">S-Bahn M&uuml;nchen</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "by"
+      ],
+      "lastModified": "13.05.2022 15:58",
+      "author": "s_bahn_muenchen",
+      "expand": true,
+      "priorityValue": 101
+    },
+    {
       "id": "0b3fbf14-d456-4c39-ba7a-41fa7b5ca467",
       "headline": "Meldungen der DB Regio Bayern",
       "newsType": "Störungen",
@@ -421,12 +451,6 @@
             "title": "Meldungen der DB Regio Bayern",
             "info": "",
             "openInNewTab": true
-          },
-          {
-            "link": "https://www.s-bahn-muenchen.de/fahren/betriebslage",
-            "title": "Meldungen der S-Bahn München",
-            "info": "",
-            "openInNewTab": true
           }
         ]
       },
@@ -438,7 +462,7 @@
       "areas": [
         "by"
       ],
-      "lastModified": "10.05.2022 10:28",
+      "lastModified": "13.05.2022 15:58",
       "author": "bayern",
       "expand": false,
       "priorityValue": 101
