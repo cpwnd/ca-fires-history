@@ -85,7 +85,7 @@
       "introText": "<p>Aufgrund eines Kabelbrands in Hamburg wird es aktuell zu Versp&auml;tungen und Zugausf&auml;llen kommen.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
-        "RE 7 (Kiel Hbf - Hamburg Hbf):  Die Züge enden/beginnen in Neumünster. Die Züge ab dem RE7 21075 & 21074 enden/beginnen in Hamburg-Altona.",
+        "RE 7 (Kiel Hbf - Hamburg Hbf):  Die Züge enden/beginnen abweichend in Hamburg-Altona.",
         "RE 70 (Kiel Hbf - Hamburg Hbf): Die Züge enden/beginnen in Hamburg-Altona. Die Halte Hamburg Dammtor und Hamburg Hbf entfallen."
       ],
       "closingText": "<p>Alternative Reisem&ouml;glichkeiten:&nbsp;</p>\n\n<p><strong>Nutzen Sie zwischen Hamburg-Altona und Hamburg Hbf die noch verkehrenden S-Bahnlinien S1 und S3.</strong></p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der <a href=\"https://bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a> oder beim regionalen Kundendialog unter <a href=\"tel:0431 53440500 \">0431 53440500</a></p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf <a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
@@ -96,7 +96,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "13.05.2022 16:58",
+      "lastModified": "13.05.2022 18:55",
       "expand": false,
       "priorityValue": 201
     },
@@ -141,28 +141,6 @@
         "br"
       ],
       "lastModified": "13.05.2022 18:17",
-      "author": "nordost",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
-      "id": "de2798cf-b4a1-4628-9657-f925b1b45cad",
-      "headline": "Ausfall RB91 zwischen Frankfurt(Oder) und Rzepin",
-      "newsType": "Betriebliche Gründe",
-      "timePeriod": "13. Mai 2022",
-      "connections": [
-        "RB91 Frankfurt(Oder) - Rzepin"
-      ],
-      "closingText": "<p>Aus betrieblichen Gr&uuml;nden fallen folgende Z&uuml;ge zwischen Rzepin und Frankfurt (Oder) aus:</p>\n\n<p><strong>RB 5830</strong> planm&auml;&szlig;ige Abfahrt ab Rzepin um 7:33 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5831&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 8:10 Uhr nach Rzepin</p>\n\n<p><strong>RB 5832&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 12:32 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5833&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 12:59 Uhr nach Rzepin</p>\n\n<p><strong>RB 5834&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 17:32 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5835&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) ab 18:14 Uhr nach Rzepin</p>\n\n<p>Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Rzepin und Frankfurt und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "13.05.2022 13:22",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
