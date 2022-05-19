@@ -1,6 +1,41 @@
 {
   "news": [
     {
+      "id": "564cc82c-44eb-4fa0-9947-62a8e31f68d9",
+      "headline": "Unwetter naht: Beeinträchtigungen im Bahnverkehr möglich",
+      "newsType": "Unwetter",
+      "timePeriod": "heute, den 19.05.22 bis vsl. Samstag, den 21.05.22",
+      "introText": "<p>Der Deutsche Wetterdienst hat eine erh&ouml;hte Unwettergefahr f&uuml;r mehrere Regionen in Deutschland angek&uuml;ndigt. <a href=\"https://www.dwd.de/DE/wetter/warnungen_aktuell/warnlagebericht/warnlagebericht_node.html\" target=\"_blank\">Weitere Informationen finden Sie hier.</a></p>\n\n<p>Auswirkungen auf den Regional- und Fernverkehr der Deutschen Bahn, auch &uuml;ber die betroffenen Regionen hinaus, sind nicht ausgeschlossen.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n\n<p>&nbsp;</p>\n",
+      "connections": [],
+      "priority": "2",
+      "distance": [
+        "regional",
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
+      ],
+      "lastModified": "19.05.2022 12:35",
+      "author": "fernverkehr_ag",
+      "expand": true,
+      "priorityValue": 316
+    },
+    {
       "id": "6736988d-ef7c-48a5-aaee-95a0ab942d6d",
       "headline": "Beeinträchtigungen zwischen Köln und Wuppertal",
       "newsType": "Reparatur an der Strecke",
