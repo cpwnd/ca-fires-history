@@ -5,7 +5,7 @@
       "headline": "Unwetter: Beeinträchtigungen im Bahnverkehr möglich",
       "newsType": "Unwetter",
       "timePeriod": "Von Freitag, den 19.05.22 bis vsl. Samstag, den 21.05.22",
-      "introText": "<p><a href=\"http://www.dwd.de/DE/wetter/warnungen_aktuell/warnlagebericht/warnlagebericht_node.html\" target=\"_blank\">Unwetterwarnung</a> des Deutschen Wetterdienstes: Es kann zu Versp&auml;tungen und Zugausf&auml;llen kommen.</p>\n",
+      "introText": "<p>&nbsp;</p>\n\n<p><a href=\"http://www.dwd.de/DE/wetter/warnungen_aktuell/warnlagebericht/warnlagebericht_node.html\" target=\"_blank\">Unwetterwarnung</a> des Deutschen Wetterdienstes: Es kann zu Versp&auml;tungen und Zugausf&auml;llen kommen.</p>\n",
       "connections": [],
       "closingText": "<p>&nbsp;</p>\n\n<p><strong>G&uuml;ltigkeit der Tickets</strong></p>\n\n<p>Alle&nbsp;Fahrg&auml;ste, die ihre f&uuml;r den 20.05.2022&nbsp;geplante Reise aufgrund des Unwetters &quot;Emmelinde&quot; verschieben m&ouml;chten, k&ouml;nnen ihr bereits gebuchtes Ticket f&uuml;r den Fernverkehr ab sofort bis einschlie&szlig;lich 7 Tage nach St&ouml;rungsende flexibel nutzen. Sitzplatzreservierungen k&ouml;nnen kostenfrei umgetauscht werden.</p>\n\n<p>Zudem gelten bei Versp&auml;tung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter&nbsp;<a href=\"http://bahn.de/fahrgastrechte\" rel=\"nofollow\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Wir haben alle Informationen zu Reisen w&auml;hrend des Unwetters &quot;Emmelinde&quot;&nbsp;<a href=\"https://www.bahn.de/sonderkulanz\" rel=\"nofollow\" target=\"_blank\" title=\"https://www.bahn.de/sonderkulanz\">hier&nbsp;</a>nochmals ausf&uuml;hrlich f&uuml;r Sie zusammengestellt.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
@@ -31,7 +31,7 @@
         "sh",
         "th"
       ],
-      "lastModified": "20.05.2022 05:08",
+      "lastModified": "20.05.2022 05:44",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 316
@@ -103,6 +103,27 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
+    },
+    {
+      "id": "04c6c5b6-1e58-4e71-bf7e-7a4710819f16",
+      "headline": "Ausfall der Züge der RB93 zwischen  Zagan bzw. Tuplice und Forst(Lausitz) ",
+      "newsType": "Betriebliche Gründe",
+      "timePeriod": "20. Mai 2022",
+      "connections": [
+        "RB93  Zagan - Forst(Lausitz)"
+      ],
+      "closingText": "<p>Aus betrieblichen Gr&uuml;nden&nbsp;fallen folgende Z&uuml;ge zwischen Zagan bzw. Tuplice und Forst(Lausitz) aus:</p>\n\n<p><strong>RB5840 </strong>planm&auml;&szlig;ige Abfahrt&nbsp; &nbsp;6:04 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5841&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp; &nbsp;6:58 Uhr ab&nbsp;Forst(Lausitz) nach Zagan</p>\n\n<p><strong>RB5848&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp; &nbsp;8:52 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5849&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp; &nbsp;9:50 Uhr ab&nbsp;Forst(Lausitz) nach Zagan</p>\n\n<p>Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Forst (Lausitz) und Zagan und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Streckenagent</a>&nbsp;oder im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator</a>.&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "20.05.2022 05:39",
+      "expand": true,
+      "priorityValue": 102
     },
     {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
