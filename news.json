@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "id": "888a5d21-8cd6-479a-b835-249cc63d9901",
+      "headline": "Beeinträchtigungen zwischen Frankfurt(Main) und Mannheim",
+      "newsType": "Bauarbeiten",
+      "timePeriod": "Am Montag, 23.05.2022 ganztägig",
+      "introText": "<p>Aufgrund von Bauarbeiten zwischen Frankfurt(Main) und Mannheim kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa&nbsp; 25 Minuten.</p>\n\n<p>Bei einigen Z&uuml;gen entf&auml;llt der Halt in Mannheim Hbf. Ersatzweise halten die Z&uuml;ge in Heidelberg Hbf.</p>\n\n<p>Aufgrund er zu erwartenden Versp&auml;tung kann der Halt in Frankurt(M) bei einzelnen Z&uuml;gen entfallen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE- und TGV Züge auf dem Abschnitt Frankfurt(M) Hbf bzw. Frankfurt(M) Flughafen und Mannheim"
+      ],
+      "closingText": "<p><strong>Reisealternative:</strong></p>\n\n<p><strong>Zwischen Heidelberg Hbf und Mannheim Hbf nutzen Sie bitte den Regional- sowie S-Bahnverkehr.</strong></p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "he"
+      ],
+      "lastModified": "23.05.2022 05:18",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
+    },
+    {
       "id": "8c9c8d37-8207-4250-93be-2f399a581652",
       "headline": "Unwetterauswirkungen im Regionalverkehr in Niedersachsen und Bremen behoben ",
       "newsType": "Unwetterauswirkungen behoben",
@@ -80,6 +104,28 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 116
+    },
+    {
+      "id": "cd2d253b-e0d1-49d6-9051-a78ec51db5f2",
+      "headline": "Ausfall RB91 zwischen Frankfurt(Oder) und Rzepin",
+      "newsType": "Fahrzeugstörung",
+      "timePeriod": "23. Mai 2022",
+      "connections": [
+        "RB91 Frankfurt(Oder) - Rzepin"
+      ],
+      "closingText": "<p>Wegen einer Reparatur am Triebfahrzeug fallen folgende Z&uuml;ge zwischen Rzepin und Frankfurt (Oder) aus:</p>\n\n<p><strong>RB 5830</strong> planm&auml;&szlig;ige Abfahrt ab Rzepin um 7:33 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5831&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 8:10 Uhr nach Rzepin</p>\n\n<p><strong>RB 5832&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 12:32 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5833&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 12:59 Uhr nach Rzepin</p>\n\n<p><strong>RB 5834&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 17:32 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5835&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) ab 18:14 Uhr nach Rzepin</p>\n\n<p>Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Rzepin und Frankfurt und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "23.05.2022 05:25",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 102
     },
     {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
