@@ -1,11 +1,35 @@
 {
   "news": [
     {
+      "id": "05ab5b64-ca3d-4221-b563-b4daaf38134f",
+      "headline": "Beeinträchtigungen zwischen Braunschweig und Magdeburg",
+      "newsType": "Reparatur an der Strecke",
+      "timePeriod": "Am Donnerstag, 02.06.2022, vsl. bis in die Abendstunden",
+      "introText": "<p>Aufgrund von Reparaturarbeiten zwischen Braunschweig und Magdeburg ist die Strecke derzeit gesperrt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden. Es kommt zu Versp&auml;tungen und Haltausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "IC-Züge zwischen Hannover und Magdeburg werden umgeleitet und halten nicht in Peine, Braunschweig und Helmstedt. Ersatzhalte in Wolfsburg werden eingerichtet. Verspätungen von etwa 45 Minuten sind zu erwarten."
+      ],
+      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "ni",
+        "st"
+      ],
+      "lastModified": "02.06.2022 05:01",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
+    },
+    {
       "id": "8aff2554-18cb-4b26-8000-598281ee0688",
       "headline": "Beeinträchtigungen zwischen Hannover und Hamm (Westfalen) / Osnabrück",
       "newsType": "Reparatur an der Strecke",
       "timePeriod": "Am Donnerstag, 02.06.2022, vsl. bis in die Abendstunden",
-      "introText": "<p>Aufgrund von Reparaturarbeiten an der Strecke in Minden (Westfalen) ist die Strecke derzeit gesperrt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet. Es kommt zu Versp&auml;tungen und Haltausf&auml;llen.</p>\n",
+      "introText": "<p>Aufgrund von Reparaturarbeiten an der Strecke in Minden (Westfalen) ist die Strecke derzeit gesperrt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden. Es kommt zu Versp&auml;tungen und Haltausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "ICE-/IC-Züge zwischen Hannover und Hamm (Westfalen) werden umgeleitet und halten nicht in Minden (Westfalen), Bad Oeynhausen, Herford und Bielefeld. Verspätungen von etwa 75 Minuten sind zu erwarten.",
@@ -20,7 +44,7 @@
         "ni",
         "nw"
       ],
-      "lastModified": "02.06.2022 04:14",
+      "lastModified": "02.06.2022 05:01",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 302
@@ -146,7 +170,7 @@
       "connections": [
         "S1 (Hannover-Nordstadt - Wunstorf - Haste - Stadthagen - Minden(Westf)): Züge aus/in Richtung Hannover enden/beginnen vorzeitig in Stadthagen. Züge entfallen zw. Stadthagen und Minden(Westf)"
       ],
-      "closingText": "<p>Ein Busnotverkehr ist zwischen Stadthagen und Minden(Westf) in Planung.</p>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 30 Minuten.</p>\n\n<p>Sobald uns neue Informationen vorliegen, wird diese Seite aktualisiert.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>, in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a>&nbsp;</u>oder beim regionalen Kundendialog unter 0511 45901645.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen auf&nbsp;<u><a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a>.</u></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "closingText": "<p>Es verkehrt ein Gro&szlig;raum Taxi im Pendel zwischen Stadthagen und Minden(Westf).</p>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 30 Minuten.</p>\n\n<p>Sobald uns neue Informationen vorliegen, wird diese Seite aktualisiert.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>, in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noopener noreferrer\" tabindex=\"-1\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a>&nbsp;</u>oder beim regionalen Kundendialog unter 0511 45901645.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen auf&nbsp;<u><a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter</a>.</u></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -155,7 +179,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "02.06.2022 02:29",
+      "lastModified": "02.06.2022 05:48",
       "expand": false,
       "priorityValue": 102
     },
