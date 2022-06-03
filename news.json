@@ -1,66 +1,30 @@
 {
   "news": [
     {
-      "id": "1611611e-b10b-41cf-80a2-fae3624d801a",
-      "headline": "Beeinträchtigungen zwischen Mannheim und Karlsruhe",
-      "newsType": "Bauarbeiten",
-      "timePeriod": "Vsl. bis Mittwoch, den 08.06.2022 (Tagesende)",
-      "introText": "<p>Aufgrund von Bauarbeiten zwischen Mannheim und Karlsruhe kommt es im Fernverkehr der Deutschen Bahn derzeit zu Versp&auml;tungen von etwa 20 Minuten im betroffenen Streckenabschnitt.</p>\n\n<p>Bitte beachten Sie, dass es durch die Bauarbeiten auf der Strecke zwischen Frankfurt (Main) und Mannheim zu h&ouml;heren Versp&auml;tungen kommen kann.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE/EC/IC-Züge von Mannheim in Richtung Karlsruhe. Züge in der Gegenrichtung sind derzeit nicht betroffen."
-      ],
-      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "bw",
-        "by",
-        "be",
-        "br",
-        "hb",
-        "hh",
-        "he",
-        "mv",
-        "ni",
-        "nw",
-        "rp",
-        "sl",
-        "sn",
-        "st",
-        "sh",
-        "th"
-      ],
-      "lastModified": "03.06.2022 05:21",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 316
-    },
-    {
       "id": "250f309d-53a1-48f8-b814-5c02623a83d4",
       "headline": "Folgen eines Böschungsbrandes: Behinderungen des Bahnverkehrs zwischen Köln und Koblenz",
       "newsType": "Reparatur an der Strecke",
-      "timePeriod": "Freitag, 03.06.2022",
-      "introText": "<p>Aufgrund von Reparaturarbeiten ist die Strecke zwischen Menden (Rheinland) und Bonn-Beuel derzeit gesperrt. Es kommt zu Versp&auml;tungen und Haltausf&auml;llen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Der Bahnhof Bonn-Beuel kann derzeit nicht angefahren werden. Einzelne Z&uuml;ge werden zwischen K&ouml;ln und Koblenz &uuml;ber Bonn Hbf umgeleitet. Bitte beachten Sie, dass wegen Bauarbeiten auf dieser Strecke nur ein eingeschr&auml;nkter Zugverkehr m&ouml;glich ist.</p>\n",
+      "timePeriod": "Am Freitag, 03.06.2022 bis in die Nachtstunden",
+      "introText": "<p>Aufgrund von Reparaturarbeiten nach einem B&ouml;schungsbrand ist die Strecke zwischen K&ouml;ln und Bonn-Beuel (rechte Rheinstrecke) nur eingeschr&auml;nkt befahrbar. Gleichzeitig finden zwischen K&ouml;ln und Bonn Hbf (linke Rheinstrecke) Bauarbeiten statt. Es kommt zu Zug- und Haltausf&auml;llen und Versp&auml;tungen im Fernverkehr der Deutschen Bahn.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle ICE/EC/IC-Züge auf der Strecke Köln – Bonn-Beuel – Koblenz."
+        "Alle ICE-Züge der Linie Dortmund - Köln - Koblenz - Mainz - Frankfurt(M) - Nürnberg - Wien fallen in beiden Fahrtrichtungen zwischen Dortmund und Frankfurt(M) aus.",
+        "Einzelne IC-Züge zwischen Köln und Mannheim mit Zwischenhalt in Koblenz und Mainz fallen zwischen Köln und Stuttgart/Basel aus."
       ],
-      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Bonn-Beuel erreichen Sie mit den Stadtbahnen und -bussen der Stadtwerke Bonn ab Bonn Hbf.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Reisende von/nach Bonn, Remagen, Andernach, Koblenz, Bingen, Mainz nutzen bitte die verbliebenen Fernverkehrsz&uuml;ge und die Regionalz&uuml;ge.</p>\n\n<p>Zwischen Bonn Hbf und Bonn-Beuel nutzen Sie bitte die Stadtbahnen und -busse der Stadtwerke Bonn.<br />\n&nbsp;</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
       ],
       "areas": [
+        "he",
         "nw",
         "rp"
       ],
-      "lastModified": "03.06.2022 06:17",
+      "lastModified": "03.06.2022 10:13",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 302
+      "priorityValue": 303
     },
     {
       "id": "01bbdac2-2beb-4c8b-95bf-feda079058bf",
@@ -108,29 +72,6 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 202
-    },
-    {
-      "id": "34f4599a-d785-47fa-af16-d0ed62dd55f4",
-      "headline": "Beeinträchtigungen zwischen Mainz und Koblenz",
-      "newsType": "Bauarbeiten",
-      "timePeriod": "An Samstagen und Sonntagen bis einschließlich 12.06.2022",
-      "introText": "<p>Aufgrund von Bauarbeiten zwischen Mainz und Bingen kommt es derzeit an Samstagen und Sonntagen ganzt&auml;gig zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. <strong>Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 15 Minuten.</strong></p>\n\n<p>Der planm&auml;&szlig;ige Halt in Bingen(Rhein)Hbf entf&auml;llt leider.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE-/EC-/IC-Züge zwischen Mainz und Koblenz."
-      ],
-      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p><strong>Bingen(Rhein)Hbf</strong> erreichen Sie mit den Z&uuml;gen des Regionalverkehrs ab Koblenz sowie mit den Bussen des Schienenersatzverkehrs ab Mainz.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "rp"
-      ],
-      "lastModified": "16.05.2022 21:33",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 201
     },
     {
       "id": "04c6c5b6-1e58-4e71-bf7e-7a4710819f16",
@@ -216,7 +157,7 @@
       "id": "0734386e-6790-4a83-b899-8b173a2f5202",
       "headline": "Beeinträchtigungen zwischen Bückeburg und Minden(Westf)",
       "newsType": "Streckensperrung",
-      "timePeriod": "bis vsl. 03.06.2022, 16:00 Uhr",
+      "timePeriod": "bis vsl. 03.06.2022, 18:00 Uhr",
       "introText": "<p>Aufgrund einer Streckensperrung zwischen B&uuml;ckeburg und Minden(Westf) kommt es derzeit zu Beeintr&auml;chtigungen im Eisenbahnverkehr der S-Bahn Hannover.</p>\n",
       "connectionsHeadline": "Folgende Linie ist betroffen:",
       "connections": [
@@ -231,7 +172,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "03.06.2022 03:53",
+      "lastModified": "03.06.2022 10:16",
       "expand": false,
       "priorityValue": 102
     },
