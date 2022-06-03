@@ -184,8 +184,18 @@
       "download": {
         "text": "<p>Wegen mehrerer kurzfristiger Krankmeldungen von Personalen fallen alle Z&uuml;ge der Linie RB55 aus:</p>\n\n<p>Es ist ein Busnotverkehr zwischen Kremmen, Velten und Hennigsdorf (b.Berlin) eingerichtet.&nbsp;</p>\n\n<p>Bitte nutzen Sie auch die nachfolgenden Z&uuml;ge der Linie RE 6.</p>\n",
         "linkDataList": [
-          null,
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:5dc99970-ee90-466b-94d7-7733c785ae2d/RB%2055%20Busnotverkehr%20Hennigsdorf-Kremmen.pdf",
+            "title": "Busnotverkehr RB 55 Hennigsdorf-Kremmen (PDF, 64 KB)",
+            "info": "Busnotverkehr RB 55 Hennigsdorf-Kremmen",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:d7676bb2-3d2a-4590-b718-8638204b01d1/RB%2055%20Busnotverkehr%20Kremmen-Hennigsdorf.pdf",
+            "title": "Busnotverkehr RB 55 Hennigsdorf-Kremmen (PDF, 66 KB)",
+            "info": "Busnotverkehr RB 55 Hennigsdorf-Kremmen",
+            "openInNewTab": true
+          }
         ]
       },
       "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;.</p>\n",
@@ -197,7 +207,7 @@
         "be",
         "br"
       ],
-      "lastModified": "03.06.2022 07:43",
+      "lastModified": "03.06.2022 07:54",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
