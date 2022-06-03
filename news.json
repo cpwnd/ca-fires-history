@@ -39,29 +39,27 @@
       "priorityValue": 316
     },
     {
-      "id": "8aff2554-18cb-4b26-8000-598281ee0688",
-      "headline": "Beeinträchtigungen zwischen Hannover und Hamm (Westf.) bzw. Osnabrück",
+      "id": "01bbdac2-2beb-4c8b-95bf-feda079058bf",
+      "headline": "Verspätungen zwischen Hamburg-Harburg und Hamburg Hbf",
       "newsType": "Reparatur an der Strecke",
-      "timePeriod": "Vsl. bis Freitag, 03.06.2022 (Mittagsstunden)",
-      "introText": "<p>Aufgrund von umfangreichen Reparaturarbeiten nach einer Zugentgleisung im Bahnhof Minden (Westf.) ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Versp&auml;tungen und Haltausf&auml;llen.</p>\n",
+      "timePeriod": "Am Freitag, 03.06.2022, bis Tagesende",
+      "introText": "<p>Aufgrund einer Reparatur an der Strecke zwischen Hamburg-Harburg und Hamburg Hbf kommt es im Fernverkehr der Deutschen Bahn derzeit zu Versp&auml;tungen von etwa 30 Minuten im betroffenen Streckenabschnitt.</p>\n\n<p>Derzeit sind die Z&uuml;ge von Hamburg-Harburg in Richtung Hamburg Hbf betroffen. Die Z&uuml;ge in Gegenrichtung verkehren ohne Einschr&auml;nkungen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Einzelne ICE-/IC-Züge werden zwischen Hannover und Hamm (Westf.) umgeleitet. Die Halte Minden (Westf.), Bielefeld und Gütersloh entfallen. Die Züge verspäten sich um etwa 75 Minuten.",
-        "Alle IC-Züge zwischen Hannover und Osnabrück verkehren auf dem planmäßigen Laufweg, Verspätungen sind im Einzelfall möglich."
+        "Einzelne ICE/EC/IC-Züge zwischen Hamburg-Harburg und Hamburg Hbf."
       ],
-      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Reisende von/nach G&uuml;tersloh, Bielefeld und Minden nutzen die verkehrenden ICE-, IC-, und Regionalz&uuml;ge zwischen Hannover und Hamm (Westfalen).</p>\n\n<p><br />\nUnser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
       ],
       "areas": [
-        "ni",
-        "nw"
+        "hh"
       ],
-      "lastModified": "03.06.2022 00:18",
+      "lastModified": "03.06.2022 05:08",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 302
+      "priorityValue": 301
     },
     {
       "id": "888a5d21-8cd6-479a-b835-249cc63d9901",
@@ -83,6 +81,31 @@
         "he"
       ],
       "lastModified": "02.06.2022 01:04",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 202
+    },
+    {
+      "id": "8aff2554-18cb-4b26-8000-598281ee0688",
+      "headline": "Beeinträchtigungen zwischen Hannover und Hamm (Westf.) bzw. Osnabrück",
+      "newsType": "Reparatur an der Strecke",
+      "timePeriod": "Vsl. bis Freitag, 03.06.2022 (Mittagsstunden)",
+      "introText": "<p>Aufgrund von umfangreichen Reparaturarbeiten nach einer Zugentgleisung im Bahnhof Minden (Westf.) ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Versp&auml;tungen und Haltausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Einzelne ICE-/IC-Züge werden zwischen Hannover und Hamm (Westf.) umgeleitet. Die Halte Minden (Westf.), Bielefeld und Gütersloh entfallen. Die Züge verspäten sich um etwa 75 Minuten.",
+        "Alle IC-Züge zwischen Hannover und Osnabrück verkehren auf dem planmäßigen Laufweg, Verspätungen sind im Einzelfall möglich."
+      ],
+      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Reisende von/nach G&uuml;tersloh, Bielefeld und Minden nutzen die verkehrenden ICE-, IC-, und Regionalz&uuml;ge zwischen Hannover bzw. Minden und Hamm.</p>\n\n<p><br />\nUnser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "ni",
+        "nw"
+      ],
+      "lastModified": "03.06.2022 05:14",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 202
@@ -133,6 +156,27 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
+    },
+    {
+      "id": "04c6c5b6-1e58-4e71-bf7e-7a4710819f16",
+      "headline": "Ausfall der Züge der RB93 zwischen  Zagan und Forst(Lausitz) ",
+      "newsType": "Betriebliche Gründe",
+      "timePeriod": "3. Juni 2022",
+      "connections": [
+        "RB93  Zagan - Forst(Lausitz)"
+      ],
+      "closingText": "<p>Aus betrieblichen Gr&uuml;nden&nbsp;fallen folgende Z&uuml;ge zwischen Tuplice und Forst(Lausitz) aus:</p>\n\n<p><strong>RB5840 </strong>planm&auml;&szlig;ige Abfahrt&nbsp; &nbsp; &nbsp;6:04 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5841&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp; &nbsp; &nbsp;6:58 Uhr ab&nbsp;Forst(Lausitz) nach Zagan</p>\n\n<p><strong>RB5848&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp; &nbsp; &nbsp;8:52 Uhr ab Zagan nach Forst(Lausitz)</p>\n\n<p><strong>RB5849&nbsp;</strong>planm&auml;&szlig;ige Abfahrt&nbsp; &nbsp; &nbsp;9:50 Uhr ab&nbsp;Forst(Lausitz) nach Zagan</p>\n\n<p>Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Forst (Lausitz) und Zagan und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Streckenagent</a>&nbsp;oder im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">DB Navigator</a>.&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "03.06.2022 05:10",
+      "expand": true,
+      "priorityValue": 102
     },
     {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
