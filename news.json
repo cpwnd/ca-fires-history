@@ -39,6 +39,30 @@
       "priorityValue": 316
     },
     {
+      "id": "250f309d-53a1-48f8-b814-5c02623a83d4",
+      "headline": "Folgen eines Böschungsbrandes: Behinderungen des Bahnverkehrs zwischen Köln und Koblenz",
+      "newsType": "Reparatur an der Strecke",
+      "timePeriod": "Freitag, 03.06.2022",
+      "introText": "<p>Aufgrund von Reparaturarbeiten ist die Strecke zwischen Menden (Rheinland) und Bonn-Beuel derzeit gesperrt. Es kommt zu Versp&auml;tungen und Haltausf&auml;llen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Der Bahnhof Bonn-Beuel kann derzeit nicht angefahren werden. Einzelne Z&uuml;ge werden zwischen K&ouml;ln und Koblenz &uuml;ber Bonn Hbf umgeleitet. Bitte beachten Sie, dass wegen Bauarbeiten auf dieser Strecke nur ein eingeschr&auml;nkter Zugverkehr m&ouml;glich ist.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE/EC/IC-Züge auf der Strecke Köln – Bonn-Beuel – Koblenz."
+      ],
+      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Bonn-Beuel erreichen Sie mit den Stadtbahnen und -bussen der Stadtwerke Bonn ab Bonn Hbf.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "nw",
+        "rp"
+      ],
+      "lastModified": "03.06.2022 06:17",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
+    },
+    {
       "id": "01bbdac2-2beb-4c8b-95bf-feda079058bf",
       "headline": "Verspätungen zwischen Hamburg-Harburg und Hamburg Hbf",
       "newsType": "Reparatur an der Strecke",
@@ -106,30 +130,6 @@
         "nw"
       ],
       "lastModified": "03.06.2022 05:14",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 202
-    },
-    {
-      "id": "250f309d-53a1-48f8-b814-5c02623a83d4",
-      "headline": "Streckensperrung zwischen Menden (Rheinland) und Bonn-Beuel",
-      "newsType": "Reparatur an der Strecke",
-      "timePeriod": "Freitag, 03.06.2022",
-      "introText": "<p>Aufgrund von Reparaturarbeiten ist die Strecke zwischen Menden (Rheinland) und Bonn-Beuel derzeit gesperrt. Es kommt zu Versp&auml;tungen und Haltausf&auml;llen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Der Bahnhof Bonn-Beuel kann derzeit nicht angefahren werden. Einzelne Z&uuml;ge werden zwischen K&ouml;ln und Koblenz &uuml;ber Bonn Hbf umgeleitet. Bitte beachten Sie, dass wegen Bauarbeiten auf dieser Strecke nur ein eingeschr&auml;nkter Zugverkehr m&ouml;glich ist.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE/EC/IC-Züge auf der Strecke Köln – Bonn-Beuel – Koblenz."
-      ],
-      "closingText": "<p><strong>Alternative Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Bonn-Beuel erreichen Sie mit den Stadtbahnen und -bussen der Stadtwerke Bonn ab Bonn Hbf.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "nw",
-        "rp"
-      ],
-      "lastModified": "03.06.2022 05:22",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 202
