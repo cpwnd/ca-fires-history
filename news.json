@@ -1,33 +1,6 @@
 {
   "news": [
     {
-      "id": "250f309d-53a1-48f8-b814-5c02623a83d4",
-      "headline": "Folgen eines Böschungsbrandes: Behinderungen des Bahnverkehrs zwischen Köln und Koblenz",
-      "newsType": "Reparatur an der Strecke",
-      "timePeriod": "Am Freitag, 03.06.2022 bis in die Nachtstunden",
-      "introText": "<p>Aufgrund von Reparaturarbeiten nach einem B&ouml;schungsbrand ist die Strecke zwischen K&ouml;ln und Bonn-Beuel (rechte Rheinstrecke) nur eingeschr&auml;nkt befahrbar. Gleichzeitig finden zwischen K&ouml;ln und Bonn Hbf (linke Rheinstrecke) Bauarbeiten statt. Es kommt dadurch zu Zug- und Haltausf&auml;llen und Versp&auml;tungen im Fernverkehr der Deutschen Bahn.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Die meisten IC/EC/ICE-Züge zwischen Köln und Koblenz werden umgeleitet und halten nicht in Bonn-Beuel. Ersatzhalt ist Bonn Hbf. Es kommt zu Verspätungen von etwa 60 Minuten.",
-        "Die ICE-Züge der Linie Dortmund - Köln - Koblenz - Mainz - Frankfurt(M) - Nürnberg - Wien fallen in beiden Fahrtrichtungen zwischen Dortmund und Frankfurt(M) Flughafen aus.",
-        "Einzelne IC-Züge zwischen Köln und Mannheim mit Zwischenhalt in Koblenz und Mainz fallen zwischen Köln und Stuttgart/Basel aus."
-      ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen die folgenden Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Reisende von/nach&nbsp;<strong>K&ouml;ln, Bonn </strong>und <strong>Mainz&nbsp;</strong>nutzen bitte die schnellen ICE-Z&uuml;ge zwischen K&ouml;ln, Siegburg/Bonn und Frankfurt Flughafen. Die ICE-Strecke ist von den Beeintr&auml;chtigungen nicht betroffen.</p>\n\n<p>Reisende von/nach <strong>Remagen, Andernach, Koblenz, Bingen</strong> nutzen bitte die verbliebenen Fernverkehrsz&uuml;ge und die Regionalz&uuml;ge.</p>\n\n<p>Von/nach&nbsp;<strong>Bonn-Beuel</strong> nutzen Sie bitte die Stadtbahnen und -busse der Stadtwerke Bonn.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "he",
-        "nw",
-        "rp"
-      ],
-      "lastModified": "03.06.2022 11:07",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 303
-    },
-    {
       "id": "0b3fbf14-d456-4c39-ba7a-41fa7b5ca467",
       "headline": "Meldungen der DB Regio Bayern",
       "newsType": "Störungen",
@@ -79,6 +52,33 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 301
+    },
+    {
+      "id": "250f309d-53a1-48f8-b814-5c02623a83d4",
+      "headline": "Folgen eines Böschungsbrandes: Behinderungen des Bahnverkehrs zwischen Köln und Koblenz",
+      "newsType": "Reparatur an der Strecke",
+      "timePeriod": "Am Freitag, 03.06.2022 bis in die Nachtstunden",
+      "introText": "<p>Aufgrund von Reparaturarbeiten nach einem B&ouml;schungsbrand ist die Strecke zwischen K&ouml;ln und Bonn-Beuel (rechte Rheinstrecke) nur eingeschr&auml;nkt befahrbar. Gleichzeitig finden zwischen K&ouml;ln und Bonn Hbf (linke Rheinstrecke) Bauarbeiten statt. Es kommt dadurch zu Zug- und Haltausf&auml;llen und Versp&auml;tungen im Fernverkehr der Deutschen Bahn.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Die meisten IC/EC/ICE-Züge zwischen Köln und Koblenz werden umgeleitet und halten nicht in Bonn-Beuel. Ersatzhalt ist Bonn Hbf. Es kommt zu Verspätungen von etwa 60 Minuten.",
+        "Die ICE-Züge der Linie Dortmund - Köln - Koblenz - Mainz - Frankfurt(M) - Nürnberg - Wien fallen in beiden Fahrtrichtungen zwischen Dortmund und Frankfurt(M) Flughafen aus.",
+        "Einzelne IC-Züge zwischen Köln und Mannheim mit Zwischenhalt in Koblenz und Mainz fallen zwischen Köln und Stuttgart/Basel aus."
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen die folgenden Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Reisende von/nach&nbsp;<strong>K&ouml;ln, Bonn </strong>und <strong>Mainz&nbsp;</strong>nutzen bitte die schnellen ICE-Z&uuml;ge zwischen K&ouml;ln, Siegburg/Bonn und Frankfurt Flughafen. Die ICE-Strecke ist von den Beeintr&auml;chtigungen nicht betroffen.</p>\n\n<p>Reisende von/nach <strong>Remagen, Andernach, Koblenz, Bingen</strong> nutzen bitte die verbliebenen Fernverkehrsz&uuml;ge und die Regionalz&uuml;ge.</p>\n\n<p>Von/nach&nbsp;<strong>Bonn-Beuel</strong> nutzen Sie bitte die Stadtbahnen und -busse der Stadtwerke Bonn.</p>\n\n<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "he",
+        "nw",
+        "rp"
+      ],
+      "lastModified": "03.06.2022 16:35",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 203
     },
     {
       "id": "888a5d21-8cd6-479a-b835-249cc63d9901",
