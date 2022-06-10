@@ -340,7 +340,10 @@
         "RB77 Dillingen(Saar) - Niedaltdorf"
       ],
       "download": {
-        "text": "<p>Als Ersatz verkehrt zwischen Dillingen(Saar) und Niedaltdorf ein Ersatzverkehr mit Bus der Firma Arge Nahverkehrsgesellschaft, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.</p>\n"
+        "text": "<p>Als Ersatz verkehrt zwischen Dillingen(Saar) und Niedaltdorf ein Ersatzverkehr mit Bus der Firma Arge Nahverkehrsgesellschaft, der alle Unterwegshalte anf&auml;hrt.</p>\n",
+        "linkDataList": [
+          null
+        ]
       },
       "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
       "priority": "0",
@@ -350,7 +353,7 @@
       "areas": [
         "sl"
       ],
-      "lastModified": "10.06.2022 12:09",
+      "lastModified": "10.06.2022 17:20",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
@@ -429,6 +432,29 @@
       "lastModified": "30.05.2022 04:31",
       "author": "s_bahn_muenchen",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "43e882c2-7cef-4e82-a339-04aa0ca0f03c",
+      "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville ",
+      "newsType": "Kurzfristige Personalausfälle",
+      "timePeriod": "Sonntag, 12. Juni ab 14:00 Uhr bis Montag, 13. Juni 14:00 Uhr",
+      "introText": "<p>Ein Ersatzverkehr mit Bus ist zwischen M&uuml;llheim(Baden) und Mulhouse Ville eingerichtet.</p>\n",
+      "connectionsHeadline": "Betroffene Strecke:",
+      "connections": [
+        "Müllheim(Baden) - Mulhouse Ville"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung insbesondere aufgrund der l&auml;ngeren Fahrzeiten der Busse mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "10.06.2022 17:07",
+      "author": "baden_wuerttemberg",
+      "expand": false,
       "priorityValue": 101
     },
     {
