@@ -100,10 +100,26 @@
       "id": "e6e505da-4a29-4d59-8acf-745c89b41143",
       "headline": "Zugausfälle auf der Linie RE66 / RB66",
       "newsType": "Kurzfristige Bauarbeiten",
-      "timePeriod": "bis vsl. 16. Juni 2022 Tagesende",
-      "connectionsHeadline": "RE66 / RB66 zwischen Tantow und Stettin Hbf",
+      "timePeriod": "bis vsl. 20. Juni 2022 Tagesende",
+      "introText": "<p><strong>RE66 / RB66 zwischen Angerm&uuml;nde und Stettin Hbf</strong></p>\n\n<p>Die Z&uuml;ge der Linie der RE66/RB 66 fallen zwischen Angerm&uuml;nde und Stettin Hbf aus und werden durch Expressbusse sowie Busse mit allen Unterwegshalten ersetzt.</p>\n\n<p>Die Fahrpl&auml;ne f&uuml;r den Ersatzverkehr finden Sie hier:</p>\n\n<p>&nbsp;</p>\n",
       "connections": [],
-      "closingText": "<p>Die Z&uuml;ge der Linie der RE/RB 66 fallen zwischen Tantow und Stettin Hbf aus und werden durch Busse ersetzt.</p>\n\n<p>Bitte informieren Sie sich trotzdem unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.</p>\n",
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:0c4abc12-52b9-4b8f-8204-40cd7a1d3af0/RB66%20Angerm%C3%BCnde-Szczecin%2017.06.-20.06.2022%20Busse%20mit%20Unterwegshalten.pdf",
+            "title": "Ersatzverkehr RE66/ RB66 bis 20. Juni 2022 (PDF, 111 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:1f8c1e16-c736-45b8-afaa-21758c32a3ca/Direktbusse%20RB66%20Angerm%C3%BCnde-Szczecin%20Glowny%2017.06.-20.06.2022.pdf",
+            "title": "Expressbusse RE66 /RB66 bis 20. Juni 2022 (PDF, 68 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte informieren Sie sich trotzdem unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -112,7 +128,7 @@
         "be",
         "br"
       ],
-      "lastModified": "15.06.2022 18:35",
+      "lastModified": "16.06.2022 17:35",
       "author": "nordost",
       "expand": true,
       "priorityValue": 102
