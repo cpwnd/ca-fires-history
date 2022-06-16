@@ -212,6 +212,26 @@
       "priorityValue": 101
     },
     {
+      "id": "478806c6-c0a6-4b60-933a-1395106052e2",
+      "headline": "Ausfall RE4 (Ueckermünde Stadthafen - Pasewalk)",
+      "newsType": "Kurzfristige Krankmeldung ",
+      "timePeriod": "16. Juni 2022",
+      "introText": "<p>Wegen kurzfristiger Krankmeldung fallen folgende Z&uuml;ge RE4 zwischen Pasewalk und Ueckerm&uuml;nde Stadthafen&nbsp;aus.</p>\n\n<p><strong>RB 13279</strong> Pasewalk ab 14:22 Uhr nach Ueckerm&uuml;nde Stadthafen</p>\n\n<p><strong>RB 13281</strong>&nbsp;Pasewalk ab 16:08 Uhr nach Ueckerm&uuml;nde Stadthafen</p>\n\n<p><strong>RB 13283</strong>&nbsp;Pasewalk ab 18:22 Uhr nach Ueckerm&uuml;nde Stadthafen</p>\n\n<p><strong>RB 13285&nbsp;</strong>Pasewalk ab 20:22 Uhr nach Ueckerm&uuml;nde Stadthafen</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RB 13278</strong>&nbsp;Ueckerm&uuml;nde Stadthafen ab 15:00 Uhr nach Pasewalk</p>\n\n<p><strong>RB 13280</strong>&nbsp;Ueckerm&uuml;nde Stadthafen ab 17:00 Uhr nach Pasewalk</p>\n\n<p><strong>RB 13282</strong>&nbsp;Ueckerm&uuml;nde Stadthafen ab 19:00 Uhr nach Pasewalk</p>\n\n<p><strong>RB 13284</strong> Ueckerm&uuml;nde Stadthafen ab 21:00 Uhr nach Pasewalk</p>\n\n<p>Ein Ersatzverkehr mit Bus ist bestellt.</p>\n\n<p>&nbsp;</p>\n",
+      "connections": [],
+      "closingText": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "mv"
+      ],
+      "lastModified": "16.06.2022 10:10",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "7bd917b2-dc6a-45e7-af58-f4cc20fdb5a7",
       "headline": "Unwetterschäden an der Ahr und in der Eifel ",
       "newsType": "Unwetterschäden",
@@ -321,6 +341,29 @@
         "bw"
       ],
       "lastModified": "15.06.2022 16:15",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "9c802b9a-e68b-4f6e-89f0-5a720c66bfa3",
+      "headline": "Beeinträchtigungen in der Region DB Regio Baden-Württemberg",
+      "newsType": "Außergewöhnlich hohe Auslastung",
+      "timePeriod": "Am 16.06.2022 bis vsl. 12:00 Uhr",
+      "introText": "<p>Aufgrund von au&szlig;ergew&ouml;hnlich hoher Auslastung durch Fahrg&auml;ste und Fahrr&auml;der kommt es in der Region DB Regio Baden-W&uuml;rttemberg zu Versp&auml;tungen und Zugausf&auml;llen.</p>\n\n<p>Bitte meiden Sie m&ouml;glichst die betroffenen Strecken, die Fahrradmitnahme ist nicht mehr m&ouml;glich. Die Bef&ouml;rderung aller Fahrg&auml;ste kann nicht garantiert werden.</p>\n",
+      "connectionsHeadline": "Betroffene Strecken:",
+      "connections": [
+        "Stuttgart Hbf - Ulm Hbf",
+        "Ulm Hbf - Friedrichshafen Stadt - Lindau Reutin/Insel"
+      ],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chliche Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">DB Streckenagent</a> oder im <a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "16.06.2022 10:04",
       "expand": false,
       "priorityValue": 101
     },
