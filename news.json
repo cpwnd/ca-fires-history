@@ -457,9 +457,11 @@
       "introText": "<p>Aufgrund von au&szlig;ergew&ouml;hnlich hoher Auslastung durch Fahrg&auml;ste und Fahrr&auml;der kommt es in der Region DB Regio Baden-W&uuml;rttemberg zu Versp&auml;tungen.</p>\n\n<p>Bitte meiden Sie m&ouml;glichst die betroffenen Strecken, die Fahrradmitnahme ist nicht mehr m&ouml;glich. Die Bef&ouml;rderung aller Fahrg&auml;ste kann nicht garantiert werden.</p>\n",
       "connectionsHeadline": "Betroffene Strecken:",
       "connections": [
-        "Karlsruhe - Konstanz (Schwarzwaldbahn)"
+        "RE 2 Karlsruhe - Konstanz (Schwarzwaldbahn)",
+        "RE 5 Stuttgart - Ulm - Lindau",
+        "IRE 3 Ulm - Friedrichshafen Stadt"
       ],
-      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chliche Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">DB Streckenagent</a> oder im <a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator</a>.</p>\n",
+      "closingText": "<p><strong>Reisealternative IRE 3 Ulm - Friedrichshafen (-Basel Bad) und RE 5 Stuttgart - Ulm - Lindau:</strong></p>\n\n<p>Nutzen Sie ab/bis Ulm die langsameren Z&uuml;ge der Linie RS 21 (Ulm-Biberach), RB 51 (Ulm-Aulendorf) und RB 91 (Aulendorf-Friedrichshafen Stadt).&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chliche Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">DB Streckenagent</a> oder im <a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator</a>.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -467,7 +469,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "18.06.2022 11:24",
+      "lastModified": "18.06.2022 13:22",
       "expand": false,
       "priorityValue": 101
     },
