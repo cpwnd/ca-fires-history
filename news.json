@@ -1,6 +1,31 @@
 {
   "news": [
     {
+      "id": "3441202b-ac2a-40ae-aee9-c63fdeba243e",
+      "headline": "Beeinträchtigungen zwischen Hannover und NRW",
+      "newsType": "Notarzteinsatz auf der Strecke",
+      "timePeriod": "Am heutigen Sonntag, 19.06.2022 vsl. bis in die späten Nachmittagsstunden",
+      "introText": "<p>Aufgrund eines Notarzteinsatzes ist die Strecke zwischen Minden(Westf) und L&ouml;hne derzeit gesperrt. Die Z&uuml;ge im Fernverkehr der Deutschen Bahn m&uuml;ssen umgeleitet werden und versp&auml;ten sich dadurch um etwa 75 Minuten. Z&uuml;ge, die nicht umgeleitet werden k&ouml;nnen, warten die Dauer der Streckensperrung an geeigneten Bahnh&ouml;fen ab.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "IC/ICE-Züge Hannover - Minden(Westf) - Bielefeld - Hamm - Köln werden umgeleitet und halten nicht in Minden(Westf), Herford, Bielefeld Hbf und Gütersloh Hbf",
+        "IC-Züge Hannover - Bad Bentheim - Amsterdam werden umgeleitet und halten nicht in Minden(Westf), Bad Oeynhausen und Bünde"
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "ni",
+        "nw"
+      ],
+      "lastModified": "19.06.2022 14:24",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
+    },
+    {
       "id": "0b3fbf14-d456-4c39-ba7a-41fa7b5ca467",
       "headline": "Meldungen der DB Regio Bayern",
       "newsType": "Störungen",
