@@ -32,14 +32,13 @@
     },
     {
       "id": "1256f988-9bb8-4e48-85b5-c6cbce29b4b0",
-      "headline": "Zugausfälle auf der Linie RB23 und RE7",
+      "headline": "Zugausfälle auf der RE7",
       "newsType": "Feuerwehreinsatz",
-      "timePeriod": "21. Juni 2022 vsl. bis Tagesende",
+      "timePeriod": "21. Juni 2022 vsl. bis in den Mittagsstunden",
       "connections": [
-        "RE7 Dessau - Wünsdorf",
-        "RB23 Potsdam Hbf - Michendorf"
+        "RE7 Dessau - Wünsdorf"
       ],
-      "closingText": "<p>Wegen eines Feuerwehreinsatzes fallen alle Z&uuml;ge der <strong>RE7</strong> voraussichtlich&nbsp;bis Tagesende zwischen Beelitz-Heilst&auml;tten und Michendorf aus.</p>\n\n<p>Busnotverkehr kann wegen der Evakuierung der Ortschaften nicht bereitgestellt werden.</p>\n\n<p>Benutzen Sie bitte die &ouml;ffentlichen Busse der Linien 643 oder X43 zwischen Michendorf und Beelitz-Heilst&auml;tten. Reisende ab Dessau nutzen bitte auch die Z&uuml;ge &uuml;ber Bitterfeld und L. Wittenberg.</p>\n\n<p>Die Z&uuml;ge der Linie&nbsp;<strong>RB23</strong>&nbsp;fahren auf der Strecke Potsdam Hbf und Michendorf wieder durch. Erster Zug ist RB18144 um 6:44 Uhr ab Potsdam Hbf.&nbsp;&nbsp;<u>Die Streckensperrung</u> zwischen Ferch-Lienewitz und Michendorf <u>ist aufgehoben.</u></p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.&nbsp;</p>\n",
+      "closingText": "<p>Wegen eines Feuerwehreinsatzes fallen alle Z&uuml;ge der <strong>RE7</strong> voraussichtlich&nbsp;bis in den Mittagsstunden zwischen Beelitz-Heilst&auml;tten und Michendorf aus.</p>\n\n<p>Es verkehrt ein Ersatzverkehr mit Bus zwischen&nbsp;Michendorf und Beelitz-Heilst&auml;tten.</p>\n\n<p>Benutzen Sie bitte zus&auml;tzlich die &ouml;ffentlichen Busse der Linien 643 oder X43 zwischen Michendorf und Beelitz-Heilst&auml;tten. Reisende ab Dessau nutzen bitte auch die Z&uuml;ge &uuml;ber Bitterfeld und L. Wittenberg.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -48,7 +47,29 @@
         "be",
         "br"
       ],
-      "lastModified": "20.06.2022 17:24",
+      "lastModified": "21.06.2022 04:30",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "47479134-01c0-4e0b-8567-2ab7f36605ed",
+      "headline": "Ausfall RB91 zwischen Frankfurt(Oder) und Rzepin",
+      "newsType": "Fahrzeugstörung",
+      "timePeriod": "21. Juni 2022",
+      "connections": [
+        "RB91 Frankfurt(Oder) - Rzepin"
+      ],
+      "closingText": "<p>Wegen einer Reparatur am Triebfahrzeug fallen folgende Z&uuml;ge zwischen Rzepin und Frankfurt (Oder) aus:</p>\n\n<p><strong>RB 5830</strong> planm&auml;&szlig;ige Abfahrt ab Rzepin um 7:33 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5831&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 8:10 Uhr nach Rzepin</p>\n\n<p><strong>RB 5832&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 12:32 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5833&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 12:59 Uhr nach Rzepin</p>\n\n<p><strong>RB 5834&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 17:32 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5835&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) ab 18:14 Uhr nach Rzepin</p>\n\n<p>Nach Informationen der polnischen Regionalbahn (Przewozy Regionalne) verkehrt ein Ersatzverkehr mit einem Bus zwischen Rzepin und Frankfurt und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "21.06.2022 04:12",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
