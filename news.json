@@ -132,30 +132,6 @@
       "priorityValue": 102
     },
     {
-      "id": "7e0b7903-7027-4acc-b6c8-c14652b5c12a",
-      "headline": "Reparatur an der Oberleitung zwischen Worms Hbf und Osthofen",
-      "newsType": "Oberleitungsreparatur ",
-      "timePeriod": "21.06.22 vsl. 14:00 Uhr",
-      "introText": "<p>Eine Reparatur an der Oberleitung zwischen Worms Hbf und Osthofen verz&ouml;gert den Bahnverkehr.</p>\n\n<p>Zur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.</p>\n\n<p>Die &nbsp;Z&uuml;ge aus Richtung Mannheim Hbf enden und beginnen in Worms Hbf. Aus Richtung Mainz Hbf enden und beginnen die Z&uuml;ge in Osthofen.</p>\n\n<p>Es kommt zu kurzfristigen Umleitungen und Zugausf&auml;llen.</p>\n\n<p>Wir haben f&uuml;r Sie ab ca. 05:45 Uhr einen Busnotverkehr mit zwei Bussen (1 Bus je Richtung) zwischen Worms Hbf und Osthofen mit allen Unterwegshalten eingerichtet.</p>\n\n<p>Dauer der Beeintr&auml;chtigung bis vsl. 21.06.22, 14:00 Uhr.</p>\n\n<p>Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffene Linie:",
-      "connections": [
-        "S6\tBensheim – Mannheim – Frankenthal – Worms – Mainz "
-      ],
-      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der Reparatur auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "rp"
-      ],
-      "lastModified": "21.06.2022 07:13",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "aefa1b8f-9226-4572-801d-3ae09a83a2b9",
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
@@ -268,6 +244,31 @@
       "lastModified": "04.11.2021 10:10",
       "author": "nrw",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "7e0b7903-7027-4acc-b6c8-c14652b5c12a",
+      "headline": "Kein Zugverkehr zwischen Worms Hbf und Osthofen",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "21.06.22 vsl. 14:00 Uhr",
+      "introText": "<p>Eine Reparatur an der Oberleitung zwischen Worms Hbf und Osthofen verz&ouml;gert den Bahnverkehr.</p>\n\n<p>Zur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.</p>\n\n<p>Die &nbsp;Z&uuml;ge aus Richtung Mannheim Hbf enden und beginnen in Worms Hbf. Aus Richtung Mainz Hbf enden und beginnen die Z&uuml;ge in Osthofen.</p>\n\n<p>Es kommt zu kurzfristigen Umleitungen und Zugausf&auml;llen.</p>\n\n<p>Regionalexpresse RE4/14 werden Umleitet &uuml;ber die Riedbahn.</p>\n\n<p>Wir haben f&uuml;r Sie einen Busnotverkehr mit zwei Bussen (1 Bus je Richtung) zwischen Worms Hbf und Osthofen mit allen Unterwegshalten eingerichtet.</p>\n\n<p>Dauer der Beeintr&auml;chtigung bis vsl. 21.06.22, 14:00 Uhr.</p>\n\n<p>Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "S6\tBensheim – Mannheim – Frankenthal – Worms – Mainz ",
+        "RE4 Karlsruhe - Germersheim - Ludwigshafen - Mainz",
+        "RE14 Mannheim - Worms - Mainz"
+      ],
+      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der Reparatur auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "21.06.2022 07:45",
+      "author": "mitte",
+      "expand": false,
       "priorityValue": 101
     },
     {
