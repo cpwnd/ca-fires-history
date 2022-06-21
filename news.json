@@ -1,6 +1,31 @@
 {
   "news": [
     {
+      "id": "8ae78b1e-8bf3-4dc8-bc03-08cfba87e66f",
+      "headline": "Beeinträchtigungen zwischen Nürnberg und Erfurt",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "Am heutigen Dienstag, 21.06.2022 bis in die frühen Abendstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung bei Forchheim zwischen N&uuml;rnberg und Erfurt kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa bis zu 120 Minuten. Die planm&auml;&szlig;igen Halte in Erlangen, Bamberg und Coburg k&ouml;nnen entfallen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE-Züge zwischen Erfurt und Nürnberg werden in Fahrtrichtung Nürnberg umgeleitet und verspäten sich um etwa 120 Minuten.",
+        "Alle ICE-Züge zwischen Nürnberg und Erfurt werden in Fahrtrichtung Erfurt umgeleitet und verspäten sich um etwa 90 Minuten."
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p><strong>Erlangen</strong> erreichen Sie ab N&uuml;rnberg Hbf mit den Z&uuml;gen des Regionalverkerhrs sowie der S-Bahnlinie S1.<br />\n<strong>Bamberg </strong>erreichen Sie mit den Z&uuml;gen des Regionalverkehrs ab W&uuml;rzburg Hbf.<br />\n<strong>Coburg </strong>erreichen Sie mit den Z&uuml;gen des Regionalverkehrs ab Bamberg.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "by",
+        "th"
+      ],
+      "lastModified": "21.06.2022 15:23",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
+    },
+    {
       "id": "0b3fbf14-d456-4c39-ba7a-41fa7b5ca467",
       "headline": "Meldungen der DB Regio Bayern",
       "newsType": "Störungen",
@@ -79,25 +104,8 @@
       "headline": "Zugausfälle auf der Linie RE66 / RB66",
       "newsType": "Kurzfristige Bauarbeiten",
       "timePeriod": "bis vsl. 21. Juni 2022 Tagesende",
-      "introText": "<p><strong>RE66 / RB66 zwischen Angerm&uuml;nde und Stettin Hbf</strong></p>\n\n<p>Die Z&uuml;ge der Linie der RE66/RB 66 fallen zwischen Angerm&uuml;nde und Stettin Hbf aus und werden durch Expressbusse sowie Busse mit allen Unterwegshalten ersetzt.</p>\n\n<p>Die Fahrpl&auml;ne f&uuml;r den Ersatzverkehr finden Sie hier:</p>\n\n<p>&nbsp;</p>\n",
+      "introText": "<p><strong>RE66 / RB66 zwischen Angerm&uuml;nde und Stettin Hbf</strong></p>\n\n<p>Die Z&uuml;ge der Linie der RE66/RB 66 fallen zwischen Angerm&uuml;nde und Stettin Hbf aus und werden durch Expressbusse sowie Busse mit allen Unterwegshalten ersetzt.</p>\n\n<p>Bitte informieren Sie sich trotzdem unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.</p>\n\n<p>&nbsp;</p>\n",
       "connections": [],
-      "download": {
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:0c4abc12-52b9-4b8f-8204-40cd7a1d3af0/RB66%20Angerm%C3%BCnde-Szczecin%2017.06.-20.06.2022%20Busse%20mit%20Unterwegshalten.pdf",
-            "title": "Ersatzverkehr RE66/ RB66 bis 20. Juni 2022 (PDF, 111 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:1f8c1e16-c736-45b8-afaa-21758c32a3ca/Direktbusse%20RB66%20Angerm%C3%BCnde-Szczecin%20Glowny%2017.06.-20.06.2022.pdf",
-            "title": "Expressbusse RE66 /RB66 bis 21. Juni 2022 (PDF, 68 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p>Bitte informieren Sie sich trotzdem unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -106,7 +114,7 @@
         "be",
         "br"
       ],
-      "lastModified": "20.06.2022 14:35",
+      "lastModified": "21.06.2022 15:38",
       "author": "nordost",
       "expand": true,
       "priorityValue": 102
@@ -282,7 +290,18 @@
       "connections": [
         "RE/RB39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen"
       ],
-      "closingText": "<p><strong><u>Es kommt zu folgenden&nbsp;</u></strong><strong><u>Einschr&auml;nkungen:</u></strong></p>\n\n<p><strong>23112</strong>, planm&auml;&szlig;ige Abfahrt 15:05 Uhr ab Bad Wildungen -<strong> Zug f&auml;llt aus.</strong></p>\n\n<p><strong>23113</strong>, planm&auml;&szlig;ige Abfahrt&nbsp; 15:53 Uhr ab Kassel Hbf - <strong>Zug f&auml;llt zwischen Wabern(Bz Kassel) und Bad Wildungen aus.</strong></p>\n\n<p><strong>23114</strong>, planm&auml;&szlig;ige Abfahrt 17:05 Uhr ab Bad Wildungen - <strong>Zug f&auml;llt zwischen Bad Wildungen und Wabern(Bz Kassel) aus.</strong></p>\n\n<p><strong>23115</strong>, planm&auml;&szlig;ige Abfahrt&nbsp; 17:43 Uhr ab Kassel Hbf - <strong>Zug f&auml;llt zwischen Wabern(Bz Kassel) und Bad Wildungen aus.</strong></p>\n\n<p><strong>23125</strong>, planm&auml;&szlig;ige Abfahrt 17:48 Uhr ab Wabern(Bz Kassel)&nbsp; - <strong>Zug f&auml;llt aus.</strong></p>\n\n<p><strong>23126</strong>, planm&auml;&szlig;ige Abfahrt 18:37 Uhr ab Bad Wildungen -<strong> Zug f&auml;llt aus.</strong></p>\n\n<p><strong>23116</strong>, planm&auml;&szlig;ige Abfahrt 19:05 Uhr ab Bad Wildungen - <strong>Zug f&auml;llt zwischen Bad Wildungen und Warbern(Bz Kassel) aus.</strong></p>\n\n<p><strong>23129</strong>, planm&auml;&szlig;ige Abfahrt 19:48 Uhr ab Wabern(Bz Kassel)&nbsp; - <strong>Zug f&auml;llt aus.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Wir haben f&uuml;r Sie einen <strong>Ersatzverkehr </strong>mit Bussen der Firmen K&uuml;ster und Spratte eingerichtet, der alle Unterwegshalte anf&auml;hrt.&nbsp;</p>\n\n<p><em>Die SEV-Haltestellen befinden sich nicht immer unmittelbar am Bahnhof. Bitte folgen Sie der Beschilderung.</em></p>\n\n<p><br />\n&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
+      "download": {
+        "text": "<p><strong>RB39: Fahrplantabelle mit Busnotverkehr</strong></p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:ed4efe4b-aec9-43d2-b0a4-6f73caeed57d/BNV-RB39-21.06.2022.pdf",
+            "title": "Fahrplantabelle (PDF, 275 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p><strong><u>Es kommt zu folgenden&nbsp;</u></strong><strong><u>Einschr&auml;nkungen:</u></strong></p>\n\n<p><strong>23112</strong>, planm&auml;&szlig;ige Abfahrt 15:05 Uhr ab Bad Wildungen -<strong> Zug f&auml;llt aus.</strong></p>\n\n<p><strong>23113</strong>, planm&auml;&szlig;ige Abfahrt&nbsp; 15:53 Uhr ab Kassel Hbf - <strong>Zug f&auml;llt zwischen Wabern(Bz Kassel) und Bad Wildungen aus.</strong></p>\n\n<p><strong>23114</strong>, planm&auml;&szlig;ige Abfahrt 17:05 Uhr ab Bad Wildungen - <strong>Zug f&auml;llt zwischen Bad Wildungen und Wabern(Bz Kassel) aus.</strong></p>\n\n<p><strong>23115</strong>, planm&auml;&szlig;ige Abfahrt&nbsp; 17:43 Uhr ab Kassel Hbf - <strong>Zug f&auml;llt zwischen Wabern(Bz Kassel) und Bad Wildungen aus.</strong></p>\n\n<p><strong>23125</strong>, planm&auml;&szlig;ige Abfahrt 17:48 Uhr ab Wabern(Bz Kassel)&nbsp; - <strong>Zug f&auml;llt aus.</strong></p>\n\n<p><strong>23126</strong>, planm&auml;&szlig;ige Abfahrt 18:37 Uhr ab Bad Wildungen -<strong> Zug f&auml;llt aus.</strong></p>\n\n<p><strong>23116</strong>, planm&auml;&szlig;ige Abfahrt 19:05 Uhr ab Bad Wildungen - <strong>Zug f&auml;llt zwischen Bad Wildungen und Warbern(Bz Kassel) aus.</strong></p>\n\n<p><strong>23129</strong>, planm&auml;&szlig;ige Abfahrt 19:48 Uhr ab Wabern(Bz Kassel)&nbsp; - <strong>Zug f&auml;llt aus.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Wir haben f&uuml;r Sie einen <strong>Ersatzverkehr </strong>mit Bussen der Firmen K&uuml;ster und Spratte eingerichtet, der alle Unterwegshalte anf&auml;hrt.&nbsp;</p>\n\n<p><em>Die SEV-Haltestellen befinden sich nicht immer unmittelbar am Bahnhof. Bitte folgen Sie der Beschilderung.</em></p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -290,7 +309,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "21.06.2022 14:48",
+      "lastModified": "21.06.2022 15:19",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
