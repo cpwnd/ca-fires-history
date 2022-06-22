@@ -1,36 +1,6 @@
 {
   "news": [
     {
-      "id": "0b3fbf14-d456-4c39-ba7a-41fa7b5ca467",
-      "headline": "Meldungen der DB Regio Bayern",
-      "newsType": "Störungen",
-      "timePeriod": "unbefristet",
-      "introText": "<p>*******</p>\n\n<p><strong>M&uuml;nchen Hbf - Garmisch-Partenkirchen: Streckensperrung wegen eines Zugunfalls. </strong></p>\n\n<p>Nach einem Zugunfall ist die Strecke zwischen Oberau und Garmisch-Partenkirchen weiterhin gesperrt.</p>\n\n<p><strong>Von nicht zwingend erforderlichen Zugfahrten im Bereich Werdenfels wird abgeraten.</strong><br />\n<br />\nBitte rechnen Sie auf der Strecke M&uuml;nchen Hbf - Garmisch-Partenkirchen - Mittenwald mit erheblichen Reisezeitverl&auml;ngerungen. Die Fernverkehrsz&uuml;ge zwischen M&uuml;nchen Hbf und Innsbruck werden &uuml;ber Kufstein umgeleitet.</p>\n\n<p>*******</p>\n\n<p>Meldungen &uuml;ber die <strong>aktuelle Betriebslage 24/7 des Regionalverkehrs in Bayern</strong> finden Sie auf den folgenden Seiten:</p>\n",
-      "connections": [],
-      "internal": {
-        "linkDataList": [
-          {
-            "link": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
-            "title": "Meldungen der DB Regio Bayern",
-            "info": "",
-            "openInNewTab": true
-          }
-        ]
-      },
-      "closingText": "<p>Bitte informieren Sie sich regelm&auml;&szlig;ig vor Abfahrt auch in der&nbsp;<strong><a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a> oder <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a> App&nbsp;</strong>&uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p><strong>Verkehrsmeldungen 24/7</strong> finden Sie auch auf unseren <strong>Twitter-Kan&auml;len</strong>:&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagent_N\" target=\"_blank\">Streckenagent S-Bahn N&uuml;rnberg</a>&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagentAS\" target=\"_blank\">Streckenagent Allg&auml;u-Schwaben</a></p>\n\n<p><a href=\"https://twitter.com/streckenagentOB\" target=\"_blank\">Streckenagent Oberbayern</a></p>\n\n<p><a href=\"https://twitter.com/streckenagentFR\" target=\"_blank\">Streckenagent Franken</a>&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagentNB\" target=\"_blank\">Streckenagent Nordostbayern</a>&nbsp;</p>\n",
-      "priority": "1",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "by"
-      ],
-      "lastModified": "21.06.2022 16:03",
-      "author": "bayern",
-      "expand": false,
-      "priorityValue": 201
-    },
-    {
       "id": "1256f988-9bb8-4e48-85b5-c6cbce29b4b0",
       "headline": "Zugausfälle auf der RE7",
       "newsType": "Feuerwehreinsatz",
@@ -367,6 +337,36 @@
       "lastModified": "30.05.2022 04:31",
       "author": "s_bahn_muenchen",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "0b3fbf14-d456-4c39-ba7a-41fa7b5ca467",
+      "headline": "Meldungen der DB Regio Bayern",
+      "newsType": "Störungen",
+      "timePeriod": "unbefristet",
+      "introText": "<p>Meldungen &uuml;ber die <strong>aktuelle Betriebslage 24/7 des Regionalverkehrs in Bayern</strong> finden Sie auf den folgenden Seiten:</p>\n",
+      "connections": [],
+      "internal": {
+        "linkDataList": [
+          {
+            "link": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+            "title": "Meldungen der DB Regio Bayern",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>Bitte informieren Sie sich regelm&auml;&szlig;ig vor Abfahrt auch in der&nbsp;<strong><a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a> oder <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a> App&nbsp;</strong>&uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p><strong>Verkehrsmeldungen 24/7</strong> finden Sie auch auf unseren <strong>Twitter-Kan&auml;len</strong>:&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagent_N\" target=\"_blank\">Streckenagent S-Bahn N&uuml;rnberg</a>&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagentAS\" target=\"_blank\">Streckenagent Allg&auml;u-Schwaben</a></p>\n\n<p><a href=\"https://twitter.com/streckenagentOB\" target=\"_blank\">Streckenagent Oberbayern</a></p>\n\n<p><a href=\"https://twitter.com/streckenagentFR\" target=\"_blank\">Streckenagent Franken</a>&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagentNB\" target=\"_blank\">Streckenagent Nordostbayern</a>&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "by"
+      ],
+      "lastModified": "22.06.2022 13:28",
+      "author": "bayern",
+      "expand": false,
       "priorityValue": 101
     },
     {
