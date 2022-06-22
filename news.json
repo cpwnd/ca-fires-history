@@ -31,8 +31,8 @@
       "introText": "<p><strong>Nach einem Zugunfall ist die Strecke zwischen Oberau und Garmisch-Partenkirchen weiterhin gesperrt. Die Z&uuml;ge aus Richtung M&uuml;nchen Hbf wenden vorzeitig in Oberau.&nbsp;</strong><br />\n<br />\nWir haben einen Schienenersatzverkehr mit Bussen zwischen Oberau und Garmisch-Partenkirchen f&uuml;r Sie eingerichtet. Aufgrund der bestehenden Streckensperrung zwischen Garmisch-Partenkirchen und Mittenwald wird der Ersatzverkehr in Garmisch-Partenkirchen von/nach Mittenwald verl&auml;ngert, wo ein Umstieg von/zu den Z&uuml;gen aus/in Richtung Innsbruck Hbf m&ouml;glich ist. Die Abfahrtszeiten des Schienenersatzverkehrs sind in der Fahrplanauskunft auf www.bahn.de ver&ouml;ffentlicht. Bitte beachten Sie, dass die Mitnahme von Fahrr&auml;dern im Bus nicht m&ouml;glich ist.<br />\n<br />\nBitte nutzen Sie zwischen Oberau und Garmisch-Partenkirchen auch die Regionalbuslinie 9606.<br />\n<br />\nRechnen Sie bitte auf der Strecke M&uuml;nchen Hbf - Garmisch-Partenkirchen - Mittenwald mit erheblichen Reisezeitverl&auml;ngerungen.<br />\n<br />\n<strong>Von nicht zwingend erforderlichen Zugfahrten im Bereich Werdenfels wird abgeraten.&nbsp;</strong><br />\n<br />\nDie Fernverkehrsz&uuml;ge zwischen M&uuml;nchen Hbf und Innsbruck werden &uuml;ber Kufstein umgeleitet.<br />\n&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linien DB Regio Bayern: ",
       "connections": [
-        "RB 6/S6: München Hbf - Garmisch-Partenkirchen - Mittenwald ",
-        "RB 60: München Hbf - Garmisch-Partenkirchen "
+        "RB 6/S6: München Hbf - Garmisch-Partenkirchen - Mittenwald - Seefeld (Tirol) - Innsbruck (Tirol) ",
+        "RB 60: München Hbf - Garmisch-Partenkirchen - Reutte (Tirol) - Pfronten-Steinach"
       ],
       "closingText": "<p>Bitte informieren Sie sich regelm&auml;&szlig;ig auf&nbsp;<a href=\"https://www.bahn.de/\" target=\"_blank\">bahn.de</a>&nbsp;bzw. im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">App DB Streckenagent</a>&nbsp;&uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagentOB\">Streckenagent-Meldungen 24/7 aus Oberbayern &uuml;ber Twitter</a></p>\n\n<p><a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\">Aktuelle Betriebslage DB Regio Bayern</a></p>\n",
       "priority": "1",
@@ -42,7 +42,7 @@
       "areas": [
         "by"
       ],
-      "lastModified": "22.06.2022 13:50",
+      "lastModified": "22.06.2022 15:44",
       "author": "bayern",
       "expand": false,
       "priorityValue": 201
@@ -449,9 +449,9 @@
       "areas": [
         "by"
       ],
-      "lastModified": "22.06.2022 13:28",
+      "lastModified": "22.06.2022 15:45",
       "author": "bayern",
-      "expand": false,
+      "expand": true,
       "priorityValue": 101
     },
     {
