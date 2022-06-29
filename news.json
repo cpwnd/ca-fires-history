@@ -1,17 +1,21 @@
 {
   "news": [
     {
-      "id": "252af380-9e13-4220-bd13-6104e6b4438a",
-      "headline": "Beeinträchtigungen zwischen Köln und Amsterdam",
-      "newsType": "Reparatur an einem Signal",
-      "timePeriod": "Am Mittwoch, 29.06.2022 bis in die Mittagsstunden",
-      "introText": "<p>Aufgrund einer Reparatur an einem Signal zwischen Oberhausen und Arnhem kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 60 Minuten.</p>\n\n<p>Durch die Umleitung entfallen die Halte in D&uuml;sseldorf Hbf, Duisburg Hbf, Oberhausen Hbf und Arnhem. Ersatzweise halten die Z&uuml;ge in M&ouml;nchengladbach Hbf.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "id": "90a9cc7e-a966-4c15-bd03-a2da7ea0be72",
+      "headline": "Informationen zur Weiterreise mit der Bahn bei Flugausfall",
+      "newsType": "Flugausfälle",
+      "timePeriod": "heute, am 29.06.2022",
+      "introText": "<p>Ein mittlerweile behobener Software-Fehler bei der Deutschen Flugsicherung (DFS) am heutigen Mittwochmorgen f&uuml;hrt weiterhin zu Flugausf&auml;llen an mehreren deutschen Flugh&auml;fen.</p>\n\n<p>Flugreisende, die von einem Flugausfall betroffen sind, wenden sich bitte an ihre Airline, um die Weiterreise-M&ouml;glichkeiten zu kl&auml;ren. F&uuml;r die Fahrt mit Fernz&uuml;gen der Deutschen Bahn ist ein Gutschein der Airline (&quot;Good for Train&quot;) oder ein regul&auml;res DB-Ticket erforderlich.</p>\n",
+      "connectionsHeadline": "Folgende Direktverbindungen werden von Fernzügen der Deutschen Bahn angeboten (Auswahl):",
       "connections": [
-        "ICE-Züge Frankfurt(M) - Köln - Oberhausen - Amsterdam"
+        "Flughafen Frankfurt in Richtung Frankfurt(M) Hbf, Hamburg, Berlin, Köln, München, Wien, Basel, Brüssel und Amsterdam",
+        "Flughafen Berlin/Brandenburg in Richtung Berlin Hbf, Dresden und Rostock",
+        "Flughafen Düsseldorf in Richtung Düsseldorf Hbf, Hannover und Berlin",
+        "Flughafen Leipzig/Halle in Richtung Leipzig Hbf, Halle Hbf, Dresden, Hannover und Köln",
+        "Flughafen Köln/Bonn einzelne Züge in Richtung Köln Messe/Deutz, Frankfurt(M), Nürnberg, München"
       ],
-      "closingText": "<p><strong>Reiseempfehlung:</strong></p>\n\n<p>Nutzen Sie zwischen <strong>Oberhausen und K&ouml;ln</strong> die verbleibenden Fernverkehrsz&uuml;ge sowie den Regionalverkehr.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
+      "closingText": "<p>Bitte informieren Sie sich vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
       "distance": [
         "longDistance"
       ],
@@ -33,10 +37,10 @@
         "sh",
         "th"
       ],
-      "lastModified": "29.06.2022 06:25",
+      "lastModified": "29.06.2022 10:29",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 216
+      "priorityValue": 316
     },
     {
       "id": "312bc0d2-7260-4196-bca0-928db5efccbd",
@@ -401,8 +405,8 @@
             "openInNewTab": false
           },
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:f3696e39-cf5b-40e4-9a8e-1f55a773bcfd/Schwarzwaldbahn%20ab%2030.6..pdf",
-            "title": "Veränderter Fahrplan Offenburg - Konstanz ab 30.6. (PDF, 750 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:5aff67dd-1cad-4e3f-8d01-31fd3bef247b/Schwarzwaldbahn%20ab%2030.06.22.pdf",
+            "title": "Veränderter Fahrplan Offenburg - Konstanz ab 30.6. (PDF, 130 KB)",
             "info": "",
             "openInNewTab": false
           }
@@ -416,7 +420,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "29.06.2022 00:20",
+      "lastModified": "29.06.2022 10:02",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
