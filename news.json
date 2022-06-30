@@ -232,11 +232,22 @@
       "headline": "Kein Zugverkehr zwischen Kaiserslautern und Lauterecken-Grumbach am Wochenende",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "Samstag, 02.07.2022 und Sonntag, 03.07.2022",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahrpersonal wird der Zugverkehr zwischen Kaiserslautern Hbf und Lauterecken am Wochenende Samstag, 2. Juli 2022 und Sonntag, 3. Juli 2022 jeweils ganzt&auml;gig eingestellt.</p>\n\n<p>Wir arbeiten derzeit an der Einrichtung eines Ersatzverkehrs mit Bussen. Sobald uns weitere Informationen dazu vorliegen halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahrpersonal wird der Zugverkehr zwischen Kaiserslautern Hbf und Lauterecken-Grumbach am Wochenende Samstag, 2. Juli 2022 und Sonntag, 3. Juli 2022 jeweils ganzt&auml;gig eingestellt.</p>\n",
       "connectionsHeadline": "Betroffene Linie: ",
       "connections": [
-        "RB66 - Kaiserslautern - Wolfstein - Lauterecken-Grumbach"
+        "RB66  Kaiserslautern - Wolfstein - Lauterecken-Grumbach"
       ],
+      "download": {
+        "text": "<p>Wir haben einen Ersatzverkehr mit Bussen zwischen Kaiserslautern Hbf und Lauterecken-Grumbach f&uuml;r Sie eingerichtet, der alle Unterwegshalte anf&auml;hrt. Den Ersatzfahrplan finden Sie als Download weiter unten.</p>\n\n<p>Die Mitnahme von Fahrr&auml;dern in den Bussen ist aus Platzgr&uuml;nden leider nicht m&ouml;glich.</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:a7b278ed-657b-44ff-81e4-f093c82f00ea/RB66%20-%20Kaiserslautern-Lauterecken-Kaiserslautern.pdf",
+            "title": "RB66 - Ersatzfahrplan Kaiserslautern <> Lauterecken-Grumbach (PDF, 460 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
       "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
       "priority": "0",
       "distance": [
@@ -245,7 +256,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "30.06.2022 08:03",
+      "lastModified": "30.06.2022 20:26",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
