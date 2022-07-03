@@ -94,26 +94,6 @@
       "priorityValue": 201
     },
     {
-      "id": "95156dec-20c4-4a36-9cb8-64ffde92de9b",
-      "headline": "Ausfall RB55",
-      "newsType": "kurzfristige Krankmeldung von Personal",
-      "timePeriod": "02.und 03.Juli 2022",
-      "introText": "<p>Wegen kurzfristiger Krankmeldungen von Personal m&uuml;ssen am kommenden Wochenende (02. bis 03.Juli 2022) alle Z&uuml;ge der Linie <strong>RB55</strong> ausfallen.</p>\n\n<p>Ein Ersatzverkehr mit Bussen kann nicht bereitgestellt werden.&nbsp;</p>\n\n<p>Bitte nutzen Sie als Ersatz die Z&uuml;ge der Regionalexpresslinie RE6. Diese Z&uuml;ge halten zwischen Kremmen und Hennigsdorf auf <strong>allen</strong> Unterwegsbahnh&ouml;fen.&nbsp;</p>\n",
-      "connections": [],
-      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "01.07.2022 13:27",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "8a31d88c-ca47-4cc0-a883-6b15645bb263",
       "headline": "Ausfall RE7 Zossen - Flughafen BER - Terminal 1-2",
       "newsType": "Bauarbeiten",
@@ -430,40 +410,6 @@
         "he"
       ],
       "lastModified": "01.07.2022 13:48",
-      "author": "hessen",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "1970e1c4-b318-4262-a236-ba0eea8eaad6",
-      "headline": "Ersatzverkehr mit Bussen zwischen Gießen - Friedberg(Hess) - Hanau",
-      "newsType": "Eingeschränktes Zugangebot zwischen Friedberg(Hess) und Hanau Hbf",
-      "timePeriod": "2./3. Juli 2022",
-      "introText": "<p>Am Wochenende 2./3. Juli 2022 verkehren die Z&uuml;ge der Linie RB49 nicht zwischen Gie&szlig;en - Friedberg(Hess) - Hanau Hbf.</p>\n",
-      "connectionsHeadline": "Betroffene Linien",
-      "connections": [
-        "RB49: Gießen - Friedberg(Hess) - Hanau Hbf\t\t"
-      ],
-      "download": {
-        "text": "<p><strong>Fahrplan f&uuml;r den Ersatzverkehr</strong></p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:f6943ad0-6675-4d0d-a89a-1516a8011bad/07-22_RB49_Ausf%C3%A4lle_WE.pdf",
-            "title": "Fahrplan (PDF, 153 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p>Wir haben f&uuml;r Sie auf dem Teilabschnitt Friedberg(Hess) &ndash; Hanau einen <strong>Ersatzverkehr </strong>mit Bussen eingerichtet.&nbsp;Die Mitnahme von Fahrr&auml;dern im Bus ist nicht m&ouml;glich.</p>\n\n<p>Unsere Empfehlung f&uuml;r Reisende zwischen <strong>Gie&szlig;en und Friedberg(Hess</strong>):</p>\n\n<p>&bull;<strong> RE30: Frankfurt(Main) Hbf &ndash; Gie&szlig;en &ndash; Kassel,</strong></p>\n\n<p>&bull; <strong>RB40: Frankfurt(Main) Hbf &ndash; Gie&szlig;en &ndash; Dillenburg,</strong></p>\n\n<p>&bull;<strong> RB41: Frankfurt(Main) Hbf &ndash; Gie&szlig;en &ndash;Treysa,</strong></p>\n\n<p>&bull; <strong>RE98/99:</strong>&nbsp;<strong>Frankfurt(Main)Hbf - Gie&szlig;en - Kassel Hbf / Siegen Hbf.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App.</p>\n\n<p>W&auml;hlen Sie gegebenenfalls eine fr&uuml;here Zugverbindung, um Ihre Anschl&uuml;sse an Ihren Umsteigebahnh&ouml;fen erreichen zu k&ouml;nnen.</p>\n\n<p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "he"
-      ],
-      "lastModified": "27.06.2022 16:13",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
