@@ -122,7 +122,7 @@
     },
     {
       "id": "40fa2f64-c6e5-4f51-b949-d3268986a31e",
-      "headline": "Streckensperrung zwischen Hannover und Lehrte",
+      "headline": "Streckensperrung zwischen Hannover und Braunschweig",
       "newsType": "Böschungsbrand",
       "timePeriod": "Am Dienstag, 05.07.2022 bis in die Nachmittagsstunden",
       "introText": "<p>Aufgrund eines B&ouml;schungsbrandes im Bereich Lehrte ist die Strecke zwischen Braunschweig und Lehrte derzeit gesperrt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 15 Minuten. Durch die Umleitung entfallen die Halte in Lehrte und Peine.</p>\n",
@@ -138,7 +138,7 @@
       "areas": [
         "ni"
       ],
-      "lastModified": "05.07.2022 16:15",
+      "lastModified": "05.07.2022 16:54",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
@@ -464,11 +464,34 @@
       "priorityValue": 101
     },
     {
+      "id": "cdc7e30b-bd49-4b56-966e-7911aeef7b1c",
+      "headline": "Streik bei der Französischen Bahn (SNCF). Zugausfälle zwischen Mulhouse Ville und Müllheim(Baden)",
+      "newsType": "Streik bei der Französischen Bahn (SNCF)",
+      "timePeriod": "am Mittwoch, den 6. Juli 2022",
+      "introText": "<p>Aufgrund eines kurzfristigen Streiks bei der Franz&ouml;sischen Eisenbahn (SNCF) kommt es am Mittwoch, den 6. Juli 2022 zwischen <strong>M&uuml;llheim(Baden) und Mulhouse Ville</strong> zu Zugausf&auml;llen.</p>\n\n<p>Ein Ersatzverkehr mit Bus ist eingerichtet.</p>\n\n<p>Abfahrtszeiten der Busse in M&uuml;llheim(Baden): Fahrplanm&auml;&szlig;ig, wie die Abfahrtszeit der Z&uuml;ge.</p>\n\n<p>Abfahrtszeiten der Busse in Mulhouse Ville: ab 06:18 Uhr, 07:18 Uhr, usw.</p>\n",
+      "connectionsHeadline": "Betroffene Strecke:",
+      "connections": [
+        "RB 107: Müllheim(Baden) - Mulhouse Ville"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen<strong> <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-App</a>&nbsp;</strong>immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "05.07.2022 17:03",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "ae872427-149e-4f08-afcc-d0636ecd936b",
       "headline": "Beeinträchtigungen im Raum Ulm",
       "newsType": "Reparatur an einem Stellwerk",
       "timePeriod": "Am Dienstag, 05.07.2022 ",
-      "introText": "<p>Ein defektes Stellwerk im Raum Ulm Hbf beeintr&auml;chtigt erneut den Zugverkehr. In der Folge kommt es zu sehr hohen Versp&auml;tungen und Teilausf&auml;llen. Bisher haben wir leider keine Informationen zur Dauer der St&ouml;rung.&nbsp;Bitte pr&uuml;fen Sie Ihre Reiseverbindung. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.&nbsp;</p>\n",
+      "introText": "<p>Ein defektes Stellwerk im Raum Ulm Hbf beeintr&auml;chtigt erneut den Zugverkehr. In der Folge kann es zu Versp&auml;tungen und ggf. Teilausf&auml;llen kommen. Bisher haben wir leider keine Informationen zur Dauer der St&ouml;rung.&nbsp;Bitte pr&uuml;fen Sie Ihre Reiseverbindung. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "RS 2 Ulm Hbf - Aulendorf",
@@ -486,7 +509,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "05.07.2022 16:13",
+      "lastModified": "05.07.2022 16:52",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
