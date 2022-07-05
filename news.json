@@ -1,30 +1,6 @@
 {
   "news": [
     {
-      "id": "14fbe124-dad3-484a-a1e6-bd3ed2f34a35",
-      "headline": "Beeinträchtigungen zwischen Stuttgart und Augsburg",
-      "newsType": "Reparatur an einem Stellwerk",
-      "timePeriod": "Am Dienstag, 05.07.2022 bis in die Abendstunden",
-      "introText": "<p>Aufgrund der Reparatur eines Stellwerkes in Ulm auf der Strecke Stuttgart &ndash; Augsburg ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Versp&auml;tungen und Haltausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Einzelne ICE/IC-Züge zwischen Stuttgart und Augsburg mit Zwischenhalt in Ulm Hbf werden umgeleitet und verspäten sich dadurch um etwa 60 Minuten. Der Halt Ulm Hbf und Günzburg entfällt für diese."
-      ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "bw",
-        "by"
-      ],
-      "lastModified": "05.07.2022 13:12",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 302
-    },
-    {
       "id": "64b9b4b6-6525-4f64-bd3d-fbd0d038a620",
       "headline": "Streikankündigung in Frankreich",
       "newsType": "Streik",
@@ -339,6 +315,41 @@
         "he"
       ],
       "lastModified": "04.07.2022 19:14",
+      "author": "hessen",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "c5176419-bec8-4dc4-b500-57737da5c237",
+      "headline": "Nicht barrierefreier Ersatzverkehr auf den Linien RB41 und RB49",
+      "newsType": "Eingeschränktes Zugangebot ",
+      "timePeriod": "11.07.2011 bis voraussichtlich 02.09.2022",
+      "introText": "<p><strong>Auf den Linien RB41 sowie RB49 kommt es vom 11.07. bis zum 02.09.2022 (jeweils montags bis freitags) zum Einsatz von Ersatzz&uuml;gen.</strong></p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "RB41 Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Stadtallendorf - Treysa",
+        "RB49: Hanau Hbf - Friedberg(Hess) - Gießen"
+      ],
+      "download": {
+        "text": "<p><strong>Die aktuellen Fahrplantabellen</strong></p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:041bc9bf-299e-46ff-8bcb-fafbab3f04da/09-22_RB41_RB49_Cemtralbahn_NichtBarrierefrei.pdf",
+            "title": "Abfahrtszeiten der nicht barrierefreien Züge (RB41 und RB49) (PDF, 160 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>Die Fahrten des Ersatzverkehrs auf den Linien RB41 und RB49 sind <strong>nicht barrierefrei.</strong><br />\nBitte hierf&uuml;r die oben angeh&auml;ngte Fahrplantabelle beachten.</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App.</p>\n\n<p>W&auml;hlen Sie gegebenenfalls eine fr&uuml;here Zugverbindung, um Ihre Anschl&uuml;sse an Ihren Umsteigebahnh&ouml;fen erreichen zu k&ouml;nnen.</p>\n\n<p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "he"
+      ],
+      "lastModified": "05.07.2022 19:32",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
