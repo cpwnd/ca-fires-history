@@ -278,9 +278,21 @@
           },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:4b1035d8-2fb2-4edf-ba49-9072d3fb3452/RB39-Ausf.07.07..pdf",
-            "title": "RB39 Ausfälle ab 07.07.22 (PDF, 197 KB)",
-            "info": "RB39 ab 07.07.",
+            "title": "RB39 Ausfälle am 07.07.22 (PDF, 197 KB)",
+            "info": "RB39 am 07.07.",
             "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:41f9b504-e8ac-4d5f-8686-394e65a6e709/RB39-Ausf.08.07..pdf",
+            "title": "RB39 Ausfälle am 08.07.2022 (PDF, 197 KB)",
+            "info": "RB39",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:b8ac5c42-7c3c-431a-8081-976edd48e12d/RB39-Ausf.09.u.10.07..pdf",
+            "title": "RB39 Ausfälle am 09./10.07.2022 (PDF, 196 KB)",
+            "info": "RB39",
+            "openInNewTab": false
           },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:486e9b75-bdcc-4c1e-b8ba-109ec1fca91e/RB94-Ausf.07.-15.07..pdf",
@@ -304,7 +316,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "07.07.2022 07:31",
+      "lastModified": "07.07.2022 18:17",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
@@ -400,6 +412,30 @@
         "he"
       ],
       "lastModified": "01.07.2022 13:48",
+      "author": "hessen",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "1ae42a9b-7e31-49c5-a1b5-546d95251856",
+      "headline": "Einschränkungen zwischen Gießen und Frohnhausen(Lahn) / Marburg(Lahn)",
+      "newsType": "Kurzfristige Krankheitsfälle",
+      "timePeriod": "Nacht Donnerstag/Freitag, den 07./08. Juli 2022",
+      "introText": "<p>Es kommt auf den Linien RE30 und RB40/41 zu Versp&auml;tungen und Teilausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Kassel Hbf",
+        "RB40/41: Frankfurt(Main)Hbf / Frankfurt(Main)Süd - Gießen - Dillenburg / Treysa"
+      ],
+      "closingText": "<p>Die genauen Auswirkungen sind derzeit noch nicht absch&auml;tzbar.</p>\n\n<p>Wir arbeiten an der Erstellung eines Ersatzkonzeptes, inklusive eines Busnotverkehrs.</p>\n\n<p>Wir informieren Sie, sobald uns neue Informationen vorliegen.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter: <a href=\"tel:06924445710\">069 24445710</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "he"
+      ],
+      "lastModified": "07.07.2022 18:23",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
