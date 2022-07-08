@@ -1,6 +1,31 @@
 {
   "news": [
     {
+      "id": "cc8cf6e7-cea8-4051-8ad8-e1e370829df6",
+      "headline": "Einschränkungen S-Bahn Mitteldeutschland, S 1 fährt verknüpft mit S 6",
+      "newsType": "Fahrplanänderung im Streckenverlauf",
+      "timePeriod": "am 08. Juli und vom 13. Juli bis voraussichtlich 28. August 2022",
+      "introText": "<p>Bitte beachten Sie, aus betriebllichen Gr&uuml;nden verkehren die beiden S-Bahn Linien S 1 und S 6 miteinander verkn&uuml;pft.</p>\n",
+      "connectionsHeadline": "Folgende Linien sind davon betroffen:",
+      "connections": [
+        "S 1 - Leipzig Miltitzer-Allee - Leipzig-Stötteritz",
+        "S 6 - Leipzig Messe - Borna - Geithain"
+      ],
+      "closingText": "<p>Dadurch ergeben sich folgende Fahrplan&auml;nderungen:</p>\n\n<p><strong>S 1&nbsp;</strong>Der Streckenabschnitt zwischen Leipzig Hbf (tief) und Leipzig-St&ouml;tteritz entf&auml;llt. Nutzen Sie hier bitte alternativ die S-Bahn Linien S 2 und S 3.</p>\n\n<p><strong>S 6&nbsp;</strong>Der Streckenabschnitt zwischen Leipzig Hbf (tief) und Leipzig Messe entf&auml;llt. Nutzen Sie hier bitte alternativ die S-Bahn Linien S 5 und S 5X.</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren. Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>\n",
+      "priority": "1",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sn",
+        "st"
+      ],
+      "lastModified": "08.07.2022 12:42",
+      "author": "suedost",
+      "expand": false,
+      "priorityValue": 202
+    },
+    {
       "id": "4c94e7ec-466a-4311-b2a5-37d44a5ba40b",
       "headline": "Beeinträchtigungen zwischen Mannheim und Frankfurt(M)",
       "newsType": "Notarzteinsatz auf der Strecke",
@@ -425,14 +450,14 @@
       "id": "1ae42a9b-7e31-49c5-a1b5-546d95251856",
       "headline": "Einschränkungen zwischen Gießen und Marburg(Lahn)",
       "newsType": "Kurzfristige Krankheitsfälle",
-      "timePeriod": "Nacht Freitag/Samstag, den 08./09. Juli 2022 ca. 20:00 - 5:00 Uhr",
+      "timePeriod": "Nacht Freitag/Samstag, den 08./09. Juli 2022 ca. 20:00 - 6:00 Uhr",
       "introText": "<p>Es kommt auf den Linien RE30 und RB40/41 zu Versp&auml;tungen und Teilausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Kassel Hbf",
         "RB40/41: Frankfurt(Main)Hbf / Frankfurt(Main)Süd - Gießen - Dillenburg / Treysa"
       ],
-      "closingText": "<p><u><strong>Folgende Einschr&auml;nkungen:</strong></u></p>\n\n<p>Die Z&uuml;ge aus Richtung Frankfurt(Main)Hbf enden vorzeitig in Gie&szlig;en und wenden dort. Die Z&uuml;ge aus Richtung Kassel Hbf / Treysa enden vorzeitig in Marburg(Lahn) und wenden dort.</p>\n\n<p>Wir haben f&uuml;r Sie einen <strong>Busnotverkehr</strong>&nbsp;im Pendelverkehr zwischen Gie&szlig;en und Marburg(Lahn) eingerichtet.</p>\n\n<p>Wir informieren Sie, sobald uns neue Informationen vorliegen.</p>\n\n<p>Die Beeintr&auml;chtigung besteht zwischen 20:00 - 5:00 Uhr.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter: <a href=\"tel:06924445710\">069 24445710</a></p>\n",
+      "closingText": "<p><u><strong>Folgende Einschr&auml;nkungen:</strong></u></p>\n\n<p>Die Z&uuml;ge aus Richtung Frankfurt(Main)Hbf enden vorzeitig in Gie&szlig;en und wenden dort. Die Z&uuml;ge aus Richtung Kassel Hbf / Treysa enden vorzeitig in Marburg(Lahn) und wenden dort.</p>\n\n<p>Wir haben f&uuml;r Sie einen <strong>Busnotverkehr</strong>&nbsp;im Pendelverkehr zwischen Gie&szlig;en und Marburg(Lahn) eingerichtet.</p>\n\n<p>Wir informieren Sie, sobald uns neue Informationen vorliegen.</p>\n\n<p>Die Beeintr&auml;chtigung besteht zwischen 20:00 - 6:00 Uhr.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter: <a href=\"tel:06924445710\">069 24445710</a></p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -440,7 +465,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "08.07.2022 11:41",
+      "lastModified": "08.07.2022 12:45",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
