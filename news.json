@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "id": "2353fb98-7230-4f2b-9aa4-d9400ce936c5",
+      "headline": "Entschärfung einer Weltkriegsbombe in Koblenz-Lützel",
+      "newsType": "Bombenentschärfung",
+      "timePeriod": "Am Freitag, 08.07.2022, bis in die Abendstunden",
+      "introText": "<p>Aufgrund der Entsch&auml;rfung einer Weltkriegsbombe kommt es in Koblenz-L&uuml;tzel derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge m&uuml;ssen umgeleitet werden und versp&auml;ten sich dadurch um etwa 20 Minuten. Die Halte K&ouml;ln Hbf, Bonn Hbf, Remagen und Andernach entfallen. Ersatzhalte in K&ouml;ln Messe/Deutz und Bonn-Beuel werden eingerichtet.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "ICE-/IC-/EC-Züge zwischen Köln und Koblenz"
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "nw",
+        "rp"
+      ],
+      "lastModified": "08.07.2022 18:13",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
+    },
+    {
       "id": "cc8cf6e7-cea8-4051-8ad8-e1e370829df6",
       "headline": "Einschränkungen S-Bahn Mitteldeutschland, S 1 fährt verknüpft mit S 6",
       "newsType": "Fahrplanänderung im Streckenverlauf",
@@ -325,14 +349,20 @@
             "openInNewTab": true
           },
           {
+            "link": "https://assets.static-bahn.de/dam/jcr:ffa48f4a-ff86-4a64-9e6d-793835759b49/RB4-Ausf.10.07..pdf",
+            "title": "RB4 Ausfälle am 10.07. (PDF, 200 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
             "link": "https://assets.static-bahn.de/dam/jcr:41f9b504-e8ac-4d5f-8686-394e65a6e709/RB39-Ausf.08.07..pdf",
             "title": "RB39 Ausfälle am 08.07.2022 (PDF, 197 KB)",
             "info": "RB39",
             "openInNewTab": true
           },
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:d32e01e7-762b-4c43-b415-1509f71fb7d5/RB39-Ausf.09.u.10.07..pdf",
-            "title": "RB39 Ausfälle am 09.07. und 10.07. (PDF, 196 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:d525cd30-b45e-4acb-936c-ca89ff855192/RB39-Ausf.09.u.10.07..pdf",
+            "title": "RB39 Ausfälle am 09.07 und 10.07. (PDF, 196 KB)",
             "info": "",
             "openInNewTab": true
           },
@@ -365,10 +395,16 @@
             "title": "RB97 Ausfälle am 09.07. (PDF, 218 KB)",
             "info": "",
             "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:7d192eee-84fb-4cb0-afb1-90f46a2a830a/RB97-Ausf.10.07..pdf",
+            "title": "RB97-Ausf.10.07..pdf (PDF, 218 KB)",
+            "info": "",
+            "openInNewTab": true
           }
         ]
       },
-      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p><u><strong>RB4:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zugausf&auml;llen.&nbsp;</p>\n\n<p><u>Folgende ausfallende Fahrten werden <strong>durch Busse ersetzt:</strong></u></p>\n\n<p><strong>23016</strong>, planm&auml;&szlig;ige Abfahrt in Korbach Hbf 12:05 Uhr</p>\n\n<p><strong>23017,&nbsp;</strong>planm&auml;&szlig;ige Abfahrt in Kassel-Wilhelmsh&ouml;he 13:39 Uhr</p>\n\n<p><strong>23024,&nbsp;</strong>planm&auml;&szlig;ige Abfahrt in Korbach Hbf 16:05 Uhr</p>\n\n<p><strong>23025,&nbsp;</strong>planm&auml;&szlig;ige Abfahrt in Kassel-Wilhelmsh&ouml;he 17:39 Uhr</p>\n\n<p><strong>23032,&nbsp;</strong>planm&auml;&szlig;ige Abfahrt in Korbach Hbf 20:05 Uhr</p>\n\n<p>Der<strong> Bus </strong>h&auml;lt in Kassel-Wilhelmsh&ouml;he Haltestelle B, Zierenberg Bahnhof, Wolfhagen Bahnhof, Ehringen Mitte, Volkmarsen Bahnhof, Bad Arolsen Bahnhof, Mengeringhausen Bahnhof, Twiste Mitte und Korbach ZOB am Gleis 3.</p>\n\n<p><strong>Nutzen Sie auch die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB4.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB39 / RE39:</strong></u></p>\n\n<p>Bis zum&nbsp;<strong>10.07.2022</strong> k&ouml;nnen wir den Betrieb der Linie RB39 / RE39 jeweils erst ab ca. 12:00 Uhr aufnehmen. Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p>Wir versuchen aktuell noch einen&nbsp;<strong>Busnotverkehr </strong>einzurichten, weisen aber vorsorglich darauf hin, dass die Z&uuml;ge vermutlich ersatzlos ausfallen werden. Leider sind aktuell keine Busunternehmen bereit Zusatzleistungen zu &uuml;bernehmen.</p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB94:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zugausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB94.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB97 / RE97:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zugausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB97 / RE97.&nbsp;</strong></p>\n\n<p><strong>F&uuml;r Fahrten zwischen Brilon Stadt und Brilon Wald nutzen Sie bitte auch die Z&uuml;ge der Linie RE57.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
+      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p><u><strong>RB4:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zugausf&auml;llen.&nbsp;</p>\n\n<p><u>Folgende ausfallende Fahrten werden <strong>durch Busse ersetzt:</strong></u></p>\n\n<p><strong>23016</strong>, planm&auml;&szlig;ige Abfahrt in Korbach Hbf 12:05 Uhr</p>\n\n<p><strong>23017,&nbsp;</strong>planm&auml;&szlig;ige Abfahrt in Kassel-Wilhelmsh&ouml;he 13:39 Uhr</p>\n\n<p><strong>23024,&nbsp;</strong>planm&auml;&szlig;ige Abfahrt in Korbach Hbf 16:05 Uhr</p>\n\n<p><strong>23025,&nbsp;</strong>planm&auml;&szlig;ige Abfahrt in Kassel-Wilhelmsh&ouml;he 17:39 Uhr</p>\n\n<p><strong>23032,&nbsp;</strong>planm&auml;&szlig;ige Abfahrt in Korbach Hbf 20:05 Uhr</p>\n\n<p>Der<strong> Bus </strong>h&auml;lt in Kassel-Wilhelmsh&ouml;he Haltestelle B, Zierenberg Bahnhof, Wolfhagen Bahnhof, Ehringen Mitte, Volkmarsen Bahnhof, Bad Arolsen Bahnhof, Mengeringhausen Bahnhof, Twiste Mitte und Korbach ZOB am Gleis 3.</p>\n\n<p><strong>Nutzen Sie auch die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB4.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB39 / RE39:</strong></u></p>\n\n<p>Bis zum&nbsp;<strong>10.07.2022</strong> k&ouml;nnen wir den Betrieb der Linie RB39 / RE39 jeweils erst ab ca. 12:00 Uhr aufnehmen. Es kommt zu Zug- und Teilausf&auml;llen. Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p>Wir versuchen aktuell noch einen&nbsp;<strong>Busnotverkehr </strong>einzurichten, weisen aber vorsorglich darauf hin, dass die Z&uuml;ge vermutlich ersatzlos ausfallen werden. Leider sind aktuell keine Busunternehmen bereit Zusatzleistungen zu &uuml;bernehmen.</p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB94:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zugausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB94.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB97 / RE97:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zug- und Teilausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB97 / RE97.&nbsp;</strong></p>\n\n<p><strong>F&uuml;r Fahrten zwischen Brilon Stadt und Brilon Wald nutzen Sie bitte auch die Z&uuml;ge der Linie RE57.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -376,7 +412,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "08.07.2022 16:38",
+      "lastModified": "08.07.2022 18:21",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
