@@ -1,44 +1,6 @@
 {
   "news": [
     {
-      "id": "3fa253f4-c071-4c4b-b229-5a25b87d802a",
-      "headline": "Beeinträchtigungen zwischen Norddeich und Emden",
-      "newsType": "Reparatur an der Strecke",
-      "timePeriod": "Am Samstag, 09.07.2022 bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund von Reparaturarbeiten an einer Weiche ist die Strecke zwischen Norddeich und Emden derzeit gesperrt. Es kommt zu Zugausf&auml;llen auf diesem Abschnitt.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle IC-Züge fallen zwischen Norddeich und Emden aus."
-      ],
-      "closingText": "<p><strong>Reisealternative:</strong></p>\n\n<p>Zwischen Norddeich und Emden ist ein Busersatzverkehr mit Halt in Marienhafe und Norden eingerichtet. Bitte beachten Sie, dass es hier zu einem sehr hohen Reisendenaufkommen kommt.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "bw",
-        "by",
-        "be",
-        "br",
-        "hb",
-        "hh",
-        "he",
-        "mv",
-        "ni",
-        "nw",
-        "rp",
-        "sl",
-        "sn",
-        "st",
-        "sh",
-        "th"
-      ],
-      "lastModified": "09.07.2022 12:29",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 216
-    },
-    {
       "id": "cc8cf6e7-cea8-4051-8ad8-e1e370829df6",
       "headline": "Einschränkungen S-Bahn Mitteldeutschland, S 1 fährt verknüpft mit S 6",
       "newsType": "Fahrplanänderung im Streckenverlauf",
@@ -143,10 +105,10 @@
         "Alle ICE-, EC/IC-Züge zw. Mannheim/Heidelberg/Karlsruhe und Ulm mit Zwischenhalt in Stuttgart Hbf werden umgeleitet und halten nicht in Stuttgart Hbf. Ersatzweise halten die Züge in Esslingen(Neckar).",
         "ICE-, IC-Züge aus/in Richtung Norddeutschland enden/beginnen in Mannheim bzw. Heidelberg. Einzelne Züge beginnen und enden in Bietigheim-Bissingen.",
         "ICE/TGV-Züge Stuttgart - Strasbourg - Paris fallen zwischen Stuttgart und Karlsruhe aus.",
-        "IC-Züge Nürnberg - Stuttgart - Karlsruhe fallen zwischen Ansbach und Karlsruhe aus.",
+        "IC-Züge Nürnberg - Stuttgart - Karlsruhe fallen auf dem gesamten Abschnitt aus.",
         "IC-Züge Stuttgart - Singen(Hohentwiel) / -Zürich enden/beginnen in Böblingen."
       ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p>Bitte weichen Sie zwischen Stuttgart Hbf und Esslingen(Neckar) auch auf auf den st&auml;dtischen &Ouml;PNV aus.&nbsp;</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "1",
       "distance": [
         "longDistance"
@@ -154,7 +116,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "09.07.2022 12:31",
+      "lastModified": "09.07.2022 13:50",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
