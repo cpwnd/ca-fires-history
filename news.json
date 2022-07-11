@@ -257,30 +257,6 @@
       "priorityValue": 101
     },
     {
-      "id": "281bb0b3-3fd0-4c47-a3f5-49caa33a48b1",
-      "headline": "Zugausfälle zwischen Wörth(Rhein) und Lauterbourg",
-      "newsType": "kurzfristige Erkrankung von Personal",
-      "timePeriod": "Montag, 11.07.2022 Betriebsbeginn bis 14 Uhr",
-      "introText": "<p>Wegen der kurzfristigen Erkrankung von Personal entfallen ab Betriebsgeginn und 14 Uhr alle Z&uuml;ge zwischen W&ouml;rth(Rhein) und Lauterbourg.</p>\n\n<p>Ein Ersatzverkehr mit drei Gro&szlig;raumtaxis zwischen W&ouml;rth(Rhein)&nbsp;und&nbsp;Lauterbourg ist eingerichtet.</p>\n",
-      "connectionsHeadline": "RB52 Wörth(Rhein) - Lauterbourg",
-      "connections": [],
-      "download": {
-        "text": "<p>Sobald es neuere Informationen gibt, halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n"
-      },
-      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "rp"
-      ],
-      "lastModified": "11.07.2022 08:58",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
       "id": "c2249077-3f34-4fa3-8fbf-70ea25f984f3",
       "headline": "Zugausfälle im Bahnverkehr der Kurhessenbahn",
       "newsType": "Kurzfristiger Personalausfall",
@@ -420,6 +396,29 @@
       "lastModified": "22.06.2022 15:45",
       "author": "bayern",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "9ee86cc9-dc0e-47ca-acb6-16c50dbe6d0a",
+      "headline": "Beeinträchtigungen im Raum Herrenberg",
+      "newsType": "Kurzfristiger Personalausfall im Stellwerk",
+      "timePeriod": "bis 23 Uhr am Montag, 11. Juli",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "RE 14A: Stuttgart Hbf – Herrenberg – Eutingen im Gäu – Horb – Rottweil",
+        "RE 14B: Stuttgart Hbf – Herrenberg – Eutingen im Gäu – Freudenstadt"
+      ],
+      "closingText": "<p>Z&uuml;ge aus Freudenstadt und Rottweil beginnen und enden in Eutingen im G&auml;u. Ersatzverkehr zwischen Eutingen im G&auml;u und B&ouml;blingen in Planung. Aktuell verkehren zwischen B&ouml;blingen und Herrenberg die bereits eingerichteten Ersatzbusse der S-Bahn Stuttgart. Zwischen Stuttgart und B&ouml;blingen nutzen Sie die Z&uuml;ge der Linie S1. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "11.07.2022 14:48",
+      "author": "baden_wuerttemberg",
+      "expand": false,
       "priorityValue": 101
     },
     {
