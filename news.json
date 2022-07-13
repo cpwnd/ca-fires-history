@@ -120,17 +120,17 @@
     },
     {
       "id": "4806dd50-ec12-4337-b540-0ebcfc4e07e5",
-      "headline": "S6: Fahrtausfall zwischen Weinheim und Bensheim",
-      "newsType": "Weichenstörung",
-      "timePeriod": "bis vsl. 14.07.2022",
-      "introText": "<p>Eine Reparatur an der Weiche zwischen Bensheim und Weinheim(Bergstr)Hbf verz&ouml;gert den Bahnverkehr.<br />\nDer Streckenabschnitt ist nicht mit allen Z&uuml;gen befahrbar.</p>\n\n<p>Die S6 aus Richtung Mannheim Hbf endet und beginnt in Weinheim(Bergstr)Hbf. Bei den Regionalz&uuml;gen kann es zu Versp&auml;tungen und Teilausf&auml;llen kommen. Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert. Letzte Aktualisierung: 09:38</p>\n",
+      "headline": "S6: Fahrtausfälle zwischen Weinheim(Bergstr) und Bensheim",
+      "newsType": "Reparatur an einer Weiche",
+      "timePeriod": "bis voraussichtlich 14.07.2022",
+      "introText": "<p>Eine Reparatur an einer Weiche zwischen Weinheim(Bergstr)Hbf und Bensheim st&ouml;rt den Bahnverkehr.<br />\nDer Streckenabschnitt ist nicht mit allen Z&uuml;gen befahrbar.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "S6: Bensheim <> Weinheim <> Mannheim <> Worms <> Mainz",
         "RB67/68: Schwetzingen/Heidelberg <> Weinheim <> Bensheim <> Darmstadt <> Frankfurt",
         "RE60: Mannheim <> Weinheim <> Bensheim <> Darmstadt <> Frankfurt"
       ],
-      "closingText": "<p>Die<strong> S6</strong> aus Richtung Mannheim Hbf endet und beginnt in Weinheim(Bergstr)Hbf.<br />\nBitte nutzen Sie ab Weinheim(Bergstr)Hbf die Regionalz&uuml;ge oder die &ouml;rtl. Busse.</p>\n\n<p>Bei den <strong>Regionalz&uuml;gen (RB67, RB68 &amp; RE60)</strong> kann es zu Versp&auml;tungen und Teilausf&auml;llen kommen.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer der St&ouml;rung auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio AG, Region Mitte&nbsp;</p>\n",
+      "closingText": "<p>Die<strong>&nbsp;</strong>Z&uuml;ge der Linie <strong>S6</strong> aus Richtung Mannheim Hbf enden und beginnen in Weinheim(Bergstr)Hbf.<br />\nBitte nutzen Sie ab Weinheim(Bergstr)Hbf die Regionalz&uuml;ge der Linien RB67/RB68 und RE60 oder die &ouml;rtlichen Buslinien.</p>\n\n<p>Bei den Regionalz&uuml;gen der Linien<strong> RB67, RB68 und RE60</strong>&nbsp;kann es zu Versp&auml;tungen und Teilausf&auml;llen kommen.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer der St&ouml;rung auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p><br />\nDB Regio AG, Region Mitte&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -139,7 +139,7 @@
         "bw",
         "he"
       ],
-      "lastModified": "13.07.2022 09:52",
+      "lastModified": "13.07.2022 11:42",
       "expand": false,
       "priorityValue": 102
     },
@@ -331,10 +331,13 @@
       "headline": "Zugausfälle zwischen Wörth(Rhein) und Lauterbourg",
       "newsType": "kurzfristige Erkrankung von Personal",
       "timePeriod": "bis einschließlich Montag 18.07.2022 (ganztägig)",
-      "introText": "<p>Wegen einer kurzfristigen Erkrankung entfallen bis einschlie&szlig;lich Montag 18.07.2022 alle Z&uuml;ge zwischen W&ouml;rth(Rhein) und Lauterbourg.</p>\n",
+      "introText": "<p>Wegen kurzfristiger Erkrankung von Personal entfallen bis einschlie&szlig;lich Montag, 18.07.2022 alle Z&uuml;ge zwischen W&ouml;rth(Rhein) und Lauterbourg.</p>\n",
       "connectionsHeadline": "RB52 Wörth(Rhein) - Lauterbourg",
       "connections": [],
-      "closingText": "<p>Wir haben f&uuml;r Sie einen <strong>Busnotverkehr mit einem Bus zwischen W&ouml;rth(Rhein)Hbf und Lauterbourg</strong> eingerichtet.<br />\nBitte beachten Sie, dass die Busse <strong>ohne festen Fahrplan</strong> verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.<br />\nDie Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.<br />\n&nbsp;</p>\n\n<p>Sobald es neuere Informationen gibt, halten wir Sie an dieser Stelle auf dem Laufenden.<br />\nBitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "download": {
+        "text": "<p>Wir haben f&uuml;r Sie einen <strong>Busnotverkehr </strong>mit einem Bus zwischen<strong> W&ouml;rth(Rhein)Hbf und Lauterbourg</strong> eingerichtet.<br />\nBitte beachten Sie, dass die Busse <strong>ohne festen Fahrplan</strong> verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.<br />\nDie Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n"
+      },
+      "closingText": "<p>Sobald es neuere Informationen gibt, halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n\n<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -342,7 +345,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "13.07.2022 10:51",
+      "lastModified": "13.07.2022 11:38",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
