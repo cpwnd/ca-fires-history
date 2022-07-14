@@ -1,6 +1,29 @@
 {
   "news": [
     {
+      "id": "700b0a4f-21d8-432e-95dc-8d4627a33fcd",
+      "headline": "Verspätungen zwischen Hannover und Göttingen",
+      "newsType": "Defektes Stellwerk",
+      "timePeriod": "Am heutigen Donnerstag, 14.07.2022 bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund der Reparatur eines Stellwerkes auf der Schnellfahrstrecke Hannover &ndash; G&ouml;tttingen ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Versp&auml;tungen.&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE/IC-Züge zwischen Hannover und Göttingen werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 30 Minuten."
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "ni"
+      ],
+      "lastModified": "14.07.2022 09:02",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 301
+    },
+    {
       "id": "cc8cf6e7-cea8-4051-8ad8-e1e370829df6",
       "headline": "Einschränkungen S-Bahn Mitteldeutschland, S 1 fährt verknüpft mit S 6",
       "newsType": "Fahrplanänderung im Streckenverlauf",
@@ -118,31 +141,6 @@
       "priorityValue": 102
     },
     {
-      "id": "5b19334e-efdf-4f18-ab4e-95c077963e3e",
-      "headline": "Zugausfälle zwischen Limburg(Lahn) und Gießen",
-      "newsType": "Stellwerksausfall",
-      "timePeriod": "Donnerstag, 14.07.2022, 13:30 Uhr bis 23:30 Uhr",
-      "introText": "<p>Aufgrund kurzfristiger Erkrankung von Personal k&ouml;nnen Stellwerke nicht besetzt werden. Ab etwa 13:30 Uhr bis 23:30 Uhr sind deshalb keine Zugfahrten zwischen Limburg(Lahn) und Gie&szlig;en m&ouml;glich.</p>\n",
-      "connectionsHeadline": "RE25 Koblenz - Limburg - Gießen",
-      "connections": [],
-      "download": {
-        "text": "<p>Die Z&uuml;ge der Linie <strong>RE25</strong> verkehren nur zwischen Koblenz Hbf und Limburg(Lahn) und entfallen zwischen Limburg(Lahn) und Gie&szlig;en.</p>\n\n<p>Wir arbeiten derzeit an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>Sobald uns weitere Informationen vorliegen halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n"
-      },
-      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "he",
-        "rp"
-      ],
-      "lastModified": "14.07.2022 07:43",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "4806dd50-ec12-4337-b540-0ebcfc4e07e5",
       "headline": "S6: Fahrtausfälle zwischen Weinheim(Bergstr) und Bensheim",
       "newsType": "Reparatur an einer Weiche",
@@ -164,6 +162,31 @@
         "he"
       ],
       "lastModified": "14.07.2022 07:05",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "5b19334e-efdf-4f18-ab4e-95c077963e3e",
+      "headline": "Zugausfälle zwischen Limburg(Lahn) und Gießen",
+      "newsType": "Stellwerksausfall",
+      "timePeriod": "Donnerstag, 14.07.2022, 13:30 Uhr bis 23:30 Uhr",
+      "introText": "<p>Aufgrund kurzfristiger Erkrankung von Personal kann das Stellwerk nicht bedient werden.</p>\n\n<p>Daher wird der Zugverkehr zwischen Limburg(Lahn) und Gie&szlig;en ab 13:30 Uhr bis 23:30 Uhr eingestellt.<br />\n&nbsp;</p>\n",
+      "connectionsHeadline": "RE25 Koblenz - Limburg - Gießen",
+      "connections": [],
+      "download": {
+        "text": "<p>Die Z&uuml;ge der Linie <strong>RE25</strong> verkehren nur zwischen Koblenz Hbf und Limburg(Lahn) und entfallen zwischen Limburg(Lahn) und Gie&szlig;en.</p>\n\n<p>Die Z&uuml;ge der Linie RE25 aus Richtung Koblenz Hbf enden und beginnen in Limburg(Lahn).</p>\n\n<p>Ein Ersatzverkehr mit Bus der Fa DORNBURG Reisen von Limburg(Lahn) nach Gie&szlig;en ist eingerichtet.</p>\n\n<p>Sobald uns weitere Informationen vorliegen halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n"
+      },
+      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "he",
+        "rp"
+      ],
+      "lastModified": "14.07.2022 09:17",
+      "author": "mitte",
       "expand": false,
       "priorityValue": 102
     },
