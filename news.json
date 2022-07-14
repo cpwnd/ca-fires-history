@@ -98,14 +98,14 @@
       "priorityValue": 201
     },
     {
-      "id": "9708c815-e341-40ef-ac30-9a35ffe3ba15",
-      "headline": "Streckensperrung zwischen Günzburg und Augsburg",
-      "newsType": "Böschungsbrand",
-      "timePeriod": "Am Donnerstag, 14.07.2022 bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund eines B&ouml;schungsbrandes im Bereich Burgau ist die Strecke zwischen Burgau und Gessertshausen derzeit gesperrt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 30 Minuten.&nbsp;</p>\n",
+      "id": "4a331458-5d61-4de8-9de6-295d7b848fc9",
+      "headline": "Beeinträchtigungen zwischen Freiburg(Breisgau) und Basel",
+      "newsType": "Reparatur an der Weiche",
+      "timePeriod": "Am Donnerstag, 14.07.2022 bis in die Nachtstunden",
+      "introText": "<p>Aufgrund einer Reparatur an einer Weiche zwischen Freiburg(Breisgau) und Basel kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Da der betroffene Streckenabschnitt nur eingleisig befahrbar ist, versp&auml;ten sich einzelne Z&uuml;ge um etwa 20 Minuten.</p>\n\n<p>Einzelne Z&uuml;ge fallen zwischen Freiburg(Breisgau) und Basel aus.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle ICE-, IC/EC-Züge auf dem Abschnitt Ulm - Augsburg - München"
+        "Alle ICE- und IC-Züge auf dem Abschnitt Freiburg(Breisgau) und Basel."
       ],
       "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "1",
@@ -113,9 +113,9 @@
         "longDistance"
       ],
       "areas": [
-        "by"
+        "bw"
       ],
-      "lastModified": "14.07.2022 14:03",
+      "lastModified": "14.07.2022 15:04",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
@@ -240,42 +240,6 @@
       "lastModified": "13.10.2021 08:58",
       "author": "suedostbayernbahn",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "478806c6-c0a6-4b60-933a-1395106052e2",
-      "headline": "Ausfall RE4 (Ueckermünde Stadthafen - Pasewalk)",
-      "newsType": "Kurzfristige Krankmeldungen",
-      "timePeriod": "bis 14. Juli 2022",
-      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal&nbsp;fallen einige Z&uuml;ge&nbsp;der Linie RE4 bis</p>\n\n<p>14. Juli 2022 zwischen</p>\n\n<p><strong>Szczecin Glowny - Pasewalk - Ueckerm&uuml;nde Stadthafen - Neubrandenburg und B&uuml;tzow</strong></p>\n\n<p>&nbsp;aus.</p>\n\n<p>Zwischen Pasewalk und Ueckerm&uuml;nde Stadthafen nutzen Sie bitte die &ouml;ffentlichen Buslinien 901 und 902. Ein Umstieg in Torgelow ist erforderlich.</p>\n\n<p>Zwischen B&uuml;tzow - Neubrandenburg - Pasewalk und Szczecin Glowny nutzen Sie bitte jeweils den nachfolgenden Zug.</p>\n\n<p>Einige Z&uuml;ge in Tagesrandlage werden durch Busse ersetzt.</p>\n\n<p>Den Ersatzfahrplan finden Sie hier:</p>\n",
-      "connections": [],
-      "download": {
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:38e0a476-20d1-4432-a486-d1b197d915ee/MV_RE4_XPSG-WB_12.07.-14.07.2022__V5.pdf",
-            "title": "MV_RE4_XPSG-WB_12.07.-14.07.2022__V5.pdf (PDF, 224 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:b0639fe0-4fd1-4ff2-8a1d-e1b888b087cb/EV_MV_RE4_XPSG-WB_12.07.-14.07.2022__V5.pdf",
-            "title": "EV_MV_RE4_XPSG-WB_12.07.-14.07.2022__V5.pdf (PDF, 210 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "mv"
-      ],
-      "lastModified": "12.07.2022 07:30",
-      "author": "nordost",
-      "expand": false,
       "priorityValue": 101
     },
     {
