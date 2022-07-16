@@ -52,6 +52,30 @@
       "priorityValue": 202
     },
     {
+      "id": "edbdf009-ef31-468b-aa30-1c533b721e00",
+      "headline": "Beeinträchtigungen zwischen Heidelberg und Darmstadt",
+      "newsType": "Reparatur einer Oberleitung",
+      "timePeriod": "Am Sonntag, 17.07.2022 bis in die Vormittagsstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Hemsbach und Heppenheim kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 35 Minuten. Weiterhin kommt es zu Haltausf&auml;llen in Darmstadt Hbf, Bensheim und Weinheim(Bergstr)</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE/TGV-, EC/IC-Züge auf dem Abschnitt Frankfurt(M) - Darmstadt - Heidelberg/Mannheim werden umgeleitet und halten nicht in Darmstadt, Bensheim und Weinheim(Bergstr). Die Züge verspäten sich um etwa 35 Mintuen."
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "he"
+      ],
+      "lastModified": "17.07.2022 01:12",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 202
+    },
+    {
       "id": "312bc0d2-7260-4196-bca0-928db5efccbd",
       "headline": "Werdenfelsbahn: Strecke zwischen Oberau - Garmisch-Partenkirchen - Mittenwald weiterhin gesperrt",
       "newsType": "Beeinträchtigungen ",
@@ -123,7 +147,7 @@
       "headline": "Beeinträchtigungen und Zugausfälle zwischen Bensheim und Weinheim(Bergstr)",
       "newsType": "Reparatur an der Oberleitung",
       "timePeriod": "bis vsl. 17.07.2022 vormittags",
-      "introText": "<p>Eine Reparatur an der Oberleitung zwischen Heppenheim(Bergstr) und Hemsbach verz&ouml;gert den Bahnverkehr. Die Strecke ist derzeit leider gesperrt, es sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich. DieZ&uuml;ge der Linie S6 enden und beginnen au&szlig;erplanm&auml;&szlig;ig in Weinheim(Bergstr)Hbf. Die Regionalz&uuml;ge der Linien RB67, RB68 und RE60 werden nach M&ouml;glichkeit umgeleitet oder enden / beginnen vorzeitig an geeigneten Bahnh&ouml;fen. In der Folge kommt es wahrscheinlich zu Versp&auml;tungen und Teilausf&auml;llen. Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner. Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. Bisher haben wir leider keine Informationen zur Dauer der St&ouml;rung. Letzte Aktualisierung: 23:58</p>\n",
+      "introText": "<p>Eine Reparatur an der Oberleitung zwischen Heppenheim(Bergstr) und Hemsbach verz&ouml;gert den Bahnverkehr. Die Strecke ist derzeit leider gesperrt, es sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "S6 Mainz - Worms - Mannheim - Bensheim",
@@ -131,7 +155,7 @@
         "RB67/RB68 Schwertzingen/Wiesloch-Walldorf - Neu-Edingen/Friedrichsfeld - Bensheim - Frankfurt"
       ],
       "download": {
-        "text": "<p>DieZ&uuml;ge der <strong>Linie S6</strong> enden und beginnen vorzeitig in Weinheim(Bergstr)Hbf und entfallen zwischen Weinheim(Bergstr) und Bensheim.</p>\n\n<p>Die Regionalz&uuml;ge der <strong>Linien RB67, RB68 und RE60</strong> werden nach M&ouml;glichkeit &uuml;ber Mainz / Worms umgeleitet oder enden / beginnen vorzeitig an geeigneten Bahnh&ouml;fen.</p>\n\n<p>In der Folge kommt es wahrscheinlich zu Versp&auml;tungen und Teilausf&auml;llen.</p>\n\n<p>Wir arbeiten derzeit an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.&nbsp;</p>\n"
+        "text": "<p>DieZ&uuml;ge der <strong>Linie S6</strong> enden und beginnen vorzeitig in Weinheim(Bergstr)Hbf und entfallen zwischen Weinheim(Bergstr) und Bensheim.</p>\n\n<p>Die Regionalz&uuml;ge der <strong>Linien RB67, RB68 und RE60</strong> werden nach M&ouml;glichkeit &uuml;ber Mainz / Worms umgeleitet oder enden / beginnen vorzeitig an geeigneten Bahnh&ouml;fen.</p>\n\n<p>In der Folge kommt es wahrscheinlich zu Versp&auml;tungen und Teilausf&auml;llen.</p>\n\n<p>Wir haben einen Ersatzverkehr mit Bussen zwischen Weinheim(Bergstr) und Bensheim mit allen Unterwegshalten f&uuml;r Sie eingerichtet.</p>\n"
       },
       "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der St&ouml;rung auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "priority": "0",
@@ -142,7 +166,7 @@
         "bw",
         "he"
       ],
-      "lastModified": "17.07.2022 00:04",
+      "lastModified": "17.07.2022 00:59",
       "author": "mitte",
       "expand": false,
       "priorityValue": 102
