@@ -119,30 +119,26 @@
       "priorityValue": 102
     },
     {
-      "id": "2b6a0b5c-e7a6-45fa-803d-edd415bcee6a",
-      "headline": "Beeinträchtigungen und Zugausfälle zwischen Bensheim und Weinheim(Bergstr)",
-      "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "bis vsl. 17.07.2022 vormittags",
-      "introText": "<p>Eine Reparatur an der Oberleitung zwischen Heppenheim(Bergstr) und Hemsbach verz&ouml;gert weiterhin den Bahnverkehr. F&uuml;r Zugfahrten steht derzeit ein Gleis zur Verf&uuml;gung.</p>\n",
-      "connectionsHeadline": "Betroffene Linien:",
-      "connections": [
-        "S6 Mainz - Worms - Mannheim - Bensheim",
-        "RE60 Mannheim - Weinheim - Bensheim - Frankfurt",
-        "RB67/RB68 Schwertzingen/Wiesloch-Walldorf - Neu-Edingen/Friedrichsfeld - Bensheim - Frankfurt"
-      ],
+      "id": "5e94f79f-3198-4a51-82e1-278caee7303a",
+      "headline": "Zugausfälle zwischen Limburg(Lahn) und Gießen",
+      "newsType": "Stellwerksausfall",
+      "timePeriod": "Montag, 18.07.2022 bis Sonntag, 24.07.2022 (jeweils vor 06:00 Uhr und nach 18:00 Uhr)",
+      "introText": "<p>Aufgrund kurzfristiger Erkrankung von Personal k&ouml;nnen Stellwerke nicht besetzt werden. Zugfahrten zwischen Limburg(Lahn) und Gie&szlig;en sind nur zwischen 6 Uhr und 18 Uhr m&ouml;glich.</p>\n\n<p>In der &uuml;brigen Zeit enden und beginnen die Z&uuml;ge aus Richtung Koblenz Hbf vorzeitig in Limburg(Lahn).</p>\n",
+      "connectionsHeadline": "RE25 Koblenz - Limburg - Gießen",
+      "connections": [],
       "download": {
-        "text": "<p>In der Folge kommt es wahrscheinlich weiterhin zu Versp&auml;tungen, Umleitungen und Teilausf&auml;llen.</p>\n\n<p>Der Ersatzverkehr mit Bussen zwischen Weinheim(Bergstr) und Bensheim pendelt derzeit noch parallel weiter.</p>\n"
+        "text": "<p>Wir arbeiten derzeit an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>Die Beeintr&auml;chtigung wird voraussichtlich bis einschlie&szlig;lich 24.07.22 andauern.</p>\n\n<p>Sobald uns weitere Informationen vorliegen halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n"
       },
-      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der St&ouml;rung auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "priority": "0",
       "distance": [
         "regional"
       ],
       "areas": [
-        "bw",
-        "he"
+        "he",
+        "rp"
       ],
-      "lastModified": "17.07.2022 01:25",
+      "lastModified": "17.07.2022 15:21",
       "author": "mitte",
       "expand": false,
       "priorityValue": 102
