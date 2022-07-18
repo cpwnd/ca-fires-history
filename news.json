@@ -392,18 +392,11 @@
       "introText": "<p>Es kommt im Bahnverkehr der Kurhessenbahn auf den Linien RB4, RB94 und RB97 / RE97 zu zahlreichen Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
-        "RB4: (Kassel Hbf -) Kassel-Wilhelmshöhe - Bad Arolsen - Korbach Hbf",
         "RB94: Marburg(Lahn) - Bad Laasphe (- Erndtebrück)",
         "RB97 / RE97: Marburg(Lahn) - Frankenberg(Eder) - Korbach Hbf - Brilon Stadt"
       ],
       "download": {
         "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:15bc2bb1-c6f3-4453-adb8-eb6fdba691c4/RB4-Ausf.17.07..pdf",
-            "title": "RB4 Ausfälle am 17.07.22 (PDF, 200 KB)",
-            "info": "RB4",
-            "openInNewTab": true
-          },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:80198c8f-beee-4630-a307-65a95e32304e/RB94-Ausf.11.-22.07..pdf",
             "title": "RB94 Ausfälle bis zum 22.07.22 (PDF, 260 KB)",
@@ -430,13 +423,13 @@
           },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:c983d3b4-b28f-4f35-9282-613b9a578833/RB97-Ausf.17.u.24.07..pdf",
-            "title": "RB97 / RE97 Ausfälle am 17.07. und 24.07.22 (PDF, 218 KB)",
+            "title": "RB97 / RE97 Ausfälle am 24.07.22 (PDF, 218 KB)",
             "info": "RB97 / RE97",
             "openInNewTab": true
           }
         ]
       },
-      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p><u><strong>RB4:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zugausf&auml;llen.&nbsp;</p>\n\n<p><em>Nach derzeitigem Stand verkehrt die Linie RB4 ab dem 18.07.2022 wieder planm&auml;&szlig;ig.</em></p>\n\n<p>&nbsp;</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB4.</strong></p>\n\n<p><strong>F&uuml;r Fahrten zwischen Kassel Hbf und Wolfhagen nutzen Sie die Z&uuml;ge der Regiotram-Linie RT4.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB94:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zugausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB94.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB97 / RE97:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zug- und Teilausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB97 / RE97.&nbsp;</strong></p>\n\n<p><strong>F&uuml;r Fahrten zwischen Brilon Stadt und Brilon Wald nutzen Sie bitte auch die Z&uuml;ge der Linie RE57.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
+      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB94:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zugausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB94.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB97 / RE97:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zug- und Teilausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB97 / RE97.&nbsp;</strong></p>\n\n<p><strong>F&uuml;r Fahrten zwischen Brilon Stadt und Brilon Wald nutzen Sie bitte auch die Z&uuml;ge der Linie RE57.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -444,7 +437,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "17.07.2022 22:00",
+      "lastModified": "18.07.2022 06:53",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
@@ -453,8 +446,8 @@
       "id": "c5176419-bec8-4dc4-b500-57737da5c237",
       "headline": "Nicht barrierefreier Ersatzverkehr auf den Linien RB41 und RB49",
       "newsType": "Eingeschränktes Zugangebot ",
-      "timePeriod": "11.07.2011 bis voraussichtlich 02.09.2022",
-      "introText": "<p>Auf den Linien RB41 sowie RB49 kommt es vom 11.07. bis zum 02.09.2022 (jeweils montags bis freitags) zum Einsatz von Ersatzz&uuml;gen.</p>\n",
+      "timePeriod": "Bis voraussichtlich 02.09.2022",
+      "introText": "<p>Auf den Linien RB41 sowie RB49 kommt es bis zum 02.09.2022 (jeweils montags bis freitags) zum Einsatz von Ersatzz&uuml;gen.</p>\n",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
         "RB41 Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Stadtallendorf - Treysa",
@@ -479,7 +472,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "05.07.2022 19:54",
+      "lastModified": "18.07.2022 06:51",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
