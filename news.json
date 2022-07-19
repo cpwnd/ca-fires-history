@@ -202,30 +202,6 @@
       "priorityValue": 102
     },
     {
-      "id": "e6a27188-c2e5-45ce-8d7f-861e18754337",
-      "headline": "Keine Zugfahrten zwischen Weinheim - Fürth (Weschnitztal)",
-      "newsType": "Personalausfall Tf.",
-      "timePeriod": "Dienstag 19.07.2022 bis Freitag 22.07.2022",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstands kommt es zu Zugausf&auml;llen zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw).</p>\n\n<p>F&uuml;r die ausfallende Z&uuml;ge haben wir einen Ersatzverkehr mit 2 Bussen der Firma Beck Exhibition eingerichtet.</p>\n\n<p>Bitte beachten Sie, dass die SEV-Haltestellen der Busse nicht immer direkt am Bahnhof liegen und dass die Mitnahme von Fahrr&auml;dern in den Bussen aus Platzgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffene Linie: ",
-      "connections": [
-        "RB69 Weinheim – Mörlenbach – Rimbach – Fürth "
-      ],
-      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "rp"
-      ],
-      "lastModified": "18.07.2022 21:49",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "aefa1b8f-9226-4572-801d-3ae09a83a2b9",
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
@@ -418,6 +394,53 @@
         "rp"
       ],
       "lastModified": "18.07.2022 21:27",
+      "author": "mitte",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "281bb0b3-3fd0-4c47-a3f5-49caa33a48b1",
+      "headline": "Keine Zugfahrten zwischen Wörth(Rhein) und Lauterbourg",
+      "newsType": "kurzfristige Erkrankung von Personal",
+      "timePeriod": "Dauer aktuell nicht bekannt.",
+      "introText": "<p>Wegen kurzfristiger Erkrankung von Stellwerkspersonalen entfallen weiterhin alle Z&uuml;ge zwischen W&ouml;rth(Rhein) und Lauterbourg.</p>\n",
+      "connectionsHeadline": "RB52 Wörth(Rhein) - Lauterbourg",
+      "connections": [],
+      "download": {
+        "text": "<p>Wir haben f&uuml;r Sie einen <strong>Busnotverkehr </strong>mit einem Bus zwischen<strong> W&ouml;rth(Rhein)Hbf und Lauterbourg</strong> eingerichtet.<br />\nBitte beachten Sie, dass die Busse <strong>ohne festen Fahrplan</strong> verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.<br />\nDie Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n"
+      },
+      "closingText": "<p>Sobald es neuere Informationen gibt, halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n\n<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "19.07.2022 06:52",
+      "author": "mitte",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "e6a27188-c2e5-45ce-8d7f-861e18754337",
+      "headline": "Keine Zugfahrten zwischen Weinheim - Fürth (Weschnitztal)",
+      "newsType": "Kurzfristiger Personalausfall",
+      "timePeriod": "Dienstag 19.07.2022 bis Freitag 22.07.2022",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstands kommt es zu Zugausf&auml;llen zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw).</p>\n\n<p>F&uuml;r die ausfallenden Z&uuml;ge haben wir einen Ersatzverkehr mit 2 Bussen der Firma Beck Exhibition eingerichtet.</p>\n\n<p>Bitte beachten Sie, dass die SEV-Haltestellen der Busse nicht immer direkt am Bahnhof liegen und dass die Mitnahme von Fahrr&auml;dern in den Bussen aus Platzgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffene Linie: ",
+      "connections": [
+        "RB69 Weinheim – Mörlenbach – Rimbach – Fürth "
+      ],
+      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "19.07.2022 06:15",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
