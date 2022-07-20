@@ -1,46 +1,6 @@
 {
   "news": [
     {
-      "id": "464bd664-fb0e-418b-8f15-8b7ac405480f",
-      "headline": "Fernverkehr ist im Raum Hannover aktuell stark beeinträchtigt",
-      "newsType": "Hitzebedingte Einschränkungen",
-      "timePeriod": "Am Mittwoch, 20.07.2022 bis zum Tagesende",
-      "introText": "<p>Aufgrund von hitzebedingten Einschr&auml;nkungen kommt es aktuell im Raum Hannover zu Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Zwischen Berlin, Hannover und Nordrhein-Westfalen ist der Fernverkehr wieder aufgenommen. Es kommt noch zu Verspätungen.",
-        "Zwischen Hannover und Bremen ist der Fernverkehr wieder aufgenommen. Es kommt noch zu Verspätungen.",
-        "ICE-Züge zwischen Hamburg und Hannover fahren in ausgedünntem Takt und verspäten sich um etwa 60 Minuten. Bei Zügen in Richtung Süden entfallen die Zwischenhalte in Lüneburg, Uelzen und Celle."
-      ],
-      "closingText": "<p><strong>Reiseempfehlungen</strong></p>\n\n<p>L&uuml;neburg, Uelzen und Celle erreichen Sie mit dem Nahverkehr aus Richtung Hamburg und Hannover.</p>\n\n<p><strong>G&uuml;ltigkeit der Tickets</strong></p>\n\n<p><strong>Alle</strong>&nbsp;<strong>Fahrg&auml;ste,</strong>&nbsp;<strong>die</strong>&nbsp;<strong>im Zeitraum von&nbsp;Dienstag, den 19.07.2022 bis Mittwoch, den 20.07.2022 ihre geplante Reise&nbsp;</strong><strong>aufgrund der hohen Temperaturen verschieben m&ouml;chten, k&ouml;nnen ihr bereits gebuchtes Ticket f&uuml;r den Fernverkehr bis einschlie&szlig;lich Mittwoch, den 27.07.2022 flexibel nutzen.&nbsp;</strong>Diese Sonderkulanzregel gilt auch f&uuml;r zuggebundene Tickets (Spar- und Supersparpreise). Auch Ihre Sitzplatzreservierungen k&ouml;nnen kostenfrei storniert werden.</p>\n\n<p>Zudem gelten bei Versp&auml;tung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter bahn.de/fahrgastrechte.</p>\n\n<p>Wir haben alle Informationen zu Reisen w&auml;hrend der Hitzewelle&nbsp;<a href=\"https://www.bahn.de/sonderkulanz\" title=\"https://www.bahn.de/sonderkulanz\">hier&nbsp;</a>nochmals ausf&uuml;hrlich f&uuml;r Sie zusammengestellt.</p>\n\n<p><strong>Weitere Informationen</strong></p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "bw",
-        "by",
-        "be",
-        "br",
-        "hb",
-        "hh",
-        "he",
-        "mv",
-        "ni",
-        "nw",
-        "rp",
-        "sl",
-        "sn",
-        "st",
-        "sh",
-        "th"
-      ],
-      "lastModified": "20.07.2022 22:01",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 316
-    },
-    {
       "id": "53e4a637-10b3-4571-8684-58a66c3a6a53",
       "headline": "Beeinträchtigungen im Raum Stuttgart",
       "newsType": "Reparatur eines Stellwerkes",
@@ -65,6 +25,40 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 301
+    },
+    {
+      "id": "300e56d8-1a5d-4d1c-81a3-abe2c602efc1",
+      "headline": "Sonderkulanz zur Hitzewelle: Flexible Nutzung von Fernverkehrstickets",
+      "newsType": "Kulanzregelung",
+      "timePeriod": "bis einschließlich Mittwoch, den 27.07.2022",
+      "introText": "<p>Alle Fahrg&auml;ste, die im Zeitraum vom&nbsp;19.07.2022&nbsp;bis 20.07.2022 ihre geplante Reise aufgrund der Hitzewelle verschoben haben, k&ouml;nnen ihr bereits gebuchtes Ticket f&uuml;r den Fernverkehr der Deutschen Bahn bis einschlie&szlig;lich 27.07.2022 flexibel nutzen. Wir haben alle Informationen zu den Kulanzregelungen <a href=\"https://www.bahn.de/sonderkulanz\" title=\"https://www.bahn.de/sonderkulanz\">hier</a>&nbsp;nochmals ausf&uuml;hrlich f&uuml;r Sie zusammengestellt.</p>\n\n<p>Zudem gelten bei Versp&auml;tung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter&nbsp;<a href=\"https://www.bahn.de/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n",
+      "connections": [],
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
+      ],
+      "lastModified": "20.07.2022 22:11",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 216
     },
     {
       "id": "cc8cf6e7-cea8-4051-8ad8-e1e370829df6",
