@@ -41,7 +41,7 @@
       "headline": "Beeinträchtigungen zwischen Bremen und Hannover",
       "newsType": "Reparatur an der Weiche",
       "timePeriod": "Am Mittwoch, 20.07.2022 bis in die Nachtstunden",
-      "introText": "<p>Aufgrund der Reparatur einer Weiche in Rohrsen (b. Nienburg) auf der Strecke Bremen &ndash; Hannover ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Zug- und Haltausf&auml;llen und Versp&auml;tungen.&nbsp;</p>\n",
+      "introText": "<p>Aufgrund der Reparatur einer Weiche in Rohrsen (b. Nienburg) auf der Strecke Bremen &ndash; Hannover ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Zug- / Haltausf&auml;llen und Versp&auml;tungen.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "ICE/IC-Züge der Relation Bremen - Hannover - Kassel - Frankfurt(M) - Karlsruhe fallen in beiden Fahrtrichtungen zwischen Bremen und Hannover aus.",
@@ -53,16 +53,40 @@
         "longDistance"
       ],
       "areas": [
-        "bw",
         "hb",
         "hh",
-        "he",
         "ni"
       ],
-      "lastModified": "20.07.2022 14:46",
+      "lastModified": "20.07.2022 16:15",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 305
+      "priorityValue": 303
+    },
+    {
+      "id": "464bd664-fb0e-418b-8f15-8b7ac405480f",
+      "headline": "Beeinträchtigungen zwischen Hannover und Hamburg",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "Am Mittwoch, 20.07.2022 bis in die Abendstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Hamburg und L&uuml;neburg kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Zug- / Haltausf&auml;llen und Versp&auml;tungen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "ICE-Züge Stralsund  – Hannover – Kassel-Wilhelmshöhe – Würzburg – München fallen zwischen Hamburg und Hannover aus.",
+        "Alle anderen ICE- und IC-Züge zwischen Hamburg und Hannover werden umgeleitet und verspäten sich um etwa 25 Minuten. Die Halte in Lüneburg, Uelzen und Celle entfallen.",
+        ""
+      ],
+      "closingText": "<p><strong>Reisealternative:</strong></p>\n\n<p>Celle und Uelzen erreichen Sie weiterhin mit den Nahverkehrsz&uuml;gen von Hannover Hbf.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "hh",
+        "ni"
+      ],
+      "lastModified": "20.07.2022 16:17",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
     },
     {
       "id": "53e4a637-10b3-4571-8684-58a66c3a6a53",
@@ -112,30 +136,6 @@
       ],
       "lastModified": "12.07.2022 17:45",
       "author": "suedost",
-      "expand": false,
-      "priorityValue": 202
-    },
-    {
-      "id": "464bd664-fb0e-418b-8f15-8b7ac405480f",
-      "headline": "Beeinträchtigungen zwischen Hannover und Hamburg",
-      "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Am Mittwoch, 20.07.2022 bis in die Abendstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Hamburg und L&uuml;neburg kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 25 Minuten. Die Halte in L&uuml;neburg, Uelzen und Celle entfallen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE- und IC-Züge auf dem Abschnitt zwischen Hamburg und Hannover."
-      ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "hh",
-        "ni"
-      ],
-      "lastModified": "20.07.2022 14:51",
-      "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 202
     },
@@ -411,6 +411,27 @@
       "lastModified": "04.11.2021 10:10",
       "author": "nrw",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "8d2a7cea-3e86-4096-bd1b-4e9ef06f2f07",
+      "headline": "Zugausfälle zwischen  Dillingen(Saar) und Niedaltdorf ",
+      "newsType": "Kurzfristiger Personalausfall",
+      "timePeriod": "20.07.2022",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstands kommt es zu Zugausf&auml;llen zwischen Dillingen(Saar) und Niedaltdorf.<br />\nDer Zugverkehr wurde bis Betriebsschluss eingestellt.&nbsp;</p>\n",
+      "connectionsHeadline": "RB77 Dillingen(Saar) - Niedaltdorf",
+      "connections": [],
+      "closingText": "<p>F&uuml;r die ausfallenden Z&uuml;ge haben wir einen <strong>Ersatzverkehr</strong>&nbsp;der Firma Arge-Nahverkehrsgellschaft Merzig-Wadern eingerichtet.</p>\n\n<p>Bitte beachten Sie, dass die SEV-Haltestellen der Busse nicht immer direkt am Bahnhof liegen und dass die Mitnahme von Fahrr&auml;dern in den Bussen aus Platzgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n\n<p>Letzte Aktualisierung 20.07.2022 14:21 Uhr - DB Regio Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sl"
+      ],
+      "lastModified": "20.07.2022 16:18",
+      "author": "mitte",
+      "expand": false,
       "priorityValue": 101
     },
     {
