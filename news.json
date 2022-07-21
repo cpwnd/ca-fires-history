@@ -376,7 +376,7 @@
       "headline": "Ausfall RE4 Pasewalk - Ueckermünde Stadthafen",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "bis 21. Juli 2022",
-      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal&nbsp;fallen einige Z&uuml;ge auf der Linie RE4 noch bis&nbsp; 21.Juli 2022 im Abschnitt <strong>Pasewalk</strong> - <strong>Torgelow</strong> - <strong>Ueckerm&uuml;nde Stadthafen</strong> in beiden Richtungen aus.&nbsp;</p>\n\n<p><strong>Achtung! Aktuell kann kein Ersatzverkehr mit Bussen bereitgestellt werden. Wir bitten um Entschuldigung.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Den Ersatzfahrplan finden Sie hier:</p>\n",
+      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal&nbsp;fallen einige Z&uuml;ge auf der Linie RE4 noch bis&nbsp; 21.Juli 2022 im Abschnitt <strong>Pasewalk</strong> - <strong>Torgelow</strong> - <strong>Ueckerm&uuml;nde Stadthafen</strong> in beiden Richtungen aus.&nbsp;</p>\n\n<p><strong>Achtung! Aktuell nur eingeschr&auml;nkter Ersatzverkehr mit einem Bus. Dieser pendelt ab 14:24 Uhr zwischen Pasewalk und Ueckerm&uuml;nde.&nbsp;</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Den Ersatzfahrplan finden Sie hier:</p>\n",
       "connections": [
         "",
         ""
@@ -388,7 +388,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "21.07.2022 11:32",
+      "lastModified": "21.07.2022 12:22",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
@@ -433,13 +433,13 @@
     },
     {
       "id": "de92bd79-ccfe-45af-a17c-d53cb1a6a629",
-      "headline": "Kurzfristige Bauarbeiten zwischen Elze und Voldagsen ",
-      "newsType": "Streckensperrung",
+      "headline": "Streckensperrung zwischen Elze und Voldagsen ",
+      "newsType": "Kurzfristige Bauarbeiten",
       "timePeriod": "vsl. bis 16. August 2022",
       "introText": "<p>Aufgrund hitzebedingter Sch&auml;den an der Infrastruktur sind kurzfristige Bauma&szlig;nahmen auf der RB 77 zwischen Elze und Voldagsen notwendig.</p>\n\n<p>Die Bauarbeiten beginnen am 21. Juli 2022 und dauern&nbsp;vermutlich bis zum 16. August 2022&nbsp;an. Aus diesem Grund ist in dieser Zeit zwischen Elze und Voldagsen ein Schienenersatzverkehr (SEV) durch Busse eingerichtet.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Verbindung:",
       "connections": [
-        "RB 77 (Bünde - Hameln - Hildesheim)"
+        "RB 77 (Bünde - Hameln - Hildesheim): Die Züge verkehren zwischen Bünde und Voldagsen sowie zwischen Elze und Hildesheim. Zwischen Elze und Voldagsen ist ein Ersatzverkehr eingerichtet."
       ],
       "download": {
         "text": "<p>Nachfolgend finden Sie die Fahrpl&auml;ne f&uuml;r den Busnotverkehr der Linie RB 77 (B&uuml;nde - Hildesheim):&nbsp;</p>\n",
@@ -466,7 +466,7 @@
       "areas": [
         "ni"
       ],
-      "lastModified": "21.07.2022 11:44",
+      "lastModified": "21.07.2022 11:54",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 101
