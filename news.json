@@ -1,6 +1,31 @@
 {
   "news": [
     {
+      "id": "6736eb63-acb0-4866-9e4d-367aa83a31ef",
+      "headline": "Beeinträchtigungen zwischen Hannover und Emden/Norddeich",
+      "newsType": "Beschädigung einer Brücke",
+      "timePeriod": "Am heutigen Donnerstag, 21.07.2022 vsl. bis Tagesende",
+      "introText": "<p>Aufgrund der Besch&auml;digung einer Br&uuml;cke ist der Streckenabschnitt zwischen Hude und Oldenburg(Old) derzeit gesperrt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 90 Minuten.</p>\n\n<p>Die Halte Nienburg(Weser), Verden(Aller), Bremen Hbf, Delmenhorst, Hude, Oldenburg(Old)Hbf, Bad Zwischenahn, Westerstede-Ocholt und Augustfehn entfallen. Ersatzhalt in Osnabr&uuml;ck Hbf.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "IC-Züge zwischen Hannover - Bremen - Oldenburg - Leer - Emden/Norddeich",
+        "ICE-Züge Hannover - Bremen - Oldenburg(Old) enden bereits in Bremen Hbf. Die Halte in Delmenhorst und Oldenburg(Old) entfallen."
+      ],
+      "closingText": "<p>IC/ICE-Z&uuml;ge, die planm&auml;&szlig;ig in Bremen Hbf enden oder beginnen (Richtung Hannover) sind von dieser Beeintr&auml;chtigung nicht betroffen!</p>\n\n<p><u><strong>Alternative Reisem&ouml;glichkeiten:</strong></u></p>\n\n<p>Sie erreichen Nienburg(Weser), Verden(Aller), Bremen Hbf und Delmenhorst weiterhin mit den noch verkehren IC/ICE-Z&uuml;gen sowie den Nahverkehrsz&uuml;gen der Linien RE1 und RE9 ab Hannover Hbf.</p>\n\n<p>Sie erreichen Bad Zwischenahn, Westerstede-Ocholt sowie Augustfehn weiterhin mit den Nahverkehrsz&uuml;gen der Linie RE1 ab Leer.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\">reiseauskunft.bahn.de</a>, im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "hb",
+        "ni"
+      ],
+      "lastModified": "21.07.2022 14:41",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 302
+    },
+    {
       "id": "53e4a637-10b3-4571-8684-58a66c3a6a53",
       "headline": "Beeinträchtigungen im Raum Stuttgart",
       "newsType": "Reparatur eines Stellwerkes",
