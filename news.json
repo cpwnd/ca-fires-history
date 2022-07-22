@@ -135,27 +135,6 @@
       "priorityValue": 201
     },
     {
-      "id": "d95a4c80-330f-4bf1-a244-fcf63e711a6f",
-      "headline": "Zugausfälle RB24 Eberswalde-Bernau(bBerlin)",
-      "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "23. und 24. Juli 2022",
-      "introText": "<p>Wegen des erh&ouml;hten Krankenstandes beim Fahrpersonal m&uuml;ssen&nbsp;am 23. und 24. Juli&nbsp;die Z&uuml;ge der Linie RB24&nbsp; zwischen Eberswalde und Bernau ausfallen.</p>\n\n<p>Bitte nutzen Sie als Ersatz die Z&uuml;ge der RE Linie 3.</p>\n\n<p>Die von und nach Schwedt(O) fahrenden Z&uuml;ge der RE Linie 3 halten zus&auml;tzlich in Melchow, Biesenthal und R&uuml;dnitz.</p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
-      "connections": [],
-      "closingText": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "22.07.2022 11:08",
-      "author": "nordost",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
       "headline": "Meldungen der S-Bahn Berlin",
       "newsType": "Störung",
@@ -173,6 +152,27 @@
       "lastModified": "21.03.2022 18:12",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "d95a4c80-330f-4bf1-a244-fcf63e711a6f",
+      "headline": "Zugausfälle RB24 Eberswalde-Bernau(bBerlin)",
+      "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "23. und 24. Juli 2022",
+      "introText": "<p>Wegen des erh&ouml;hten Krankenstandes beim Fahrpersonal m&uuml;ssen&nbsp;am 23. und 24. Juli&nbsp;die Z&uuml;ge der Linie RB24&nbsp; zwischen Eberswalde und Bernau ausfallen.</p>\n\n<p>Bitte nutzen Sie als Ersatz die Z&uuml;ge der RE Linie 3.</p>\n\n<p>Die von und nach Schwedt(O) fahrenden Z&uuml;ge der RE Linie 3 halten zus&auml;tzlich in Melchow, Biesenthal und R&uuml;dnitz.</p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
+      "connections": [],
+      "closingText": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "22.07.2022 12:20",
+      "author": "nordost",
+      "expand": false,
       "priorityValue": 102
     },
     {
@@ -379,6 +379,26 @@
       "priorityValue": 101
     },
     {
+      "id": "5052111b-f858-4d31-a3ec-3d54a6e1428f",
+      "headline": "Zugausfälle RE7 Stralsund - Greifswald",
+      "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "25. Juli bis 12. August 2022",
+      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal&nbsp;fallen<strong>&nbsp;die</strong>&nbsp;Z&uuml;ge der Linie RE7 zwischen Stralsund und Greifswald aus.&nbsp;&nbsp;&nbsp;</p>\n\n<p>RE 13030 Greifswald &ndash; Stralsund&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p>RE 13032 Greifswald &ndash; Stralsund&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\n<p>RE 13034 Greifswald &ndash; Stralsund</p>\n\n<p>RE 13036 Greifswald &ndash; Stralsund</p>\n\n<p>RE 13035 Stralsund - Greifswald</p>\n\n<p>RE 13037 Stralsund &ndash; Greifswald</p>\n\n<p>RE 13039 Stralsund - Greifswald</p>\n\n<p>Benutzen Sie bitte die Z&uuml;ge der RE3 als Ersatz.</p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App&nbsp;DB Streckenagent&nbsp;oder im&nbsp;DB Navigator.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "mv"
+      ],
+      "lastModified": "22.07.2022 12:15",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "45a2f161-4969-4ab7-a06b-6a9033606033",
       "headline": "Zugausfälle und Ersatzverkehr auf der Linie RE4 Pasewalk - Ueckermünde Stadthafen",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
@@ -454,27 +474,13 @@
       "headline": "Streckensperrung zwischen Elze und Voldagsen ",
       "newsType": "Kurzfristige Bauarbeiten",
       "timePeriod": "vsl. bis 16. August 2022",
-      "introText": "<p>Aufgrund hitzebedingter Sch&auml;den an der Infrastruktur sind kurzfristige Bauma&szlig;nahmen auf der RB 77 zwischen Elze und Voldagsen notwendig.</p>\n\n<p>Die Bauarbeiten beginnen am 21. Juli 2022 und dauern&nbsp;vermutlich bis zum 16. August 2022&nbsp;an. Aus diesem Grund ist in dieser Zeit zwischen Elze und Voldagsen ein Schienenersatzverkehr (SEV) durch Busse eingerichtet.&nbsp;</p>\n",
+      "introText": "<p>Aufgrund kurzfristiger Bauarbeiten kommt zu es zu Teilausf&auml;llen auf der RB 77 zwischen Elze und Voldagsen.</p>\n\n<p>Die Bauarbeiten beginnen am 21. Juli 2022 und dauern&nbsp;vermutlich bis zum 16. August 2022&nbsp;an. Aus diesem Grund ist in dieser Zeit zwischen Elze und Voldagsen ein Schienenersatzverkehr (SEV) durch Busse eingerichtet.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Verbindung:",
       "connections": [
         "RB 77 (Bünde - Hameln - Hildesheim): Die Züge verkehren zwischen Bünde und Voldagsen sowie zwischen Elze und Hildesheim. Zwischen Elze und Voldagsen ist ein Ersatzverkehr eingerichtet."
       ],
       "download": {
-        "text": "<p>Nachfolgend finden Sie die Fahrpl&auml;ne f&uuml;r den Busnotverkehr der Linie RB 77 (B&uuml;nde - Hildesheim):&nbsp;</p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:33c23224-c438-42ef-afbd-285daf9b5fbb/Baufahrplan_RB77_Sperrung_B%C3%BCnde-Hildesheim.pdf",
-            "title": "Baufahrplan_RB77_Sperrung_Bünde-Hildesheim.pdf (PDF, 81 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:cf4b73cd-4646-4dcb-98a4-e018af7cc965/Baufahrplan_RB77_Sperrung_Hildesheim-B%C3%BCnde.pdf",
-            "title": "Baufahrplan_RB77_Sperrung_Hildesheim-Bünde.pdf (PDF, 68 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
+        "text": "<p>Auf der nachfolgenden Internetseite finden Sie alle wichtigen Informationen zu den Fahrpl&auml;nen vom Busnotverkehr zwischen Elze und Voldagsen, sowie Informationen zu den Ersatzhaltestellen.&nbsp;</p>\n\n<p>Klichen Sie daf&uuml;r bitte hier:&nbsp;<a href=\"https://start-ni-mitte.de\">Internetseite Start Niedersachsen Mitte </a></p>\n"
       },
       "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a> oder beim regionalen Kundendialog unter 05191 8030904.</p>\n\n<p>Folgen Sie auch der Start Niedersachsen Mitte auf <a href=\"https://twitter.com/start_ni_mitte\">Twitter.</a></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
@@ -484,7 +490,7 @@
       "areas": [
         "ni"
       ],
-      "lastModified": "21.07.2022 11:54",
+      "lastModified": "22.07.2022 12:00",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 101
