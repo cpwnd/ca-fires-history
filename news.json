@@ -27,6 +27,30 @@
       "priorityValue": 301
     },
     {
+      "id": "008e3767-2348-405d-86e4-b6aa480e423e",
+      "headline": "Entschärfung einer Weltkriegsbombe in Hamburg",
+      "newsType": "Bombenentschärfung",
+      "timePeriod": "Am Freitag, 22.07.2022 bis in die Abendstunden",
+      "introText": "<p>Aufgrund der Entsch&auml;rfung einer Weltkriegsbombe am heutigen Freitag, 22.07.2022 kommt es in Hamburg im Bereich der S-Bahn-Station Hamburg-Elbbr&uuml;cken seit etwa 17 Uhr zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.&nbsp;</p>\n\n<p>Die Strecke zwischen Hamburg-Harburg und Hamburg Hbf ist gesperrt. Es kommt zu Zugausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE- und IC-Züge aus/in Richtung Bremen bzw. Hannover beginnen und enden in Hamburg-Harburg. Die Züge fallen auf dem Abschnitt nördlich von Hamburg-Harburg aus.",
+        "Die ICE-, EC/IC Züge aus/in Richtung Berlin sind davon nicht betroffen. Diese Züge fahren ohne Einschränkungen."
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\">reiseauskunft.bahn.de</a>, im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "hh"
+      ],
+      "lastModified": "22.07.2022 18:32",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 301
+    },
+    {
       "id": "300e56d8-1a5d-4d1c-81a3-abe2c602efc1",
       "headline": "Sonderkulanz zur Hitzewelle: Flexible Nutzung von Fernverkehrstickets",
       "newsType": "Kulanzregelung",
@@ -377,6 +401,37 @@
       "lastModified": "13.10.2021 08:58",
       "author": "suedostbayernbahn",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "5a97998d-8ed2-4fc3-aeb9-c0958cdf1d58",
+      "headline": "Sperrung des Bahnhofs Göttingen",
+      "newsType": "aufgrund Bombenentschärfung",
+      "timePeriod": "am Samstag, den 30. Juli und Sonntag, den 31. Juli ",
+      "introText": "<p>Am Samstag, den 30. Juli und Sonntag, den 31. Juli wird es aufgrund einer Kampfmittelsondierung im Stadtbereich von G&ouml;ttingen zu Auswirkungen auf den Bahnverkehr kommen.</p>\n\n<p>An beiden Tagen entfallen alle Z&uuml;ge der RE 1 (G&ouml;ttingen &ndash; Erfurt/Glauchau) zwischen G&ouml;ttingen und Heilbad Heiligenstadt und werden durch Busse ersetzt. Da der ZOB am Bahnhof G&ouml;ttingen auch zum Sperrbereich geh&ouml;rt, fahren die Busse des Schienenersatzverkehr in G&ouml;ttingen vom/zum Albaniplatz.</p>\n",
+      "connections": [],
+      "download": {
+        "text": "<p>Nachfolgend finden Sie eine Karte zur &Uuml;bersicht der betroffenen Verkehre.</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:ba5b702d-45f6-4c26-9338-2e6479ddb591/Fliegerbombe%20G%C3%B6ttingen_Karte%20mit%20allen%20EVU.PNG",
+            "title": "Fliegerbombe Göttingen Karte mit allen EVU (PNG, 194 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung unter&nbsp;<a href=\"https://www.bahn.de/\">www.bahn.de</a> oder in der DB Navigator-App.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "th"
+      ],
+      "lastModified": "22.07.2022 18:27",
+      "author": "suedost",
+      "expand": false,
       "priorityValue": 101
     },
     {
