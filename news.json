@@ -176,6 +176,27 @@
       "priorityValue": 102
     },
     {
+      "id": "eac2f74a-bd50-4d7d-a920-a886b46b9717",
+      "headline": "Zugausfälle auf der Linie RE7 am 23. und 24. Juli",
+      "newsType": "Erhöhter Krankenstand beim Fahrpersonal ",
+      "timePeriod": " am 23. Juli ab 18 Uhr und am 24. Juli ganztags",
+      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal k&ouml;nnen am 23. Juli ab 18 Uhr sowie am 24. Juli ganztags mehrere Z&uuml;ge des RE7 nicht verkehren.</p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Fahrtm&ouml;glichkeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Streckenagent und im DB Navigator.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "22.07.2022 13:46",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "372db108-9607-4dd3-a0e5-1eb4d93889b6",
       "headline": "Kein Zugverkehr zwischen Winden(Pfalz) und Kandel",
       "newsType": "Unfall an einem Bahnübergang",
@@ -344,7 +365,17 @@
       "timePeriod": "Am 24. Juli 2022",
       "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal fallen folgende Z&uuml;ge aus:&nbsp;</p>\n\n<p><strong>RB18704</strong>&nbsp;Zinnowitz ab 06:13 Uhr nach Peenem&uuml;nde</p>\n\n<p><strong>RB18706</strong>&nbsp;Zinnowitz ab 07:13 Uhr nach Peenem&uuml;nde</p>\n\n<p><strong>RB18708</strong>&nbsp;Zinnowitz ab 08:13 Uhr nach Peenem&uuml;nde</p>\n\n<p><strong>RB18710</strong>&nbsp;Zinnowitz ab 09:13 Uhr nach Peenem&uuml;nde</p>\n\n<p><strong>RB18712</strong>&nbsp;Zinnowitz ab 10:13 Uhr nach Peenem&uuml;nde</p>\n\n<p><strong>RB18714</strong>&nbsp;Zinnowitz ab 11:13 Uhr nach Peenem&uuml;nde</p>\n\n<p><strong>RB18716</strong>&nbsp;Zinnowitz ab 12:13 Uhr nach Peenem&uuml;nde</p>\n\n<p><strong>RB18718</strong>&nbsp;Zinnowitz ab 13:13 Uhr nach Peenem&uuml;nde</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RB18705</strong>&nbsp;Peenem&uuml;nde ab 06:32 Uhr nach&nbsp;Zinnowitz</p>\n\n<p><strong>RB18707</strong>&nbsp;Peenem&uuml;nde ab 07:32 Uhr nach&nbsp;Zinnowitz</p>\n\n<p><strong>RB18709</strong>&nbsp;Peenem&uuml;nde ab 08:32 Uhr nach&nbsp;Zinnowitz</p>\n\n<p><strong>RB18711</strong>&nbsp;Peenem&uuml;nde ab 09:32 Uhr nach&nbsp;Zinnowitz</p>\n\n<p><strong>RB18713</strong>&nbsp;Peenem&uuml;nde ab 10:32 Uhr nach&nbsp;Zinnowitz</p>\n\n<p><strong>RB18715</strong>&nbsp;Peenem&uuml;nde ab 11:32 Uhr nach&nbsp;Zinnowitz</p>\n\n<p><strong>RB18717</strong>&nbsp;Peenem&uuml;nde ab 12:32 Uhr nach&nbsp;Zinnowitz</p>\n\n<p><strong>RB18719</strong>&nbsp;Peenem&uuml;nde ab 13:32 Uhr nach&nbsp;Zinnowitz</p>\n\n<p>Nutzen Sie als Ersatz den Schienenersatzverkehr.</p>\n",
       "connections": [],
-      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft&nbsp;in der App DB Streckenagent und im DB Navigator.</p>\n",
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:541ad7da-5a38-4760-b3d0-fc05a8b308f3/RB%2024%20Busnotverkehr%20Zinnowitz%20-%20Peenem%C3%BCnde%20g%C3%BCltig%20am%2024.07.2022.pdf",
+            "title": "RB 24 Busnotverkehr Zinnowitz - Peenemünde gültig am 24.07.2022.pdf (PDF, 152 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>&nbsp;in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -352,7 +383,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "22.07.2022 11:27",
+      "lastModified": "22.07.2022 13:55",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
@@ -361,11 +392,11 @@
       "id": "63583eed-0396-4988-a106-694cad6214f6",
       "headline": "Zugausfälle RB17 Wismar - Ludwigslust",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "25. bis 29. Juli 2022",
-      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal&nbsp;fallen<strong> einige Z&uuml;ge</strong> auf der Linie RB17 im Abschnitt<strong>&nbsp;Wismar - Ludwigslust</strong> in beide Richtungen aus.&nbsp;</p>\n\n<p>RB 13150 Ludwigslust &ndash; Wismar&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />\nRB 13158 Ludwigslust &ndash; Wismar&nbsp;<br />\nRB 13162 Ludwigslust &ndash; Wismar<br />\nRB 13170 Ludwigslust &ndash; Wismar&nbsp;<br />\nRB 13176 Ludwigslust &ndash; Wismar&nbsp;<br />\nRB 13180 Ludwigslust &ndash; Schwerin&nbsp; &nbsp; &nbsp; &nbsp;</p>\n\n<p>RB 13153 Wismar &ndash; Ludwigslust<br />\nRB 13159 Wismar &ndash; Ludwigslust<br />\nRB 13163 Wismar &ndash; Ludwigslust<br />\nRB 13171 Wismar &ndash; Ludwigslust<br />\nRB 13177 Wismar &ndash; Ludwigslust&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\n\n<p>Benutzen Sie bitte die Z&uuml;ge der RE2 als Ersatz .</p>\n\n<p>F&uuml;r einige Z&uuml;ge verkehren Busse als Ersatz. Den Fahrplan finden Sie hier:</p>\n",
+      "timePeriod": "25. Juli bis 12. August 2022 (Mo-Fr)",
+      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal&nbsp;fallen<strong> einige Z&uuml;ge</strong> auf der Linie RB17 im genannten Zeitraum von Montags bis Freitags im Abschnitt<strong>&nbsp;Wismar - Ludwigslust</strong> in beide Richtungen aus.&nbsp;</p>\n\n<p>RB 13150 Ludwigslust &ndash; Wismar&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />\nRB 13158 Ludwigslust &ndash; Wismar&nbsp;<br />\nRB 13162 Ludwigslust &ndash; Wismar<br />\nRB 13170 Ludwigslust &ndash; Wismar&nbsp;<br />\nRB 13176 Ludwigslust &ndash; Wismar&nbsp;<br />\nRB 13180 Ludwigslust &ndash; Schwerin&nbsp; &nbsp; &nbsp; &nbsp;</p>\n\n<p>RB 13153 Wismar &ndash; Ludwigslust<br />\nRB 13159 Wismar &ndash; Ludwigslust<br />\nRB 13163 Wismar &ndash; Ludwigslust<br />\nRB 13171 Wismar &ndash; Ludwigslust<br />\nRB 13177 Wismar &ndash; Ludwigslust&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\n\n<p>Benutzen Sie bitte die Z&uuml;ge der RE2 als Ersatz .</p>\n\n<p>F&uuml;r einige Z&uuml;ge verkehren Busse als Ersatz. Den Fahrplan finden Sie hier:</p>\n",
       "connectionsHeadline": "Busersatzverkehr RB17",
       "connections": [],
-      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App&nbsp;DB Streckenagent&nbsp;oder im&nbsp;DB Navigator.</p>\n",
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"http://DB Streckenagent\">DB Streckenagent</a>&nbsp;oder im&nbsp;<a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -373,7 +404,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "22.07.2022 11:40",
+      "lastModified": "22.07.2022 14:23",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
