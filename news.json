@@ -135,6 +135,27 @@
       "priorityValue": 201
     },
     {
+      "id": "3502e3f7-d0d6-488c-af59-77fb8f1a8fe4",
+      "headline": "Zugausfälle auf der Linie RE66",
+      "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "23. und 24. Juli 2022",
+      "introText": "<p>Wegen des erh&ouml;hten Krankenstandes beim Fahrpersonal&nbsp;m&uuml;ssen am 23. und 24. Juli&nbsp;folgende Z&uuml;ge ausfallen.&nbsp;</p>\n\n<p><strong>RE95480</strong>&nbsp;Berlin Gesundbrunnen ab 08:06 Uhr nach Angerm&uuml;nde</p>\n\n<p><strong>RE95482</strong>&nbsp; Berlin Gesundbrunnen ab 14:53 Uhr&nbsp;nach Angerm&uuml;nde</p>\n\n<p><strong>RE95484&nbsp;</strong>&nbsp;Berlin Gesundbrunnen ab 17:20 Uhr&nbsp;nach Angerm&uuml;nde</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RE95481</strong>&nbsp;Angerm&uuml;nde ab 07:05 Uhr nach&nbsp;&nbsp;Berlin Gesundbrunnen</p>\n\n<p><strong>RE95483</strong>&nbsp;Angerm&uuml;nde ab 11:04 Uhr nach&nbsp;&nbsp;Berlin Gesundbrunnen</p>\n\n<p><strong>RE95487</strong>&nbsp;Angerm&uuml;nde ab 20:44 Uhr nach&nbsp;Berlin Gesundbrunnen</p>\n\n<p>Als Ersatz nutzen Sie bitte die Z&uuml;ge der Linie RE3</p>\n\n<p>&nbsp;</p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chliche Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "22.07.2022 15:42",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
       "headline": "Meldungen der S-Bahn Berlin",
       "newsType": "Störung",
@@ -359,6 +380,25 @@
       "priorityValue": 101
     },
     {
+      "id": "a7c1c35b-ee42-4ea0-a931-2818863e1e0b",
+      "headline": "Teilausfälle auf der RB 33 ",
+      "newsType": "Fahrplananpassungen",
+      "timePeriod": "im Zeitraum Montag, 25.07. bis Freitag 12.08.2022 ",
+      "introText": "<p>Die Linie RB 33 verkehrt nur im Abschnitt Dresden-Neustadt &ndash; Ottendorf-Okrilla S&uuml;d mit Ausnahme einzelner Fahrten in Tagesrandlage:</p>\n\n<p>RB 16960, <strong>K&ouml;nigsbr&uuml;ck ab 4.44</strong> Uhr verkehrt durchgehend als Zug (Zug nur verkehrt W(Sa))</p>\n\n<p>RB 16993, <strong>Dresden-Neustadt ab 21.48</strong> Uhr verkehrt durchgehend bis K&ouml;nigsbr&uuml;ck als Zug</p>\n\n<p>RB 16996, <strong>K&ouml;nigsbr&uuml;ck ab 22.54</strong> Uhr verkehrt durchgehend als Zug</p>\n\n<p>RB 16997, <strong>Dresden-Neustadt ab 23.48</strong> Uhr verkehrt durchgehend bis K&ouml;nigsbr&uuml;ck als Zug</p>\n\n<p>RB 16998, <strong>K&ouml;nigsbr&uuml;ck ab 6.54</strong> Uhr verkehrt durchgehend als Zug (Zug nur verkehrt Sa+So)</p>\n",
+      "connections": [],
+      "closingText": "<p>Im Abschnitt K&ouml;nigsbr&uuml;ck &ndash; Ottendorf-Okrilla S&uuml;d ist f&uuml;r die entfallenden Z&uuml;ge ein Schienenersatzverkehr eingerichtet (ggf. Link zur Fahrplantabelle). Bitte beachten Sie, dass als Haltestelle des Schienenersatzverkehrs f&uuml;r Ottendorf-Okrilla Hp. die Regionalverkehrshaltestelle &bdquo;Dresdner Str.&ldquo; bedient wird! Diese ist vom s&uuml;dlichen Bahnsteigzugang Ottendorf-Okrilla Hp. &uuml;ber die Stra&szlig;e &bdquo;Feldweg&ldquo; zu erreichen.&nbsp;</p>\n\n<p>In der Fahrplanauskunft auf <a href=\"http://bahn.de\">www.bahn.de</a>&nbsp;sowie in den Apps DB Navigator und DB Streckenagent sind die Anpassungen enthalten.</p>\n\n<p>Bitte beachten Sie auch die ab 13.08.2022 stattfindenden Bauarbeiten.&nbsp;<a href=\"https://bauinfos.deutschebahn.com/sachsen\">(aktuelle Bauarbeiten)</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sn"
+      ],
+      "lastModified": "22.07.2022 15:33",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "ee847633-e47e-4088-be45-b62b7a1fe69d",
       "headline": "Zugausfälle auf der Linie RB24 am 24. Juli",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal ",
@@ -527,17 +567,58 @@
       "priorityValue": 101
     },
     {
+      "id": "97590061-3e41-41d8-b1a7-dd3bafa6f6d6",
+      "headline": "Teilausfälle im Bahnverkehr der Kurhessenbahn zwischen Wabern(Bz Kassel) und Bad Wildungen",
+      "newsType": "Kurzfristiger Personalausfall",
+      "timePeriod": "Bis Freitag, den 05.08.2022",
+      "introText": "<p>Es kommt im Bahnverkehr der Kurhessenbahn auf der Linie RB39 / RE39 zu Teilausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "RB39 / RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen"
+      ],
+      "download": {
+        "text": "<p><strong><u>Die aktuellen Fahrplantabellen:</u></strong></p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:7fc55daa-e687-4ce0-a882-276b75934b5b/RB39_Ausf._2022-07-23(Sa)_bis_2022-24-07(So).pdf",
+            "title": "RB39 Ausfälle am 23.07./24.07. und 30.07./31.07. (PDF, 196 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:43138fdb-bef8-46f2-8d05-f14bc6ef30b7/RB39_Ausf._2022-07-25(Mo)_bis_2022-29-07(Fr).pdf",
+            "title": "RB39 Ausfälle vom 25.07. bis zum 05.08.22 (Mo - Fr) (PDF, 198 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB39 / RE39:</strong></u></p>\n\n<p><em><strong>Jeweils von Betriebsbeginn bis ca. 12:00 Uhr sowie zwischen 22:20 und 23:00 Uhr:</strong></em></p>\n\n<p>Die Z&uuml;ge aus Richtung Kassel Hbf enden vorzeitig in Wabern(Bz Kassel) und wenden dort.</p>\n\n<p>Wir haben f&uuml;r Sie einen <strong>Busnotverkehr </strong>mit einem Bus der Firma K&uuml;ster Reisen zwischen Wabern(Bz Kassel) und Bad Wildungen eingerichtet.&nbsp;</p>\n\n<p>F&uuml;r vereinzelte Fahrten k&ouml;nnen wir kein Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"http://www.bahn.de\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 24445710</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "he"
+      ],
+      "lastModified": "22.07.2022 15:07",
+      "author": "hessen",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "c2249077-3f34-4fa3-8fbf-70ea25f984f3",
       "headline": "Zugausfälle im Bahnverkehr der Kurhessenbahn",
       "newsType": "Kurzfristiger Personalausfall",
-      "timePeriod": "Bis Sonntag, den 24.07.2022",
-      "introText": "<p>Es kommt im Bahnverkehr der Kurhessenbahn auf den Linien RB4, RB94 und RB97 / RE97 zu zahlreichen Zugausf&auml;llen.</p>\n",
+      "timePeriod": "Bis Samstag, den 06.08.2022",
+      "introText": "<p>Es kommt im Bahnverkehr der Kurhessenbahn auf den Linien RB94 und RB97 / RE97 zu zahlreichen Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "RB94: Marburg(Lahn) - Bad Laasphe (- Erndtebrück)",
         "RB97 / RE97: Marburg(Lahn) - Frankenberg(Eder) - Korbach Hbf - Brilon Stadt"
       ],
       "download": {
+        "text": "<p><strong><u>Die aktuellen Fahrplantabellen:</u></strong></p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:80198c8f-beee-4630-a307-65a95e32304e/RB94-Ausf.11.-22.07..pdf",
@@ -549,6 +630,18 @@
             "link": "https://assets.static-bahn.de/dam/jcr:27812375-e730-4d63-b44e-ee35ed370e29/RB94-Ausf.16.u.23.07..pdf",
             "title": "RB94 Ausfälle am 23.07.22 (PDF, 261 KB)",
             "info": "RB94",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:4a72ad3f-0d1d-4e55-8322-7bfd65d3cb0d/RB94_Ausf._2022-07-25(Mo)_bis_2022-08-05(Fr).pdf",
+            "title": "RB94 Ausfälle vom 25.07. bis zum 05.08.2022 (Mo-Fr) (PDF, 260 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:b55cab1e-5af4-43cf-95f3-c6d4401ab564/RB94_Ausf._2022-07-30(Sa)_und_2022-08-06(Sa).pdf",
+            "title": "RB94 Ausfälle am 30.07. und 06.08.2022 (PDF, 62 KB)",
+            "info": "",
             "openInNewTab": true
           },
           {
@@ -568,10 +661,28 @@
             "title": "RB97 / RE97 Ausfälle am 24.07.22 (PDF, 218 KB)",
             "info": "RB97 / RE97",
             "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:728bcdf9-ddcd-41b6-8f03-cd5219107185/RB97_Ausf._2022-07-25(Mo)_bis_2022-08-05(Fr).pdf",
+            "title": "RB97 / RE97 Ausfälle vom 25.07. bis zum 05.08.22 (Mo-Fr) (PDF, 64 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:4b5ab686-8edf-4dac-b9a1-1ae9791aa940/RB97_Ausf._2022-07-30(Sa).pdf",
+            "title": "RB97 / RE97 Ausfälle am 30.07.22 (PDF, 58 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:a89d92ed-3f52-448f-88b9-2450c15b98bc/RB97_Ausf._2022-07-31(So).pdf",
+            "title": "RB97 / RE97 Ausfälle am 31.07.22 (PDF, 218 KB)",
+            "info": "",
+            "openInNewTab": true
           }
         ]
       },
-      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB94:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zugausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB94.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB97 / RE97:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zug- und Teilausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB97 / RE97.&nbsp;</strong></p>\n\n<p><strong>F&uuml;r Fahrten zwischen Brilon Stadt und Brilon Wald nutzen Sie bitte auch die Z&uuml;ge der Linie RE57.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
+      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB94:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zugausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB94.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB97 / RE97:</strong></u></p>\n\n<p>Es kommt zu zahlreichen Zug- und Teilausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB97 / RE97.&nbsp;</strong></p>\n\n<p><strong>F&uuml;r Fahrten zwischen Brilon Stadt und Brilon Wald nutzen Sie bitte auch die Z&uuml;ge der Linie RE57.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"http://www.bahn.de\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 24445710</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -579,7 +690,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "18.07.2022 06:53",
+      "lastModified": "22.07.2022 15:07",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
