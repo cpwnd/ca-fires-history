@@ -587,10 +587,30 @@
       "download": {
         "text": "<p>Auf der nachfolgenden Seite finden Sie die Ersatzfahrpl&auml;ne f&uuml;r die Zugverbindungen.&nbsp;</p>\n",
         "linkDataList": [
-          null,
-          null,
-          null,
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:b8899500-567d-45d1-a82e-de584b248c4f/Ersatzfahrplan%2027.-29.07.%20RB40%20Braunschweig%20-%20Helmstedt.xlsx",
+            "title": "Ersatzfahrplan 27.-29.07. RB40 Braunschweig - Helmstedt (XLSX, 11 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:195a7983-44dd-47b6-9514-70fbca9b7d64/Ersatzfahrplan%2027.-29.07.%20RB44+48%20Braunschweig%20-%20Salzgitter-Lebenstedt.xlsx",
+            "title": "Ersatzfahrplan 27.-29.07. RB44+48 Braunschweig - Salzgitter-Lebenstedt (XLSX, 15 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:7ebef844-c65b-4f69-9f1b-bec7629f86d2/Ersatzfahrplan%2027.-29.07.%20RB81%20Bodenfelde%20-%20Northeim.xlsx",
+            "title": "Ersatzfahrplan 27.-29.07. RB81 Bodenfelde - Northeim (XLSX, 17 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:bf019e67-da73-4414-8eb8-d2399c0fdf8e/Ersatzfahrplan%2027.-29.07.%20RB86%20G%C3%B6ttingen%20-%20Einbeck%20Mitte.xlsx",
+            "title": "Ersatzfahrplan 27.-29.07. RB86 Göttingen - Einbeck Mitte (XLSX, 117 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a> oder beim regionalen Kundendialog unter 030 2970.</p>\n\n<p>Folgen Sie auch der DB Regio auf <a href=\"https://twitter.com/DBRegio_NDS\">Twitter.</a></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
@@ -601,7 +621,7 @@
       "areas": [
         "ni"
       ],
-      "lastModified": "23.07.2022 00:42",
+      "lastModified": "23.07.2022 07:30",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 101
