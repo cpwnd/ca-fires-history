@@ -1,6 +1,32 @@
 {
   "news": [
     {
+      "id": "bf9df1d4-ef76-4a1c-b7ed-99adbdcbb760",
+      "headline": "Beeinträchtigungen zwischen Magdeburg und Braunschweig/Hannover",
+      "newsType": "Defektes Stellwerk",
+      "timePeriod": "Am heutigen Sonntag, 24.07.2022 vsl. bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund eines defekten Stellwerkes zwischen Magdeburg und Braunschweig bzw. Hannover kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 45 Minuten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "IC/ICE-Züge zwischen Berlin - Magdeburg - Braunschweig - Hannover/Kassel",
+        "IC-Züge zwischen Leipzig - Magdeburg - Helmstedt - Braunschweig - Hannover halten nicht in Helmstedt und Braunschweig Hbf. Ersatzhalt in Wolfsburg Hbf"
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\">reiseauskunft.bahn.de</a>, im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "be",
+        "ni",
+        "st"
+      ],
+      "lastModified": "24.07.2022 04:40",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 303
+    },
+    {
       "id": "53e4a637-10b3-4571-8684-58a66c3a6a53",
       "headline": "Beeinträchtigungen im Raum Stuttgart",
       "newsType": "Reparatur eines Stellwerkes",
