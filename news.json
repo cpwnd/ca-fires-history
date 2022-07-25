@@ -48,11 +48,11 @@
       "headline": "Beeinträchtigungen zwischen Erfurt und Fulda",
       "newsType": "Streckensperrung",
       "timePeriod": "Am Montag, 25.07.2022 bis Dienstag, 26.07.2022 in den späten Vormittagsstunden",
-      "introText": "<p>Aufgrund von Unwettersch&auml;den im Raum Bebra, ist die Strecke zwischen Erfurt und Fulda derzeit gesperrt. Einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn m&uuml;ssen umgeleitet werden und versp&auml;ten sich um etwa 70 Minuten. Auch kann es zu kurzfristigen Halt- und Zugausf&auml;llen kommen. Die Halte Fulda, Bad Hersfeld, Eisenach und Gotha k&ouml;nnen entfallen.</p>\n",
+      "introText": "<p>Aufgrund von Unwettersch&auml;den im Raum Bebra, ist die Strecke zwischen Erfurt und Fulda derzeit gesperrt.</p>\n\n<p>Einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn m&uuml;ssen umgeleitet werden und versp&auml;ten sich. Da auch auf verschiedenen Umleitungsstrecken Unwetter-bedingte Einschr&auml;nkungen bestehen, m&uuml;ssen die Z&uuml;ge teilweise weitr&auml;umig umgeleitet werden, was zu entsprechend hohen Versp&auml;tungen f&uuml;hrt.</p>\n\n<p>Leider kann es auch zu kurzfristigen Halt- und Zugausf&auml;llen kommen. Die Halte Fulda, Bad Hersfeld, Eisenach und Gotha k&ouml;nnen entfallen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE-Züge Erfurt - Fulda - Frankfurt(M)/Mannheim",
-        "IC-Züge Kassel-Wilhelmshöhe/Frankfurt(M) - Erfurt - Leipzig/Gera "
+        "ICE-Züge Erfurt - Fulda - Frankfurt(Main)",
+        "IC-Züge Kassel-Wilhelmshöhe - Erfurt - Leipzig/Gera"
       ],
       "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\">reiseauskunft.bahn.de</a>, im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
@@ -61,12 +61,14 @@
       ],
       "areas": [
         "he",
+        "sn",
+        "st",
         "th"
       ],
-      "lastModified": "25.07.2022 18:17",
+      "lastModified": "25.07.2022 21:40",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 302
+      "priorityValue": 304
     },
     {
       "id": "300e56d8-1a5d-4d1c-81a3-abe2c602efc1",
@@ -784,6 +786,74 @@
       "lastModified": "22.06.2022 15:45",
       "author": "bayern",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "78a4816b-9205-4ae4-bbb0-fae27ee0b895",
+      "headline": "Beeinträchtigungen zwischen Gaildorf West und Schwäbisch Hall-Hessental.",
+      "newsType": "Reparatur an der Strecke",
+      "timePeriod": "voraussichtlich bis 14.08.22",
+      "introText": "<p>Aufgrund einer Reparatur an der Strecke zwischen Schw&auml;bisch Hall-Hessental bis Gaildorf West fallen die Z&uuml;ge der Linie MEX 19 aus. Als Alternative nutzen Sie bitte ab&nbsp;Montag, 18.07.2022&nbsp; bis 01.08.22 die umgeleiteten IC-Z&uuml;ge zwischen Gaildorf West und Schw&auml;bisch Hall-Hessental. Die IC-Z&uuml;ge sind zwischen Gaildorf West und Crailsheim&nbsp;f&uuml;r Reisende mit Fahrkarten des Nahverkehrs freigegeben&nbsp;(ausgenommen Fahrradmitnahme).</p>\n\n<p>Ab 01.08.22 bis voraussichtlich 14.08.22 wird ein Ersatzverkehr mit dem Bus zwischen Gaildorf West und Schw&auml;bisch Hall-Hessental eingerichtet.</p>\n",
+      "connectionsHeadline": "Betroffene Strecken",
+      "connections": [
+        "MEX 19  Schwäbisch Hall-Hessental – Gaildorf West"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-App</a>&nbsp;immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "25.07.2022 21:35",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "4a7bf2c3-20eb-4fd1-8322-c023af71fd84",
+      "headline": "Sonntags-Stundentakt zwischen Gottenheim - Endingen",
+      "newsType": "Erhöhter Krankenstand",
+      "timePeriod": "im Zeitraum zwischen 31.07.22 bis vorerst 14.08.22, jeweils am Sonntag",
+      "introText": "<p>Zwischen Gottenheim und Endingen am Kaiserstuhl entf&auml;llt der Halbstundentakt der S11 mit der Abfahrt in Gottenheim ab 09:02 ( bis 18:02 Uhr) und in Gegenrichtung ab Endingen am Kaiserstuhl mit der Abfahrt ab 09:31 ( bis 18:31 Uhr). Bitte nutzen Sie die verbleibenden&nbsp;S-Bahnen der Linie S11, mit Abfahrt in Gottenheim zur Minute 32 und ab Endingen am Kaiserstuhl zur Minute 01.&nbsp;</p>\n\n<p>Der angepasste Fahrplan wird vsl. ab 27.07.22. in der Reiseausfkunft auf www.bahn.de und der DB Navigator App abrufbar sein.</p>\n",
+      "connectionsHeadline": "Betroffene Verbindungen:",
+      "connections": [
+        "S11 Gottenheim - Endingen am Kaiserstuhl"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-App</a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "25.07.2022 21:34",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "d6eb800b-edbc-4cdd-b9be-861db09a1ebb",
+      "headline": "Stundentakt zwischen Schaffhausen und Singen(Hohentwiel)",
+      "newsType": "Erhöhter Krankenstand",
+      "timePeriod": "ab 28.07.22 vorerst bis 14.08.22",
+      "introText": "<p>Zwischen Schaffhausen und Singen(Hohentwiel) entf&auml;llt der Halbstundentakt der Regionalbahnen(RB33). Bitte nutzen Sie ab Schaffhausen die verbleibende Regionalbahnen, mit Abfahrt in Schaffhausen zur Minute 07 und ab Singen(Hohentwiel) zur Minute 36. Direktreisende zwischen Schaffhausen und Singen(Hohentwiel) nutzen, wenn m&ouml;glich, die Interregio-Express Z&uuml;ge (IRE3).</p>\n\n<p>In der Zeit von 06 bis 21 Uhr verkehrt ein Bus zwischen Singen(Hohentwiel) und Bietingen als Ersatz f&uuml;r die ausfallenden Z&uuml;ge.&nbsp;</p>\n\n<p>Der angepasste Fahrplan wird vsl. ab 27.07.22. in der Reiseausfkunft auf www.bahn.de und der DB Navigator App abrufbar sein.</p>\n",
+      "connectionsHeadline": "Betroffene Verbindungen:",
+      "connections": [
+        "RB 33: Schaffhausen - Singen(Hohentwiel)"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-App</a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "25.07.2022 21:34",
+      "author": "baden_wuerttemberg",
+      "expand": false,
       "priorityValue": 101
     },
     {
