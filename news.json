@@ -103,6 +103,30 @@
       "priorityValue": 202
     },
     {
+      "id": "e14042c5-d69d-43c9-bc25-0963663bb4fe",
+      "headline": "Streckensperrung zwischen Würzburg und Aschaffenburg, sowie zwischen Würzburg und Fulda",
+      "newsType": "Feuerwehreinsatz",
+      "timePeriod": "Heute, 25.07.2022 bis in die Nachmittagsstunden",
+      "introText": "<p>Aufgrund eines Feuerwehreinsatzes in Gleisn&auml;he ist die Strecke zwischen W&uuml;rzburg und Aschaffenburg, wie auch W&uuml;rzburg und Fulda derzeit gesperrt. Einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn m&uuml;ssen umgeleitet werden und versp&auml;ten sich dadurch um etwa 60 Minuten. Der Halt W&uuml;rzburg Hbf entf&auml;llt.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE. IC zwischen Würzburg - Aschaffenburg/Fulda"
+      ],
+      "closingText": "<p><strong>W&uuml;rzburg Hbf erreichen Sie:</strong> Nutzen Sie die Regionalbahnlinie RE 10 zwischen N&uuml;rnberg und W&uuml;rzburg.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\">reiseauskunft.bahn.de</a>, im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "by",
+        "he"
+      ],
+      "lastModified": "25.07.2022 14:40",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 202
+    },
+    {
       "id": "312bc0d2-7260-4196-bca0-928db5efccbd",
       "headline": "Werdenfelsbahn: Strecke zwischen Murnau - Garmisch-Partenkirchen - Mittenwald weiterhin gesperrt",
       "newsType": "Beeinträchtigungen ",
@@ -604,14 +628,14 @@
         "text": "<p><strong><u>Die aktuellen Fahrplantabellen:</u></strong></p>\n",
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:7fc55daa-e687-4ce0-a882-276b75934b5b/RB39_Ausf._2022-07-23(Sa)_bis_2022-24-07(So).pdf",
-            "title": "RB39 Ausfälle am 23.07./24.07. und 30.07./31.07. (PDF, 196 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:43138fdb-bef8-46f2-8d05-f14bc6ef30b7/RB39_Ausf._2022-07-25(Mo)_bis_2022-29-07(Fr).pdf",
+            "title": "RB39 Ausfälle vom 25.07. bis zum 05.08.22 (Mo - Fr) (PDF, 198 KB)",
             "info": "",
             "openInNewTab": true
           },
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:43138fdb-bef8-46f2-8d05-f14bc6ef30b7/RB39_Ausf._2022-07-25(Mo)_bis_2022-29-07(Fr).pdf",
-            "title": "RB39 Ausfälle vom 25.07. bis zum 05.08.22 (Mo - Fr) (PDF, 198 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:7fc55daa-e687-4ce0-a882-276b75934b5b/RB39_Ausf._2022-07-23(Sa)_bis_2022-24-07(So).pdf",
+            "title": "RB39 Ausfälle am 30.07./31.07. (PDF, 196 KB)",
             "info": "",
             "openInNewTab": true
           }
@@ -625,7 +649,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "22.07.2022 15:07",
+      "lastModified": "25.07.2022 14:39",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
@@ -657,12 +681,6 @@
             "openInNewTab": true
           },
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:c983d3b4-b28f-4f35-9282-613b9a578833/RB97-Ausf.17.u.24.07..pdf",
-            "title": "RB97 / RE97 Ausfälle am 24.07.22 (PDF, 218 KB)",
-            "info": "RB97 / RE97",
-            "openInNewTab": true
-          },
-          {
             "link": "https://assets.static-bahn.de/dam/jcr:728bcdf9-ddcd-41b6-8f03-cd5219107185/RB97_Ausf._2022-07-25(Mo)_bis_2022-08-05(Fr).pdf",
             "title": "RB97 / RE97 Ausfälle vom 25.07. bis zum 05.08.22 (Mo-Fr) (PDF, 64 KB)",
             "info": "",
@@ -690,7 +708,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "24.07.2022 06:33",
+      "lastModified": "25.07.2022 14:38",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
