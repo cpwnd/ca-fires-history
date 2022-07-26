@@ -215,7 +215,7 @@
       "headline": "Kein Zugverkehr S9 zw. Mannheim und Groß-Rohrheim / Beeinträchtigungen im Raum Mannheim",
       "newsType": "Reparatur an der Oberleitung",
       "timePeriod": "Dienstag, 26.07.2022 (vsl. bis Betriebsschluss)",
-      "introText": "<p>Eine Reparatur an der Oberleitung im Raum Mannheim Hbf verz&ouml;gert weiterhin den Bahnverkehr.<br />\nDer Zugverkehr wurde teilweise wieder aufgenommen. Es kommt weiterhin zu Versp&auml;tungen und kurzfristigen Fahrtausf&auml;llen in alle Richtungen.</p>\n\n<p>Auf der Linie <strong>S9</strong> zwischen <em><strong>Mannheim und Gro&szlig; Rohrheim</strong></em> sind weiterhin keine Zugfahrten m&ouml;glich.</p>\n\n<p><br />\n&nbsp;</p>\n",
+      "introText": "<p>Eine Reparatur an der Oberleitung im Raum Mannheim Hbf verz&ouml;gert weiterhin den Bahnverkehr.<br />\nDer Zugverkehr wurde teilweise wieder aufgenommen. Es kommt weiterhin zu Versp&auml;tungen und kurzfristigen Fahrtausf&auml;llen in alle Richtungen.</p>\n\n<p>Auf der Linie <strong>S9</strong> zwischen <em><strong>Mannheim und Gro&szlig; Rohrheim</strong></em> sind weiterhin keine Zugfahrten m&ouml;glich.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "S9 - Groß Rohrheim - Mannheim - Hockenheim - Karlsruhe",
@@ -240,7 +240,7 @@
         "he",
         "rp"
       ],
-      "lastModified": "26.07.2022 14:35",
+      "lastModified": "26.07.2022 16:18",
       "author": "mitte",
       "expand": false,
       "priorityValue": 103
@@ -658,6 +658,30 @@
       ],
       "lastModified": "22.07.2022 12:00",
       "author": "niedersachsen_bremen",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "8e809647-b106-49f5-892a-a2f5cb407abf",
+      "headline": "Keine Zugfahrten zwischen Wörth(Rhein) und Lauterbourg",
+      "newsType": "Kurzfristige Erkrankung von Personal",
+      "timePeriod": "Dienstag, 26.07.2022 (ab 16 Uhr bis Betriebsschluss)",
+      "introText": "<p>Wegen der kurzfristigen Erkrankung von Personal entfallen ab 16:00 Uhr bis Betriebsschluss alle Z&uuml;ge zwischen W&ouml;rth(Rhein) und Lauterbourg.</p>\n",
+      "connectionsHeadline": "RB52 Wörth(Rhein) - Lauterbourg",
+      "connections": [],
+      "download": {
+        "text": "<p>Wir arbeiten derzeit an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.&nbsp;</p>\n"
+      },
+      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein und informieren Sie sich kurz vor der Fahrt im DB Navigator oder unter<strong>&nbsp;<a href=\"http://www.bahn.de/\">www.bahn.de</a></strong>. In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es&nbsp;kostenlos in der <strong><a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-App</a></strong>&nbsp;oder auf&nbsp;<strong><a href=\"https://twitter.com/Regio_Mitte\">Twitter</a></strong>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "26.07.2022 16:18",
+      "author": "mitte",
       "expand": false,
       "priorityValue": 101
     },
