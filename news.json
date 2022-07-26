@@ -126,6 +126,30 @@
       "priorityValue": 202
     },
     {
+      "id": "a8d30b32-00a1-4956-8f08-2ef3a339ed69",
+      "headline": "Beeinträchtigungen zwischen Bonn und Köln",
+      "newsType": "Bauarbeiten",
+      "timePeriod": "Am Dienstag, 26.07.2022 bis Betriebsschluss",
+      "introText": "<p>Aufgrund von Bauarbeiten zwischen Bonn und K&ouml;ln kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden von Koblenz nach K&ouml;ln umgeleitet und versp&auml;ten sich dadurch um etwa 25 Minuten. Die Halte Andernach, Remagen und Bonn Hbf entfallen. Ersatzhalte in Bonn-Beuel werden eingerichtet.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE-/IC-/EC-Züge von Koblenz Richtung Köln."
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\">reiseauskunft.bahn.de</a>, im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "nw",
+        "rp"
+      ],
+      "lastModified": "26.07.2022 11:34",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 202
+    },
+    {
       "id": "312bc0d2-7260-4196-bca0-928db5efccbd",
       "headline": "Werdenfelsbahn: Strecke zwischen Murnau - Garmisch-Partenkirchen - Mittenwald weiterhin gesperrt",
       "newsType": "Beeinträchtigungen ",
@@ -298,8 +322,8 @@
             "openInNewTab": true
           },
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:d94d83ad-3847-46f9-bdb6-9964f87bda68/Reduziertes%20Fahrplanangebot%20WFB%2001.08-09.09.22.pdf",
-            "title": "Reduziertes Fahrplanangebot WFB 01.08-09.09.22.pdf (PDF, 365 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:33a11b27-0b03-4685-91e4-751e198520b7/Westfrankenbahn_reduziertes_Angebot_01082022_09092022.pdf",
+            "title": "Westfrankenbahn_reduziertes_Angebot_01082022_09092022.pdf (PDF, 366 KB)",
             "info": "",
             "openInNewTab": false
           }
@@ -314,7 +338,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "15.07.2022 13:25",
+      "lastModified": "26.07.2022 11:34",
       "expand": false,
       "priorityValue": 102
     },
