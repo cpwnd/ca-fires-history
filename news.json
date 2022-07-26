@@ -1003,8 +1003,12 @@
       ],
       "download": {
         "linkDataList": [
-          null,
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:7b645ac4-ea6a-4f83-854c-2d41ddd9fa14/RB107_Mulhouse-M%C3%BCllheim_-27.07.-20.08.2022.pdf",
+            "title": "SEV Fahrplan Müllheim(Baden) - Mulhouse Ville 27 Juli bis 20. August (PDF, 62 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
         ]
       },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung insbesondere aufgrund der l&auml;ngeren Fahrzeiten der Busse mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
@@ -1015,7 +1019,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "26.07.2022 13:04",
+      "lastModified": "26.07.2022 16:49",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
