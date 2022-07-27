@@ -139,7 +139,7 @@
       "areas": [
         "ni"
       ],
-      "lastModified": "27.07.2022 14:14",
+      "lastModified": "27.07.2022 16:18",
       "author": "fernverkehr_ag",
       "expand": true,
       "priorityValue": 301
@@ -1091,6 +1091,32 @@
         "bw"
       ],
       "lastModified": "26.07.2022 16:49",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "fdcebaee-bbd7-4d9c-af1e-d43114b34b15",
+      "headline": "Veränderter Fahrplan zwischen Ulm und Friedrichshafen",
+      "newsType": "Reparatur an mehreren Zügen",
+      "timePeriod": "ab 08.08.22 bis 11.09.22 von Montags bis Freitags",
+      "introText": "<p>An Werktagen kommt es zu Fahrplan&auml;nderungen, bitte informieren Sie sich fr&uuml;hzeitig &uuml;ber Ihre Reiseverbindung.</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "IRE 3 Ulm Hbf - Friedrichshafen Stadt",
+        "RB 51b Ulm Hbf - Sigmaringen",
+        "RB R21 Ulm Hbf - Laupheim",
+        "RB RS2 Ulm Hbf - Biberach(Riß)"
+      ],
+      "closingText": "<p>Der angepasste Fahrplan ist in der Reiseauskunft auf www.bahn.de und in der DB Navigator App ab dem 01.08.22 abrufbar.&nbsp;</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "27.07.2022 16:12",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
