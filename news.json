@@ -181,6 +181,37 @@
       "priorityValue": 202
     },
     {
+      "id": "5a97998d-8ed2-4fc3-aeb9-c0958cdf1d58",
+      "headline": "Sperrung des Bahnhofs Göttingen",
+      "newsType": "Entschärfung einer Fliegerbombe",
+      "timePeriod": "am Samstag, den 30. Juli und Sonntag, den 31. Juli ",
+      "introText": "<p>Am Samstag, den 30. Juli und Sonntag, den 31. Juli wird es aufgrund einer Fliegerbobemnentsch&auml;rfung im Stadtbereich von G&ouml;ttingen zu Auswirkungen auf den Bahnverkehr kommen.</p>\n\n<p>An beiden Tagen entfallen alle Z&uuml;ge der RE 1 (G&ouml;ttingen &ndash; Erfurt/Glauchau) zwischen G&ouml;ttingen und Heilbad Heiligenstadt und werden durch Busse ersetzt. Da der ZOB am Bahnhof G&ouml;ttingen auch zum Sperrbereich geh&ouml;rt, fahren die Busse des Schienenersatzverkehr in G&ouml;ttingen vom/zum Albaniplatz.</p>\n",
+      "connections": [],
+      "download": {
+        "text": "<p>Nachfolgend finden Sie eine Karte zur &Uuml;bersicht der betroffenen Verkehre.</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:ba5b702d-45f6-4c26-9338-2e6479ddb591/Fliegerbombe%20G%C3%B6ttingen_Karte%20mit%20allen%20EVU.PNG",
+            "title": "Fliegerbombe Göttingen Karte mit allen EVU (PNG, 194 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung unter&nbsp;<a href=\"https://www.bahn.de/\">www.bahn.de</a> oder in der DB Navigator-App.</p>\n",
+      "priority": "1",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "th"
+      ],
+      "lastModified": "27.07.2022 22:43",
+      "author": "suedost",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
       "id": "312bc0d2-7260-4196-bca0-928db5efccbd",
       "headline": "Werdenfelsbahn: Strecke zwischen Murnau - Garmisch-Partenkirchen - Mittenwald weiterhin gesperrt",
       "newsType": "Beeinträchtigungen ",
@@ -423,37 +454,6 @@
         "sn"
       ],
       "lastModified": "26.07.2022 19:16",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "5a97998d-8ed2-4fc3-aeb9-c0958cdf1d58",
-      "headline": "Sperrung des Bahnhofs Göttingen",
-      "newsType": "Entschärfung einer Fliegerbombe",
-      "timePeriod": "am Samstag, den 30. Juli und Sonntag, den 31. Juli ",
-      "introText": "<p>Am Samstag, den 30. Juli und Sonntag, den 31. Juli wird es aufgrund einer Fliegerbobemnentsch&auml;rfung im Stadtbereich von G&ouml;ttingen zu Auswirkungen auf den Bahnverkehr kommen.</p>\n\n<p>An beiden Tagen entfallen alle Z&uuml;ge der RE 1 (G&ouml;ttingen &ndash; Erfurt/Glauchau) zwischen G&ouml;ttingen und Heilbad Heiligenstadt und werden durch Busse ersetzt. Da der ZOB am Bahnhof G&ouml;ttingen auch zum Sperrbereich geh&ouml;rt, fahren die Busse des Schienenersatzverkehr in G&ouml;ttingen vom/zum Albaniplatz.</p>\n",
-      "connections": [],
-      "download": {
-        "text": "<p>Nachfolgend finden Sie eine Karte zur &Uuml;bersicht der betroffenen Verkehre.</p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:ba5b702d-45f6-4c26-9338-2e6479ddb591/Fliegerbombe%20G%C3%B6ttingen_Karte%20mit%20allen%20EVU.PNG",
-            "title": "Fliegerbombe Göttingen Karte mit allen EVU (PNG, 194 KB)",
-            "info": "",
-            "openInNewTab": true
-          }
-        ]
-      },
-      "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung unter&nbsp;<a href=\"https://www.bahn.de/\">www.bahn.de</a> oder in der DB Navigator-App.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "th"
-      ],
-      "lastModified": "25.07.2022 19:52",
-      "author": "suedost",
       "expand": false,
       "priorityValue": 101
     },
