@@ -189,8 +189,19 @@
       "headline": "Zugausfälle auf der Linie RE3 zwischen Oehna- Jüterbog- Oehna",
       "newsType": "Reparatur an der Strecke",
       "timePeriod": "bis vsl. 01. August Tagesende",
-      "introText": "<p>Wegen einer Reparatur an der Strecke fallen alle Z&uuml;ge zwischen Oehna und J&uuml;terbog in beiden Richtungen aus. Ein Busnotverkehr ist eingerichtet.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;oder im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.&nbsp;</p>\n",
+      "introText": "<p>Wegen einer Reparatur an der Strecke fallen alle Z&uuml;ge zwischen Oehna und J&uuml;terbog in beiden Richtungen aus.</p>\n\n<p>Ein Busnotverkehr ist eingerichtet.</p>\n",
       "connections": [],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:7a3c3592-4bb3-45e6-9508-115b33f88a35/BNV%20Oehna%20-%20J%C3%BCterbog%2030.-01.08.2022.pdf",
+            "title": "BNV Oehna - Jüterbog 30.-01.08.2022.pdf (PDF, 92 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;oder im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -199,7 +210,7 @@
         "be",
         "br"
       ],
-      "lastModified": "29.07.2022 13:43",
+      "lastModified": "29.07.2022 19:29",
       "expand": false,
       "priorityValue": 102
     },
