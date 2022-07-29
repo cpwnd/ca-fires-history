@@ -251,6 +251,27 @@
       "priorityValue": 102
     },
     {
+      "id": "b9a53749-c359-48e7-b381-cd01985a71ed",
+      "headline": "Zugausfälle auf der Linie RB23 (Potsdam Hbf - Michendorf)",
+      "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "am 31. Juli 2022 ab 14 Uhr bis Betriebsschluss",
+      "introText": "<p>Wegen des erh&ouml;hten Krankenstandes beim Fahrpersonal m&uuml;ssen&nbsp;am 31. Juli ab 14 Uhr die Z&uuml;ge der Linie RB23&nbsp; zwischen Potsdam und Michendorf ausfallen.</p>\n",
+      "connections": [],
+      "closingText": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "29.07.2022 11:24",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "d95a4c80-330f-4bf1-a244-fcf63e711a6f",
       "headline": "Zugausfälle auf der Linie RB24 Eberswalde - Bernau(b Berlin)",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
@@ -433,8 +454,18 @@
       "introText": "<p>Aufgrund kurzfristiger Personalausf&auml;lle kommt es auf der aufgef&uuml;hrten Verbindung zu Zugausf&auml;llen.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffen ist folgende Verbindung:",
       "connections": [
-        "RB 76 (Kiel Hbf - Kiel Oppendorf): Die Züge entfallen zwischen Kiel Hbf und Kiel Oppendorf. Reisende nutzen bitte die Linienbusse (200 und 210) der VKP."
+        "RB 76 (Kiel Hbf - Kiel Oppendorf): Die Züge entfallen zwischen Kiel Hbf und Kiel Oppendorf. Ein Schienenersatzverkehr mit Bussen ist eingerichtet. "
       ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:66c7cc74-8db0-4623-8fd8-6edbbc53a467/133-%2030.07.%20-%2014.08.22%2099020%20AK-AOPD.pdf",
+            "title": "RB 76 Ersatzfahrplan 30.07.22-14.08.22 (PDF, 75 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
       "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a> oder beim regionalen Kundendialog unter 030 2970.</p>\n\n<p>Folgen Sie auch der DB Regio auf <a href=\"https://twitter.com/DBRegio_SH\">Twitter.</a></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
       "distance": [
@@ -443,7 +474,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "28.07.2022 12:33",
+      "lastModified": "29.07.2022 11:24",
       "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 101
@@ -508,6 +539,26 @@
         "mv"
       ],
       "lastModified": "28.07.2022 17:12",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "9bfb9a09-71cc-4b9f-8182-4aa95de89085",
+      "headline": "Zugausfälle auf der Linie RE5.2",
+      "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "vom 1. bis vsl. 14. August 2022",
+      "introText": "<p>Leider m&uuml;ssen aufgrund des erh&ouml;hten Krankenstandes beim Fahrpersonal <strong>vom 1. bis vsl. 14. August</strong>&nbsp;die nur zwischen Stralsund und Neustrelitz fahrenden Z&uuml;ge der Linie RE5 ausfallen.</p>\n\n<p>Bitte benutzen Sie als Ersatz die in/aus Richtung Berlin fahrenden Z&uuml;ge des RE5.</p>\n",
+      "connections": [],
+      "closingText": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "mv"
+      ],
+      "lastModified": "29.07.2022 11:22",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
