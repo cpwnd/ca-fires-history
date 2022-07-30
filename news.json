@@ -160,6 +160,32 @@
       "priorityValue": 201
     },
     {
+      "id": "b5dc3281-bf0a-4108-b194-23724b897b8e",
+      "headline": "Beeinträchtigungen im Raum Mainz",
+      "newsType": "Defektes Stellwerk",
+      "timePeriod": "Am heutigen Samstag, 30.07.2022 vsl. bis in die Nachmittagsstunden",
+      "introText": "<p>Aufgrund eines defekten Stellwerkes bei Mainz kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.&nbsp;</p>\n",
+      "connections": [
+        "ICE-Züge Leipzig - Frankfurt(M) - Mainz - Wiesbaden fallen zwischen Frankfurt(M)Hbf und Wiesbaden Hbf aus.",
+        "EC/IC/ICE-Züge zwischen Koblenz - Mainz - Frankfurt(M) halten nicht in Mainz Hbf und Frankfurt Flughafen und verspäten sich zusätzlich um etwa 20 Minuten.",
+        "EC/IC/ICE-Züge zwischen Koblenz - Mainz - Mannheim halten nicht in Mainz Hbf und Worms Hbf und verspäten sich zusätzlich um etwa 20 Minuten."
+      ],
+      "closingText": "<p>Unser Personal vor Ort arbeitet unter Hochdruck an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n",
+      "priority": "0",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "he",
+        "rp"
+      ],
+      "lastModified": "30.07.2022 14:16",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 103
+    },
+    {
       "id": "8b841609-1204-4b02-bc75-f9285b66552e",
       "headline": "Zugausfälle auf der Linie RE3 zwischen Oehna- Jüterbog- Oehna",
       "newsType": "Reparatur an der Strecke",
