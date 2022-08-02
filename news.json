@@ -1,6 +1,44 @@
 {
   "news": [
     {
+      "id": "6adf1ed4-8024-4d60-ad6c-57daeed5ee2c",
+      "headline": "Beeinträchtigungen im Raum Hamburg",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "Heute, am 02.08.2022 bis in die Abendstunden",
+      "introText": "<p>Aufgrund einer Oberleitungsst&ouml;rung in Hamburg-Langenfelde kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 60 Minuten. Es kommt vereinzelt zu Zug- und Haltausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "ICE-/IC-/EC-Züge zwischen Neumünster und Hamburg.",
+        "IC-Züge zwischen Itzehoe und Hamburg."
+      ],
+      "closingText": "<p>Unser Personal vor Ort arbeitet unter Hochdruck an der St&ouml;rungsbeseitigung. Die Behebung der St&ouml;rung soll vsl. bis in die Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf $URL{reise}, im $URL{app} oder bei der telefonischen Reiseauskunft 030/2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
+      ],
+      "lastModified": "02.08.2022 17:32",
+      "expand": false,
+      "priorityValue": 316
+    },
+    {
       "id": "dfd6aaf3-9c4f-4e97-bd92-12489a922c4c",
       "headline": "Beeinträchtigungen zwischen Augsburg und München",
       "newsType": "Defektes Stellwerk",
