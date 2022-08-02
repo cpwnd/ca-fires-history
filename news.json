@@ -39,6 +39,43 @@
       "priorityValue": 316
     },
     {
+      "id": "1514583e-275f-4547-b8f9-278adfbd7649",
+      "headline": "Beeinträchtigungen zwischen Gelsenkirchen und Essen",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "Heute, 02.08.2022, bis in die Abendstunden",
+      "introText": "<p>Aufgrund einer Oberleitungsst&ouml;rung zwischen&nbsp;Gelsenkirchen und Essen kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 10 Minuten. Der Halt Essen Hbf entf&auml;llt. Ersatzhalt ist Gelsenkirchen Hbf.</p>\n",
+      "connectionsHeadline": "Betroffene Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle Züge zwischen Gelsenkirchen und Essen."
+      ],
+      "closingText": "<p>Unser Personal vor Ort arbeitet unter Hochdruck an der St&ouml;rungsbeseitigung. Die Behebung der St&ouml;rung soll vsl. bis in die Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf $URL{reise}, im $URL{app} oder bei der telefonischen Reiseauskunft 030/2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
+      ],
+      "lastModified": "02.08.2022 19:16",
+      "expand": false,
+      "priorityValue": 316
+    },
+    {
       "id": "dfd6aaf3-9c4f-4e97-bd92-12489a922c4c",
       "headline": "Beeinträchtigungen zwischen Augsburg und München",
       "newsType": "Defektes Stellwerk",
@@ -148,7 +185,7 @@
       "id": "9b402a58-94ca-4420-91bd-86c598084efe",
       "headline": "Streckensperrung zwischen Pinneberg und Hamburg",
       "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "bis voraussichtlich 2. August, 20:00 Uhr",
+      "timePeriod": "bis voraussichtlich 2. August, 23:59 Uhr",
       "introText": "<p>Wegen einer Reparatur an der Oberleitung kommt es zwischen Pinneberg und Hamburg zu Teilausf&auml;llen.</p>\n",
       "connectionsHeadline": "Folgende Linien sind betroffen:",
       "connections": [
@@ -164,7 +201,7 @@
         "hh",
         "sh"
       ],
-      "lastModified": "02.08.2022 18:39",
+      "lastModified": "02.08.2022 19:18",
       "expand": false,
       "priorityValue": 102
     },
