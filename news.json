@@ -1,44 +1,6 @@
 {
   "news": [
     {
-      "id": "6adf1ed4-8024-4d60-ad6c-57daeed5ee2c",
-      "headline": "Beeinträchtigungen im Raum Hamburg",
-      "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Dienstag, 02.08.2022 bis Mittwoch, 03.08.2022 (Morgenstunden)",
-      "introText": "<p>Aufgrund einer Oberleitungsst&ouml;rung in Hamburg-Langenfelde kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 60 Minuten. Es kommt vereinzelt zu Zug- und Haltausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "ICE-/IC-/EC-Züge zwischen Neumünster und Hamburg.",
-        "IC-Züge zwischen Itzehoe und Hamburg."
-      ],
-      "closingText": "<p>Unser Personal vor Ort arbeitet unter Hochdruck an der St&ouml;rungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf $URL{reise}, im $URL{app} oder bei der telefonischen Reiseauskunft 030/2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "bw",
-        "by",
-        "be",
-        "br",
-        "hb",
-        "hh",
-        "he",
-        "mv",
-        "ni",
-        "nw",
-        "rp",
-        "sl",
-        "sn",
-        "st",
-        "sh",
-        "th"
-      ],
-      "lastModified": "02.08.2022 19:54",
-      "expand": false,
-      "priorityValue": 316
-    },
-    {
       "id": "50954561-339d-46a2-b8b1-cb9cff217863",
       "headline": "Beeinträchtigungen zwischen Erfurt Hbf und Bad Langensalza",
       "newsType": "Verspätungen und Umleitungen zwischen Erfurt Hbf und Erfurt-Gispersleben",
@@ -126,7 +88,7 @@
       "id": "9b402a58-94ca-4420-91bd-86c598084efe",
       "headline": "Streckensperrung zwischen Pinneberg und Hamburg",
       "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "bis voraussichtlich 3. August, 06:00 Uhr",
+      "timePeriod": "bis voraussichtlich 3. August, 07:00 Uhr",
       "introText": "<p>Wegen einer Reparatur an der Oberleitung kommt es zwischen Pinneberg und Hamburg zu Teilausf&auml;llen.</p>\n",
       "connectionsHeadline": "Folgende Linien sind betroffen:",
       "connections": [
@@ -142,7 +104,7 @@
         "hh",
         "sh"
       ],
-      "lastModified": "03.08.2022 03:55",
+      "lastModified": "03.08.2022 05:41",
       "expand": false,
       "priorityValue": 102
     },
@@ -809,7 +771,7 @@
       "headline": "Zugausfälle auf der Strecke zwischen Ulm und Aalen",
       "newsType": "Reparatur auf der Strecke",
       "timePeriod": "bis auf weiteres",
-      "introText": "<p>Durch eine Reparatur auf der Strecke zwischen Thalfingen(b Ulm) und Unterelchingen kommt es zu Versp&auml;tungen und Teilausf&auml;llen.&nbsp;</p>\n\n<p>Am Mittwoch, den 03. August 2022 entfallen zur Entlastung der Strecke alle Z&uuml;ge der Linie IRE 50.</p>\n",
+      "introText": "<p>Durch eine Reparatur auf der Strecke zwischen Thalfingen(b Ulm) und Unterelchingen kommt es zu Versp&auml;tungen und Teilausf&auml;llen.&nbsp;</p>\n\n<p>Am Mittwoch, den 03. August 2022 und Donnerstag, den 04. August 2022 entfallen zur Entlastung der Strecke alle Z&uuml;ge der Linie IRE 50.</p>\n",
       "connectionsHeadline": "Betroffene Strecke:",
       "connections": [
         "IRE 50: Ulm - Aalen"
@@ -822,7 +784,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "03.08.2022 01:03",
+      "lastModified": "03.08.2022 05:01",
       "expand": false,
       "priorityValue": 101
     },
@@ -995,7 +957,7 @@
         "ICE-Züge Nürnberg - Ingolstadt - München",
         "IC/ICE-Züge Nürnberg - Regensburg - Passau/Wien"
       ],
-      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung.&nbsp;Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<ul>\n</ul>\n",
+      "closingText": "<p>Unser Personal vor Ort arbeitet an der St&ouml;rungsbeseitigung.&nbsp;Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n\n<ul>\n</ul>\n",
       "priority": "0",
       "distance": [
         "longDistance"
@@ -1003,7 +965,7 @@
       "areas": [
         "by"
       ],
-      "lastModified": "03.08.2022 01:15",
+      "lastModified": "03.08.2022 04:35",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 101
