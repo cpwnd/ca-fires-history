@@ -1,53 +1,6 @@
 {
   "news": [
     {
-      "id": "f6ba70c0-954d-4401-b5ed-12bb03d43302",
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Mannheim",
-      "newsType": "Bauarbeiten",
-      "timePeriod": "Bis Donnerstag, 11.08.2022 vsl. in den Morgenstunden",
-      "introText": "<p>Aufgrund von Bauarbeiten bei Biblis zwischen Frankfurt(M) und Mannheim kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten.</p>\n\n<p>Der Halt in Mannheim Hbf kann entfallen. Ersatzweise halten die Z&uuml;ge dann in Heidelberg Hbf.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE/TGV- und IC-Züge von Frankfurt(M) in Fahrtrichtung Mannheim. Die Gegenrichtung von Mannheim in Richtung Frankfurt(M) ist derzeit nicht betroffen."
-      ],
-      "closingText": "<p>Unser Personal vor Ort arbeitet unter Hochdruck an der St&ouml;rungsbeseitigung.&nbsp;Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "bw",
-        "he"
-      ],
-      "lastModified": "10.08.2022 19:29",
-      "expand": false,
-      "priorityValue": 302
-    },
-    {
-      "id": "359d091a-7364-4f79-8ca7-acf3869be621",
-      "headline": "Beinträchtigungen zwischen Hannover und Hamm(Westf)",
-      "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Am heutigen Mittwoch, 10.08.2022 vsl. bis in die späten Abendstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Bielefeld und Hamm(Westf) kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.&nbsp;</p>\n\n<p>Die Fernverkehrsz&uuml;ge werden umgeleitet und versp&auml;ten sich um etwa 60 Minuten. Die Halte in Herford, Bielefeld Hbf und G&uuml;tersloh Hbf entfallen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen Verbindungen im Fernverkehr:",
-      "connections": [
-        "IC/ICE-Züge zwischen Hannover - Bielefeld - Hamm(Westf) - Köln",
-        "ICE-Sprinter-Züge ohne Halt zwischen Berlin und Köln"
-      ],
-      "closingText": "<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "ni",
-        "nw"
-      ],
-      "lastModified": "10.08.2022 20:27",
-      "expand": false,
-      "priorityValue": 302
-    },
-    {
       "id": "312bc0d2-7260-4196-bca0-928db5efccbd",
       "headline": "Werdenfelsbahn: Strecke zwischen Murnau - Garmisch-Partenkirchen - Mittenwald weiterhin gesperrt",
       "newsType": "Beeinträchtigungen ",
@@ -211,26 +164,29 @@
       "priorityValue": 102
     },
     {
-      "id": "fa4a2714-94a8-42c4-b476-8d71e454540a",
-      "headline": "Beeinträchtigungen zwischen Biblis und Lampertheim",
-      "newsType": "Reparatur an der Strecke",
-      "timePeriod": "Mittwoch den, 10.08.2022 bis Betriebsschluss",
-      "introText": "<p>Eine Reparatur an der Strecke behindert den Zugverkehr zwischen Biblis und Lampertheim.&nbsp;<br />\nEs kann zu Versp&auml;tungen und weiteren Ausf&auml;llen auf dem gesamten Laufweg der Linie kommen.</p>\n",
-      "connectionsHeadline": "S9 Karlsruhe – Graben-Neudorf – Hockenheim – Mannheim – Biblis – Groß-Rohrheim",
-      "connections": [],
+      "id": "372db108-9607-4dd3-a0e5-1eb4d93889b6",
+      "headline": "Kein Zugverkehr zwischen Winden(Pfalz) und Wörth(Rhein) / Wiederaufnahme Zugverkehr am Mittwoch, 10.08.2022",
+      "newsType": "Unfall an einem Bahnübergang",
+      "timePeriod": "bis voraussichtlich 09.08.2022",
+      "introText": "<p>Nach einem Unfall an einem Bahn&uuml;bergang bleibt die Strecke zwischen Winden(Pfalz) und W&ouml;rth(Rhein) wegen Reparaturarbeiten&nbsp;bis voraussichtlich 9. August 2022&nbsp; gesperrt.</p>\n",
+      "connectionsHeadline": "Betroffene Linien: ",
+      "connections": [
+        "RE6 Kaiserslautern / Neustadt - Landau – Wörth - Karlsruhe",
+        "RB51 Neustadt – Landau – Winden – Wörth – Karlsruhe"
+      ],
       "download": {
-        "text": "<p>Die Z&uuml;ge der Linie<strong>&nbsp;S9 aus Mannheim endet und beginnt vorzeitig in Lampertheim.</strong></p>\n\n<p>Die Z&uuml;ge der <strong>Linie RE70</strong> zwischen<strong> </strong>Gro&szlig; Rohrheim und Lampertheim<strong> halten zus&auml;tzlich in Bobstadt.</strong></p>\n"
+        "text": "<p>Die &nbsp;Z&uuml;ge der Linie <strong>RB51</strong> verkehren nur zwischen <strong><em>Neustadt(Wstr)Hbf und Winden(Pfalz)</em></strong> und entfallen zwischen Winden(Pfalz) und Karlsruhe.</p>\n\n<p>Die Z&uuml;ge der Linie <strong>RE6</strong>&nbsp;verkehren zwischen <strong><em>Neustadt(Wstr) und Landau(Pfalz)</em></strong> sowie&nbsp;zwischen<strong><em> Karlsruhe Hbf und W&ouml;rth(Rhein)</em></strong> mit <strong><em>zus&auml;tzlichem Halt&nbsp;<em><strong>in</strong></em> Karlsruhe-M&uuml;hlburg.</em></strong></p>\n\n<p>Zwischen <em><strong>Winden(Pfalz) und W&ouml;rth(Rhein)</strong></em><strong><em>&nbsp;</em></strong>pendelt ein<em> Ersatzverkehr mit Bussen</em>, der alle Unterwegshalte anf&auml;hrt.&nbsp;Bitte beachten Sie, dass die Busse&nbsp;<em><strong>ohne festen Fahrplan</strong></em> verkehren und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Reisende zwischen Karlsruhe und W&ouml;rth(Rhein) k&ouml;nnen alternativ auch auf die Stadtbahnz&uuml;ge (AVG) der Linien S5, S51 oder S52 ausweichen.</p>\n\n<p><em><strong>Ab Mittwoch, 10. August 2022 verkehren die Z&uuml;ge wieder nach dem regul&auml;ren Fahrplan.</strong></em></p>\n"
       },
-      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der St&ouml;rung auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der Streckensperrung auf jeden Fall mehr Reisezeit ein und informieren Sie sich kurz vor Fahrtantritt im DB Navigator oder unter<strong>&nbsp;<a href=\"http://www.bahn.de/\">www.bahn.de</a></strong>. In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es&nbsp;kostenlos in der <strong><a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-App</a></strong>&nbsp;oder auf&nbsp;<strong><a href=\"https://twitter.com/Regio_Mitte\">Twitter</a></strong>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
       ],
       "areas": [
         "bw",
-        "he"
+        "rp"
       ],
-      "lastModified": "10.08.2022 11:03",
+      "lastModified": "09.08.2022 19:15",
       "author": "mitte",
       "expand": false,
       "priorityValue": 102
@@ -451,8 +407,8 @@
       "id": "45a2f161-4969-4ab7-a06b-6a9033606033",
       "headline": "Zugausfälle und Ersatzverkehr auf der Linie RE4 Pasewalk - Ueckermünde Stadthafen",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "bis vsl. 28.August ",
-      "introText": "<p>Leider m&uuml;ssen aufgrund des erh&ouml;hten Krankenstandes beim Fahrpersonal <strong>vom 23. Juli bis vsl. 14. August</strong> weiterhin Z&uuml;ge der Linie RE4 im Abschnitt <strong>Pasewalk</strong> - <strong>Torgelow</strong> - <strong>Ueckerm&uuml;nde Stadthafen</strong>&nbsp;ausfallen.</p>\n\n<p>Die ausfallenden Z&uuml;ge werden durch Busse ersetzt.&nbsp;Den Ersatzfahrplan f&uuml;r die Busse (gelb unterlegt) und inkl. der noch fahrenden Z&uuml;ge (wei&szlig; unterlegt) finden Sie unter dem beigef&uuml;gten Link.</p>\n\n<p>Bitte beachten Sie: vom <strong>15.August bis 28.August 2022&nbsp;</strong>gilt ein ge&auml;nderter Ersatzfahrplan, den Sie auch unter dem beigef&uuml;gten Link finden.&nbsp;</p>\n",
+      "timePeriod": "23. Juli bis vsl. 28.August ",
+      "introText": "<p>Leider m&uuml;ssen aufgrund des erh&ouml;hten Krankenstandes beim Fahrpersonal <strong>vom 23. Juli bis vsl. 14. August</strong> weiterhin Z&uuml;ge der Linie RE4 im Abschnitt <strong>Pasewalk</strong> - <strong>Torgelow</strong> - <strong>Ueckerm&uuml;nde Stadthafen</strong>&nbsp;ausfallen.</p>\n\n<p>Die ausfallenden Z&uuml;ge werden durch Busse ersetzt.&nbsp;Den Ersatzfahrplan f&uuml;r die Busse (gelb unterlegt) und inkl. der noch fahrenden Z&uuml;ge (wei&szlig; unterlegt) finden Sie unter dem beigef&uuml;gten Link.</p>\n\n<p>Bitte beachten Sie: vom <strong>15.August bis 28.August 2022&nbsp;</strong>gilt ein ge&auml;nderter Ersatzfahrplan, den Sie auch unter dem beigef&uuml;gten Link finden.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
       "connections": [],
       "download": {
         "linkDataList": [
@@ -478,7 +434,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "10.08.2022 15:36",
+      "lastModified": "09.08.2022 16:07",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
@@ -551,8 +507,8 @@
       "id": "c2249077-3f34-4fa3-8fbf-70ea25f984f3",
       "headline": "Zugausfälle im Bahnverkehr der Kurhessenbahn",
       "newsType": "Kurzfristiger Personalausfall",
-      "timePeriod": "Bis Freitag, den 02.09.2022",
-      "introText": "<p>Es kommt im Bahnverkehr der Kurhessenbahn auf den Linien RB94 (bis 20.08.2022) und RB97 / RE97 (bis vsl. 02.09.2022) zu zahlreichen Zugausf&auml;llen.</p>\n",
+      "timePeriod": "Bis Sonntag, den 21.08.2022",
+      "introText": "<p>Es kommt im Bahnverkehr der Kurhessenbahn auf den Linien RB94 (bis 20.08.2022) und RB97 / RE97 (bis vsl. 21.08.2022) zu zahlreichen Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "RB94: Marburg(Lahn) - Bad Laasphe (- Erndtebrück)",
@@ -561,6 +517,12 @@
       "download": {
         "text": "<p><strong><u>Die aktuellen Fahrplantabellen:</u></strong></p>\n",
         "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:d1496d24-9193-403a-9e9e-63b76e6fd6da/2022-07-25(Mo)_bis_2022-08-09(Di)_Ausf_RB94.pdf",
+            "title": "RB94 Ausfälle bis 09.08.2022 (Mo-Fr) (PDF, 260 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:a986a760-3442-4fa4-b444-5de4d702400b/2022-08-10(Mi)_bis_2022-08-19(Fr)_Ausf_RB94.pdf",
             "title": "RB94 Ausfälle vom 10.08. bis 19.08.2022 (Mo-Fr) (PDF, 260 KB)",
@@ -599,7 +561,7 @@
           }
         ]
       },
-      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB94:</strong></u></p>\n\n<p>Es kommt <strong>bis zum 20.08.2022</strong> zu zahlreichen Zugausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB94.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB97 / RE97:</strong></u></p>\n\n<p>Es kommt<strong> bis vsl. 02.09.2022</strong> zu zahlreichen Zug- und Teilausf&auml;llen.</p>\n\n<p><em><u><strong>Folgende Fahrten werden durch Busse ersetzt (Montag - Freitag):</strong></u></em></p>\n\n<p><strong>23205</strong>, planm&auml;&szlig;ige Abfahrt 6:33 Uhr in Korbach Hbf.</p>\n\n<p><strong>23210</strong>, planm&auml;&szlig;ige Abfahrt 8:29 Uhr in Marburg(Lahn).</p>\n\n<p><strong>23217</strong>, planm&auml;&szlig;ige Abfahrt 11:39 Uhr in Frankenberg(Eder).</p>\n\n<p><strong>23218</strong>, planm&auml;&szlig;ige Abfahrt 12:29 Uhr in Marburg(Lahn).</p>\n\n<p><strong>23266</strong>, planm&auml;&szlig;ige Abfahrt 14:54 Uhr in Willingen.</p>\n\n<p><strong>23229</strong>, planm&auml;&szlig;ige Abfahrt 16:04 Uhr in Brilon Stadt.</p>\n\n<p><strong>23230</strong>, planm&auml;&szlig;ige Abfahrt 18:29 Uhr in Marburg(Lahn).</p>\n\n<p><strong>23237</strong>, planm&auml;&szlig;ige Abfahrt 20:39 Uhr in Willingen.</p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>Abfahrt SEV f&uuml;r folgende Z&uuml;ge zwischen Korbach Hbf und Brilon Stadt:</strong></u></p>\n\n<p>Bitte beachten Sie die aufgrund einer Stra&szlig;ensperrung zwischen Willingen und Usseln<br />\nerforderlichen l&auml;ngeren Fahrzeiten. Die Umleitung erfolgt &uuml;ber Rattlar.<br />\n&nbsp;</p>\n\n<p><strong>23204</strong></p>\n\n<p>Korbach Hbf / ZOB ab 06.20 Uhr<br />\nUsseln, Hst. Katholische Kirche an / ab 06.39 Uhr (Umleitung &uuml;ber Rattlar)<br />\nWillingen Bahnhof an 07.02 Uhr / ab 07.04 Uhr<br />\nBrilon Wald Bahnhof an 07.14 Uhr<br />\n--&gt; Abfahrt: &nbsp;Anschlusszug RE 17 um 07.19 Uhr nach Hagen Hbf<br />\n--&gt; Abfahrt: &nbsp;Anschlusszug RE 57 um 07.26 Uhr nach Brilon Stadt<br />\n--&gt; Abfahrt: &nbsp;Anschlusszug RE 17 um 07.32 Uhr nach Warburg (Westf)</p>\n\n<p>&nbsp;</p>\n\n<p><strong>23205</strong></p>\n\n<p>Willingen Bahnhof ab 05.32 Uhr (Umleitung &uuml;ber Rattlar)<br />\nUsseln, Hst. Katholische Kirche an / ab 05.55 Uhr<br />\nKorbach Hbf / ZOB an 06.15 Uhr<br />\n--&gt;&nbsp;Abfahrt : Anschlussbus SEV RB97 um 06.33 Uhr nach Marburg (Lahn)</p>\n\n<p>&nbsp;</p>\n\n<p><strong>23211</strong></p>\n\n<p>--&gt; Ankunft: Anschlusszug RE 17 um 07.17 Uhr von Warburg (Westf)<br />\n--&gt;&nbsp;Ankunft: Anschlusszug RE 17 um 07.22 Uhr von Hagen Hbf<br />\nBrilon Wald Bahnhof ab 07.30 Uhr<br />\nWillingen Bahnhof an 07.39 Uhr / ab 07.40 Uhr (Umleitung &uuml;ber Rattlar)<br />\nUsseln, Hst. Katholische Kirche an / ab 08.03 Uhr<br />\nKorbach Hbf / ZOB an 08.23 Uhr</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB97 / RE97.&nbsp;</strong></p>\n\n<p><strong>F&uuml;r Fahrten zwischen Brilon Stadt und Brilon Wald nutzen Sie bitte auch die Z&uuml;ge der Linie RE57.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"http://www.bahn.de\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 24445710</p>\n",
+      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB94:</strong></u></p>\n\n<p>Es kommt <strong>bis zum 20.08.2022</strong> zu zahlreichen Zugausf&auml;llen.</p>\n\n<p>Wir k&ouml;nnen Ihnen keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB94.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>RB97 / RE97:</strong></u></p>\n\n<p>Es kommt<strong> bis vsl. 21.08.2022</strong> zu zahlreichen Zug- und Teilausf&auml;llen.</p>\n\n<p><em><u><strong>Folgende Fahrten werden durch Busse ersetzt (Montag - Freitag):</strong></u></em></p>\n\n<p><strong>23205</strong>, planm&auml;&szlig;ige Abfahrt 6:33 Uhr in Korbach Hbf.</p>\n\n<p><strong>23210</strong>, planm&auml;&szlig;ige Abfahrt 8:29 Uhr in Marburg(Lahn).</p>\n\n<p><strong>23217</strong>, planm&auml;&szlig;ige Abfahrt 11:39 Uhr in Frankenberg(Eder).</p>\n\n<p><strong>23218</strong>, planm&auml;&szlig;ige Abfahrt 12:29 Uhr in Marburg(Lahn).</p>\n\n<p><strong>23266</strong>, planm&auml;&szlig;ige Abfahrt 14:54 Uhr in Willingen.</p>\n\n<p><strong>23229</strong>, planm&auml;&szlig;ige Abfahrt 16:04 Uhr in Brilon Stadt.</p>\n\n<p><strong>23230</strong>, planm&auml;&szlig;ige Abfahrt 18:29 Uhr in Marburg(Lahn).</p>\n\n<p><strong>23237</strong>, planm&auml;&szlig;ige Abfahrt 20:39 Uhr in Willingen.</p>\n\n<p>&nbsp;</p>\n\n<p>Am <strong>Sonntag, den 07.08.2022</strong> k&ouml;nnen wir leider keinen Ersatzverkehr anbieten, da keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte beachten Sie die angeh&auml;ngten Plakate hierzu.</p>\n\n<p><strong>Nutzen Sie die verbleibenden, weitestgehend im Zweistundentakt verkehrenden, Z&uuml;ge der Linie RB97 / RE97.&nbsp;</strong></p>\n\n<p><strong>F&uuml;r Fahrten zwischen Brilon Stadt und Brilon Wald nutzen Sie bitte auch die Z&uuml;ge der Linie RE57.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"http://www.bahn.de\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 24445710</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -607,7 +569,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "10.08.2022 14:25",
+      "lastModified": "07.08.2022 10:00",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
@@ -708,27 +670,16 @@
       "priorityValue": 101
     },
     {
-      "id": "fab41b5b-4af9-4118-a000-7ab7b418f495",
-      "headline": "Eingeschränkte Fahrradmitnahme in den Zügen von der DB Regio AG Baden-Württemberg",
+      "id": "6d9c3e50-cd07-4dd5-a295-dc18146ca996",
+      "headline": "Eingeschränkte Fahrradmitnahme in den Zügen der Linie RE 5 und RE 55",
       "newsType": "Hohe Auslastung",
-      "timePeriod": "Jeweils von 8 - 19 Uhr, vsl. bis 31. August 2022",
+      "timePeriod": "am 9. und 10. August jeweils von 8 bis 19 Uhr",
       "introText": "<p>Aktuell au&szlig;ergew&ouml;hnlich hohe&nbsp;Auslastung durch Fahrg&auml;ste und Fahrr&auml;der. Eine Bef&ouml;rderung von Fahrr&auml;dern kann nicht garantiert werden.</p>\n",
       "connectionsHeadline": "Betroffene Strecken:",
       "connections": [
-        "RB 53: Aulendorf - Leutkirch / Wangen( Allgäu)",
-        "RB 51: Aulendorf - Sigmaringen / Aulendorf - Ulm ",
-        "RB 91: Aulendorf - Friedrichshafen",
-        "RB 31/93:  Ulm - Friedrichshafen / Radolfzell,  Friedrichshafen - Lindau",
         "RE 5: Stuttgart - Ulm - Friedrichshafen - Lindau",
-        "IRE 50: Aalen - Ulm",
-        "RE 55: Ulm - Sigmaringen - Donaueschingen",
-        "IRE 6: Stuttgart - Tübingen - Aulendorf / Horb (Neckar)",
-        "IRE 3: Ulm - Friedrichshafen - Singen - Basel",
-        "RB 74: Tübingen - Horb - Pforzheim / (Maulbronn)",
-        "RE 2: Karlsruhe - Offenburg - Konstanz",
-        "S1/S10/S11: Breisach / Endingen - Freiburg - Seebrugg / Villingen"
+        "RE 55: Ulm - Sigmaringen - Donaueschingen"
       ],
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-App</a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -736,7 +687,8 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "10.08.2022 08:54",
+      "lastModified": "09.08.2022 13:08",
+      "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
     },
