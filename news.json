@@ -852,11 +852,22 @@
       "headline": "Stundentakt zwischen Schaffhausen und Singen(Hohentwiel)",
       "newsType": "Erhöhter Krankenstand",
       "timePeriod": "ab 28.07.22 vorerst bis 28.08.22",
-      "introText": "<p>Zwischen Schaffhausen und Singen(Hohentwiel) entf&auml;llt der Halbstundentakt der Regionalbahnen(RB33). Bitte nutzen Sie ab Schaffhausen die verbleibende Regionalbahnen, mit Abfahrt in Schaffhausen zur Minute 07 und ab Singen(Hohentwiel) zur Minute 36.</p>\n\n<p>Wir haben einen Schienenersatzverkehr mit Bus zwischen Bietingen und Singen(Hohentwiel) mit Halt in Gottmadingen f&uuml;r fast alle ausfallenden Z&uuml;ge eingerichtet.&nbsp;</p>\n\n<p>Direktreisende zwischen Schaffhausen und Singen(Hohentwiel) nutzen, wenn m&ouml;glich auch die Interregio-Express Z&uuml;ge (IRE3).</p>\n\n<p>&nbsp;</p>\n",
+      "introText": "<p>Zwischen Schaffhausen und Singen(Hohentwiel) entf&auml;llt der Halbstundentakt der Regionalbahnen(RB33). Bitte nutzen Sie ab Schaffhausen die verbleibende Regionalbahnen, mit Abfahrt in Schaffhausen zur Minute 07 und ab Singen(Hohentwiel) zur Minute 36.</p>\n\n<p>Wir haben einen Schienenersatzverkehr mit Bus zwischen Bietingen und Singen(Hohentwiel) mit Halt in Gottmadingen f&uuml;r fast alle ausfallenden Z&uuml;ge eingerichtet.&nbsp;</p>\n\n<p>Direktreisende zwischen Schaffhausen und Singen(Hohentwiel) nutzen, wenn m&ouml;glich auch die Interregio-Express Z&uuml;ge (IRE3).</p>\n",
       "connectionsHeadline": "Betroffene Verbindungen:",
       "connections": [
         "RB 33: Schaffhausen - Singen(Hohentwiel)"
       ],
+      "download": {
+        "text": "<p>Den ver&auml;nderten Fahrplan finden Sie hier im Anhang.&nbsp;</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:70ce3c2d-13c9-4f09-bbec-9bc33f16676e/Kopie2%20von%20KBS730_N19_Basel%20Bad%20Bf-Singen%20(Htw)_2022%20Stand%20280722_Ex%20-%2003.pdf",
+            "title": "Fahrplan Singen-Schaffhausen bis 28.8. (PDF, 704 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-App</a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
@@ -865,7 +876,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "12.08.2022 05:46",
+      "lastModified": "12.08.2022 09:34",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
