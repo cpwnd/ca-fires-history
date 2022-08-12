@@ -248,10 +248,16 @@
       "headline": "Zugausfälle ab 15.08.2022 auf den Linien RE 55/56 zwischen Nordhause und Erfurt",
       "newsType": "fehlendem Stellwerkspersonal ",
       "timePeriod": "vom 15.08 bis 28.08.2022",
-      "introText": "<p>Der Infrastrukturbetreiber, die DB Netz AG k&auml;mpft aktuell mit extrem hohen Krankenst&auml;nden und einer hohen Fluktuation. In Verbindung mit der aktuellen Urlaubszeit f&uuml;hrt dies in Gr&ouml;&szlig;enordnung zu nicht besetzten Stellwerken.</p>\n\n<p>Besonders stark betroffen sind die Linien RE 55/56 Erfurt &ndash; Nordhausen.</p>\n\n<p><strong>Vom 15.08.22 &ndash; 28.08.22 entfallen im Abschnitt Ringleben-Gebesee und Sondershausen alle Z&uuml;ge</strong>.</p>\n\n<p>Bisher ist es uns als DB Regio nicht gelungen einen Ersatzverkehr zwischen Ringleben-Gebesee und Sonderhausen zu organisieren. Es konnte noch kein Busunternehmen gefunden werden welches ausreichend Kapazit&auml;ten zumindest f&uuml;r ein Grundangebot zur Verf&uuml;gung stellen kann.</p>\n\n<p>Wir arbeiten weiter daran einen Schienenersatzverkehr zu organisieren. Daher informieren Sie sich vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der DB Navigator-App oder in der App DB Streckanagent.</p>\n",
+      "introText": "<p>Der Infrastrukturbetreiber, die DB Netz AG k&auml;mpft aktuell mit extrem hohen Krankenst&auml;nden und einer hohen Fluktuation. In Verbindung mit der aktuellen Urlaubszeit f&uuml;hrt dies in Gr&ouml;&szlig;enordnung zu nicht besetzten Stellwerken.</p>\n\n<p>Besonders stark betroffen sind die Linien RE 55/56 Erfurt &ndash; Nordhausen.</p>\n\n<p><strong>Vom 15.08.22 &ndash; 28.08.22 entfallen im Abschnitt Ringleben-Gebesee und Sondershausen alle Z&uuml;ge</strong>.</p>\n\n<p>Den aktuellen Ersatzfahrplan finden Sie hier:</p>\n",
       "connections": [],
       "download": {
         "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:2ef38e93-e559-41b7-b127-78955294342d/BNV%20RE%2055_56%20ab%2015.08._19.08.pdf",
+            "title": "Fahrplan Busnotverkehr (PDF, 91 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:727b1e51-cc34-4cd8-8046-0091851dac95/2022_Liniennetzplakat%20Nordhausen.pdf",
             "title": "Liniennetzplakat Nordhausen (PDF, 588 KB)",
@@ -260,7 +266,7 @@
           }
         ]
       },
-      "closingText": "<p>Auch an den Wochenenden (Samstag und Sonntag) vom 03.09./04.09.2022 bis einschlie&szlig;lich dem Wochenende 01./02.10.22 werden die Z&uuml;ge zwischen Ringleben-Gebesee und Sondershausen nach aktuellem Kenntnisstand ausfallen.</p>\n",
+      "closingText": "<p>Bitte informieren Sie sich vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der DB Navigator-App oder in der App DB Streckanagent.</p>\n\n<p>Auch an den Wochenenden (Samstag und Sonntag) vom 03.09./04.09.2022 bis einschlie&szlig;lich dem Wochenende 01./02.10.22 werden die Z&uuml;ge zwischen Ringleben-Gebesee und Sondershausen nach aktuellem Kenntnisstand ausfallen.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -268,7 +274,7 @@
       "areas": [
         "th"
       ],
-      "lastModified": "12.08.2022 14:47",
+      "lastModified": "12.08.2022 16:54",
       "author": "suedost",
       "expand": false,
       "priorityValue": 101
