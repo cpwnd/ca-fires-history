@@ -536,6 +536,45 @@
       "priorityValue": 101
     },
     {
+      "id": "76a0d485-c7bb-49d7-bff0-b10f0d9c5884",
+      "headline": "Angespannte Personallage bei DB Regio NRW ",
+      "newsType": "Zugausfall der Linie RE 8 ",
+      "timePeriod": "15.08. - 18.09.2022",
+      "introText": "<p>Ab dem 15. August entf&auml;llt die Line RE 8 zwischen Koblenz Hbf und M&ouml;nchengladbach Hbf.<br />\n<br />\nAuf dem gesamten Streckenverlauf verkehren parallel verlaufende Linien, u.a. die Linie&nbsp;<strong>RB 27</strong>.<br />\nDie Z&uuml;ge der Linie RB 27 halten zus&auml;tzlich in Urmitz Rheinbr&uuml;cke.</p>\n\n<p>Auf den Streckenabschnitten Stommeln - K&ouml;ln Ehrenfeld (mit Halt in K&ouml;ln-Bocklem&uuml;nd), Linz - Bonn Beuel und Bad Honnef - Koblenz verkehren im Berufsverkehr Busse als Schienenersatzverkehr.</p>\n",
+      "connectionsHeadline": "RE 8 / RB 27",
+      "connections": [
+        "RE 8: Mönchengladbach - Köln - Köln/Bonn Flughafen - Troisdorf - Bonn-Beuel - Königswinter - Bad Honnef (Rhein) - Linz am Rhein - Neuwied - Engers - Koblenz\t",
+        "RB 27: Mönchengladbach - Köln - Troisdorf - Bonn-Beuel - Königswinter - Bad Honnef (Rhein) - Linz am Rhein - Neuwied - Koblenz\t"
+      ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:59c00785-0533-45b7-a179-8bab9c73002b/SEVRE8BadHonnef-Koblenz.pdf",
+            "title": "Schienenersatzverkehr Bad Honnef - Koblenz Hbf  (PDF, 307 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:87eedb2d-a61b-4473-b6bc-4d7fce932593/SEV_RE8_Linz-Bonn-Beuel1508-18092022.pdf",
+            "title": "Schienenersatzverkehr Linz - Bonn Beuel (PDF, 205 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "13.08.2022 20:15",
+      "author": "nrw",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "7bd917b2-dc6a-45e7-af58-f4cc20fdb5a7",
       "headline": "Unwetterschäden an der Ahr und in der Eifel ",
       "newsType": "Unwetterschäden",
