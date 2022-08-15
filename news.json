@@ -167,11 +167,28 @@
       "id": "5ef61015-5728-44fe-bd20-4eaf077d852f",
       "headline": "Zugausfälle und Ersatzverkehr bei der Westfrankenbahn ",
       "newsType": "nicht besetzte Stellwerke auf der Tauberbahn",
-      "timePeriod": "vom 13. bis 19. August",
-      "introText": "<p>Aufgrund weiterer Corona- und Personal-Notf&auml;lle k&ouml;nnen auf der Tauberbahn von 13. bis 19. August einige Stellwerke nicht besetzt werden.</p>\n\n<p>Am 13. + 14. August werden die Z&uuml;ge zwischen Bad Mergentheim und Schrozberg ab 17 Uhr durch Busse ersetzt.</p>\n\n<p>Ab Montag, dem 15. August bis Freitag, 19. August 22 entfallen ab 14.40 alle Z&uuml;ge zwischen Bad Mergentheim und Crailsheim, es wird versucht, Bus-Ersatzverkehr einzurichten.</p>\n\n<p>Ausschlie&szlig;lich am Montag findet zwischen Schrozberg und Crailsheim ganzt&auml;gig kein Zugverkehr statt, hier werden ebenfalls Busse angefragt.</p>\n\n<p>Hinweise zu den einzelnen Verbindungen sind in der elektronischen Reiseauskunft hinterlegt.</p>\n",
+      "timePeriod": "bis 19. August",
+      "introText": "<p>Aufgrund weiterer Corona- und Personal-Notf&auml;lle k&ouml;nnen auf der Tauberbahn bis 19. August einige Stellwerke nicht besetzt werden. In der Folge&nbsp;entfallen ab 14:40 Uhr alle Z&uuml;ge zwischen Bad Mergentheim und Crailsheim, Ersatzverkehr mit Bus ist eingerichtet.</p>\n\n<p>Ausschlie&szlig;lich am Montag, 15. August 2022 findet zwischen Schrozberg und Crailsheim ganzt&auml;gig kein Zugverkehr statt.&nbsp;</p>\n\n<p>Hinweise zu den einzelnen Verbindungen sind in der elektronischen Reiseauskunft hinterlegt.</p>\n",
+      "connectionsHeadline": "Betroffene Strecke:",
       "connections": [
         "Tauberbahn: Bad Mergentheim -Schrozberg -Crailsheim"
       ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:cb712c05-05a1-4a67-978a-6bc1044a83e4/SEV%20Tauberbahn%2015.08.2022.pdf",
+            "title": "SEV-Fahrplan Tauberbahn für den 15. August 2022 (PDF, 571 KB)",
+            "info": "SEV-Fahrplan Tauberbahn für den 15. August 2022",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:e3e18b13-d628-456e-a947-f809c2ea79b2/SEV%20Tauberbahn%2016.-19.08..pdf",
+            "title": "SEV-Fahrplan Tauberbahn vom 16. - 19. August 2022 (PDF, 568 KB)",
+            "info": "SEV-Fahrplan Tauberbahn vom 16. - 19. August 2022",
+            "openInNewTab": true
+          }
+        ]
+      },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
@@ -181,7 +198,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "12.08.2022 18:43",
+      "lastModified": "15.08.2022 11:11",
       "expand": false,
       "priorityValue": 102
     },
