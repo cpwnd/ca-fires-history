@@ -346,6 +346,40 @@
       "priorityValue": 101
     },
     {
+      "id": "966184c2-c091-465f-8493-cf030b048c55",
+      "headline": "Kurzfristige Zugausfälle im Regionalverkehr in Schleswig-Holstein",
+      "newsType": "kurzfristige Krankmeldung",
+      "timePeriod": "vom 30. Juli bis vsl. 14. August 2022",
+      "introText": "<p>Aufgrund kurzfristiger Personalausf&auml;lle kommt es auf der aufgef&uuml;hrten Verbindung zu Zugausf&auml;llen.&nbsp;</p>\n\n<p>Es verkehrt jeweils ein Bus der Firma Rope Reisen. Jeweilige Abfahrt am Startbahnhof 5 Minuten nach der planm&auml;&szlig;igen Abfahrzeit des Zuges.</p>\n",
+      "connectionsHeadline": "Betroffen ist folgende Verbindung:",
+      "connections": [
+        "RB 76 (Kiel Hbf - Kiel Oppendorf): Die Züge entfallen zwischen Kiel Hbf und Kiel Oppendorf. Ein Schienenersatzverkehr ist eingerichtet."
+      ],
+      "download": {
+        "text": "<p><strong>Ersatzfahrplan RB 76:</strong></p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:66c7cc74-8db0-4623-8fd8-6edbbc53a467/133-%2030.07.%20-%2014.08.22%2099020%20AK-AOPD.pdf",
+            "title": "RB 76 Ersatzfahrplan 30.07.22 - 16.08.22  (PDF, 75 KB)",
+            "info": "Ersatzfahrplan RB 76 ",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a> oder beim regionalen Kundendialog unter 030 2970.</p>\n\n<p>Folgen Sie auch der DB Regio auf <a href=\"https://twitter.com/DBRegio_SH\">Twitter.</a></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sh"
+      ],
+      "lastModified": "15.08.2022 22:37",
+      "author": "schleswig_holstein",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "63583eed-0396-4988-a106-694cad6214f6",
       "headline": "Zugausfälle RB17 Wismar - Ludwigslust",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
