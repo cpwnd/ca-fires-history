@@ -486,11 +486,12 @@
       "headline": "Angespannte Personallage bei DB Regio NRW ",
       "newsType": "Zugausfall der Linie RE 8 ",
       "timePeriod": "15.08. - 18.09.2022",
-      "introText": "<p>Ab dem 15. August entf&auml;llt die Line RE 8 zwischen Koblenz Hbf und M&ouml;nchengladbach Hbf.<br />\n<br />\nAuf dem gesamten Streckenverlauf verkehren parallel verlaufende Linien, u.a. die Linie&nbsp;<strong>RB 27</strong>.<br />\nDie Z&uuml;ge der Linie RB 27 halten zus&auml;tzlich in Urmitz Rheinbr&uuml;cke.</p>\n\n<p>Auf den Streckenabschnitten Stommeln - K&ouml;ln Ehrenfeld (mit Halt in K&ouml;ln-Bocklem&uuml;nd), Linz - Bonn Beuel und Bad Honnef - Koblenz verkehren im Berufsverkehr Busse als Schienenersatzverkehr.</p>\n",
+      "introText": "<p>Ab dem 15. August entf&auml;llt die Line RE 8 zwischen Koblenz Hbf und M&ouml;nchengladbach Hbf.<br />\n<br />\nAuf dem gesamten Streckenverlauf verkehren parallel verlaufende Linien, u.a. die Linie&nbsp;<strong>RB 27</strong>.<br />\nDie Z&uuml;ge der Linie RB 27 halten zus&auml;tzlich in Urmitz Rheinbr&uuml;cke.</p>\n\n<p>Auf den Streckenabschnitten Rommerskirchen - K&ouml;ln Ehrenfeld (mit Halt in K&ouml;ln-Bocklem&uuml;nd), Linz - Bonn Beuel und Bad Honnef - Koblenz verkehren im Berufsverkehr Busse als Schienenersatzverkehr.</p>\n\n<p><strong>Bitte beachten Sie, ab dem 22.08.202 wird der Fahrweg der Linie RB 28 von montags bis freitags bis Linz(Rhein) verl&auml;ngert. Die Linie verkehrt auf dem verl&auml;ngerten Fahrweg in den Fahrzeiten der Linie RE 8.</strong></p>\n",
       "connectionsHeadline": "RE 8 / RB 27",
       "connections": [
         "RE 8: Mönchengladbach - Köln - Köln/Bonn Flughafen - Troisdorf - Bonn-Beuel - Königswinter - Bad Honnef (Rhein) - Linz am Rhein - Neuwied - Engers - Koblenz\t",
-        "RB 27: Mönchengladbach - Köln - Troisdorf - Bonn-Beuel - Königswinter - Bad Honnef (Rhein) - Linz am Rhein - Neuwied - Koblenz\t"
+        "RB 27: Mönchengladbach - Köln - Troisdorf - Bonn-Beuel - Königswinter - Bad Honnef (Rhein) - Linz am Rhein - Neuwied - Koblenz\t",
+        "RB 28: Neuwied - Niederlahnstein"
       ],
       "download": {
         "linkDataList": [
@@ -505,6 +506,12 @@
             "title": "Schienenersatzverkehr Linz - Bonn Beuel (PDF, 205 KB)",
             "info": "",
             "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:46df6f54-8d08-49b3-81fd-45a115911bc5/220815_M2Sa_Plakat_RB28Verlaengerung_Linz_2208-1692022.pdf",
+            "title": "Informationsplakat Verlängerung RB 28 bis Linz(Rhein)  (PDF, 178 KB)",
+            "info": "",
+            "openInNewTab": false
           }
         ]
       },
@@ -515,7 +522,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "15.08.2022 16:11",
+      "lastModified": "15.08.2022 17:10",
       "author": "nrw",
       "expand": false,
       "priorityValue": 101
