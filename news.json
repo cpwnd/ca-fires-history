@@ -245,6 +245,30 @@
       "priorityValue": 101
     },
     {
+      "id": "5b0b557d-48ea-4075-ab13-3932fbdaf930",
+      "headline": "Teilausfälle zwischen Weimar und Erfurt",
+      "newsType": "Bauarbeiten",
+      "timePeriod": "vsl. bis 16.08.2022, ca. 12 Uhr",
+      "introText": "<p>Die Z&uuml;ge der Linien RE 1 und RE 3 fallen zwischen Erfurt Hbf und Weimar sowie Gegenrichtung aus und beginnen/enden jeweils in Weimar/Erfurt Hbf.</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "RE 1 Glauchau (Sachs) - Gera Hbf - Jena - Erfurt Hbf - Gotha - Leinefelde - Göttingen",
+        "RE 3 Altenburg/Greiz - Gera Hbf - Jena - Erfurt Hbf"
+      ],
+      "closingText": "<p>Wir arbeiten momentan an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>Grund f&uuml;r die Fahrplanabweichungen sind Verz&ouml;gungen bei bestehenden Bauarbeiten im Streckenabschnitt Erfurt Hbf - Weimar und&nbsp;werden vsl. bis 15.08.2022 um ca. 12 Uhr andauern.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "th"
+      ],
+      "lastModified": "15.08.2022 08:53",
+      "author": "suedost",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "41944fce-6906-477d-b0ad-adebbfd60532",
       "headline": "Ausfall Schienenersatzverkehr U 28",
       "newsType": "Teilausfälle Schmilka - Děčín",
@@ -548,7 +572,7 @@
       "headline": "Keine Zugfahrten zwischen Wörth(Rhein) und Lauterbourg",
       "newsType": "Kurzfristige Erkrankung von Personal",
       "timePeriod": "14.08.2022 ganztägig",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes wird der Zugverkehr zwischen&nbsp;W&ouml;rth(Rhein) und Lauterbourg auch am 15.08.2022 bis mind. 13 Uhr eingestellt.</p>\n\n<p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes wird der Zugverkehr zwischen&nbsp;W&ouml;rth(Rhein) und Lauterbourg auch am 15.08.2022 bis mind. 13 Uhr eingestellt.</p>\n\n<p>Wir haben einen Busnotverkehr zwischen W&ouml;rth(Rhein) und Lauterbourg eingerichtet (alle Unterwegshalte).&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linie",
       "connections": [
         "RB52 Wörth(Rhein) - Lauterbourg"
@@ -561,7 +585,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "14.08.2022 21:56",
+      "lastModified": "15.08.2022 08:48",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
@@ -584,7 +608,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "14.08.2022 21:52",
+      "lastModified": "15.08.2022 08:50",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
