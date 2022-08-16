@@ -259,8 +259,20 @@
       "download": {
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:2ef38e93-e559-41b7-b127-78955294342d/BNV%20RE%2055_56%20ab%2015.08._19.08.pdf",
-            "title": "Fahrplan Busnotverkehr (PDF, 91 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:639aab5d-a9de-4ea4-a6d8-f779ef630c33/BNV%20RE%2055_56%20ab%2015.08._Mo-Fr_Stand%2015.08.22.pdf",
+            "title": "Fahrplan Busnotverkehr Mo-Fr (PDF, 95 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:8ec6a5fa-c173-4dfc-9cdc-94487d4023c9/BNV%20RE%2055_56%20ab%2015.08_Samstag%20Stand%2015.08.22.pdf",
+            "title": "Fahrplan Busnotverkehr Samstag (PDF, 87 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:63a87f7a-88e1-482d-b369-ee319a99c734/BNV%20RE%2055_56%20ab%2015.08._Sonntag_Stand%2015.08.2022.pdf",
+            "title": "Fahrplan Busnotverkehr Sonntag (PDF, 83 KB)",
             "info": "",
             "openInNewTab": true
           },
@@ -280,7 +292,7 @@
       "areas": [
         "th"
       ],
-      "lastModified": "15.08.2022 06:03",
+      "lastModified": "16.08.2022 06:57",
       "author": "suedost",
       "expand": false,
       "priorityValue": 101
