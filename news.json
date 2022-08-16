@@ -447,12 +447,6 @@
       "download": {
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:c44a3b8c-a121-41ce-8a42-11731aac47ad/20220718_EV_MV_RE4_WUMH-WP_23.07.-14.08.2022__V3_SUh.pdf",
-            "title": "Ersatzfahrplan RE4  - Pasewalk - Ueckermünde vom 23.7. bis 14.8.2022 (PDF, 123 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
-          {
             "link": "https://assets.static-bahn.de/dam/jcr:ae9a19c3-239f-48a4-a5e4-5349b9e3feac/20220718_EV_MV_RE4_WUMH-WP_15.08.-28.08.2022__V3_SNo.pdf",
             "title": "20220718_EV_MV_RE4_WUMH-WP_15.08.-28.08.2022__V3_SNo.pdf (PDF, 123 KB)",
             "info": "",
@@ -468,7 +462,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "11.08.2022 14:58",
+      "lastModified": "16.08.2022 18:48",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
@@ -580,6 +574,29 @@
       ],
       "lastModified": "22.07.2022 12:00",
       "author": "niedersachsen_bremen",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "9078ea97-5545-464f-935d-ca4f290c67a1",
+      "headline": "Keine Zugfahrten zwischen Wörth(Rhein) und Lauterbourg",
+      "newsType": "Kurzfristige Erkrankung von Personal",
+      "timePeriod": "17.08.2022 ganztägig",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes wird der Zugverkehr zwischen&nbsp;<strong>W&ouml;rth(Rhein) und Lauterbourg am 17.08.2022 eingestellt.</strong></p>\n\n<p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n",
+      "connectionsHeadline": "Betroffene Linie",
+      "connections": [
+        "RB52 Wörth(Rhein) - Lauterbourg"
+      ],
+      "closingText": "<p>Sobald uns weitere Informationen vorliegen, halten wir Sie an dieser Stelle auf dem Laufenden.<br />\n<br />\nInformieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.<br />\nDB Regio AG, Region Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "16.08.2022 18:45",
+      "author": "mitte",
       "expand": false,
       "priorityValue": 101
     },
