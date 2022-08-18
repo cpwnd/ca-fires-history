@@ -102,8 +102,11 @@
       "headline": "Zusätzliche Ausfälle zwischen Stralsund und Greifswald bzw. Angermünde",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "am 20. und 21. August",
-      "introText": "<p>Auf Grund des erh&ouml;hten Krankenstandes bei Fahrpersonal m&uuml;ssen am Wochenende (20. und 21.08.2022) folgende Z&uuml;ge ausfallen:</p>\n\n<p><strong>Stralsund &ndash; Angerm&uuml;nde und zur&uuml;ck</strong></p>\n\n<ul>\n\t<li>RE33591 Stralsund (ab 7:05 Uhr) nach Angerm&uuml;nde am 20. und 21.08.</li>\n\t<li>RE33593 Stralsund (ab 17:44 Uhr) nach Angerm&uuml;nde am 21.08.</li>\n\t<li>RE33595 Stralsund (ab 18:58 Uhr) nach Angerm&uuml;nde am 20.08.</li>\n\t<li>RE33590 Angerm&uuml;nde (ab 10:40 Uhr) nach Greifswald am 21.08.</li>\n\t<li>RE33592 Angerm&uuml;nde (ab 11:07 Uhr) nach Stralsund am 20.08.</li>\n\t<li>RE33594 Angerm&uuml;nde (ab 20:42 Uhr) nach Stralsund am 21.08.</li>\n\t<li>RE33596 Angerm&uuml;nde (ab 22:40 Uhr) nach Stralsund am 20.08.</li>\n</ul>\n\n<p><strong>Stralsund &ndash; Greifswald und zur&uuml;ck</strong></p>\n\n<ul>\n\t<li>RE13030 Greifswald (ab 4:55 Uhr) nach Stralsund am 20.08.&nbsp;</li>\n\t<li>RE13035 Stralsund (ab 14:44 Uhr) nach Greifswald am 20. und 21.08.</li>\n\t<li>RE13036 Greifswald (ab 12:57 Uhr) nach Stralsund am 21.08.</li>\n</ul>\n",
+      "introText": "<p>Auf Grund des erh&ouml;hten Krankenstandes bei Fahrpersonal m&uuml;ssen am Wochenende (20. und 21.08.2022) folgende Z&uuml;ge ausfallen:</p>\n\n<ul>\n</ul>\n",
       "connections": [],
+      "download": {
+        "text": "<p><strong>Stralsund &ndash; Angerm&uuml;nde und zur&uuml;ck</strong></p>\n\n<ul>\n\t<li>RE33591 Stralsund (ab 7:05 Uhr) nach Angerm&uuml;nde am 20. und 21.08.</li>\n\t<li>RE33593 Stralsund (ab 17:44 Uhr) nach Angerm&uuml;nde am 21.08.</li>\n\t<li>RE33595 Stralsund (ab 18:58 Uhr) nach Angerm&uuml;nde am 20.08.</li>\n\t<li>RE33590 Angerm&uuml;nde (ab 10:40 Uhr) nach Greifswald am 21.08.</li>\n\t<li>RE33592 Angerm&uuml;nde (ab 11:07 Uhr) nach Stralsund am 20.08.</li>\n\t<li>RE33594 Angerm&uuml;nde (ab 20:42 Uhr) nach Stralsund am 21.08.</li>\n\t<li>RE33596 Angerm&uuml;nde (ab 22:40 Uhr) nach Stralsund am 20.08.</li>\n</ul>\n\n<p><strong>Stralsund &ndash; Greifswald und zur&uuml;ck</strong></p>\n\n<ul>\n\t<li>RE13030 Greifswald (ab 4:55 Uhr) nach Stralsund am 20.08.&nbsp;</li>\n\t<li>RE13035 Stralsund (ab 14:44 Uhr) nach Greifswald am 20. und 21.08.</li>\n\t<li>RE13036 Greifswald (ab 12:57 Uhr) nach Stralsund am 21.08.</li>\n</ul>\n"
+      },
       "closingText": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
       "priority": "0",
       "distance": [
@@ -114,10 +117,35 @@
         "br",
         "mv"
       ],
-      "lastModified": "18.08.2022 16:19",
+      "lastModified": "18.08.2022 16:23",
       "author": "nordost",
       "expand": false,
       "priorityValue": 103
+    },
+    {
+      "id": "4a99fb84-5fac-4f35-8898-016240ce5728",
+      "headline": "Ausfall Halt Berlin Ostkreuz",
+      "newsType": "Entschärfung einer Fliegerbombe",
+      "timePeriod": "18. August 2022 - Ende offen",
+      "introText": "<p>Aufgrund einer Entsch&auml;rfung einer Fliegerbombe f&auml;llt bei den Linien RE1, RB14 und RE7 der Halt Berlin-Ostkreuz aus. Die S-Bahn ist ebenfalls von Haltausfall betroffen. Bitte nutzen Sie alternative Reisem&ouml;glichkeiten.&nbsp;</p>\n",
+      "connectionsHeadline": "folgende Linien sind betroffen",
+      "connections": [
+        "RB14 - Nauen - Berlin - Flughafen BER Terminal 1-2",
+        "RE7 - Dessau/Bad Belzig - Michendorf - Berlin - Berlin-Schönefeld Flughafen - Wünsdorf-Waldstadt",
+        "RE1Ost - Berlin - Frankfurt (Oder) - Eisenhüttenstadt - Cottbus"
+      ],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chliche Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "18.08.2022 16:33",
+      "expand": false,
+      "priorityValue": 102
     },
     {
       "id": "3502e3f7-d0d6-488c-af59-77fb8f1a8fe4",
@@ -855,6 +883,29 @@
       "lastModified": "22.06.2022 15:45",
       "author": "bayern",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "5882eeee-5efb-429c-8430-e429b035d32a",
+      "headline": "Beeinträchtigungen zwischen Stuttgart Hbf und Stuttgart Bad Cannstatt",
+      "newsType": "Reparatur an der Strecke",
+      "timePeriod": "ca. bis 20.08.2022, 5:00 Uhr",
+      "introText": "<p>Aufgrund von Reparartur an der Strecke ist die Streckenkapazit&auml;t zwischen Stuttgart Hbf und Stuttgart Bad Canstatt eingeschr&auml;nkt.</p>\n",
+      "connectionsHeadline": "Betroffene Strecke",
+      "connections": [
+        "RE 5  Stuttgart Hbf - Lindau-Reutin"
+      ],
+      "closingText": "<p>Es kann zu Versp&auml;tungen und Teilausf&auml;llen kommen. Ggf. enden Z&uuml;ge bereits vorzeitig und k&ouml;nnen Stuttgart Hbf nicht anfahren.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "18.08.2022 17:22",
+      "author": "baden_wuerttemberg",
+      "expand": false,
       "priorityValue": 101
     },
     {
