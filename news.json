@@ -755,7 +755,7 @@
       "headline": "Nicht barrierefreier Ersatzverkehr auf den Linien RB41 und RB49",
       "newsType": "Eingeschränktes Zugangebot ",
       "timePeriod": "Bis voraussichtlich 02.09.2022",
-      "introText": "<p>Auf den Linien RB41 sowie RB49 kommt es bis zum 02.09.2022 (jeweils montags bis freitags) zum Einsatz von Ersatzz&uuml;gen.</p>\n",
+      "introText": "<p>Auf den Linien RB41 sowie RB49 kommt es bis zum 02.09.2022 zum Einsatz von Ersatzz&uuml;gen.</p>\n",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
         "RB41 Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Stadtallendorf - Treysa",
@@ -766,7 +766,13 @@
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:041bc9bf-299e-46ff-8bcb-fafbab3f04da/09-22_RB41_RB49_Cemtralbahn_NichtBarrierefrei.pdf",
-            "title": "Abfahrtszeiten der nicht barrierefreien Züge (RB41 und RB49) (PDF, 160 KB)",
+            "title": "Abfahrtszeiten der nicht barrierefreien Züge (RB41 und RB49) bis zum 02.09.2022 (PDF, 160 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:310649cc-9a94-4510-b3cb-5344fe581f59/10-22%20RE30,%20RB40,%20RB41,%20RBE49%20Ersatzkonzept%20Mittelhessen%2005.09.-21.10.2022.pdf",
+            "title": "Abfahrtszeiten der nicht barrierefreien Züge (RB41 und RB49) 05.09.2022 bis 21.10.2022 (PDF, 249 KB)",
             "info": "",
             "openInNewTab": true
           }
@@ -780,7 +786,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "18.07.2022 06:51",
+      "lastModified": "19.08.2022 15:16",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
@@ -1083,28 +1089,23 @@
       "headline": "Veränderter Fahrplan auf der Schwarzwaldbahn",
       "newsType": "Reparatur an mehreren Zügen",
       "timePeriod": "seit Samstag, 25. Juni bis auf Weiteres",
-      "introText": "<p>Bis einschlie&szlig;lich Freitag, den 26. August fallen die Z&uuml;ge der Linie RE 2 zwischen Hausach und St. Georgen(Schwarzw) aus und werden durch Busse ersetzt. Die f&uuml;r Pendler:innen und Sch&uuml;ler:innen wichtigen Verbindungen von Konstanz (ab 4:51 Uhr) nach Offenburg (an 7:21 Uhr) und von Offenburg (ab 5:23 Uhr) nach Konstanz (an 8:10 Uhr) bietet die DB Regio weiter durchg&auml;ngig mit RE-Z&uuml;gen an.</p>\n\n<p>Ab Samstag, den 27. August wird zwischen Konstanz und Offenburg der Zwei-Stunden-Takt aufgenommen.</p>\n\n<p>Die Fahrpl&auml;ne finden Sie weiter unten.</p>\n",
+      "introText": "<p>Ab Donnerstag, den 30 Juni fallen die Z&uuml;ge der Linie RE 2 zwischen Hausach und St. Georgen(Schwarzw) aus und werden durch Busse ersetzt. Die f&uuml;r Pendler:innen und Sch&uuml;ler:innen wichtigen Verbindungen von Konstanz (ab 4:51 Uhr) nach Offenburg (an 7:21 Uhr) und von Offenburg (ab 5:23 Uhr) nach Konstanz (an 8:10 Uhr) bietet die DB Regio weiter durchg&auml;ngig mit RE-Z&uuml;gen an.</p>\n",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
         "RE 2 Karlsruhe Hbf - Offenburg - Konstanz"
       ],
       "download": {
+        "text": "<p>Den Fahrplan finden Sie hier:</p>\n",
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:00030e41-d5dc-4cd6-b501-0ad67188b22c/Fahrplan_Schwarzwaldbahn_bis_26082022.pdf",
-            "title": "Fahrplan Offenburg - Konstanz bis 26. August (PDF, 751 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:dc9a33f0-4e23-4630-bb0d-d44f2634bb41/Fahrplan_Schwarzwaldbahn_ab_27082022_bis_11092022.pdf",
-            "title": "Fahrplan Offenburg - Konstanz ab 27. August (PDF, 456 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:c9a984d0-269c-4667-b0ae-11847c37f384/220629_Schwarzwaldbahn%20ab%2030.6..pdf",
+            "title": "Veränderter Fahrplan Offenburg - Konstanz (PDF, 751 KB)",
             "info": "",
             "openInNewTab": false
           }
         ]
       },
-      "closingText": "<p>Den ver&auml;nderten Fahrplan finden Sie hier im Anhang.&nbsp;</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "closingText": "<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -1112,7 +1113,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "19.08.2022 13:54",
+      "lastModified": "19.08.2022 15:40",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
