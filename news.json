@@ -1,65 +1,38 @@
 {
   "news": [
     {
-      "id": "30e525c6-f43c-4238-95bf-6ca5a6c49f53",
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Aschaffenburg",
-      "newsType": "Erkrankung Personal",
-      "timePeriod": "vsl. bis Sa, 20.08.2022 um 06:00 Uhr",
-      "introText": "<p>Aufgrund der Erkrankung von Personal ist das Stellwerk Dettingen auf der Strecke Hanau &ndash; Aschaffenburg unterbesetzt. In Folge ist der Fernverkehr der Deutschen Bahn beeintr&auml;chtigt. Es kommt zu Versp&auml;tungen.&nbsp;</p>\n",
+      "id": "3e5efc6b-d7de-4060-82a2-ad52127b4c4c",
+      "headline": "Beeinträchtigungen in Dortmund",
+      "newsType": "Unwetterschäden",
+      "timePeriod": "Am heutigen Samstag, 20. August 2022 vsl. bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund eines defekten Stellwerkes in Dortmund Hbf kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p><strong>Der Bahnhof kann aktuell nicht angefahren werden. </strong>Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich, Dar&uuml;ber hinaus kommt es zu Halt- und Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle ICE/IC-Züge zwischen Frankfurt(M) und Aschaffenburg bzw. Würzburg werden in beiden Fahrtrichtungen umgeleitet und verspäten sich um etwa 20 Minuten. Der Halt Hanau Hbf entfällt ersatzlos."
+        "ICE-, EC- und IC-Züge der Relation Hamburg - Münster(Westf) - Dortmund - Köln",
+        "ICE- und IC-Züge der Relation Hannover - Dortmund - Köln",
+        "ICE-Züge Dortmund - Köln - Frankfurt(Main) - Süddeutschland bzw. Österreich",
+        "IC-Züge Dortmund - Siegen - Friedberg(Hess)"
       ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Reisende von/nach Hanau&nbsp;nutzen bitte den Halt Frankfurt(M) Hbf und zwischen Frankfurt(M) und Hanau die Regionalz&uuml;ge und S-Bahnen.<br />\n&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Wir empfehlen Ihnen die folgenden Reisealternativen:</strong></p>\n\n<p>Unser Personal vor Ort arbeitet unter Hochdruck an der St&ouml;rungsbeseitigung.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
       ],
       "areas": [
-        "by",
-        "he"
+        "ni",
+        "nw"
       ],
-      "lastModified": "20.08.2022 06:30",
+      "lastModified": "20.08.2022 07:07",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 302
-    },
-    {
-      "id": "3e5efc6b-d7de-4060-82a2-ad52127b4c4c",
-      "headline": "Ausfall Dortmund Hbf",
-      "newsType": "Defektes Stellwerk",
-      "timePeriod": "am Sa, 20.08.2022 bis in die Mittagsstunden",
-      "introText": "<p>Aufgrund eines defekten Stellwerkes k&ouml;nnen Z&uuml;ge des Fernverkehrs der Deutschen Bahn Dortmund Hbf vor&uuml;bergehend nicht anfahren. Es kommt zu Zug- und Haltausf&auml;llen und Versp&auml;tungen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "ICE-Züge Dortmund – Bochum – Essen – Köln – Frankfurt(M) (– München/Stuttgart/Basel/Wien) fallen zwischen Dortmund Hbf und Essen Hbf aus. Die Halte in Dortmund Hbf und Bochum Hbf entfallen. ",
-        "IC/ICE-Züge Berlin/Gera – Hamm(W) – Dortmund – Essen – Düsseldorf/Köln/Bonn werden umgeleitet und verspäten sich um ca. 30 Minuten. Der Halt in Dortmund Hbf entfällt. ",
-        "IC-Züge Berlin – Dortmund – Essen – Köln (– Ulm) werden ohne zusätzliche Verspätung umgeleitet. Die Halte in Dortmund Hbf und Bochum Hbf entfallen, Ersatzhalt in Wanne-Eickel Hbf. ",
-        "IC/ICE-Züge Hamburg – Dortmund – Essen – Köln (– Frankfurt(M)/München/Passau) werden ohne zusätzliche Verspätung umgeleitet. Die Halte in Dortmund Hbf und Bochum Hbf entfallen, Ersatzhalt in Wanne-Eickel Hbf.  In Dortmund Hbf beginnende/endende Züge werden von Dortmund Bbf umgeleitet und verspäten sich ca. 35 Minuten. Der Halt Dortmund Hbf entfällt.",
-        "IC/ICE-Züge Hamburg – Dortmund – Wuppertal – Köln (– Frankfurt(M)/Passau) werden ohne zusätzliche Verspätung umgeleitet. Der Halt in Dortmund Hbf entfällt, Ersatzhalt in Hamm(W)Hbf.",
-        "IC/ICE-Züge (Dresden/Leipzig – Hamm(W) –) Dortmund – Wuppertal – Köln (– Wien) werden umgeleitet und verspäten sich um ca. 30 Minuten. Der Halt in Dortmund Hbf entfällt. ",
-        "IC-Züge Dortmund – Essen – Köln – Koblenz (– Stuttgart/Ulm) werden umgeleitet und verspäten sich um ca. 25 Minuten. Die Halte in Dortmund Hbf und Bochum Hbf entfallen, Ersatzhalt in Dortmund-Mengede. ",
-        "IC-Züge Münster (W) – Dortmund – Siegen – Frankfurt (M) werden umgeleitet und halten nicht in Dortmund Hbf und Witten Hbf, Ersatzhalte sind Unna und Schwerte (R). In Dortmund beginnende/endende Züge beginnen/enden in Hamm (Westf)."
-      ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen die folgenden Reisealternativen:</strong></p>\n\n<p>Zwischen&nbsp;Dortmund Hbf&nbsp;und&nbsp;Dortmund-Mengede&nbsp;bzw. Wanne-Eickel Hbf&nbsp;nutzen Sie bitte&nbsp;nach M&ouml;glichkeit&nbsp;die Nahverkehrsz&uuml;ge der Linien RE&nbsp;3, RB 32 und S 2. In&nbsp;Dortmund-Mengede&nbsp;bestehen Anschlussverbindungen an den umgeleiteten Fernverkehr in Richtung&nbsp;Koblenz und Stuttgart.</p>\n\n<p>Zwischen Bochum Hbf und&nbsp;Wanne-Eickel Hbf nutzen Sie bitte nach M&ouml;glichkeit die Nahverkehrsz&uuml;ge der Linie RB 46.</p>\n\n<p>Unser Personal vor Ort arbeitet unter Hochdruck an der St&ouml;rungsbeseitigung.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "nw"
-      ],
-      "lastModified": "20.08.2022 06:30",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 301
     },
     {
       "id": "7cd69150-3ecc-4acc-9b41-903acaee68f0",
       "headline": "Beeinträchtigungen zwischen München und Nürnberg",
       "newsType": "Streckensperrung",
       "timePeriod": "Am heutigen Samstag, 20. August 2022 vsl. bis in die Mittagsstunden",
-      "introText": "<p>Aufgrund von der kurzfristigen Erkrankung von Personal ist die Strecke zwischen M&uuml;nchen und Ingolstadt derzeit gesperrt.</p>\n\n<p>Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 90 Minuten Der Halt in Ingolstadt Hbf&nbsp;entf&auml;llt.</p>\n\n<p>Zus&auml;tzlich kommt es zu Teilausf&auml;llen von Z&uuml;gen.</p>\n",
+      "introText": "<p>Aufgrund der kurzfristigen Erkrankung von Personal ist die Strecke zwischen M&uuml;nchen und Ingolstadt derzeit gesperrt.</p>\n\n<p>Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 90 Minuten Der Halt in Ingolstadt Hbf&nbsp;entf&auml;llt.</p>\n\n<p>Zus&auml;tzlich kommt es zu Teilausf&auml;llen von Z&uuml;gen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "Alle ICE-Züge auf der Relation München - Ingolstadt - Nürnberg"
@@ -72,7 +45,7 @@
       "areas": [
         "by"
       ],
-      "lastModified": "20.08.2022 06:36",
+      "lastModified": "20.08.2022 07:09",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 301
