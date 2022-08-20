@@ -1,33 +1,6 @@
 {
   "news": [
     {
-      "id": "3e5efc6b-d7de-4060-82a2-ad52127b4c4c",
-      "headline": "Beeinträchtigungen in Dortmund",
-      "newsType": "Unwetterschäden",
-      "timePeriod": "Am heutigen Samstag, 20. August 2022 vsl. bis in die Abendstunden",
-      "introText": "<p>Aufgrund eines defekten Stellwerkes in Dortmund Hbf kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p><strong>Der Bahnhof kann aktuell nicht angefahren werden. </strong>Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich, Dar&uuml;ber hinaus kommt es zu Halt- und Zugausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "ICE-, EC- und IC-Züge der Relation Hamburg - Münster(Westf) - Dortmund - Köln",
-        "ICE- und IC-Züge der Relation Hannover - Dortmund - Köln",
-        "ICE-Züge Dortmund - Köln - Frankfurt(Main) - Süddeutschland bzw. Österreich",
-        "IC-Züge Dortmund - Siegen - Friedberg(Hess)"
-      ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen die folgenden Reisealternativen:</strong></p>\n\n<p><strong>Ab Essen und Gelsenkirchen </strong>mit der S-Bahnlinie S2 Richtung Dortmund-Dorstfeld bis Dormtund Westerfilde. Ab dort weiter mit mit der U-Bahnlinie U47 Richtung Aplerbeck zum Hauptbahnhof Dortmund.</p>\n\n<p>Unser Personal vor Ort arbeitet unter Hochdruck an der St&ouml;rungsbeseitigung.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "ni",
-        "nw"
-      ],
-      "lastModified": "20.08.2022 13:31",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 302
-    },
-    {
       "id": "db4453ff-873b-46e6-b9c4-5334429368d2",
       "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Darmstadt/Heidelberg",
       "newsType": "Erkrankung Personal",
@@ -46,6 +19,25 @@
         "he"
       ],
       "lastModified": "20.08.2022 19:20",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 301
+    },
+    {
+      "id": "3e5efc6b-d7de-4060-82a2-ad52127b4c4c",
+      "headline": "Stellwerk in Dortmund repariert",
+      "newsType": "Unwetterschäden",
+      "introText": "<p><strong>Das Stellwerk in Dortmund Hbf ist repariert.</strong></p>\n\n<p>Der Bahnhof Dortmund Hbf wird wieder angefahren. W&auml;hrend der &Uuml;berleitung in Regelbetrieb vereinzelt Versp&auml;tungen m&ouml;glich. Auch k&ouml;nnen in der K&uuml;rze der Zeit nicht alle Fernverkerhsz&uuml;ge wieder nach Dortmund Hbf zur&uuml;ckverlegt werden. Bei denen bleibt es beim Haltausfall Dortmund Hbf.</p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "nw"
+      ],
+      "lastModified": "20.08.2022 22:11",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 301
