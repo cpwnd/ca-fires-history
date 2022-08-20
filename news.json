@@ -25,19 +25,23 @@
       "priorityValue": 302
     },
     {
-      "id": "f7d1b5c6-3f56-42e1-8b6c-74163aeb1af9",
-      "headline": "Beeinträchtigungen in Oberhausen Hbf",
-      "newsType": "Bauarbeiten",
-      "timePeriod": "bis vsl. Sonntag, den 28.08.2022 ",
-      "introText": "<p>Aufgrund von kurzfristigen Bauarbeiten zwischen Duisburg Hbf und Oberhausen Hbf kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Alle Fernz&uuml;ge werden umgeleitet und halten <strong>nicht in Oberhausen Hbf</strong>.&nbsp;</p>\n",
+      "id": "3e5efc6b-d7de-4060-82a2-ad52127b4c4c",
+      "headline": "Ausfall Dortmund Hbf",
+      "newsType": "Defektes Stellwerk",
+      "timePeriod": "am Sa, 20.08.2022 bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund eines defekten Stellwerkes k&ouml;nnen Z&uuml;ge des Fernverkehrs der Deutschen Bahn Dortmund Hbf vor&uuml;bergehend nicht anfahren. Es kommt zu Zug- und Haltausf&auml;llen und Versp&auml;tungen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE-Züge Frankfurt(M) - Köln - Amsterdam",
-        "IC-Züge Köln - Münster(W) - Norddeich Mole",
-        "NJ-Züge Innsbruck/Wien/Zürich - Köln - Amsterdam",
-        "alle weiteren Fernzüge mit planmäßigem Halt in Oberhausen Hbf"
+        "ICE-Züge Dortmund – Bochum – Essen – Köln – Frankfurt(M) (– München/Stuttgart/Basel/Wien) fallen zwischen Dortmund Hbf und Essen Hbf aus. Die Halte in Dortmund Hbf und Bochum Hbf entfallen. ",
+        "IC/ICE-Züge Berlin/Gera – Hamm(W) – Dortmund – Essen – Düsseldorf/Köln/Bonn werden umgeleitet und verspäten sich um ca. 30 Minuten. Der Halt in Dortmund Hbf entfällt. ",
+        "IC-Züge Berlin – Dortmund – Essen – Köln (– Ulm) werden ohne zusätzliche Verspätung umgeleitet. Die Halte in Dortmund Hbf und Bochum Hbf entfallen, Ersatzhalt in Wanne-Eickel Hbf. ",
+        "IC/ICE-Züge Hamburg – Dortmund – Essen – Köln (– Frankfurt(M)/München/Passau) werden ohne zusätzliche Verspätung umgeleitet. Die Halte in Dortmund Hbf und Bochum Hbf entfallen, Ersatzhalt in Wanne-Eickel Hbf.  In Dortmund Hbf beginnende/endende Züge werden von Dortmund Bbf umgeleitet und verspäten sich ca. 35 Minuten. Der Halt Dortmund Hbf entfällt.",
+        "IC/ICE-Züge Hamburg – Dortmund – Wuppertal – Köln (– Frankfurt(M)/Passau) werden ohne zusätzliche Verspätung umgeleitet. Der Halt in Dortmund Hbf entfällt, Ersatzhalt in Hamm(W)Hbf.",
+        "IC/ICE-Züge (Dresden/Leipzig – Hamm(W) –) Dortmund – Wuppertal – Köln (– Wien) werden umgeleitet und verspäten sich um ca. 30 Minuten. Der Halt in Dortmund Hbf entfällt. ",
+        "IC-Züge Dortmund – Essen – Köln – Koblenz (– Stuttgart/Ulm) werden umgeleitet und verspäten sich um ca. 25 Minuten. Die Halte in Dortmund Hbf und Bochum Hbf entfallen, Ersatzhalt in Dortmund-Mengede. ",
+        "IC-Züge Münster (W) – Dortmund – Siegen – Frankfurt (M) werden umgeleitet und halten nicht in Dortmund Hbf und Witten Hbf, Ersatzhalte sind Unna und Schwerte (R). In Dortmund beginnende/endende Züge beginnen/enden in Hamm (Westf)."
       ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen die folgenden Reisealternativen:</strong></p>\n\n<p><strong>Oberhausen Hbf&nbsp;</strong>erreichen Sie weiterhin mit den Nahverkehrsz&uuml;gen von/nach Duisburg Hbf, Gelsenkirchen Hbf sowie Arnhem Centraal.</p>\n\n<p>Die Beeintr&auml;chtigungen werden nach aktuellem Stand bis einschlie&szlig;lich Sonntag, den 28. August bestehen bleiben. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Wir empfehlen Ihnen die folgenden Reisealternativen:</strong></p>\n\n<p>Zwischen&nbsp;Dortmund Hbf&nbsp;und&nbsp;Dortmund-Mengede&nbsp;bzw. Wanne-Eickel Hbf&nbsp;nutzen Sie bitte&nbsp;nach M&ouml;glichkeit&nbsp;die Nahverkehrsz&uuml;ge der Linien RE&nbsp;3, RB 32 und S 2. In&nbsp;Dortmund-Mengede&nbsp;bestehen Anschlussverbindungen an den umgeleiteten Fernverkehr in Richtung&nbsp;Koblenz und Stuttgart.</p>\n\n<p>Zwischen Bochum Hbf und&nbsp;Wanne-Eickel Hbf nutzen Sie bitte nach M&ouml;glichkeit die Nahverkehrsz&uuml;ge der Linie RB 46.</p>\n\n<p>Unser Personal vor Ort arbeitet unter Hochdruck an der St&ouml;rungsbeseitigung.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -45,30 +49,7 @@
       "areas": [
         "nw"
       ],
-      "lastModified": "16.08.2022 17:16",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 301
-    },
-    {
-      "id": "dd546472-89c6-41de-9f86-96c6c606f0d4",
-      "headline": "Beeinträchtigungen zwischen Mainz und Koblenz",
-      "newsType": "Bauarbeiten",
-      "timePeriod": "vsl. bis Montag, 22.08.2022",
-      "introText": "<p>&nbsp;Aufgrund von Bauarbeiten zwischen Bacharach und Sankt Goar kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Da der betroffene Streckenabschnitt nur eingleisig befahrbar ist, versp&auml;ten sich einzelne Z&uuml;ge um etwa 20 Minuten.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE/EC/IC/NJ-Züge zwischen Mainz und Koblenz"
-      ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "rp"
-      ],
-      "lastModified": "19.08.2022 10:57",
+      "lastModified": "20.08.2022 05:14",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 301
@@ -117,6 +98,55 @@
         "ni"
       ],
       "lastModified": "08.08.2022 23:44",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
+      "id": "f7d1b5c6-3f56-42e1-8b6c-74163aeb1af9",
+      "headline": "Beeinträchtigungen in Oberhausen Hbf",
+      "newsType": "Bauarbeiten",
+      "timePeriod": "bis vsl. Sonntag, den 28.08.2022 ",
+      "introText": "<p>Aufgrund von kurzfristigen Bauarbeiten zwischen Duisburg Hbf und Oberhausen Hbf kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Alle Fernz&uuml;ge werden umgeleitet und halten <strong>nicht in Oberhausen Hbf</strong>.&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "ICE-Züge Frankfurt(M) - Köln - Amsterdam",
+        "IC-Züge Köln - Münster(W) - Norddeich Mole",
+        "NJ-Züge Innsbruck/Wien/Zürich - Köln - Amsterdam",
+        "alle weiteren Fernzüge mit planmäßigem Halt in Oberhausen Hbf"
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen die folgenden Reisealternativen:</strong></p>\n\n<p><strong>Oberhausen Hbf&nbsp;</strong>erreichen Sie weiterhin mit den Nahverkehrsz&uuml;gen von/nach Duisburg Hbf, Gelsenkirchen Hbf sowie Arnhem Centraal.</p>\n\n<p>Die Beeintr&auml;chtigungen werden nach aktuellem Stand bis einschlie&szlig;lich Sonntag, den 28. August bestehen bleiben. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "nw"
+      ],
+      "lastModified": "20.08.2022 05:16",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
+      "id": "dd546472-89c6-41de-9f86-96c6c606f0d4",
+      "headline": "Beeinträchtigungen zwischen Mainz und Koblenz",
+      "newsType": "Bauarbeiten",
+      "timePeriod": "vsl. bis Montag, 22.08.2022",
+      "introText": "<p>&nbsp;Aufgrund von Bauarbeiten zwischen Bacharach und Sankt Goar kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Da der betroffene Streckenabschnitt nur eingleisig befahrbar ist, versp&auml;ten sich einzelne Z&uuml;ge um etwa 20 Minuten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE/EC/IC/NJ-Züge zwischen Mainz und Koblenz"
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "20.08.2022 05:15",
+      "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
     },
