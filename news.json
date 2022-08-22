@@ -159,33 +159,6 @@
       "priorityValue": 102
     },
     {
-      "id": "da4dcadd-2f1c-49de-9e85-e9fff6231e7e",
-      "headline": "Angespannte Personallage in Rheinland-Pfalz und im Saarland",
-      "newsType": "Zugausfälle auf mehreren Linien",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes wurde der Zugverkehr auf mehreren Linien eingestellt.<br />\nAlle Informationen zu den Linien und zur Dauer finden Sie weiter unten.</p>\n",
-      "connectionsHeadline": "Betroffene Linien",
-      "connections": [
-        "RB52 Wörth(Rhein) <> Lauterbourg",
-        "RB77 Dillingen(Saar) <> Niedaltdorf "
-      ],
-      "download": {
-        "text": "<p><strong>RB52:&nbsp;</strong>Der Zugverkehr ist bis voraussichtlich <strong>22.08.2022 14 Uhr&nbsp;</strong>eingestellt.<br />\nWir haben f&uuml;r Sie einen <strong>Busnotverkehr</strong> der Firma Trischan eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p><strong>RB77: </strong>Der Zugverkehr wurde <strong>bis einschlie&szlig;lich 22.08.2022</strong> eingestellt.<br />\nEin <strong>Schienenersatzverkehr</strong> wurde eingerichtet. Die Abfahrtszeiten der Busse finden Sie &uuml;ber die Onlineauskunft.</p>\n"
-      },
-      "closingText": "<p>Bitte beachten Sie, dass der Busnotverkehr ohne festen Fahrplan verkehrt und eventuell nicht immer unmittelbar am Bahnhof halten kann.<br />\nDie Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "rp",
-        "sl"
-      ],
-      "lastModified": "22.08.2022 06:24",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "3bc3e0aa-ad15-4ccf-92da-f2b6cbf40491",
       "headline": "Fortsetzung Ersatzverkehr mit Bussen zwischen Weinheim(Bergstr) und Fürth(Odenw)",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
@@ -586,6 +559,29 @@
       "lastModified": "04.11.2021 10:10",
       "author": "nrw",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "9078ea97-5545-464f-935d-ca4f290c67a1",
+      "headline": "Keine Zugfahrten zwischen Wörth(Rhein) und Lauterbourg",
+      "newsType": "Kurzfristige Erkrankung von Personal",
+      "timePeriod": "23.08.22 04 -13 Uhr",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes wird der Zugverkehr zwischen&nbsp;<strong>W&ouml;rth(Rhein) und Lauterbourg am 23.08.2022 von 04 bis 13 Uhr.</strong></p>\n\n<p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffene Linie",
+      "connections": [
+        "RB52 Wörth(Rhein) - Lauterbourg"
+      ],
+      "closingText": "<p>Sobald uns weitere Informationen vorliegen, halten wir Sie an dieser Stelle auf dem Laufenden.<br />\n<br />\nInformieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.<br />\nDB Regio AG, Region Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "22.08.2022 21:59",
+      "author": "mitte",
+      "expand": false,
       "priorityValue": 101
     },
     {
