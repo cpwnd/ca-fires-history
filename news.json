@@ -851,16 +851,10 @@
         "text": "<p>Die ge&auml;nderten Fahrpl&auml;ne finden Sie hier im Anhang.</p>\n",
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:90a863f2-ea72-410f-8081-1cc8f2ba2dcb/Ersatzfahrplan_Singen_Schaffhausen_bis_21082022.pdf",
-            "title": "Fahrplan Singen - Schaffhausen bis 21. August (PDF, 699 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
             "link": "https://assets.static-bahn.de/dam/jcr:3cd91cd0-f1fd-4a64-befe-e3bb4844acfe/Ersatzfahrplan_Singen_Schaffhausen_ab_22082022_bis_11092022.pdf",
             "title": "Fahrplan Singen - Schaffhausen ab 22. August bis 11. September (PDF, 704 KB)",
             "info": "",
-            "openInNewTab": false
+            "openInNewTab": true
           }
         ]
       },
@@ -872,7 +866,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "19.08.2022 14:21",
+      "lastModified": "22.08.2022 02:21",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
