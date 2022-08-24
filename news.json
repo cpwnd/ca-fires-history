@@ -599,8 +599,8 @@
       "id": "9078ea97-5545-464f-935d-ca4f290c67a1",
       "headline": "Keine Zugfahrten zwischen Wörth(Rhein) und Lauterbourg",
       "newsType": "Kurzfristige Erkrankung von Personal",
-      "timePeriod": "25.08.2022 bis Betriebsschluss",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes wird der Zugverkehr zwischen&nbsp;<strong>W&ouml;rth(Rhein) und Lauterbourg am 25.08.2022 eingestellt und&nbsp; am 27.08.2022 bis einschlie&szlig;lich den 28.08.2022 </strong>bis Betriebsschluss eingestellt.</p>\n\n<p>Wir haben f&uuml;r Sie einen<strong> Busnotverkehr zwischen W&ouml;rth(Rhein) und Lauterbourg</strong> mit allen Unterwegshalten eingerichtet.</p>\n",
+      "timePeriod": "25.08.2022 und am 27.08.2022 bis einschließlich den 28.08.2022 bis Betriebsschluss",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes wird der Zugverkehr zwischen&nbsp;<strong>W&ouml;rth(Rhein) und Lauterbourg am 25.08.2022 eingestellt und am 27.08.2022 bis einschlie&szlig;lich den 28.08.2022 </strong>bis Betriebsschluss eingestellt.</p>\n\n<p>Wir haben f&uuml;r Sie einen<strong> Busnotverkehr zwischen W&ouml;rth(Rhein) und Lauterbourg</strong> mit allen Unterwegshalten eingerichtet.</p>\n",
       "connectionsHeadline": "Betroffene Linie",
       "connections": [
         "RB52 Wörth(Rhein) - Lauterbourg"
@@ -613,7 +613,30 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "24.08.2022 17:18",
+      "lastModified": "24.08.2022 17:45",
+      "author": "mitte",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "2a323a9a-15ec-4d79-88b9-7caa3bb919db",
+      "headline": "Keine Zugfahrten zw. Winden(Pfalz) und Bad Bergzabern",
+      "newsType": "Kurzfristige Erkrankung von Personal",
+      "timePeriod": "27.08. bis 28.08.2022 ganztägig ",
+      "introText": "<p><strong>Regionalbahnlinie RB 52 W&ouml;rth (Rhein) - Lauterbourg eingestellt.</strong></p>\n\n<p>Es verkehrt am Donnerstag, 25. August 2022, sowie am Samstag, 27. August, und Sonntag, 28. August 2022, ganzt&auml;gig als Ersatzverkehr mit Bussen.</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "RB54 Winden(Pfalz) - Bad Bergzabern"
+      ],
+      "closingText": "<p>Sobald uns weitere Informationen vorliegen, halten wir Sie an dieser Stelle auf dem Laufenden.<br />\n<br />\nInformieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.<br />\nDB Regio AG, Region Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "24.08.2022 17:40",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
