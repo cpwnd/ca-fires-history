@@ -77,7 +77,7 @@
       "id": "5706a4fe-14a7-47b6-b2a1-5b7b3ebf1e1e",
       "headline": "Beeinträchtigungen zwischen Hannover und Braunschweig",
       "newsType": "Bauarbeiten",
-      "timePeriod": "Vsl. bis Sonntag, 28.08.2022",
+      "timePeriod": "Vsl. bis Samstag, 27.08.2022 in den Vormittagsstunden",
       "introText": "<p>Aufgrund von kurzfristigen Bauarbeiten zwischen Peine und Vechelde auf der Strecke zwischen Hannover Hbf und Braunschweig Hbf ist die Strecke nur eingleisig befahrbar.</p>\n\n<p>Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich um etwa 20 Minuten. Der Halt in Peine entf&auml;llt.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
@@ -91,7 +91,7 @@
       "areas": [
         "ni"
       ],
-      "lastModified": "08.08.2022 23:44",
+      "lastModified": "25.08.2022 14:49",
       "expand": false,
       "priorityValue": 201
     },
@@ -994,19 +994,25 @@
       "headline": "Veränderter Fahrplan auf der Schwarzwaldbahn",
       "newsType": "Reparatur an mehreren Zügen",
       "timePeriod": "bis auf Weiteres",
-      "introText": "<p>Die Z&uuml;ge der Linie RE 2 fallen zwischen Hausach und St. Georgen(Schwarzw) aus und werden durch Busse ersetzt. Die f&uuml;r Pendler:innen und Sch&uuml;ler:innen wichtigen Verbindungen von Konstanz (ab 4:51 Uhr) nach Offenburg (an 7:21 Uhr) und von Offenburg (ab 5:23 Uhr) nach Konstanz (an 8:10 Uhr) bietet die DB Regio weiter durchg&auml;ngig mit RE-Z&uuml;gen an.</p>\n",
+      "introText": "<p>Bis einschlie&szlig;lich Freitag, den 26. August fallen die Z&uuml;ge der Linie RE 2 zwischen Hausach und St. Georgen(Schwarzw) aus und werden durch Busse ersetzt. Die f&uuml;r Pendler:innen und Sch&uuml;ler:innen wichtigen Verbindungen von Konstanz (ab 4:51 Uhr) nach Offenburg (an 7:21 Uhr) und von Offenburg (ab 5:23 Uhr) nach Konstanz (an 8:10 Uhr) bietet die DB Regio Baden-W&uuml;rttemberg durchg&auml;ngig RE-Z&uuml;ge an.</p>\n\n<p>Ab Samstag, den 27. August wird zwischen Konstanz und Offenburg der Zwei-Stunden-Takt aufgenommen.&nbsp;</p>\n\n<p>Die Fahrpl&auml;ne finden Sie weiter unten:</p>\n",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
         "RE 2 Karlsruhe Hbf - Offenburg - Konstanz"
       ],
       "download": {
-        "text": "<p>Den Fahrplan finden Sie hier:</p>\n",
+        "text": "<p>Den ver&auml;nderten Fahrplan finden Sie hier:</p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:a7e7946c-14a1-4c61-b3c1-91d9fd0c4884/Fahrplan_Schwarzwaldbahn_Stand_19082022.pdf",
-            "title": "Veränderter Fahrplan Offenburg - Konstanz (PDF, 629 KB)",
+            "title": "Veränderter Fahrplan Offenburg - Konstanz bis 26. August  (PDF, 629 KB)",
             "info": "Stand 19.08.2022",
-            "openInNewTab": false
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:66d28a4c-f4a7-4b47-86f8-867997abfc03/Fahrplan%20Schwarzwaldbahn%20ab%2027.08.%20bis%2011.09..pdf",
+            "title": "Veränderter Fahrplan Offenburg - Konstanz ab 27. August  bis 11. September (PDF, 558 KB)",
+            "info": "",
+            "openInNewTab": true
           }
         ]
       },
@@ -1018,7 +1024,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "23.08.2022 10:14",
+      "lastModified": "25.08.2022 14:24",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
