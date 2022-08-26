@@ -251,14 +251,36 @@
     },
     {
       "id": "aefa1b8f-9226-4572-801d-3ae09a83a2b9",
-      "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
+      "headline": "Vorübergehend reduziertes Fahrplanangebot und teilweise Schienenersatzverkehr bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "vorerst bis 09.09.2022",
-      "introText": "<p>Ab 1. August bis 9. September gibt es Montags bis Freitags Einschr&auml;nkungen und Zugausf&auml;lle auf der Tauberbahn aufgrund eines erh&ouml;hten Krankenstandes.</p>\n\n<p><strong>Ein Ersatzverkehr mit Bus f&uuml;r die ausfallenden Z&uuml;ge ist f&uuml;r Sie eingerichtet.</strong></p>\n\n<p>Die Fahrplantabellen zu den ausfallenden Z&uuml;gen und Schienenersatzverkehr finden Sie hier:&nbsp;</p>\n",
-      "connections": [],
+      "introText": "<p>Aktuell gibt es Einschr&auml;nkungen und Zugausf&auml;lle auf der Tauberbahn, Hohenlohebahn und Madonnenlandbahn aufgrund erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal. Auf der Tauberbahn finden ab Montag 29. August zus&auml;tzlich Bauarbeiten mit Schienenersatzverkehr statt.</p>\n",
+      "connectionsHeadline": "Betroffene Strecken und Dauer:",
+      "connections": [
+        "Hohenlohebahn: bis voraussichtlich 7. September",
+        "Madonnenlandbahn: bis voraussichtlich 9. September",
+        "Tauberbahn: bis voraussichtlich 11. September, ab 29. August zusätzlich Schienenersatzverkehr"
+      ],
       "download": {
+        "text": "<p>Die Fahrplantabellen zu den ausfallenden Z&uuml;gen und Schienenersatzverkehr finden Sie hier:&nbsp;</p>\n",
         "linkDataList": [
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:16ca918e-2ccb-40a8-ac1c-ec2389f3c60f/Hohenlohebahn_reduziertes%20Angebot%20bis%207.%20September.pdf",
+            "title": "Veränderter Fahrplan Hohenlohebahn bis zum 7. September (PDF, 101 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:300ffb9d-a843-44b6-859e-92547c53fcea/Madonnenlandbahn_reduziertes%20Angebot_(1.8.-9.9.22).pdf",
+            "title": "Veränderter Fahrplan Madonnenlandbahn bis zum 9. September (PDF, 110 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:26265587-2e6f-46dc-9a45-9f3fce066312/SEV%20Bad%20Mergentheim%20-%20Crailsheim%202908%20bis%201109.pdf",
+            "title": "Fahrplan des Schienenersatzverkehrs auf der Tauberbahn ab 29. August bis zum 11. September (PDF, 482 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
@@ -270,7 +292,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "19.08.2022 23:26",
+      "lastModified": "26.08.2022 16:19",
       "expand": false,
       "priorityValue": 102
     },
