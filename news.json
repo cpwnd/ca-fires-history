@@ -1,10 +1,35 @@
 {
   "news": [
     {
+      "id": "e9959eff-0da3-4bc1-a8c9-65d38de53655",
+      "headline": "Beeinträchtigungen zwischen Köln und Wuppertal",
+      "newsType": "Bauarbeiten",
+      "timePeriod": "Bis vsl. 28.08.2022 in den Vormittagsstunden",
+      "introText": "<p>Aufgrund von Bauarbeiten zwischen K&ouml;ln und Wuppertal kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten.</p>\n\n<p>Der Halt in Solingen Hbf entf&auml;llt. Ersatzweise halten diese Z&uuml;ge in D&uuml;sseldorf Hbf.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "ICE-Züge Köln - Hannover - Berlin"
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen die folgenden Reisealternativen:</strong></p>\n\n<p><strong>Solingen </strong>Hbf erreichen Sie ab K&ouml;ln, Wuppertal und D&uuml;sseldorf mit den verbliebenen Z&uuml;gen des Fernverkehrs, mit Z&uuml;gen des Regionalverkehrs sowie ab D&uuml;sseldorf Hbf mit der S-Bahnlinie S1 und ab Wuppertal Hbf mit der S-Bahnlinie S7.</p>\n\n<p>In Hamm(Westf)Hbf werden die betroffenen Z&uuml;ge mit Z&uuml;gen der ICE-Relation D&uuml;sseldorf - Hannover - Berlin vereinigt. Durch die versp&auml;tete Ankunft der Z&uuml;ge aus K&ouml;ln sind leider auch die Z&uuml;ge der Relation D&uuml;sseldorf - Berlin von den Versp&auml;tungen betroffen.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "be",
+        "ni",
+        "nw"
+      ],
+      "lastModified": "26.08.2022 17:28",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 303
+    },
+    {
       "id": "2fe8bc7f-bb0d-4c9c-9d81-51de2f00abec",
       "headline": "Beeinträchtigungen zwischen Frankfurt(Main), Mainz und Wiesbaden",
       "newsType": "Personalausfall",
-      "timePeriod": "Vsl. bis einschließlich Sonntag, 28.August 2022",
+      "timePeriod": "Vsl. bis einschließlich Freitag, 02. September 2022",
       "introText": "<p>Aufgrund eines kurzfristigen Personalausfalles in Mainz-Bischofsheim kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
@@ -19,7 +44,7 @@
         "he",
         "rp"
       ],
-      "lastModified": "23.08.2022 12:26",
+      "lastModified": "26.08.2022 17:11",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 302
