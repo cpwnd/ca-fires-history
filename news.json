@@ -1,35 +1,34 @@
 {
   "news": [
     {
-      "id": "e9959eff-0da3-4bc1-a8c9-65d38de53655",
-      "headline": "Beeinträchtigungen zwischen Köln und Wuppertal",
-      "newsType": "Bauarbeiten",
-      "timePeriod": "Bis vsl. 28.08.2022 in den Vormittagsstunden",
-      "introText": "<p>Aufgrund von Bauarbeiten zwischen K&ouml;ln und Wuppertal kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten.</p>\n\n<p>Der Halt in Solingen Hbf entf&auml;llt. Ersatzweise halten diese Z&uuml;ge in D&uuml;sseldorf Hbf.</p>\n",
+      "id": "e3b1108d-0ab2-415a-bb17-81f9e286fa89",
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Aschaffenburg",
+      "newsType": "Erkrankung Personal",
+      "timePeriod": "ab 20:00 Uhr am Do, 25.08.2022 bis Fr, 26.08.2022 um 06:00 Uhr",
+      "introText": "<p>Aufgrund der Erkrankung von Personal ist das Stellwerk Kleinostheim auf der Strecke Hanau &ndash; Aschaffenburg unbesetzt. In Folge ist der Fernverkehr der Deutschen Bahn beeintr&auml;chtigt. Es kommt zu Versp&auml;tungen und Haltausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE-Züge Köln - Hannover - Berlin"
+        "Alle ICE/IC-Züge zwischen Frankfurt(M) und Aschaffenburg bzw. Würzburg werden in beiden Fahrtrichtungen umgeleitet und verspäten sich um etwa 20 Minuten. Der Halt Hanau Hbf entfällt."
       ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen die folgenden Reisealternativen:</strong></p>\n\n<p><strong>Solingen </strong>Hbf erreichen Sie ab K&ouml;ln, Wuppertal und D&uuml;sseldorf mit den verbliebenen Z&uuml;gen des Fernverkehrs, mit Z&uuml;gen des Regionalverkehrs sowie ab D&uuml;sseldorf Hbf mit der S-Bahnlinie S1 und ab Wuppertal Hbf mit der S-Bahnlinie S7.</p>\n\n<p>In Hamm(Westf)Hbf werden die betroffenen Z&uuml;ge mit Z&uuml;gen der ICE-Relation D&uuml;sseldorf - Hannover - Berlin vereinigt. Durch die versp&auml;tete Ankunft der Z&uuml;ge aus K&ouml;ln sind leider auch die Z&uuml;ge der Relation D&uuml;sseldorf - Berlin von den Versp&auml;tungen betroffen.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Reisende von/nach Hanau&nbsp;nutzen bitte den Halt Frankfurt(M) Hbf und zwischen Frankfurt(M) und Hanau Hbf die Regionalz&uuml;ge und S-Bahnen.<br />\n&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
       ],
       "areas": [
-        "be",
-        "ni",
-        "nw"
+        "by",
+        "he"
       ],
-      "lastModified": "26.08.2022 17:28",
+      "lastModified": "25.08.2022 18:14",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 303
+      "priorityValue": 302
     },
     {
       "id": "2fe8bc7f-bb0d-4c9c-9d81-51de2f00abec",
       "headline": "Beeinträchtigungen zwischen Frankfurt(Main), Mainz und Wiesbaden",
       "newsType": "Personalausfall",
-      "timePeriod": "Vsl. bis einschließlich Freitag, 02. September 2022",
+      "timePeriod": "Vsl. bis einschließlich Sonntag, 28.August 2022",
       "introText": "<p>Aufgrund eines kurzfristigen Personalausfalles in Mainz-Bischofsheim kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
@@ -44,34 +43,7 @@
         "he",
         "rp"
       ],
-      "lastModified": "26.08.2022 17:11",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 302
-    },
-    {
-      "id": "8ca2144d-30c0-4833-9de8-cd4ac2bf0bc3",
-      "headline": "Streikankündigung in den Niederlanden",
-      "newsType": "Streik",
-      "timePeriod": "Am Montag, den 29.08.2022",
-      "introText": "<p>Bei der niederl&auml;ndischen Bahn wurden ab Montag, den 29.08.2022, 4 Uhr morgens bis Dienstag, den 30.08.2022, 4 Uhr morgens <strong>Warnstreiks f&uuml;r die Region Amsterdam</strong> angek&uuml;ndigt. Dadurch wird es auch im internationalen Fernverkehr der Deutschen Bahn zu Einschr&auml;nkungen kommen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "ICE-Züge Frankfurt(M) - Köln - Amsterdam verkehren nur 3x am Tag.",
-        "IC-Züge Berlin - Bad Bentheim - Amsterdem fallen zwischen Bad Bentheim und Amsterdam aus.",
-        "NJ-Züge Zürich - Frankfurt(M) - Amsterdam fällt in den Nächten 28./29.08 und 29./30.08. zwischen Frankfurt(M) und Amsterdam aus.",
-        "NJ-Züge Innsbruck/Wien - Köln - Amsterdam fällt vom 28.08. morgens bis 30.08. abends zwischen Köln und Amsterdam aus."
-      ],
-      "closingText": "<p><em>Bitte verschieben Sie Ihre am 29.08.2022 in die Niederlande geplante Reise nach M&ouml;glichkeit auf einen anderen Tag oder nutzen Sie alternative Verkehrsmittel. Bei Zugausfall gelten die <a href=\"http://www.bahn.de/fahrgastrechte\" style=\"color:#0563c1; text-decoration:underline\">Fahrgastrechte im Bahnverkehr</a>.</em></p>\n\n<p><strong>Wir empfehlen Ihnen die folgenden Reisealternativen:</strong></p>\n\n<p>Zwischen <strong>Frankfurt(M), K&ouml;ln und Amsterdam</strong> verkehren nur vereinzelt ICE-Z&uuml;ge. Die folgenden Fahrten werden weiterhin angeboten und sollen planm&auml;&szlig;ig verkehren:</p>\n\n<p>Richtung Amsterdam: ICE 250, ICE 158 und ICE 156<br />\nRichtung Frankfurt(M): ICE 155, ICE 159 und ICE 251</p>\n\n<p>Zwischen <strong>Bad Bentheim und Hengelo&nbsp;</strong>verkehrt die RB-Linie 61 planm&auml;&szlig;ig. Bitte nutzen Sie zur Weiterreise ab Hengelo die noch verkehrenden niederl&auml;ndischen Z&uuml;ge.</p>\n\n<p>Bitte nutzen Sie f&uuml;r die ausfallenden <strong>Nightjet-Z&uuml;ge</strong> die noch verkehrenden ICE-Z&uuml;ge zwischen K&ouml;ln, Frankfurt(M) und Amsterdam.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten. Detaillierte Informationen finden Sie auf der <a href=\"https://www.ns.nl/\" style=\"color:#0563c1; text-decoration:underline\">Website der niederl&auml;ndischen Bahn</a>.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "ni",
-        "nw"
-      ],
-      "lastModified": "26.08.2022 13:56",
+      "lastModified": "23.08.2022 12:26",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 302
@@ -170,27 +142,6 @@
       "priorityValue": 102
     },
     {
-      "id": "b4955ed1-87f9-4937-b57b-634dc2d0a1ba",
-      "headline": "Zugausfälle auf der Linie RB14 ",
-      "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "27. und 28. August 2022",
-      "connectionsHeadline": "RB14 Berlin Ostbahnhof - Flughafen BER Terminal 1-2",
-      "connections": [],
-      "closingText": "<p>Aufgrund des erh&ouml;hten Krankenstandes fallen am 27. und 28. August 2022 alle Z&uuml;ge der Linie RB14 zwischen Flughafen BER Terminal 1-2 und Berlin Ostbahnhof in beide Richtungen aus.</p>\n\n<p>Bitte benutzen Sie als Ersatz die S-Bahn S9 oder die Z&uuml;ge des FEX in und aus Richtung Berlin Stadtzentrum.</p>\n\n<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "26.08.2022 16:46",
-      "author": "nordost",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "b9a53749-c359-48e7-b381-cd01985a71ed",
       "headline": "Verlängert: Zugausfälle auf der Linie RB23 (Potsdam Hbf - Michendorf)",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
@@ -206,28 +157,7 @@
         "be",
         "br"
       ],
-      "lastModified": "26.08.2022 15:41",
-      "author": "nordost",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
-      "id": "d95a4c80-330f-4bf1-a244-fcf63e711a6f",
-      "headline": "Zugausfälle auf der Linie RB24 Eberswalde - Bernau(b Berlin)",
-      "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "27. August 2022",
-      "introText": "<p>Wegen des erh&ouml;hten Krankenstandes beim Fahrpersonal fallen&nbsp;am 27. August 2022 folgende Z&uuml;ge der Linie RB24 zwischen Eberswalde und Bernau aus:</p>\n\n<p><strong>RE33754</strong>&nbsp;von Eberswalde Hbf (Abfahrt 06:14 Uhr) bis Bernau</p>\n\n<p><strong>RE33756</strong>&nbsp;von Eberswalde Hbf (Abfahrt 07:14 Uhr) bis Bernau</p>\n\n<p><strong>RE33758</strong>&nbsp;von Eberswalde Hbf (Abfahrt 08:10 Uhr) bis Bernau</p>\n\n<p><strong>RE33762</strong>&nbsp;von Eberswalde Hbf (Abfahrt 09:01 Uhr) bis Bernau</p>\n\n<p><strong>RE33766</strong>&nbsp;von Eberswalde Hbf (Abfahrt 10:09 Uhr) bis Bernau</p>\n\n<p><strong>RE33770</strong> von Eberswalde Hbf (Abfahrt 11:13 Uhr) bis Bernau&nbsp;</p>\n\n<p><strong>RE33772</strong> von Eberswalde Hbf (Abfahrt 12:14 Uhr) bis Bernau</p>\n\n<p><strong>RE33774</strong> ab Eberswalde Hbf (Abfahrt 13:08 Uhr) bis Bernau&nbsp;</p>\n\n<p><strong>RE33778 </strong>von Eberswalde Hbf (Abfahrt 15:01 Uhr) bis Bernau</p>\n\n<p><strong>RE33780</strong> von Eberswalde Hbf (Abfahrt 16:01 Uhr) bis Bernau</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RE33753</strong>&nbsp;von Bernau (Abfahrt 06:40 Uhr) bis Eberswalde Hbf&nbsp;</p>\n\n<p><strong>RE33755</strong>&nbsp;von Bernau (Abfahrt 07:40 Uhr) bis Eberswalde Hbf&nbsp;</p>\n\n<p><strong>RE33757</strong>&nbsp;von Bernau (Abfahrt 08:36 Uhr) bis Eberswalde Hbf&nbsp;</p>\n\n<p><strong>RE33761</strong>&nbsp;von Bernau (Abfahrt 09:29 Uhr) bis Eberswalde Hbf&nbsp;</p>\n\n<p><strong>RE33765</strong>&nbsp;von Bernau (Abfahrt 10:35 Uhr) bis Eberswalde Hbf</p>\n\n<p><strong>RE33769</strong> von Bernau (Abfahrt 11:40 Uhr) bis Eberswalde Hbf</p>\n\n<p><strong>RE33771</strong> von Bernau (Abfahrt 12:40 Uhr) bis Eberswalde Hbf</p>\n\n<p><strong>RE33773</strong> von Bernau (Abfahrt 13:34 Uhr) bis Eberswalde Hbf</p>\n\n<p><strong>RE33777</strong> von Bernau (Abfahrt 15:28 Uhr) bis Eberswalde Hbf</p>\n\n<p><strong>RE33779</strong>&nbsp;von Bernau (Abfahrt 16:28 Uhr) bis Eberswalde Hbf</p>\n\n<p><strong>Bitte nutzen Sie als Ersatz die Z&uuml;ge der Linie RE3.</strong></p>\n",
-      "connections": [],
-      "closingText": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "26.08.2022 19:50",
+      "lastModified": "18.08.2022 13:51",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -263,11 +193,10 @@
         "RB66 Lauterecken-Grumbach <> Kaiserslautern",
         "RB77 Dillingen(Saar) <> Niedaltdorf ",
         "RB52 Wörth <> Lauterbourg",
-        "RB53 Neustadt(Weinstr) <> Wissembourg",
         "RB54 Winden <> Bad Bergzabern"
       ],
       "download": {
-        "text": "<p><strong>RB66:&nbsp;</strong>Der Zugverkehr ist vom&nbsp;<strong>24.08. bis 26.08.2022 jeweils von 04:45 Uhr bis 13:30 Uhr&nbsp;</strong>eingestellt.<br />\nWir haben f&uuml;r Sie einen <strong>Busnotverkehr</strong>&nbsp;eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p><strong>RB77: </strong>Der Zugverkehr ist <strong>bis vsl. 29.08.2022&nbsp;</strong>eingestellt.<br />\nWir haben f&uuml;r Sie einen <strong>Busnotverkehr</strong>&nbsp;eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p><strong>RB52:&nbsp;</strong>Der Zugverkehr ist am <strong>27.08. bis 28.08.2022&nbsp;</strong>eingestellt.&nbsp;Wir haben f&uuml;r Sie einen<strong>&nbsp;Busnotverkehr zwischen W&ouml;rth(Rhein) und Lauterbourg</strong>&nbsp;mit allen Unterwegshalten eingerichtet.&nbsp;</p>\n\n<p><strong>RB53:&nbsp;</strong>Der Zugverkehr ist am <strong>27.08.2022 ab 13 Uhr&nbsp;</strong>eingestellt.&nbsp;Wir haben f&uuml;r Sie einen<strong>&nbsp;Busnotverkehr zwischen Neustadt(Weinstr) und Wissembourg</strong>&nbsp;mit allen Unterwegshalten eingerichtet.&nbsp;</p>\n\n<p><strong>RB54:&nbsp;</strong>Der Zugverkehr wird am <strong>27.08. bis 28.08.2022&nbsp;</strong>eingestellt.&nbsp;<br />\nWir haben f&uuml;r Sie einen <strong>Busnotverkehr</strong>&nbsp;eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n"
+        "text": "<p><strong>RB66:&nbsp;</strong>Der Zugverkehr ist vom&nbsp;<strong>24.08. bis 26.08.2022 jeweils von 04:45 Uhr bis 13:30 Uhr&nbsp;</strong>eingestellt.<br />\nWir haben f&uuml;r Sie einen <strong>Busnotverkehr</strong>&nbsp;eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p><strong>RB77: </strong>Der Zugverkehr ist <strong>bis vsl. 29.08.2022&nbsp;</strong>eingestellt.<br />\nWir haben f&uuml;r Sie einen <strong>Busnotverkehr</strong>&nbsp;eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p><strong>RB52:&nbsp;</strong>Der Zugverkehr ist am <strong>25.08.22</strong> sowie <strong>27.08. bis 28.08.2022&nbsp;</strong>eingestellt.&nbsp;Wir haben f&uuml;r Sie einen<strong>&nbsp;Busnotverkehr zwischen W&ouml;rth(Rhein) und Lauterbourg</strong>&nbsp;mit allen Unterwegshalten eingerichtet.&nbsp;</p>\n\n<p><strong>RB54:&nbsp;</strong>Der Zugverkehr wird am <strong>27.08. bis 28.08.2022&nbsp;</strong>eingestellt.&nbsp;<br />\nWir haben f&uuml;r Sie einen <strong>Busnotverkehr</strong>&nbsp;eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n"
       },
       "closingText": "<p>Bitte beachten Sie, dass der <strong>Busnotverkehr ohne festen Fahrplan verkehrt </strong>und eventuell nicht immer unmittelbar am Bahnhof halten kann.<br />\nDie Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;<br />\nDB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
       "priority": "0",
@@ -278,7 +207,7 @@
         "rp",
         "sl"
       ],
-      "lastModified": "26.08.2022 14:59",
+      "lastModified": "25.08.2022 21:48",
       "author": "mitte",
       "expand": false,
       "priorityValue": 102
@@ -318,35 +247,18 @@
     },
     {
       "id": "aefa1b8f-9226-4572-801d-3ae09a83a2b9",
-      "headline": "Vorübergehend reduziertes Fahrplanangebot und teilweise Schienenersatzverkehr bei der Westfrankenbahn",
+      "headline": "Vorübergehend reduziertes Fahrplanangebot bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
-      "introText": "<p>Aktuell gibt es Einschr&auml;nkungen und Zugausf&auml;lle auf der Tauberbahn, Hohenlohebahn und Madonnenlandbahn aufgrund erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal. Auf der Tauberbahn finden ab Montag 29. August zus&auml;tzlich Bauarbeiten mit Schienenersatzverkehr statt.</p>\n",
-      "connectionsHeadline": "Betroffene Strecken und Dauer:",
-      "connections": [
-        "Hohenlohebahn: bis voraussichtlich 7. September",
-        "Madonnenlandbahn: bis voraussichtlich 9. September",
-        "Tauberbahn: bis voraussichtlich 11. September, ab 29. August zusätzlich Schienenersatzverkehr"
-      ],
+      "timePeriod": "vorerst bis 09.09.2022",
+      "introText": "<p>Ab 1. August bis 9. September gibt es Montags bis Freitags Einschr&auml;nkungen und Zugausf&auml;lle auf der Tauberbahn aufgrund eines erh&ouml;hten Krankenstandes.</p>\n\n<p><strong>Ein Ersatzverkehr mit Bus f&uuml;r die ausfallenden Z&uuml;ge ist f&uuml;r Sie eingerichtet.</strong></p>\n\n<p>Die Fahrplantabellen zu den ausfallenden Z&uuml;gen und Schienenersatzverkehr finden Sie hier:&nbsp;</p>\n",
+      "connections": [],
       "download": {
-        "text": "<p>Die Fahrplantabellen zu den ausfallenden Z&uuml;gen und Schienenersatzverkehr finden Sie hier:&nbsp;</p>\n",
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:16ca918e-2ccb-40a8-ac1c-ec2389f3c60f/Hohenlohebahn_reduziertes%20Angebot%20bis%207.%20September.pdf",
-            "title": "Veränderter Fahrplan Hohenlohebahn bis zum 7. September (PDF, 101 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:9917952f-8f23-4350-8208-4f6da826f00f/Westfrankenbahn_reduziertes_Angebot_01082022_09092022_Stand_03082022.pdf",
+            "title": "Reduzierter Fahrplan Westfrankenbahn ab 01.08.2022 bis 09.09.2022 (PDF, 351 KB)",
             "info": "",
-            "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:300ffb9d-a843-44b6-859e-92547c53fcea/Madonnenlandbahn_reduziertes%20Angebot_(1.8.-9.9.22).pdf",
-            "title": "Veränderter Fahrplan Madonnenlandbahn bis zum 9. September (PDF, 110 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:26265587-2e6f-46dc-9a45-9f3fce066312/SEV%20Bad%20Mergentheim%20-%20Crailsheim%202908%20bis%201109.pdf",
-            "title": "Fahrplan des Schienenersatzverkehrs auf der Tauberbahn ab 29. August bis zum 11. September (PDF, 482 KB)",
-            "info": "",
-            "openInNewTab": true
+            "openInNewTab": false
           }
         ]
       },
@@ -359,7 +271,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "26.08.2022 16:19",
+      "lastModified": "19.08.2022 23:26",
       "expand": false,
       "priorityValue": 102
     },
@@ -393,29 +305,6 @@
       "priorityValue": 101
     },
     {
-      "id": "542c9e5c-667c-4b88-b908-a2a538b40191",
-      "headline": "kurzfristige Fahrplanänderungen bei der RB 33",
-      "newsType": "kurzfristige Personalausfälle mit Busnotverkehr zwischen Dresden-Neustadt und Königsbrück",
-      "timePeriod": "von Samstag 27.08.2022 bis Sonntag 28.08.2022",
-      "introText": "<p>Sehr geehrte Fahrg&auml;ste, bitte beachten Sie auf Grund kurzfristiger Personalausf&auml;lle ergeben sich Fahrplan&auml;nderungen auf dem Streckenabschnitt zwischen K&ouml;nigsbr&uuml;ck und Dresden-Neustadt. Leider haben wir aktuell die Zusage f&uuml;r einen Busnotverkehr nur bis 16 Uhr am Samstag und Sonntag durch unsere externe Partner bekommen.</p>\n\n<p>Ab 16 Uhr haben wir bisher noch keine Best&auml;tigung f&uuml;r einen Busnotverkehr. Wir bem&uuml;hen uns weiterhin einen Ersatzverkehr fortzuf&uuml;hren und aktualisieren diese Meldung, sobald uns Neuigkeiten vorliegen.</p>\n",
-      "connectionsHeadline": "Betroffene Linie:",
-      "connections": [
-        "RB 33 - Königsbrück - Dresden-Neustadt"
-      ],
-      "closingText": "<p>Folgender Hinweis: Der Busnotverkehr f&auml;hrt <strong>ausschlie&szlig;lich</strong> zwischen <strong>K&ouml;nigsbr&uuml;ck und Dresden-Klotzsche.</strong>&nbsp;Ab D-Klotzsche nutzen Sie bitte alternativ die Linie der S 2 oder vom Trilex und den &ouml;ffentlichen Personennahverkehr (TRAM + Bus).</p>\n\n<p><strong>K&ouml;nigsbr&uuml;ck - Dresden-Neustadt</strong></p>\n\n<p>alle zwei Stunden - <strong>zur ungeraden Stunde</strong> - entf&auml;llt die RB und wird durch einen Ersatzverkehr mit Bussen ersetzt, Abfahrt dann in K&ouml;nigsbr&uuml;ck jeweils zur Minute 49.&nbsp;</p>\n\n<p><strong>Dresden-Neustadt - K&ouml;nigsbr&uuml;ck</strong></p>\n\n<p>alle zwei Stunden - <strong>zur geraden Stunde</strong> - entf&auml;llt die RB und wird durch einen Ersatzverkehr mit Bussen ersetzt, Abfahrt in Dresden-Klotzsche zur Minute 58.</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft unter 030 297 0 zu informieren.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "sn"
-      ],
-      "lastModified": "26.08.2022 18:52",
-      "author": "suedost",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
       "id": "8c05e2d5-ff19-4944-8bfe-7903141c3196",
       "headline": "Zugausfälle zwischen Nordhausen und Erfurt - Linien RE 55/56",
       "newsType": "fehlendem Stellwerkspersonal ",
@@ -429,18 +318,6 @@
             "title": "Fahrplan Busnotverkehr ab 22.08. bis 26.08.2022 (PDF, 363 KB)",
             "info": "",
             "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:4d8aee92-0cf2-4342-91fe-988ac0c0553a/BNV%20Ringleben-Gebesee%20-%20Sondershausen%2027.08%20Sa%20Stand%2023-08.pdf",
-            "title": "BNV Ringleben-Gebesee - Sondershausen 27.08 (PDF, 85 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:2d6b2951-f17d-46ed-b263-7e4facde4ae4/BNV%20Ringleben-Gebesee%20-%20Sondershausen%2028.08%20So%20Stand%2023-08.pdf",
-            "title": "BNV Ringleben-Gebesee - Sondershausen 28.08 (PDF, 84 KB)",
-            "info": "",
-            "openInNewTab": false
           },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:727b1e51-cc34-4cd8-8046-0091851dac95/2022_Liniennetzplakat%20Nordhausen.pdf",
@@ -458,7 +335,7 @@
       "areas": [
         "th"
       ],
-      "lastModified": "26.08.2022 10:56",
+      "lastModified": "21.08.2022 23:47",
       "author": "suedost",
       "expand": false,
       "priorityValue": 101
@@ -1035,7 +912,7 @@
       "headline": "Personalausfälle bei der SNCF. Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
       "newsType": "Personalausfälle",
       "timePeriod": "bis voraussichtlich Sonntag, 11. September 2022",
-      "introText": "<p>Ein Ersatzverkehr mit Bus zwischen M&uuml;llheim(Baden) und Mulhouse Ville eingerichtet.</p>\n\n<p>Abfahrtszeiten der Busse finden Sie hier im Fahrplan weiter unten.</p>\n\n<p>Der Fahrplan ist in der Reiseauskunft auf www.bahn.de und in der DB Navigator App abrufbar.&nbsp;</p>\n",
+      "introText": "<p>Ein Ersatzverkehr mit Bus zwischen M&uuml;llheim(Baden) und Mulhouse Ville eingerichtet.</p>\n\n<p>Abfahrtszeiten der Busse finden Sie hier im Fahrplan weiter unten.</p>\n\n<p>Der Fahrplan ist in der Reiseauskunft ab Freitag, 26. August auf www.bahn.de und in der DB Navigator App abrufbar.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Strecke:",
       "connections": [
         "RB 107: Müllheim(Baden) - Mulhouse Ville"
@@ -1058,7 +935,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "26.08.2022 05:19",
+      "lastModified": "25.08.2022 11:40",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
