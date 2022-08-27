@@ -5,7 +5,7 @@
       "headline": "Beeinträchtigungen zwischen Köln und Wuppertal",
       "newsType": "Bauarbeiten",
       "timePeriod": "Bis vsl. 28.08.2022 in den Vormittagsstunden",
-      "introText": "<p>Aufgrund von Bauarbeiten zwischen K&ouml;ln und Wuppertal kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten.</p>\n\n<p>Der Halt in Solingen Hbf entf&auml;llt. Ersatzweise halten diese Z&uuml;ge in D&uuml;sseldorf Hbf.</p>\n",
+      "introText": "<p>Aufgrund von Bauarbeiten zwischen K&ouml;ln und Wuppertal kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten.</p>\n\n<p>Der Halt in Solingen Hbf kann entfallen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "ICE-Züge Köln - Hannover - Berlin"
@@ -20,7 +20,7 @@
         "ni",
         "nw"
       ],
-      "lastModified": "26.08.2022 17:28",
+      "lastModified": "27.08.2022 03:09",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 303
@@ -918,6 +918,41 @@
       "priorityValue": 101
     },
     {
+      "id": "b4802940-b4f8-409d-84ea-8060893a2ae6",
+      "headline": "Beeinträchtigungen zwischen Crailsheim und Blaufelden",
+      "newsType": "Krankheitsbedingter Personalausfall im Stellwerk ",
+      "timePeriod": "29. August bis 11. September",
+      "introText": "<p>Kein Zugverkehr zwischen Crailsheim und Blaufelden m&ouml;glich. Ersatzverkehr mit Bus ist eingerichtet. Den Ersatzfahrplan finden Sie im Anhang.</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "RE 87: Crailsheim - Bad Mergentheim - Aschaffenburg",
+        "RB 88: Crailsheim - Bad Mergentheim - Wertheim"
+      ],
+      "download": {
+        "text": "<p>Ersatzfahrplan Bad Mergentheim - Blaufelden - Crailsheim:</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:5e367061-680f-42ba-810f-b4542a934f1e/Fahrplan%20Bad%20Mergentheim%20-%20Crailsheim.pdf",
+            "title": "Fahrplan Bad Mergentheim - Crailsheim.pdf (PDF, 423 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "27.08.2022 02:52",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "fab41b5b-4af9-4118-a000-7ab7b418f495",
       "headline": "Eingeschränkte Fahrradmitnahme in den Zügen von der DB Regio Baden-Württemberg",
       "newsType": "Hohe Auslastung",
@@ -954,7 +989,7 @@
       "id": "4a7bf2c3-20eb-4fd1-8322-c023af71fd84",
       "headline": "Sonntags-Stundentakt zwischen Gottenheim - Endingen",
       "newsType": "Erhöhter Krankenstand",
-      "timePeriod": "im Zeitraum zwischen 31.07.22 bis vorerst 11.09.22, jeweils am Sonntag",
+      "timePeriod": "bis vorerst 11.09.22, jeweils am Sonntag",
       "introText": "<p>Zwischen Gottenheim und Endingen am Kaiserstuhl entf&auml;llt der Halbstundentakt der S11 mit der Abfahrt in Gottenheim ab 09:02 ( bis 18:02 Uhr) und in Gegenrichtung ab Endingen am Kaiserstuhl mit der Abfahrt ab 09:31 ( bis 18:31 Uhr). Bitte nutzen Sie die verbleibenden&nbsp;S-Bahnen der Linie S11, mit Abfahrt in Gottenheim zur Minute 32 und ab Endingen am Kaiserstuhl zur Minute 01.&nbsp;</p>\n\n<p>Der angepasste Fahrplan ist in der Reiseauskunft auf www.bahn.de und der DB Navigator App abrufbar.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Verbindungen:",
       "connections": [
@@ -968,7 +1003,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "25.08.2022 19:47",
+      "lastModified": "27.08.2022 03:20",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
@@ -977,7 +1012,7 @@
       "id": "d6eb800b-edbc-4cdd-b9be-861db09a1ebb",
       "headline": "Stundentakt zwischen Schaffhausen und Singen(Hohentwiel)",
       "newsType": "Erhöhter Krankenstand",
-      "timePeriod": "ab 28.07.22 bis vorerst 11. September 2022",
+      "timePeriod": "bis vorerst 11. September 2022",
       "introText": "<p>Zwischen Schaffhausen und Singen(Hohentwiel) entf&auml;llt der Halbstundentakt der Regionalbahnen(RB33). Bitte nutzen Sie ab Schaffhausen die verbleibende Regionalbahnen, mit Abfahrt in Schaffhausen zur Minute 07 und ab Singen(Hohentwiel) zur Minute 36.</p>\n\n<p>Wir haben einen Schienenersatzverkehr mit Bus zwischen Bietingen und Singen(Hohentwiel) mit Halt in Gottmadingen f&uuml;r fast alle ausfallenden Z&uuml;ge eingerichtet.&nbsp;</p>\n\n<p>Zus&auml;tzlich f&auml;hrt ab dem 22. August jeweils um 22:37 Uhr und 23:37 Uhr ein Bus von Schaffhausen bis Thayngen und um 23:16 Uhr ein Bus von Thayngen nach Schaffhausen.</p>\n\n<p>Direktreisende zwischen Schaffhausen und Singen(Hohentwiel) nutzen, wenn m&ouml;glich auch die Interregio-Express Z&uuml;ge (IRE3).</p>\n",
       "connectionsHeadline": "Betroffene Verbindungen:",
       "connections": [
@@ -1002,7 +1037,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "22.08.2022 02:21",
+      "lastModified": "27.08.2022 03:19",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
@@ -1067,7 +1102,7 @@
       "id": "9fc00cf2-46a9-48d0-86b3-8128377e6a8a",
       "headline": "Veränderter Fahrplan zwischen Plochingen und Bisingen",
       "newsType": "Erhöhter Krankenstand",
-      "timePeriod": "ab Montag, 22. August bis Sonntag, 11. September 2022",
+      "timePeriod": "bis Sonntag, 11. September 2022",
       "introText": "<p>Nutzen Sie zwischen Plochingen - T&uuml;bingen - Bisingen ersatzweise die SWEG-Z&uuml;ge der Linie RB 18 und HZL RB 66. Bitte informieren Sie sich fr&uuml;hzeitig &uuml;ber Ihre Reiseverbindungen.&nbsp;</p>\n\n<p>Der Fahrplan ist in der Reiseauskunft auf www.bahn.de und in der DB Navigator App abrufbar.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
@@ -1081,7 +1116,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "19.08.2022 22:53",
+      "lastModified": "27.08.2022 03:11",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
@@ -1090,7 +1125,7 @@
       "id": "fdcebaee-bbd7-4d9c-af1e-d43114b34b15",
       "headline": "Veränderter Fahrplan zwischen Ulm und Friedrichshafen",
       "newsType": "Reparatur an mehreren Zügen",
-      "timePeriod": "ab 08.08.22 bis 11.09.22 von Montags bis Freitags",
+      "timePeriod": "bis 11.09.22 von Montags bis Freitags",
       "introText": "<p>An Werktagen kommt es zu Fahrplan&auml;nderungen, bitte informieren Sie sich fr&uuml;hzeitig &uuml;ber Ihre Reiseverbindung.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
@@ -1107,7 +1142,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "16.08.2022 12:43",
+      "lastModified": "27.08.2022 03:11",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
@@ -1150,7 +1185,7 @@
       "id": "675d33ad-d555-4b72-a594-26a4517e3d9e",
       "headline": "Veränderter Fahrplan auf der Rheintalbahn",
       "newsType": "Erhöhter Krankenstand",
-      "timePeriod": "ab Montag, den 1. August bis voraussichtlich Sonntag, den 11. September",
+      "timePeriod": "bis voraussichtlich Sonntag, den 11. September",
       "introText": "<p>An Werk- und Samstagen kommt es zu Fahrplan&auml;nderungen und Schienenersatzverkehr.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
@@ -1166,7 +1201,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "25.08.2022 19:52",
+      "lastModified": "27.08.2022 03:10",
       "expand": false,
       "priorityValue": 101
     },
