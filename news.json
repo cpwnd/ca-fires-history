@@ -380,7 +380,7 @@
       "headline": "Nochmals verlängert - Zugausfälle RB17 (Wismar - Ludwigslust)",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "bis vsl. 02. September 2022 (Mo-Fr)",
-      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal&nbsp;fallen<strong> einige Z&uuml;ge</strong> auf der Linie RB17 im genannten Zeitraum von Montags bis Freitags im Abschnitt<strong>&nbsp;Wismar - Ludwigslust</strong> in beide Richtungen aus.&nbsp;</p>\n\n<p>RB 13150 Ludwigslust &ndash; Wismar&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />\nRB 13158 Ludwigslust &ndash; Wismar&nbsp;<br />\nRB 13162 Ludwigslust &ndash; Wismar<br />\nRB 13170 Ludwigslust &ndash; Wismar&nbsp;<br />\nRB 13176 Ludwigslust &ndash; Wismar&nbsp;<br />\nRB 13180 Ludwigslust &ndash; Schwerin&nbsp; &nbsp; &nbsp; &nbsp;</p>\n\n<p>RB 13153 Wismar &ndash; Ludwigslust<br />\nRB 13159 Wismar &ndash; Ludwigslust<br />\nRB 13163 Wismar &ndash; Ludwigslust<br />\nRB 13171 Wismar &ndash; Ludwigslust<br />\nRB 13177 Wismar &ndash; Ludwigslust&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\n\n<p>Benutzen Sie bitte die Z&uuml;ge der RE2 als Ersatz.</p>\n",
+      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Fahrpersonal&nbsp;fallen<strong> einige Z&uuml;ge</strong> auf der Linie RB17 im genannten Zeitraum von Montags bis Freitags im Abschnitt<strong>&nbsp;Wismar - Ludwigslust</strong> in beide Richtungen aus.&nbsp;</p>\n\n<p>RB 13150 Schwerin - Wismar&nbsp; &nbsp; &nbsp; &nbsp;(Schwerin Hbf ab 05:39 Uhr nach Wismar)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<br />\nRB 13158 Ludwigslust &ndash; Wismar&nbsp; (Ludwigslust ab 08:25 Uhr nach Wismar)<br />\nRB 13162 Ludwigslust &ndash; Wismar&nbsp; (Ludwigslust ab 12:25 Uhr nach Wismar)<br />\nRB 13170 Ludwigslust &ndash; Wismar&nbsp; (Ludwigslust ab 16:25 Uhr nach Wismar)<br />\nRB 13176 Ludwigslust &ndash; Wismar&nbsp; (Ludwigslust ab 20:25 Uhr nach Wismar)<br />\nRB 13180 Ludwigslust &ndash; Schwerin (Ludwigslust ab 23:56 Uhr nach Schwerin Hbf)&nbsp; &nbsp; &nbsp;</p>\n\n<p>RB 13153 Wismar &ndash; Ludwigslust (Wismar ab 06:24 Uhr nach Ludwigslust)<br />\nRB 13159 Wismar &ndash; Ludwigslust (Wismar ab 10:24 Uhr nach Ludwigslust)<br />\nRB 13163 Wismar &ndash; Ludwigslust (Wismar ab 14:24 Uhr nach Ludwigslust)<br />\nRB 13171 Wismar &ndash; Ludwigslust (Wismar ab 18:24 uhr nach Ludwigslust)<br />\nRB 13177 Wismar &ndash; Ludwigslust (Wismar ab 22:24 Uhr nach Ludwigslust)&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\n\n<p>Benutzen Sie bitte die Z&uuml;ge der RE2 als Ersatz.</p>\n",
       "connections": [],
       "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"http://DB Streckenagent\">DB Streckenagent</a>&nbsp;oder im&nbsp;<a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
       "priority": "0",
@@ -390,7 +390,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "25.08.2022 13:34",
+      "lastModified": "31.08.2022 13:55",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
@@ -983,6 +983,40 @@
         "bw"
       ],
       "lastModified": "27.08.2022 03:10",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "43e882c2-7cef-4e82-a339-04aa0ca0f03c",
+      "headline": "Personalausfälle bei der SNCF. Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
+      "newsType": "Personalausfälle",
+      "timePeriod": "bis voraussichtlich Sonntag, 11. September 2022",
+      "introText": "<p>Ein Ersatzverkehr mit Bus zwischen M&uuml;llheim(Baden) und Mulhouse Ville eingerichtet.</p>\n\n<p>Der Fahrplan ist in der Reiseauskunft auf www.bahn.de und in der DB Navigator App abrufbar.&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffene Strecke:",
+      "connections": [
+        "RB 107: Müllheim(Baden) - Mulhouse Ville"
+      ],
+      "download": {
+        "text": "<p>Abfahrtszeiten der Busse finden Sie hier:</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:d2d0ce67-513f-4368-a55d-5b6a8251f8fe/SEV%20SNCF%20Blauwal%20bis%20110922.pdf",
+            "title": "SEV-Fahrplan Müllheim(Baden) - Mulhouse Ville bis 11. September (PDF, 1 MB)",
+            "info": "SEV-Fahrplan Müllheim(Baden) - Mulhouse Ville bis 11. September",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung insbesondere aufgrund der l&auml;ngeren Fahrzeiten der Busse mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "31.08.2022 14:48",
+      "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
     },
