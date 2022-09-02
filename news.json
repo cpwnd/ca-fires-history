@@ -37,27 +37,30 @@
       "priorityValue": 316
     },
     {
-      "id": "dff7df80-f28d-417b-8667-f17b69c52373",
-      "headline": "Beeinträchtigungen zwischen Frankfurt (Main), Marburg (Lahn) und Kassel",
-      "newsType": "Streckensperrung",
-      "timePeriod": "Vsl. bis Freitag, 02.09.2022 in die Nachtstunden",
-      "introText": "<p>Aufgrund der Reparatur der Strecke nach einem Unfall bei Kirchhain auf der Strecke Kassel &ndash; Marburg (Lahn) ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Haltausf&auml;llen.</p>\n",
+      "id": "2c85778b-bb65-42cf-93a3-168b474cc5b5",
+      "headline": "Verspätungen zwischen Hamburg und Ludwigslust",
+      "newsType": "Reparatur an der Weiche",
+      "timePeriod": "Heute, 02.09.2022 bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Weiche zwischen Hamburg ud Ludwigslust kommt es im Fernverkehr der Deutschen Bahn zu Beeintr&auml;chtigung. Der betroffene Streckenabschnitt ist eingleisig befahrbar, dadurch versp&auml;ten sich einzelne Z&uuml;ge zwischen Hamburg und Berlin um etwa 20 Minuten.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle ICE-/IC-Züge zwischen Frankfurt (Main) und Kassel, die planmäßig über Gießen und Marburg (Lahn) verkehren, werden in beiden Fahrtrichtungen umgeleitet. Die Halte in Friedberg (Hess), Gießen, Marburg (Lahn), Treysa und Wabern (Bz Kassel) entfallen."
+        "Alle ICE IC/EC Züge Berlin - Hamburg"
       ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen die folgenden Reisealternativen:</strong></p>\n\n<p>Reisende von/nach Marburg (Lahn), Gie&szlig;en und Friedberg (Hess) nutzen bitte die Regionalz&uuml;ge nach/ab Frankfurt (M).</p>\n\n<p>Reisende von/nach Wabern (Bz Kassel) und Treysa&nbsp;nutzen bitte die Regionalz&uuml;ge nach/ab Kassel-Wilhelmsh&ouml;he.<br />\n&nbsp;</p>\n\n<p>Unser Personal vor Ort arbeitet unter Hochdruck an der St&ouml;rungsbeseitigung.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
+      "closingText": "<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
       "distance": [
         "longDistance"
       ],
       "areas": [
-        "he"
+        "br",
+        "hh",
+        "mv",
+        "sh"
       ],
-      "lastModified": "01.09.2022 18:00",
+      "lastModified": "02.09.2022 10:23",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 301
+      "priorityValue": 204
     },
     {
       "id": "2fe8bc7f-bb0d-4c9c-9d81-51de2f00abec",
@@ -113,7 +116,7 @@
       "headline": "Beeinträchtigung zwischen Darmstadt und Frankfurt(M) ",
       "newsType": "Reparatur an der Strecke",
       "timePeriod": "Heute, 02.09.2022 bis in die Mittagsstunden",
-      "introText": "<p>Aufgrund einer Streckenst&ouml;rung in Langen(Hessen) ist der Streckenabschnitt zwischen Darmsatdt und Frankfurt(M) derzeit beeintr&auml;chtigt. Dadurch versp&auml;ten sich einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn um etwa 20 Minuten.</p>\n\n<p>Betroffen ist nur die Reation aus Darmstadt in Richtung Frankfurt(M) Hbf.</p>\n",
+      "introText": "<p>Aufgrund einer Streckenst&ouml;rung in Langen(Hessen) ist der Streckenabschnitt zwischen Darmstadt und Frankfurt(M) derzeit beeintr&auml;chtigt. Dadurch versp&auml;ten sich einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn um etwa 40 Minuten.</p>\n\n<p>Betroffen ist nur die Relation aus Darmstadt in Richtung Frankfurt(M) Hbf.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "Alle ICE, IC/EC Züge aus Richtung Weinheim(Brstr) - Darmstadt  nach Frankfurt(M)"
@@ -126,7 +129,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "02.09.2022 09:45",
+      "lastModified": "02.09.2022 10:24",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
