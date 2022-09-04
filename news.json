@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "id": "fc35deff-f15d-424f-9a0d-7f884e4c65de",
+      "headline": "Verspätungen zwischen Bielefeld und Hamm (Westf.) ",
+      "newsType": "Weichenstörung",
+      "timePeriod": "Heute, 04.09.2022 bis in die Abendstunden",
+      "introText": "<p>Aufgrund einer Weichenst&ouml;rung zwischen Bielefeld und Hamm (Westf.) kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Da der betroffene Streckenabschnitt nur eingleisig befahrbar ist, versp&auml;ten sich einzelne Z&uuml;ge um etwa 20 Minuten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE, IC/EC-Züge zwischen Bielefeld - Hamm (Westf.) - Dortmund/Wuppertal"
+      ],
+      "closingText": "<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "ni",
+        "nw"
+      ],
+      "lastModified": "04.09.2022 17:16",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 202
+    },
+    {
       "id": "312bc0d2-7260-4196-bca0-928db5efccbd",
       "headline": "Werdenfelsbahn: Strecke zwischen Murnau - Garmisch-Partenkirchen - Mittenwald weiterhin gesperrt",
       "newsType": "Beeinträchtigungen ",
@@ -22,6 +46,29 @@
       ],
       "lastModified": "21.08.2022 11:03",
       "author": "bayern",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
+      "id": "782da1ab-441c-4195-8420-d2a100359dd0",
+      "headline": "Streckensperrung zwischen Offenburg und Freiburg (Breisgau)",
+      "newsType": "Notarzteinsatz",
+      "timePeriod": "Heute, 04.09.2022 bis in die frühen Abendstunden",
+      "introText": "<p>Aufgrund eines Notarzteinsatzes ist die Strecke zwischen Offenburg und Freiburg (Breisgau) derzeit gesperrt. Es kommt zu Zug- und Haltausf&auml;llen.</p>\n\n<p>Z&uuml;ge in Richtung Norden beginnen in Offenburg und Karlsruhe Hbf. Z&uuml;ge in Richtung Schweiz enden in Karlsruhe Hbf und Offenburg.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE, TGV, IC/EC-Züge zwischen Karlsruhe - Offenburg/Frankreich - Freiburg (Breisgau)"
+      ],
+      "closingText": "<p>Leider kann ein Ersatzverkehr mit Bussen nicht eingerichtet werden.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "04.09.2022 17:23",
+      "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
     },
