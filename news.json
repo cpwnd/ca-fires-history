@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "id": "96e70c23-fa2e-4779-a2c6-95a5644c5491",
+      "headline": "Informationen zur Weiterreise mit der Bahn bei Flugausfall",
+      "newsType": "Streik",
+      "timePeriod": "Von Mittwoch den 07.09.2022 bis Donnerstag den 08.09.2022",
+      "introText": "<p>Aufgrund eines Streikaufrufs der Gewerkschaft Vereinigung Cockpit f&uuml;r die Piloten der Lufthansa kann es zu einem erh&ouml;hten Reisendenaufkommen in den Fernverkehrsz&uuml;gen der Deutschen Bahn kommen.&nbsp;</p>\n\n<p>Flugreisende, die von einem Flugausfall betroffen sind, wenden sich bitte an ihre Airline, um die M&ouml;glichkeiten f&uuml;r ihre Weiterreise zu kl&auml;ren.</p>\n",
+      "connections": [],
+      "closingText": "<p>F&uuml;r die Fahrt mit Fernz&uuml;gen der Deutschen Bahn ist ein Gutschein der Airline (&ldquo;Good for Train&rdquo;) oder ein regul&auml;res DB-Ticket erforderlich.</p>\n\n<p><strong>Wir empfehlen Ihnen eine (kostenpflichtige) Sitzplatzreservierung</strong>, da wir bundesweit eine h&ouml;here Auslastung in unseren Z&uuml;gen erwarten. Die Buchung einer einzelnen Reservierung ist&nbsp;<a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?amp=&amp;rit=yes\">&uuml;ber die Reiseauskunft</a>&nbsp;m&ouml;glich.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" target=\"_blank\">bahn.de</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3DL01_S01_D001_KIN0057_-_bahndeaktuell_LZ06?target%3D_blank\">DB Navigator</a>&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "regional",
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
+      ],
+      "lastModified": "06.09.2022 05:01",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 316
+    },
+    {
       "id": "4d5ef82e-e733-49a4-bcdf-b72bedffcf88",
       "headline": "Verspätung zwischen Hannover und Braunschweig/Wolfsburg",
       "newsType": "Reparatur an der Weiche",
@@ -70,6 +106,27 @@
       "lastModified": "21.03.2022 18:12",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "b4955ed1-87f9-4937-b57b-634dc2d0a1ba",
+      "headline": "Zugausfälle auf der Linie RB14 ",
+      "newsType": "Ausfall im Zusammenhang mit Bauarbeiten",
+      "timePeriod": "06. September 2022",
+      "connectionsHeadline": "RB14 Berlin Ostbahnhof - Flughafen BER Terminal 1-2",
+      "connections": [],
+      "closingText": "<p>Im Zusammenhang mit Bauarbeiten fallen am 6. September 2022 alle Z&uuml;ge der Linie RB14 zwischen Flughafen BER Terminal 1-2 und Berlin Ostbahnhof in beide Richtungen aus.</p>\n\n<p>Bitte benutzen Sie als Ersatz die S-Bahn S9 oder die Z&uuml;ge des FEX in und aus Richtung Berlin Stadtzentrum.</p>\n\n<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "06.09.2022 06:04",
+      "author": "nordost",
+      "expand": false,
       "priorityValue": 102
     },
     {
