@@ -1,31 +1,30 @@
 {
   "news": [
     {
-      "id": "4d5ef82e-e733-49a4-bcdf-b72bedffcf88",
-      "headline": "Verspätung zwischen Hannover und Braunschweig/Wolfsburg",
+      "id": "5139f75f-fe76-4aba-b12c-a069723b5991",
+      "headline": "Beeinträchtigungen zwischen Frankfurt(Main) und Hanau",
       "newsType": "Reparatur an der Weiche",
-      "timePeriod": "Bis einschließlich Donnerstag, 08.09.2022",
-      "introText": "<p>Aufgrund einer Reparatur an der Weiche in Lehrte kommt es zwischen Hannover und Braunschweig sowie Hannover und Wolfsburg im Fernverkehr der Deutschen Bahn derzeit zu zus&auml;tzlichen Versp&auml;tungen von etwa 20 Minuten.</p>\n",
+      "timePeriod": "Bis Mittwoch, 07.09.2022 in den Morgenstunden",
+      "introText": "<p>Aufgrund einer Reparatur an einer Weiche in Frankfurt(Main)S&uuml;d kommt es zwischen Frankfurt(Main) und Hanau im Fernverkehr der Deutschen Bahn derzeit zu zus&auml;tzlichen Versp&auml;tungen von etwa&nbsp;<u><strong>20 Minuten</strong></u>.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE - Züge Berlin - Hannover - NRW",
-        "IC - Züge Berlin - Hannover - Niederlande",
-        "IC - Züge Dresden / Leipzig - Magdeburg - Hannover - NRW / Emden "
+        "IC/ICE-Züge zwischen Frankfurt(Main) und Aschaffenburg",
+        "IC/ICE-Züge zwischen Frankfurt(Main) und Hanau",
+        "IC/ICE-Züge zwischen Frankfurt(Main) und Fulda/Kassel-Wilhelmshöhe"
       ],
       "closingText": "<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
+      "priority": "2",
       "distance": [
         "longDistance"
       ],
       "areas": [
-        "ni",
-        "nw",
-        "st"
+        "by",
+        "he"
       ],
-      "lastModified": "05.09.2022 12:27",
+      "lastModified": "06.09.2022 18:13",
       "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 203
+      "expand": true,
+      "priorityValue": 302
     },
     {
       "id": "312bc0d2-7260-4196-bca0-928db5efccbd",
@@ -50,6 +49,29 @@
       "lastModified": "21.08.2022 11:03",
       "author": "bayern",
       "expand": false,
+      "priorityValue": 201
+    },
+    {
+      "id": "4d5ef82e-e733-49a4-bcdf-b72bedffcf88",
+      "headline": "Verspätung zwischen Hannover und Braunschweig",
+      "newsType": "Reparatur an der Weiche",
+      "timePeriod": "Bis einschließlich Donnerstag, 08.09.2022",
+      "introText": "<p>Aufgrund einer Reparatur an der Weiche in Lehrte kommt es zwischen Hannover und Braunschweig im Fernverkehr der Deutschen Bahn derzeit zu zus&auml;tzlichen Versp&auml;tungen von etwa <u><strong>20 Minuten</strong></u>.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "IC/ICE-Züge zwischen Hannover und Braunschweig"
+      ],
+      "closingText": "<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "ni"
+      ],
+      "lastModified": "06.09.2022 18:08",
+      "author": "fernverkehr_ag",
+      "expand": true,
       "priorityValue": 201
     },
     {
