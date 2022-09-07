@@ -193,10 +193,9 @@
       "id": "aefa1b8f-9226-4572-801d-3ae09a83a2b9",
       "headline": "Vorübergehend reduziertes Fahrplanangebot und teilweise Schienenersatzverkehr bei der Westfrankenbahn",
       "newsType": "erhöhter Krankenstand beim Fahrpersonal",
-      "introText": "<p>Aktuell gibt es Einschr&auml;nkungen und Zugausf&auml;lle auf der Tauberbahn, Hohenlohebahn und Madonnenlandbahn, sowie der Kahlgrundbahn ab dem 13. September aufgrund erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal. Auf der Tauberbahn finden zus&auml;tzlich Bauarbeiten mit Schienenersatzverkehr statt.</p>\n",
+      "introText": "<p>Aktuell gibt es Einschr&auml;nkungen und Zugausf&auml;lle auf der Tauberbahn und der Madonnenlandbahn, sowie ab 13. September auch auf der Kahlgrundbahn aufgrund erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal. Auf der Tauberbahn finden zus&auml;tzlich Bauarbeiten mit Schienenersatzverkehr statt.</p>\n",
       "connectionsHeadline": "Betroffene Strecken und Dauer:",
       "connections": [
-        "Hohenlohebahn: bis voraussichtlich 7. September",
         "Madonnenlandbahn: bis voraussichtlich 9. September",
         "Tauberbahn: bis voraussichtlich 11. September, ab 29. August zusätzlich Schienenersatzverkehr",
         "Kahlgrundbahn: vom 13. September bis 30. Oktober"
@@ -204,12 +203,6 @@
       "download": {
         "text": "<p>Die Fahrplantabellen zu den ausfallenden Z&uuml;gen und Schienenersatzverkehr finden Sie hier:&nbsp;</p>\n",
         "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:16ca918e-2ccb-40a8-ac1c-ec2389f3c60f/Hohenlohebahn_reduziertes%20Angebot%20bis%207.%20September.pdf",
-            "title": "Veränderter Fahrplan Hohenlohebahn bis zum 7. September (PDF, 101 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:300ffb9d-a843-44b6-859e-92547c53fcea/Madonnenlandbahn_reduziertes%20Angebot_(1.8.-9.9.22).pdf",
             "title": "Veränderter Fahrplan Madonnenlandbahn bis zum 9. September (PDF, 110 KB)",
@@ -239,7 +232,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "01.09.2022 13:55",
+      "lastModified": "07.09.2022 23:57",
       "expand": false,
       "priorityValue": 102
     },
@@ -365,24 +358,6 @@
       ],
       "lastModified": "11.08.2022 16:25",
       "author": "schleswig_holstein",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "790c2204-798d-4813-a527-cc21da7c2971",
-      "headline": "Zugausfälle auf der Linie RB23",
-      "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "07.09.2022",
-      "introText": "<p><strong>RB23 Potsdam - Michendorf</strong></p>\n\n<p>Aufgrund des erh&ouml;hten Krankenstandes beim Fahrpersonal fallen die Z&uuml;ge der Linie RB23 zwischen Potsdam und Michendorf in beide Richtungen aus. Bitte benutzen Sie als Ersatz die Busse der Linien X43 oder 643.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"http://DB Streckenagent\">DB Streckenagent</a>&nbsp;oder im&nbsp;<a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
-      "connections": [],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "br"
-      ],
-      "lastModified": "07.09.2022 05:40",
       "expand": false,
       "priorityValue": 101
     },
