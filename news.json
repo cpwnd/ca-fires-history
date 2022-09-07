@@ -766,10 +766,10 @@
     },
     {
       "id": "9fc00cf2-46a9-48d0-86b3-8128377e6a8a",
-      "headline": "Veränderter Fahrplan zwischen Plochingen und Bisingen",
+      "headline": "Veränderter Fahrplan zwischen Stuttgart und Bisingen",
       "newsType": "Erhöhter Krankenstand",
-      "timePeriod": "bis Sonntag, 11. September 2022",
-      "introText": "<p>Nutzen Sie zwischen Plochingen - T&uuml;bingen - Bisingen ersatzweise die SWEG-Z&uuml;ge der Linie RB 18 und HZL RB 66. Bitte informieren Sie sich fr&uuml;hzeitig &uuml;ber Ihre Reiseverbindungen.&nbsp;</p>\n\n<p>Der Fahrplan ist in der Reiseauskunft auf www.bahn.de und in der DB Navigator App abrufbar.&nbsp;</p>\n",
+      "timePeriod": "bis Freitag, 14. Oktober 2022",
+      "introText": "<p>Die Z&uuml;ge der Linie IRE 6a fallen zwischen Stuttgart und Bisingen aus. Nutzen Sie zwischen Stuttgart - T&uuml;bingen - Bisingen ersatzweise die SWEG-Z&uuml;ge der Linie RB 18 und HZL RB 66. Bitte informieren Sie sich fr&uuml;hzeitig &uuml;ber Ihre Reiseverbindungen.&nbsp;</p>\n\n<p>Der Fahrplan ist in der Reiseauskunft auf z.B. www.bahn.de und im DB Navigator bis einschlie&szlig;lich 11. Spetember ersichtlich. Die Fahrpl&auml;ne ab dem 12. September werden am Freitag, den 9. September aktualisiert.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "IRE 6a Plochingen - Tübingen - Bisingen"
@@ -782,25 +782,26 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "27.08.2022 03:11",
+      "lastModified": "07.09.2022 15:36",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
     },
     {
       "id": "fdcebaee-bbd7-4d9c-af1e-d43114b34b15",
-      "headline": "Veränderter Fahrplan zwischen Ulm und Friedrichshafen",
-      "newsType": "Reparatur an mehreren Zügen",
-      "timePeriod": "bis 11.09.22 von Montags bis Freitags",
-      "introText": "<p>An Werktagen kommt es zu Fahrplan&auml;nderungen, bitte informieren Sie sich fr&uuml;hzeitig &uuml;ber Ihre Reiseverbindung.</p>\n",
+      "headline": "Veränderter Fahrplan und Kapazitätseinschränkungen auf der Südbahn",
+      "newsType": "Erhöhter Krankenstand",
+      "timePeriod": "bis vsl. 29. Oktober von Montags bis Freitags; außer Feiertags",
+      "introText": "<p>Es kommt zu Fahrplan&auml;nderungen auf den genannten Linien. Der Fahrplan ist in der Reiseauskunft auf z.B. www.bahn.de und im DB Navigator bis einschlie&szlig;lich 11. September ersichtlich. Die Fahrpl&auml;ne ab dem 12. September werden am Freitag, den 9. September aktualisiert.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
-        "IRE 3 Ulm Hbf - Friedrichshafen Stadt",
-        "RB 51b Ulm Hbf - Sigmaringen",
+        "IRE 3 Ulm Hbf - Friedrichshafen Stadt (bis 11.09.)",
+        "RB 51b Aulendorf - Sigmaringen",
+        "RB 53a Aulendorf - Kißlegg",
         "RB RS2 Ulm Hbf - Biberach(Riß) Süd",
         "RB RS21 Ulm Hbf - Laupheim Stadt"
       ],
-      "closingText": "<p>Der angepasste Fahrplan ist in der Reiseauskunft auf www.bahn.de und in der DB Navigator App abrufbar.&nbsp;</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "closingText": "<p>Auf folgenden Strecken kommt es zu&nbsp;Kapazit&auml;tseinschr&auml;nkungen und hierdurch zu einem reduzierten Platzangebot:&nbsp;&nbsp;</p>\n\n<p>IRE 3: Ulm - Friedrichshafen - Singen(Hohentwiel) - Basel Bad Bf</p>\n\n<p>RE 55: Ulm - Donaueschingen</p>\n\n<p>IRE 50: Ulm - Aalen</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -808,7 +809,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "27.08.2022 03:11",
+      "lastModified": "07.09.2022 15:36",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
