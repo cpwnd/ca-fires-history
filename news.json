@@ -122,13 +122,29 @@
       "headline": "Streckensperrung zwischen Gera und Ronneburg",
       "newsType": "Witterungsbedingte Störung",
       "timePeriod": "vorläufig bis 12.09.2022",
-      "introText": "<p>Infolge der Witterung wurde der Streckenabschnitt Gera - Ronneburg besch&auml;digt und es sind keine Zugfahrten m&ouml;glich.</p>\n\n<p>&nbsp;</p>\n",
+      "introText": "<p>Infolge der Witterung wurde der Streckenabschnitt Gera - Ronneburg besch&auml;digt und es sind keine Zugfahrten m&ouml;glich.</p>\n\n<p>Die Z&uuml;ge der Linien RE 1 und RE 3 beginnen bzw. enden in Gera Hbf. Von Gera bis Altenburg / Glauchau, sowie Gegenrichtung, verkehrt ein Ersatzverkehr mit Bussen &uuml;ber alle Unterwegshalte.</p>\n\n<p>Die Strecke ist bis einschlie&szlig;lich 12.09.2022 gesperrt. Am 12.09.2022 erfolgt die Entscheidung &uuml;ber die L&auml;nge der Bauma&szlig;nahme um den Schaden zu reparieren.</p>\n\n<p>Die aktuellen Fahrplan&auml;nderungen finden Sie nachstehend:</p>\n",
       "connectionsHeadline": "Folgende Linien sind betroffen:",
       "connections": [
         "RE 1 Göttingen - Glauchau",
         "RE 3 Erfurt - Altenburg"
       ],
-      "closingText": "<p>Die Z&uuml;ge der Linien RE 1 und RE 3 beginnen bzw. enden in Gera Hbf. Von Gera bis Schm&ouml;lln verkehrt ein Ersatzverkehr mit Bussen &uuml;ber alle Unterwegshalte. Ab Schm&ouml;lln nutzen Sie den regul&auml;ren Schienenersatzverkehr der RE 3.</p>\n\n<p>Reisende nach Glauchau nutzen ab Altenburg den Ersatzverkehr der S 5 bzw. S 5X bis G&ouml;&szlig;nitz und ab G&ouml;&szlig;nitz die CityBahn nach Glauchau.&nbsp;</p>\n\n<p>Die Strecke ist bis einschlie&szlig;lich 12.09.2022 gesperrt. Am 12.09.2022 erfolgt die Entscheidung &uuml;ber die L&auml;nge der Bauma&szlig;nahme um den Schaden zu reparieren</p>\n\n<p>&nbsp;</p>\n",
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:5ffbf19d-326a-46e7-ba77-101a7c3971a2/BNV%20RE%201_10.%20bis%2012.09._Stand%2009.09_.pdf",
+            "title": "BNV RE 1_10. bis 12.09._Stand 09.09_.pdf (PDF, 59 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:e7cd67d8-02de-4a11-99bf-fb30e9b8fd46/BNV%20RE%203_10.%20bis%2012.09._Stand%2009.09_.pdf",
+            "title": "BNV RE 3_10. bis 12.09._Stand 09.09_.pdf (PDF, 65 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -137,7 +153,7 @@
         "sn",
         "th"
       ],
-      "lastModified": "09.09.2022 06:10",
+      "lastModified": "09.09.2022 20:41",
       "author": "suedost",
       "expand": false,
       "priorityValue": 102
