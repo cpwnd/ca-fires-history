@@ -1,6 +1,30 @@
 {
   "news": [
     {
+      "id": "b9a902ff-c88c-4e7d-b665-fe30a0e279d6",
+      "headline": "Beeinträchtigungen zwischen Erfurt und Eisenach",
+      "newsType": "Polizeiliche Ermittlung",
+      "timePeriod": "am Montag, 12.09.2022 bis in die frühen Abendstunden",
+      "introText": "<p>Aufgrund polizeilicher Ermittlungen auf der Strecke Erfurt - Eisenach ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Zug- und Haltausf&auml;llen und Versp&auml;tungen.&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "ICE-Züge zwischen Erfurt und Fulda bzw. Frankfurt(M) werden in beiden Fahrtrichtungen umgeleitet und verspäten sich um etwa 60 Minuten. Die Halte Gotha, Eisenach, Bad Hersfeld und vereinzelt auch Fulda entfallen."
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Von/nach Eisenach und Bad Hersfeld nutzen Sie bitte Verbindungen &uuml;ber Bebra, Fulda oder Kassel und zwischen Bebra, Fulda bzw. Kassel und Eisenach bzw. Bad Hersfeld die Regionalz&uuml;ge.<br />\n<br />\nVon/nach Gotha nutzen Sie bitte Verbindungen &uuml;ber Erfurt und ab Erfurt alternative Verkehrsmittel.</p>\n\n<p>&nbsp;</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "he",
+        "th"
+      ],
+      "lastModified": "12.09.2022 16:42",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 202
+    },
+    {
       "id": "312bc0d2-7260-4196-bca0-928db5efccbd",
       "headline": "Werdenfelsbahn: Strecke zwischen Murnau - Garmisch-Partenkirchen - Mittenwald weiterhin gesperrt",
       "newsType": "Beeinträchtigungen ",
@@ -54,8 +78,8 @@
       "id": "9e164e3b-053f-4ade-9a0c-86bbf90e5178",
       "headline": "Streckensperrung zwischen Gera und Ronneburg",
       "newsType": "Witterungsbedingte Störung",
-      "timePeriod": "vorläufig bis 12.09.2022",
-      "introText": "<p>Infolge der Witterung wurde der Streckenabschnitt Gera - Ronneburg besch&auml;digt und es sind keine Zugfahrten m&ouml;glich.</p>\n\n<p>Die Z&uuml;ge der Linien RE 1 und RE 3 beginnen bzw. enden in Gera Hbf. Von Gera bis Altenburg / Glauchau, sowie Gegenrichtung, verkehrt ein Ersatzverkehr mit Bussen &uuml;ber alle Unterwegshalte.</p>\n",
+      "timePeriod": "vorläufig bis 29.09.2022",
+      "introText": "<p>Infolge der Witterung wurde der Streckenabschnitt Gera - Ronneburg besch&auml;digt und es sind keine Zugfahrten m&ouml;glich.</p>\n\n<p>Das Streckengleis und die notwendigen Kabel weisen auf mehreren hundert Metern umfangreiche Besch&auml;digungen aus, die aufwendige Instandsetzungsarbeiten zur Folge haben.&nbsp; Die Streckensperrung bleibt bis mindestens 29.09.2022 bestehen.</p>\n\n<p>Die Z&uuml;ge der Linien RE 1 und RE 3 beginnen bzw. enden in Gera Hbf. Von Gera bis Altenburg / Glauchau, sowie Gegenrichtung, verkehrt ein Ersatzverkehr mit Bussen &uuml;ber alle Unterwegshalte.</p>\n",
       "connectionsHeadline": "Folgende Linien sind betroffen:",
       "connections": [
         "RE 1 Göttingen - Glauchau",
@@ -64,21 +88,11 @@
       "download": {
         "text": "<p>Die Fahrpl&auml;ne des Ersatzverkehrs entnehmen Sie bitte nachstehend:</p>\n",
         "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:5ffbf19d-326a-46e7-ba77-101a7c3971a2/BNV%20RE%201_10.%20bis%2012.09._Stand%2009.09_.pdf",
-            "title": "Ersatzverkehr mit Bus zwischen Gera und Glauchau  (PDF, 59 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:e7cd67d8-02de-4a11-99bf-fb30e9b8fd46/BNV%20RE%203_10.%20bis%2012.09._Stand%2009.09_.pdf",
-            "title": "Ersatzverkehr mit Bus zwischen Gera und Altenburg (PDF, 65 KB)",
-            "info": "",
-            "openInNewTab": true
-          }
+          null,
+          null
         ]
       },
-      "closingText": "<p>Die Strecke ist bis einschlie&szlig;lich 12.09.2022 gesperrt. Am 12.09.2022 erfolgt die Entscheidung &uuml;ber die L&auml;nge der Bauma&szlig;nahme um den Schaden zu reparieren.</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft unter 030 297 0 zu informieren.</p>\n\n<p>&nbsp;</p>\n",
+      "closingText": "<p>&nbsp;</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft unter 030 297 0 zu informieren.</p>\n\n<p>&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -87,7 +101,7 @@
         "sn",
         "th"
       ],
-      "lastModified": "12.09.2022 08:02",
+      "lastModified": "12.09.2022 16:49",
       "author": "suedost",
       "expand": false,
       "priorityValue": 102
