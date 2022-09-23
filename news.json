@@ -103,12 +103,16 @@
       "headline": "Beeinträchtigungen im Großraum Berlin",
       "newsType": "Defektes Stellwerk",
       "timePeriod": "Am Freitag, 23.09.2022 vsl. bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund eines defekten Stellwerkes in Berlin kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.&nbsp;</p>\n\n<p><strong>Es kommt derzeit zu gro&szlig;r&auml;umigen Umleitungen mit hohen Versp&auml;tungen innerhalb von Berlin. Die Halte in Berlin Hbf, Berlin-Spandau, Berlin-Gesundbrunnen und Berlin-S&uuml;dkreuz k&ouml;nnen entfallen. Ersatzhalte werden nach M&ouml;glichkeit eingerichtet.</strong></p>\n\n<p><strong>Einzele Z&uuml;ge enden und beginnen auch an Bahnh&ouml;fen au&szlig;erhalb von Berlin.</strong></p>\n",
+      "introText": "<p>Aufgrund eines defekten Stellwerkes in Berlin kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Umleitungen mit Haltausf&auml;llen und Versp&auml;tungen innerhalb von Berlin. Ersatzhalte werden nach M&ouml;glichkeit eingerichtet.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle ICE-, IC/EC-Züge mit Halt in Berlin."
+        "ICE-Züge Berlin - Leipzig - Frankfurt - Stuttgart - München fallen auf dem Abschnitt zwischen Berlin und Leipzig aus.",
+        "ICE-Züge Hamburg - Berlin - Erfurt - München fallen auf dem Abschnitt zwischen Berlin und Leipzig aus.",
+        "ICE-Züge Hamburg - Berlin - Erfurt - Nürnberg - Wien fallen auf dem Abschnitt zwischen Berlin und Erfurt aus.",
+        "EC-Züge Berlin - Frankfurt(Oder) - Warschau fallen auf dem Abschnitt zwischen Berlin und Frankfurt(Oder) aus.",
+        "Einzelne ICE-, IC/EC-Züge Hamburg - Berlin - Halle/Leipzig/Dresden werden ohne Halt in Berlin umgeleitet. Diese Züge verspäten sich."
       ],
-      "closingText": "<p><strong>Reisealternative:</strong></p>\n\n<p>Nutzen Sie innerhalb von Berlin die noch fahrenden Z&uuml;ge der S-Bahn sowie des Nahverkehrs.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Reisealternative innerhalb von Berlin:</strong></p>\n\n<p>Nutzen Sie innerhalb von Berlin die noch fahrenden Z&uuml;ge der S-Bahn sowie des Nahverkehrs.</p>\n\n<p>Nutzen Sie zwischen Berlin-Spandau und Berlin Ostbahnhof auch die noch fahrenden Fernverkehrsz&uuml;ge.</p>\n\n<p><strong>Die Strecke Berlin-Spandau - Berlin Hbf - Berlin Ostbahnhof ist von dieser St&ouml;rung aktuell nicht betroffen.</strong></p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "1",
       "distance": [
         "longDistance"
@@ -116,7 +120,7 @@
       "areas": [
         "be"
       ],
-      "lastModified": "23.09.2022 14:25",
+      "lastModified": "23.09.2022 15:19",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
@@ -271,6 +275,27 @@
       "priorityValue": 102
     },
     {
+      "id": "d95a4c80-330f-4bf1-a244-fcf63e711a6f",
+      "headline": "Zugausfälle auf der Linie RB24 Eberswalde - Bernau(b Berlin)",
+      "newsType": "Ausfall wegen kurzfristigen Personalausfällen",
+      "timePeriod": "24. und 25. September 2022",
+      "introText": "<p>Wegen mehrerer kurzfristiger Krankmeldungen fallen folgende Z&uuml;ge der Linie RB24 am 24. und 25. September 2022 zwischen Bernau und Eberswalde in beiden Richtungen aus.&nbsp;</p>\n\n<p><strong>Samstag 24. September</strong></p>\n\n<p><strong>RB33770&nbsp;</strong>Eberswalde ab 11:13 Uhr nach Bernau(b Berlin)</p>\n\n<p><strong>RB33782&nbsp;</strong>Eberswalde ab 17:01 Uhr nach Bernau(b Berlin)</p>\n\n<p><strong>RB33786&nbsp;</strong>Eberswalde ab 18:01 Uhr nach Bernau(b Berlin)</p>\n\n<p><strong>RB33788&nbsp;</strong>Eberswalde ab 20:14 Uhr nach Bernau(b Berlin)</p>\n\n<p><strong>RB33769&nbsp;</strong>Bernau(b Berlin) ab 11:40 Uhr nach Eberswalde</p>\n\n<p><strong>RB33781&nbsp;</strong>Bernau(b Berlin) ab 17:29 Uhr nach Eberswalde</p>\n\n<p><strong>RB33783&nbsp;</strong>Bernau(b Berlin) ab 18:29 Uhr nach Eberswalde</p>\n\n<p><strong>RB33785</strong>&nbsp;Bernau(b Berlin) ab 19:40 Uhr nach Eberswalde</p>\n\n<p><strong>RB33787</strong>&nbsp;Bernau(b Berlin) ab 20:40 Uhr nach Eberswalde</p>\n\n<p><strong>RB33789</strong>&nbsp;Bernau(b Berlin) ab 21:40 Uhr nach Eberswalde</p>\n\n<p><strong>Sonntag 25. September</strong></p>\n\n<p><strong>RB33754&nbsp;</strong>Eberswalde ab 06:14 Uhr nach Bernau(b Berlin)</p>\n\n<p><strong>RB33756&nbsp;</strong>Eberswalde ab 07:14 Uhr nach Bernau(b Berlin)</p>\n\n<p><strong>RB33760&nbsp;</strong>Eberswalde ab 08:14 Uhr nach Bernau(b Berlin)</p>\n\n<p><strong>RB33764&nbsp;</strong>Eberswalde ab 09:14 Uhr nach Bernau(b Berlin)</p>\n\n<p><strong>RB33766&nbsp;</strong>Eberswalde ab 10:09 Uhr nach Bernau(b Berlin)</p>\n\n<p><strong>RB33770&nbsp;</strong>Eberswalde ab 11:13 Uhr nach Bernau(b Berlin)</p>\n\n<p><strong>RB33753&nbsp;</strong>Bernau(b Berlin) ab 06:40 Uhr nach Eberswalde</p>\n\n<p><strong>RB33755&nbsp;</strong>Bernau(b Berlin) ab 06:40 Uhr nach Eberswalde</p>\n\n<p><strong>RB33759&nbsp;</strong>Bernau(b Berlin) ab 08:40 Uhr nach Eberswalde</p>\n\n<p><strong>RB33763&nbsp;</strong>Bernau(b Berlin) ab 09:40 Uhr nach Eberswalde</p>\n\n<p><strong>RB33765&nbsp;</strong>Bernau(b Berlin) ab 06:40 Uhr nach Eberswalde</p>\n\n<p>Als Ersatz benutzen Sie bitte die Z&uuml;ge der Linie RE3. Diese halten zus&auml;tzlich in R&uuml;dnitz, Biesental und Melchow.</p>\n",
+      "connections": [],
+      "closingText": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "23.09.2022 15:08",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "6b7e90a5-a726-4c92-bed8-7f10448c458f",
       "headline": "Ausfälle zwischen Frankfurt(Main) - Riedstadt-Goddelau - Mannheim Hbf",
       "newsType": "Kurzfristiger Personalausfall",
@@ -282,7 +307,7 @@
         "S9: (Karlsruhe - Graben-Neudorf -) Mannheim Hbf - Biblis - Groß-Rohrheim",
         "RE70: Frankfurt(Main) Hbf - Riedstadt-Goddelau - Biblis - Mannheim Hbf"
       ],
-      "closingText": "<p><br />\n<u>In den N&auml;chten <strong>23./24</strong>. und <strong>24./25.09.2022</strong>,<strong> jeweils zwischen 20:00 Uhr und 06:00 Uhr</strong>, kommt es zu den folgenden Einschr&auml;nkungen:</u></p>\n\n<p>&nbsp;</p>\n\n<p><strong>S7:&nbsp;</strong><br />\nDie Z&uuml;ge aus Richtung Frankfurt am Main - Stadion enden vorzeitig in M&ouml;rfelden und wenden dort.</p>\n\n<p>Wir arbeiten an der Einrichtung eines Busnotverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>S9:</strong><br />\nDie Z&uuml;ge entfallen zwischen Mannheim-Waldhof - Biblis - Gro&szlig; Rohrheim.</p>\n\n<p>Wir arbeiten an der Einrichtung eines Busnotverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RE70:&nbsp;</strong><br />\nDie Z&uuml;ge entfallen komplett.</p>\n\n<p>Wir arbeiten an der Einrichtung eines Busnotverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter bahn.de oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:00496924445710\">069 24445710</a>.</p>\n",
+      "closingText": "<p><br />\n<u>In den N&auml;chten <strong>23./24</strong>. und <strong>24./25.09.2022</strong>,<strong> jeweils zwischen 20:00 Uhr und 06:00 Uhr</strong>, kommt es zu den folgenden Einschr&auml;nkungen:</u></p>\n\n<p>&nbsp;</p>\n\n<p><strong>S7:&nbsp;</strong><br />\nDie Z&uuml;ge aus Richtung Frankfurt am Main - Stadion enden vorzeitig in M&ouml;rfelden und wenden dort.</p>\n\n<p>Es verkehrt <strong>ein Bus</strong> der Firma Univers Reisen GmbH zwischen M&ouml;rfelden - Riedstadt-Goddelau.<br />\nDieser h&auml;lt an jeder Station.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>S9:</strong><br />\nDie Z&uuml;ge entfallen zwischen Mannheim-Waldhof - Biblis - Gro&szlig; Rohrheim.</p>\n\n<p>Es verkehren <strong>4 Busse</strong> der Firma Holiday-Reisen GmbH zwischen<br />\n[M&ouml;rfelden - Riedstadt-Goddelau -]&nbsp;<strong>Gro&szlig; Rohrheim - Biblis - Mannheim-Waldhof</strong>.<br />\nBitte beachten Sie, dass diese Busse zwischen Biblis und Lampertheim nur in B&uuml;rstadt halten.<br />\n<br />\nNutzen Sie zwischen Mannheim-Waldhof - Mannheim Hbf die Z&uuml;ge der S9.<br />\n<br />\nWir arbeiten an der Einrichtung weiterer, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RE70:&nbsp;</strong><br />\nDie Z&uuml;ge entfallen komplett.</p>\n\n<p>Es verkehren <strong>4 Busse</strong> der Firma Holiday-Reisen GmbH zwischen<br />\nM&ouml;rfelden - Riedstadt-Goddelau - Gro&szlig; Rohrheim - Biblis - Mannheim-Waldhof.<br />\nBitte beachten Sie, dass diese Busse zwischen M&ouml;rfelden - Riedstadt-Goddelau nur in Gro&szlig; Gerau-Dornberg halten sowie zwischen Biblis und Lampertheim nur in B&uuml;rstadt.<br />\n<br />\nNutzen Sie zwischen Mannheim-Waldhof - Mannheim Hbf die Z&uuml;ge der S9.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de/\" target=\"_blank\">bahn.de</a> oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p><br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:00496924445710\">069 24445710</a>.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -291,7 +316,7 @@
         "bw",
         "he"
       ],
-      "lastModified": "22.09.2022 20:26",
+      "lastModified": "23.09.2022 15:30",
       "author": "hessen",
       "expand": false,
       "priorityValue": 102
@@ -301,7 +326,7 @@
       "headline": "Zugausfälle auf der Tauberbahn",
       "newsType": "Kurzfristige Erkrankung von Personal am Stellwerk auf der Tauberbahn",
       "timePeriod": "am Samstag, den 24. September und Sonntag, den 25. September",
-      "introText": "<p>Am Samstag, den 24. September und Sonntag, den 25. September kommt es zu einigen Zugausf&auml;llen auf der Tauberbahn. Zwischen Lauda und Crailsheim kein Zugverkehr in dem Zeitraum m&ouml;glich.</p>\n\n<p>Ein Schienenersatzverkehr mit Bussen ist aktuell nicht m&ouml;glich. Bitte pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n\n<p>Bitte weichen Sie wenn m&ouml;glich auch auf den &ouml;rtlichen Busverkehr aus.</p>\n\n<p>Sobald uns neue Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
+      "introText": "<p>Am Samstag, den 24. September und Sonntag, den 25. September kommt es zu einigen Zugausf&auml;llen auf der Tauberbahn. Zwischen Lauda und Crailsheim kein Zugverkehr in dem Zeitraum m&ouml;glich.</p>\n\n<p>Ein Schienenersatzverkehr mit Bussen ist nicht m&ouml;glich. Bitte pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n\n<p>Weichen Sie wenn m&ouml;glich auch auf den &ouml;rtlichen Busverkehr aus.</p>\n\n<p>Wer auf den &Ouml;PNV angewiesen ist und an diesem Wochenende dringend unterwegs sein muss, f&uuml;r den gibt es &uuml;ber die Westfrankenbahn eine kulante Taxi-Regelung: Reisende k&ouml;nnen f&uuml;r die ausgewiesene Strecke und mit Nachweis (Taxi-Quittung) anschlie&szlig;end eine R&uuml;ckerstattung &uuml;ber den Kundendialog der Westfrankenbahn geltend machen. Bitte schicken Sie alle erforderlichen Unterlagen (Taxi-Quittung und Kopie der Fahrkarte) an die E-Mail-Adresse kundendialog.wfb@deutschebahn.com</p>\n\n<p>Sobald uns neue Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
       "connectionsHeadline": "Betroffene Strecke:",
       "connections": [
         "RE87 / RB88 Wertheim - Lauda - Bad Mergentheim - Crailsheim "
@@ -315,7 +340,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "23.09.2022 10:46",
+      "lastModified": "23.09.2022 15:40",
       "expand": false,
       "priorityValue": 102
     },
