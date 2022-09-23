@@ -140,6 +140,31 @@
       "priorityValue": 102
     },
     {
+      "id": "3fb40b2e-96ed-409f-9652-d7315e23fc59",
+      "headline": "Bombenentschärfung in der Beuselstraße",
+      "newsType": "Zugausfälle",
+      "timePeriod": "26. September 2022",
+      "introText": "<p>Am kommenden Montag (26.09.) soll eine Bombenentsch&auml;rfung in der Beusselstra&szlig;e stattfinden.</p>\n\n<p>Der Sperrbereich betrifft auch den Streckenabschnitt zwischen <strong>Berlin Hbf (tief) &ndash; Berlin-Moabit &ndash; Berlin Jungfernheide im Zeitraum von 10:00 bis 18:00 Uhr</strong>. Weitere Informationen folgen.</p>\n\n<p>&nbsp;</p>\n",
+      "connectionsHeadline": "folgende Linien sind betroffen",
+      "connections": [
+        "RE6 Hennigsdorf (b Berlin) - Berlin Gesundbrunnen  ",
+        "RB10 Nauen - Berlin",
+        "RB13 Wustermark - Berlin"
+      ],
+      "closingText": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "23.09.2022 10:55",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "c79c71a8-d550-481c-b72e-c240df01a0f6",
       "headline": "Zugausfälle auf der Linie RE7",
       "newsType": "Bauarbeiten",
@@ -227,7 +252,7 @@
       "headline": "Zugausfälle auf der Tauberbahn",
       "newsType": "Kurzfristige Erkrankung von Personal am Stellwerk auf der Tauberbahn",
       "timePeriod": "am Samstag, den 24. September und Sonntag, den 25. September",
-      "introText": "<p>Am Samstag, den 24. September und Sonntag, den 25. September kommt es zu einigen Zugausf&auml;llen auf der Tauberbahn. Zwischen Lauda und Crailsheim kein Zugverkehr in dem Zeitraum m&ouml;glich.</p>\n\n<p>Ein Schienenersatzverkehr mit Bussen ist in Planung. Wir warten allerdingsn noch auf R&uuml;ckmeldung unserer Partner. Sobald uns neue Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Bitte weichen Sie wenn m&ouml;glich auch auf den &ouml;rtlichen Busverkehr aus.</p>\n",
+      "introText": "<p>Am Samstag, den 24. September und Sonntag, den 25. September kommt es zu einigen Zugausf&auml;llen auf der Tauberbahn. Zwischen Lauda und Crailsheim kein Zugverkehr in dem Zeitraum m&ouml;glich.</p>\n\n<p>Ein Schienenersatzverkehr mit Bussen ist aktuell nicht m&ouml;glich. Bitte pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n\n<p>Bitte weichen Sie wenn m&ouml;glich auch auf den &ouml;rtlichen Busverkehr aus.</p>\n\n<p>Sobald uns neue Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
       "connectionsHeadline": "Betroffene Strecke:",
       "connections": [
         "RE87 / RB88 Wertheim - Lauda - Bad Mergentheim - Crailsheim "
@@ -241,7 +266,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "21.09.2022 23:48",
+      "lastModified": "23.09.2022 10:46",
       "expand": false,
       "priorityValue": 102
     },
