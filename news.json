@@ -75,6 +75,29 @@
       "priorityValue": 201
     },
     {
+      "id": "da36eb21-3531-46e0-aa83-444dd77f151e",
+      "headline": "Verspätungen zwischen Würzburg und Nürnberg",
+      "newsType": "Defektes Stellwerk",
+      "timePeriod": "vsl. bis in die Abendstunden",
+      "introText": "<p>Aufgrund eines defekten Stellwerkes zwischen W&uuml;rzburg und N&uuml;rnberg kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Die Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 30 Minuten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE-/IC-Züge zwischen Würzburg und Nürnberg"
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "by"
+      ],
+      "lastModified": "29.09.2022 17:14",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
       "id": "50aa1854-a1e5-4d70-8a96-8d031f0ea135",
       "headline": "Einschränkungen S-Bahn Mitteldeutschland, S 1 fährt verknüpft mit S 6",
       "newsType": "Fahrplanänderung im Streckenverlauf",
@@ -383,6 +406,30 @@
       "priorityValue": 101
     },
     {
+      "id": "f017aee2-b9a6-4b46-96f9-2cd017133051",
+      "headline": "Keine Zugfahrten zwischen Bad Kreuznach und Bingen(Rh)Hbf",
+      "newsType": "Defektes Stellwerk",
+      "timePeriod": "ab Freitag, 30.09.2022 bis mindestens Betriebsschluss",
+      "introText": "<p>Ein defektes Stellwerk in Langenlonsheim beeintr&auml;chtigt den Zugverkehr. Ab Freitag, 30.09.2022 (Betriebsbeginn) sind zwischen Bad Kreuznach und Bingen(Rhein) Hbf keine Zugfahrten m&ouml;glich.</p>\n\n<p>Die Z&uuml;ge aus Richtung Kaiserslautern Hbf enden und beginnen in Bad Kreuznach.</p>\n",
+      "connectionsHeadline": "RB65 Kaiserslautern - Enkenbach - Bad Kreuznach - Bingen",
+      "connections": [],
+      "download": {
+        "text": "<p>Wir arbeiten derzeit an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>Die Dauer zur Behebung des Defekts ist derzeit unbestimmt, dauert jedoch mindestens bis Betriebsschluss.</p>\n\n<p>Sobald uns neuere Informationen vorliegen halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n"
+      },
+      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "29.09.2022 17:29",
+      "author": "mitte",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "8e9a8046-9e9e-4af1-bdb9-988fbf59e72b",
       "headline": "Kein Zugverkehr zwischen Kaiserslautern und Pirmasens am Nachmittag",
       "newsType": "kurzfristiger Ausfall von Stellwerkspersonal",
@@ -420,6 +467,38 @@
         "rp"
       ],
       "lastModified": "29.09.2022 14:28",
+      "author": "mitte",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "70dafb4d-07b8-4327-8dfd-070b0df6d532",
+      "headline": "Kein Zugverkehr zwischen Kaiserslautern und Lauterecken-Grumbach am Wochenende",
+      "newsType": "Erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
+      "timePeriod": "Wochenenden 01.-03. / 08.+09. / 15.+16. / 22.+23. / 29.+30. Oktober 2022",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal wird im Oktober der Zugverkehr zwischen Kaiserslautern Hbf und Lauterecken-Grumbach an den Wochenenden jeweils ganzt&auml;gig eingestellt.</p>\n",
+      "connectionsHeadline": "RB66  Kaiserslautern -  Wolfstein - Lauterecken-Grumbach",
+      "connections": [],
+      "download": {
+        "text": "<p>Wir haben f&uuml;r alle Wochenenden einen Ersatzverkehr mit Bussen zwischen Kaiserslautern Hbf und Lauterecken-Grumbach eingerichtet.</p>\n\n<p>Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt am Bahnhof liegen und dass die Mitnahme von Fahrr&auml;dern in den Bussen aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p><strong><u>Den Ersatzfahrplan finden Sie hier:</u></strong></p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:2f14ffed-22e2-4e33-b7ad-86a7b9599d8c/RB66_%20Kaiserslautern%20-%20Lauterecken_%20WE-Okt-2022.pdf",
+            "title": "RB66_ Ersatzfahrplan Kaiserslautern-Lauterecken (PDF, 159 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich regelm&auml;&szlig;ig im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "29.09.2022 16:59",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
