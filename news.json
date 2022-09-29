@@ -100,48 +100,6 @@
       "priorityValue": 102
     },
     {
-      "id": "9e164e3b-053f-4ade-9a0c-86bbf90e5178",
-      "headline": "Streckensperrung zwischen Gera und Ronneburg",
-      "newsType": "Witterungsbedingte Störung",
-      "timePeriod": "vorläufig bis 29.09.2022",
-      "introText": "<p>Infolge der Witterung wurde der Streckenabschnitt Gera - Ronneburg besch&auml;digt und es sind keine Zugfahrten m&ouml;glich.</p>\n\n<p>Das Streckengleis und die notwendigen Kabel weisen auf mehreren hundert Metern umfangreiche Besch&auml;digungen aus, die aufwendige Instandsetzungsarbeiten zur Folge haben.&nbsp; Die Streckensperrung bleibt bis mindestens 29.09.2022 bestehen.</p>\n\n<p>Die Z&uuml;ge der Linien RE 1 und RE 3 beginnen bzw. enden in Gera Hbf. Von Gera bis Altenburg / Glauchau, sowie Gegenrichtung, verkehrt ein Ersatzverkehr mit Bussen &uuml;ber alle Unterwegshalte.</p>\n",
-      "connectionsHeadline": "Folgende Linien sind betroffen:",
-      "connections": [
-        "RE 1 Göttingen - Glauchau",
-        "RE 3 Erfurt - Altenburg"
-      ],
-      "download": {
-        "text": "<p>Die Fahrpl&auml;ne des Ersatzverkehrs entnehmen Sie bitte nachstehend:</p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:75574fbe-a7a9-421b-82a0-b58f2cb44b46/BNV%20RE%201_ab%2013.09._Stand12.09_.pdf",
-            "title": "Ersatzverkehr mit Bus zwischen Gera und Glauchau  (PDF, 58 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:f7f60504-ce87-4961-b8d2-127169816ab8/BNV%20RE%203_ab%2013.09._Stand%2012.09_.pdf",
-            "title": "Ersatzverkehr mit Bus zwischen Gera und Altenburg (PDF, 66 KB)",
-            "info": "",
-            "openInNewTab": true
-          }
-        ]
-      },
-      "closingText": "<p>&nbsp;</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder bei der telefonischen Reiseauskunft unter 030 297 0 zu informieren.</p>\n\n<p>&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "sn",
-        "th"
-      ],
-      "lastModified": "12.09.2022 17:22",
-      "author": "suedost",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "56d5685c-9ee1-421a-a967-ce428520baa9",
       "headline": "Streckenstörung zwischen Westerland(Sylt) und Niebüll",
       "newsType": "Reparatur an einer Weiche",
@@ -423,27 +381,6 @@
         "rp"
       ],
       "lastModified": "28.09.2022 16:38",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "3ed66594-f164-4ec6-b6cf-29dceadb3234",
-      "headline": "Zugausfälle zwischen Neustadt und Wissembourg",
-      "newsType": "kurzfristige Erkrankung von Stellwerkspersonal",
-      "timePeriod": "29.09.22 ganztägig",
-      "introText": "<p>Wegen kurzfristigen Personalausfalls entfallen heute ganzt&auml;gig alle Z&uuml;ge zwischen <strong>Neustadt und Wissembourg</strong>.</p>\n\n<p>Wir haben einen Ersatzverkehr mit einem Bus der Fa. M&uuml;llenbach Reisen zwischen <strong>Winden und Wissembourg</strong> eingerichtet.</p>\n\n<p>Bitte beachten Sie, dass der Ersatzverkehr ohne festen Fahrplan verkehrt und der Bus eventuell nicht immer unmittelbar am Bahnhof halten kann. Eine Fahrradmitnahme ist aus Kapazit&auml;tsgr&uuml;nden nicht m&ouml;glich.</p>\n",
-      "connectionsHeadline": "RB53 Neustadt - Landau - Wissembourg",
-      "connections": [],
-      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "rp"
-      ],
-      "lastModified": "29.09.2022 14:28",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
