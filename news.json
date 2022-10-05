@@ -569,6 +569,39 @@
       "priorityValue": 101
     },
     {
+      "id": "374f916d-6935-40d9-90d7-8998c2d10982",
+      "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
+      "newsType": "Kurzfristige Personalausfälle",
+      "timePeriod": "Vom 06. Oktober, 14:00 Uhr bis 07. Oktober, 14:00",
+      "introText": "<p>Aufgrund kurzfristiger Personalausf&auml;lle bei der Franz&ouml;sischen Bahn (SNCF) werden die Zugfahrten zwischen M&uuml;llheim(Baden) und Mulhouse durch Busse ersetzt.</p>\n\n<p>Bitte beachten Sie die teilweise abweichende Abfahrtszeit der Busse.</p>\n",
+      "connectionsHeadline": "Betroffene Strecke",
+      "connections": [
+        "Müllheim(Baden) - Mulhouse Ville"
+      ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:c5070733-ba39-4353-ae11-dcf537a285bc/A31%20ligne%20Mulhouse%20M%C3%BCllheim%20du%20jeudi%2006%20au%20vendredi%2007%20octobre%202022.pdf",
+            "title": "Ersatzfahrplan Mulhouse - Müllheim (PDF, 1 MB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung&nbsp;mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "05.10.2022 21:49",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "9fc00cf2-46a9-48d0-86b3-8128377e6a8a",
       "headline": "Veränderter Fahrplan zwischen Stuttgart und Bisingen",
       "newsType": "Erhöhter Krankenstand",
