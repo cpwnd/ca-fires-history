@@ -114,7 +114,7 @@
       "id": "da4dcadd-2f1c-49de-9e85-e9fff6231e7e",
       "headline": "Vorübergehend reduziertes Fahrplanangebot bei DB Regio Mitte",
       "newsType": "Erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
-      "timePeriod": "ab Dienstag, 04.10.2022",
+      "timePeriod": "ab Dienstag, 04.10.2022 jeweils Mo-Fr",
       "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal kommt es zu Beeintr&auml;chtigungen im Bahnverkehr bei DB Regio Mitte. Um einen stabilen Zugverkehr anbieten zu k&ouml;nnen, wird das Fahrplanangebot ab Dienstag, 4. Oktober 2022 auf mehreren Linien vor&uuml;bergehend reduziert.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
@@ -122,17 +122,23 @@
         "RB69 Weinheim(Bergstr) - Fürth(Odenw)"
       ],
       "download": {
-        "text": "<p>Auf der Linie <strong>RB63 zwischen Worms und Bensheim</strong> verkehren die<strong> Z&uuml;ge nur noch im Zeitraum von 6 Uhr bis 16 Uhr</strong>. In den &uuml;brigen Zeiten verkehren Busse als Ersatz f&uuml;r die ausfallenden Z&uuml;ge.</p>\n\n<p>Auf der Linie <strong>RB69</strong> verkehren die Z&uuml;ge nur noch im <strong>Stundentakt zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw).</strong></p>\n\n<p><em><strong><u>Die Ersatzfahrpl&auml;ne finden Sie hier:</u></strong></em></p>\n",
+        "text": "<p><u><strong>RB63 Worms &lt;&gt; Bensheim:</strong></u><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch im Zeitraum <strong>von 6 Uhr bis 16 Uhr</strong>.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p><strong><u>RB69 Weinheim(Bergstr) &lt;&gt; F&uuml;rth(Odenw):</u></strong><br />\n<strong><em>Bis einschl. 07.10.22</em></strong> verkehren die Z&uuml;ge <strong>Mo-Fr nur noch im Stundentakt </strong>zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw).&nbsp;<br />\n<strong><em>Ab 10.10.22</em></strong> verkehren <strong>nur noch einzelne Z&uuml;ge</strong> zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw). Z&uuml;ge im Sch&uuml;lerverkehr fahren regul&auml;r.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p>&nbsp;</p>\n\n<p><em><strong>Ein Ersatzverkehr mit Bussen konnte leider nicht eingerichtet werden, da keine Busse zur Verf&uuml;gung stehen. Bitte pr&uuml;fen Sie auch andere Verkehrsmittel, um an ihr Ziel zu gelangen.</strong></em></p>\n",
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:cf44ea8f-b8e3-4e5f-abae-ce66849f5e4f/RB63_%20Worms-Bensheim_%20ab%2004.10.22.pdf",
-            "title": "RB63_ Ersatzfahrplan Worms - Bensheim, gültig ab 04.10.22 (PDF, 51 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:d6d5a48a-46a3-435b-8430-62955ec96c16/RB63_%20Worms-Bensheim_%20ab%2004.10.22_%20Mo-Fr.pdf",
+            "title": "RB63_ Ersatzfahrplan Worms - Bensheim, gültig ab 04.10.22 (PDF, 229 KB)",
             "info": "",
             "openInNewTab": true
           },
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:b9a03913-78ba-48de-80d4-9e7940ff4bbb/RB69_%20Weinheim-F%C3%BCrth_%20ab%2004.10.22.pdf",
-            "title": "RB69_ Ersatzfahrplan Weinheim(Bergstr) - Fürth(Odenw), gültig ab 04.10.22 (PDF, 156 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:f83a71d8-18a5-4914-899a-9bdcd133200d/RB69_%20Weinheim-F%C3%BCrth_%20ab%2004.10.22.pdf",
+            "title": "RB69_ Ersatzfahrplan Weinheim(Bergstr) - Fürth(Odenw), gültig 04.10.-07.10.22 (PDF, 241 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:24761da3-aff3-4da8-bdff-7a76a391d355/RB69_%20Weinheim-F%C3%BCrth_%20ab%2010.10.22.pdf",
+            "title": "RB69_ Ersatzfahrplan Weinheim(Bergstr) - Fuerth(Odenw), gültig ab 10.10.2022 (PDF, 235 KB)",
             "info": "",
             "openInNewTab": true
           }
@@ -148,7 +154,7 @@
         "he",
         "rp"
       ],
-      "lastModified": "30.09.2022 23:08",
+      "lastModified": "06.10.2022 14:55",
       "author": "mitte",
       "expand": false,
       "priorityValue": 103
