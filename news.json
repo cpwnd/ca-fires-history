@@ -10,7 +10,7 @@
       "connections": [
         "ICE Züge München - Würzburg - Fulda  - Hannover - Hamburg: Fallen zwischen Hannover und Hamburg aus",
         "ICE Züge München - Nürnberg - Leipzig - Berlin - Hamburg: Fallen zwischen Berlin und Hamburg aus",
-        "ICE Züge Karlsruhe - Frankfurt(M) - Gießen - Hannover - Hamburg - Stralsund: Fallen auf dem gesamten Weg aus"
+        "ICE, IC Züge Karlsruhe - Frankfurt(M) - Gießen - Hannover - Hamburg - Stralsund: Fallen auf dem gesamten Weg aus"
       ],
       "closingText": "<p><strong>Sonderkulanz:</strong>&nbsp;Alle&nbsp;Fahrg&auml;ste, die ihre f&uuml;r 08.10.2022 geplante Reise aufgrund der Auswirkungen der Zugfunkst&ouml;rung verschieben m&ouml;chten, k&ouml;nnen ihr bereits gebuchtes Ticket f&uuml;r den Fernverkehr ab sofort bis einschlie&szlig;lich 7 Tage nach St&ouml;rungsende flexibel nutzen. Sitzplatzreservierungen k&ouml;nnen kostenfrei storniert werden.</p>\n\n<p>Zudem gelten bei Versp&auml;tung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter <a href=\"http://www.bahn.de/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Wir haben alle Informationen zu Reisen w&auml;hrend der Zugfunkst&ouml;rung&nbsp;<a href=\"https://www.bahn.de/sonderkulanz\" title=\"https://www.bahn.de/sonderkulanz\">hier&nbsp;</a>nochmals ausf&uuml;hrlich f&uuml;r Sie zusammengestellt.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>&nbsp;oder&nbsp;im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a>.</p>\n",
       "priority": "2",
@@ -31,7 +31,7 @@
         "sh",
         "th"
       ],
-      "lastModified": "08.10.2022 13:36",
+      "lastModified": "08.10.2022 13:43",
       "author": "fernverkehr_ag",
       "expand": true,
       "priorityValue": 311
@@ -146,23 +146,17 @@
         "RB69 Weinheim(Bergstr) - Fürth(Odenw)"
       ],
       "download": {
-        "text": "<p><u><strong>RB63 Worms &lt;&gt; Bensheim:</strong></u><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch im Zeitraum <strong>von 6 Uhr bis 16 Uhr</strong>.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p><strong><u>RB69 Weinheim(Bergstr) &lt;&gt; F&uuml;rth(Odenw):</u></strong><br />\n<strong><em>Bis einschl. 07.10.22</em></strong> verkehren die Z&uuml;ge <strong>Mo-Fr nur noch im Stundentakt </strong>zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw).&nbsp;<br />\n<strong><em>Ab 10.10.22</em></strong> verkehren <strong>nur noch einzelne Z&uuml;ge</strong> zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw). Z&uuml;ge im Sch&uuml;lerverkehr fahren regul&auml;r.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p>&nbsp;</p>\n\n<p><em><strong>Ein Ersatzverkehr mit Bussen konnte leider nicht eingerichtet werden, da keine Busse zur Verf&uuml;gung stehen. Bitte pr&uuml;fen Sie auch andere Verkehrsmittel, um an ihr Ziel zu gelangen.</strong></em></p>\n",
+        "text": "<p><u><strong>RB63 Worms &lt;&gt; Bensheim:</strong></u><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch im Zeitraum <strong>von 6 Uhr bis 16 Uhr</strong>.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p><strong><u>RB69 Weinheim(Bergstr) &lt;&gt; F&uuml;rth(Odenw):</u></strong><br />\n<strong><em>Bis einschl. 07.10.22</em></strong> verkehren die Z&uuml;ge <strong>Mo-Fr nur noch im Stundentakt </strong>zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw).&nbsp;<br />\n<strong><em>Ab 10.10.22</em></strong> verkehren <strong>nur noch einzelne Z&uuml;ge</strong> zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw). Z&uuml;ge im Sch&uuml;lerverkehr fahren regul&auml;r.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n",
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:d6d5a48a-46a3-435b-8430-62955ec96c16/RB63_%20Worms-Bensheim_%20ab%2004.10.22_%20Mo-Fr.pdf",
-            "title": "RB63_ Ersatzfahrplan Worms - Bensheim, gültig ab 04.10.22 (PDF, 229 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:6937feb9-f32d-4d91-9e20-e7449a833724/Fahrplan%20RB63%20g%C3%BCltig%20ab%2008.10.pdf",
+            "title": "RB63_ Ersatzfahrplan Worms - Bensheim, gültig ab 08.10.22 (PDF, 48 KB)",
             "info": "",
             "openInNewTab": true
           },
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:f83a71d8-18a5-4914-899a-9bdcd133200d/RB69_%20Weinheim-F%C3%BCrth_%20ab%2004.10.22.pdf",
-            "title": "RB69_ Ersatzfahrplan Weinheim(Bergstr) - Fürth(Odenw), gültig 04.10.-07.10.22 (PDF, 241 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:24761da3-aff3-4da8-bdff-7a76a391d355/RB69_%20Weinheim-F%C3%BCrth_%20ab%2010.10.22.pdf",
-            "title": "RB69_ Ersatzfahrplan Weinheim(Bergstr) - Fuerth(Odenw), gültig ab 10.10.2022 (PDF, 235 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:4c97c84f-7c93-42d6-8b4b-803d53bda8a8/NEU%20RB69_%20Weinheim-F%C3%BCrth_%20ab%2010.10.22.pdf",
+            "title": "RB69_ Ersatzfahrplan Weinheim(Bergstr) - Fürth(Odenw), gültig ab 08.10.2022 (PDF, 68 KB)",
             "info": "",
             "openInNewTab": true
           }
@@ -178,7 +172,7 @@
         "he",
         "rp"
       ],
-      "lastModified": "06.10.2022 14:55",
+      "lastModified": "08.10.2022 13:42",
       "author": "mitte",
       "expand": false,
       "priorityValue": 103
