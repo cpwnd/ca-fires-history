@@ -41,12 +41,14 @@
       "headline": "Beeinträchtigungen im Stellwerk Mainz-Bischofsheim",
       "newsType": "Personalausfall",
       "timePeriod": "Am Sonntag, den 09.10.2022 zwischen 06:00 Uhr und 18:00 Uhr",
-      "introText": "<p>Aufgrund eines kurzfristigen Personalausfalles im Stellwerk Mainz-Bischofsheim kommt es am Sonntag, den 09.10.2022 in der Zeit von 06:00 - 20:00 Uhr, zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n",
+      "introText": "<p>Aufgrund eines kurzfristigen Personalausfalles im Stellwerk Mainz-Bischofsheim kommt es am Sonntag, den 09.10.2022 in der Zeit von 06:00 - 20:00 Uhr, zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Leider muss mit Halt- und Teilausf&auml;llen gerechnet werden.</p>\n",
       "connectionsHeadline": "Folgende Verbindungen sind betroffen:",
       "connections": [
-        "Alle ICE und IC Züge zwischen Mainz und Frankfurt(M)"
+        "ICE Züge Wiesbaden – Frankfurt (M) – Erfurt – Leipzig – Dresden: Fallen zwischen Frankfurt(M) und Wiesbaden aus.",
+        "ICE, IC Züge Hamburg – Bremen/Dortmund – Köln – Frankfurt (M) – Nürnberg – Passau/Wien: Die Halte Mainz Hbf und Frankfurt(M) Flughafen entfallen. Züge halten ersatzweise in Mainz-Mombach",
+        "IC Züge Hamburg – Bremen – Gelsenkirchen – Köln – Mannheim – Stuttgart/Basel SBB: Der Halt Mainz Hbf entfällt. Züge halten ersatzweise in Mainz-Mombach"
       ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\">reiseauskunft.bahn.de</a>, im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Alternative Reiseverbindung von /nach Mainz Hbf und Frankfurt(M) Flughafen:</strong></p>\n\n<p>Mainz Hbf: Nutzen Sie bitte zwischen Mainz-Mombach und Mainz Hbf die Regional-Linie RB 26.&nbsp;</p>\n\n<p>Frankfurt(M) Flughafen: Nutzen Sie bitte zwischen Frankfurt(M) Hbf und Frankfurt(M) Flughafen die&nbsp;verbleibende Fernverkehrsz&uuml;ge der Deutschen Bahn sowie die Reginonal-Linie RE 2 und RE 3 wie auch die S-Bahn Linie S 8 und S 9.&nbsp;</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\">reiseauskunft.bahn.de</a>, im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -55,7 +57,7 @@
         "he",
         "rp"
       ],
-      "lastModified": "08.10.2022 12:52",
+      "lastModified": "08.10.2022 14:27",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 302
@@ -247,30 +249,6 @@
       "priorityValue": 102
     },
     {
-      "id": "c2f7603b-be66-417c-8109-cb159efd0e1b",
-      "headline": "Zugfunkstörung ist beendet.",
-      "newsType": "Technische Störung an der Strecke (Zugfunk)",
-      "timePeriod": "Heute, 08.10.2022",
-      "introText": "<p>Zugfunkst&ouml;rung im Raum Norddeutschland ist beendet. Der Betrieb wird nach und nach wieder aufgenommen. Es kommt weiterhin zu Versp&auml;tungen und (Teil-) Ausf&auml;llen im Nahverkehr der Deutschen Bahn.&nbsp;Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p>\n",
-      "connectionsHeadline": "Betroffene Linien:",
-      "connections": [
-        "Alle RE/RB im Bereich Niedersachsen und Bremen"
-      ],
-      "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">bahn.de/reiseauskunft,</a> in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a> oder beim regionalen Kundendialog unter <a href=\"tel:0511 45901645\">0511 45901645</a>.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf <a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter.</a></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrecht</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n\n<p>&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "hb",
-        "ni"
-      ],
-      "lastModified": "08.10.2022 11:01",
-      "author": "niedersachsen_bremen",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "aefa1b8f-9226-4572-801d-3ae09a83a2b9",
       "headline": "Vorübergehend reduziertes Fahrplanangebot und teilweise Schienenersatzverkehr bei der Westfrankenbahn",
       "newsType": "Personalnotstand in den Stellwerken der Tauberbahn und Engpässe beim Fahrpersonal auf der Kahlgrundbahn",
@@ -408,29 +386,6 @@
       "lastModified": "04.11.2021 10:10",
       "author": "nrw",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "19e94a6e-1f1b-4f38-8689-a4f1d7d74614",
-      "headline": "Zugfunkstörung ist beendet.",
-      "newsType": "Technische Störung an der Strecke (Zugfunk)",
-      "timePeriod": "Heute, 08.10.2022",
-      "introText": "<p>Zugfunkst&ouml;rung im Raum Norddeutschland ist beendet. Der Betrieb wird nach und nach wieder aufgenommen. Es kommt weiterhin zu Versp&auml;tungen und (Teil-) Ausf&auml;llen im Nahverkehr der Deutschen Bahn.&nbsp;Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p>\n",
-      "connectionsHeadline": "Betroffene Linien:",
-      "connections": [
-        "Alle RE/RB im Bereich Schleswig-Holstein"
-      ],
-      "closingText": "<p>Es verkehren folgende Busse im Pendelverkehr:</p>\n\n<p>Rendsburg-Husum Firma 3 Guys.</p>\n\n<p>Flensburg - Schleibr&uuml;cke Nord Firma Bischoff.</p>\n\n<p>Kiel Hbf -Schleibr&uuml;cke S&uuml;d Firma 3 Guys &amp; Firma Rope Reisen.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a> oder beim regionalen Kundendialog unter <a href=\"tel:0431 53440500\">0431 53440500</a>.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf <a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrechte</a>&nbsp;.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n\n<p>&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "sh"
-      ],
-      "lastModified": "08.10.2022 11:02",
-      "author": "schleswig_holstein",
-      "expand": false,
       "priorityValue": 101
     },
     {
