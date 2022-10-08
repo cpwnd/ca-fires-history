@@ -2,17 +2,11 @@
   "news": [
     {
       "id": "380e295c-9f0c-426d-a290-e3a84bfe57e2",
-      "headline": "Zugfunkstörung behoben: Fernverkehr im Norden Deutschlands läuft wieder an",
-      "newsType": "Technische Störung an der Strecke (Zugfunk)",
-      "timePeriod": "Heute, 08.10.2022",
-      "introText": "<p>Die technische St&ouml;rung des Zugfunks in Norddeutschland ist behoben.<strong> </strong><strong>Bitte beachten Sie, dass es aufgrund der Nachwirkungen noch zu Ausf&auml;llen und Versp&auml;tungen kommen kann</strong>.</p>\n\n<p>Dar&uuml;ber hinaus ist insbesondere bei den ersten wieder verkehrenden Z&uuml;gen mit einer sehr hohen Auslastung zu rechnen.&nbsp;&nbsp;</p>\n",
-      "connectionsHeadline": "Aktuell sind insbesondre noch folgende Verbindungen betroffen:",
-      "connections": [
-        "ICE Züge München - Würzburg - Fulda  - Hannover - Hamburg: Fallen zwischen Hannover und Hamburg aus",
-        "ICE Züge München - Nürnberg - Leipzig - Berlin - Hamburg: Fallen zwischen Berlin und Hamburg aus",
-        "ICE, IC Züge Karlsruhe - Frankfurt(M) - Gießen - Hannover - Hamburg - Stralsund: Fallen auf dem gesamten Weg aus"
-      ],
-      "closingText": "<p><strong>Sonderkulanz:</strong>&nbsp;Alle&nbsp;Fahrg&auml;ste, die ihre f&uuml;r 08.10.2022 geplante Reise aufgrund der Auswirkungen der Zugfunkst&ouml;rung verschieben m&ouml;chten, k&ouml;nnen ihr bereits gebuchtes Ticket f&uuml;r den Fernverkehr ab sofort bis einschlie&szlig;lich 7 Tage nach St&ouml;rungsende flexibel nutzen. Sitzplatzreservierungen k&ouml;nnen kostenfrei storniert werden.</p>\n\n<p>Zudem gelten bei Versp&auml;tung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter <a href=\"http://www.bahn.de/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Wir haben alle Informationen zu Reisen w&auml;hrend der Zugfunkst&ouml;rung&nbsp;<a href=\"https://www.bahn.de/sonderkulanz\" title=\"https://www.bahn.de/sonderkulanz\">hier&nbsp;</a>nochmals ausf&uuml;hrlich f&uuml;r Sie zusammengestellt.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>&nbsp;oder&nbsp;im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a>.</p>\n",
+      "headline": "Sonderkulanz für von der Zugfunkstörung in Norddeutschland betroffene Reisende",
+      "newsType": "Störung Zugfunk",
+      "timePeriod": "08.10.2022; Sonderkulanz gültig bis inklusive 15.10.2022",
+      "introText": "<p><strong>Sonderkulanz:</strong>&nbsp;Alle&nbsp;Fahrg&auml;ste, die ihre Reise am 08.10.2022 aufgrund der Auswirkungen der Zugfunkst&ouml;rung verschoben haben, k&ouml;nnen ihr f&uuml;r den 08.10.2022 gebuchtes Ticket f&uuml;r den Fernverkehr bis einschlie&szlig;lich 7 Tage nach St&ouml;rungsende (15.10.2022) flexibel nutzen. Sitzplatzreservierungen k&ouml;nnen kostenfrei storniert werden.</p>\n\n<p>Zudem gelten bei Versp&auml;tung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter <a href=\"http://www.bahn.de/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Wir haben alle Informationen zur Sonderkulanz aufgrund der Zugfunkst&ouml;rung&nbsp;<a href=\"https://www.bahn.de/sonderkulanz\" title=\"https://www.bahn.de/sonderkulanz\">hier&nbsp;</a>nochmals ausf&uuml;hrlich f&uuml;r Sie zusammengestellt.</p>\n",
+      "connections": [],
       "priority": "2",
       "distance": [
         "regional",
@@ -31,9 +25,9 @@
         "sh",
         "th"
       ],
-      "lastModified": "08.10.2022 13:43",
+      "lastModified": "08.10.2022 17:53",
       "author": "fernverkehr_ag",
-      "expand": true,
+      "expand": false,
       "priorityValue": 311
     },
     {
