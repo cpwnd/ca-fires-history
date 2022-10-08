@@ -2,19 +2,19 @@
   "news": [
     {
       "id": "380e295c-9f0c-426d-a290-e3a84bfe57e2",
-      "headline": "Zugfahrten in Norddeutschland unterbrochen",
-      "newsType": "Technische Störung an der Strecke",
+      "headline": "Zugfunkstörung: Kein Bahnbetrieb in großen Teilen Norddeutschlands",
+      "newsType": "Technische Störung an der Strecke (Zugfunk)",
       "timePeriod": "Heute, 08.10.2022",
-      "introText": "<p>Aufgrund einer technischen St&ouml;rung an der Strecke ist in Raum Norddeutschland derzeit kein Zugverkehr im Fernverkehr der Deutschen Bahn m&ouml;glich.&nbsp;Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p>\n\n<p>Leider kommt es zu kurzfristigen Zug- und Haltausf&auml;llen.</p>\n",
+      "introText": "<p>Aufgrund einer technischen St&ouml;rung des Zugfunks ist in gro&szlig;en Teilen Norddeutschlands derzeit kein Zugverkehr im Fernverkehr der Deutschen Bahn m&ouml;glich. Daher kommt es aktuell leider zu kurzfristigen Zug- und Haltausf&auml;llen.</p>\n\n<p>Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p>\n\n<p>&nbsp;</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Es gibt derzeit keine Reisemöglichkeiten mit dem Fernverkehr von/nach Hamburg, Schleswig-Holstein und Niedersachsen in/aus Richtung Kassel-Wilhelmshöhe, Berlin und NRW",
+        "Es gibt derzeit keine Reisemöglichkeiten mit dem Fernverkehr von/nach Hamburg, Schleswig-Holstein und Niedersachsen in/aus Richtung Kassel-Wilhelmshöhe, Berlin und NRW.",
         "Auch der ICE-Verkehr zwischen Berlin, Hannover und NRW ist eingestellt. ",
         "Im internationalen Zugverkehr gibt es folgende Einschränkungen: ",
         "IC-Züge von/nach Berlin Richtung Amsterdam fallen komplett aus. ",
         "IC-Züge von/nach Kopenhagen bzw. Aarhus enden/beginnen in Padborg. "
       ],
-      "closingText": "<p><strong>Alternative:</strong>&nbsp;Reisende zwischen Berlin und K&ouml;ln sowie zwischen Berlin und Baden-W&uuml;rttemberg/Schweiz nutzen bitte Verbindungen des Fernverkehrs mit Umstieg in&nbsp;Erfurt und Frankfurt(M).&nbsp;</p>\n\n<p>Bitte haben Sie Verst&auml;ndnis daf&uuml;r, dass die noch verkehrenden Z&uuml;ge teilweise ein sehr hohes&nbsp;Reisendenaufkommen&nbsp;zu verzeichnen haben.&nbsp;</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Alternative:</strong>&nbsp;Reisende zwischen Berlin und K&ouml;ln sowie zwischen Berlin und Baden-W&uuml;rttemberg/Schweiz nutzen bitte Verbindungen des Fernverkehrs mit Umstieg in&nbsp;Erfurt und Frankfurt am Main.&nbsp;</p>\n\n<p>Bitte haben Sie Verst&auml;ndnis daf&uuml;r, dass die noch verkehrenden Z&uuml;ge teilweise ein sehr hohes&nbsp;Reisendenaufkommen&nbsp;zu verzeichnen haben.&nbsp;</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle informieren.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>&nbsp;oder&nbsp;im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a>.</p>\n",
       "priority": "2",
       "distance": [
         "regional",
@@ -28,14 +28,15 @@
         "he",
         "mv",
         "ni",
+        "nw",
         "st",
         "sh",
         "th"
       ],
-      "lastModified": "08.10.2022 08:55",
+      "lastModified": "08.10.2022 09:01",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 310
+      "priorityValue": 311
     },
     {
       "id": "6541c8ed-431d-4bb3-a99e-931c03bdd481",
@@ -231,8 +232,8 @@
     },
     {
       "id": "c2f7603b-be66-417c-8109-cb159efd0e1b",
-      "headline": "Beeinträchtigungen in Norddeutschland",
-      "newsType": "Technische Störung an der Strecke",
+      "headline": "Zugfunkstörung: Kein Bahnbetrieb in großen Teilen Norddeutschlands",
+      "newsType": "Technische Störung an der Strecke (Zugfunk)",
       "timePeriod": "Heute, 08.10.2022",
       "introText": "<p>Aufgrund einer technischen St&ouml;rung an der Strecke ist in Raum Norddeutschland derzeit kein Zugverkehr im Nahverkehr der Deutschen Bahn m&ouml;glich.&nbsp;Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
@@ -248,7 +249,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "08.10.2022 07:46",
+      "lastModified": "08.10.2022 09:20",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
@@ -356,6 +357,30 @@
       "priorityValue": 101
     },
     {
+      "id": "5222779f-772d-459e-a5c4-4244fafd98b9",
+      "headline": "Zugausfälle und Beeinträchtigungen auf den Linie RE1 und RE4",
+      "newsType": "Technische Störung an der Strecke",
+      "timePeriod": "08. Oktober 2022",
+      "connections": [
+        "RE1 und RE4"
+      ],
+      "download": {
+        "text": "<p>Seit ca. 7:00 Uhr gibt es eine technische St&ouml;rung an der Strecke in gro&szlig;en Teilen Norddeutschlands.</p>\n\n<p>Die Z&uuml;ge der <strong>RE1</strong> verkehren nicht zwischen Hamburg Hbf und Boizenburg (Elbe)</p>\n\n<p>Die Z&uuml;ge der <strong>RE4 </strong>fahren nicht zwischen L&uuml;beck und Sch&ouml;nbeck (Meckl) bzw. Bad Kleinen.</p>\n\n<p>Die Dauer der St&ouml;rung ist momentan nicht absehbar.</p>\n"
+      },
+      "closingText": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "mv"
+      ],
+      "lastModified": "08.10.2022 09:24",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "7bd917b2-dc6a-45e7-af58-f4cc20fdb5a7",
       "headline": "Unwetterschäden an der Ahr und in der Eifel ",
       "newsType": "Unwetterschäden",
@@ -395,8 +420,8 @@
     },
     {
       "id": "19e94a6e-1f1b-4f38-8689-a4f1d7d74614",
-      "headline": "Beeinträchtigungen in Norddeutschland",
-      "newsType": "Technische Störung an der Strecke",
+      "headline": "Zugfunkstörung: Kein Bahnbetrieb in großen Teilen Norddeutschlands",
+      "newsType": "Technische Störung an der Strecke (Zugfunk)",
       "timePeriod": "Heute, 08.10.2022",
       "introText": "<p>Aufgrund einer technischen St&ouml;rung an der Strecke ist in Raum Norddeutschland derzeit kein Zugverkehr im Nahverkehr der Deutschen Bahn m&ouml;glich.&nbsp;Bitte pr&uuml;fen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
@@ -411,7 +436,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "08.10.2022 07:46",
+      "lastModified": "08.10.2022 09:20",
       "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 101
