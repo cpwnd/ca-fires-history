@@ -31,31 +31,6 @@
       "priorityValue": 311
     },
     {
-      "id": "afeb720f-c87a-4fd8-96ba-da107861be64",
-      "headline": "Verspätungen zwischen Erfurt und Leipzig bzw. Halle (Saale)",
-      "newsType": "Streckenstörung",
-      "timePeriod": "Heute, 10.10.2022 bis in die Vormittagsstunden",
-      "introText": "<p>Aufgrund einer Streckenst&ouml;rung ist der Streckenabschnitt zwischen Erfurt und Leipzig bzw. Halle (Saale) derzeit gesperrt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden und versp&auml;ten sich um etwa 40 Minuten.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE Züge zwischen Erfurt - Leipzig/Halle(Saale) - Berlin/Dresden"
-      ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "sn",
-        "st",
-        "th"
-      ],
-      "lastModified": "10.10.2022 07:39",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 203
-    },
-    {
       "id": "6541c8ed-431d-4bb3-a99e-931c03bdd481",
       "headline": "Einschränkungen im Dieselnetz VVO",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
@@ -143,18 +118,8 @@
       "download": {
         "text": "<p><u><strong>RB63 Worms &lt;&gt; Bensheim:</strong></u><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch im Zeitraum <strong>von 6 Uhr bis 16 Uhr</strong>.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p><strong><u>RB69 Weinheim(Bergstr) &lt;&gt; F&uuml;rth(Odenw):</u></strong><br />\n<strong><em>Bis einschl. 07.10.22</em></strong> verkehren die Z&uuml;ge <strong>Mo-Fr nur noch im Stundentakt </strong>zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw).&nbsp;<br />\n<strong><em>Ab 10.10.22</em></strong> verkehren <strong>nur noch einzelne Z&uuml;ge</strong> zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw). Z&uuml;ge im Sch&uuml;lerverkehr fahren regul&auml;r.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n",
         "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:6937feb9-f32d-4d91-9e20-e7449a833724/Fahrplan%20RB63%20g%C3%BCltig%20ab%2008.10.pdf",
-            "title": "RB63_ Ersatzfahrplan Worms - Bensheim, gültig ab 08.10.22 (PDF, 48 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:4c97c84f-7c93-42d6-8b4b-803d53bda8a8/NEU%20RB69_%20Weinheim-F%C3%BCrth_%20ab%2010.10.22.pdf",
-            "title": "RB69_ Ersatzfahrplan Weinheim(Bergstr) - Fürth(Odenw), gültig ab 08.10.2022 (PDF, 68 KB)",
-            "info": "",
-            "openInNewTab": true
-          }
+          null,
+          null
         ]
       },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen&nbsp; im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
@@ -283,6 +248,29 @@
       "lastModified": "13.10.2021 08:58",
       "author": "suedostbayernbahn",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "19858528-25f2-464c-b1ee-cce5a2deb573",
+      "headline": "Haltausfall Wolmirstedt",
+      "newsType": "Reparatur an der Strecke",
+      "timePeriod": "vsl. bis Ende 10. Oktober 2022",
+      "introText": "<p>Durch eine Reparatur an der Strecke muss der Halt Wolmirstedt bei Z&uuml;gen der Linie S 1 und RE 20 in Richtung Magdeburg entfallen.</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "RE 20 Magdeburg Hbf - Stendal - Salzwedel - Uelzen",
+        "S 1 Schönebeck-Bad Salzelmen - Magdeburg Hbf - Zielitz Ort - Stendal - Wittenberge"
+      ],
+      "closingText": "<p>Zum Erreichen der entfallenden Halte bleiben Sie bitte bis Magdeburg-Neustadt im Zug. Hier k&ouml;nnen Sie in die Z&uuml;ge der S 1 der Gegenrichtung umsteigen. Diese halten an der entsprechenden Station.</p>\n\n<p>&Uuml;ber &Auml;nderungen der Betriebslage werden wir Sie auch an dieser Stelle informieren.</p>\n\n<p>Informationen zu den aktuellen Versp&auml;tungen und Zugausf&auml;llen finden Sie auch in der Reiseauskunft unter www.bahn.de.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "st"
+      ],
+      "lastModified": "10.10.2022 08:48",
+      "expand": false,
       "priorityValue": 101
     },
     {
