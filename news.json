@@ -116,10 +116,20 @@
         "RB69 Weinheim(Bergstr) - Fürth(Odenw)"
       ],
       "download": {
-        "text": "<p><u><strong>RB63 Worms &lt;&gt; Bensheim:</strong></u><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch im Zeitraum <strong>von 6 Uhr bis 16 Uhr</strong>.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p><strong><u>RB69 Weinheim(Bergstr) &lt;&gt; F&uuml;rth(Odenw):</u></strong><br />\n<strong><em>Bis einschl. 07.10.22</em></strong> verkehren die Z&uuml;ge <strong>Mo-Fr nur noch im Stundentakt </strong>zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw).&nbsp;<br />\n<strong><em>Ab 10.10.22</em></strong> verkehren <strong>nur noch einzelne Z&uuml;ge</strong> zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw). Z&uuml;ge im Sch&uuml;lerverkehr fahren regul&auml;r.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n",
+        "text": "<p><u><strong>RB63 Worms &lt;&gt; Bensheim:</strong></u><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch im Zeitraum <strong>von 6 Uhr bis 16 Uhr</strong>.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p><strong><u>RB69 Weinheim(Bergstr) &lt;&gt; F&uuml;rth(Odenw):</u></strong><br />\n<strong><em>Bis einschl. 07.10.22</em></strong> verkehren die Z&uuml;ge <strong>Mo-Fr nur noch im Stundentakt </strong>zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw).&nbsp;<br />\n<strong><em>Ab 10.10.22</em></strong> verkehren <strong>nur noch einzelne Z&uuml;ge</strong> zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw). Z&uuml;ge im Sch&uuml;lerverkehr fahren regul&auml;r.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p><em><strong><u>Die aktuellen Ersatzfahrpl&auml;ne finden Sie hier:</u></strong></em></p>\n",
         "linkDataList": [
-          null,
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:5ee086de-69fb-489b-97c5-90e37fad83d7/RB63_%20Worms-Bensheim_%20ab%2010.10.22.pdf",
+            "title": "RB63_ Ersatzfahrplan Worms - Bensheim, gültig ab 10.10.22 (PDF, 225 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:ed3f3a13-cca1-4f64-b812-a761bffb5232/RB69_Weinheim-F%C3%BCrth_ab%2010.10.22_%20SEV.pdf",
+            "title": "RB69_ Ersatzfahrplan Weinheim(Bergstr) - Fürth(Odenw), gültig ab 10.10.2022 (PDF, 301 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen&nbsp; im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
@@ -132,7 +142,7 @@
         "he",
         "rp"
       ],
-      "lastModified": "08.10.2022 13:42",
+      "lastModified": "10.10.2022 08:56",
       "author": "mitte",
       "expand": false,
       "priorityValue": 103
