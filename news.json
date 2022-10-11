@@ -32,18 +32,18 @@
     },
     {
       "id": "611b5ba4-3ccd-439e-9ba9-d6fcb52b382c",
-      "headline": "Beeinträchtigung Raum Ulm",
+      "headline": "Beeinträchtigung im Raum Ulm",
       "newsType": "Reparatur an der Oberleitung",
       "timePeriod": "Heute, 11.10.2022 bis in die Nachmittagsstunden",
       "introText": "<p>Aufgrund einer Reparatur an der Oberleitung bei Ulm-&Ouml;rlingen kommt es zwischen Stuttgart und Ulm derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 60 Minuten. Es kommt zu Halt- und Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE Züge Hamburg/Berlin – Erfurt – Frankfurt (M) – Stuttgart – München: Werden umgeleitet und erhalten eine Verspätung von etwa 60 Minuten. Der Halte Ulm Hbf entfällt.",
-        "ICE Züge Hamburg – Köln – Frankfurt (M) – Mannheim – Stuttgart – München: Werden umgeleitet und erhalten eine Verspätung von etwa 60 Minuten. Der Halt Ulm entfällt.",
-        "IC/EC Züge Karlsruhe/Frankfurt(M) – Stuttgart – München/Salzburg  – Klagenfurt: Fallen zwischen Stuttgart und München/Salzburg  – Klagenfurt aus.",
-        "IC/EC Züge Dortmund – Köln – Frankfurt(M) – Mannheim – Stuttgart/Oberstdorf/Klagenfurt: Fallen zwischen Stuttgart und Oberstdorf/Klagenfurt aus."
+        "ICE-Züge Berlin – Frankfurt (M) – Stuttgart – München werden zwischen Stuttgart Hbf und Augsburg Hbf umgeleitet und erhalten eine Verspätung von etwa 60 Minuten. Der Halt Ulm Hbf entfällt.",
+        "ICE-Züge Hamburg – Köln – Frankfurt (M) – Stuttgart – München werden zwischen Stuttgart Hbf und Augsburg Hbf umgeleitet und erhalten eine Verspätung von etwa 60 Minuten. Der Halt Ulm entfällt.",
+        "IC/EC-Züge Karlsruhe/Frankfurt(M) – Stuttgart – München – Österreich fallen zwischen Stuttgart Hbf und München Hbf aus.",
+        "IC-Züge Dortmund – Köln – Frankfurt(M) – Mannheim – Oberstdorf/Innsbruck fallen zwischen Stuttgart Hbf und Oberstdorf bzw. Innsbruck Hbf aus."
       ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Wir empfehlen Ihnen die folgenden Reisealternativen:</strong></p>\n\n<p>Nutzen Sie zwischen <strong>Ulm Hbf, G&uuml;nzburg </strong>und <strong>Augsburg Hbf</strong> bitte die Z&uuml;ge der RE-Linie 9. Fahrzeit: ca. 70 Minuten.</p>\n\n<p>Nutzen Sie zwischen<strong> Ulm Hbf</strong> und <strong>Stuttgart Hbf</strong> bitte auch Nahverkehrsverbindungen &uuml;ber Aalen Hbf und Schorndorf. Fahrzeit: ca. 2,5 Stunden.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "1",
       "distance": [
         "longDistance"
@@ -52,7 +52,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "11.10.2022 08:38",
+      "lastModified": "11.10.2022 09:47",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 202
@@ -657,6 +657,39 @@
         "bw"
       ],
       "lastModified": "26.09.2022 17:09",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "39ecadaf-e95c-4b94-92d8-3991bd71a6d9",
+      "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
+      "newsType": "Kurzfristige Personalausfälle",
+      "timePeriod": "Am 11+12 Oktober, jeweils ab 14:00",
+      "introText": "<p>Aufgrund kurzfristiger Personalausf&auml;lle bei der Franz&ouml;sischen Bahn (SNCF) werden die Zugfahrten zwischen M&uuml;llheim(Baden) und Mulhouse durch Busse ersetzt.</p>\n\n<p>Den dazugeh&ouml;rigen Fahrplan finden Sie weiter unten.</p>\n\n<p>&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffene Strecke",
+      "connections": [
+        "Müllheim(Baden) - Mulhouse Ville"
+      ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:7ef9acd4-9247-4dbf-9666-576524eb865e/Ersatzverkehr%20Mulhouse-M%C3%BCllheim%2011+12.%20Oktober%202022.pdf",
+            "title": "Fahrplan Ersatzverkehr Müllheim(Baden) - Mulhouse Ville (PDF, 2 MB)",
+            "info": "Fahrplan Ersatzverkehr Müllheim(Baden) - Mulhouse Ville",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung&nbsp;mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "11.10.2022 09:52",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
