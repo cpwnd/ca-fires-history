@@ -430,7 +430,15 @@
       "connectionsHeadline": "RB66  Kaiserslautern -  Wolfstein - Lauterecken-Grumbach",
       "connections": [],
       "download": {
-        "text": "<p>Wir haben f&uuml;r alle Wochenenden einen Busnotverkehr zwischen Kaiserslautern Hbf und Lauterecken-Grumbach eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und die Haltestellen des Ersatzverkehrs nicht immer direkt am Bahnhof liegen. Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n"
+        "text": "<p>Wir k&ouml;nnen derzeit leider nur in begrenztem Umfang einen Ersatzverkehr mit Bussen anbieten, weil nicht gen&uuml;gend Busse zur Verf&uuml;gung stehen.</p>\n\n<p><strong><u>Den aktuellen Ersatzfahrplan finden Sie hier:</u></strong></p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:70996b28-d941-4156-827d-1c911de9fb33/RB66_Kaiserslautern-Lauterecken_%20SEV%20begrenzt.pdf",
+            "title": "RB66_Kaiserslautern-Lauterecken_ SEV begrenzt.pdf (PDF, 165 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
       },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;&nbsp;</p>\n\n<p>Informieren Sie sich regelm&auml;&szlig;ig im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
       "priority": "0",
@@ -440,7 +448,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "06.10.2022 14:57",
+      "lastModified": "12.10.2022 11:13",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
@@ -517,8 +525,8 @@
       "id": "e7825cdd-9256-4f62-9483-3e7a92bf94d7",
       "headline": "Umleitungen und Teilausfälle zwischen Frankfurt(Main)Hbf und Frankfurt-Rödelheim",
       "newsType": "Entschärfung einer Fliegerbombe",
-      "timePeriod": "Am 12.10.2022 von 11:30 Uhr bis voraussichtlich 17:00 Uhr",
-      "introText": "<p>Die Strecke zwischen Frankfurt(Main)West und Frankfurt-R&ouml;delheim wird am 12.10.2022 von 11:30 Uhr bis voraussichtlich 17:00 Uhr gesperrt.</p>\n\n<p>Dadurch kommt es im S-Bahnverkehr der Deutschen Bahn AG in Hessen zu Umleitungen und Teilausf&auml;llen.</p>\n",
+      "timePeriod": "Am 12.10.2022 bis voraussichtlich 17:00 Uhr",
+      "introText": "<p>Die Strecke zwischen Frankfurt(Main)West und Frankfurt-R&ouml;delheim wird heute bis voraussichtlich 17:00 Uhr gesperrt.</p>\n\n<p>Dadurch kommt es im S-Bahnverkehr der Deutschen Bahn AG in Hessen zu Umleitungen und Teilausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "S3: Bad Soden(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf",
@@ -533,7 +541,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "12.10.2022 08:42",
+      "lastModified": "12.10.2022 11:30",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
