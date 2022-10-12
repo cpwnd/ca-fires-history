@@ -660,7 +660,7 @@
       "headline": "Veränderter Fahrplan auf der Schwarzwaldbahn",
       "newsType": "Reparatur an mehreren Zügen",
       "timePeriod": "bis vsl. Mitte November",
-      "introText": "<p>DB Regio f&auml;hrt weiter im Zweistundentakt zwischen Offenburg und Konstanz. Zwischen Karlsruhe und Offenburg bleibt es beim f&uuml;r Sch&uuml;ler:innen und Pendler:innen wichtigen Stundentakt.</p>\n\n<p>Ab 18. Oktober 2022 setzt DB Regio zus&auml;tzlich einen Pendelzug zwischen Offenburg und Hornberg ein, der den Fahrplan in diesem Abschnitt zu einem Stundentakt erg&auml;nzt.</p>\n\n<p>Zus&auml;tzlich verkehren zwei Nachtbusse auf den Abschnitten Hornberg&mdash;Konstanz (montags bis freitags und sonntags) bzw. Engen&mdash;Offenburg (montags bis freitags und sonntags) ebenfalls ab 18. Oktober 2022.</p>\n\n<p>Der Fahrplan ist, bis auf die zus&auml;tzlichen Nachtbusse, in der Reiseauskunft auf www.bahn.de und im DB Navigator ersichtlich. Bei den Nachtbussen m&uuml;ssen letzte Abstimmungen bei den Fahrzeiten gemacht werden. Im Anschluss werden die Zeiten im Fahrplan erg&auml;nzt, den Sie im Anhang finden. Im Anschluss werden die Fahrzeiten in der Reiseauskunft eingepflegt.</p>\n\n<p>Voraussichtlich ab Mitte November stellt DB Regio den Fahrg&auml;sten auf der gesamten Schwarzwaldbahn wieder den gewohnten Stundentakt zur Verf&uuml;gung.</p>\n",
+      "introText": "<p>DB Regio f&auml;hrt weiter im Zweistundentakt zwischen Offenburg und Konstanz. Zwischen Karlsruhe und Offenburg bleibt es beim f&uuml;r Sch&uuml;ler:innen und Pendler:innen wichtigen Stundentakt.</p>\n\n<p>Ab 18. Oktober 2022 setzt DB Regio zus&auml;tzlich einen Pendelzug zwischen Offenburg und Hornberg ein, der den Fahrplan in diesem Abschnitt zu einem Stundentakt erg&auml;nzt.</p>\n\n<p>Zus&auml;tzlich verkehren zwei Nachtbusse auf den Abschnitten Hornberg&mdash;Konstanz (montags bis freitags und sonntags) bzw. Engen&mdash;Offenburg (montags bis freitags und sonntags) ebenfalls ab 18. Oktober 2022.</p>\n\n<p>Der Fahrplan ist, bis auf die zus&auml;tzlichen Nachtbusse, in der Reiseauskunft auf www.bahn.de und im DB Navigator ersichtlich. Bei den Nachtbussen m&uuml;ssen letzte Abstimmungen bei den Fahrzeiten gemacht werden. Sobald uns diese vorliegen, werden die Zeiten im angeh&auml;ngten Fahrplan erg&auml;nzt, sowie in der Reiseauskunft eingepflegt.</p>\n\n<p>Voraussichtlich ab Mitte November stellt DB Regio den Fahrg&auml;sten auf der gesamten Schwarzwaldbahn wieder den gewohnten Stundentakt zur Verf&uuml;gung.</p>\n",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
         "RE 2 Karlsruhe Hbf - Offenburg - Konstanz"
@@ -690,40 +690,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "12.10.2022 13:07",
-      "author": "baden_wuerttemberg",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "39ecadaf-e95c-4b94-92d8-3991bd71a6d9",
-      "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
-      "newsType": "Kurzfristige Personalausfälle",
-      "timePeriod": "Am 11+12 Oktober 2022, jeweils ab 14:00",
-      "introText": "<p>Aufgrund kurzfristiger Personalausf&auml;lle bei der Franz&ouml;sischen Bahn (SNCF) werden die Zugfahrten zwischen M&uuml;llheim(Baden) und Mulhouse durch Busse ersetzt.</p>\n\n<p>Den dazugeh&ouml;rigen Fahrplan finden Sie weiter unten.</p>\n",
-      "connectionsHeadline": "Betroffene Strecke",
-      "connections": [
-        "Müllheim(Baden) - Mulhouse Ville"
-      ],
-      "download": {
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:7ef9acd4-9247-4dbf-9666-576524eb865e/Ersatzverkehr%20Mulhouse-M%C3%BCllheim%2011+12.%20Oktober%202022.pdf",
-            "title": "Fahrplan Ersatzverkehr Müllheim(Baden) - Mulhouse Ville (PDF, 2 MB)",
-            "info": "Fahrplan Ersatzverkehr Müllheim(Baden) - Mulhouse Ville",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung&nbsp;mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "11.10.2022 09:54",
+      "lastModified": "12.10.2022 22:14",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
