@@ -1,6 +1,44 @@
 {
   "news": [
     {
+      "id": "2f1b7ea8-6cfc-49db-9b26-d1acd9837fef",
+      "headline": "Entschärfung einer Weltkriegsbombe in Oberhausen",
+      "newsType": "Bombenentschärfung",
+      "timePeriod": "Am heutigen Donnerstag, 13. Oktober 2022 in den Nachmittags- und frühen Abendstunden",
+      "introText": "<p>Aufgrund der Entsch&auml;rfung einer Weltkriegsbombe am heutigen Donnerstag, 13.10.2022 kommt es in Oberhausen ab etwa 13:00 Uhr zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Die betroffenen Z&uuml;ge m&uuml;ssen umgeleitet werden und versp&auml;ten sich dadurch um etwa 60 Minuten. Die Halte in D&uuml;sseldorf Hbf, Duisburg Hbf, Oberhausen Hbf und Arnhem Centraal entfallen. Ersatzweise halten die Z&uuml;ge in M&ouml;nchengladbach Hbf.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "ICE-Züge Frankfurt(Main) - Köln - Amsterdam"
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:&nbsp;</strong></p>\n\n<p><strong>D&uuml;sseldorf, Duisburg und Oberhausen</strong> erreichen Sie weiterhin mit den noch verkehrenden Z&uuml;gen des Fernverkehrs sowie mit Z&uuml;gen des Regionalverkehrs ab K&ouml;ln.</p>\n\n<p><strong>Arnhem </strong>erreichen Sie mit Z&uuml;gen der niederl&auml;ndischen Eisenbahn ab Utrecht und Amsterdam.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Die Stadt Oberhausen informiert auf ihrer Internetpr&auml;senz &uuml;ber den Fortgang der Arbeiten:&nbsp;<a href=\"https://www.oberhausen.de/de/index/rathaus/news/2022/20_zentner_bombe_wird_morgen_in_holten_gesprengt.php\" target=\"_blank\">Stadt Oberhausen</a>.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
+      ],
+      "lastModified": "13.10.2022 08:25",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 316
+    },
+    {
       "id": "380e295c-9f0c-426d-a290-e3a84bfe57e2",
       "headline": "Sonderkulanz für von der Zugfunkstörung in Norddeutschland betroffene Reisende",
       "newsType": "Störung Zugfunk",
