@@ -199,6 +199,31 @@
       "priorityValue": 102
     },
     {
+      "id": "7b63c759-1517-43c0-8289-6032bb44f681",
+      "headline": "Beeinträchtigungen zwischen Bad Oldesloe und Hamburg Hbf",
+      "newsType": "Vandalismus",
+      "timePeriod": "14. Oktober 2022 bis vsl. 18:00 Uhr",
+      "introText": "<p>Aufgrund einer Besch&auml;digung an der Infrastruktur durch Vandalismus kommt es auf der Strecke zwischen Hamburg Hbf und Bad Oldesloe / L&uuml;beck Hbf zu Versp&auml;tungen und Ausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "RE 8 (Lübeck Hbf – Hamburg Hbf): Es kommt zu Verspätungen in beide Richtungen.",
+        "RE 80 (Lübeck Hbf – Ahrensburg – Hamburg Hbf): Es kommt zu Verspätungen in beide Richtungen. ",
+        "RB 81 (Bad Oldesloe - Hamburg Hbf): Es kommt zu einzelnen Ausfällen und Verspätungen in beide Richtungen."
+      ],
+      "closingText": "<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung bis zu 30 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"http://reiseauskunft.bahn.de\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der <a href=\"http://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">App DB Navigator</a> oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf <a href=\"http://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"http://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "hh",
+        "sh"
+      ],
+      "lastModified": "14.10.2022 08:51",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
       "headline": "Meldungen der S-Bahn Berlin",
       "newsType": "Störung",
@@ -409,8 +434,8 @@
       "id": "53032035-1a61-4610-a36b-33b4acdf5c85",
       "headline": "Kein Zugverkehr zwischen Wörth(Rhein) und Lauterbourg",
       "newsType": "erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
-      "timePeriod": "bis auf Weiteres",
-      "introText": "<p>Wegen kurzfristiger Erkrankungen von Personal fallen bis auf Weiteres alle Z&uuml;ge zwische W&ouml;rth(Rhein) und Lauterbourg aus.</p>\n",
+      "timePeriod": "ab Montag, 10.10.2022",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal entfallen ab Montag, 10.10.2022 alle Z&uuml;ge zwische W&ouml;rth(Rhein) und Lauterbourg.</p>\n",
       "connectionsHeadline": "RB52 Wörth(Rhein) - Lauterbourg",
       "connections": [],
       "download": {
@@ -424,7 +449,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "13.10.2022 12:59",
+      "lastModified": "14.10.2022 08:18",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
@@ -433,11 +458,14 @@
       "id": "4667d4fd-e094-4ae6-8eca-282f6bd82262",
       "headline": "Kein Zuverkehr zwischen Schopp und Pirmasens Hbf",
       "newsType": "erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
-      "timePeriod": "11.10.2022 bis 14.10.2022",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal wird der Zugverkehr der RB64 zwischen Schopp und Pirmasens Hbf eingestellt.</p>\n\n<p>Bitte beachten:<strong> RB 12803 </strong>und <strong>RB 12806</strong><strong> </strong>verkehren auf dem vollst&auml;ndigen Laufweg zwischen Kaiserslautern Hbf und Pirmasens Hbf.</p>\n\n<p><strong>Vorabinformation f&uuml;r den 15.10. &amp; 16.10.2022:</strong><br />\nDer Zugverkehr zwischen Kaiserslautern und Pirmasens wird am Wochenende komplett eingestellt.<br />\nEin Busnotverkehr wird eingerichtet.</p>\n",
+      "timePeriod": "ab Dienstag, 11.10.2022",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal wird der Zugverkehr ab Dienstag, 11.10.2022 bis voraussichtlich Freitag, 14.10.2022 zwischen Schopp und Pirmasens Hbf eingestellt.</p>\n\n<p>Z&uuml;ge verkehren nur zwischen KaiserslauternHbf und Schopp sowie in Gegenrichtung.</p>\n\n<p>Die Z&uuml;ge&nbsp;<strong>RB 12803 </strong>(Abfahrt in Kaiserslautern 5:14 Uhr)<strong>&nbsp;</strong>und <strong>RB 12806</strong>&nbsp;(Abfahrt in Pirmasens 6:37 Uhr)<strong>&nbsp;</strong>verkehren auf dem vollst&auml;ndigen Laufweg zwischen Kaiserslautern Hbf und Pirmasens Hbf.</p>\n\n<p>Wir haben einen&nbsp;<strong>Busnotverkehr zwischen Schopp und Pirmasens Hbf</strong>&nbsp;eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und nicht immer unmittelbar am Bahnhof halten k&ouml;nnen. Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden nicht m&ouml;glich.</p>\n",
       "connectionsHeadline": "RB64 Kaiserslautern - Schopp - Pirmasens",
       "connections": [],
-      "closingText": "<p>Ein <strong>Busnotverkehr zwischen Schopp und Pirmasens Hbf</strong> wurde eingerichtet.</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und nicht immer unmittelbar am Bahnhof halten k&ouml;nnen. Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden nicht m&ouml;glich.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;&nbsp;</p>\n\n<p>Informieren Sie sich regelm&auml;&szlig;ig im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "download": {
+        "text": "<p><strong><em>Am Wochenende 15.10.22&nbsp; und 16.10.22</em></strong>&nbsp; wird der&nbsp;Zugverkehr zwischen Kaiserslautern Hbf und Pirmasens Hbf komplett eingestellt.<br />\nWir arbeiten derzeit an der Einrichtung eines Busnotverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n"
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;&nbsp;</p>\n\n<p>Informieren Sie sich regelm&auml;&szlig;ig im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -445,7 +473,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "13.10.2022 13:02",
+      "lastModified": "14.10.2022 08:16",
       "expand": false,
       "priorityValue": 101
     },
@@ -641,7 +669,7 @@
       "headline": "Veränderter Fahrplan zwischen Stuttgart und Bisingen",
       "newsType": "Erhöhter Krankenstand",
       "timePeriod": "bis Freitag, 14. Oktober 2022",
-      "introText": "<p>Die Z&uuml;ge der Linie IRE 6 fallen zwischen Stuttgart und Bisingen aus. Nutzen Sie zwischen Stuttgart - T&uuml;bingen - Bisingen ersatzweise die SWEG-Z&uuml;ge der Linien RE 12, RB 18 und HZL RB 66.</p>\n\n<p>Ab 15. Oktober 2022 fahren die Z&uuml;ge wieder zwischen T&uuml;bingen und Bisingen, zwischen Stuttgart und T&uuml;bingen wird der Fahrplan aufgrund von Bauarbeiten bei Metzingen angepasst.</p>\n\n<p>Der Fahrplan ist in der Reiseauskunft auf z.B. www.bahn.de und im DB Navigator ersichtlich.</p>\n",
+      "introText": "<p>Die Z&uuml;ge der Linie IRE 6 fallen zwischen Stuttgart und Bisingen aus. Nutzen Sie zwischen Stuttgart - T&uuml;bingen - Bisingen ersatzweise die SWEG-Z&uuml;ge der Linien RE 12, RB 18 und HZL RB 66.</p>\n\n<p>Bitte beachten Sie, dass es aufgrund von Streikauswirkungen im gesamten Bediengebiet der SWEG Bahn Stuttgart GmbH vom 14.10.2022 um 02:00 Uhr bis zum 17.10.2022 um 02:00 Uhr zu Zugausf&auml;llen und starken Beeintr&auml;chtigungen kommt. Grund ist ein Streikaufruf durch die Gewerkschaft.</p>\n\n<p>Ab 15. Oktober 2022 fahren die Z&uuml;ge wieder zwischen T&uuml;bingen und Bisingen, zwischen Stuttgart und T&uuml;bingen wird der Fahrplan aufgrund von Bauarbeiten bei Metzingen angepasst.</p>\n\n<p>Der Fahrplan ist in der Reiseauskunft auf z.B. www.bahn.de und im DB Navigator ersichtlich.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "IRE 6: Plochingen - Tübingen - Bisingen"
@@ -654,7 +682,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "09.09.2022 00:01",
+      "lastModified": "14.10.2022 08:50",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
