@@ -142,7 +142,7 @@
         "RB69 Weinheim(Bergstr) - Fürth(Odenw)"
       ],
       "download": {
-        "text": "<p><u><strong>RB63 Worms &lt;&gt; Bensheim:</strong></u><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch im Zeitraum <strong>von 6 Uhr bis 16 Uhr</strong>.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p><strong><u>RB69 Weinheim(Bergstr) &lt;&gt; F&uuml;rth(Odenw):</u></strong><br />\nEs verkehren <strong>nur einzelne Z&uuml;ge</strong> zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw). Z&uuml;ge im Sch&uuml;lerverkehr fahren regul&auml;r.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p><em><strong><u>Die aktuellen Ersatzfahrpl&auml;ne finden Sie hier:</u></strong></em></p>\n",
+        "text": "<p><u><strong>RB63 Worms &lt;&gt; Bensheim:</strong></u><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch im Zeitraum <strong>von 6 Uhr bis 16 Uhr</strong>. In den &uuml;brigen Zeiten f&auml;hrt ein Ersatzverkehr mit Bussen gem&auml;&szlig; Ersatzfahrplan.<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p><strong><u>RB69 Weinheim(Bergstr) &lt;&gt; F&uuml;rth(Odenw):</u></strong><br />\nEs verkehren <strong>nur einzelne Z&uuml;ge</strong> zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw). Z&uuml;ge im Sch&uuml;lerverkehr fahren regul&auml;r.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p><em><strong><u>Die aktuellen Ersatzfahrpl&auml;ne finden Sie hier:</u></strong></em></p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:5ee086de-69fb-489b-97c5-90e37fad83d7/RB63_%20Worms-Bensheim_%20ab%2010.10.22.pdf",
@@ -168,7 +168,7 @@
         "he",
         "rp"
       ],
-      "lastModified": "14.10.2022 10:47",
+      "lastModified": "14.10.2022 11:27",
       "author": "mitte",
       "expand": false,
       "priorityValue": 103
@@ -478,25 +478,28 @@
       "priorityValue": 101
     },
     {
-      "id": "70dafb4d-07b8-4327-8dfd-070b0df6d532",
-      "headline": "Kein Zugverkehr zwischen Kaiserslautern und Lauterecken-Grumbach an Wochenenden",
+      "id": "2c231385-7e6e-4b41-8450-4b11c5e72e47",
+      "headline": "Vorübergehend reduziertes Fahrplanangebot in der Westpfalz",
       "newsType": "Erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
-      "timePeriod": "ab 1. Oktober 2022 jeweils ganztägig an Wochenenden",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal wird der Zugverkehr zwischen Kaiserslautern Hbf und Lauterecken-Grumbach an den Wochenenden jeweils ganzt&auml;gig eingestellt.</p>\n",
-      "connectionsHeadline": "RB66  Kaiserslautern -  Wolfstein - Lauterecken-Grumbach",
-      "connections": [],
+      "timePeriod": "ab 1. Oktober 2022",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal kommt es zu Beeintr&auml;chtigungen im Bahnverkehr bei DB Regio Mitte. Um einen stabilen Zugverkehr anbieten zu k&ouml;nnen, wird das Fahrplanangebot auf mehreren Linien vor&uuml;bergehend reduziert.&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "RB64 Kaiserslautern - Waldfischbach - Pirmasens",
+        "RB66 Kaiserslautern - Wolfstein - Lauterecken-Grumbach"
+      ],
       "download": {
-        "text": "<p>Wir k&ouml;nnen derzeit leider nur in begrenztem Umfang einen Ersatzverkehr mit Bussen anbieten, weil nicht gen&uuml;gend Busse zur Verf&uuml;gung stehen.</p>\n\n<p><strong><u>Den aktuellen Ersatzfahrplan finden Sie hier:</u></strong></p>\n",
+        "text": "<p><strong><u>RB64 Kaiserslautern &lt;&gt; Pirmasens:</u></strong><br />\nAb Montag, 17.10.2022 verkehren die Z&uuml;ge von <strong>Mo-Fr</strong> nur noch ab <strong>Betriebsbeginn bis 15:30 Uhr.</strong>&nbsp;Ab 15:30 Uhr pendelt jeweils ein Busnotverkehr zwischen Kaiserslautern und Pirmasens.<br />\nAn den <strong>Wochenenden</strong> wird der Zugverkehr<strong> komplett eingestellt</strong> und auf einen Ersatzverkehr mit Bussen umgestellt.</p>\n\n<p><strong><u>RB66 Kaiserslautern &lt;&gt; Lauterecken-Grumbach:</u></strong><br />\nVon Montag bis Freitag verkehren die Z&uuml;ge nach dem regul&auml;ren Fahrplan.&nbsp;<br />\nAn <strong>Wochenenden</strong> wird der Zugverkehr zwischen Kaiserslautern und Lauterecken-Grumbach <strong>komplett eingestellt</strong> und auf einen Ersatzverkehr mit Bussen umgestellt.</p>\n\n<p>Hier k&ouml;nnen wir derzeit leider nur in begrenztem Umfang einen Ersatzverkehr mit Bussen anbieten, weil nicht gen&uuml;gend Busse zur Verf&uuml;gung stehen.</p>\n\n<p><strong><u>Den aktuellen Ersatzfahrplan finden Sie hier:</u></strong></p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:70996b28-d941-4156-827d-1c911de9fb33/RB66_Kaiserslautern-Lauterecken_%20SEV%20begrenzt.pdf",
-            "title": "RB66_Kaiserslautern-Lauterecken_ SEV begrenzt.pdf (PDF, 165 KB)",
+            "title": "RB66_ Ersatzfahrplan Kaiserslautern - Lauterecken-Grumbach, gültig ab 10.10.2022 (PDF, 165 KB)",
             "info": "",
-            "openInNewTab": false
+            "openInNewTab": true
           }
         ]
       },
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;&nbsp;</p>\n\n<p>Informieren Sie sich regelm&auml;&szlig;ig im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -504,7 +507,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "12.10.2022 11:13",
+      "lastModified": "14.10.2022 11:28",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
