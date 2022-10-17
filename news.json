@@ -354,33 +354,6 @@
       "priorityValue": 101
     },
     {
-      "id": "094357ca-7bf1-49f6-ae8f-11a2ed278f44",
-      "headline": "Kein Zugverkehr zwischen Andernach und Mayen Ost",
-      "newsType": "kurzfristige Erkrankung von Stellwerkspersonal",
-      "timePeriod": "Montag, 17.10.2022",
-      "introText": "<p>Ein kurzfristiger Personalausfall auf einem Stellwerk beeintr&auml;chtigt den Zugverkehr zwischen Andernach und Mayen Ost. Zur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.</p>\n",
-      "connectionsHeadline": "Betroffene Linien:",
-      "connections": [
-        "RB23 Limburg - Koblenz - Andernach - Mayen Ost",
-        "RB38 Andernach - Mayen Ost - Kaisersesch"
-      ],
-      "download": {
-        "text": "<p>Die Z&uuml;ge der Linie RB23 aus Richtung Limburg(Lahn) enden und beginnen in Andernach. Die Z&uuml;ge der Linie RB38 verkehren nur zwischen Kaisersesch und Mayen Ost.</p>\n\n<p>Wir haben f&uuml;r Sie einen Busnotverkehr mit zwei Bussen der Firma Lieser Reisen zwischen Andernach und Mayen Ost mit allen Unterwegshalten eingerichtet.</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren nicht immer unmittelbar am Bahnhof halten k&ouml;nnen. Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden nicht m&ouml;glich.</p>\n\n<p>Zur Dauer der Beeintr&auml;chtigung liegen uns leider keine Informationen vor. Sobald wir neuere Informationen haben, halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n"
-      },
-      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "rp"
-      ],
-      "lastModified": "17.10.2022 08:08",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
       "id": "53032035-1a61-4610-a36b-33b4acdf5c85",
       "headline": "Kein Zugverkehr zwischen Wörth(Rhein) und Lauterbourg",
       "newsType": "erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
@@ -416,8 +389,14 @@
         "RB66 Kaiserslautern - Wolfstein - Lauterecken-Grumbach"
       ],
       "download": {
-        "text": "<p><strong><u>RB64 Kaiserslautern &lt;&gt; Pirmasens:</u></strong><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch ab <strong>Betriebsbeginn bis 15:30 Uhr.</strong>&nbsp;Ab 15:30 Uhr pendelt jeweils ein Busnotverkehr zwischen Kaiserslautern und Pirmasens.<br />\nAn den <strong>Wochenenden</strong> wird der Zugverkehr<strong> komplett eingestellt</strong> und auf einen Ersatzverkehr mit Bussen umgestellt.</p>\n\n<p><strong><u>RB66 Kaiserslautern &lt;&gt; Lauterecken-Grumbach:</u></strong><br />\nVon Montag bis Freitag verkehren die Z&uuml;ge nach dem regul&auml;ren Fahrplan.&nbsp;<br />\nAn <strong>Wochenenden</strong> wird der Zugverkehr zwischen Kaiserslautern und Lauterecken-Grumbach <strong>komplett eingestellt</strong> und auf einen Ersatzverkehr mit Bussen umgestellt.</p>\n\n<p>Hier k&ouml;nnen wir derzeit leider nur in begrenztem Umfang einen Ersatzverkehr mit Bussen anbieten, weil nicht gen&uuml;gend Busse zur Verf&uuml;gung stehen.</p>\n\n<p><strong><u>Den aktuellen Ersatzfahrplan finden Sie hier:</u></strong></p>\n",
+        "text": "<p><strong><u>RB64 Kaiserslautern &lt;&gt; Pirmasens:</u></strong><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch ab <strong>Betriebsbeginn bis 15:30 Uhr.</strong>&nbsp;Ab 15:30 Uhr pendelt jeweils ein Busnotverkehr zwischen Kaiserslautern und Pirmasens.<br />\nAn den <strong>Wochenenden</strong> wird der Zugverkehr<strong> komplett eingestellt</strong> und auf einen Ersatzverkehr mit Bussen umgestellt.</p>\n\n<p><strong><u>RB66 Kaiserslautern &lt;&gt; Lauterecken-Grumbach:</u></strong><br />\nVon Montag bis Freitag verkehren die Z&uuml;ge nach dem regul&auml;ren Fahrplan.&nbsp;<br />\nAn <strong>Wochenenden</strong> wird der Zugverkehr zwischen Kaiserslautern und Lauterecken-Grumbach <strong>komplett eingestellt</strong> und auf einen Ersatzverkehr mit Bussen umgestellt.</p>\n\n<p>Hier k&ouml;nnen wir derzeit leider nur in begrenztem Umfang einen Ersatzverkehr mit Bussen anbieten, weil nicht gen&uuml;gend Busse zur Verf&uuml;gung stehen.</p>\n\n<p><em><strong><u>Die aktuellen Ersatzfahrpl&auml;ne finden Sie hier:</u></strong></em></p>\n",
         "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:33bd636b-a521-45a2-9055-1b1ffba50b3f/RB64_%20Kaiserslautern-Pirmasens_%20Mo-Fr_%20ab%2017.10.22.pdf",
+            "title": "RB64_ Ersatzfahrplan Kaiserslautern-Pirmasens Mo-Fr, gültig ab 17.10.22 (PDF, 212 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:70996b28-d941-4156-827d-1c911de9fb33/RB66_Kaiserslautern-Lauterecken_%20SEV%20begrenzt.pdf",
             "title": "RB66_ Ersatzfahrplan Kaiserslautern - Lauterecken-Grumbach, gültig ab 10.10.2022 (PDF, 165 KB)",
@@ -434,7 +413,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "17.10.2022 06:26",
+      "lastModified": "17.10.2022 11:08",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
@@ -620,7 +599,7 @@
       "headline": "Veränderter Fahrplan auf der Schwarzwaldbahn",
       "newsType": "Reparatur an mehreren Zügen",
       "timePeriod": "bis vsl. Mitte November",
-      "introText": "<p>DB Regio f&auml;hrt weiter im Zweistundentakt zwischen Offenburg und Konstanz. Zwischen Karlsruhe und Offenburg bleibt es beim f&uuml;r Sch&uuml;ler:innen und Pendler:innen wichtigen Stundentakt.</p>\n\n<p>Ab 18. Oktober 2022 setzt DB Regio zus&auml;tzlich einen Pendelzug zwischen Offenburg und Hornberg ein, der den Fahrplan in diesem Abschnitt zu einem Stundentakt erg&auml;nzt.</p>\n\n<p>Zus&auml;tzlich verkehren zwei Nachtbusse auf den Abschnitten Hornberg&mdash;Konstanz (montags bis freitags und sonntags) bzw. Engen&mdash;Offenburg (montags bis freitags und sonntags) ebenfalls ab 18. Oktober 2022.</p>\n\n<p>Der Fahrplan ist, bis auf die zus&auml;tzlichen Nachtbusse, in der Reiseauskunft auf www.bahn.de und im DB Navigator ersichtlich. Bei den Nachtbussen m&uuml;ssen letzte Abstimmungen bei den Fahrzeiten gemacht werden. Sobald uns diese vorliegen, werden die Zeiten im angeh&auml;ngten Fahrplan erg&auml;nzt, sowie in der Reiseauskunft eingepflegt.</p>\n\n<p>Voraussichtlich ab Mitte November stellt DB Regio den Fahrg&auml;sten auf der gesamten Schwarzwaldbahn wieder den gewohnten Stundentakt zur Verf&uuml;gung.</p>\n",
+      "introText": "<p>DB Regio f&auml;hrt weiter im Zweistundentakt zwischen Offenburg und Konstanz. Zwischen Karlsruhe und Offenburg bleibt es beim f&uuml;r Sch&uuml;ler:innen und Pendler:innen wichtigen Stundentakt.</p>\n\n<p>Ab 18. Oktober 2022 setzt DB Regio zus&auml;tzlich einen Pendelzug zwischen Offenburg und Hornberg ein, der den Fahrplan in diesem Abschnitt zu einem Stundentakt erg&auml;nzt.</p>\n\n<p>Zus&auml;tzlich verkehren Nachtbusse:</p>\n\n<p>- 18. Oktober bis 13. November: Abfahrt Hornberg 23:00 Uhr, Ankunft Konstanz 02:04 Uhr<br />\n- 2. November und 14. November: Abfahrt Villingen 00:42 Uhr, Ankunft Konstanz 03:00 Uhr<br />\n- 18. Oktober bis 13. November montags bis freitags und sonntags: Abfahrt Engen 21:15 Uhr, Ankunft Offenburg 00:29 Uhr</p>\n\n<p>Der Fahrplan ist, bis auf die zus&auml;tzlichen Nachtbusse, in der Reiseauskunft auf www.bahn.de und im DB Navigator ersichtlich. Bei den Nachtbussen m&uuml;ssen letzte Abstimmungen bei den Fahrzeiten gemacht werden. Sobald uns diese vorliegen, werden die Zeiten im angeh&auml;ngten Fahrplan erg&auml;nzt, sowie in der Reiseauskunft eingepflegt.</p>\n\n<p>Voraussichtlich ab Mitte November stellt DB Regio den Fahrg&auml;sten auf der gesamten Schwarzwaldbahn wieder den gewohnten Stundentakt zur Verf&uuml;gung.</p>\n",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
         "RE 2 Karlsruhe Hbf - Offenburg - Konstanz"
@@ -644,7 +623,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "17.10.2022 01:40",
+      "lastModified": "17.10.2022 11:16",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
