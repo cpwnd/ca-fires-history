@@ -1,30 +1,6 @@
 {
   "news": [
     {
-      "id": "f370b359-c8f6-4e2f-b2b4-d4f7fabb9647",
-      "headline": "Beeinträchtigungen zwischen Hamburg und Lübeck",
-      "newsType": "Vandalismusschäden",
-      "timePeriod": "vsl. bis Montag, 17.10.2022 ",
-      "introText": "<p>Aufgrund von Vandalismussch&auml;den in Ahrensburg kommt es im Fernverkehr der Deutschen Bahn zu Beeintr&auml;chtigungen. Die Strecke ist derzeit aktuell nur eingleisig befahrbar. Es kommt zu Versp&auml;tungen. Einzelne Z&uuml;ge k&ouml;nnen zwischen Hamburg und L&uuml;beck ausfallen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE- und IC-Züge auf dem Abschnitt zwischen Hamburg und Lübeck"
-      ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:&nbsp;</strong></p>\n\n<p><strong>Nutzen Sie zwischen L&uuml;beck und Hamburg die Regionalz&uuml;ge der Linie RE 8 und RE 80, Fahrtzeit etwa 45 Minuten.</strong></p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "hh",
-        "sh"
-      ],
-      "lastModified": "14.10.2022 17:13",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 202
-    },
-    {
       "id": "6541c8ed-431d-4bb3-a99e-931c03bdd481",
       "headline": "Einschränkungen im Dieselnetz VVO",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
@@ -98,6 +74,29 @@
       "lastModified": "05.10.2022 23:02",
       "author": "bayern",
       "expand": false,
+      "priorityValue": 201
+    },
+    {
+      "id": "c9d068e4-0ccd-4d8a-893d-ba0f556a0296",
+      "headline": "Beeinträchtigungen zwischen Stuttgart und Mannheim / Heidelberg / Karlsruhe",
+      "newsType": "Notarzteinsatz auf der Strecke",
+      "timePeriod": "Am heutigen Montag, 17.10.2022 vsl. bis in die Abendstunden",
+      "introText": "<p>Aufgrund eines Notarzteinsatzes ist die Schnellfahrstrecke zwischen Stuttgart und Mannheim, Heidelberg bzw. Karlsruhe derzeit gesperrt. Einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn m&uuml;ssen umgeleitet werden und versp&auml;ten sich dadurch um etwa <strong>15 Minuten</strong>.&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "IC/ICE-Züge zwischen Stuttgart und Mannheim, Heidelberg bzw. Karlsruhe"
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "17.10.2022 16:03",
+      "author": "fernverkehr_ag",
+      "expand": true,
       "priorityValue": 201
     },
     {
@@ -211,6 +210,31 @@
       "lastModified": "21.03.2022 18:12",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "31edf55f-e5e0-4ce9-b0dc-7e7b79574ecc",
+      "headline": "Am 18.10.2022 kommt es auf der Maintalbahn zu Teilausfällen bei der Westfrankenbahn",
+      "newsType": "Kurzfristige Erkrankung von Personal im Stellwerk ",
+      "timePeriod": "am 18.10.2022 von 12-21 Uhr",
+      "connectionsHeadline": "Betroffener Streckenabschnitt:",
+      "connections": [
+        "Aschaffenburg -  Kleinwallstadt"
+      ],
+      "download": {
+        "text": "<p>Wir versuchen einen Ersatzverkehr mit Bus f&uuml;r die ausfallenden Z&uuml;ge einzurichten.&nbsp;</p>\n"
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "by"
+      ],
+      "lastModified": "17.10.2022 16:03",
+      "expand": false,
       "priorityValue": 102
     },
     {
