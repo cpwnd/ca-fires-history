@@ -208,7 +208,7 @@
       "headline": "Bombenentschärfung zwischen Eichgestell und Grünauer Kreuz",
       "newsType": "Umleitungen und Teilausfälle",
       "timePeriod": "22. Oktober 2022 (ca. 8:30 Uhr bis ca. 15:30 Uhr)",
-      "introText": "<p>Am Samstag (22.10.22) findet in Berlin eine Bombenentsch&auml;rfung statt.</p>\n\n<p>Bitte rechnen Sie im Zeitraum zwischen 9:00 Uhr und 15:00 Uhr mit Einschr&auml;nkungen (Umleitungen und Teilausf&auml;lle im Raum Berlin) auf folgenden Linien:</p>\n\n<p><strong>RE7 Dessau Hbf - Berlin - W&uuml;nsdorf-Waldstadt</strong></p>\n\n<p><strong>RB14 Nauen - Berlin - Flughafen BER Terminal 1-2</strong></p>\n\n<p><strong>FEX Berlin Hbf - Flughafen BER Terminal 1-2</strong></p>\n\n<p>Sobald uns Details zu den Auswirkungen vorliegen, werden wir Sie an dieser Stelle informieren.</p>\n",
+      "introText": "<p>Am Samstag (22.10.22) findet in Berlin eine Bombenentsch&auml;rfung statt.</p>\n\n<p>Bitte rechnen Sie im Zeitraum zwischen 9:00 Uhr und 15:00 Uhr mit Einschr&auml;nkungen (Umleitungen und Teilausf&auml;lle im Raum Berlin) auf folgenden Linien:</p>\n\n<p><strong>RE7 Dessau Hbf - Berlin - W&uuml;nsdorf-Waldstadt</strong></p>\n\n<p>- Umleitung mit Halt in Berlin Ostkreuz (oben) und Berlin Gesundbrunnen<br />\n&nbsp;- Die Halte in Berlin Ostbahnhof, Alexanderplatz, Friedrichstra&szlig;e, Berlin Hbf, Zoologischer Garten und Berlin- Charlottenburg fallen aus.&nbsp;</p>\n\n<p><strong>RB14 Nauen - Berlin - Flughafen BER - Terminal 1-2</strong></p>\n\n<p>- Ausfall zwischen Berlin Ostkreuz und Flughafen BER - Terminal 1-2<br />\n-&nbsp;Ersatz ab Berlin-Ostkreuz mit FEX oder RE7.</p>\n\n<p><strong>Der FEX ist von der Sperrung nicht betroffen.</strong></p>\n\n<p>Der genaue Zeitraum der Sperrung wird erst am Freitag festgelegt. Wir informieren Sie an dieser Stelle, wenn uns weitere Informationen vorliegen.<br />\n&nbsp;</p>\n",
       "connections": [],
       "closingText": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
       "priority": "0",
@@ -219,7 +219,7 @@
         "be",
         "br"
       ],
-      "lastModified": "18.10.2022 13:23",
+      "lastModified": "18.10.2022 16:18",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -479,6 +479,29 @@
       ],
       "lastModified": "17.10.2022 11:08",
       "author": "mitte",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "d73fc4ca-0aec-4dbf-b058-d8be089110cb",
+      "headline": "Teilausfälle zwischen Kelsterbach und Wiesbaden Hbf",
+      "newsType": "Kurzfristiger Personalausfall",
+      "timePeriod": "Ab 18.10.2022 um 20:00 Uhr bis auf Weiteres",
+      "introText": "<p>Im S-Bahnverkehr der Deutschen Bahn AG in Hessen kommt es zu Teilausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf"
+      ],
+      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p><strong>S9:</strong><br />\nDie Z&uuml;ge der S9 aus Richtung Hanau Hbf / Frankfurt(Main)Hbf enden vorzeitig in Kelsterbach und wenden dort.</p>\n\n<p><strong>Empfehlungen:</strong><br />\nNutzen Sie die S8 zwischen Frankfurt(Main)Hbf - Kelsterbach - Wiesbaden Hbf.<br />\nNutzen Sie die S1 zwischen den Stationen Wiesbaden Hbf - Mainz-Kastel - Frankfurt(Main)Hbf.<br />\nNutzen Sie auch die Busse des Stadtverkehrs zwischen Mainz-Bischofsheim und Mainz-Kastel.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"http://www.bahn.de\" target=\"_blank\">bahn.de</a> oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:00496924445710\">069 2444 5710</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "he"
+      ],
+      "lastModified": "18.10.2022 16:25",
+      "author": "hessen",
       "expand": false,
       "priorityValue": 101
     },
