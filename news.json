@@ -126,27 +126,38 @@
       "priorityValue": 201
     },
     {
-      "id": "0c0fc44d-6ae0-4d34-9a7a-2dd473cecd6d",
-      "headline": "Verspätungen zwischen Koblenz und Mainz",
-      "newsType": "Reparatur an einer Weiche",
-      "timePeriod": "Heute (Dienstag), 18.10.2022, bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund einer Weichenst&ouml;rung zwischen Koblenz und Mainz kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE-/IC-/EC-Züge zwischen Koblenz und Mainz."
-      ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
+      "id": "ad5a0857-3b93-4557-92a4-fd22b7483b8b",
+      "headline": "Verlängerung Baumaßnahme RE3, RB24 und RB66",
+      "newsType": "Bauarbeiten ",
+      "timePeriod": "bis 23.Oktober 2022 ",
+      "introText": "<ul>\n\t<li>Die Z&uuml;ge der Linie <strong>RE 3</strong> (Stralsund/Schwedt &ndash; Lutherstadt Wittenberg/Falkenberg (Elster)) fallen zwischen Prenzlau/Eberswalde Hbf und Berlin Hbf/Berlin S&uuml;dkreuz aus. Als Ersatz nutzen Sie bitte die Busse zwischen Eberswalde Hbf und Bernau (b Berlin) sowie die S-Bahnen zwischen Bernau (b Berlin) und Berlin.</li>\n\t<li>Die Z&uuml;ge der Linie <strong>RE 66</strong> (Szczecin &ndash; Berlin-Gesundbrunnen) fallen zwischen Szczecin Glowny und Berlin-Gesundbrunnen aus. Als Ersatz nutzen Sie bitte die Z&uuml;ge und Busse der Linien RE 3 und RB 66 (Szczecin Glowny &ndash; Angerm&uuml;nde).</li>\n\t<li>Die Z&uuml;ge der Linie <strong>RB 24</strong> (Eberswalde &ndash; Senftenberg) fallen zwischen Eberswalde Hbf und Bernau (b Berlin) aus und werden durch Busse ersetzt. In Bernau (b Berlin) besteht &Uuml;bergang vom/zum Regel-SEV aus/in Richtung Berlin-Hohensch&ouml;nhausen.</li>\n</ul>\n",
+      "connections": [],
+      "closingText": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, bei <a href=\"https://bauinfos.deutschebahn.com/berlin-bb\">baubedingten Fahrplan&auml;nderungen</a>, sowie in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
+      "priority": "0",
       "distance": [
-        "longDistance"
+        "regional"
       ],
       "areas": [
-        "rp"
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
       ],
-      "lastModified": "18.10.2022 12:57",
-      "author": "fernverkehr_ag",
+      "lastModified": "18.10.2022 13:36",
       "expand": false,
-      "priorityValue": 201
+      "priorityValue": 116
     },
     {
       "id": "da4dcadd-2f1c-49de-9e85-e9fff6231e7e",
@@ -259,19 +270,19 @@
     },
     {
       "id": "31edf55f-e5e0-4ce9-b0dc-7e7b79574ecc",
-      "headline": "Am 18.10.2022 kommt es bei der Westfrankenbahn zu Teilausfällen auf der Maintalbahn",
+      "headline": "Bei der Westfrankenbahn kommt es zu Teilausfällen auf der Maintalbahn zwischen Kleinwallstadt und Aschaffenburg",
       "newsType": "Kurzfristige Erkrankung von Personal im Stellwerk Aschaffenburg",
-      "timePeriod": "am 18.10.2022 von 12-21 Uhr",
+      "timePeriod": "vom 18. Oktober bis 28. Oktober 2022 (nicht am Wochenende)",
       "connectionsHeadline": "Betroffener Streckenabschnitt:",
       "connections": [
         "Aschaffenburg -  Kleinwallstadt"
       ],
       "download": {
-        "text": "<p>F&uuml;r die ausfallenden Z&uuml;ge haben wir einen Schienenersatzverkehr mit Bus f&uuml;r Sie eingerichtet. <strong>Bitte beachten Sie, dass die Busse nicht an der Hochschule Aschaffenburg halten.</strong> Unter dem folgenden Link finden Sie den Fahrplan.</p>\n",
+        "text": "<p>Am Dienstag, den 18. Oktober haben wir f&uuml;r die ausfallenden Z&uuml;ge einen Schienenersatzverkehr mit Bus f&uuml;r Sie eingerichtet. <strong>Bitte beachten Sie, dass die Busse nicht an der Hochschule Aschaffenburg halten.</strong>&nbsp;Weiter unten finden Sie den Fahrplan f&uuml;r Dienstag, den 18. Oktober.</p>\n\n<p>Auch f&uuml;r den Zeitraum ab dem 19. Oktober bis zum 28. Oktober versuchen wir, einen Schienenersatzverkehr zu organisieren, warten jedoch noch auf die R&uuml;ckmeldung unserer Partner.</p>\n\n<p>Am Wochenende verkehren die Z&uuml;ge planm&auml;&szlig;ig.</p>\n\n<p>Sobald wir weitere Informationen haben, wird diese Meldung aktualisiert.</p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:3d0c809e-dfe9-4032-99b6-67cc26412e39/Aschaffenburg_Kleinwallstadt_18102022.pdf",
-            "title": "SEV Fahrplan zwischen Aschaffenburg und Kleinwallstadt (PDF, 111 KB)",
+            "title": "SEV Fahrplan für Dienstag, den 18. Oktober zwischen Aschaffenburg und Kleinwallstadt (PDF, 111 KB)",
             "info": "",
             "openInNewTab": true
           }
@@ -286,7 +297,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "18.10.2022 09:38",
+      "lastModified": "18.10.2022 13:33",
       "expand": false,
       "priorityValue": 102
     },
