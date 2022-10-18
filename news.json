@@ -469,29 +469,6 @@
       "priorityValue": 101
     },
     {
-      "id": "d73fc4ca-0aec-4dbf-b058-d8be089110cb",
-      "headline": "Teilausfälle zwischen Kelsterbach und Wiesbaden Hbf",
-      "newsType": "Kurzfristiger Personalausfall",
-      "timePeriod": "Ab 18.10.2022 um 20:00 Uhr bis auf Weiteres",
-      "introText": "<p>Im S-Bahnverkehr der Deutschen Bahn AG in Hessen kommt es zu Teilausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffene Linie:",
-      "connections": [
-        "S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf"
-      ],
-      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p><strong>S9:</strong><br />\nDie Z&uuml;ge der S9 aus Richtung Hanau Hbf / Frankfurt(Main)Hbf enden vorzeitig in Kelsterbach und wenden dort.</p>\n\n<p><strong>Empfehlungen:</strong><br />\nNutzen Sie die S8 zwischen Frankfurt(Main)Hbf - Kelsterbach - Wiesbaden Hbf.<br />\nNutzen Sie die S1 zwischen den Stationen Wiesbaden Hbf - Mainz-Kastel - Frankfurt(Main)Hbf.<br />\nNutzen Sie auch die Busse des Stadtverkehrs zwischen Mainz-Bischofsheim und Mainz-Kastel.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"http://www.bahn.de\" target=\"_blank\">bahn.de</a> oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:00496924445710\">069 2444 5710</a></p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "he"
-      ],
-      "lastModified": "18.10.2022 16:25",
-      "author": "hessen",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
       "id": "c5176419-bec8-4dc4-b500-57737da5c237",
       "headline": "Nicht barrierefreier Ersatzverkehr auf den Linien RB41 und RB49",
       "newsType": "Eingeschränktes Zugangebot ",
@@ -580,6 +557,29 @@
         "he"
       ],
       "lastModified": "30.09.2022 21:26",
+      "author": "hessen",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "d73fc4ca-0aec-4dbf-b058-d8be089110cb",
+      "headline": "Teilausfälle zwischen Kelsterbach und Wiesbaden Hbf",
+      "newsType": "Kurzfristiger Personalausfall",
+      "timePeriod": "Bis auf Weiteres",
+      "introText": "<p>Im S-Bahnverkehr der Deutschen Bahn AG in Hessen kommt es zu Teilausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf"
+      ],
+      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p><strong>S9:</strong><br />\nDie Z&uuml;ge der S9 aus Richtung Hanau Hbf / Frankfurt(Main)Hbf enden vorzeitig in Kelsterbach und wenden dort.</p>\n\n<p><strong>Empfehlungen:</strong><br />\nNutzen Sie die S8 zwischen Frankfurt(Main)Hbf - Kelsterbach - Wiesbaden Hbf.<br />\nNutzen Sie die S1 zwischen den Stationen Wiesbaden Hbf - Mainz-Kastel - Frankfurt(Main)Hbf.<br />\nNutzen Sie auch die Busse des Stadtverkehrs zwischen Mainz-Bischofsheim und Mainz-Kastel.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"http://www.bahn.de\" target=\"_blank\">bahn.de</a> oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:00496924445710\">069 2444 5710</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "he"
+      ],
+      "lastModified": "18.10.2022 20:07",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
