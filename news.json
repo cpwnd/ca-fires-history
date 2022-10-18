@@ -1,6 +1,31 @@
 {
   "news": [
     {
+      "id": "73a94d0e-be49-486d-8056-d93aec327c82",
+      "headline": "Beeinträchtigungen zwischen Wolfsburg und Berlin",
+      "newsType": "Beeinträchtigungen aufgrund von Vandalismusschäden in Gardelegen",
+      "timePeriod": "Heute (Dienstag), 18.10.2022, vsl. bis in die Nachmittagsstunden",
+      "introText": "<p>Aufgrund von Vandalismussch&auml;den in Gardelegen kommt es im Fernverkehr der Deutschen Bahn zu Beeintr&auml;chtigungen. Z&uuml;ge versp&auml;ten sich dadurch um etwa 30 Minuten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE-/IC-Züge auf der Strecke Wolfsburg (– Stendal) – Berlin"
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "be",
+        "br",
+        "ni"
+      ],
+      "lastModified": "18.10.2022 11:11",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 303
+    },
+    {
       "id": "ebc30276-32f1-4afd-8ad9-56ecc359edc7",
       "headline": "Beeinträchtigungen zwischen Hannover und Osnabrück",
       "newsType": "Reparatur an der Oberleitung",
