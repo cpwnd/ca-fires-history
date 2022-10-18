@@ -190,15 +190,23 @@
     },
     {
       "id": "31edf55f-e5e0-4ce9-b0dc-7e7b79574ecc",
-      "headline": "Am 18.10.2022 kommt es auf der Maintalbahn zu Teilausfällen bei der Westfrankenbahn",
-      "newsType": "Kurzfristige Erkrankung von Personal im Stellwerk ",
+      "headline": "Am 18.10.2022 kommt es bei der Westfrankenbahn zu Teilausfällen auf der Maintalbahn",
+      "newsType": "Kurzfristige Erkrankung von Personal im Stellwerk Aschaffenburg",
       "timePeriod": "am 18.10.2022 von 12-21 Uhr",
       "connectionsHeadline": "Betroffener Streckenabschnitt:",
       "connections": [
         "Aschaffenburg -  Kleinwallstadt"
       ],
       "download": {
-        "text": "<p>F&uuml;r die ausfallenden Z&uuml;ge haben wir einen Schienenersatzverkehr mit Bus f&uuml;r Sie eingerichtet.</p>\n"
+        "text": "<p>F&uuml;r die ausfallenden Z&uuml;ge haben wir einen Schienenersatzverkehr mit Bus f&uuml;r Sie eingerichtet. <strong>Bitte beachten Sie, dass die Busse nicht an der Hochschule Aschaffenburg halten.</strong> Unter dem folgenden Link finden Sie den Fahrplan.</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:3d0c809e-dfe9-4032-99b6-67cc26412e39/Aschaffenburg_Kleinwallstadt_18102022.pdf",
+            "title": "SEV Fahrplan zwischen Aschaffenburg und Kleinwallstadt (PDF, 111 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
       },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
       "priority": "0",
@@ -209,7 +217,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "18.10.2022 08:31",
+      "lastModified": "18.10.2022 09:38",
       "expand": false,
       "priorityValue": 102
     },
