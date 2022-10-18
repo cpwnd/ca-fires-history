@@ -419,6 +419,41 @@
       "priorityValue": 101
     },
     {
+      "id": "c5176419-bec8-4dc4-b500-57737da5c237",
+      "headline": "Nicht barrierefreier Ersatzverkehr auf den Linien RB41 und RB49",
+      "newsType": "Eingeschränktes Zugangebot ",
+      "timePeriod": "Bis voraussichtlich 10.12.2022",
+      "introText": "<p>Auf den Linien RB41 sowie RB49 kommt es bis zum 10,12.2022 zum Einsatz von Ersatzz&uuml;gen.</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "RB41 Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Stadtallendorf - Treysa",
+        "RB49: Hanau Hbf - Friedberg(Hess) - Gießen"
+      ],
+      "download": {
+        "text": "<p><strong>Die aktuellen Fahrplantabellen</strong></p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:310649cc-9a94-4510-b3cb-5344fe581f59/10-22%20RE30,%20RB40,%20RB41,%20RBE49%20Ersatzkonzept%20Mittelhessen%2005.09.-21.10.2022.pdf",
+            "title": "Abfahrtszeiten der nicht barrierefreien Züge (RB41 und RB49) 05.09.2022 bis 21.10.2022 (PDF, 249 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>Die Fahrten des Ersatzverkehrs auf den Linien RB41 und RB49 sind <strong>nicht barrierefrei.</strong><br />\nBitte hierf&uuml;r die oben angeh&auml;ngte Fahrplantabelle beachten.</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App.</p>\n\n<p>W&auml;hlen Sie gegebenenfalls eine fr&uuml;here Zugverbindung, um Ihre Anschl&uuml;sse an Ihren Umsteigebahnh&ouml;fen erreichen zu k&ouml;nnen.</p>\n\n<p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "he"
+      ],
+      "lastModified": "18.10.2022 07:16",
+      "author": "hessen",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "b0246dc8-b15c-4303-8625-5297b5c95786",
       "headline": "Teilausfälle im Bahnverkehr der Kurhessenbahn zwischen Korbach Hbf und Volkmarsen ",
       "newsType": "Bauarbeiten",
@@ -447,41 +482,6 @@
         "he"
       ],
       "lastModified": "30.09.2022 21:26",
-      "author": "hessen",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "c5176419-bec8-4dc4-b500-57737da5c237",
-      "headline": "Nicht barrierefreier Ersatzverkehr auf den Linien RB41 und RB49",
-      "newsType": "Eingeschränktes Zugangebot ",
-      "timePeriod": "Bis voraussichtlich 10.12.2022",
-      "introText": "<p>Auf den Linien RB41 sowie RB49 kommt es bis zum 21.10.2022 zum Einsatz von Ersatzz&uuml;gen.</p>\n",
-      "connectionsHeadline": "Betroffene Linie:",
-      "connections": [
-        "RB41 Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Stadtallendorf - Treysa",
-        "RB49: Hanau Hbf - Friedberg(Hess) - Gießen"
-      ],
-      "download": {
-        "text": "<p><strong>Die aktuellen Fahrplantabellen</strong></p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:310649cc-9a94-4510-b3cb-5344fe581f59/10-22%20RE30,%20RB40,%20RB41,%20RBE49%20Ersatzkonzept%20Mittelhessen%2005.09.-21.10.2022.pdf",
-            "title": "Abfahrtszeiten der nicht barrierefreien Züge (RB41 und RB49) 05.09.2022 bis 21.10.2022 (PDF, 249 KB)",
-            "info": "",
-            "openInNewTab": true
-          }
-        ]
-      },
-      "closingText": "<p>Die Fahrten des Ersatzverkehrs auf den Linien RB41 und RB49 sind <strong>nicht barrierefrei.</strong><br />\nBitte hierf&uuml;r die oben angeh&auml;ngte Fahrplantabelle beachten.</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App.</p>\n\n<p>W&auml;hlen Sie gegebenenfalls eine fr&uuml;here Zugverbindung, um Ihre Anschl&uuml;sse an Ihren Umsteigebahnh&ouml;fen erreichen zu k&ouml;nnen.</p>\n\n<p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "he"
-      ],
-      "lastModified": "14.10.2022 14:30",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
