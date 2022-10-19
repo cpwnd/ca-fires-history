@@ -174,7 +174,18 @@
       "newsType": "Bauarbeiten ",
       "timePeriod": "bis 23.Oktober 2022 ",
       "introText": "<ul>\n\t<li>Die Z&uuml;ge der Linie <strong>RE 3</strong> (Stralsund/Schwedt &ndash; Lutherstadt Wittenberg/Falkenberg (Elster)) fallen zwischen Prenzlau/Eberswalde Hbf und Berlin Hbf/Berlin S&uuml;dkreuz aus. Als Ersatz nutzen Sie bitte die Busse zwischen Eberswalde Hbf und Bernau (b Berlin) sowie die S-Bahnen zwischen Bernau (b Berlin) und Berlin.</li>\n\t<li>Die Z&uuml;ge der Linie <strong>RE 66</strong> (Szczecin &ndash; Berlin-Gesundbrunnen) fallen zwischen Szczecin Glowny und Berlin-Gesundbrunnen aus. Als Ersatz nutzen Sie bitte die Z&uuml;ge und Busse der Linien RE 3 und RB 66 (Szczecin Glowny &ndash; Angerm&uuml;nde).</li>\n\t<li>Die Z&uuml;ge der Linie <strong>RB 24</strong> (Eberswalde &ndash; Senftenberg) fallen zwischen Eberswalde Hbf und Bernau (b Berlin) aus und werden durch Busse ersetzt. In Bernau (b Berlin) besteht &Uuml;bergang vom/zum Regel-SEV aus/in Richtung Berlin-Hohensch&ouml;nhausen.</li>\n</ul>\n",
+      "connectionsHeadline": "SEV  RE3 RB24  RB66",
       "connections": [],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:d459586a-848b-45d8-8a8b-04def3ef922c/re3_66_rb24_bis_23.10.2022_fahrplan.pdf",
+            "title": "re3_66_rb24_bis_23.10.2022_fahrplan.pdf (PDF, 604 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
       "closingText": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftzeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>, bei <a href=\"https://bauinfos.deutschebahn.com/berlin-bb\">baubedingten Fahrplan&auml;nderungen</a>, sowie in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a> und im <a href=\"http://DB Navigator\">DB Navigator</a>.</p>\n",
       "priority": "0",
       "distance": [
@@ -184,7 +195,7 @@
         "be",
         "br"
       ],
-      "lastModified": "18.10.2022 17:08",
+      "lastModified": "19.10.2022 14:40",
       "expand": false,
       "priorityValue": 102
     },
