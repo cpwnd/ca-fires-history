@@ -1,6 +1,31 @@
 {
   "news": [
     {
+      "id": "801e7796-6dd2-4f9f-98f4-844c9daf61f0",
+      "headline": "Oberleitungsstörung zwischen Hamburg-Eidelstedt und Hamburg-Langenfelde",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "Am heutigen Samstag, 22.10.2022 vsl. bis in die späten Abendstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Hamburg und Elmshorn kommt es derzeit zu Versp&auml;tungen, (Teil-)Ausf&auml;llen und Umleitungen im Regionalverkehr der Deutschen Bahn.</p>\n",
+      "connectionsHeadline": "Betroffene Linien",
+      "connections": [
+        "RE 6 (Westerland (Sylt) - Hamburg-Altona) Die Züge des RE6 aus/in Richtung Westerland(Sylt) enden/beginnen vorzeitig in Elmshorn.  Nutzen Sie bitte die Züge des RE70 zwischen Elmshorn und Hamburg Hbf. Es kommt zu einer Reisezeitverlängerung von bis zu 60 Minuten.",
+        "RE 7 (Flensburg/ Kiel Hbf - Hamburg Hbf) Die Züge der Linie RE 7 aus Richtung Flensburg bzw. Kiel Hbf beginnen und enden in Elmshorn. Nutzen Sie bitte die Züge des RE70 zwischen Elmshorn und Hamburg Hbf. Es kommt zu einer Reisezeitverlängerung von bis zu 60 Minuten.",
+        "RE 70 (Kiel Hbf - Hamburg Hbf) Die Züge der Linie RE 70 aus Richtung Kiel Hbf  werden umgeleitet. Es kommt zu Verspätungen von bis zu 60 Minuten in beide Richtungen. Zugausfälle sind möglich."
+      ],
+      "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a>&nbsp;oder beim regionalen Kundendialog unter <a href=\"tel: 0431 53440500\">0431 53440500</a>.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein <a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "priority": "2",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "hh",
+        "sh"
+      ],
+      "lastModified": "22.10.2022 13:22",
+      "expand": false,
+      "priorityValue": 302
+    },
+    {
       "id": "00677c5d-5edd-4fb8-80ad-4922ce9429fe",
       "headline": "Beeinträchtigungen im Raum Hamburg",
       "newsType": "Reparatur an der Oberleitung",
@@ -463,7 +488,7 @@
         "RB66 Kaiserslautern - Wolfstein - Lauterecken-Grumbach"
       ],
       "download": {
-        "text": "<p><strong><u>RB64 Kaiserslautern &lt;&gt; Pirmasens:</u></strong><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch ab <strong>Betriebsbeginn bis 15:30 Uhr.</strong>&nbsp;Ab 15:30 Uhr ist jeweils ein Ersatzverkehr mit Bussen zwischen Kaiserslautern und Pirmasens eingerichtet.<br />\nAn den <strong>Wochenenden</strong> wird der Zugverkehr<strong> komplett eingestellt</strong> und auf einen Ersatzverkehr mit Bussen umgestellt.</p>\n\n<p><strong><u>RB66 Kaiserslautern &lt;&gt; Lauterecken-Grumbach:</u></strong><br />\nVon Montag bis Freitag verkehren die Z&uuml;ge nach dem regul&auml;ren Fahrplan.&nbsp;<br />\nAn <strong>Wochenenden</strong> wird der Zugverkehr zwischen Kaiserslautern und Lauterecken-Grumbach <strong>komplett eingestellt</strong> und auf einen Ersatzverkehr mit Bussen umgestellt.</p>\n\n<p>Auf beiden Strecken k&ouml;nnen wir derzeit leider nur in begrenztem Umfang einen Ersatzverkehr mit Bussen anbieten, weil nicht gen&uuml;gend Busse zur Verf&uuml;gung stehen.</p>\n\n<p><em><strong><u>Die aktuellen Ersatzfahrpl&auml;ne finden Sie hier:</u></strong></em></p>\n",
+        "text": "<p><strong><u>RB64 Kaiserslautern &lt;&gt; Pirmasens:</u></strong><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch ab <strong>Betriebsbeginn bis 15:30 Uhr.</strong>&nbsp;Ab 15:30 Uhr ist jeweils ein Ersatzverkehr mit Bussen zwischen Kaiserslautern und Pirmasens eingerichtet.<br />\nAn den <strong>Wochenenden</strong> wird der Zugverkehr<strong> komplett eingestellt</strong> und auf einen Ersatzverkehr mit Taxis umgestellt.</p>\n\n<p><strong><u>RB66 Kaiserslautern &lt;&gt; Lauterecken-Grumbach:</u></strong><br />\nVon Montag bis Freitag verkehren die Z&uuml;ge nach dem regul&auml;ren Fahrplan.&nbsp;<br />\nAn <strong>Wochenenden</strong> wird der Zugverkehr zwischen Kaiserslautern und Lauterecken-Grumbach <strong>komplett eingestellt</strong> und auf einen Ersatzverkehr mit Taxis.</p>\n\n<p>Auf beiden Strecken k&ouml;nnen wir derzeit leider nur in begrenztem Umfang an Ersatzverkehr anbieten, weil keine Busse zur Verf&uuml;gung stehen.</p>\n\n<p><em><strong><u>Die aktuellen Ersatzfahrpl&auml;ne finden Sie hier:</u></strong></em></p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:4995a866-3994-44c5-a13e-f409258a32ea/RB64_%20Kaiserslautern-Pirmasens_%20Mo-Fr_%20ab%2017.10.22.pdf",
@@ -493,7 +518,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "22.10.2022 09:08",
+      "lastModified": "22.10.2022 12:55",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
