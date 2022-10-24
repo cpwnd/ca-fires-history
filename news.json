@@ -92,7 +92,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "24.10.2022 08:34",
+      "lastModified": "24.10.2022 19:52",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
@@ -783,8 +783,11 @@
       "headline": "Reparatur an einer Weiche zwischen Riegel-Malterdingen und Emmendingen",
       "newsType": "Reparatur an einer Weiche",
       "timePeriod": "bis vsl. Dienstag, den 25. Oktober um 05:00 Uhr",
-      "introText": "<p>Eine Reparatur an einer Weiche zwischen Riegel-Malterdingen und Emmendingen f&uuml;hrt zu Verz&ouml;gerungen im Zugverkehr. Der Streckenabschnitt ist im Moment nur eingleisig befahrbar. In der Folge kommt es zu Versp&auml;tungen.</p>\n\n<p>Bei den Regionalbahnen der Linie RB 26 entfallen die Halte K&ouml;ndringen und Tenningen-Mundingen. Ein Ersatzverkehr mit Bus zwischen Riegel-Malterdingen und Emmendingen ist im Pendelverkehr eingerichtet.</p>\n",
-      "connections": [],
+      "introText": "<p>Eine Reparatur an einer Weiche zwischen Riegel-Malterdingen und Emmendingen f&uuml;hrt zu Verz&ouml;gerungen im Zugverkehr. Der Streckenabschnitt ist nur eingleisig befahrbar. In der Folge kommt es zu Versp&auml;tungen.</p>\n\n<p>Bei den Regionalbahnen der Linie RB 26 entfallen die Halte K&ouml;ndringen und Tenningen-Mundingen. Ein Ersatzverkehr mit Bus zwischen Riegel-Malterdingen und Emmendingen ist im Pendelverkehr eingerichtet.</p>\n",
+      "connectionsHeadline": "Betroffene Strecke:",
+      "connections": [
+        "RB26 / RE7 Offenburg - Freiburg(Breisgau)"
+      ],
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativerouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei.</p>\n",
       "priority": "0",
       "distance": [
@@ -793,7 +796,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "24.10.2022 19:34",
+      "lastModified": "24.10.2022 20:12",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
