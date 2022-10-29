@@ -5,7 +5,7 @@
       "headline": "Beeinträchtigungen zwischen Hamburg und Hannover",
       "newsType": "Bauarbeiten",
       "timePeriod": "Am Samstag, 29.10.2022, vsl. bis in die Vormittagsstunden",
-      "introText": "<p>Aufgrund von Bauarbeiten zwischen Hamburg und Hannover kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten. Die Halten L&uuml;neburg, Uelzen und Celle entfallen.</p>\n",
+      "introText": "<p>Aufgrund von Bauarbeiten zwischen Hamburg und Hannover kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten. Die Halte L&uuml;neburg, Uelzen und Celle entfallen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "Alle ICE-/IC-Züge zwischen Hamburg und Hannover"
@@ -19,7 +19,7 @@
         "hh",
         "ni"
       ],
-      "lastModified": "29.10.2022 06:48",
+      "lastModified": "29.10.2022 06:55",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 202
@@ -566,7 +566,12 @@
       "download": {
         "text": "<p><br />\n<strong>Die aktuelle Fahrplantabelle</strong></p>\n",
         "linkDataList": [
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:b1d97ff2-0112-406e-b123-ce2482b1cfaf/12-22_RE30_RB41_RB49_Ausfaelle_Centralbahn.pdf",
+            "title": "Nicht barrierefreie Züge (RB41 und RB49) bis 10.12.2022 (PDF, 299 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
         ]
       },
       "closingText": "<p>Zwischen Hanau Hbf - Friedberg(Hess) - Gie&szlig;en - Marburg (Lahn) werden einzelne Fahrten durch die Centralbahn GmbH im Auftrag der DB Regio AG durchgef&uuml;hrt.<br />\nHierbei k&ouml;nnen andere Fahrzeuge zum Einsatz kommen.</p>\n\n<p>Die Fahrten des Ersatzverkehrs auf den Linien RB41 und RB49 sind <strong>nicht barrierefrei</strong>.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App.</p>\n\n<p>W&auml;hlen Sie gegebenenfalls eine fr&uuml;here Zugverbindung, um Ihre Anschl&uuml;sse an Ihren Umsteigebahnh&ouml;fen erreichen zu k&ouml;nnen.</p>\n\n<p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
@@ -577,7 +582,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "28.10.2022 17:48",
+      "lastModified": "29.10.2022 07:01",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
