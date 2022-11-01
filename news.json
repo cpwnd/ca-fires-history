@@ -75,41 +75,6 @@
       "priorityValue": 201
     },
     {
-      "id": "2c3f0dcc-1cc7-4fde-add1-7f867b8254ab",
-      "headline": "Beeinträchtigungen zw. Radolfzell und Friedrichshafen Stadt (Bodenseegürtelbahn) -beendet",
-      "newsType": "Zugstörung zw. Salem und Markdorf(Baden) ist behoben",
-      "connectionsHeadline": "Betroffene Strecke: ",
-      "connections": [
-        "RB31: Radolfzell - Friedrichshafen Stadt"
-      ],
-      "closingText": "<p>Die Reparatur an einem Zug zwischen Salem und Markdorf(Baden) ist beendet. Die Z&uuml;ge fahren auf dem Streckenabschnitt wieder ohne Einschr&auml;nkungen. Bitte rechnen Sie noch mit Folgeversp&auml;tungen.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">Streckenagent-APP</a> immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "by",
-        "be",
-        "br",
-        "hb",
-        "hh",
-        "he",
-        "mv",
-        "ni",
-        "nw",
-        "rp",
-        "sl",
-        "sn",
-        "st",
-        "sh",
-        "th"
-      ],
-      "lastModified": "01.11.2022 18:31",
-      "expand": false,
-      "priorityValue": 116
-    },
-    {
       "id": "da4dcadd-2f1c-49de-9e85-e9fff6231e7e",
       "headline": "Vorübergehend reduziertes Fahrplanangebot Worms-Bensheim und Weinheim-Fürth",
       "newsType": "Erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
@@ -513,6 +478,29 @@
         "he"
       ],
       "lastModified": "29.10.2022 07:37",
+      "author": "hessen",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "79581808-7233-45cd-ae24-768a8d95a91a",
+      "headline": "Zugausfälle zwischen Frankfurt(Main)Hbf - Bebra - Kassel",
+      "newsType": "Erhöhter Krankenstand",
+      "timePeriod": "Bis voraussichtlich 10.11.2022, 08:40 Uhr",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes kommt es zu Beeintr&auml;chtigungen im Bahnverkehr bei DB Regio Mitte.</p>\n\n<p>&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "RE5: Frankfurt(Main)Hbf - Fulda - Bebra - Kassel"
+      ],
+      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p>Um einen stabilen Zugverkehr anbieten zu k&ouml;nnen fallen die Z&uuml;ge der Linie RE5 (Frankfurt(Main)Hbf -Fulda -&nbsp; Bebra - Kassel) vor&uuml;bergehend bis zum 10.11.2022, 08:40 aus.</p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie bitte sich fr&uuml;hzeitig &uuml;ber Ihre geplanten Verbindungen.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"http://www.bahn.de\" target=\"_blank\">bahn.de</a> oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:00496924445710\">069 2444 5710</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "he"
+      ],
+      "lastModified": "01.11.2022 19:21",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
