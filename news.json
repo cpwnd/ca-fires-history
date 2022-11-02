@@ -483,29 +483,6 @@
       "priorityValue": 101
     },
     {
-      "id": "79581808-7233-45cd-ae24-768a8d95a91a",
-      "headline": "Zugausfälle zwischen Frankfurt(Main)Hbf - Bebra - Kassel",
-      "newsType": "Erhöhter Krankenstand",
-      "timePeriod": "Bis voraussichtlich 10.11.2022, 08:40 Uhr",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes kommt es zu Beeintr&auml;chtigungen im Bahnverkehr bei DB Regio Mitte.</p>\n\n<p>&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffene Linie:",
-      "connections": [
-        "RE5: Frankfurt(Main)Hbf - Fulda - Bebra - Kassel"
-      ],
-      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p>Um einen stabilen Zugverkehr anbieten zu k&ouml;nnen fallen die Z&uuml;ge der Linie RE5 (Frankfurt(Main)Hbf -Fulda -&nbsp; Bebra - Kassel) vor&uuml;bergehend bis zum 10.11.2022, 08:40 aus.</p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie bitte sich fr&uuml;hzeitig &uuml;ber Ihre geplanten Verbindungen.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"http://www.bahn.de\" target=\"_blank\">bahn.de</a> oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:00496924445710\">069 2444 5710</a></p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "he"
-      ],
-      "lastModified": "01.11.2022 19:21",
-      "author": "hessen",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
       "id": "c5176419-bec8-4dc4-b500-57737da5c237",
       "headline": "Nicht barrierefreier Ersatzverkehr auf den Linien RB41 und RB49",
       "newsType": "Eingeschränktes Zugangebot ",
@@ -535,7 +512,30 @@
       "areas": [
         "he"
       ],
-      "lastModified": "29.10.2022 07:01",
+      "lastModified": "02.11.2022 05:55",
+      "author": "hessen",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "79581808-7233-45cd-ae24-768a8d95a91a",
+      "headline": "Zugausfälle zwischen Frankfurt(Main)Hbf - Bebra - Kassel",
+      "newsType": "Erhöhter Krankenstand",
+      "timePeriod": "Bis voraussichtlich 10.11.2022, 08:40 Uhr",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes kommt es zu Beeintr&auml;chtigungen im Bahnverkehr bei DB Regio Mitte.</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "RE5: Frankfurt(Main)Hbf - Fulda - Bebra - Kassel"
+      ],
+      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p>Um einen stabilen Zugverkehr anbieten zu k&ouml;nnen fallen die Z&uuml;ge der Linie RE5 (Frankfurt(Main)Hbf -Fulda -&nbsp; Bebra - Kassel) vor&uuml;bergehend bis zum 10.11.2022, ca. 08:40 Uhr, aus.</p>\n\n<p>Informieren Sie bitte sich fr&uuml;hzeitig &uuml;ber Ihre geplanten Verbindungen.</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"http://www.bahn.de\" target=\"_blank\">bahn.de</a> oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:00496924445710\">069 2444 5710</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "he"
+      ],
+      "lastModified": "02.11.2022 06:11",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
