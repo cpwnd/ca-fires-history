@@ -675,6 +675,39 @@
       "priorityValue": 101
     },
     {
+      "id": "9a2a3834-6ca8-44c8-a476-8a369a710708",
+      "headline": "Busersatzverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
+      "newsType": "Zugausfälle bei der SNCF",
+      "timePeriod": "am 04. November bis 14:00 Uhr",
+      "introText": "<p>Alle Z&uuml;ge werden in diesem Zeitraum durch Busse ersetzt. Hierdurch kommt es zu abweichenden Abfahrtszeiten.</p>\n",
+      "connectionsHeadline": "Betroffene Strecke",
+      "connections": [
+        "Müllheim(Baden) - Mulhouse Ville"
+      ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:73b33f63-6d28-483b-aba0-37eea077ef51/Ersatzfahrplan%20M%C3%BCllheim%20-%20Mulhouse.pdf",
+            "title": "Ersatzfahrplan Müllheim - Mulhouse.pdf (PDF, 1 MB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung&nbsp;mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "03.11.2022 20:28",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "7cf94d2f-17e8-43a0-b545-58ee482b4898",
       "headline": "Veränderter Fahrplan auf der Schwarzwaldbahn",
       "newsType": "Reparatur an mehreren Zügen",
