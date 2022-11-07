@@ -2,18 +2,16 @@
   "news": [
     {
       "id": "521c1051-0eaf-49fb-b9a7-84e420ba8de5",
-      "headline": "Beeinträchtigungen zwischen Westerland(Sylt) und Hamburg",
-      "newsType": "Defektes Stellwerk",
-      "timePeriod": "Heute, 07.11.2022 bis in die späten Abendstunden",
-      "introText": "<p>Aufgrund eines defekten Stellwerkes in Itzehoe kommt es zwischen <strong>Westerland(Sylt) und Hamburg</strong> derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Zurzeit sind im betroffenen Streckenabschnitt <strong>keine Zugfahrten m&ouml;glich</strong>. Fernverkehrsz&uuml;ge der Deutschen Bahn enden und beginnen in Hamburg Hbf. Auch kann es zu Zugausf&auml;llen kommen.</p>\n\n<p>Die Halte&nbsp;Westerland(Sylt), Nieb&uuml;ll, Husum, Heide(Holst), Itzehoe und Hamburg Dammtor m&uuml;ssen leider entfallen.</p>\n",
+      "headline": "Beeinträchtigungen zwischen Hamburg und Westerland (Sylt)",
+      "newsType": "defektes Stellwerk",
+      "timePeriod": "Heute am Montag, 07.11.2022 bis in die späten Nachtstunden",
+      "introText": "<p>Aufgrund eines defekten Stellwerkes in Itzehoe auf der Strecke&nbsp;Hamburg &ndash;&nbsp;Westerland (Sylt)&nbsp;ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE/IC Züge Westerland – Hamburg – Hannover – Kassel-Wilhelmshöhe – Frankfurt (M) – Karlsruhe",
-        "EC Züge Westerland – Hamburg – Berlin – Dresden – Praha hl.n.",
-        "IC Züge Westerland – Hamburg – Bremen – Gelsenkirchen – Köln – Mannheim – Stuttgart/Basel SBB"
+        "Alle EC/IC-Züge, die in Westerland (Sylt) beginnen bzw. enden, fallen zwischen Hamburg und Westerland (Sylt) aus. Die Halte Westerland (Sylt), Niebüll, Husum, Heide (Holst) und Itzehoe entfallen."
       ],
-      "closingText": "<p><strong>Ein Ersatzverkehr ist in Pr&uuml;fung.</strong></p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Reisende von/nach Westerland (Sylt), Nieb&uuml;ll, Husum, Heide (Holst) und Itzehoe nutzen bitte die Regionalz&uuml;ge zwischen Hamburg und Itzehoe sowie zwischen Husum und Westerland (Sylt). Zwischen Itzehoe und Husum ist durch DB Regio ein Busnotverkehr eingerichtet.</p>\n\n<p>Bitte planen Sie deutliche Reisezeitverl&auml;ngerungen ein.<br />\n&nbsp;</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
       "distance": [
         "longDistance"
       ],
@@ -21,10 +19,10 @@
         "hh",
         "sh"
       ],
-      "lastModified": "07.11.2022 10:55",
+      "lastModified": "07.11.2022 12:29",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 202
+      "priorityValue": 302
     },
     {
       "id": "6541c8ed-431d-4bb3-a99e-931c03bdd481",
