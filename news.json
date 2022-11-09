@@ -361,7 +361,12 @@
       "download": {
         "text": "<p>Die aktuellen Fahrplan&auml;nderungen finden Sie nachstehend:</p>\n",
         "linkDataList": [
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:6d62bcc6-7640-4552-a8c2-57611ca0a24e/Fahrplan%20RB%2072%20f%C3%BCr%20den%20Zeitraum%2017.%20-%2023.11.2022.pdf",
+            "title": "Fahrplan RB 72 für den Zeitraum 17. - 23.11.2022.pdf (PDF, 414 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
         ]
       },
       "closingText": "<p>Die Fahrplan&auml;nderungen sind auch in den Auskunftsmedien abrufbar.</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder telefonisch unter 0351 323 000 11 (zum Ortstarif) zu informieren.</p>\n",
@@ -372,7 +377,7 @@
       "areas": [
         "sn"
       ],
-      "lastModified": "09.11.2022 18:08",
+      "lastModified": "09.11.2022 18:47",
       "author": "suedost",
       "expand": false,
       "priorityValue": 101
