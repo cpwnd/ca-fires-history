@@ -1,6 +1,31 @@
 {
   "news": [
     {
+      "id": "2dab4227-d24f-42a6-9935-908e2be7c2c0",
+      "headline": "Beeinträchtigungen zwischen Flensburg und Hamburg",
+      "newsType": "Notarzteinsatz auf der Strecke",
+      "timePeriod": "Am Sonntag, 13.11.2022 bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund eines Notarzteinsatzes ist die Strecke zwischen Flensburg und Schleswig derzeit gesperrt. Einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn fallen auf dem Abschnitt zwischen Hamburg und Padborg aus. Einzelne Z&uuml;ge warten die Dauer der Streckensperrung an geeigneten Bahnh&ouml;fen ab.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle EC/IC Züge auf dem Abschnitt zwischen Flensburg und Hamburg",
+        "EC Züge Hamburg - Padborg - Kopenhagen fallen zwischen Hamburg und Padborg aus."
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:&nbsp;</strong></p>\n\n<p><strong>F&uuml;r die EC Z&uuml;ge zwischen Hamburg und Padborg ist ein Busnotverkehr eingerichtet. Bitte beachten Sie, dass es zu einem hohen Reisendenaufkommen in den Ersatzbussen kommen kann.</strong></p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "hh",
+        "sh"
+      ],
+      "lastModified": "13.11.2022 11:03",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 202
+    },
+    {
       "id": "6541c8ed-431d-4bb3-a99e-931c03bdd481",
       "headline": "Einschränkungen im Dieselnetz VVO",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
@@ -73,6 +98,44 @@
       "author": "bayern",
       "expand": false,
       "priorityValue": 201
+    },
+    {
+      "id": "053f0ad7-f8a7-4ed5-b50d-e7d2594fcc9b",
+      "headline": "Streckensperrung zwischen Jübek und Tarp",
+      "newsType": "Notarzteinsatz auf der Strecke",
+      "timePeriod": "13.11.2022 bis vsl. 12 Uhr",
+      "introText": "<p>Aufgrund eines Notarzteinsatzes am Gleis ist aktuell die Strecke zwischen J&uuml;bek und Tarp gesperrt.</p>\n",
+      "connectionsHeadline": "Folgende Linien sind betroffen:",
+      "connections": [
+        "RE 7 (Flensburg – Hamburg Hbf): Züge aus/in Richtung Hamburg enden/beginnen in Schleswig."
+      ],
+      "closingText": "<p>Es verkehrt ein Ersatzbus der Firma Bischoff im Pendel zwischen Schleswig und Flensburg.&nbsp;Fahrzeitverl&auml;ngerung vsl. 30 und 45 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noreferrer noopener\" target=\"_blank\">App DB Navigator</a> oder beim regionalen Kundendialog unter <a href=\"tel: 0431 53440500\">0431 53440500</a>.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf <a href=\"https://twitter.com/dbregio_SH\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" rel=\"noreferrer noopener\" target=\"_blank\">bahn.de/fahrgastrechte</a>.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
+      ],
+      "lastModified": "13.11.2022 10:59",
+      "author": "schleswig_holstein",
+      "expand": false,
+      "priorityValue": 116
     },
     {
       "id": "da4dcadd-2f1c-49de-9e85-e9fff6231e7e",
