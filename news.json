@@ -5,10 +5,20 @@
       "headline": "Entschärfung einer Weltkriegsbombe in Karlsruhe-Güterbahnhof",
       "newsType": "Heute, 15.11.2022 ab 13:00 Uhr",
       "timePeriod": "Bombenentschärfung",
-      "introText": "<p>Aufgrund der Entsch&auml;rfung einer Weltkriegsbombe am heutigen Dienstag (15.11.2022), kommt es im Raum Karlsruhe ab etwa 13:00 Uhr zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Es kommt zu kurzfristigen Halt- und Zugausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Aktuell arbeiten wir an einem Ersatzprogramm für den Zeitraum der Bombenentschärfung. Dieses wird schnellstmöglich kommuniziert.",
-      "connections": [],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "introText": "<p>Aufgrund der Entsch&auml;rfung einer Weltkriegsbombe am heutigen Dienstag (15.11.2022), kommt es im Raum Karlsruhe ab etwa 13:00 Uhr zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Es kommt zu kurzfristigen Halt- und Zugausf&auml;llen. Auch muss mit Versp&auml;tung gerechnet werden.</p>\n",
+      "connectionsHeadline": "Folgende Züge sind zurzeit betroffen:",
+      "connections": [
+        "TGV 9573 wird zwischen Paris-Est und Stuttgart Hbf umgeleitet. Halte Strasbourg und Karlsruhe Hbf entfallen. Zug hält zusätzlich in Mannheim Hbf und Lorraine TGV (F).",
+        "ICE 73 wird zwischen Mannheim Hbf und Karlsruhe Hbf umgeleitet. Verspätung von etwa 30 Minuten.",
+        "ICE 1576 beginnt in Bruchsal. Halt Karlsruhe Hbf entfällt.",
+        "ICE 279 fällt zwischen Frankfurt(M) Hbf und Interlaken aus. Ersatzzug zwischen Karlsruhe Hbf und Zürich HB.",
+        "ICE 278 fällt zwischen Karlsruhe Hbf und Berlin Ostbahnhof aus. Ersatzzug zwischen Frankfurt(M) Hbf und Berlin Ostbahnhof.",
+        "EC 9 endet in Mannheim Hbf. Halte Karlsruhe Hbf, Baden-Baden, Freiburg (Breisgau) Hbf, Basel und Zürich HB entfallen.",
+        "EC 8 beginnt in Mannheim Hbf. Halte Zürich HB, Basel, Freiburg (Breisgau) Hbf, Baden-Baden und Karlsruhe Hbf entfallen.",
+        "IC 2069 fällt zwischen Karlsruhe Hbf und Stuttgart Hbf aus.",
+        "IC 1967 und IC 1968 fallen auf dem kompletten Laufweg aus."
+      ],
+      "closingText": "<p><strong>Ein Ersatzverkehr zwischen Mannheim und Karlsruhe ist in pr&uuml;fung.</strong></p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -16,7 +26,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "15.11.2022 09:20",
+      "lastModified": "15.11.2022 10:24",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 301
