@@ -200,6 +200,31 @@
       "priorityValue": 102
     },
     {
+      "id": "8ff25580-d470-499c-9460-c26c9fcda776",
+      "headline": "Zugausfälle und Verspätungen zwischen Graben-Neudorf und Karlsruhe",
+      "newsType": "Bombenentschärfung",
+      "timePeriod": "Dienstag, 15.11.2022 ab 13 Uhr",
+      "introText": "<p>Wegen der Entsch&auml;rfung einer Fliegerbombe kommt es im Raum Karlsruhe zu Behinderungen im Bahnverkehr.</p>\n\n<p>&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffene Linien",
+      "connections": [
+        "S9 Mannheim <> Graben-Neudorf <> Karlsruhe",
+        "S3 Germersheim <> Heidelberg <> Bruchsal <> Karlsruhe",
+        "RE4 Mainz <> Ludwigshafen <> Karlsruhe"
+      ],
+      "closingText": "<p>Information zur <strong>S9:</strong><br />\nZ&uuml;ge&nbsp;aus Richtung <strong>Mannheim enden und beginnen vorzeitig in Karlsruhe-Hagsfeld.&nbsp;</strong>Die Verf&uuml;gbarkeit der Gleise in Karlsruhe-Hagsfeld ist eingeschr&auml;nkt, daher kann es zu <strong>kurzfristigen &Auml;nderungen und weiteren Teilausf&auml;llen</strong> kommen.</p>\n\n<p>Information zur <strong>S3:</strong><br />\nZ&uuml;ge aus Richtung <strong>Heidelberg enden und beginnen vorzeitig in Karlsruhe-Durlach</strong>. Die Verf&uuml;gbarkeit der Gleise in Karlsruhe-Durlach eingeschr&auml;nkt, daher kann es auch zu <strong>kurzfristigen &Auml;nderungen und weiteren Teilausf&auml;llen</strong> kommen.</p>\n\n<p>Information zur <strong>RE4:</strong><br />\nZ&uuml;ge aus Richtung <strong>Mainz enden und beginnen vorzeitig in Graben-Neudorf.</strong></p>\n\n<p>Da die umliegenden Stra&szlig;en ebenfalls von der Sperrung betroffen sind, k&ouml;nnen wir <strong>keinen Schienenersatzverkehr zur Verf&uuml;gung</strong> stellen.</p>\n\n<p>Zur Dauer der Sperung liegen uns leider keine Informationen vor. Sobald uns neue Informationen zur Verf&uuml;gung stehen, halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer der Sperrung auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "rp"
+      ],
+      "lastModified": "15.11.2022 11:13",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "66df4523-7a80-490e-85d8-cc7dcb418403",
       "headline": "Vorübergehend reduziertes Fahrplanangebot und teilweise Schienenersatzverkehr bei den Regionalbahnen auf der Frankenbahn",
       "newsType": "Erhöhter Krankenstand beim Fahr- und Werkstattpersonal",
@@ -683,11 +708,13 @@
       "headline": "Zugausfälle zwischen Müllheim(Baden) und Mulhouse Ville",
       "newsType": "Kurzfristige Personalausfälle bei der SNCF",
       "timePeriod": "Ab heute 15. November, 14:00 Uhr bis 16. November 2022, 14:00 Uhr",
-      "introText": "<p>Aufgrund kurzfristiger Personalausf&auml;lle bei der Franz&ouml;sischen Bahn (SNCF) werden die Zugfahrten zwischen M&uuml;llheim(Baden) und Mulhouse Ville durch Busse ersetzt.</p>\n\n<p>Bitte pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n",
       "connectionsHeadline": "Betroffene Strecke:",
       "connections": [
         "RB107: Müllheim(Baden) - Mulhouse Ville"
       ],
+      "download": {
+        "text": "<p>Aufgrund kurzfristiger Personalausf&auml;lle bei der Franz&ouml;sischen Bahn (SNCF) werden die Zugfahrten zwischen M&uuml;llheim(Baden) und Mulhouse Ville durch Busse ersetzt.</p>\n\n<p>Bitte pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n"
+      },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
       "priority": "0",
       "distance": [
@@ -696,7 +723,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "15.11.2022 10:42",
+      "lastModified": "15.11.2022 10:47",
       "expand": false,
       "priorityValue": 101
     },
