@@ -8,9 +8,10 @@
       "introText": "<p>Aufgrund einer Streckensperrung kommt es am 17.11. zwischen Berlin und Hannover zu Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE-Züge NRW - Hamm - Hannover - Berlin werden umgeleitet und verspäten sich um etwa 60 Minuten. Der Halt in Wolfsburg Hbf entfällt.",
-        "ICE-Züge Schweiz / Frankfurt(M) - Kassel - Berlin werden umgeleitet und verspäten sich um etwa 60 Minuten. Der Halt in Wolfsburg Hbf entfällt.",
-        "IC-Züge Hannover - Stendal - Leipzig - Dresden werden umgeleitet und verspäten sich um etwa 60 Minuten. ",
+        "ICE-Züge NRW - Hamm - Hannover - Berlin werden umgeleitet und verspäten sich um etwa 60 Minuten. ",
+        "ICE-Züge Schweiz / Frankfurt(M) - Kassel - Berlin werden umgeleitet und verspäten sich um etwa 60 Minuten. ",
+        "IC-Züge Hannover - Stendal - Leipzig - Dresden fallen aus.",
+        "IC-Züge Köln - Dortmund - Hannover - Magdeburg - Leipzig - Dresden fallen zwischen Köln Hbf und Braunschweig Hbf aus.",
         "IC-Züge Amsterdam - Osnabrück - Hannover - Berlin enden/beginnnen bereits in Hannover Hbf. Die Halte in Wolfsburg Hbf, Stendal Hbf, Berlin-Spandau, Berlin Hbf und Berlin Ostbahnhof entfallen.",
         "alle übrigen IC/ICE-Züge in diesem Abschnitt fallen leider aus"
       ],
@@ -24,7 +25,7 @@
         "ni",
         "st"
       ],
-      "lastModified": "17.11.2022 06:33",
+      "lastModified": "17.11.2022 07:10",
       "author": "fernverkehr_ag",
       "expand": true,
       "priorityValue": 303
@@ -374,16 +375,15 @@
     },
     {
       "id": "b64b85b5-8190-4c31-8bbb-74dc8b3d3d69",
-      "headline": "Beeinträchtigung im Regionalverkehr zwischen Felde und Brandsbek",
-      "newsType": "Defektes Stellwerk ",
-      "timePeriod": "bis voraussichtlich 17.11.2022 10:00 Uhr",
-      "introText": "<p>Aufgrund einer Stellwekrsst&ouml;rung ist derzeit kein Zugverkehr zwischen Rendsburg und Kiel m&ouml;glich.</p>\n",
+      "headline": "Beeinträchtigung im Regionalverkehr zwischen Felde und Brandsbek beendet",
+      "newsType": "Defektes Stellwerk (behoben)",
+      "introText": "<p>Defektes Stellwerk ist repariert. Regelbetrieb zwischen Felde und Kiel Hbf wird wieder aufgenommen. Infolge der St&ouml;rung kann es noch vereinzelt zu Zugausf&auml;llen und Versp&auml;tungen. Bitte informieren Sie sich vor Abfahrt.</p>\n",
       "connectionsHeadline": "betroffene Linien:",
       "connections": [
-        "RB 75 (Kiel Hbf - Rendsburg): Die Züge fallen leider aus. Ersatzverkehr ist eingerichtet.",
-        "RE 74 (Kiel Hbf - Husum): Die Züge werden über Neumünster umgeleitet (ohne Halt in Felde)"
+        "RB 75 (Kiel Hbf - Rendsburg)",
+        "RE 74 (Kiel Hbf - Husum)"
       ],
-      "closingText": "<p>Ein Ersatzverkehr mit Bussen der Firma Three Guys ist eingerichtet.&nbsp;</p>\n\n<p>Abfahrt in Rendsburg auf Minute 56</p>\n\n<p>Abfahrt in Kiel Hbf auf Minute 30</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de\">bahn.de/reiseauskunft</a>, in der <a href=\"http://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a> oder beim regionalen Kundendialog unter 043153440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein&nbsp;auf <a href=\"https://twitter.com/dbregio_SH\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"http://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de\">bahn.de/reiseauskunft</a>, in der <a href=\"http://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a> oder beim regionalen Kundendialog unter 043153440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein&nbsp;auf <a href=\"https://twitter.com/dbregio_SH\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"http://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -391,7 +391,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "17.11.2022 05:36",
+      "lastModified": "17.11.2022 07:21",
       "expand": false,
       "priorityValue": 101
     },
