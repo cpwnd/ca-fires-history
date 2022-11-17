@@ -2,16 +2,16 @@
   "news": [
     {
       "id": "ec8a4949-0fe6-4db3-b625-872964bc5f9e",
-      "headline": "Streckensperrung: Fernverkehr ist zwischen Berlin und Hannover bis auf Weiteres beeinträchtigt",
+      "headline": "Streckensperrung: Fernverkehr ist zwischen Berlin und Hannover bis mindestens Sonntag Abend beeinträchtigt",
       "newsType": "Streckensperrung",
-      "timePeriod": "Bis auf Weiteres",
-      "introText": "<p>Aufgrund einer Streckensperrung kommt es bis auf Weiteres zwischen Berlin und Hannover zu Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
+      "timePeriod": "bis mindestens Sonntag Abend, 20.11.2022",
+      "introText": "<p>Aufgrund einer Streckensperrung kommt es bis mindestens Sonntag Abend zwischen Berlin und Hannover zu Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE-Züge NRW - Hamm - Hannover - Berlin werden umgeleitet und verspäten sich um etwa 60 Minuten. Der Halt Wolfsburg entfällt. Ersatzweise halten die Züge in Stendal.",
-        "ICE-Züge Schweiz / Frankfurt(M) - Kassel - Berlin werden umgeleitet. Die Halte Wolfsburg, Göttingen und Kassel-Wilhelmshöhe entfallen. ",
+        "ICE/IC-Züge NRW - Hamm - Hannover - Berlin werden umgeleitet und verspäten sich um etwa 90 Minuten. Der Halt Wolfsburg entfällt. Ersatzweise halten die Züge in Stendal.",
+        "ICE-Züge Schweiz / Frankfurt(M) - Kassel - Berlin werden über umgeleitet. Die Halte Wolfsburg, Göttingen und Kassel-Wilhelmshöhe entfallen. Ersatzweise halten die Züge in Erfurt, Halle und Berlin Südkreuz.",
         "IC-Züge Leipzig – Magdeburg – Hannover – Bremen – Emden – Norddeich Mole fallen zwischen Hannover und Leipzig aus.",
-        "IC-Züge Köln - Dortmund - Hannover - Magdeburg - Leipzig - Dresden fallen zwischen Köln und Braunschweig aus.",
+        "IC-Züge Köln - Dortmund - Hannover - Magdeburg - Leipzig - Dresden verkehren wieder ab dem 19.11.2022",
         "IC-Züge Amsterdam - Osnabrück - Hannover - Berlin enden/beginnnen bereits in Hannover Hbf. Die Halte in Wolfsburg Hbf, Stendal Hbf, Berlin-Spandau, Berlin Hbf und Berlin Ostbahnhof entfallen.",
         "alle übrigen IC/ICE-Züge in diesem Abschnitt fallen leider aus"
       ],
@@ -22,13 +22,18 @@
       ],
       "areas": [
         "be",
+        "br",
+        "hb",
+        "hh",
+        "mv",
         "ni",
+        "nw",
         "st"
       ],
-      "lastModified": "17.11.2022 14:31",
+      "lastModified": "17.11.2022 18:38",
       "author": "fernverkehr_ag",
       "expand": true,
-      "priorityValue": 303
+      "priorityValue": 308
     },
     {
       "id": "6541c8ed-431d-4bb3-a99e-931c03bdd481",
