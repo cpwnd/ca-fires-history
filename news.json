@@ -298,8 +298,8 @@
       "id": "b27fdf58-8494-4401-8475-9b85ea163d5c",
       "headline": "Beeinträchtigungen zwischen Aschaffenburg und Kleinwallstadt",
       "newsType": "Krankheitsbedingter Personalausfall im Stellwerk",
-      "timePeriod": "Vom 7. November bis 25. November 2022, jeweils nur montags bis freitags",
-      "introText": "<p>Aufgrund krankheitsbedingter Personalausf&auml;lle im Stellwerk Aschaffenburg entfallen vom 7. bis 25. November 2022, jeweils nur montags bis freitags, die Fahrten des RE 87 zwischen Aschaffenburg und Kleinwallstadt.</p>\n\n<p>Ein Busersatzverkehr ist eingerichtet. Dieser bedient keine Zwischenhalte. Die Busse fahren in Aschaffenburg am Bussteig 12 des regionalen Omnibusbahnhofs (ROB) ab. Die Abfahrt erfolgt ca. 30 Minuten vor der urspr&uuml;nglichen Abfahrt der Z&uuml;ge, damit in Kleinwallstadt der Anschluss gesichert werden kann.</p>\n\n<p>Bei den Fahrten der RB 88 gibt es nur geringf&uuml;gige Abweichungen.</p>\n\n<p>Der angepasste Fahrplan ist hier weiter unten bereitgestellt.</p>\n",
+      "timePeriod": "Vom 7. November bis 23. Dezember 2022, jeweils nur montags bis freitags",
+      "introText": "<p>Aufgrund krankheitsbedingter Personalausf&auml;lle im Stellwerk Aschaffenburg entfallen vom 7. November bis 23. Dezember 2022, jeweils nur montags bis freitags, die Fahrten des RE 87 zwischen Aschaffenburg und Kleinwallstadt.</p>\n\n<p>Ein Busersatzverkehr ist eingerichtet. Dieser bedient keine Zwischenhalte. Die Busse fahren in Aschaffenburg am Bussteig 12 des regionalen Omnibusbahnhofs (ROB) ab. Die Abfahrt erfolgt ca. 30 Minuten vor der urspr&uuml;nglichen Abfahrt der Z&uuml;ge, damit in Kleinwallstadt der Anschluss gesichert werden kann.</p>\n\n<p>Bei den Fahrten der RB 88 gibt es nur geringf&uuml;gige Abweichungen.</p>\n\n<p>Der angepasste Fahrplan ist hier weiter unten bereitgestellt.</p>\n",
       "connectionsHeadline": "Betroffene Strecken:",
       "connections": [
         "RE 87: Aschaffenburg - Wertheim",
@@ -307,7 +307,13 @@
       ],
       "download": {
         "linkDataList": [
-          null
+          null,
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:a8af587f-b713-4cc3-ab73-b432324e2387/Fahrplan%20Maintalbahn%20vom%2028.11.22%20bis%2009.12.22%20aufgrund%20von%20Personalausf%C3%A4llen%20im%20Stellwerk%20Aschaffenburg.pdf",
+            "title": "Ersatzfahrplan Aschaffenburg - Miltenberg 28.11 bis 23.12.2022 (PDF, 104 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
         ]
       },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
@@ -319,7 +325,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "07.11.2022 09:23",
+      "lastModified": "22.11.2022 17:09",
       "expand": false,
       "priorityValue": 102
     },
