@@ -42,7 +42,7 @@
       "introText": "<p>Zwischen Erfurt und Nordhausen kommt es derzeit zu Einschr&auml;nkungen im Zugverkehr. Aufgrund der angespannten Personalsituation k&ouml;nnen die Stellwerke auf dieser Strecke leider nicht durchgehend besetzt werden. Deshalb verkehren bestimmte Leistungen geplant im Ersatzverkehr mit Bus, um kurzfristige Zugausf&auml;lle zu vermeiden.</p>\n",
       "connectionsHeadline": "Betroffene Linie:",
       "connections": [
-        "RE 55  Erfurt - Nordhausen"
+        "RE 55/ 56  Erfurt - Nordhausen"
       ],
       "download": {
         "linkDataList": [
@@ -68,7 +68,7 @@
       "areas": [
         "th"
       ],
-      "lastModified": "23.11.2022 17:11",
+      "lastModified": "23.11.2022 17:42",
       "author": "suedost",
       "expand": false,
       "priorityValue": 201
@@ -409,6 +409,18 @@
             "title": "aktueller Fahrplan Stendal - Uelzen ab 23.11.2022 (PDF, 206 KB)",
             "info": "",
             "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:fe01b3b5-9937-479f-8607-6f163d868279/Linie%20RE%2020_Fahrplan%20und%20SEV%2022.11.-27.11.2022_V3_Uelzen%20ab%2024.11.2022.pdf",
+            "title": "aktueller Fahrplan Uelzen - Stendal ab 24.11.2022 (PDF, 154 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:7f6cce94-66b4-4463-a8c8-b3a0a1aa8ba0/Linie%20RE%2020_Fahrplan%20und%20SEV%2022.11.-27.11.2022_V3_Stendal%20ab%2024.11.2022.pdf",
+            "title": "aktueller Fahrplan Stendal - Uelzen ab 24.11.2022 (PDF, 97 KB)",
+            "info": "",
+            "openInNewTab": false
           }
         ]
       },
@@ -420,7 +432,7 @@
       "areas": [
         "st"
       ],
-      "lastModified": "23.11.2022 16:07",
+      "lastModified": "23.11.2022 17:39",
       "expand": false,
       "priorityValue": 101
     },
