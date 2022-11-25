@@ -352,18 +352,25 @@
     {
       "id": "aefa1b8f-9226-4572-801d-3ae09a83a2b9",
       "headline": "Vorübergehend reduziertes Fahrplanangebot und teilweise Schienenersatzverkehr bei der Westfrankenbahn",
-      "newsType": "Personalnotstand in den Stellwerken der Tauberbahn ",
+      "newsType": "Längerfristige Personalausfälle bei der Kahlgrundbahn und Personalnotstand in den Stellwerken der Tauberbahn ",
       "connectionsHeadline": "Betroffene Strecke und Dauer:",
       "connections": [
-        "Tauberbahn: bis voraussichtlich. 11. Dezember an Samstag, Sonntag und Feiertagen"
+        "Tauberbahn: bis voraussichtlich. 11. Dezember an Samstagen, Sonn- und Feiertagen",
+        "Kahlgrundbahn: bis voraussichtlich 28. Mai an Samstagen, Sonn- und Feiertagen"
       ],
       "download": {
-        "text": "<p>Die Fahrplantabelle zu den ausfallenden Z&uuml;gen und Schienenersatzverkehr finden Sie hier:&nbsp;</p>\n",
+        "text": "<p>Die Fahrplantabellen zu den ausfallenden Z&uuml;gen und zum Schienenersatzverkehr finden Sie hier:&nbsp;</p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:9bde2da1-71cc-4ba5-87f1-38f1a9aadfc0/Tauberbahn_reduziertes_Angebot_20102022.pdf",
             "title": "Veränderter Fahrplan Tauberbahn bis 11. Dezember (PDF, 451 KB)",
             "info": "Veränderter Fahrplan Tauberbahn bis 11. Dezember",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:6d76ef6c-272c-4649-a770-a46cd6e05397/Kahlgrundbahn_2611_2805.pdf",
+            "title": "Veränderter Fahrplan Kahlgrundbahn bis 28. Mai (PDF, 95 KB)",
+            "info": "Veränderter Fahrplan Kahlgrundbahn bis 28. Mai",
             "openInNewTab": true
           }
         ]
@@ -377,7 +384,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "31.10.2022 03:16",
+      "lastModified": "25.11.2022 13:15",
       "expand": false,
       "priorityValue": 102
     },
