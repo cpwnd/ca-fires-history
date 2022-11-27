@@ -368,10 +368,17 @@
       "id": "22dca5ab-307e-4876-b565-6fc234b4a4e1",
       "headline": "Streikankündigung in Österreich",
       "newsType": "Streik",
-      "timePeriod": "28.11.2022",
-      "introText": "<p>In &Ouml;sterreich wurden f&uuml;r Montag, den 28.11.2022 im Zeitraum von 0 Uhr bis 24 Uhr Streikma&szlig;nahmen angek&uuml;ndigt. Dadurch kann es im Fernverkehr der Deutschen Bahn von und nach &Ouml;sterreich zu Ausf&auml;llen kommen.&nbsp;</p>\n",
-      "connections": [],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;Die n&auml;chste Aktualisierung dieser Meldung erfolgt sp&auml;testens am 27.11.2022 um 16 Uhr.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "timePeriod": "Montag, den 28.11.2022 ganztägig",
+      "introText": "<p>In &Ouml;sterreich wurden f&uuml;r Montag, den 28.11.2022 im Zeitraum von 0 Uhr bis 24 Uhr Streikma&szlig;nahmen angek&uuml;ndigt. Dadurch kommt es im internationalen Fernverkehr der Deutschen Bahn zwischen Deutschland und &Ouml;sterreich zu Zug- und Teilausf&auml;llen.</p>\n\n<p><strong>Es besteht keine Bef&ouml;rderungsm&ouml;glichkeit in Richtung &Ouml;BB w&auml;rend der Streikma&szlig;nahmen.</strong></p>\n",
+      "connectionsHeadline": "Es kommt zu folgenden Einschränkungen:",
+      "connections": [
+        "ICE / IC - Züge  Berlin / Hamburg / Dortmund / Frankfurt(M) - Nürnberg - Passau - Österreich: Fallen zwischen Nürnberg Hbf bzw. Passau und Wien aus. ",
+        "IC / EC - Züge Frankfurt(M) - Ulm - München - Österreich: Fallen zwischen Freilassing und Österreich aus.",
+        "ECE - Züge München - Bregenz - Zürich: Fallen zwischen Lindau-Reutin und Zürich aus.",
+        "Rj - Züge München - Salzburg - Budapest: Fallen auf dem gesamten Weg aus.",
+        "EC - Züge München - Innsbruck - Verona: Fallen auf dem gesamten Weg aus."
+      ],
+      "closingText": "<p><strong>Der Nachtreiseverkehr der &Ouml;BB f&auml;llt auf dem gesamten Weg aus.</strong></p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;Die n&auml;chste Aktualisierung dieser Meldung erfolgt sp&auml;testens am 27.11.2022 um 16 Uhr.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "0",
       "distance": [
         "longDistance"
@@ -380,7 +387,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "26.11.2022 19:15",
+      "lastModified": "27.11.2022 17:10",
       "author": "fernverkehr_ag",
       "expand": true,
       "priorityValue": 102
@@ -552,7 +559,7 @@
       "areas": [
         "ni"
       ],
-      "lastModified": "27.11.2022 16:41",
+      "lastModified": "27.11.2022 16:52",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 101
