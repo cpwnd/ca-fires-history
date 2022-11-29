@@ -443,8 +443,18 @@
       "download": {
         "text": "<p>Den aktuellen Fahrplan finden Sie nachstehend:</p>\n",
         "linkDataList": [
-          null,
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:15e3c0d4-7914-48b6-89dc-35c1b3c01206/Stendal-Salzwedel-Uelzen%20ab%2028.11.22.pdf",
+            "title": "Stendal-Salzwedel-Uelzen ab 28.11.22.pdf (PDF, 975 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:2f993719-929d-4f95-9570-fa3d43ac1950/Uelzen-Salzwedel-Stendal%20ab%2028.11.2022.pdf",
+            "title": "Uelzen-Salzwedel-Stendal ab 28.11.2022.pdf (PDF, 1012 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
         ]
       },
       "closingText": "<p>Im Zeitraum vom 23.11.2022 bis einschlie&szlig;lich 16.12.2022 verkehren auf der&nbsp;RE Linie 20 Magdeburg Hbf &ndash; Uelzen folgende Z&uuml;ge:</p>\n\n<p><strong>Stendal - Uelzen</strong>:</p>\n\n<p>16200 &nbsp;ab Stendal &nbsp;04:40 Uhr &nbsp;- an Uelzen &nbsp;05:50 Uhr<br />\n16202 &nbsp;ab Stendal &nbsp;05:14 Uhr &nbsp;- an Uelzen &nbsp;06:40 Uhr<br />\n16204 &nbsp;ab Stendal &nbsp;06:33 Uhr &nbsp;- an Uelzen &nbsp;07:46 Uhr<br />\n&nbsp; 4846 &nbsp;ab Stendal &nbsp;17:44 Uhr - an Uelzen &nbsp; 18:46 Uhr<br />\n&nbsp; 4848&nbsp;&nbsp;ab Stendal &nbsp;19:44 Uhr - an Uelzen &nbsp; 20:46 Uhr<br />\n16208 &nbsp;ab Stendal &nbsp;22:32 Uhr&nbsp;- an Salzwedel 01:18 Uhr</p>\n\n<p><strong>Uelzen&nbsp;-&nbsp;Stendal:&nbsp;</strong></p>\n\n<p>16201 &nbsp;ab Salzwedel 05:02 Uhr - an Stendal &nbsp;05:39 Uhr<br />\n16203 &nbsp;ab Salzwedel 05:25 Uhr - an Stendal &nbsp;05:56 Uhr<br />\n16205 &nbsp;ab Salzwedel 05:57 Uhr - an Stendal &nbsp;06:34 Uhr<br />\n16207 &nbsp;ab Uelzen &nbsp; &nbsp; &nbsp;06:19 Uhr - an Stendal &nbsp;07:22 Uhr<br />\n16209 &nbsp;ab Uelzen &nbsp; &nbsp; &nbsp;07:00 Uhr - an Stendal &nbsp;08:13 Uhr<br />\n&nbsp;4833&nbsp;&nbsp; ab Uelzen &nbsp; &nbsp; &nbsp;09:02 Uhr - an Stendal &nbsp;10:10 Uhr<br />\n&nbsp;4849&nbsp;&nbsp; ab Uelzen &nbsp; &nbsp; &nbsp;19:02 Uhr - an Stendal &nbsp;20:07 Uhr<br />\n16211 &nbsp;ab Uelzen &nbsp; &nbsp; &nbsp;21:02 Uhr - an Stendal &nbsp;22:11 Uhr</p>\n\n<p>Die Z&uuml;ge der RB 32 verkehren uneingeschr&auml;nkt zwischen Stendal und Salzwedel.&nbsp;</p>\n\n<p>&Uuml;ber&nbsp;&Auml;nderungen&nbsp;der&nbsp;Betriebslage&nbsp;werden wir&nbsp;Sie&nbsp;auch&nbsp;an&nbsp;dieser Stelle&nbsp;informieren.</p>\n\n<p>Bitte informieren Sie sich vor Reisebeginn &uuml;ber aktuelle Versp&auml;tungen und Einschr&auml;nkungen unter&nbsp;<a href=\"http://www.bahn.de\" style=\"color:#0563c1; text-decoration:underline\">www.bahn.de</a>.&nbsp;Weitere&nbsp;Informationen&nbsp;erhalten Sie u.a. auch&nbsp;bei der&nbsp;Kundenhotline&nbsp; unter 030 2970.</p>\n\n<p>Z&uuml;ge des Fernverkehrs sind f&uuml;r Reisende des Nahverkehrs freigegeben (Stendal - Salzwedel - Uelzen) und halten zum Teil zus&auml;tzlich in Salzwedel.&nbsp;Bitte beachten Sie das eine Fahrradbef&ouml;rderung in den Fernverkehrsz&uuml;gen ausgeschlossen ist.Aus betrieblichen Gr&uuml;nden k&ouml;nnen nicht alle Z&uuml;ge des Fernverkehrs in Salzwedel halten. Bitte informieren Sie sich in der Reiseauskunft <a href=\"https://www.bahn.de/\" style=\"color:#0563c1; text-decoration:underline\">https://www.bahn.de/</a> f&uuml;r den konkreten Zug.</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
@@ -455,7 +465,7 @@
       "areas": [
         "st"
       ],
-      "lastModified": "28.11.2022 21:00",
+      "lastModified": "29.11.2022 10:00",
       "expand": false,
       "priorityValue": 101
     },
