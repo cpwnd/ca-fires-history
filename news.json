@@ -147,29 +147,6 @@
       "priorityValue": 201
     },
     {
-      "id": "e4584bf8-6c9a-41bd-9574-eabb90236e46",
-      "headline": "Beeinträchtigungen zwischen Oberhausen und Arnhem",
-      "newsType": "Bauarbeiten",
-      "timePeriod": "Am Montag, 05.12.2022 bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund von Bauarbeiten in Oberhausen auf der Strecke D&uuml;sseldorf &ndash; Arnhem (Niederlande) ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Haltausf&auml;llen und Versp&auml;tungen.&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE-Züge zwischen Köln und Amsterdam werden in beiden Fahrtrichtungen umgeleitet und verspäten sich um etwa 60 Minuten. Die Halte Köln Messe/Deutz, Düsseldorf, Oberhausen und Arnhem entfallen. Ersatzhalt in Mönchengladbach und 's-Hertogenbosch. In Köln halten die umgeleiteten ICE-Züge abweichend in Köln-Ehrenfeld oder Hauptbahnhof."
-      ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "nw"
-      ],
-      "lastModified": "05.12.2022 09:03",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 201
-    },
-    {
       "id": "da4dcadd-2f1c-49de-9e85-e9fff6231e7e",
       "headline": "Vorübergehend reduziertes Fahrplanangebot Worms-Bensheim und Weinheim-Fürth",
       "newsType": "Erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
@@ -794,6 +771,28 @@
       ],
       "lastModified": "29.11.2022 04:15",
       "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "7d33db1d-d35b-4e2d-9bbd-0adddd071a89",
+      "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
+      "newsType": "Reparatur an den Fahrzeugen der SNCF",
+      "timePeriod": "Montag, 5. Dezember bis Betriebsende",
+      "introText": "<p>Ein Ersatzverkehr mit Bussen ist eingerichtet.</p>\n",
+      "connectionsHeadline": "Betroffene Strecke:",
+      "connections": [
+        "RB107: Müllheim(Baden) - Mulhouse Ville"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "05.12.2022 13:30",
       "expand": false,
       "priorityValue": 101
     },
