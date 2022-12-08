@@ -305,34 +305,34 @@
       "introText": "<p>Aufgrund einer besch&auml;digten Br&uuml;cke ist die Strecke zwischen Gittelde/Bad Grund(Harz) und Herzberg(Harz) gesperrt.</p>\n",
       "connectionsHeadline": "Folgende Linie ist betroffen",
       "connections": [
-        "RB46 (Braunschweig Hbf - Gittelde/Bad Grund(Harz) - Herzberg(Harz)). Die Züge aus/in Richtung Braunschweig Hbf enden/beginnen vorzeitig in Gittelde/Bad Grund(Harz)"
+        "RB46 (Braunschweig Hbf - Gittelde/Bad Grund(Harz) - Herzberg(Harz)). Die Züge aus/in Richtung Braunschweig Hbf enden/beginnen vorzeitig in Gittelde/Bad Grund(Harz). Ein Schienenersatzverkehr ist zwischen Gittelde/Bad Grund(Harz) und Herzberg(Harz) eingerichtet."
       ],
       "download": {
-        "text": "<p>Fahrpl&auml;ne SEV Gittelde/Bad Grund(Harz) - Herzberg(Harz)</p>\n",
+        "text": "<p>Fahrpl&auml;ne Schienenersatzverkehr:</p>\n",
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:707901ab-1e9b-488d-b3c8-8134e2207181/Schienenersatzverkehr_RB46_HGT-HHB%20-%20V2.pdf",
-            "title": "SEV Gittelde/Bad Grund(Harz) - Herzberg(Harz) gültig bis 8. Dezember 2022 (PDF, 347 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:2b7f1491-3921-47d5-a8ef-552da7347962/SEV_RB46_HGT-HHB%20-%20V2.pdf",
+            "title": "Gittelde/Bad Grund(Harz) - Herzberg(Harz) gültig bis 8. Dezember 2022 (PDF, 339 KB)",
             "info": "",
             "openInNewTab": true
           },
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:d9de7ba6-06dc-471a-b844-d3c5dbfa1884/Schienenersatzverkehr_RB46_HHB-HGT%20-%20V2.pdf",
-            "title": "SEV Herzberg(Harz) - Gittelde/Bad Grund(Harz) gültig bis 8. Dezember 2022 (PDF, 336 KB)",
+            "link": "https://assets.static-bahn.de/dam/jcr:0cf9f768-537d-42d1-acc1-04fff1e6bdba/SEV_RB46_HHB-HGT%20-%20V2.pdf",
+            "title": "Herzberg(Harz) - Gittelde/Bad Grund(Harz) gültig bis 8. Dezember 2022 (PDF, 339 KB)",
             "info": "",
             "openInNewTab": true
           },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:e6487daf-8cd8-480c-8d2a-3c919a02e46f/Schienenersatzverkehr_RB46_HGT-HHB%20-%20V3.pdf",
-            "title": "SEV Gittelde/Bad Grund(Harz) - Herzberg(Harz) gültig ab 9. Dezember 2022 (PDF, 379 KB)",
+            "title": "Gittelde/Bad Grund(Harz) - Herzberg(Harz) gültig ab 9. Dezember 2022 (PDF, 379 KB)",
             "info": "",
-            "openInNewTab": false
+            "openInNewTab": true
           },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:895c69d4-a919-4d54-b41d-6f41e88547ce/Schienenersatzverkehr_RB46_HHB-HGT%20-%20V2.pdf",
-            "title": "SEV Herzberg(Harz) - Gittelde/Bad Grund(Harz) gültig ab 9. Dezember 2022 (PDF, 336 KB)",
+            "title": "Herzberg(Harz) - Gittelde/Bad Grund(Harz) gültig ab 9. Dezember 2022 (PDF, 336 KB)",
             "info": "",
-            "openInNewTab": false
+            "openInNewTab": true
           }
         ]
       },
@@ -345,7 +345,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "08.12.2022 11:16",
+      "lastModified": "08.12.2022 11:30",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
