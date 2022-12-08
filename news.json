@@ -390,13 +390,19 @@
         "Kahlgrundbahn: bis voraussichtlich 28. Mai 2023 an Samstagen, Sonn- und Feiertagen"
       ],
       "download": {
-        "text": "<p>Die Fahrplantabellen zu den ausfallenden Z&uuml;gen und zum Schienenersatzverkehr finden Sie hier (die Fahrplantabelle der Tauberbahn bis zum 28. Mai folgt in K&uuml;rze):&nbsp;</p>\n",
+        "text": "<p>Die Fahrplantabellen zu den ausfallenden Z&uuml;gen und zum Schienenersatzverkehr finden Sie hier:&nbsp;</p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:9bde2da1-71cc-4ba5-87f1-38f1a9aadfc0/Tauberbahn_reduziertes_Angebot_20102022.pdf",
             "title": "Veränderter Fahrplan Tauberbahn bis 11. Dezember (PDF, 451 KB)",
             "info": "Veränderter Fahrplan Tauberbahn bis 11. Dezember",
             "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:240bdc2f-36e5-4669-a419-b66cb65f5932/Tauberbahn_reduziertes_Angebot_24122022_28052023.pdf",
+            "title": "Veränderter Fahrplan Tauberbahn vom 24. Dezember bis 28. Mai 2023 (PDF, 240 KB)",
+            "info": "Veränderter Fahrplan Tauberbahn vom 24. Dezember bis 28. Mai 2023",
+            "openInNewTab": false
           },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:62fd6895-2a69-4cac-a61a-e77cce967cf0/Kahlgrundbahn_26112022_28052023.pdf",
@@ -415,7 +421,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "08.12.2022 10:17",
+      "lastModified": "08.12.2022 10:37",
       "expand": false,
       "priorityValue": 102
     },
