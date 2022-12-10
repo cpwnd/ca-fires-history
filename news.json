@@ -353,6 +353,47 @@
       "priorityValue": 102
     },
     {
+      "id": "ca0f4daa-1d8a-4b94-b287-1ad30dcee4d5",
+      "headline": "Beeinträchtigungen auf der Strecke zwischen Gittelde/Bad Grund(Harz) und Herzberg(Harz)",
+      "newsType": "(Beschädigung an einer Brücke)",
+      "timePeriod": "Störung bis auf Weiteres",
+      "introText": "<p>Aufgrund einer besch&auml;digten Br&uuml;cke ist die Strecke zwischen Gittelde/Bad Grund(Harz) und Herzberg(Harz) gesperrt.</p>\n",
+      "connectionsHeadline": "Folgende Linie ist betroffen",
+      "connections": [
+        "RB46 (Braunschweig Hbf - Gittelde/Bad Grund(Harz) - Herzberg(Harz)). Die Züge aus/in Richtung Braunschweig Hbf enden/beginnen vorzeitig in Gittelde/Bad Grund(Harz). Ein Schienenersatzverkehr ist zwischen Gittelde/Bad Grund(Harz) und Herzberg(Harz) eingerichtet."
+      ],
+      "download": {
+        "text": "<p>Fahrpl&auml;ne Schienenersatzverkehr:</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:e6487daf-8cd8-480c-8d2a-3c919a02e46f/Schienenersatzverkehr_RB46_HGT-HHB%20-%20V3.pdf",
+            "title": "Gittelde/Bad Grund(Harz) - Herzberg(Harz) gültig ab 9. Dezember 2022 (PDF, 379 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:895c69d4-a919-4d54-b41d-6f41e88547ce/Schienenersatzverkehr_RB46_HHB-HGT%20-%20V2.pdf",
+            "title": "Herzberg(Harz) - Gittelde/Bad Grund(Harz) gültig ab 9. Dezember 2022 (PDF, 336 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>Ein Schienenersatzverkehr ist eingerichtet. Der Halt Osterode(Harz) Leege kann aufgrund von Bauarbeiten derzeit nicht angefahren werden, nutzen Sie bitte alternativ die Haltestelle Osterode BBS.</p>\n\n<p>Bitte beachten Sie, dass es durch die Sperrung zu einer Reisezeitverl&auml;ngerung von mindestens 60 Minuten kommt.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">bahn.de/reiseauskunft</a><a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">,</a> in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noreferrer noopener\" target=\"_blank\">App DB Navigator</a><a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\"> </a>oder beim regionalen Kundendialog unter <a href=\"tel:0511 45901645\">0511 45901645</a>.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf <a href=\"https://twitter.com/dbregio_NDS\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a><a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">.</a>&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "hb",
+        "ni"
+      ],
+      "lastModified": "10.12.2022 06:36",
+      "author": "niedersachsen_bremen",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "a3605fe9-665c-46ba-b733-55c2dc1f38bf",
       "headline": "Mehrere Zugausfälle auf der Linie RB56 zwischen Hanau Hbf und Kahl(Main)",
       "newsType": "Personalnotstand im Stellwerk Hanau",
