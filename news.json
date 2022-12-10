@@ -1,39 +1,6 @@
 {
   "news": [
     {
-      "id": "ec8a4949-0fe6-4db3-b625-872964bc5f9e",
-      "headline": "Streckensperrung: Fernverkehr ist zwischen Berlin und Hannover bis einschließlich 10.12.2022 beeinträchtigt",
-      "newsType": "Streckensperrung",
-      "timePeriod": "Bis einschließlich Samstag, den 10.12.2022",
-      "introText": "<p>Aufgrund einer Streckensperrung kommt es bis einschlie&szlig;lich, den 10.12.2022 zwischen Berlin und Hannover zu Versp&auml;tungen und Zugausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "ICE-Züge NRW - Hamm bzw. Münster/Westf - Hannover - Berlin werden umgeleitet und verspäten sich um mindestens 120 Minuten. Der Halt Wolfsburg entfällt. Ersatzweise halten die Züge in Stendal, Salzwedel oder Uelzen. In Hannover wechseln einzelne Züge die Zugnummer, es ist allerdings kein Umstieg erforderlich. Bitte beachten Sie, dass derzeit Fehler bei der Sitzplatzreservierung auftreten und keine weiteren Reservierungen in Richtung NRW möglich sind.",
-        "ICE-Züge Schweiz - Karlsruhe - Frankfurt(M) - Kassel - Berlin werden zwischen Fulda und Berlin umgeleitet. Ersatzweise halten die Züge in Erfurt und Halle.",
-        "IC-Züge Leipzig – Magdeburg – Hannover – Bremen – Emden – Norddeich Mole fallen zwischen Leipzig und Hannover aus.",
-        "IC-Züge Amsterdam - Osnabrück - Hannover - Berlin fallen zwischen Hannover und Berlin aus."
-      ],
-      "closingText": "<p><strong>Bitte rechnen Sie in den noch verkehrenden Z&uuml;gen mit einer sehr hohen Auslastung.&nbsp;</strong></p>\n\n<p>Alle&nbsp;Fahrg&auml;ste, die ihre f&uuml;r den Zeitraum 17.11.2022 bis 11.12.2022 geplante Reise aufgrund der Beeintr&auml;chtigungen durch die G&uuml;terzugkollision in Leiferde&nbsp;verschieben m&ouml;chten, k&ouml;nnen ihr bis einschlie&szlig;lich 23.11.2022 gebuchtes Ticket f&uuml;r den Fernverkehr ab sofort bis einschlie&szlig;lich 23.12.2022 flexibel nutzen. Sitzplatzreservierungen k&ouml;nnen kostenfrei storniert werden<br />\n<br />\nZudem gelten bei Versp&auml;tung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter <a href=\"http://www.bahn.de/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Wir haben alle Informationen zu Reisen w&auml;hrend dieses Ereignisses&nbsp;<a href=\"http://www.bahn.de/sonderkulanz\">hier</a> nochmals ausf&uuml;hrlich f&uuml;r Sie zusammengestellt.</p>\n\n<p><strong>Wir empfehlen Ihnen die folgeden Reisem&ouml;glichkeiten:</strong></p>\n\n<p>Bitte nutzen Sie zwischen <strong>Wolfsburg </strong>und <strong>Hannover Hbf&nbsp;</strong>die st&uuml;ndlich verkehrenden Ersatzbusse.</p>\n\n<p>Zwischen <strong>Wolfsburg </strong>und <strong>Berlin-Spandau</strong>&nbsp;verkehrt montags bis freitags 2x morgens und 2x nachmittags ein Pendelzug ohne Umsteigen &uuml;ber&nbsp;Stendal. Die genauen Fahrzeiten der Z&uuml;ge sind in der Reiseauskunft zu finden. Zu den anderen Zeiten und am Wochenende nutzen Sie bitte die RB 35 zwischen Wolfsburg und Stendal und steigen dort in die ICE-Z&uuml;ge um.</p>\n\n<p>Bitte nutzen Sie zwischen <strong>Berlin</strong> und dem <strong>n&ouml;rdlichen NRW</strong> auch Umsteigeverbindungen &uuml;ber Hamburg Hbf. Bitte nutzen Sie zwischen <strong>Berlin </strong>und dem <strong>s&uuml;dlichen NRW </strong>auch Umsteigeverbindungen &uuml;ber Frankfurt(Main) Hbf.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, oder im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a>.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "be",
-        "br",
-        "hb",
-        "hh",
-        "mv",
-        "ni",
-        "nw",
-        "st"
-      ],
-      "lastModified": "07.12.2022 12:46",
-      "author": "fernverkehr_ag",
-      "expand": true,
-      "priorityValue": 308
-    },
-    {
       "id": "9a8a2ee5-e748-4b5b-bde9-e39c3d98684c",
       "headline": "Beeinträchtigungen zwischen Erfurt Hbf und Nordhausen",
       "newsType": "Fahrplanänderungen",
@@ -119,6 +86,33 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
+    },
+    {
+      "id": "eff33f53-5a05-4f71-8b6c-13e8a6d62db4",
+      "headline": "Sonderkulanz für bis 23.11.2022 gebuchte Fahrscheine des Fernverkehrs",
+      "newsType": "Sonderkulanz",
+      "timePeriod": "Bis einschließlich Freitag, den 23.12.2022",
+      "introText": "<p>Alle&nbsp;Fahrg&auml;ste, die ihre f&uuml;r den Zeitraum 17.11.2022 bis 11.12.2022 geplante Reise aufgrund der Beeintr&auml;chtigungen durch die G&uuml;terzugkollision in Leiferde&nbsp;verschoben haben, k&ouml;nnen ihr bis einschlie&szlig;lich <strong>23.11.2022</strong> <u>gebuchtes</u> Ticket f&uuml;r den Fernverkehr bis <strong>einschlie&szlig;lich 23.12.2022</strong> flexibel nutzen. Sitzplatzreservierungen k&ouml;nnen kostenfrei storniert werden.<br />\n&nbsp;</p>\n",
+      "connections": [],
+      "closingText": "<p>Zudem gelten bei Versp&auml;tung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter <a href=\"http://www.bahn.de/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "mv",
+        "ni",
+        "nw",
+        "st"
+      ],
+      "lastModified": "11.12.2022 00:05",
+      "author": "fernverkehr_ag",
+      "expand": true,
+      "priorityValue": 108
     },
     {
       "id": "da4dcadd-2f1c-49de-9e85-e9fff6231e7e",
@@ -298,47 +292,6 @@
       ],
       "lastModified": "10.12.2022 18:48",
       "author": "nordost",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
-      "id": "ca0f4daa-1d8a-4b94-b287-1ad30dcee4d5",
-      "headline": "Beeinträchtigungen auf der Strecke zwischen Gittelde/Bad Grund(Harz) und Herzberg(Harz)",
-      "newsType": "(Beschädigung an einer Brücke)",
-      "timePeriod": "Störung bis auf Weiteres",
-      "introText": "<p>Aufgrund einer besch&auml;digten Br&uuml;cke ist die Strecke zwischen Gittelde/Bad Grund(Harz) und Herzberg(Harz) gesperrt.</p>\n",
-      "connectionsHeadline": "Folgende Linie ist betroffen",
-      "connections": [
-        "RB46 (Braunschweig Hbf - Gittelde/Bad Grund(Harz) - Herzberg(Harz)). Die Züge aus/in Richtung Braunschweig Hbf enden/beginnen vorzeitig in Gittelde/Bad Grund(Harz). Ein Schienenersatzverkehr ist zwischen Gittelde/Bad Grund(Harz) und Herzberg(Harz) eingerichtet."
-      ],
-      "download": {
-        "text": "<p>Fahrpl&auml;ne Schienenersatzverkehr:</p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:e6487daf-8cd8-480c-8d2a-3c919a02e46f/Schienenersatzverkehr_RB46_HGT-HHB%20-%20V3.pdf",
-            "title": "Gittelde/Bad Grund(Harz) - Herzberg(Harz) gültig ab 9. Dezember 2022 (PDF, 379 KB)",
-            "info": "",
-            "openInNewTab": true
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:895c69d4-a919-4d54-b41d-6f41e88547ce/Schienenersatzverkehr_RB46_HHB-HGT%20-%20V2.pdf",
-            "title": "Herzberg(Harz) - Gittelde/Bad Grund(Harz) gültig ab 9. Dezember 2022 (PDF, 336 KB)",
-            "info": "",
-            "openInNewTab": true
-          }
-        ]
-      },
-      "closingText": "<p>Ein Schienenersatzverkehr ist eingerichtet. Der Halt Osterode(Harz) Leege kann aufgrund von Bauarbeiten derzeit nicht angefahren werden, nutzen Sie bitte alternativ die Haltestelle Osterode BBS.</p>\n\n<p>Bitte beachten Sie, dass es durch die Sperrung zu einer Reisezeitverl&auml;ngerung von mindestens 60 Minuten kommt.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">bahn.de/reiseauskunft</a><a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">,</a> in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noreferrer noopener\" target=\"_blank\">App DB Navigator</a><a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\"> </a>oder beim regionalen Kundendialog unter <a href=\"tel:0511 45901645\">0511 45901645</a>.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf <a href=\"https://twitter.com/dbregio_NDS\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a><a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">.</a>&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "hb",
-        "ni"
-      ],
-      "lastModified": "10.12.2022 06:36",
-      "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
     },
@@ -726,65 +679,6 @@
         "he"
       ],
       "lastModified": "08.12.2022 06:52",
-      "author": "hessen",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "c5176419-bec8-4dc4-b500-57737da5c237",
-      "headline": "Nicht barrierefreier Ersatzverkehr auf den Linien RB41 und RB49",
-      "newsType": "Eingeschränktes Zugangebot ",
-      "timePeriod": "Bis voraussichtlich 10.12.2022",
-      "introText": "<p>Auf den Linien RB41 sowie RB49 kommt es bis zum 10.12.2022 zum Einsatz von Ersatzz&uuml;gen.</p>\n",
-      "connectionsHeadline": "Betroffene Linie:",
-      "connections": [
-        "RB41 Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Stadtallendorf - Treysa",
-        "RB49: Hanau Hbf - Friedberg(Hess) - Gießen"
-      ],
-      "download": {
-        "text": "<p><br />\n<strong>Die aktuelle Fahrplantabelle</strong></p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:b1d97ff2-0112-406e-b123-ce2482b1cfaf/12-22_RE30_RB41_RB49_Ausfaelle_Centralbahn.pdf",
-            "title": "Nicht barrierefreie Züge (RB41 und RB49) bis 10.12.2022 (PDF, 299 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p>Zwischen Hanau Hbf - Friedberg(Hess) - Gie&szlig;en - Marburg (Lahn) werden einzelne Fahrten durch die Centralbahn GmbH im Auftrag der DB Regio AG durchgef&uuml;hrt.<br />\nHierbei k&ouml;nnen andere Fahrzeuge zum Einsatz kommen.</p>\n\n<p>Die Fahrten des Ersatzverkehrs auf den Linien RB41 und RB49 sind <strong>nicht barrierefrei</strong>.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"https://www.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App.</p>\n\n<p>W&auml;hlen Sie gegebenenfalls eine fr&uuml;here Zugverbindung, um Ihre Anschl&uuml;sse an Ihren Umsteigebahnh&ouml;fen erreichen zu k&ouml;nnen.</p>\n\n<p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:069 24445710\">069 24445710</a></p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "he"
-      ],
-      "lastModified": "02.11.2022 05:55",
-      "author": "hessen",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "79581808-7233-45cd-ae24-768a8d95a91a",
-      "headline": "Zugausfälle auf dem Hessenexpress zwischen Frankfurt(Main)Hbf - Bebra (- Kassel)",
-      "newsType": "Erhöhter Krankenstand",
-      "timePeriod": "Bis zum 10. Dezember 2022",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes kommt es zu Beeintr&auml;chtigungen im Bahnverkehr bei DB Regio Mitte.</p>\n",
-      "connectionsHeadline": "Betroffene Linie:",
-      "connections": [
-        "RE5 (Hessenexpress): Frankfurt(Main)Hbf - Fulda - Bebra (- Kassel)",
-        "RE50: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach - Fulda"
-      ],
-      "closingText": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p><strong>Mo bis Fr:</strong></p>\n\n<p>- RE5 (4538), Abfahrt in Kassel Hbf um 5:35 Uhr - Dieser Zug f&auml;llt aus.&nbsp;<br />\n- RE5 (4591), Abfahrt in Frankfurt(Main)Hbf um 8:18 Uhr - Dieser Zug f&auml;llt aus.<br />\n- RE5 (4594), Abfahrt in Bebra um 14:45 Uhr - Dieser Zug f&auml;llt aus.<br />\n- RE5 (4595), Abfahrt in Frankfurt(Main)Hbf um 18:18 Uhr - Dieser Zug f&auml;llt aus.<br />\n- RE5 (4598), Abfahrt in Bebra um 20:46 Uhr - Dieser Zug f&auml;llt aus.&nbsp;</p>\n\n<p><strong>Sa und So:</strong></p>\n\n<p>Die Z&uuml;ge der Linie RE5 (Hessenexpress) entfallen.<br />\n&nbsp;</p>\n\n<p>Um wichtige Sch&uuml;lerverkehre in der morgendlichen Hauptverkehrszeit (Mo-Fr) zwischen H&uuml;nfeld und Fulda bedienen zu k&ouml;nnen, haben wir <strong>bis einschlie&szlig;lich 25. November 2022</strong> auf der Linie RE50 zus&auml;tzlich folgende Ma&szlig;nahmen ergriffen:</p>\n\n<p>- RE50 aus Richtung Frankfurt(Main)Hbf (Ankunft in Fulda 6:40 Uhr) wird bis H&uuml;nfeld verl&auml;ngert (Abfahrt in Fulda 6:41 Uhr, Ankunft in H&uuml;nfeld 6:51 Uhr)<br />\n- RE50 in Richtung Frankfurt(Main)Hbf (Abfahrt in Fulda 7:07 Uhr) beginnt bereits in H&uuml;nfeld (Abfahrt in H&uuml;nfeld 6:56 Uhr, Ankunft in Fulda 7:06 Uhr)</p>\n\n<p><strong>Die von der cantus Verkehrsgesellschaft mbH betriebene Linie RE5 (Bad Hersfeld - Kassel) ist von diesen Ma&szlig;nahmen nicht betroffen.</strong>&nbsp;</p>\n\n<p>Informieren Sie bitte sich fr&uuml;hzeitig &uuml;ber Ihre geplanten Verbindungen.</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"http://www.bahn.de\" target=\"_blank\">bahn.de</a> oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:00496924445710\">069 2444 5710</a></p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "he"
-      ],
-      "lastModified": "17.11.2022 09:48",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
