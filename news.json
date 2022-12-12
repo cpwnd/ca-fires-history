@@ -2,17 +2,17 @@
   "news": [
     {
       "id": "7b241806-cd6b-4ec9-81ad-a36956aacf03",
-      "headline": "Beeinträchtigungen zwischen Hamburg und NRW",
+      "headline": "Beeinträchtigungen zwischen Hamburg/Bremen und NRW",
       "newsType": "Defektes Stellwerk",
       "timePeriod": "Am heutigen Montag, 12.12.2022 vsl. bis in die Mittagsstunden",
-      "introText": "<p>Aufgrund eines defekten Stellwerkes zwischen Bremen und Osnabr&uuml;ck kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.&nbsp;</p>\n",
+      "introText": "<p>Aufgrund eines defekten Stellwerkes in Drentwede auf der Strecke Bremen &ndash; Osnabr&uuml;ck ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Haltausf&auml;llen und Versp&auml;tungen.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "IC/ICE-Züge zwischen Bremen und Osnabrück werden umgeleitet und verspäten sich um etwa 50 Minuten. Die Halte in Diepholz, Osnabrück Hbf und Münster(W)Hbf entfallen. Ersatzhalte in Herford und Hamm(W)Hbf.",
-        "IC/ICE-Sprinter-Züge zwischen Hamburg und Münster(W) werden umgeleitet und verspäten sich um etwa 30 Minuten. Der Halt in Münster(W)Hbf entfällt, Ersatzhalt in Hamm(W)Hbf.",
-        "IC-Züge zwischen Bremerhaven und NRW werden umgeleitet und verspäten sich um etwa 60 Minuten. Der Halt in Osnabrück Hbf entfällt."
+        "ICE/IC-Züge zwischen Hamburg und NRW mit planmäßigen Halt in Bremen Hbf werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 50 Minuten. Die Halte in Diepholz, Osnabrück Hbf und Münster(W)Hbf entfallen. Ersatzhalte in Herford und Hamm(W)Hbf.",
+        "ICE/IC-Züge zwischen Hamburg und NRW (ohne Halt in Bremen) werden in beiden Fahrtrichtungen umgeleitet und verspäten sich um etwa 30 Minuten. Der Halt Münster(W)Hbf entfällt. Ersatzhalt in Hamm(W) Hbf.",
+        "IC-Züge zwischen Bremerhaven und NRW werden in beiden Fahrtrichtungen umgeleitet und verspäten sich um etwa 60 Minuten. Der Halt Osnabrück Hbf entfällt."
       ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>- <u>von/nach Osnabr&uuml;ck Hbf</u> nutzen Sie bitte bis/ab Herford auch die Nahverkehrsz&uuml;ge der Linie RB 61</p>\n\n<p>- <u>von/nach M&uuml;nster(W)Hbf</u>&nbsp;nutzen Sie bitte bis/ab Hamm(W)Hbf auch die Nahverkehrsz&uuml;ge der Linien RE 7, RB 69 und RB 89</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten. Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Reisende&nbsp;von/nach Osnabr&uuml;ck Hbf nutzen bitte bis/ab Herford auch die Nahverkehrsz&uuml;ge der Linie RB 61.</p>\n\n<p>Reisende von/nach M&uuml;nster(W)Hbf&nbsp;nutzen bitte bis/ab Hamm(W)Hbf auch die Nahverkehrsz&uuml;ge der Linien RE 7, RB 69 und RB 89.<br />\n&nbsp;</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten. Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -20,12 +20,13 @@
       "areas": [
         "hb",
         "hh",
+        "ni",
         "nw"
       ],
-      "lastModified": "12.12.2022 02:36",
+      "lastModified": "12.12.2022 07:01",
       "author": "fernverkehr_ag",
       "expand": true,
-      "priorityValue": 303
+      "priorityValue": 304
     },
     {
       "id": "9a8a2ee5-e748-4b5b-bde9-e39c3d98684c",
@@ -90,31 +91,6 @@
       "priorityValue": 201
     },
     {
-      "id": "312bc0d2-7260-4196-bca0-928db5efccbd",
-      "headline": "Werdenfelsbahn: Strecke zwischen Garmisch-Partenkirchen - Mittenwald weiterhin gesperrt",
-      "newsType": "Beeinträchtigungen ",
-      "introText": "<p>Nach einem Zugunfall zwischen Oberau und Garmisch-Partenkirchen und infolge einer Reparatur ist die <strong>Strecke&nbsp;zwischen Garmisch-Partenkirchen und Mittenwald weiterhin gesperrt.</strong> Die Z&uuml;ge aus Richtung M&uuml;nchen Hbf verkehren bis Garmisch-Partenkirchen und enden dort vorzeitig.</p>\n\n<p><strong>Wir haben einen Schienenersatzverkehr mit Bussen zwischen Garmisch-Partenkirchen und Mittenwald f&uuml;r Sie eingerichtet.</strong></p>\n\n<p>Weitere Infos unter:&nbsp;<a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\">Aktuelle Betriebslage DB Regio Bayern</a></p>\n",
-      "connectionsHeadline": "Betroffene Linien DB Regio Bayern: ",
-      "connections": [
-        "RB 6 / S 6: München Hbf - Garmisch-Partenkirchen - Mittenwald - Seefeld (Tirol) - Innsbruck (Tirol) ",
-        "RB 60 / S 7: München Hbf - Garmisch-Partenkirchen - Reutte (Tirol) - Pfronten-Steinach",
-        "RE 61: München Hbf - Garmisch-Partenkirchen - Mittenwald",
-        "RE 62: München Hbf - Garmisch-Partenkirchen - Lermoos"
-      ],
-      "closingText": "<p>Bitte informieren Sie sich regelm&auml;&szlig;ig auf&nbsp;<a href=\"https://www.bahn.de/\" target=\"_blank\">bahn.de</a>&nbsp;bzw. im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">App DB Streckenagent</a>&nbsp;&uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p><a href=\"https://twitter.com/streckenagentOB\">Streckenagent-Meldungen 24/7 aus Oberbayern &uuml;ber Twitter</a></p>\n\n<p><a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\">Aktuelle Betriebslage DB Regio Bayern</a></p>\n",
-      "priority": "1",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "by"
-      ],
-      "lastModified": "15.11.2022 19:50",
-      "author": "bayern",
-      "expand": false,
-      "priorityValue": 201
-    },
-    {
       "id": "dc862fc4-1d67-4f88-ab44-a8d1776519b7",
       "headline": "Beeinträchtigungen zwischen Duisburg und Düsseldorf",
       "newsType": "Bauarbeiten",
@@ -133,6 +109,29 @@
         "nw"
       ],
       "lastModified": "09.12.2022 15:28",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
+      "id": "831eb80c-dbf4-40de-8b3a-6b96a9bb290e",
+      "headline": "Beeinträchtigungen im Raum Köln",
+      "newsType": "Bauarbeiten",
+      "timePeriod": "Am heutigen Montag, 12.12.2022 bis in die Vormittagsstunden",
+      "introText": "<p>Aufgrund Bauarbeiten in K&ouml;ln Messe/Deutz ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Haltausf&auml;llen und Versp&auml;tungen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE-IC-Züge zwischen Köln Hbf und Düsseldorf/Wuppertal/Siegburg werden umgeleitet. Der Halt Köln Hbf entfällt. Ersatzhalt Köln Messe/Deutz."
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "nw"
+      ],
+      "lastModified": "12.12.2022 07:16",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
