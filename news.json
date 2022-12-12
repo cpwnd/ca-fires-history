@@ -4,7 +4,7 @@
       "id": "7b241806-cd6b-4ec9-81ad-a36956aacf03",
       "headline": "Beeinträchtigungen zwischen Hamburg/Bremen und NRW",
       "newsType": "Defektes Stellwerk",
-      "timePeriod": "Am heutigen Montag, 12.12.2022 vsl. bis in die Nachmittagsstunden",
+      "timePeriod": "Am heutigen Montag, 12.12.2022 vsl. bis in die späten Nachmittagsstunden",
       "introText": "<p>Aufgrund eines defekten Stellwerkes in Drentwede auf der Strecke Bremen &ndash; Osnabr&uuml;ck ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Haltausf&auml;llen und Versp&auml;tungen.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
@@ -23,7 +23,7 @@
         "ni",
         "nw"
       ],
-      "lastModified": "12.12.2022 09:34",
+      "lastModified": "12.12.2022 13:48",
       "author": "fernverkehr_ag",
       "expand": true,
       "priorityValue": 304
@@ -94,8 +94,8 @@
       "id": "dc862fc4-1d67-4f88-ab44-a8d1776519b7",
       "headline": "Beeinträchtigungen zwischen Duisburg und Düsseldorf",
       "newsType": "Bauarbeiten",
-      "timePeriod": "Ab Samstag, den 10.12. bis 18.12.2022 im Zeitraum von 22:00 - 06:00 Uhr",
-      "introText": "<p>Aufgrund von Bauarbeiten zwischen Duisburg und D&uuml;sseldorf kommt es ab Samstag, den 10.12. bis 18.12.22 in den Nachtstunden von 22:00 bis 06:00 Uhr&nbsp;zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 15 Minuten.</p>\n\n<p>Die Halte&nbsp;Duisburg Hbf, D&uuml;sseldorf Flughafen, D&uuml;sseldorf Hbf, Essen Hbf und Bochum Hbf m&uuml;ssen leider in dieser Zeit entfallen.</p>\n",
+      "timePeriod": "Bis 18.12.2022 im Zeitraum von 22:00 - 06:00 Uhr",
+      "introText": "<p>Aufgrund von Bauarbeiten zwischen Duisburg und D&uuml;sseldorf kommt es bis 18.12.22 in den Nachtstunden von 22:00 bis 06:00 Uhr&nbsp;zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 15 Minuten.</p>\n\n<p>Die Halte&nbsp;Duisburg Hbf, D&uuml;sseldorf Flughafen, D&uuml;sseldorf Hbf, Essen Hbf und Bochum Hbf m&uuml;ssen leider in dieser Zeit entfallen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "Alle ICE und IC/EC Züge zwischen Dortmund - Essen - Köln"
@@ -108,7 +108,7 @@
       "areas": [
         "nw"
       ],
-      "lastModified": "09.12.2022 15:28",
+      "lastModified": "12.12.2022 12:28",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
@@ -357,6 +357,30 @@
       "lastModified": "21.03.2022 18:12",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "70ff9155-24a3-467d-adb3-0c3383847982",
+      "headline": "Beeinträchtigungen zwischen Emden und Leer(Ostfriesl) ",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "bis vsl. 12.12.2022 22:00 Uhr",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Emden und Leer (Ostfriesl) kommt es auf der Linie RE 1 zu beeintr&auml;chtigungen.&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffene Linie ",
+      "connections": [
+        "RE 1 (Nordddeich(Mole) - Bremen Hbf – Hannover Hbf)"
+      ],
+      "closingText": "<p>Die Z&uuml;ge der Linie RE 1 aus Hannover enden / beginnen in Leer (Ostfriesl).&nbsp;</p>\n\n<p>Die Z&uuml;ge der Linie RE 1 aus Norddeich Mole enden / beginnen in Emden.&nbsp;</p>\n\n<p>Wir arbeiten an der Einrichtung eines Ersatzverkehres, warten aber noch auf die Best&auml;tigung unserer Partner.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\">App DB Navigator</a> oder beim regionalen Kundendialog unter 0511 45901645.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf <a href=\"https://twitter.com/dbregio_NDS\" style=\"color:blue; text-decoration:underline\">Twitter</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "hb",
+        "ni"
+      ],
+      "lastModified": "12.12.2022 13:22",
+      "author": "niedersachsen_bremen",
+      "expand": false,
       "priorityValue": 102
     },
     {
