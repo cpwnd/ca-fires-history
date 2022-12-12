@@ -469,13 +469,15 @@
     },
     {
       "id": "5c3e1597-c37a-424d-b641-41f5386d3cba",
-      "headline": "Einschränkungen der S-Bahn Mitteldeutschland Linie S 3",
+      "headline": "Einschränkungen bei der S-Bahn Mitteldeutschland Linie S 3",
       "newsType": "Fehlendes Personal",
-      "timePeriod": "11.12.2022 bis einschließlich 08.01.2023",
-      "introText": "<p>Durch Engp&auml;sse an einsatzbereitem Personal kommt es auf der Linie S 3 zu Fahrplananpassungen bzw. Zugausf&auml;llen. Bitte fahren Sie ersatzweise bis Halle S&uuml;dstadt die S-Bahn-Linie S 7.</p>\n\n<p>F&uuml;r Fahrten dar&uuml;ber hinaus benutzen Sie bitte die Stra&szlig;enbahn.</p>\n",
-      "connectionsHeadline": "S 3 zwischen Halle (Saale) Hauptbahnhof und Halle Nietleben",
-      "connections": [],
-      "closingText": "<p>Zus&auml;tzliche Fahrten:</p>\n\n<p>Mo - Fr</p>\n\n<p><em>&bull; ab Halle (Saale) Hbf:</em>&nbsp;07:07 Uhr, <em>an Halle S&uuml;dstadt:</em> 07:16 Uhr</p>\n\n<p>&bull;&nbsp;<em>ab Halle S&uuml;dstadt:</em>&nbsp;08:16 Uhr, <em>an Halle (Saale) Hbf:</em> 08:25 Uhr</p>\n\n<p>Ihre DB-Fahrscheine f&uuml;r die Zone 210 haben in den Stra&szlig;enbahnen der HAVAG G&uuml;ltigkeit.</p>\n",
+      "timePeriod": "11. Dezember 2022 bis einschließlich 08. Januar 2023",
+      "introText": "<p>Durch Engp&auml;sse an einsatzbereitem Personal kommt es auf der Linie S 3 zu Fahrplananpassungen.</p>\n",
+      "connectionsHeadline": "Betroffene Linie",
+      "connections": [
+        "Halle-Nietleben - Halle (Saale) Hbf - Leipzig Hbf (tief) - Wurzen - (Oschatz) "
+      ],
+      "closingText": "<p>Bitte beachten Sie, dass die Z&uuml;ge der S-Bahn-Linie S 3 bereits in Halle (Saale) Hbf enden bzw. beginnen. Reisende in Halle k&ouml;nnen alternativ die Stra&szlig;enbahn-Linien der HAVAG nutzen. Ihre Fahrscheine f&uuml;r die Tarifzone 210 sind in den Star&szlig;enbahnen g&uuml;ltig.&nbsp;</p>\n\n<p>F&uuml;r Fahrten von/nach Halle S&uuml;dstadt nutzen Sie bitte alternativ die S-Bahn-Linie S 7.</p>\n\n<p>Von Montag bis Freitag bestehen f&uuml;r Sie zwischen Halle (Saale) Hbf und Halle S&uuml;dstadt zus&auml;tzlich folgende Reisem&ouml;glichkeiten mit der Linie S 47:</p>\n\n<p>&bull; ab Halle (Saale) Hbf um 07:07 Uhr - an Halle S&uuml;dstadt um 07:16 Uhr</p>\n\n<p>&bull;&nbsp;ab Halle S&uuml;dstadt um 08:16 Uhr - an Halle (Saale) Hbf um 08:25 Uhr</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -483,7 +485,7 @@
       "areas": [
         "st"
       ],
-      "lastModified": "05.12.2022 12:06",
+      "lastModified": "12.12.2022 15:17",
       "expand": false,
       "priorityValue": 101
     },
