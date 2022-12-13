@@ -248,11 +248,11 @@
       "priorityValue": 102
     },
     {
-      "id": "9d21ad6d-5ee2-4cc5-852e-778cfd5fc5a6",
-      "headline": "Zugausfälle auf der Linie RB32 (Oranienburg - Flughafen-BER Terminal 5)",
-      "newsType": " Erhöhter Krankenstand beim Fahrpersonal",
+      "id": "1e2a45bd-546b-4423-8ac6-4ece2051bd85",
+      "headline": "Zugausfälle auf der Linie RB24 Nord (zwischen Berlin-Lichtenberg - Flughafen BER - Terminal 5)",
+      "newsType": "Bauarbeiten und erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "14.12.2022 - 08.01.2023",
-      "introText": "<p>Wegen erh&ouml;htem Krankenstand beim Fahrpersonal fallen alle Z&uuml;ge der Linie RB32 vom</p>\n\n<p>14. Dezember 2022 bis 08. Januar 2023 auf dem Abschnitt <strong>Oranienburg - Flughafen-BER Terminal 5</strong> in beide Richtungen aus.</p>\n\n<p>Bitte nutzen Sie die Z&uuml;ge der S-Bahn.</p>\n\n<p>&nbsp;</p>\n",
+      "introText": "<p>Die Z&uuml;ge der Linie RB24 Nord fallen vom&nbsp;</p>\n\n<p>14. Dezember 2022 bis 08. Januar 2023 auf dem Abschnitt <strong>Berlin-Lichtenberg - Flughafen BER - Terminal 5</strong> in beiden Richtungen aus. Bitte nutzen Sie als Ersatz die Z&uuml;ge der S-Bahn.</p>\n\n<p>Die Reiseauskunftssysteme der DB und des VBB werden derzeit aktualisiert.</p>\n\n<p>Der Abschnitt Eberswalde - Bernau ist von diesen langfristigen Ausf&auml;llen nicht betroffen.</p>\n\n<p>Ebenso ist der S&uuml;dabschnitt der Linie RB24 (Flughafen BER T1-2 - W&uuml;nsdorf-Waldstadt) von diesen langfristigen Ausf&auml;llen nicht betroffen.</p>\n",
       "connections": [],
       "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a></p>\n",
       "priority": "0",
@@ -263,7 +263,28 @@
         "be",
         "br"
       ],
-      "lastModified": "12.12.2022 20:15",
+      "lastModified": "13.12.2022 11:15",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "9d21ad6d-5ee2-4cc5-852e-778cfd5fc5a6",
+      "headline": "Zugausfälle auf der Linie RB32 Nord (zwischen Oranienburg - Flughafen BER - Terminal 5)",
+      "newsType": " Erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "14.12.2022 - 08.01.2023",
+      "introText": "<p>Wegen erh&ouml;htem Krankenstand beim Fahrpersonal fallen alle Z&uuml;ge der Linie RB32 Nord vom</p>\n\n<p>14. Dezember 2022 bis 08. Januar 2023 auf dem Abschnitt <strong>Oranienburg - Berlin-Lichtenberg - Flughafen BER - Terminal 5</strong> in beiden Richtungen aus.</p>\n\n<p>Bitte nutzen Sie die Z&uuml;ge der S-Bahn bzw. der zwischen Oranienburg und Berlin-Lichtenberg auch die Linie RB12 als Ersatz.</p>\n\n<p>Die Reiseauskunftssysteme der DB und des VBB werden derzeit aktualisiert.</p>\n\n<p>Der S&uuml;dabschnitt der Linie RB32 (Flughafen BER T1-2 - Ludwigsfelde) ist von diesen langfristigen Ausf&auml;llen nicht betroffen.</p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "13.12.2022 11:16",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -324,7 +345,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "12.12.2022 15:26",
+      "lastModified": "13.12.2022 11:19",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
