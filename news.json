@@ -489,7 +489,12 @@
       "download": {
         "text": "<p>Fahrpl&auml;ne Schienenersatzverkehr:</p>\n",
         "linkDataList": [
-          null,
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:4f5ce26d-9a34-4344-9a02-971a80eac466/1_Ersatzfahrplan%20zwischen%20Kiel%20und%20Flensburg_Neu.pdf",
+            "title": "Ersatzfahrplan zwischen Kiel und Flensburg (PDF, 617 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:4276fb7f-c660-484b-9310-375623d9b0d1/Ersatzfahrplan%20zwischen%20Flensburg%20und%20Kiel_Neu.pdf",
             "title": "Ersatzfahrplan zwischen Flensburg und Kiel (PDF, 567 KB)",
@@ -518,7 +523,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "13.12.2022 15:19",
+      "lastModified": "13.12.2022 15:41",
       "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 101
