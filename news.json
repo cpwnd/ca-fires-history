@@ -718,13 +718,17 @@
       "timePeriod": "vom 12. Dezember 2022 bis vsl. 08. Januar 2023",
       "connectionsHeadline": "Betroffene Strecke:",
       "connections": [
-        "RB 30: Basel Bad Bf - Waldshut und Erzingen(Baden)",
-        "Waldshut - Stühlingen"
+        "RB 30: Basel Bad Bf - Waldshut und Erzingen(Baden), Waldshut - Stühlingen"
       ],
       "download": {
         "text": "<p>Es kommt bei den Regionalbahnen zu Zugausf&auml;llen und Schienenersatzverkehr.</p>\n\n<p>Die Fahrg&auml;ste k&ouml;nnen die Z&uuml;ge im Stundentakt nutzen. Im f&uuml;r Sch&uuml;ler:innen und Pendler:innen wichtigen Verkehr bleibt der Fahrplan wie gewohnt. Busse sorgen zus&auml;tzlich f&uuml;r eine h&ouml;here Platzkapazit&auml;t.</p>\n\n<p>Die schnellen Verbindungen mit dem Interregio-Express Basel&ndash;Waldshut&ndash;Schaffhausen&ndash;Singen&ndash;Radolfzell&ndash;Friedrichshafen fahren weiterhin ohne Einschr&auml;nkungen.</p>\n\n<p>Den dazugeh&ouml;rigen Ersatzfahrplan finden Sie weiter unten.</p>\n",
         "linkDataList": [
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:c549f5b1-468e-4a04-86f2-f6627ecd1bdf/Hochrhein%20Ersatzfahrplan%20KBS730_12.12.-08.01._2022.pdf",
+            "title": "Ersatzfahrplan Basel - Waldshut / Stühlingen und Lauchringen 12.12.-08-01.22 (PDF, 444 KB)",
+            "info": "Ersatzfahrplan Basel - Waldshut/Stühlingen und Lauchringen 12.12.-08-01.22",
+            "openInNewTab": true
+          }
         ]
       },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung&nbsp;mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
@@ -735,7 +739,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "13.12.2022 08:23",
+      "lastModified": "13.12.2022 08:44",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
