@@ -1,32 +1,6 @@
 {
   "news": [
     {
-      "id": "7b241806-cd6b-4ec9-81ad-a36956aacf03",
-      "headline": "Beeinträchtigungen zwischen Hamburg/Bremen und NRW",
-      "newsType": "Defektes Stellwerk",
-      "timePeriod": "Am heutigen Montag, 12.12.2022 vsl. bis in die Abendstunden",
-      "introText": "<p>Aufgrund eines defekten Stellwerkes in Drentwede auf der Strecke Bremen &ndash; Osnabr&uuml;ck ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Versp&auml;tungen von etwa 15 Minuten.&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "ICE/IC-Züge zwischen Hamburg und NRW"
-      ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten. Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "hb",
-        "hh",
-        "ni",
-        "nw"
-      ],
-      "lastModified": "12.12.2022 16:23",
-      "author": "fernverkehr_ag",
-      "expand": true,
-      "priorityValue": 304
-    },
-    {
       "id": "9a8a2ee5-e748-4b5b-bde9-e39c3d98684c",
       "headline": "Beeinträchtigungen zwischen Erfurt Hbf und Nordhausen",
       "newsType": "Fahrplanänderungen",
@@ -133,30 +107,6 @@
         "nw"
       ],
       "lastModified": "12.12.2022 12:28",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 201
-    },
-    {
-      "id": "b5173a9a-b562-4294-97c3-6c25abe2aff1",
-      "headline": "Beeinträchtigung zwischen Emden - Leer(Ostfriesl.) ",
-      "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Heute, 12.12.2022 bis in die späten Abendstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Emden - Leer (Ostfriesl.)&nbsp;kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Derzeit sind auf diesem Streckenabschnitt keine Zugfahrten m&ouml;glich.</p>\n\n<p>Z&uuml;ge enden und beginnen&nbsp; in Leer (Ostfriesl.)</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "IC Züge Norddeich Mole – Emden – Münster (W) – Köln – Koblenz",
-        "IC Züge Norddeich Mole – Emden – Bremen – Hannover – Magdeburg – Leipzig"
-      ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "ni"
-      ],
-      "lastModified": "12.12.2022 13:18",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
@@ -342,7 +292,7 @@
       "id": "70ff9155-24a3-467d-adb3-0c3383847982",
       "headline": "Beeinträchtigungen zwischen Emden und Leer(Ostfriesl) ",
       "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "bis vsl. 13.12.2022 06:30 Uhr",
+      "timePeriod": "bis vsl. 13.12.2022 07:30 Uhr",
       "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Emden und Leer (Ostfriesl) kommt es auf der Linie RE 1 zu beeintr&auml;chtigungen.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linie ",
       "connections": [
@@ -357,7 +307,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "13.12.2022 04:34",
+      "lastModified": "13.12.2022 06:04",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 102
@@ -722,31 +672,6 @@
       ],
       "lastModified": "08.12.2022 06:52",
       "author": "hessen",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "fdd4f46b-d3b8-42dd-b24b-61c8b36c682f",
-      "headline": "Teil- und Zugausfälle zwischen Frankfurt(Main) und Darmstadt",
-      "newsType": "Kurzfristige Bauarbeiten",
-      "timePeriod": "Montag, 12.12.2022 (ca. 20 Uhr) bis Dienstag, 13.12.2022 (ca. 5 Uhr)",
-      "introText": "<p>Im Regional- und S-Bahnverkehr der Deutschen Bahn AG in Hessen kommt es zu Versp&auml;tungen und Teil- sowie Zugausf&auml;llen.<br />\n&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffene Linien:",
-      "connections": [
-        "RE60: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Mannheim Hbf",
-        "RB67: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Schwetzingen (- Hockenheim)",
-        "RB68: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Heidelberg Hbf (- Wiesloch-Walldorf)",
-        "S4: Kronberg(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main) Süd - Langen(Hess)"
-      ],
-      "closingText": "<p><br />\n<u><strong>Die folgenden Fahrten entfallen auf den angegebenen Abschnitten:</strong></u><br />\n&nbsp;</p>\n\n<p><strong><em>Regionalverkehr</em> in Richtung Frankfurt(Main)Hbf:</strong></p>\n\n<p><u>RE60 (4680)</u><strong> </strong><br />\nzwischen Darmstadt Hbf (Abfahrt 21:07 Uhr) und Frankfurt(Main)Hbf (Ankunft 21:24 Uhr)</p>\n\n<p><u>RE60 (4682)</u><br />\nzwischen Darmstadt Hbf (Abfahrt 22:05 Uhr) und Frankfurt(Main)Hbf (Ankunft 22:24 Uhr)</p>\n\n<p><u>RB67/68 (15336/15436)</u><strong> </strong><br />\nzwischen Darmstadt Hbf (Abfahrt 23:31 Uhr) und Frankfurt(Main)Hbf (Ankunft 23:48 Uhr)</p>\n\n<p><u>RB67/68 (15438/15438)</u><br />\nzwischen Darmstadt Hbf (Abfahrt 00:30 Uhr) und Frankfurt(Main)Hbf (Ankunft 00:48 Uhr)<br />\n&nbsp;</p>\n\n<p><strong><em>Regionalverkehr </em>in Richtung Darmstadt Hbf:</strong></p>\n\n<p><u>RE60 (4683)</u><br />\nzwischen Frankfurt(Main)Hbf (Abfahrt 21:34 Uhr) und Darmstadt Hbf (Ankunft 21:53 Uhr)</p>\n\n<p><u>RE60 (15395)</u><br />\nzwischen Frankfurt(Main)Hbf (Abfahrt 22:34 Uhr) und Darmstadt Hbf (Ankunft 22:53 Uhr)</p>\n\n<p><u>RB67 (15443)</u><br />\nzwischen Frankfurt(Main)Hbf (Abfahrt 00:06 Uhr) und Darmstadt Hbf (Ankunft 00:24 Uhr)</p>\n\n<p><u>RB67/68&nbsp;(15301/15401)</u><br />\nzwischen Frankfurt(Main)Hbf (Abfahrt 04:06 Uhr) und Darmstadt Hbf (Ankunft 04:27 Uhr)<br />\n&nbsp;</p>\n\n<p><strong><em>S-Bahnverkehr</em> in Richtung Frankfurt(Main)S&uuml;d:</strong></p>\n\n<p><u>S4</u><strong> </strong><br />\nvon Langen(Hess) (Abfahrt 21:04 Uhr) nach Frankfurt(Main)S&uuml;d (Ankunft 21:17 Uhr)</p>\n\n<p><u>S4</u><strong> </strong><br />\nvon Langen(Hess) (Abfahrt 21:34 Uhr) nach Frankfurt(Main)S&uuml;d (Ankunft 21:47 Uhr)<br />\n&nbsp;</p>\n\n<p><strong><em>S-Bahnverkehr </em>in Richtung Langen(Hess):</strong></p>\n\n<p><u>S4</u><strong> </strong><br />\nvon Frankfurt(Main)S&uuml;d (Abfahrt 20:43 Uhr)&nbsp;nach Langen(Hess) (Ankunft 20:57 Uhr)</p>\n\n<p><u>S4</u><strong> </strong><br />\nvon Frankfurt(Main)S&uuml;d (Abfahrt 21:13 Uhr) nach Langen(Hess) (Ankunft 21:27 Uhr)</p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>Busnotverkehr:</strong></u></p>\n\n<p>Wir arbeiten an der Einrichtung eines Busnotverkehrs, <em>warten aber noch</em> auf die Best&auml;tigung unserer Partner.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter <a href=\"http://bahn.de\" target=\"_blank\">bahn.de </a>oder in der Navigator-und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog inHessen unter:<br />\n<a href=\"tel:00496924445710\">069 24 44 57 10</a>.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "he"
-      ],
-      "lastModified": "09.12.2022 08:50",
       "expand": false,
       "priorityValue": 101
     },
