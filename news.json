@@ -111,26 +111,6 @@
       "priorityValue": 201
     },
     {
-      "id": "c68bed54-792f-4eb3-974e-c09d6e9ebc13",
-      "headline": "Vorankündigung: Wetterbedingte Beeinträchtigungen im Zugverkehr der DB Regio Bayern möglich!",
-      "newsType": "Wetterbedingte Störungen ",
-      "timePeriod": "14.12. bis 15.12.2022",
-      "introText": "<p>Aufgrund der aktuellen Wettervorhersage f&uuml;r Mittwoch, 14.12. bis Donnerstag, 15.12., kann es in einigen Regionen Bayerns zu Glatteisbildung und Eisregen kommen. Wir bitten Sie das entsprechend f&uuml;r Ihre Reiseplanungen zu beachten.&nbsp;</p>\n\n<p>&Uuml;ber m&ouml;gliche Auswirkungen halten wir Sie auf dem Laufenden.</p>\n\n<p><strong>Hier geht es zur&nbsp;<a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\" target=\"_blank\">Aktuellen Betriebslage</a></strong></p>\n",
-      "connections": [],
-      "closingText": "<p>Fahrg&auml;ste werden gebeten, auf den Bahnsteigen besondere Vorsicht walten zu lassen!</p>\n\n<p>Bitte informieren Sie sich regelm&auml;&szlig;ig auf <a href=\"https://www.bahn.de/\" target=\"_blank\">bahn.de</a> bzw. im <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a> oder in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">App DB Streckenagent</a> &uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p>Verkehrsmeldungen 24/7 finden Sie auch auf unseren <a href=\"https://regional.bahn.de/regionen/bayern/service/streckenagent_anmeldung_twitter\" target=\"_blank\">Twitter-Kan&auml;len von DB Regio Bayern</a>.&nbsp;</p>\n",
-      "priority": "1",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "by"
-      ],
-      "lastModified": "13.12.2022 18:37",
-      "author": "bayern",
-      "expand": true,
-      "priorityValue": 201
-    },
-    {
       "id": "dc862fc4-1d67-4f88-ab44-a8d1776519b7",
       "headline": "Beeinträchtigungen zwischen Duisburg und Düsseldorf",
       "newsType": "Bauarbeiten",
@@ -744,6 +724,26 @@
       "lastModified": "08.12.2022 06:52",
       "author": "hessen",
       "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "c68bed54-792f-4eb3-974e-c09d6e9ebc13",
+      "headline": "Vorankündigung: Wetterbedingte Beeinträchtigungen im Zugverkehr der DB Regio Bayern möglich!",
+      "newsType": "Wetterbedingte Störungen möglich",
+      "timePeriod": "14.12. bis 15.12.2022",
+      "introText": "<p>Aufgrund der aktuellen Wettervorhersage f&uuml;r heute Mittwoch, 14.12. bis Donnerstag, 15.12., kann es in einigen Regionen Bayerns zu Glatteisbildung und Eisregen kommen. Wir bitten Sie das entsprechend f&uuml;r Ihre Reiseplanungen zu beachten.&nbsp;</p>\n\n<p>&Uuml;ber m&ouml;gliche Auswirkungen halten wir Sie auf dem Laufenden.</p>\n\n<p><strong>Hier geht es zur&nbsp;<a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\" target=\"_blank\">Aktuellen Betriebslage</a></strong></p>\n",
+      "connections": [],
+      "closingText": "<p>Fahrg&auml;ste werden gebeten, auf den Bahnsteigen besondere Vorsicht walten zu lassen!</p>\n\n<p>Bitte informieren Sie sich regelm&auml;&szlig;ig auf <a href=\"https://www.bahn.de/\" target=\"_blank\">bahn.de</a> bzw. im <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a> oder in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">App DB Streckenagent</a> &uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p>Verkehrsmeldungen 24/7 finden Sie auch auf unseren <a href=\"https://regional.bahn.de/regionen/bayern/service/streckenagent_anmeldung_twitter\" target=\"_blank\">Twitter-Kan&auml;len von DB Regio Bayern</a>.&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "by"
+      ],
+      "lastModified": "14.12.2022 06:54",
+      "author": "bayern",
+      "expand": true,
       "priorityValue": 101
     },
     {
