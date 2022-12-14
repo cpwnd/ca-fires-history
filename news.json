@@ -622,7 +622,7 @@
       "headline": "Vorrübergehend leicht reduziertes Fahrplanangebot in Mecklenburg-Vorpommern",
       "newsType": " Erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "15.12.2022  bis vsl. 08.01.2023",
-      "introText": "<p>Wegen des erh&ouml;hten Krankenstandes beim Fahrpersonal f&auml;llt auf einigen Linien in Mecklenburg-Vorpommern in der Zeit vom 15.12.2022 bis vsl. 08.01.2023 der Gro&szlig;teil der Z&uuml;ge aus.</p>\n",
+      "introText": "<p>Wegen des erh&ouml;hten Krankenstandes beim Fahrpersonal f&auml;llt auf einigen Linien in Mecklenburg-Vorpommern in der Zeit vom 15.12.2022 bis vsl. 08.01.2023 ein gro&szlig;er Teil der Z&uuml;ge aus.</p>\n",
       "connectionsHeadline": "Folgende Linien sind derzeit betroffen:",
       "connections": [
         "RE5 Nord Stralsund - Neustrelitz (nach/von Berlin durchfahrende Züge sind nicht betroffen)",
@@ -630,7 +630,24 @@
         "RB17 Wismar - Schwerin - Ludwigslust (nur einzelne Züge)",
         "RB18  Bad Kleinen - Schwerin"
       ],
-      "closingText": "<p>Die Reiseauskunft unter bahn.de sowie im DB Navigator wird derzeit aktualisiert. Der ge&auml;nderte Fahrplan ist ab 16.12.2022 online.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a></p>\n",
+      "download": {
+        "text": "<p>F&uuml;r einige Z&uuml;ge der RB17 wurde ein Ersatzverkehr mit B&uuml;ssen eingerichtet, der den Anschluss an den Fernverkehr in Ludwigslust gew&auml;hrleistet. Den Fahrplan f&uuml;r den Ersatzvekehr finden Sie in den angeh&auml;ngten Tabellen.&nbsp;</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:23fdd76b-3e7e-4e68-b3d7-ef585855b066/20221214_BNV_MV_RB17_WL-WS_15.12.-16.12.2022_v01__V3_SNo.pdf",
+            "title": "Ersatzverkehr RB17_15. und 16.12.22 (PDF, 76 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:669ed4e2-fe2a-43c3-9702-e3356764d58f/20221214_BNV_MV_RB17_WL-WS_19.12.2022-06.01.2023_v00__V3_SNo.pdf",
+            "title": "Ersatzverkehr RB17_19.12.22 bis 06.01.23 (PDF, 59 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>Die Reiseauskunft unter bahn.de sowie im DB Navigator wird derzeit aktualisiert. Der ge&auml;nderte Fahrplan (mit Ausnahme des Ersatzverkehrs f&uuml;r die Z&uuml;ge der RB17) ist ab 16.12.2022 online.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a></p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -638,7 +655,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "14.12.2022 12:45",
+      "lastModified": "14.12.2022 16:14",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
