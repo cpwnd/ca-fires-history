@@ -339,7 +339,7 @@
     },
     {
       "id": "9d21ad6d-5ee2-4cc5-852e-778cfd5fc5a6",
-      "headline": "Zugausfälle auf der Linie RB32 Nord (zwischen Oranienburg - Flughafen BER - Terminal 5)",
+      "headline": "aktualisiert: Zugausfälle auf der Linie RB32 Nord (zwischen Oranienburg - Flughafen BER - Terminal 5)",
       "newsType": " Erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "14.12.2022 - 08.01.2023",
       "introText": "<p>Wegen erh&ouml;htem Krankenstand beim Fahrpersonal fallen die Z&uuml;ge der Linie RB32 Nord vom</p>\n\n<p>14. Dezember 2022 bis 08. Januar 2023 auf dem Abschnitt <strong>Oranienburg - Berlin-Lichtenberg - Flughafen BER - Terminal 5</strong> in beiden Richtungen aus.</p>\n\n<p>Bitte nutzen Sie die Z&uuml;ge der S-Bahn bzw. zwischen Oranienburg und Berlin-Lichtenberg auch die Linie RB12 als Ersatz.</p>\n\n<p>Die Reiseauskunftssysteme der DB und des VBB werden derzeit aktualisiert.</p>\n\n<p><strong>Der S&uuml;dabschnitt der Linie RB32 (Flughafen BER T1-2 - Ludwigsfelde) ist von diesen langfristigen Ausf&auml;llen nicht betroffen, muss aber auf Grund von Bauarbeiten vom 15. bis 18. Dezember ebenfalls ausfallen. Siehe&nbsp; Extra-Meldung f&uuml;r diesen Linienabschnitt.</strong></p>\n",
@@ -353,7 +353,7 @@
         "be",
         "br"
       ],
-      "lastModified": "14.12.2022 12:12",
+      "lastModified": "14.12.2022 13:14",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -523,6 +523,27 @@
       "priorityValue": 101
     },
     {
+      "id": "3c68d4b6-006e-47f6-a836-7c593f070c23",
+      "headline": "Einschränkungen auf der S 10",
+      "newsType": "Personalmangel",
+      "introText": "<p>Aufgrund von Personalmangel besteht f&uuml;r die S 10 eine Fahrplan&auml;nderung bis zum 14. Apirl 2023.</p>\n",
+      "connectionsHeadline": "Betroffene Linie",
+      "connections": [
+        "S 10 Leipzig Hbf - Leipzig Miltitzer Allee"
+      ],
+      "closingText": "<p>Folgende Z&uuml;ge wurden aus dem Fahrplan rausgenommen und verkehren nicht:<br />\n<br />\nLeipzig Miltitzer Allee - Leipzig Hbf</p>\n\n<p>37751 - Abfahrt 06:35 Uhr<br />\n37757 - Abfahrt 08:05 Uhr<br />\n37763 - Abfahrt 09:35 Uhr<br />\n37769 - Abfahrt 11:05 Uhr<br />\n37775 - Abfahrt 12:35 Uhr&nbsp;<br />\n37781 - Abfahrt 14:05 Uhr<br />\n37787 - Abfahrt 15:35 Uhr<br />\n37793 - Abfahrt 17:05 Uhr<br />\n37799 - Abfahrt 18:35 Uhr</p>\n\n<p>Leipzig Hbf - Leipzig Miltitzer Allee</p>\n\n<p>37752 - Abfahrt 07:28 Uhr<br />\n37758 - Abfahrt 08:58 Uhr<br />\n37764 - Abfach 10:28 Uhr<br />\n37770 - Abfahrt 11:58 Uhr<br />\n37776 - Abfahrt 13:28 Uhr<br />\n37782 - Abfahrt 14:58 Uhr<br />\n37788 - Abfahrt 16.28 Uhr<br />\n37794 - Abfahrt 17:58 Uhr</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sn"
+      ],
+      "lastModified": "14.12.2022 12:57",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "5c3e1597-c37a-424d-b641-41f5386d3cba",
       "headline": "Einschränkungen bei der S-Bahn Mitteldeutschland Linie S 3",
       "newsType": "Fehlendes Personal",
@@ -602,7 +623,7 @@
       "headline": "Vorrübergehend leicht reduziertes Fahrplanangebot in Mecklenburg-Vorpommern",
       "newsType": " Erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "15.12.2022  bis vsl. 08.01.2023",
-      "introText": "<p>Wegen des erh&ouml;hten Krankenstandes beim Fahrpersonal f&auml;llt auf einigen Linien in Mecklenburg-Vorpommern in der Zeit vom 15.12.2022 bis vsl. 08.01.2023 der Gro&szlig;teil der Z&uuml;ge aus.</p>\n\n<p>Ziel ist es, den Verkehr auf allen anderen Linien zu stabilisieren.</p>\n",
+      "introText": "<p>Wegen des erh&ouml;hten Krankenstandes beim Fahrpersonal f&auml;llt auf einigen Linien in Mecklenburg-Vorpommern in der Zeit vom 15.12.2022 bis vsl. 08.01.2023 der Gro&szlig;teil der Z&uuml;ge aus.</p>\n",
       "connectionsHeadline": "Folgende Linien sind derzeit betroffen:",
       "connections": [
         "RE5 Nord Stralsund - Neustrelitz (nach/von Berlin durchfahrende Züge sind nicht betroffen)",
@@ -618,7 +639,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "14.12.2022 12:44",
+      "lastModified": "14.12.2022 12:45",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
@@ -804,9 +825,9 @@
       "headline": "Vorankündigung: Wetterbedingte Beeinträchtigungen im Zugverkehr der DB Regio Bayern möglich!",
       "newsType": "Wetterbedingte Störungen möglich",
       "timePeriod": "14.12. bis 15.12.2022",
-      "introText": "<p>Aufgrund der aktuellen Wettervorhersage f&uuml;r heute Mittwoch, 14.12. bis Donnerstag, 15.12., kann es in einigen Regionen Bayerns zu Glatteisbildung und Eisregen kommen. Wir bitten Sie das entsprechend f&uuml;r Ihre Reiseplanungen zu beachten.&nbsp;</p>\n\n<p>&Uuml;ber m&ouml;gliche Auswirkungen halten wir Sie auf dem Laufenden.</p>\n\n<p><strong>Hier geht es zur&nbsp;<a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\" target=\"_blank\">Aktuellen Betriebslage</a></strong></p>\n",
+      "introText": "<p>aufgrund der aktuellen Wetterlage, bis voraussichtlich Donnerstag, 15.12.2022, kann es in einigen Regionen Bayerns zu Glatteisbildung und Eisregen kommen. Wir bitten Sie das entsprechend f&uuml;r Ihre Reiseplanungen zu beachten.</p>\n\n<p>+++ Fahrg&auml;ste werden gebeten, auf den Bahnsteigen besondere Vorsicht walten zu lassen! +++</p>\n\n<p>&Uuml;ber m&ouml;gliche Auswirkungen halten wir Sie auf dem Laufenden.</p>\n\n<p><strong>Hier geht es zur&nbsp;<a href=\"https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage\" target=\"_blank\">Aktuellen Betriebslage</a></strong></p>\n",
       "connections": [],
-      "closingText": "<p>Fahrg&auml;ste werden gebeten, auf den Bahnsteigen besondere Vorsicht walten zu lassen!</p>\n\n<p>Bitte informieren Sie sich regelm&auml;&szlig;ig auf <a href=\"https://www.bahn.de/\" target=\"_blank\">bahn.de</a> bzw. im <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a> oder in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">App DB Streckenagent</a> &uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p>Verkehrsmeldungen 24/7 finden Sie auch auf unseren <a href=\"https://regional.bahn.de/regionen/bayern/service/streckenagent_anmeldung_twitter\" target=\"_blank\">Twitter-Kan&auml;len von DB Regio Bayern</a>.&nbsp;</p>\n",
+      "closingText": "<p>Bitte informieren Sie sich regelm&auml;&szlig;ig auf <a href=\"https://www.bahn.de/\" target=\"_blank\">bahn.de</a> bzw. im <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a> oder in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">App DB Streckenagent</a> &uuml;ber Ihre Verbindung.&nbsp;</p>\n\n<p>Verkehrsmeldungen 24/7 finden Sie auch auf unseren <a href=\"https://regional.bahn.de/regionen/bayern/service/streckenagent_anmeldung_twitter\" target=\"_blank\">Twitter-Kan&auml;len von DB Regio Bayern</a>.&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -814,7 +835,7 @@
       "areas": [
         "by"
       ],
-      "lastModified": "14.12.2022 06:54",
+      "lastModified": "14.12.2022 13:29",
       "author": "bayern",
       "expand": true,
       "priorityValue": 101
