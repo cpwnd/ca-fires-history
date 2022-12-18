@@ -37,6 +37,32 @@
       "priorityValue": 316
     },
     {
+      "id": "0591668c-7ce7-4e6a-a5ff-a21734ef7b75",
+      "headline": "Verspätungen zwischen Stuttgart und Ulm",
+      "newsType": "Reparatur an der Weiche",
+      "timePeriod": "Bis vsl. einschließlich Mittwoch, 21. Dezember 2022",
+      "introText": "<p>Aufgrund einer Reparatur an der Weiche zwischen Stuttgart und Ulm kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa&nbsp; 20 Minuten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr, jeweils nur in der Fahrtrichtung von Stuttgart nach Ulm:",
+      "connections": [
+        "ICE-Züge Berlin - Leipzig - Erfurt - Frankfurt(Main) - Stuttgart - München",
+        "ICE-Züge Dortmund - Düsseldorf - Köln - Frankfurt(Main)Flughafen - Stuttgart - München",
+        "IC-Züge Karlsruhe - Stuttgart - München"
+      ],
+      "closingText": "<p>Z&uuml;ge in der Fahrtrichtung von Ulm nach Stuttgart sind nicht betroffen und verkehren auf ihrem geplanten Weg.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "by"
+      ],
+      "lastModified": "19.12.2022 00:13",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 202
+    },
+    {
       "id": "9a8a2ee5-e748-4b5b-bde9-e39c3d98684c",
       "headline": "Beeinträchtigungen zwischen Erfurt Hbf und Nordhausen",
       "newsType": "Fahrplanänderungen",
@@ -314,27 +340,6 @@
         "br"
       ],
       "lastModified": "13.12.2022 12:09",
-      "author": "nordost",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
-      "id": "dcccdbf3-dc49-47e4-b978-3d9370fa9bc4",
-      "headline": "Zugausfälle auf der Linie RB32 Süd (zwischen Flughafen BER - Terminal 1-2 und Ludwigsfelde)",
-      "newsType": "Bauarbeiten",
-      "timePeriod": "15.  bis 18.12.2022",
-      "introText": "<p>Auf Grund von Bauarbeiten, die sich st&auml;rker als geplant auf den Zugverkehr auswirken, fallen die Z&uuml;ge der <strong>Linie RB32 S&uuml;d vom&nbsp;15. bis 18. Dezember auf dem Abschnitt&nbsp;&nbsp;Flughafen BER - Terminal 1-2&nbsp;- Ludwigsfelde</strong> in beiden Richtungen aus.</p>\n\n<p>Die Reiseauskunftssysteme der DB und des VBB werden derzeit aktualisiert.</p>\n",
-      "connections": [],
-      "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a></p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "14.12.2022 12:23",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
