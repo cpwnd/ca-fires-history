@@ -838,8 +838,14 @@
         "RB97 / RE97:  Marburg(Lahn) - Cölbe - Frankenberg(Eder) - Korbach Hbf - Brilon Stadt"
       ],
       "download": {
+        "text": "<p><strong><u>Die Fahrplantabellen zum Download</u></strong></p>\n",
         "linkDataList": [
-          null,
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:48618ee3-6716-4477-9889-d59bcd5d6194/Ausf_RB4_ab19.12.pdf",
+            "title": "RB4 Ausfälle Montag bis Freitag (PDF, 75 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:92ee380c-da76-410c-b5ff-b833eadea386/Ausf_RB4_17.12.pdf",
             "title": "RB4 Ausfälle an Samstagen (PDF, 72 KB)",
@@ -852,15 +858,30 @@
             "info": "",
             "openInNewTab": true
           },
-          null,
-          null,
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:d0454b10-6cc5-48df-a16e-1038c40767f4/Ausf_RB39_ab19.12.pdf",
+            "title": "RB39 Ausfälle Montag bis Freitag (PDF, 71 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:29805015-d074-4470-bf20-8916a5787cca/Ausf_RB94_ab19.12.pdf",
+            "title": "RB94 Ausfälle Montag bis Freitag (PDF, 100 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:80d990db-77f5-4a38-b503-0139c7cbca1a/Ausf_RB94_17.12.pdf",
             "title": "RB94 Ausfälle an Samstagen (PDF, 88 KB)",
             "info": "",
             "openInNewTab": true
           },
-          null,
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:a847088e-b5be-4a0f-a752-a7c1e1995650/Ausf_RB97_ab19.12.pdf",
+            "title": "RB97 / RE97 Ausfälle Montag bis Freitag (PDF, 94 KB)",
+            "info": "",
+            "openInNewTab": true
+          },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:25191698-ae04-4fbb-9b91-187009d539ff/Ausf_RB97_17.12.pdf",
             "title": "RB97 / RE97 Ausfälle an Samstagen (PDF, 78 KB)",
@@ -883,7 +904,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "18.12.2022 15:26",
+      "lastModified": "18.12.2022 15:38",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
