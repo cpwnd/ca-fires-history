@@ -624,30 +624,56 @@
     },
     {
       "id": "f09bc6be-33bd-4e6c-b8a2-80f55af655d1",
-      "headline": "Vorübergehend leicht reduziertes Fahrplanangebot in Mecklenburg-Vorpommern",
+      "headline": "Aktualisierung: Vorübergehend leicht reduziertes Fahrplanangebot in Mecklenburg-Vorpommern",
       "newsType": " Erhöhter Krankenstand beim Fahrpersonal",
       "timePeriod": "15.12.2022  bis vsl. 08.01.2023",
       "introText": "<p>Wegen des erh&ouml;hten Krankenstandes beim Fahrpersonal f&auml;llt auf einigen Linien in Mecklenburg-Vorpommern in der Zeit vom 15.12.2022 bis vsl. 08.01.2023 ein gro&szlig;er Teil der Z&uuml;ge aus.</p>\n",
       "connectionsHeadline": "Folgende Linien sind derzeit betroffen:",
       "connections": [
+        "neu: RE4 Pasewalk - Ueckermünde",
         "RE5 Nord Stralsund - Neustrelitz (nach/von Berlin durchfahrende Züge sind nicht betroffen)",
         "RE7 Stralsund - Greifswald ",
         "RB17 Wismar - Schwerin - Ludwigslust (nur einzelne Züge)",
-        "RB18  Bad Kleinen - Schwerin"
+        "RB18  Bad Kleinen - Schwerin",
+        "neu: RB25 Velgast - Barth",
+        "neu: S-Bahn zwischen Warnemünde und Rostock (nur einige Züge)"
       ],
       "download": {
-        "text": "<p>F&uuml;r einige Z&uuml;ge der RB17 wurde ein Ersatzverkehr mit Bussen eingerichtet, der den Anschluss an den Fernverkehr in Ludwigslust gew&auml;hrleistet. Den Fahrplan f&uuml;r den Ersatzverkehr finden Sie in den angeh&auml;ngten Tabellen.&nbsp;</p>\n",
+        "text": "<p>Die Z&uuml;ge der Linien RE4 und RB25 werden durch Busse ersetzt.</p>\n\n<p>F&uuml;r einige Z&uuml;ge der RB17 wurde ebenfalls ein Ersatzverkehr mit Bussen eingerichtet, der den Anschluss an den Fernverkehr in Ludwigslust gew&auml;hrleistet.</p>\n\n<p>Den Fahrplan f&uuml;r den Ersatzverkehr finden Sie in den angeh&auml;ngten Tabellen.&nbsp;</p>\n",
         "linkDataList": [
-          null,
           {
             "link": "https://assets.static-bahn.de/dam/jcr:669ed4e2-fe2a-43c3-9702-e3356764d58f/20221214_BNV_MV_RB17_WL-WS_19.12.2022-06.01.2023_v00__V3_SNo.pdf",
             "title": "Ersatzverkehr RB17_19.12.22 bis 06.01.23 (PDF, 59 KB)",
             "info": "",
             "openInNewTab": true
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:bde46202-c1c3-419b-b8be-d4babacb27c3/20221219_BNV_MV_RE4_WUMH-WP_22.12.2022-23.12.2022__V3_SNo.pdf",
+            "title": "Ersatzverkehr RE4 für den 22. und 23. Dezember (PDF, 124 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:f9103309-3de9-44bc-8da5-3eefa4eb2fdc/20221219_EV_MV_RE4_WUMH-WP_24.12.2022-08.01.2023_v01__V3_SNo.pdf",
+            "title": "Ersatzverkehr RE4 für den Zeitraum vom 24. Dezember bis 8. Januar (PDF, 56 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:4316f33b-ea5e-4ef3-abbd-9cd5462cba7b/20221219_BNV_MV_RB25_WV-WBH_22.12.2022-23.12.2022__V3_SNo.pdf",
+            "title": "Ersatzverkehr RB 25 für den 22. und 23. Dezember (PDF, 133 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:6df183fb-d01e-48e4-924c-3b0593d12f94/20221219_EV_MV_RB25_WV-WBH_24.12.2022-08.01.2023__V3_SNo.pdf",
+            "title": "Ersatzverkehr RB25 für den Zeitraum vom 24. Dezember bis 8. Januar (PDF, 55 KB)",
+            "info": "",
+            "openInNewTab": false
           }
         ]
       },
-      "closingText": "<p>Die Reiseauskunft unter bahn.de sowie im DB Navigator wird derzeit aktualisiert. Der ge&auml;nderte Fahrplan (mit Ausnahme des Ersatzverkehrs f&uuml;r die Z&uuml;ge der RB17) ist ab 16.12.2022 online.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a></p>\n",
+      "closingText": "<p>Die Reiseauskunft unter bahn.de sowie im DB Navigator wird derzeit aktualisiert. Der ge&auml;nderte Fahrplan ist ab 21.12.2022 online.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a></p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -655,7 +681,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "14.12.2022 16:41",
+      "lastModified": "20.12.2022 10:22",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
