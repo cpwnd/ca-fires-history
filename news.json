@@ -100,42 +100,6 @@
       "priorityValue": 108
     },
     {
-      "id": "da4dcadd-2f1c-49de-9e85-e9fff6231e7e",
-      "headline": "Vorübergehend reduziertes Fahrplanangebot Weinheim-Fürth",
-      "newsType": "Erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
-      "timePeriod": "ab Dienstag, 04.10.2022",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal kommt es zu Beeintr&auml;chtigungen im Bahnverkehr bei DB Regio Mitte. Um einen stabilen Zugverkehr anbieten zu k&ouml;nnen, wird das Fahrplanangebot ab Dienstag, 4. Oktober 2022 auf mehreren Linien vor&uuml;bergehend reduziert.&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffene Linien:",
-      "connections": [
-        "RB69 Weinheim(Bergstr) - Fürth(Odenw)"
-      ],
-      "download": {
-        "text": "<p><strong><u>RB69 Weinheim(Bergstr) &lt;&gt; F&uuml;rth(Odenw):</u></strong><br />\nEs verkehren von <strong>Mo. - Fr.&nbsp;nur einzelne Z&uuml;ge</strong> zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw). Z&uuml;ge im Sch&uuml;lerverkehr fahren regul&auml;r.&nbsp;<br />\nAn den Wochenenden verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p>Ersatzverkehr mit Bussen gem&auml;&szlig; Ersatzfahrplan.</p>\n\n<p><em><strong>Bitte pr&uuml;fen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</strong></em></p>\n\n<p><em><strong><u>Die aktuellen Ersatzfahrpl&auml;ne finden Sie hier:</u></strong></em></p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:6383ba7b-de4d-4359-a932-e8b0d304e65b/RB69_Weinheim-F%C3%BCrth_ab%2021.11.22_%20SEV.pdf",
-            "title": "RB69_ Ersatzfahrplan Weinheim(Bergstr) - Fürth(Odenw), gültig ab 21.11.2022 (PDF, 168 KB)",
-            "info": "",
-            "openInNewTab": true
-          }
-        ]
-      },
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "he",
-        "rp"
-      ],
-      "lastModified": "19.12.2022 11:07",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 103
-    },
-    {
       "id": "5f2d81f5-7dad-4d5a-96e0-e3d449e80039",
       "headline": "Ausfälle auf der Hohenlohebahn zwischen Heilbronn und Schwäbisch Hall-Hessental / Crailsheim",
       "newsType": "Krankheitsbedingter Personalausfall",
@@ -328,13 +292,13 @@
     {
       "id": "1f3fa379-c699-4601-89ec-176084febc05",
       "headline": "Kein Zugverkehr Worms - Bensheim und Worms - Biblis",
-      "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "Ab Samstag, 17.12.2022 bis auf Weiteres",
+      "newsType": "Erhöhter Krankenstand beim Personal",
+      "timePeriod": "Ab Samstag, 17.12.2022 bis vsl. 01.01.2023",
       "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahrpersonal wird der Zugverkehr zwischen Worms und Bensheim sowie zwischen Worms und Biblis eingestellt.</p>\n",
       "connectionsHeadline": "Betroffene Linien: ",
       "connections": [
-        "RB62 Worms – Hofheim – Biblis (Riedbahn)",
-        "RB63 Worms – Bürstadt – Bensheim (Niebelungenbahn)"
+        "RB62 Worms – Hofheim – Biblis",
+        "RB63 Worms – Bürstadt – Bensheim"
       ],
       "download": {
         "text": "<p>Auf beiden Strecken ist ein Ersatzverkehr mit Bussen eingerichtet, der alle Unterwegshalte anf&auml;hrt.&nbsp;</p>\n\n<p><strong><u><em>Die Ersatzfahrpl&auml;ne finden Sie hier:</em></u></strong></p>\n",
@@ -362,7 +326,40 @@
         "he",
         "rp"
       ],
-      "lastModified": "19.12.2022 19:57",
+      "lastModified": "21.12.2022 08:03",
+      "author": "mitte",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "da4dcadd-2f1c-49de-9e85-e9fff6231e7e",
+      "headline": "Vorübergehend reduziertes Fahrplanangebot Weinheim - Fürth",
+      "newsType": "Erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
+      "timePeriod": "ab Dienstag, 04.10.2022 bis vsl. 01.01.2023",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal kommt es zu Beeintr&auml;chtigungen im Bahnverkehr bei DB Regio Mitte. Um einen stabilen Zugverkehr anbieten zu k&ouml;nnen, wird das Fahrplanangebot zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw) bis voraussichtlich 01.01.2023 reduziert.</p>\n",
+      "connectionsHeadline": "RB69 Weinheim(Bergstr) - Fürth(Odenw)",
+      "connections": [],
+      "download": {
+        "text": "<p><strong><u>RB69 Weinheim(Bergstr) &lt;&gt; F&uuml;rth(Odenw):</u></strong><br />\nJeweils von&nbsp;<strong>Montag - Freitag verkehren nur einzelne Z&uuml;ge</strong> zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw). Z&uuml;ge im Sch&uuml;lerverkehr fahren regul&auml;r.&nbsp;<br />\nAn Wochenenden und Feiertagen verkehren die Z&uuml;ge nach regul&auml;rem Fahrplan.</p>\n\n<p>Ersatzverkehr mit Bussen gem&auml;&szlig; Ersatzfahrplan ist eingerichtet.</p>\n\n<p><em><strong>Bitte pr&uuml;fen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</strong></em></p>\n\n<p><em><strong><u>Den aktuellen Ersatzfahrplan finden Sie hier:</u></strong></em></p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:6383ba7b-de4d-4359-a932-e8b0d304e65b/RB69_Weinheim-F%C3%BCrth_ab%2021.11.22_%20SEV.pdf",
+            "title": "RB69_ Ersatzfahrplan Weinheim(Bergstr) - Fürth(Odenw), gültig ab 21.11.2022 (PDF, 168 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "he"
+      ],
+      "lastModified": "21.12.2022 07:54",
       "author": "mitte",
       "expand": false,
       "priorityValue": 102
@@ -632,6 +629,43 @@
       "priorityValue": 101
     },
     {
+      "id": "4fb16fb6-5d4f-441a-9c03-72a78fb5da3b",
+      "headline": "Ausfall der Linie RB 28  ",
+      "newsType": "Angespannte Personallage",
+      "timePeriod": "vom 23.12. - 02.01.2023",
+      "introText": "<p>Aufgrund der angespannten Personallage fallen die Z&uuml;ge der Linie RB 28&nbsp;<strong>vom 23.12.2022 bis zum 02.01.2023</strong>&nbsp;<strong>(Winterferien RLP)</strong>&nbsp;leider aus.<br />\n<br />\n<strong>Alternative Reisem&ouml;glichkeiten</strong>: Nutzen Sie zwischen Neuwied und Niederlahnstein die Z&uuml;ge der Linie RB 10..<br />\n<br />\nEin&nbsp;<strong>Ersatzverkehr</strong>&nbsp;zwischen Koblenz Hbf und Neuwied ist eingerichtet.<br />\n&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+      "connections": [
+        "RB 28 Neuwied - Niederlahnstein"
+      ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:111fa555-e28b-4b6c-961a-0011e5e97620/221219_M2Sa_Kundeninformation_RB%2028%20Ausfall%20KNE-KNL%2023.12.-02.01.pdf",
+            "title": "Kundeninformation RB 28 (PDF, 229 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:d5c31c10-db2a-456e-80ff-3bd8de249458/SEV%20RB%2028%20Koblenz%20-%20Vallendar%20-%20Neuwied_23.12.22-02.01.23.pdf",
+            "title": "Fahrplan Schienenersatzverkehr (PDF, 23 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "21.12.2022 07:49",
+      "author": "nrw",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "7bd917b2-dc6a-45e7-af58-f4cc20fdb5a7",
       "headline": "Unwetterschäden an der Ahr und in der Eifel ",
       "newsType": "Unwetterschäden",
@@ -670,46 +704,25 @@
       "priorityValue": 101
     },
     {
-      "id": "2a323a9a-15ec-4d79-88b9-7caa3bb919db",
-      "headline": "Kein Zugverkehr zwischen Winden(Pfalz) und Bad Bergzabern",
-      "newsType": "Kurzfristige Erkrankung von Personal",
-      "timePeriod": "ab Montag, 19.12.2022 bis vsl. 01.01.2023, ganztägig",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Personal wird der der Zugverkehr zwischen&nbsp;Winden(Pfalz) und Bad Bergzabern ab 19.12.2022 bis voraussichtlich 01.01.2023 eingestellt.</p>\n",
-      "connectionsHeadline": "RB54 Winden(Pfalz) - Bad Bergzabern",
-      "connections": [],
-      "closingText": "<p>Wir haben einen Ersatzverkehr mit einem Bus im Pendel&nbsp;zwischen Winden(Pfalz) und Bad Bergzabern&nbsp;f&uuml;r Sie eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.&nbsp;Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p><br />\nBitte beachten Sie die &Auml;nderungen bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Fahrzeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "rp"
-      ],
-      "lastModified": "20.12.2022 13:52",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
       "id": "8d2a7cea-3e86-4096-bd1b-4e9ef06f2f07",
       "headline": "Vorübergehend reduziertes Fahrplanangebot zwischen Dillingen(Saar) und Niedaltdorf ",
       "newsType": "Erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
       "timePeriod": "ab 14.12.2022 bis vsl. 01.01.2023",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal kommt es zu Beeintr&auml;chtigungen im Bahnverkehr bei DB Regio Mitte. Der Zugverkehr&nbsp;zwischen Dillingen(Saar) und Niedaltdorf wird bis mindestens 01.01.2023 eingestellt.</p>\n",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal kommt es zu Beeintr&auml;chtigungen im Bahnverkehr bei DB Regio Mitte. Der Zugverkehr&nbsp;zwischen Dillingen(Saar) und Niedaltdorf wird bis einschlie&szlig;lich 01.01.2023 eingestellt.</p>\n",
       "connectionsHeadline": "RB77 Dillingen(Saar) - Niedaltdorf",
       "connections": [],
       "download": {
-        "text": "<p>Wir haben f&uuml;r Sie einen Ersatzverkehr mit einem Bus zwischen Dillingen(Saar) und Niedaltdorf eingerichtet, alle Unterwegshalte werden angefahren.</p>\n\n<p>Den Ersatzfahrplan finden Sie hier:</p>\n",
+        "text": "<p>Wir haben f&uuml;r Sie einen Ersatzverkehr mit einem Bus zwischen Dillingen(Saar) und Niedaltdorf eingerichtet, alle Unterwegshalte werden angefahren.</p>\n\n<p><em><u>Den Ersatzfahrplan finden Sie hier:</u></em></p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:80112fa3-15ec-4837-80f6-d80f842a1a89/Ersatzfahrplan%20Dillingen.pdf",
-            "title": "Ersatzfahrplan Dillingen.pdf (PDF, 503 KB)",
+            "title": "RB77_ Ersatzfahrplan Dillingen(Saar)-Niedaltdorf (PDF, 503 KB)",
             "info": "",
-            "openInNewTab": false
+            "openInNewTab": true
           }
         ]
       },
-      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein und informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "closingText": "<p><u><strong>An Montag, 02.01.2023 verkehren die Z&uuml;ge wieder nach dem regul&auml;ren Fahrplan.</strong></u></p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Reisezeit ein. Informieren Sie sich kurz vor der Fahrt im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -717,7 +730,7 @@
       "areas": [
         "sl"
       ],
-      "lastModified": "16.12.2022 13:27",
+      "lastModified": "21.12.2022 08:01",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
@@ -726,7 +739,7 @@
       "id": "2c231385-7e6e-4b41-8450-4b11c5e72e47",
       "headline": "Vorübergehend reduziertes Fahrplanangebot in der Westpfalz",
       "newsType": "Erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
-      "timePeriod": "01.10.2022 bis Sonntag, 01.01.2023",
+      "timePeriod": "01.10.2022 bis einschl. 01.01.2023",
       "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Fahr- und Stellwerkspersonal kommt es zu Beeintr&auml;chtigungen im Bahnverkehr bei DB Regio Mitte. Um einen stabilen Zugverkehr anbieten zu k&ouml;nnen, wird das Fahrplanangebot auf mehreren Linien vor&uuml;bergehend reduziert.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
@@ -734,7 +747,7 @@
         "RB66 Kaiserslautern - Wolfstein - Lauterecken-Grumbach"
       ],
       "download": {
-        "text": "<p><strong><u>RB64 Kaiserslautern &lt;&gt; Pirmasens:</u></strong><br />\nDie Z&uuml;ge verkehren von <strong>Mo-Fr</strong> nur noch ab <strong>Betriebsbeginn bis 15:30 Uhr.</strong>&nbsp;Ab 15:30 Uhr ist jeweils ein Ersatzverkehr mit Bussen zwischen Kaiserslautern und Pirmasens eingerichtet.<br />\nAn den <strong>Wochenenden, sowie an Feiertagen</strong> wird der Zugverkehr<strong> komplett eingestellt</strong> und auf einen Ersatzverkehr umgestellt.</p>\n\n<p><strong><u>RB66 Kaiserslautern &lt;&gt; Lauterecken-Grumbach:</u></strong><br />\nVon Montag bis Freitag verkehren die Z&uuml;ge nach dem regul&auml;ren Fahrplan.&nbsp;<br />\nAn <strong>Wochenenden, sowie an Feiertagen</strong> wird der Zugverkehr zwischen Kaiserslautern und Lauterecken-Grumbach <strong>komplett eingestellt</strong> und auf einen Ersatzverkehr umgestellt.<br />\n&nbsp;</p>\n\n<p><u><em>Die aktuellen Ersatzfahrpl&auml;ne finden Sie hier:</em></u></p>\n",
+        "text": "<p><strong><u>RB64 Kaiserslautern &lt;&gt; Pirmasens:</u></strong><br />\nDie Z&uuml;ge verkehren von Montag - Freitag nur noch ab Betriebsbeginn bis 15:30 Uhr.&nbsp;Ab 15:30 Uhr ist jeweils ein Ersatzverkehr mit Bussen zwischen Kaiserslautern und Pirmasens eingerichtet.<br />\nAn den Wochenenden, sowie an Feiertagen wird der Zugverkehr komplett eingestellt und auf einen Ersatzverkehr umgestellt.</p>\n\n<p><strong><u>RB66 Kaiserslautern &lt;&gt; Lauterecken-Grumbach:</u></strong><br />\nVon Montag bis Freitag verkehren die Z&uuml;ge nach dem regul&auml;ren Fahrplan.&nbsp;<br />\nAn Wochenenden sowie an Feiertagen wird der Zugverkehr zwischen Kaiserslautern und Lauterecken-Grumbach komplett eingestellt und auf einen Ersatzverkehr umgestellt.<br />\n&nbsp;</p>\n\n<p><u><em>Die aktuellen Ersatzfahrpl&auml;ne finden Sie hier:</em></u></p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:4995a866-3994-44c5-a13e-f409258a32ea/RB64_%20Kaiserslautern-Pirmasens_%20Mo-Fr_%20ab%2017.10.22.pdf",
@@ -764,7 +777,28 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "11.12.2022 13:04",
+      "lastModified": "21.12.2022 07:57",
+      "author": "mitte",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "2a323a9a-15ec-4d79-88b9-7caa3bb919db",
+      "headline": "Kein Zugverkehr zwischen Winden(Pfalz) und Bad Bergzabern",
+      "newsType": "Kurzfristige Erkrankung von Personal",
+      "timePeriod": "ab Montag, 19.12.2022 bis vsl. 01.01.2023, ganztägig",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Personal wird der der Zugverkehr zwischen&nbsp;Winden(Pfalz) und Bad Bergzabern ab 19.12.2022 bis voraussichtlich 01.01.2023 eingestellt.</p>\n",
+      "connectionsHeadline": "RB54 Winden(Pfalz) - Bad Bergzabern",
+      "connections": [],
+      "closingText": "<p>Wir haben einen Ersatzverkehr mit einem Bus im Pendel&nbsp;zwischen Winden(Pfalz) und Bad Bergzabern&nbsp;f&uuml;r Sie eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.&nbsp;Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p><br />\nBitte beachten Sie die &Auml;nderungen bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Fahrzeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "20.12.2022 13:52",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
