@@ -471,16 +471,27 @@
       "priorityValue": 101
     },
     {
-      "id": "5c3e1597-c37a-424d-b641-41f5386d3cba",
-      "headline": "Einschränkungen bei der S-Bahn Mitteldeutschland Linie S 3",
-      "newsType": "Fehlendes Personal",
-      "timePeriod": "11. Dezember 2022 bis einschließlich 08. Januar 2023",
-      "introText": "<p>Durch Engp&auml;sse an einsatzbereitem Personal kommt es auf der Linie S 3 zu Fahrplananpassungen.</p>\n",
+      "id": "30ff2809-e7b3-4c51-bafa-2a9779d7e39e",
+      "headline": "Einschränkungen bei der S-Bahn Mitteldeutschland Linie S 47",
+      "newsType": "Personalengpässe",
+      "timePeriod": "bis einschließlich 05. März 2023",
+      "introText": "<p>Wegen Engp&auml;ssen an einsatzbereitem Fahrpersonal kommt es auf der Linie S 47 zu Fahrplananpassungen.</p>\n",
       "connectionsHeadline": "Betroffene Linie",
       "connections": [
-        "Halle-Nietleben - Halle (Saale) Hbf - Leipzig Hbf (tief) - Wurzen - (Oschatz) "
+        "S 47 Halle (Saale) Hbf - Halle-Trotha"
       ],
-      "closingText": "<p>Bitte beachten Sie, dass die Z&uuml;ge der S-Bahn-Linie S 3 bereits in Halle (Saale) Hbf enden bzw. beginnen. Reisende in Halle k&ouml;nnen alternativ die Stra&szlig;enbahn-Linien der HAVAG nutzen. Ihre Fahrscheine f&uuml;r die Tarifzone 210 sind in den Star&szlig;enbahnen g&uuml;ltig.&nbsp;</p>\n\n<p>F&uuml;r Fahrten von/nach Halle S&uuml;dstadt nutzen Sie bitte alternativ die S-Bahn-Linie S 7.</p>\n\n<p>Von Montag bis Freitag bestehen f&uuml;r Sie zwischen Halle (Saale) Hbf und Halle S&uuml;dstadt zus&auml;tzlich folgende Reisem&ouml;glichkeiten mit der Linie S 47:</p>\n\n<p>&bull; ab Halle (Saale) Hbf um 07:07 Uhr - an Halle S&uuml;dstadt um 07:16 Uhr</p>\n\n<p>&bull;&nbsp;ab Halle S&uuml;dstadt um 08:16 Uhr - an Halle (Saale) Hbf um 08:25 Uhr</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>\n",
+      "download": {
+        "text": "<p>Bitte beachten Sie, dass es auf der Linie S 47 zu Zugausf&auml;llen kommt. Reisende in Halle k&ouml;nnen alternativ die Stra&szlig;enbahn-Linien der HAVAG nutzen.&nbsp;</p>\n\n<p>Den aktuellen Fahrplan finden Sie nachstehend:</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:e6cdf192-e2b9-44dc-8585-b16e31566453/Fahrplan%20Halle(Saale)%20Hbf%20-%20Halle%20Trotha%20bis%2008.01.2023.pdf",
+            "title": "Fahrplan Halle(Saale) - Halle-Trotha bis 08.01.2023 (PDF, 132 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.&nbsp;<strong>Die Angebotsver&auml;nderungen sind bereits in der elektronischen Reiseauskunft eingearbeitet.&nbsp;</strong></p>\n\n<p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -488,7 +499,30 @@
       "areas": [
         "st"
       ],
-      "lastModified": "12.12.2022 15:17",
+      "lastModified": "22.12.2022 11:26",
+      "author": "suedost",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "5c3e1597-c37a-424d-b641-41f5386d3cba",
+      "headline": "Einschränkungen bei der S-Bahn Mitteldeutschland Linie S 3",
+      "newsType": "Fehlendes Personal",
+      "timePeriod": "einschließlich 05. März 2023",
+      "introText": "<p>Durch Engp&auml;sse an einsatzbereitem Personal kommt es auf der Linie S 3 zu Fahrplananpassungen.</p>\n",
+      "connectionsHeadline": "Betroffene Linie",
+      "connections": [
+        "Halle-Nietleben - Halle (Saale) Hbf - Leipzig Hbf (tief) - Wurzen - (Oschatz) "
+      ],
+      "closingText": "<p>Bitte beachten Sie, dass die Z&uuml;ge der S-Bahn-Linie S 3 bereits in Halle (Saale) Hbf enden bzw. beginnen. Reisende in Halle k&ouml;nnen alternativ die Stra&szlig;enbahn-Linien der HAVAG nutzen. Ihre Fahrscheine f&uuml;r die Tarifzone 210 sind in den Stra&szlig;enbahnen g&uuml;ltig.&nbsp;</p>\n\n<p>F&uuml;r Fahrten von/nach Halle S&uuml;dstadt nutzen Sie bitte alternativ die S-Bahn-Linie S 7.</p>\n\n<p>Von Montag bis Freitag bestehen f&uuml;r Sie zwischen Halle (Saale) Hbf und Halle S&uuml;dstadt zus&auml;tzlich folgende Reisem&ouml;glichkeiten mit der Linie S 47:</p>\n\n<p>&bull; ab Halle (Saale) Hbf um 07:07 Uhr - an Halle S&uuml;dstadt um 07:16 Uhr</p>\n\n<p>&bull;&nbsp;ab Halle S&uuml;dstadt um 08:16 Uhr - an Halle (Saale) Hbf um 08:25 Uhr</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>\n\n<p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "st"
+      ],
+      "lastModified": "22.12.2022 11:27",
       "expand": false,
       "priorityValue": 101
     },
