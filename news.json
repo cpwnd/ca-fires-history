@@ -346,6 +346,43 @@
       "priorityValue": 102
     },
     {
+      "id": "436611e7-36b8-41d4-beed-159151d40005",
+      "headline": "Reduzierung der Verkehre bei der Westfrankenbahn in den Weihnachtsferien",
+      "newsType": "erhöhter Krankenstand beim Personal",
+      "timePeriod": "23. Dezember bis 6. Januar",
+      "introText": "<p><u>Hohenlohebahn:</u> t&auml;glich: Crailsheim - Heilbronn 2 Stunden Takt, Ersatzverkehr mit Bus zwischen Schw&auml;bisch Hall-Hessental und &Ouml;hringen Hbf bis 27. Dezember eingerichtet. Ab 28. Dezember ist dieser noch in Planung.</p>\n\n<p><u>Tauberbahn:</u> Montags bis freitags, au&szlig;er an Feiertagen: Ausfall von zwei Z&uuml;gen je Richtung jeweils Nachmittags. Ersatzverkehr mit Bus ist eingerichtet.</p>\n\n<p><u>Madonnenlandbahn:</u>&nbsp;Montags bis freitags, au&szlig;er an Feiertagen: Ausfall einzelner Z&uuml;ge am Nachmittag zwischen Miltenberg und Seckach. Ersatzverkehr mit Bus ist eingerichtet.</p>\n\n<p><u>Maintalbahn:</u>&nbsp;Montags bis freitags, au&szlig;er an Feiertagen: Ausfall von je einem Zug pro Richtung am Abend zwischen Miltenberg und Aschaffenburg. Bitte Folgez&uuml;ge nutzen.&nbsp;</p>\n\n<p><strong>Die aktualisierten Fahrpl&auml;ne inkl. Ersatzverkehre sind ab dem 23. Dezember z.B. auf www.bahn.de oder DB Navigator ersichtlich.&nbsp;Den Ersatzfahrplan f&uuml;r die Hohelohebahn finden Sie au&szlig;erdem hier im Anhang.</strong></p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "RE80/RB83: Hohenlohebahn (Heilbronn - Crailsheim)",
+        "RB88: Tauberbahn (Wertheim - Crailsheim)",
+        "RB84: Madonnenlandbahn (Seckach - Miltenberg)",
+        "RB88a: Maintalbahn (Aschaffenburg - Miltenberg)"
+      ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:d419671a-2682-40f9-9f19-6e1007e08318/KBS_783_Ausfall_Schw.H-Hessental-Heilbronn%20Hbf(21.12.22-6.1.23).pdf",
+            "title": "Ersatzfahrplan Hohenlohebahn: Heilbronn - Crailsheim (PDF, 80 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "by"
+      ],
+      "lastModified": "22.12.2022 12:09",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "b27fdf58-8494-4401-8475-9b85ea163d5c",
       "headline": "Beeinträchtigungen zwischen Aschaffenburg und Kleinwallstadt",
       "newsType": "Krankheitsbedingter Personalausfall im Stellwerk",
@@ -639,6 +676,26 @@
         "mv"
       ],
       "lastModified": "20.12.2022 16:28",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "5aa61900-b35a-45fb-af54-0d60768ec5c5",
+      "headline": "Zugausfälle auf der Linie RE13 (zwischen Cottbus - Senftenberg - Elsterwerda)",
+      "newsType": " Erhöhter Krankenstand beim Fahrpersonal",
+      "timePeriod": "27.12.22 - 30.12.22",
+      "introText": "<p>Wegen erh&ouml;htem Krankenstand beim Fahrpersonal fallen die Z&uuml;ge der Linie RE13 vom</p>\n\n<p>27. Dezember 2022 bis 30. Dezember 2022 auf dem Abschnitt <strong>&nbsp;Cottbus - Senftenberg - Elsterwerda</strong> in beiden Richtungen aus.</p>\n\n<p>Bitte nutzen Sie die Z&uuml;ge der Linien RE18 (Cottbus - Ruhland - Dresden) und RB49 (Cottbus - Elsterwerda-Biehla - Falkenberg (Elster) als Ersatz.</p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a></p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "br"
+      ],
+      "lastModified": "22.12.2022 11:25",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
@@ -962,7 +1019,7 @@
           }
         ]
       },
-      "closingText": "<p><strong>RB4:</strong></p>\n\n<p>Es besteht ein 2-Stunden-Takt.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RB38:</strong></p>\n\n<p>Kein planm&auml;&szlig;iger Verkehr an Samstagen, Sonn- und Feiertagen.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RB39 / RE39:&nbsp;</strong></p>\n\n<p>Keine Einschr&auml;nkungen an Samstagen, Sonn- und Feiertagen.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RB94:&nbsp;</strong></p>\n\n<p>Es besteht ein 2-Stunden-Takt an Samstagen.</p>\n\n<p>Keine Einschr&auml;nkungen an Sonntagen.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RB97 / RE97:</strong></p>\n\n<p>Es besteht ein 2-Stunden-Takt.</p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>Sonderfahrplan vom 29.12.2022 (Betriebsbeginn) bis zum 02.01.2023 (ca. 11 Uhr):</strong></u></p>\n\n<p>Die Main-Weser-Bahn ist baustellenbedingt zwischen Marburg(Lahn) und Baunatal-Guntershausen gesperrt. Der Sonderfahrplan hierzu wird zeitnah ver&ouml;ffentlicht.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter&nbsp;<a href=\"http://www.bahn.de/\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:004969 24 44 57 10\">069 24 44 57 10</a></p>\n",
+      "closingText": "<p><strong>RB4:</strong></p>\n\n<p>- Es besteht ein 2-Stunden-Takt.</p>\n\n<p>- Wir haben teilweise einen Schienenersatzverkehr f&uuml;r Sie eingerichtet.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RB38:</strong></p>\n\n<p>- Keine Einschr&auml;nkungen.</p>\n\n<p>- Bitte baustellenbedingten Sonderfahrplan vom 29.12.2022 bis zum 02.01.2023 beachten.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RB39 / RE39:&nbsp;</strong></p>\n\n<p>- Einzelne Zugausf&auml;lle in der morgendlichen Hauptverkehrszeit (montags bis freitags)</p>\n\n<p>- Keine Einschr&auml;nkungen an Samstagen, Sonn- und Feiertagen.</p>\n\n<p>- Bitte baustellenbedingten Sonderfahrplan vom 29.12.2022 bis zum 02.01.2023 beachten.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RB94:&nbsp;</strong></p>\n\n<p>- Es besteht ein 2-Stunden-Takt,&nbsp;teilweise mit Verdichtungen im mitt&auml;glichen Sch&uuml;lerverkehr ab Marburg(Lahn)</p>\n\n<p>- Keine Einschr&auml;nkungen an Sonntagen.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>RB97 / RE97:</strong></p>\n\n<p>- Es besteht ein 2-Stunden-Takt.</p>\n\n<p>&nbsp;</p>\n\n<p><u><strong>Sonderfahrplan vom 29.12.2022 (Betriebsbeginn) bis zum 02.01.2023 (ca. 11 Uhr):</strong></u></p>\n\n<p>Die Main-Weser-Bahn ist baustellenbedingt zwischen Marburg(Lahn) und Baunatal-Guntershausen gesperrt. Der Sonderfahrplan hierzu wird zeitnah ver&ouml;ffentlicht.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter&nbsp;<a href=\"http://www.bahn.de/\">bahn.de</a>&nbsp;oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n<a href=\"tel:004969 24 44 57 10\">069 24 44 57 10</a></p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -970,7 +1027,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "21.12.2022 06:13",
+      "lastModified": "22.12.2022 12:06",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
@@ -1033,40 +1090,6 @@
       "lastModified": "22.06.2022 15:45",
       "author": "bayern",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "5f2d81f5-7dad-4d5a-96e0-e3d449e80039",
-      "headline": "Ausfälle auf der Hohenlohebahn zwischen Heilbronn und Schwäbisch Hall-Hessental / Crailsheim",
-      "newsType": "Krankheitsbedingter Personalausfall",
-      "timePeriod": "bis 6. Januar 2022 ",
-      "connectionsHeadline": "Betroffene Linien:",
-      "connections": [
-        "RE 80  (Crailsheim – Heilbronn)",
-        "RB 83 (Schwäbisch Hall Hessental – Heilbronn)"
-      ],
-      "download": {
-        "text": "<p>Vom 22. bis 27. Dezember k&ouml;nnen wir f&uuml;r die meisten Zugausf&auml;lle einen Ersatzverkehr einrichten.&nbsp;<br />\nVom 28. Dezember bis 6. Januar versuchen wir f&uuml;r die ausfallenden Z&uuml;ge einen Ersatzverkehr mit Bus zwischen &Ouml;hringen und Schw&auml;bisch Hall-Hessental einzurichten, warten aber noch auf die Best&auml;tigung unserer Partner.<br />\nErsatzfahrplan mit den Fahrzeiten der Ersatzbusse finden Sie im Anhang.</p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:d419671a-2682-40f9-9f19-6e1007e08318/KBS_783_Ausfall_Schw.H-Hessental-Heilbronn%20Hbf(21.12.22-6.1.23).pdf",
-            "title": "Ersatzfahrplan Hohenlohebahn  (PDF, 80 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p>Von Schw&auml;bisch Hall-Hessental bis Crailsheim nutzen Sie bitte die verbleibenden Z&uuml;ge der RE Linie 90 bzw. RB Linie 19, zwischen Heilbronn und &Ouml;hringen die Stadtbahnen der AVG. Reisende von Crailsheim nach Heilbronn Hbf mit RE 80 (23412) um 16:38 Uhr bitte folgende Alternative nutzen: 16:35 Uhr ab Crailsheim mit IC 2064 bis Stuttgart Hbf, dort Umstieg auf RE 8 (19080) bis Heilbronn Hbf (Ankunft 18:47 Uhr).</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "21.12.2022 13:41",
-      "author": "baden_wuerttemberg",
-      "expand": false,
       "priorityValue": 101
     },
     {
