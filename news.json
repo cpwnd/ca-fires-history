@@ -920,7 +920,18 @@
       "introText": "<p>Ein Hangrutsch zwischen Bingen und Koblenz schr&auml;nkt den Zugverkehr erheblich ein.</p>\n\n<p>In der Folge kommt es jetzt zu Versp&auml;tungen, Umleitungen ohne Halt und Teilausf&auml;llen.</p>\n",
       "connectionsHeadline": "RE2 Koblenz - Bingen - Mainz - Frankfurt",
       "connections": [],
-      "closingText": "<p><strong>RE2:</strong> Die Z&uuml;ge verkehren ausschlie&szlig;lich zwischen Bingen(Rhein) Hbf und Frankfurt Hbf.&nbsp;</p>\n\n<p>Zwischen Koblenz und Oberwesel sowie zwischen Bacharach und Ingelheim verkehrt die Mittelrheinbahn.&nbsp;</p>\n\n<p>Wir haben f&uuml;r Sie einen Busnotverkehr mit insgesamt vier Bussen zwischen Bingen(Rhein) Hbf und Koblenz Hbf eingerichtet. Bitte beachten Sie, dass aufgrund einer Stra&szlig;ensperrung die Busse ohne Zwischenhalte verkehren.</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.&nbsp;Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "download": {
+        "text": "<p><strong>RE2:</strong> Die Z&uuml;ge verkehren ausschlie&szlig;lich zwischen Bingen(Rhein) Hbf und Frankfurt Hbf.&nbsp;</p>\n\n<p>Zwischen <strong>Koblenz und Oberwesel</strong> sowie zwischen <strong>Bacharach und Ingelheim</strong> verkehrt die <strong>Mittelrheinbahn</strong>.&nbsp;</p>\n\n<p>Wir haben f&uuml;r Sie einen Busnotverkehr mit insgesamt vier Bussen zwischen Bingen(Rhein) Hbf und Koblenz Hbf eingerichtet. Bitte beachten Sie, dass aufgrund einer Stra&szlig;ensperrung die Busse ohne Zwischenhalte verkehren.</p>\n\n<p>Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p><u><em>Den Ersatzfahrplan finden Sie hier:</em></u></p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:64916440-164b-4196-8090-435dda30402e/Kundeninfo%20Bingen%20Koblenz.pdf",
+            "title": "RE2_Ersatzfahrplan_Koblenz_Bingen_ab 23.12.22 (PDF, 305 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
+      "closingText": "<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -928,7 +939,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "23.12.2022 06:22",
+      "lastModified": "23.12.2022 14:12",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
