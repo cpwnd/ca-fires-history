@@ -1214,12 +1214,23 @@
       "id": "8576ff81-8d37-4db6-9947-5f6a3de80b61",
       "headline": "Kurzfristige Personalausfälle bei der SNCF. Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
       "newsType": "Kurzfristige Personalausfälle",
-      "timePeriod": "von Sonntag, 25. Dezember ab 14 Uhr bis Montag, 26. Dezember 2022 um 14 Uhr",
+      "timePeriod": "von Sonntag, 25. Dezember bis Montag, 26. Dezember 2022",
       "introText": "<p>Die SNCF hat zwischen M&uuml;llheim(Baden) und Mulhouse Ville f&uuml;r die ausfallenden Z&uuml;ge einen Schienenersatzverkehr mit Bus eingerichtet.&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Strecke:",
       "connections": [
         "RB 107: Müllheim(Baden) - Mulhouse Ville"
       ],
+      "download": {
+        "text": "<p>Den dazugeh&ouml;rigen Ersatzfahrplan finden Sie hier:</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:b8291f0c-ecee-4cfe-9156-af4e9d01fb50/A31%20Mulhouse%20M%C3%BCllheim%20du%20dimanche%2025%20au%20lundi%2026%20d%C3%A9cembre%202022.pdf",
+            "title": "SEV Müllheim-Mulhouse vom 25. bis 26.12.2022 (PDF, 1 MB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung&nbsp;mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
@@ -1228,7 +1239,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "24.12.2022 00:05",
+      "lastModified": "24.12.2022 11:11",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
