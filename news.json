@@ -834,31 +834,6 @@
       "priorityValue": 101
     },
     {
-      "id": "055555f0-9ac2-479f-b027-84653b2034cd",
-      "headline": "Erhöhter Krankenstand beim Stellwerkspersonal",
-      "newsType": "Zugverkehr eingestellt",
-      "timePeriod": "24.12.2022 vsl. ab 16 Uhr ",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes Stellwerkpersonals wurde der Zugverkehr zwischen</p>\n\n<p><strong>RB35 Worms Hbf - Bingen (Rh) Stadt </strong><br />\n<strong>RB45 Neustadt (Weinstr) Hbf - Freinsheim,<br />\nRB46 Frankenthal Hbf - Eiswoog,<br />\nRB46 Gr&uuml;nstadt - Mosnheim und 24.12.2022 eingestellt.</strong></p>\n\n<p>Ersatzverkehr zwischen Worms Hbf und Bingen (Rh) Stadt ist eingerichtet.</p>\n\n<p>Die DB bittet ihre Fahrg&auml;ste, aufgrund der abweichenden Abfahrts- und Reisezeiten der Busse mehr Reisezeit einzuplanen und zu beachten, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnh&ouml;fen liegen.</p>\n\n<p>Eine Fahrradmitnahme in den Bussen ist nicht m&ouml;glich.&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffene Linien: ",
-      "connections": [
-        "RB35\tWorms – Alzey – Bingen (Rheinhessen-Bahn) ",
-        "RB45\tNeustadt – Bad Dürkheim – Freinsheim – Grünstadt – Monsheim (Pfälzische Nordbahn)",
-        "RB46\tFrankenthal – Freinsheim – Grünstadt – Ramsen – Eiswoog (Eistalbahn)"
-      ],
-      "closingText": "<p>Bitte beachten Sie die &Auml;nderungen bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Fahrzeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "rp"
-      ],
-      "lastModified": "24.12.2022 15:02",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
       "id": "2c231385-7e6e-4b41-8450-4b11c5e72e47",
       "headline": "Vorübergehend reduziertes Fahrplanangebot in der Westpfalz",
       "newsType": "Erhöhter Krankenstand beim Fahr- und Stellwerkspersonal",
@@ -968,6 +943,31 @@
         "rp"
       ],
       "lastModified": "23.12.2022 15:19",
+      "author": "mitte",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "055555f0-9ac2-479f-b027-84653b2034cd",
+      "headline": "Erhöhter Krankenstand beim Stellwerkspersonal",
+      "newsType": "Zugverkehr eingestellt",
+      "timePeriod": "24.12.2022 ab 16 Uhr.",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes Stellwerkpersonals wurde der Zugverkehr zwischen</p>\n\n<p><strong>RB35 Worms Hbf - Bingen (Rh) Stadt </strong><br />\n<strong>RB45 Neustadt (Weinstr) Hbf - Freinsheim,<br />\nRB46 Frankenthal Hbf - Eiswoog,<br />\nRB46 Gr&uuml;nstadt - Mosnheim und 24.12.2022 eingestellt.</strong></p>\n\n<p><strong>Ersatzverkehr zwischen Worms Hbf und Bingen (Rh) Stadt ist eingerichtet.</strong></p>\n\n<p>Die DB bittet ihre Fahrg&auml;ste, aufgrund der abweichenden Abfahrts- und Reisezeiten der Busse mehr Reisezeit einzuplanen und zu beachten, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnh&ouml;fen liegen.</p>\n\n<p>Eine Fahrradmitnahme in den Bussen ist nicht m&ouml;glich.&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffene Linien: ",
+      "connections": [
+        "RB35\tWorms – Alzey – Bingen (Rheinhessen-Bahn) ",
+        "RB45\tNeustadt – Bad Dürkheim – Freinsheim – Grünstadt – Monsheim (Pfälzische Nordbahn)",
+        "RB46\tFrankenthal – Freinsheim – Grünstadt – Ramsen – Eiswoog (Eistalbahn)"
+      ],
+      "closingText": "<p>Bitte beachten Sie die &Auml;nderungen bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Fahrzeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "24.12.2022 15:26",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
