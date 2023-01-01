@@ -116,27 +116,6 @@
       "priorityValue": 102
     },
     {
-      "id": "9c8d900f-1838-430d-b78b-81087e5f360a",
-      "headline": "RB23 Ausfall zwischen Berlin-Charlottenburg-Berlin Zoologischer Garten",
-      "newsType": "wegen kurzfristigen Personalausfällen ",
-      "timePeriod": "31. Dezember 2022 und 01. Januar 2023",
-      "introText": "<p>Wegen erh&ouml;htem Krankenstand fallen die Z&uuml;ge der Linie RB23 am 31. Dezember 2022 und 01. Januar 2023 zwischen Berlin-Charlottenburg und Berlin Zoologischer Garten in beide Richtungen ganzt&auml;gig aus.</p>\n\n<p>Nutzen Sie bitte die Berliner S-Bahnen.</p>\n",
-      "connections": [],
-      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter&nbsp;<a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>&nbsp;sowie in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "31.12.2022 13:52",
-      "author": "nordost",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "1e2a45bd-546b-4423-8ac6-4ece2051bd85",
       "headline": "Zugausfälle auf der Linie RB24 Nord (zwischen Berlin-Lichtenberg - Flughafen BER - Terminal 5)",
       "newsType": "Bauarbeiten und erhöhter Krankenstand beim Fahrpersonal",
@@ -583,43 +562,6 @@
       ],
       "lastModified": "27.12.2022 16:59",
       "author": "nordost",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "4fb16fb6-5d4f-441a-9c03-72a78fb5da3b",
-      "headline": "Ausfall der Linie RB 28  ",
-      "newsType": "Angespannte Personallage",
-      "timePeriod": "vom 23.12. - 02.01.2023",
-      "introText": "<p>Aufgrund der angespannten Personallage fallen die Z&uuml;ge der Linie RB 28&nbsp;<strong>vom 23.12.2022 bis zum 02.01.2023</strong>&nbsp;<strong>(Winterferien RLP)</strong>&nbsp;leider aus.<br />\n<br />\n<strong>Alternative Reisem&ouml;glichkeiten</strong>: Nutzen Sie zwischen Neuwied und Niederlahnstein die Z&uuml;ge der Linie RB 10.<br />\n<br />\nEin&nbsp;<strong>Ersatzverkehr</strong>&nbsp;zwischen Koblenz Hbf und Neuwied ist eingerichtet.<br />\n&nbsp;</p>\n\n<p>&nbsp;</p>\n",
-      "connections": [
-        "RB 28 Neuwied - Niederlahnstein"
-      ],
-      "download": {
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:111fa555-e28b-4b6c-961a-0011e5e97620/221219_M2Sa_Kundeninformation_RB%2028%20Ausfall%20KNE-KNL%2023.12.-02.01.pdf",
-            "title": "Kundeninformation RB 28 (PDF, 229 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:d5c31c10-db2a-456e-80ff-3bd8de249458/SEV%20RB%2028%20Koblenz%20-%20Vallendar%20-%20Neuwied_23.12.22-02.01.23.pdf",
-            "title": "Fahrplan Schienenersatzverkehr (PDF, 23 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "rp"
-      ],
-      "lastModified": "21.12.2022 09:48",
-      "author": "nrw",
       "expand": false,
       "priorityValue": 101
     },
