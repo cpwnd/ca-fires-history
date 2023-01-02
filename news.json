@@ -1,29 +1,6 @@
 {
   "news": [
     {
-      "id": "6541c8ed-431d-4bb3-a99e-931c03bdd481",
-      "headline": "Einschränkungen im Dieselnetz VVO",
-      "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "Ab 26. September 2022 bis einschließlich 01. Januar 2023 ",
-      "introText": "<p>Wegen Engp&auml;ssen an einsatzbereiten Triebfahrzeugf&uuml;hrern kommt es zu folgender Reduzierung des Betriebsprogramms im Dieselnetz des VVO.</p>\n",
-      "connectionsHeadline": "Betroffene Linien",
-      "connections": [
-        "RB 33 Dresden-Neustadt – Königsbrück"
-      ],
-      "closingText": "<p><strong>RB 33 - Nur im Abschnitt&nbsp;Dresden-Neustadt &ndash; Ottendorf-Okrilla S&uuml;d</strong></p>\n\n<p>Zwischen Ottendorf-Okrilla S&uuml;d und K&ouml;nigsbr&uuml;ck ist ein Schienenersatzverkehr (SEV) mit Bus eingerichtet.</p>\n\n<p>SEV-Haltestelle Ottendorf-Okrilla Hp. befindet sich an der Regionalverkehrshaltestelle Dresdner Stra&szlig;e.</p>\n\n<p>Folgende Z&uuml;ge der RB 33 verkehren&nbsp;<strong>durchgehend</strong>:</p>\n\n<p>&nbsp; &nbsp; &bull; K&ouml;nigsbr&uuml;ck ab 4.44 Uhr verkehrt durchgehend als Zug (Zug nur verkehrt W(Sa))<br />\n&nbsp; &nbsp; &bull; Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis K&ouml;nigsbr&uuml;ck als Zug<br />\n&nbsp; &nbsp; &bull; K&ouml;nigsbr&uuml;ck ab 22.53 Uhr verkehrt durchgehend als Zug<br />\n&nbsp; &nbsp; &bull; Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis K&ouml;nigsbr&uuml;ck als Zug<br />\n&nbsp; &nbsp; &bull; K&ouml;nigsbr&uuml;ck ab 6.53 Uhr verkehrt durchgehend als Zug (Zug nur verkehrt Sa+So)</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein. <strong>S&auml;mtliche Angebotsver&auml;nderungen sind bereits in der elektronischen Reiseauskunft eingearbeitet.&nbsp;</strong></p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder telefonisch unter 0351 32 3000 11 (zum Ortstarif) zu informieren.</p>\n",
-      "priority": "1",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "sn"
-      ],
-      "lastModified": "12.12.2022 17:04",
-      "author": "suedost",
-      "expand": false,
-      "priorityValue": 201
-    },
-    {
       "id": "e2c60e0b-c3e8-498c-96a3-42ac4d06b829",
       "headline": "Einschränkung bei der S-Bahn Dresden",
       "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
@@ -46,6 +23,29 @@
       ],
       "lastModified": "12.12.2022 20:53",
       "author": "suedost",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
+      "id": "727f6f80-b9ef-4824-967d-b60e382ff219",
+      "headline": "Beeinträchtigungen zwischen Marburg(Lahn) und Treysa",
+      "newsType": "Streckenstörung",
+      "timePeriod": "Heute, 02.01.2023 bis in die Abendstunden ",
+      "introText": "<p>Aufgrund einer Streckenst&ouml;rung auf der Main-Weser-Bahn ist der Streckenabschnitt zwischen Marburg (Lahn) und Treysa derzeit gesperrt. Dadurch m&uuml;ssen einzelne Z&uuml;ge im Fernverkehr der Deutschen Bahn umgeleitet werden.</p>\n\n<p>Die Halte Wabern (Bz. Kassel), Treysa, Marburg (Lahn), Gie&szlig;en Hbf, Friedberg (Hess) und Frankfurt (M) West entfallen.</p>\n\n<p>Durch die Umleitung ist keine zus&auml;tliche Versp&auml;tung zu erwarten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE & IC Züge zwischen Kassel - Marburg (Lahn) - Frankfurt (M)"
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Zwischen Frankfurt(M) Hbf und Friedberg (Hess), Gie&szlig;en Hbf, Marburg (Lahn) nutzen Sie bitte die Regionalz&uuml;ge der Linie RB 41, RE 30 und HLB RE 98.</p>\n\n<p>Zwischen Kassel-Wilhelmsh&ouml;he und Treysa nutzen Sie bitte die Regionalz&uuml;ge der Linie RE 30 und HLB RE 98.</p>\n\n<p><strong>Ein Ersatzverkehr ist in Pr&uuml;fung.</strong></p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "he"
+      ],
+      "lastModified": "02.01.2023 02:41",
+      "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
     },
@@ -1005,7 +1005,7 @@
       "timePeriod": "bis einschließlich 8. Januar",
       "introText": "<p>Es kommt zu Ausf&auml;llen bei den Regio-S-Bahn Linien RS 2 und RS 21 zwischen Biberach(Ri&szlig;) und Ulm. Hier wird weiterhin mit einem zuverl&auml;ssigen Stundentakt gefahren. Zudem kommt es zum Ausfall einzelner Verbindungen auf der S&uuml;dbahn zwischen Ulm und Lindau sowie auf der Donaubahn zwischen Sigmaringen und Ulm.&nbsp;</p>\n\n<p>Au&szlig;erdem reduziertes Sitzplatzangebot auf mehreren Strecken in Oberschwaben, am Bodensee und Hochrhein, sowie zwischen Sigmaringen-T&uuml;bingen und Stuttgart.</p>\n",
       "connections": [],
-      "closingText": "<p>Der aktualisierte Fahrplan ab dem 2. bis 8. Januar steht den Fahrg&auml;sten in der Fahrplanauskunft wie z.B. bahn.de oder DB Navigator zur Verf&uuml;gung. F&uuml;r Reisetage bis zum 1. Januar werden die Fahrplandaten tagesaktuell angepasst und aktualisiert. Bitte pr&uuml;fen Sie hierzu ihre Reiseverbindung.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "closingText": "<p>Der aktualisierte Fahrplan bis 8. Januar steht den Fahrg&auml;sten in der Fahrplanauskunft wie z.B. bahn.de oder DB Navigator zur Verf&uuml;gung.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -1013,7 +1013,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "29.12.2022 15:05",
+      "lastModified": "02.01.2023 01:28",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
