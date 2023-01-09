@@ -3,8 +3,8 @@
     {
       "id": "e2c60e0b-c3e8-498c-96a3-42ac4d06b829",
       "headline": "Einschränkung bei der S-Bahn Dresden",
-      "newsType": "Erhöhter Krankenstand beim Fahrpersonal",
-      "timePeriod": "Ab 19. September 2022 bis einschließlich 05. Februar 2023",
+      "newsType": "Personalengpässe",
+      "timePeriod": "bis einschließlich 05. Februar 2023",
       "introText": "<p>Durch Engp&auml;sse an einsatzbereitem Personal kommt es zu folgender Reduzierung des Betriebsprogramms bei der S-Bahn Dresden.</p>\n",
       "connectionsHeadline": "Betroffene Linien",
       "connections": [
@@ -30,7 +30,7 @@
       "areas": [
         "sn"
       ],
-      "lastModified": "02.01.2023 11:54",
+      "lastModified": "09.01.2023 10:04",
       "author": "suedost",
       "expand": false,
       "priorityValue": 201
@@ -213,9 +213,10 @@
     },
     {
       "id": "40a40c28-c991-433c-8880-7f33c76578e6",
-      "headline": "Personalausfall Stellwerk Halle-Nietleben",
-      "newsType": "Ausfall zwischen Halle-Südstadt und Halle-Nietleben",
-      "introText": "<p>Aufgrund von erh&ouml;htem Krankenstand kann das Stellwerk in Halle-Nietleben bis 15. Januar 2023 teilweise nicht besetzt werden.</p>\n",
+      "headline": "Teilweise Ausfälle zwischen Halle-Südstadt und Halle-Nietleben",
+      "newsType": "Personalengpässe",
+      "timePeriod": "bis 15. Januar 2023",
+      "introText": "<p>Wegen Engp&auml;ssen an einsatzbereitem Personal kann das Stellwerk in Halle-Nietleben bis 15. Januar 2023 teilweise nicht besetzt werden.</p>\n",
       "connections": [
         "S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz"
       ],
@@ -227,7 +228,7 @@
       "areas": [
         "st"
       ],
-      "lastModified": "06.01.2023 13:15",
+      "lastModified": "09.01.2023 10:01",
       "expand": false,
       "priorityValue": 101
     },
@@ -284,28 +285,6 @@
       ],
       "lastModified": "22.12.2022 11:26",
       "author": "suedost",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "5c3e1597-c37a-424d-b641-41f5386d3cba",
-      "headline": "Einschränkungen bei der S-Bahn Mitteldeutschland Linie S 3",
-      "newsType": "Fehlendes Personal",
-      "timePeriod": "einschließlich 08. Januar 2023",
-      "introText": "<p>Durch Engp&auml;sse an einsatzbereitem Personal kommt es auf der Linie S 3 zu Fahrplananpassungen.</p>\n",
-      "connectionsHeadline": "Betroffene Linie",
-      "connections": [
-        "Halle-Nietleben - Halle (Saale) Hbf - Leipzig Hbf (tief) - Wurzen - (Oschatz) "
-      ],
-      "closingText": "<p>Bitte beachten Sie, dass die Z&uuml;ge der S-Bahn-Linie S 3 bereits in Halle (Saale) Hbf enden bzw. beginnen. Reisende in Halle k&ouml;nnen alternativ die Stra&szlig;enbahn-Linien der HAVAG nutzen. Ihre Fahrscheine f&uuml;r die Tarifzone 210 sind in den Stra&szlig;enbahnen g&uuml;ltig.&nbsp;</p>\n\n<p>F&uuml;r Fahrten von/nach Halle S&uuml;dstadt nutzen Sie bitte alternativ die S-Bahn-Linie S 7.</p>\n\n<p>Von Montag bis Freitag bestehen f&uuml;r Sie zwischen Halle (Saale) Hbf und Halle S&uuml;dstadt zus&auml;tzlich folgende Reisem&ouml;glichkeiten mit der Linie S 47:</p>\n\n<p>&bull; ab Halle (Saale) Hbf um 07:07 Uhr - an Halle S&uuml;dstadt um 07:16 Uhr</p>\n\n<p>&bull;&nbsp;ab Halle S&uuml;dstadt um 08:16 Uhr - an Halle (Saale) Hbf um 08:25 Uhr</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>\n\n<p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "st"
-      ],
-      "lastModified": "22.12.2022 12:27",
       "expand": false,
       "priorityValue": 101
     },
