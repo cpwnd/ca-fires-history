@@ -2,17 +2,17 @@
   "news": [
     {
       "id": "c2db1078-70bd-4922-a979-6aaa820b7500",
-      "headline": "Beeinträchtigungen zwischen Elmshorn und Hamburg",
+      "headline": "Reparatur an der Oberleitung zwischen Elmshorn und Hamburg beendet",
       "newsType": "Reparatur an der Oberleitung",
       "timePeriod": "Am heutigen Dienstag, 17.01.2023 vsl. bis 14:00 Uhr ",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Elmshorn und Hamburg kommt es derzeit zu Versp&auml;tungen und Ausf&auml;llen im Regionalverkehr der Deutschen Bahn.</p>\n",
+      "introText": "<p>Reparatur an der Oberleitung zwischen Elmshorn und Hamburg ist beendet. Der Zugverkehr wird wieder aufgenommen.</p>\n",
       "connectionsHeadline": "Folgende Linien sind betroffen:",
       "connections": [
         "RE 6 (Westerland(Sylt) - Hamburg-Altona): Die Züge des RE6 aus/in Richtung Westerland(Sylt) enden/beginnen vorzeitig in Itzehoe. Es ist ein Busnotverkehr zwischen Itzehoe und Elmshorn durch die Firma Rope Reisen ist eingerichtet. Ab Elmshorn nutzen Sie bitte die Busse der Firma VHH und der Firma Schmidt Westerhorn nach Hamburg.",
         "RE 7 (Flensburg/Kiel Hbf - Hamburg Hbf): Die Züge der Linie RE7 aus/in Richtung Flensburg bzw. Kiel Hbf enden/beginnen in Neumünster. Reisende von Neumünster nach Hamburg Hbf benutzen bitte die Züge der Nordbahn RB82 nach Bad Oldesloe und steigen dort in die RE80/RB81 nach Hamburg Hbf um. Reisende von Flensburg nach Hamburg Hbf benutzen bitte ab Neumünster die Züge der Nordbahn RB82 nach Bad Oldesloe und steigen dort in die RE8/80 nach Hamburg Hbf. Reisende Richtung Kiel nutzen die Züge bitte in entgegengesetzter Richtung. ",
         " RE 70 (Kiel Hbf - Hamburg Hbf): Die Züge der Linie RE70 aus/in Richtung Kiel Hbf enden/beginnen in Neumünster. Reisende von Neumünster nach Hamburg Hbf benutzen bitte die Züge der Nordbahn RB82 nach Bad Oldesloe und steigen dort in die RE80/RB81 nach Hamburg Hbf um. Reisende von Flensburg nach Hamburg Hbf benutzen bitte ab Neumünster die Züge der Nordbahn RB82 nach Bad Oldesloe und steigen dort in die RE8/80 nach Hamburg Hbf. Reisende Richtung Kiel nutzen die Züge bitte in entgegengesetzter Richtung."
       ],
-      "closingText": "<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von ca. 45 Minuten.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir diese Meldung aktualisieren.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a>&nbsp;oder beim regionalen Kundendialog unter <a href=\"tel: 0431 53440500\">0431 53440500</a>.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein <a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "closingText": "<p>RE6&nbsp;Erste durchgehende Z&uuml;ge RE11018&nbsp;ab Hamburg-Altona&nbsp;(13:40) und RE11021&nbsp;an Hamburg-Altona&nbsp;(14:21).</p>\n\n<p>RE7/70 Erste durchgehende Z&uuml;ge RE11218 ab Hamburg-Hbf (13:22) und RE11168 ab Hamburg Hbf (13:43).</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a>&nbsp;oder beim regionalen Kundendialog unter <a href=\"tel: 0431 53440500\">0431 53440500</a>.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein <a href=\"https://twitter.com/dbregio_SH\" target=\"_blank\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "priority": "2",
       "distance": [
         "regional"
@@ -21,7 +21,7 @@
         "hh",
         "sh"
       ],
-      "lastModified": "17.01.2023 10:36",
+      "lastModified": "17.01.2023 13:38",
       "expand": false,
       "priorityValue": 302
     },
@@ -455,7 +455,7 @@
       "headline": "Beeinträchtigungen an der Strecke zwischen Horb(Neckar) und Eutingen im Gäu",
       "newsType": "Gegenstände im Gleis",
       "timePeriod": "Störungsdauer vsl. bis in die Nachtstunden",
-      "introText": "<p>Zwischen Horb und Eutingen im G&auml;u befinden sich Gegenst&auml;nde auf der Strecke. Der Streckenabschnitt ist eingleisig befahrbar. In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.&nbsp;</p>\n\n<p>Z&uuml;ge der Linie RE87 halten zus&auml;tzlich in Eutingen im G&auml;u.</p>\n\n<p>Die Z&uuml;ge aus Richtung Pforzheim Hbf enden/beginnen in Hochdorf(b Horb).</p>\n\n<p>Wir haben einen Ersatzverkehr mit Bus (ab 13 Uhr startet ein 2. Bus in Hochdorf) zwischen Horb und Hochdorf(b Horb) mit Halt in Eutingen Nord f&uuml;r Sie eingerichtet. Bitte rechnen Sie mit Wartezeit.</p>\n\n<p>Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n",
+      "introText": "<p>Zwischen Horb und Eutingen im G&auml;u befinden sich Gegenst&auml;nde auf der Strecke. Der Streckenabschnitt ist eingleisig befahrbar. In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.&nbsp;</p>\n\n<p>Z&uuml;ge der Linie RE87 halten zus&auml;tzlich in Eutingen im G&auml;u.</p>\n\n<p>Die Z&uuml;ge aus Richtung Pforzheim Hbf enden/beginnen in Hochdorf(b Horb).</p>\n\n<p>Wir haben einen Schienenersatzverkehr zwischen Horb und Hochdorf(b Horb) mit Halt in Eutingen Nord f&uuml;r Sie eingerichtet. Die Busse fahren in Horb zur Minute 5 und zur Minute 35 ab. In Hochdorf(b Horb) fahren die Busse zur Minute 20 und zur Minute 50 ab.</p>\n\n<p>Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n",
       "connectionsHeadline": "Betroffene Strecke: ",
       "connections": [
         "RE14 Stuttgart - Horb(Neckar) - Rottweil / Freudenstadt ",
@@ -469,7 +469,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "17.01.2023 11:39",
+      "lastModified": "17.01.2023 12:54",
       "expand": false,
       "priorityValue": 101
     },
