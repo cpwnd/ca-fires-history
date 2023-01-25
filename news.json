@@ -72,6 +72,31 @@
       "priorityValue": 205
     },
     {
+      "id": "888ec1d7-ae96-492e-b917-e169d313ca6b",
+      "headline": "Beeinträchtigungen zwischen Hamburg und Kiel/Dänemark",
+      "newsType": "Polizeieinsatz",
+      "timePeriod": "Heute, am 25.01.2023, voraussichtlich bis Tagesende",
+      "introText": "<p>Aufgrund eines Polizeieinsatzes ist die Bahnstrecke zwischen Brokstedt und Wrist derzeit gesperrt. Es kommt zwischen Hamburg und Kiel bzw. D&auml;nemark derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Die Z&uuml;ge m&uuml;ssen auf Teilabschnitten entfallen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "alle ICE-/EC-Züge zwischen Hamburg und Kiel enden bzw. beginnen abweichend in Hamburg. Die Halte Neumünster und Kiel entfallen.",
+        "alle EC-Züge zwischen Hamburg und Dänemark enden bzw. beginnen abweichend in Neumünster. Die Halte in Hamburg entfallen."
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Nutzen Sie zwischen <strong>Neum&uuml;nster</strong> und Hamburg bitte die st&uuml;ndlichen Regionalzugverbindungen mit Umstieg in Bad Oldesloe.</p>\n\n<p>Nutzen Sie zwischen <strong>Kiel </strong>und Hamburg bitte die st&uuml;ndlichen Regionalzugverbindungen mit Umstieg in L&uuml;beck Hbf.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "hh",
+        "sh"
+      ],
+      "lastModified": "25.01.2023 19:21",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 202
+    },
+    {
       "id": "e2c60e0b-c3e8-498c-96a3-42ac4d06b829",
       "headline": "Einschränkung bei der S-Bahn Dresden",
       "newsType": "Personalengpässe",
@@ -125,7 +150,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "25.01.2023 17:16",
+      "lastModified": "25.01.2023 19:09",
       "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 201
