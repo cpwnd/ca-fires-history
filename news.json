@@ -72,6 +72,34 @@
       "priorityValue": 205
     },
     {
+      "id": "8de3c888-3a8a-4304-898e-5f3673eedee9",
+      "headline": "Beeinträchtigungen zwischen Hannover und Minden(Westf) bzw. Bremen",
+      "newsType": "Polizeieinsatz",
+      "timePeriod": "Am Mittwoch, 25.01.2023 bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund eines Polizeieinsatzes in Wunstorf kommt es zwischen Hannover und Minden(Westf) bzw. Nienburg(Weser) derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch. Weiterhin kommt es zu Zug- und Haltausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "ICE- und IC-Züge auf dem Abschnitt Hamm(Westf) - Minden(W) - Hannover werden umgeleitet und halten nicht in Minden (Westf), Herford und Bielefeld Hbf. Die Züge verspäten sich um etwa 75 Minuten.",
+        "IC-Züge Amsterdam - Hannover - Berlin werden zwischen Rheine und Hannover umgeleitet. Die Halte Minden (Westf), Bad Oeynhausen, Bünde (Westf), Osnabrück Hbf und Ibbenbüren, Ersatzhalte in Hamm (Westf) Hbf und Münster (Westf) Hbf entfallen. Die Züge verspäten sich um etwa 75 Minuten.",
+        "ICE-Züge auf dem Abschnitt Oldenburg - Bremen - Hannover fallen aus.",
+        "IC-Züge Leer(Ostfr) - Emden - Bremen - Hannover - Dresden werden zwischen Bremen und Hannover umgeleitet und halten nicht in Verden(Aller) und Nienburg(Weser). Die Züge verspäten sich um etwa 70 Minuten."
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "hb",
+        "ni",
+        "nw"
+      ],
+      "lastModified": "25.01.2023 08:47",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 203
+    },
+    {
       "id": "e2c60e0b-c3e8-498c-96a3-42ac4d06b829",
       "headline": "Einschränkung bei der S-Bahn Dresden",
       "newsType": "Personalengpässe",
@@ -275,6 +303,30 @@
       "lastModified": "27.12.2022 10:50",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "83abfb9a-99bf-4865-bccd-f534616e3c97",
+      "headline": "Streckensperrung zwischen Wunstorf und Hannover Hbf",
+      "newsType": "Polizeieinsatz",
+      "timePeriod": "Bis vsl. 25. Januar 2023 11:00 Uhr",
+      "introText": "<p>Aufgrund eines Polizeinsatzes an der Strecke ist die Strecke zwischen Wunstorf und Hannover Hbf gesperrt.</p>\n",
+      "connectionsHeadline": "Betroffene Linien: ",
+      "connections": [
+        "RE 1 (Hannover Hbf - Bremen Hbf - Norddeich Mole): Die Züge aus/in Richtung Bremen Hbf enden/beginnen vorzeitig in Nienburg(Weser).",
+        "RE 8 (Hannover Hbf - Bremen Hbf - Bremerhaven-Lehe): Die Züge aus/in Richtung Bremen Hbf enden/beginnen vorzeitig in Nienburg(Weser)."
+      ],
+      "closingText": "<p>Busnotverkehr ist ab ca. 08:55 Uhr mit einem Bus zwischen Nienburg(Weser) und Wunstorf im Pendel eingerichtet.</p>\n\n<p>Alternative Reisem&ouml;glichkeit: Nutzen Sie bitte die Z&uuml;ge der Westfalenbahn zwischen Wunstorf und Haste bzw. die Z&uuml;ge der S-Bahn Hannover zwischen Haste und Hannover Hbf.</p>\n\n<p>Es kommt zu einer Reisezeitverl&auml;ngerung von bis zu 120 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">bahn.de/reiseauskunft,</a> in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a> oder beim regionalen Kundendialog unter <a href=\"tel:0511 45901645\">0511 45901645</a>.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf <a href=\"https://twitter.com/dbregio_NDS\" target=\"_blank\">Twitter.</a></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" target=\"_blank\">bahn.de/fahrgastrecht</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "hb",
+        "ni"
+      ],
+      "lastModified": "25.01.2023 09:20",
+      "expand": false,
       "priorityValue": 102
     },
     {
