@@ -310,6 +310,38 @@
       "priorityValue": 101
     },
     {
+      "id": "5592a7e8-6682-4cfb-a5ef-0de632680d64",
+      "headline": "Baubedingte Fahrplanänderungen auf den Linien S 8 / S 2",
+      "newsType": "Bauarbeiten",
+      "timePeriod": "von Samstag, 28. Januar bis Freitag, 21. April, jeweils ganztägig",
+      "introText": "<p>Ausfall Wolfen (Bitterfeld) &lt;&gt; Dessau Hbf sowie Schienenersatzverkehr Bitterfeld/Wolfen (Bitterfeld) &lt;&gt; Dessau Hbf</p>\n\n<p>Die S-Bahnen der Linien S 2 (Leipzig-St&ouml;tteritz &ndash; Dessau/Lutherstadt Wittenberg) sowie S 8 (Halle (Saale) Hbf &ndash; Dessau/Lutherstadt Wittenberg) fallen zwischen Wolfen (Bitterfeld) und Dessau Hbf aus und werden durch Busse ersetzt. Dabei verkehren Busse mit allen Unterwegshalten sowie Express-Busse ohne Zwischenhalte. In den Nacht- und fr&uuml;hen Morgenstunden fahren einzelne Busse zwischen Bitterfeld und Dessau Hbf. Beachten Sie die vom S-Bahn-Verkehr abweichenden Fahrzeiten der Busse.</p>\n",
+      "connections": [
+        "S 2 Leipzig Stötteritz - Dessau / Lutherstadt Wittenberg",
+        "S 8 Halle (Saale) Hbf - Dessau / Lutherstadt Wittenberg"
+      ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:bfa63318-156d-437a-92f0-caacd6f3011c/S%208%20SEV---28.01.-21.04.23.pdf",
+            "title": "Fahrplan SEV S 8 / S 2 (PDF, 874 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Hinweis: Beachten Sie das ein bahnsteiggleicher Umstieg in Bitterfeld nicht m&ouml;glich ist.<br />\nHinweise</p>\n\n<p>Bitte beachten Sie, dass die Haltestellen des Schienenersatzverkehrs nicht immer direkt an den jeweiligen Bahnh&ouml;fen liegen. Die Mitnahme von Fahrr&auml;dern, Kinderwagen, mobilit&auml;tseingeschr&auml;nkten Personen und Gruppenreisenden ist in den Bussen nur begrenzt m&ouml;glich.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "st"
+      ],
+      "lastModified": "27.01.2023 16:05",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "40a40c28-c991-433c-8880-7f33c76578e6",
       "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
       "newsType": "Personalengpässe",
