@@ -537,6 +537,39 @@
       "priorityValue": 101
     },
     {
+      "id": "91ddc376-1b22-445b-991d-536199bdb05f",
+      "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
+      "newsType": "Kurzfristige Personalausfälle bei der Französischen Bahn (SNCF)",
+      "timePeriod": "Von Samstag, 28.01. 14:00 Uhr bis Sonntag, 29.01. 14:00",
+      "introText": "<p>Es findet im o.g. Zeitraum zwischen Mulhouse Ville und M&uuml;llheim(Baden) kein Zugverkehr statt.</p>\n\n<p>Die SNCF hat zwischen M&uuml;llheim(Baden) und Mulhouse Ville einen Schienenersatzverkehr mit Bus eingerichtet.</p>\n\n<p>Genauere Informationen entnehmen Sie bitte dem Ersatzfahrplan.</p>\n",
+      "connectionsHeadline": "Betroffener Streckenabschnitt:",
+      "connections": [
+        "RB28 Müllheim(Baden) - Mulhouse Ville"
+      ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:d0f2a8a8-8d86-4e88-a55b-b7e341dbdb35/Ersatzfahrplan%20Mulhouse%20M%C3%BCllheim%2028%20und%2029.%20Januar.pdf",
+            "title": "Ersatzfahrplan 28. und 29. Januar 2023 (PDF, 1 MB)",
+            "info": "Ersatzfahrplan 28. und 29. Januar 2023",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung&nbsp;mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "28.01.2023 06:16",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "9bb93036-5967-42dc-b9c2-ce17ed7a4813",
       "headline": "Reduziertes Fahrplanangebot auf der Ammertalbahn zwischen Tübingen und Entringen",
       "newsType": "Reparatur an der Strecke",
