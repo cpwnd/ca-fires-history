@@ -475,15 +475,16 @@
     },
     {
       "id": "883ee39d-cd07-4f63-8f57-c593d7b149af",
-      "headline": "Kein Zugverkehr zwischen Kaiserslautern und Lauterecken-Grumbach/ Kein Zugverkehr zwischen Freinsheim und Grünstadt",
+      "headline": "Kein Zugverkehr zwischen Kaiserslautern und Lauterecken-Grumbach, sowie zwischen Freinsheim und Grünstadt",
       "newsType": "Erhöhter Krankenstand beim Stellwerkspersonal",
-      "timePeriod": "28.01.2023 bis zum 29.01.2023",
-      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Stellwerkspersonal ist kein Zugbetrieb am Samstag den 28.01.2023 ab 18:00 Uhr zwischen Kaiserslautern und Lauterecken-Grumbach sowie zwischen Freinsheim und Ramsen m&ouml;glich.</p>\n\n<p>Am Sonntag den 29.01.2023 ist im betroffenen Streckenabschnitt ab 18:45 Uhr kein Zugverkehr m&ouml;glich.&nbsp;</p>\n",
-      "connectionsHeadline": "RB66 Kaiserslautern - Lauterecken-Grumbach",
+      "timePeriod": "29.01.2023 ab 18:45 Uhr",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes beim Stellwerkspersonal ist kein Zugbetrieb am Sonntag den 29.01.2023 ab 18:45 Uhr zwischen Kaiserslautern und Lauterecken-Grumbach, sowie zwischen Freinsheim und Ramsen m&ouml;glich.</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
       "connections": [
-        "RB46 Frankenthal - Freinsheim - Grünstadt"
+        "RB46 Frankenthal - Freinsheim - Grünstadt",
+        "RB66 Kaiserslautern - Lauterecken-Grumbach"
       ],
-      "closingText": "<p>F&uuml;r die ausfallenden Z&uuml;ge haben wir&nbsp;f&uuml;r Sie einen Busnotverkehr mit jeweils einen Bus der Fa. City Bus Mobil zwischen Kaiserslautern Hbf und Lauterecken-Grumbach, sowie zwischen Freinsheim und Ramsen eingerichtet, der alle Unterwegshalte anf&auml;hrt.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und nicht immer unmittelbar am Bahnhof halten k&ouml;nnen. Aus Kapazit&auml;tsgr&uuml;nden ist eine Fahrradmitnahme nicht m&ouml;glich.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "closingText": "<p>Wir haben f&uuml;r Sie einen<strong> Busnotverkehr mit jeweils einem Bus der Fa. City Bus Mobil zwischen Kaiserslautern Hbf und Lauterecken-Grumbach, sowie zwischen Freinsheim und Ramsen</strong> eingerichtet, der alle Unterwegshalte anf&auml;hrt.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und nicht immer unmittelbar am Bahnhof halten k&ouml;nnen. Aus Kapazit&auml;tsgr&uuml;nden ist eine Fahrradmitnahme nicht m&ouml;glich.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -491,7 +492,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "28.01.2023 15:07",
+      "lastModified": "29.01.2023 06:44",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
@@ -557,39 +558,6 @@
       "priorityValue": 101
     },
     {
-      "id": "91ddc376-1b22-445b-991d-536199bdb05f",
-      "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
-      "newsType": "Kurzfristige Personalausfälle bei der Französischen Bahn (SNCF)",
-      "timePeriod": "Von Samstag, 28.01. 14:00 Uhr bis Sonntag, 29.01. 14:00",
-      "introText": "<p>Es findet im o.g. Zeitraum zwischen Mulhouse Ville und M&uuml;llheim(Baden) kein Zugverkehr statt.</p>\n\n<p>Die SNCF hat zwischen M&uuml;llheim(Baden) und Mulhouse Ville einen Schienenersatzverkehr mit Bus eingerichtet.</p>\n\n<p>Genauere Informationen entnehmen Sie bitte dem Ersatzfahrplan.</p>\n",
-      "connectionsHeadline": "Betroffener Streckenabschnitt:",
-      "connections": [
-        "RB28 Müllheim(Baden) - Mulhouse Ville"
-      ],
-      "download": {
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:d0f2a8a8-8d86-4e88-a55b-b7e341dbdb35/Ersatzfahrplan%20Mulhouse%20M%C3%BCllheim%2028%20und%2029.%20Januar.pdf",
-            "title": "Ersatzfahrplan 28. und 29. Januar 2023 (PDF, 1 MB)",
-            "info": "Ersatzfahrplan 28. und 29. Januar 2023",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung&nbsp;mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "28.01.2023 06:16",
-      "author": "baden_wuerttemberg",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
       "id": "9bb93036-5967-42dc-b9c2-ce17ed7a4813",
       "headline": "Reduziertes Fahrplanangebot auf der Ammertalbahn zwischen Tübingen und Entringen",
       "newsType": "Reparatur an der Strecke",
@@ -606,6 +574,28 @@
         "bw"
       ],
       "lastModified": "05.01.2023 09:17",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "b749469d-aaf8-432a-928c-f1958ec22c67",
+      "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
+      "newsType": "Kurzfristige Personalausfälle wegen Streik bei der französischen Bahn (SNCF)",
+      "timePeriod": "Am Dienstag, 31. Januar 2023",
+      "connectionsHeadline": "Betroffener Streckenabschnitt:",
+      "connections": [
+        "RB28 Müllheim(Baden) - Mulhouse Ville"
+      ],
+      "closingText": "<p>Am 31. Januar 2023 findet zwischen Mulhouse Ville und M&uuml;llheim(Baden) kein Zugverkehr der Linie RB28 statt. Grund: Streik bei der Franz&ouml;sischen Bahn (SNCF).</p>\n\n<p>Aktuell kann kein Schienenersatzverkehr eingerichtet werden.</p>\n\n<p>Weichen Sie zwischen M&uuml;llheim(Baden) und Neuenburg(Baden) auch auf die Z&uuml;ge der Linie RB27 aus. Bitte pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung&nbsp;mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "29.01.2023 20:43",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
