@@ -130,6 +130,29 @@
       "priorityValue": 201
     },
     {
+      "id": "123824b3-3da4-4251-b4d3-c3be2d4e1e10",
+      "headline": "Beeinträchtigung zwischen Koblenz und Bonn-Beuel",
+      "newsType": "Reparatur an der Weiche",
+      "timePeriod": "Heute, 03.02.2023 bis zum Tagesende",
+      "introText": "<p>Aufgrund einer Reparatur an der Weiche zwischen Koblenz und Bonn-Beuel kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Einzelne Z&uuml;ge aus Koblenz in Richtung K&ouml;ln werden umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten. Der Halt K&ouml;ln Messe/Deutz kann entfallen.</p>\n\n<p>Betroffen sind nur Z&uuml;ge die &uuml;ber die rechte Reihnseite verkehren.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle ICE, IC/EC Züge zwischen Koblenz - Bonn-Beuel - Köln"
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Nutzen Sie bitte zwischen K&ouml;ln Messe/Deutz und K&ouml;ln Hbf den &ouml;ffentlichen Nahverkehr. Die Fahrzeit betr&auml;gt etwa 5 Minuten.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "03.02.2023 11:46",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
       "id": "d2045264-57c2-4eea-bc41-1be49bfc3139",
       "headline": "Kulanz für bereits gebuchte Fahrkarten im internationalen Fernverkehr zwischen Deutschland und Frankreich",
       "newsType": "Streikauswirkungen",
@@ -607,6 +630,31 @@
       ],
       "lastModified": "16.01.2023 14:19",
       "author": "suedost",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "a70275d3-61cd-42c6-ab5e-010e274dc995",
+      "headline": "Beeinträchtigung im Zugverkehr zwischen Hamburg-Rahlstedt und Hamburg-Wandsbek",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "bis vsl. Freitag, 03.02.2023, 16:00 Uhr",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung im Raum Hamburg-Rahlstedt ist derzeit kein Bahnverkehr zwischen Hamburg-Wandsbek und Ahrensburg bis voraussichtlich ca. 16:00 Uhr m&ouml;glich. Hierdurch kommt es zu Versp&auml;tungen und Teilausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "RE 8 (Hamburg Hbf - Bargteheide - Bad Oldesloe - Lübeck)",
+        "RE 80 (Hamburg Hbf - Bargteheide - Bad Oldesloe - Lübeck)",
+        "RB 81 (Hamburg Hbf - Bargteheide - Bad Oldesloe)"
+      ],
+      "closingText": "<p>Alternative Reisem&ouml;glichkeiten: Reisende nutzen bitte ab Ahrensburg die U-Bahn, ein Pendelverkehr zwischen Bahnhof Ahrensburg und der U-Bahn-Haltestelle ist eingerichtet. Nutzen Sie bitte auch die Reisem&ouml;glichkeiten &uuml;ber B&uuml;chen.</p>\n\n<p>Durch die Sperrung kommt es zu einer Reisezeitverl&auml;ngerung von bis zu 60 Minuten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <u><a href=\"https://reiseauskunft.bahn.de/\" target=\"_blank\">bahn.de/reiseauskunft</a></u>, in der <u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator-App</a></u> oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf <u><a href=\"https://twitter.com/DBRegio_SH\" target=\"_blank\">Twitter</a></u>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sh"
+      ],
+      "lastModified": "03.02.2023 12:00",
+      "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 101
     },
