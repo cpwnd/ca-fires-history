@@ -25,6 +25,29 @@
       "priorityValue": 305
     },
     {
+      "id": "9a622786-5c44-4c7b-acbe-fc9df7750e13",
+      "headline": "Beeinträchtigungen im Raum Hannover",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "vsl. bis Montagmorgen, 06.02.2023",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung im Raum Hannover kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Dadurch erhalten die Z&uuml;ge eine Versp&auml;tung von etwa 20 Minuten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "alle IC-/ICE- und NJ-Züge mit Halt in Hannover Hbf"
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "ni"
+      ],
+      "lastModified": "03.02.2023 03:56",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 301
+    },
+    {
       "id": "36ac4da6-f111-443a-82b7-6a5b64936d2a",
       "headline": "Verspätungen zwischen Frankfurt(Main) und Mannheim",
       "newsType": "Bauarbeiten",
@@ -694,27 +717,6 @@
       "lastModified": "22.06.2022 15:45",
       "author": "bayern",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "b7da65d0-f612-481c-a762-3a588fb47943",
-      "headline": "Beeinträchtigungen zwischen Stuttgart Hbf und Herrenberg (Gäubahn)",
-      "newsType": "Weichenstörung",
-      "timePeriod": "Störungsbehebung in der Nacht 2./3. Februar ",
-      "connectionsHeadline": "Betroffene Strecke:",
-      "connections": [
-        "RE/RB14 Stuttgart Hbf - Horb(Neckar) / Freudenstadt"
-      ],
-      "closingText": "<p>Beeintr&auml;chtigungen durch eine Reparatur an der Strecke im Raum Stuttgart. Die Z&uuml;ge von Horb Richtung Stuttgart fahren auf dem betroffenen Abschnitt langsamer und halten zus&auml;tzlich in Stuttgart-Vaihingen. Z&uuml;ge von Stuttgart in Richtung Horb fahren eine Umleitung. Dadurch kommt es zu Versp&auml;tungen und vereinzelten Teilausf&auml;llen.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "02.02.2023 13:56",
-      "expand": false,
       "priorityValue": 101
     },
     {
