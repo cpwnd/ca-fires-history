@@ -2,13 +2,13 @@
   "news": [
     {
       "id": "13736346-78d9-4082-bba8-95dcc0803d91",
-      "headline": "Beeinträchtigungen zwischen Hamburg und Büchen",
-      "newsType": "Weichenstörung",
-      "timePeriod": "Montag, 06.02.2023 bis in die Abendstunden",
-      "introText": "<p>Aufgrund einer Weichenst&ouml;rung zwischen Hamburg und B&uuml;chen kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Da der betroffene Streckenabschnitt nur eingleisig befahrbar ist, versp&auml;ten sich die Z&uuml;ge um etwa 20 Minuten.</p>\n",
+      "headline": "Beeinträchtigungen zwischen Hamburg und Berlin bzw. Schwerin",
+      "newsType": "Reparatur an der Weiche",
+      "timePeriod": "Am heutigen Montag, 06.02.2023, vsl. bis in die Abendstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Weiche zwischen Hamburg und B&uuml;chen auf der Strecke von Hamburg nach Berlin bzw. Schwerin kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Da der betroffene Streckenabschnitt nur eingleisig befahrbar ist, versp&auml;ten sich einzelne Z&uuml;ge um etwa 20 Minuten.</p>\n\n<p>Vereinzelt werden Z&uuml;ge zwischen Hamburg und Berlin weitr&auml;umiger umgeleitet und versp&auml;ten sich dann um etwa 40 Minuten.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle ICE/IC/EC - Linien zwischen Hamburg und Büchen"
+        "Alle ICE-/EC- und IC-Züge zwischen Hamburg und Berlin bzw. Schwerin"
       ],
       "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
@@ -16,20 +16,22 @@
         "longDistance"
       ],
       "areas": [
+        "be",
         "br",
-        "hh"
+        "hh",
+        "mv"
       ],
-      "lastModified": "06.02.2023 07:45",
+      "lastModified": "06.02.2023 13:09",
       "author": "fernverkehr_ag",
       "expand": false,
-      "priorityValue": 302
+      "priorityValue": 304
     },
     {
       "id": "035093fa-4238-4b7d-8b75-e2fe53d6a452",
       "headline": "Zugausfälle zwischen Deutschland und Frankreich",
       "newsType": "Streikankündigung",
       "timePeriod": "Ab Montagabend, 06.02.2023 bis vsl. Donnerstagvormittag, 09.02.2023",
-      "introText": "<p>In Frankreich wurden ab Montagabend, 06.02.2023 bis vsl. Donnerstagvormittag, 09.02.2023 weitere Streikma&szlig;nahmen angek&uuml;ndigt. Dadurch ist im grenz&uuml;berschreitenden Fernverkehr zwischen Deutschland und Frankreich mit Zugausf&auml;llen zu rechnen. Auch innerhalb Frankreichs wird der Bahnverkehr im Zeitraum des Streiks zum Erliegen kommen.</p>\n\n<p><strong>Folgende Abweichungen werden notwendig:</strong></p>\n\n<p><strong>Montag, 06.02.2023</strong></p>\n\n<p>ICE 9550 f&auml;llt aus.<br />\nTGV 9577 verkehrt nur zwischen Paris und Stuttgart.<br />\nNJ 468 Wien - Paris f&auml;llt in der Nacht vom 06. auf den 07.02.2023 aus.</p>\n\n<p><strong>Dienstag, 07.02.2023</strong></p>\n\n<p>ICE 9563, ICE 9568, ICE 9571, ICE 9572, ICE 9573 und ICE 9574 fallen aus.<br />\nTGV 9551, TGV 9552, TGV 9570, TGV 9577, TGV 9580 und TGV 9583 fallen aus.</p>\n\n<p>ICE 9550 verkehrt nur zwischen Frankfurt(Main) und Saarbr&uuml;cken.<br />\nICE 9553 verkehrt nur zwischen Saarbr&uuml;cken und Frankfurt(Main).<br />\nICE 9555 verkehrt nur zwischen Saarbr&uuml;cken und Frankfurt(Main).<br />\nICE 9556 verkehrt nur zwischen Frankfurt(Main) und Saarbr&uuml;cken.<br />\nICE 9557 verkehrt nur zwischen Saarbr&uuml;cken und Frankfurt(Main).<br />\nICE 9558 verkehrt nur zwischen Frankfurt(Main) und Saarbr&uuml;cken.</p>\n\n<p>TGV 9575 verkehrt als Ersatzzug TGV 69075 nur zwischen Paris-Est und Stuttgart Hbf.<br />\nTGV 9576 verkehrt als Ersatzzug TGV 69076 nur zwischen Stuttgart Hbf und Paris-Est.<br />\n<br />\nNJ 469 Paris - Wien f&auml;llt in der Nacht vom 07. auf den 08.02.2023 aus.</p>\n\n<p><strong>Alle nicht genannten Zugnummern verkehren auf ihrem geplanten Laufweg.</strong></p>\n",
+      "introText": "<p>In Frankreich wurden ab Montagabend, 06.02.2023 bis vsl. Donnerstagvormittag, 09.02.2023 weitere Streikma&szlig;nahmen angek&uuml;ndigt. Dadurch ist im grenz&uuml;berschreitenden Fernverkehr zwischen Deutschland und Frankreich mit Zugausf&auml;llen zu rechnen. Auch innerhalb Frankreichs wird der Bahnverkehr im Zeitraum des Streiks zum Erliegen kommen.</p>\n\n<p><strong>Folgende Abweichungen werden notwendig:</strong></p>\n\n<p><strong>Montag, 06.02.2023</strong></p>\n\n<p>ICE 9550 f&auml;llt aus.<br />\nTGV 9577 verkehrt nur zwischen Paris und Stuttgart.<br />\nNJ 468 Wien - Paris f&auml;llt in der Nacht vom 06. auf den 07.02.2023 aus.</p>\n\n<p><strong>Dienstag, 07.02.2023</strong></p>\n\n<p>ICE 9563, ICE 9568, ICE 9571, ICE 9572, ICE 9573 und ICE 9574 fallen aus.<br />\nTGV 9551, TGV 9552, TGV 9570, TGV 9577, TGV 9580 und TGV 9583 fallen aus.</p>\n\n<p>ICE 9550 verkehrt nur zwischen Frankfurt(Main) und Saarbr&uuml;cken.<br />\nICE 9553 verkehrt nur zwischen Saarbr&uuml;cken und Frankfurt(Main).<br />\nICE 9555 verkehrt nur zwischen Saarbr&uuml;cken und Frankfurt(Main).<br />\nICE 9556 verkehrt nur zwischen Frankfurt(Main) und Saarbr&uuml;cken.<br />\nICE 9557 verkehrt nur zwischen Saarbr&uuml;cken und Frankfurt(Main).<br />\nICE 9558 verkehrt nur zwischen Frankfurt(Main) und Saarbr&uuml;cken.</p>\n\n<p>TGV 9575 verkehrt von Paris bis Stuttgart. Zwischen Karlsruhe und Stuttgart verkehrt der Zug unter der Zugnummer TGV 69075.<br />\nTGV 9576 verkehrt nur zwischen Stuttgart Hbf und Paris. Zwischen Stuttgart und Karlsruhe verkehrt der Zug unter der Zugnummer TGV 69076.<br />\n<br />\nNJ 469 Paris - Wien f&auml;llt in der Nacht vom 07. auf den 08.02.2023 aus.</p>\n\n<p><strong>Alle nicht genannten Zugnummern verkehren auf ihrem geplanten Laufweg.</strong></p>\n",
       "connections": [],
       "closingText": "<p><strong>G&uuml;ltigkeit bereits gebuchter Tickets f&uuml;r den 07. und 08.02.2023:</strong></p>\n\n<p>Alle Fahrg&auml;ste, die ihre f&uuml;r den 07. oder 08.02.2023 geplante Reise aufgrund des angek&uuml;ndigten Generalstreiks in Frankreich verschieben m&ouml;chten, k&ouml;nnen ihre bis einschlie&szlig;lich 02.02.2023 gebuchte Fahrkarte f&uuml;r die Hochgeschwindigkeitsz&uuml;ge nach Frankreich im DB Reisezentrum oder bei einer DB Agentur bis einschlie&szlig;lich 10.02.2023 kostenfrei umbuchen lassen.&nbsp;</p>\n\n<p>Dazu ben&ouml;tigen Sie eine neue Sitzplatzreservierung, die Sie gegen Vorlage Ihres am 07. oder 08.02.2023 g&uuml;ltigen Tickets in jedem DB Reisezentrum bzw. bei jeder DB Agentur kostenfrei erhalten. Zudem gelten bei Versp&auml;tung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter&nbsp;<a href=\"https://www.bahn.de/service/buchung/fahrgastrechte\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "1",
@@ -43,7 +45,7 @@
         "rp",
         "sl"
       ],
-      "lastModified": "06.02.2023 10:51",
+      "lastModified": "06.02.2023 13:21",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 205
@@ -257,13 +259,24 @@
       "priorityValue": 102
     },
     {
-      "id": "4743f8f7-e04d-4e2f-a1f3-5125ba66c4b8",
+      "id": "07fcbf6c-220f-40b8-963f-58ca4e13c2af",
       "headline": "Bombenentschärfung in Cottbus am Dienstag, den 7. Februar - Halt- und Teilausfälle im Raum Cottbus auf mehreren Linien",
       "newsType": "Bombenentschärfung",
       "timePeriod": "7. Februar 2023, ca. 11 bis 17 Uhr",
-      "introText": "<p><strong>Alle Informationen sind vorbehaltlich der offiziellen Bekanntgaben durch das Ordnungsamtes zu betrachten!</strong></p>\n\n<p>In Cottbus wurde an einer Baustelle in der Vetschauer Stra&szlig;e eine Weltkriegsbombe gefunden. Eine Entsch&auml;rfung oder Sprengung ist nur vor Ort durchf&uuml;hrbar.</p>\n\n<p><strong>Der gesamte Bahnhof Cottbus Hbf muss gesperrt werden.</strong></p>\n\n<p>Die geplante Evakuierung, Entsch&auml;rfung und ggf. Sprengung soll &nbsp;am Dienstag, den 07.02.2023 in der Zeit von 12-16 Uhr stattfinden.</p>\n\n<p>Derzeit wird&nbsp;ein Verkehrskonzept f&uuml;r den Zeitraum von 11:30 Uhr bis 17:00 Uhr geplant.&nbsp;</p>\n\n<p><strong>Folgende Linien von DB Regio Nordost werden von Halt- und Teilausf&auml;llen im Raum Cottbus&nbsp; betroffen sein:</strong><br />\n- RE2 Cottbus - Berlin - Nauen<br />\n- RE10 Frankfurt (Oder) - Cottbus - Leipzig<br />\n- RE13 Cottbus - Elsterwerda<br />\n- RE18 Cottbus - Dresden<br />\n- RB43 Frankfurt (Oder) - Cottbus - Falkenberg<br />\n- RB49 Cottbus - Falkenberg<br />\n- RB92 Cottbus - Zielona Gora</p>\n\n<p>Diese Meldung wird nach Vorliegen konkreterer Informationen von Ordnungsamt und Bundespolizei aktualisiert.</p>\n",
-      "connections": [],
-      "closingText": "<p><strong>Bitte beachten</strong>: Aufgrund der Kurzfristigkeit sind die Online-Ausk&uuml;nfte noch nicht aktuell.&nbsp;</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Fahrtm&ouml;glichkeiten in der Reiseauskunft unter&nbsp;<a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>&nbsp;und VBB.de sowie in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>,&nbsp;im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;und in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "introText": "<p><strong>Alle Informationen sind vorbehaltlich der offiziellen Bekanntgaben durch das Ordnungsamtes zu betrachten!</strong></p>\n\n<p>In Cottbus wurde an einer Baustelle in der Vetschauer Stra&szlig;e eine Weltkriegsbombe gefunden. Eine Entsch&auml;rfung oder Sprengung ist nur vor Ort durchf&uuml;hrbar.</p>\n\n<p><strong>Der gesamte Bahnhof Cottbus Hbf muss gesperrt werden.</strong></p>\n\n<p>Die geplante Evakuierung, Entsch&auml;rfung und ggf. Sprengung soll &nbsp;am Dienstag, den 07.02.2023 in der Zeit von 12-16 Uhr stattfinden. Das ge&auml;nderte Verkehrskonzept wird den Zeitraum von 11:30 Uhr bis 17:00 Uhr umfassen.</p>\n",
+      "connectionsHeadline": "Folgende Linien von DB Regio Nordost sind von Halt- und Teilausfällen im Raum Cottbus  betroffen:",
+      "connections": [
+        "RE2 Cottbus - Berlin",
+        "RE10 Frankfurt (Oder) - Cottbus - Leipzig",
+        "RE13 Cottbus - Elsterwerda",
+        " RE18 Cottbus - Dresden",
+        "RB43 Frankfurt (Oder) - Cottbus - Falkenberg",
+        "RB49 Cottbus - Falkenberg"
+      ],
+      "download": {
+        "text": "<p><strong>RE2 Cottbus - Berlin - Nauen:&nbsp;</strong>f&auml;llt derzeit planm&auml;&szlig;ig zwischen L&uuml;bbenau/Vetschau und Cottbus aus (siehe Verkehrsmeldung zur RE2)<br />\n<br />\n<strong>RE10 Frankfurt (Oder) - Cottbus - Leipzig:&nbsp;</strong>Ausfall zwischen Peitz Ost und Calau<br />\nbetroffene Z&uuml;ge:</p>\n\n<p>RE18389 Abfahrt Frankfurt (Oder) 11.36 Uhr<br />\nRE18391 Abfahrt Frankfurt (Oder) 13.36 Uhr&nbsp;<br />\nRE18393 Abfahrt Frankfurt (Oder) 15.36 Uhr&nbsp;<br />\n<br />\nRE18386 Abfahrt Leipzig Hbf 11.12 Uhr&nbsp;<br />\nRE18388 Abfahrt Leipzig Hbf 13.12 Uhr&nbsp;<br />\nRE18390 Abfahrt Leipzig Hbf 15.12 Uhr<br />\n<br />\n<strong>RE13 Cottbus - Elsterwerda: beginnt und endet in Drebkau,&nbsp;</strong>Ausfall zwischen Cottbus und Drebkau<br />\nbetroffene Z&uuml;ge:<br />\nRE18062 Ankunft Drebkau 11.52 Uhr<br />\nRE18064 Ankunft Drebkau 12.52 Uhr<br />\nRE18066 Ankunft Drebkau 13.52 Uhr<br />\nRE18068 Ankunft Drebkau 14.52 Uhr<br />\nRE18072 Ankunft Drebkau 16.52 Uhr<br />\n<br />\nRE18065 Abfahrt Drebkau 13.02 Uhr<br />\nRE18067 Abfahrt Drebkau 14.02 Uhr<br />\nRE18069 Abfahrt Drebkau 15.02 Uhr<br />\nRE18071 Abfahrt Drebkau 16.02 Uhr<br />\nRE18073 Abfahrt Drebkau 17.02 Uhr<br />\nRE18075 Abfahrt Drebkau 18.02 Uhr</p>\n\n<p><br />\n<strong>RE18 Cottbus - Dresden:&nbsp;</strong>Ausfall zwischen Cottbus und Drebkau<br />\nbetroffene Z&uuml;ge:</p>\n\n<p>RE18408 Ankunft Drebkau 11.27 Uhr<br />\nRE18410 Ankunft Drebkau 13.27 Uhr<br />\nRE18412 Ankunft Drebkau 15.27 Uhr<br />\nRE18414 Ankunft Drebkau 17.27 Uhr<br />\n<br />\nRE18409 Abfahrt Drebkau 12.28 Uhr<br />\nRE18411 Abfahrt Drebkau 14.26 Uhr<br />\nRE18413 Abfahrt Drebkau 16.26 Uhr​​​​​​​<br />\nRE18415 Abfahrt Drebkau 18.26 Uhr</p>\n\n<p><br />\n<strong>RB43 Frankfurt (Oder) - Cottbus - Falkenberg:&nbsp;</strong>Ausfall zwischen Peitz Ost und Calau<br />\nbetroffene Z&uuml;ge:<br />\nRB18187 Abfahrt Frankfurt (Oder) 10.36 Uhr<br />\nRB18189&nbsp;Abfahrt Frankfurt (Oder) 12.36 Uhr<br />\nRB18191&nbsp;Abfahrt Frankfurt (Oder) 14.36 Uhr<br />\n<br />\nRB18696 beginnt Peitz Ost 12.20 Uhr<br />\nRB18190 Abfahrt Falkenberg (Elster) 12.55 Uhr<br />\nRB18192 Abfahrt Falkenberg (Elster) 14.55 Uhr<br />\n<br />\n<strong>RB49 Cottbus - Falkenberg:&nbsp;</strong>Ausfall zwischen Cottbus und Drebkau<br />\nbetroffene Z&uuml;ge:<br />\nRB18430 Ankunft Drebkau 12.28 Uhr<br />\nRB18432 Ankunft Drebkau 14.28 Uhr<br />\nRB18434 Ankunft Drebkau 16.28 Uhr<br />\n<br />\nRB18431 Abfahrt Drebkau 13.28 Uhr<br />\nRB18433 Abfahrt Drebkau 15.26 Uhr<br />\nRB18435 Abfahrt Drebkau 17.26 Uhr</p>\n\n<p><strong>Ein Busnotverkehr wird eingerichtet. Die Busse halten in</strong><br />\n- Peitz Ost: Bahnhofsvorplatz<br />\n- Teichland:&nbsp;Bahnhofsvorplatz<br />\n- Cottbus-Willmersdorf: Hst. Willmersdorf M&ouml;beldorf<br />\n​​​​​​​- Cottbus-Merzdorf: Hst. Drewitzer Stra&szlig;e<br />\n- Cottbus-Sandow: Parkplatz Parkeisenbahn<br />\n- Cottbus Hbf: Busbahnhof (Position 9) bzw. Hst. Spreewaldbahnhof<br />\n- Kolkwitz S&uuml;d: Hst Rathaus<br />\n- Calau:&nbsp;Bahnhofsvorplatz<br />\n- Drebkau:&nbsp;Bahnhofsvorplatz<br />\n- Leuthen:&nbsp;Bahnhofsvorplatz Schule</p>\n\n<p>Diese Meldung wird nach Vorliegen konkreterer Informationen von Ordnungsamt und Bundespolizei weiter aktualisiert.</p>\n"
+      },
+      "closingText": "<p><strong>Bitte beachten</strong>: Aufgrund der Kurzfristigkeit sind die Online-Ausk&uuml;nfte derzeit noch nicht aktuell, wir arbeiten daran.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Fahrtm&ouml;glichkeiten in der Reiseauskunft unter&nbsp;<a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>&nbsp;und VBB.de sowie in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>,&nbsp;im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;und in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -272,7 +285,7 @@
         "be",
         "br"
       ],
-      "lastModified": "03.02.2023 09:26",
+      "lastModified": "06.02.2023 13:32",
       "expand": false,
       "priorityValue": 102
     },
