@@ -499,13 +499,14 @@
     },
     {
       "id": "5592a7e8-6682-4cfb-a5ef-0de632680d64",
-      "headline": "Baubedingte Fahrplanänderungen auf den Linien S 8 / S 2",
+      "headline": "Baubedingte Fahrplanänderungen auf den S-Bahn Linien S 2 und S 8",
       "newsType": "Bauarbeiten",
       "timePeriod": "von Samstag, 28. Januar bis Freitag, 21. April, jeweils ganztägig",
-      "introText": "<p>Ausfall Wolfen (Bitterfeld) &lt;&gt; Dessau Hbf sowie Schienenersatzverkehr Bitterfeld/Wolfen (Bitterfeld) &lt;&gt; Dessau Hbf</p>\n\n<p>Die S-Bahnen der Linien S 2 (Leipzig-St&ouml;tteritz &ndash; Dessau/Lutherstadt Wittenberg) sowie S 8 (Halle (Saale) Hbf &ndash; Dessau/Lutherstadt Wittenberg) fallen zwischen Wolfen (Bitterfeld) und Dessau Hbf aus und werden durch Busse ersetzt. Dabei verkehren Busse mit allen Unterwegshalten sowie Express-Busse ohne Zwischenhalte. In den Nacht- und fr&uuml;hen Morgenstunden fahren einzelne Busse zwischen Bitterfeld und Dessau Hbf. Beachten Sie die vom S-Bahn-Verkehr abweichenden Fahrzeiten der Busse.</p>\n",
+      "introText": "<p>Aufgrund von Bauarbeiten zwischen Wolfen (Bitterfeld) und Dessau kommt es zu folgenden Fahrplan&auml;nderungen:</p>\n\n<p>Die S-Bahnen der Linie S 2 sowie der Linie S 8 fallen zwischen Wolfen (Bitterfeld) und Dessau Hbf aus und werden durch Busse ersetzt. Es verkehren Busse mit allen Unterwegshalten sowie Express-Busse ohne Zwischenhalte. In den Nacht- und fr&uuml;hen Morgenstunden fahren einzelne Busse zwischen Bitterfeld und Dessau Hbf. Beachten Sie bitte die vom S-Bahn-Verkehr abweichenden Fahrzeiten der Busse.</p>\n",
+      "connectionsHeadline": "Betroffene Linien ",
       "connections": [
-        "S 2 Leipzig Stötteritz - Dessau / Lutherstadt Wittenberg",
-        "S 8 Halle (Saale) Hbf - Dessau / Lutherstadt Wittenberg"
+        "S 2 Leipzig-Stötteritz – Leipzig – Bitterfeld – Dessau Hbf/Lutherstadt Wittenberg Hbf",
+        "S 8 Halle – Bitterfeld – Dessau Hbf/Lutherstadt Wittenberg Hbf"
       ],
       "download": {
         "linkDataList": [
@@ -517,7 +518,7 @@
           }
         ]
       },
-      "closingText": "<p>Hinweis: Beachten Sie das ein bahnsteiggleicher Umstieg in Bitterfeld nicht m&ouml;glich ist.<br />\nHinweise</p>\n\n<p>Bitte beachten Sie, dass die Haltestellen des Schienenersatzverkehrs nicht immer direkt an den jeweiligen Bahnh&ouml;fen liegen. Die Mitnahme von Fahrr&auml;dern, Kinderwagen, mobilit&auml;tseingeschr&auml;nkten Personen und Gruppenreisenden ist in den Bussen nur begrenzt m&ouml;glich.</p>\n",
+      "closingText": "<p><u>Hinweise</u>: Bitte beachten Sie, dass ein bahnsteiggleicher Umstieg in Bitterfeld nicht m&ouml;glich ist. Zudem beachten Sie bitte, dass die Haltestellen des Schienenersatzverkehrs nicht immer direkt an den jeweiligen Bahnh&ouml;fen liegen. Die Mitnahme von Fahrr&auml;dern, Kinderwagen, mobilit&auml;tseingeschr&auml;nkten Personen und Gruppenreisenden ist in den Bussen nur begrenzt m&ouml;glich.</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren. Die Angebotsver&auml;nderungen sind bereits in der elektronischen Reiseauskunft eingearbeitet.</p>\n\n<p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -525,7 +526,7 @@
       "areas": [
         "st"
       ],
-      "lastModified": "27.01.2023 16:05",
+      "lastModified": "07.02.2023 14:19",
       "expand": false,
       "priorityValue": 101
     },
