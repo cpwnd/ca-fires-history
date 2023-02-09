@@ -405,6 +405,38 @@
       "priorityValue": 101
     },
     {
+      "id": "f7abaee1-c28c-458b-acda-62b8a4d3140b",
+      "headline": "Einschränkungen bei der S-Bahn Dresden Linie S 3",
+      "newsType": "Bauarbeiten ",
+      "timePeriod": "am 10. Februar 2023 ganztägig",
+      "introText": "<p>Aufgrund einer Verz&ouml;gerug bei der Inbetriebnahme des neuen Bahnsteiges in Dresden-Plauen kann diese Verkehrsstation mindestens am 10. Februar 2023 nicht durch die Z&uuml;ge der S-Bahn-Linie S 3 bedient werden.</p>\n",
+      "connectionsHeadline": "Betroffene Linie",
+      "connections": [
+        "S 3 Dresden Hbf - Tharandt - Freiberg (Sachs)"
+      ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:946b5280-4df9-421e-8d04-b4df84673782/Fahrplan%20Schienenersatzverkehr%20S%203%20am%2010.02.23.pdf",
+            "title": "Fahrplan Schienenersatzverkehr S 3 am 10.02.23 (PDF, 584 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>&nbsp;F&uuml;r Sie bestehen folgende alternative Fahrtm&ouml;glichkeiten:</p>\n\n<p>&bull; Schienenerstazverkehr zwischen Dresden Hauotbahnhof und Dresden-Plauen <em>(Fahrzeiten siehe Fahrplantabelle)</em></p>\n\n<p>&bull; Stadtverkehr Linie 160 zwischen Dresden-Plauen (Haltestelle &quot;Altplauen&quot; in der Tharandter Stra&szlig;e) und Freital-Potschappel (Haltestelle &quot;S-Bahnhof Potschappel)</p>\n\n<p>&bull; weiter Stadtverkehrlinien im Stadtgebiet Dresden</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>\n\n<p>Weitere Informationen erhalten Sie auch telefonisch unter 0351 32 3000 11 (zum Ortstarif).</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sn"
+      ],
+      "lastModified": "09.02.2023 18:31",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "97d1d389-ba99-47d1-8f0c-5f4836d5608e",
       "headline": "Einschränkungen bei der S-Bahn Mitteldeutschland Linie S 47",
       "newsType": "Personalengpässe",
