@@ -304,6 +304,30 @@
       "priorityValue": 102
     },
     {
+      "id": "ee85e42b-9fd3-4435-8c8f-fe23e5ff6d13",
+      "headline": "Beeinträchtigungen zwischen Aschaffenburg und Kleinwallstadt",
+      "newsType": "Krankheitsbedingter Personalausfall im Stellwerk",
+      "timePeriod": "am Freitag, den 10. Februar 2023 von 13 Uhr bis 20 Uhr",
+      "introText": "<p>Aufgrund krankheitsbedingter Personalausf&auml;lle im Stellwerk Aschaffenburg kommt es zwischen Aschaffenburg und Kleinwallstadt zu Zugausf&auml;llen.</p>\n\n<p>Zwischen Kleinwallstadt und Aschaffenburg ist zwischen 13 Uhr und 20 Uhr ein Schienenersatzverkehr mit Bussen im Pendelbetrieb eingerichtet.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
+      "connectionsHeadline": "Betroffene Strecken:",
+      "connections": [
+        "RE 87: Aschaffenburg - Wertheim",
+        "RB 88: Aschaffenburg Hbf - Miltenberg"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "by"
+      ],
+      "lastModified": "10.02.2023 12:07",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "aefa1b8f-9226-4572-801d-3ae09a83a2b9",
       "headline": "Vorübergehend reduziertes Fahrplanangebot und teilweise Schienenersatzverkehr bei der Westfrankenbahn",
       "newsType": "Längerfristige Personalausfälle bei der Kahlgrundbahn und Personalnotstand in den Stellwerken der Tauberbahn ",
@@ -376,8 +400,8 @@
       "id": "f7abaee1-c28c-458b-acda-62b8a4d3140b",
       "headline": "Einschränkungen bei der S-Bahn Dresden Linie S 3",
       "newsType": "Bauarbeiten ",
-      "timePeriod": "am 10. Februar 2023 ganztägig",
-      "introText": "<p>Aufgrund einer Verz&ouml;gerung bei der Inbetriebnahme des neuen Bahnsteiges in Dresden-Plauen kann diese Verkehrsstation mindestens am 10. Februar 2023 nicht durch die Z&uuml;ge der S-Bahn-Linie S 3 bedient werden.</p>\n",
+      "timePeriod": "vom 10. bis 13. Februar 2023 ganztägig, sowie in der Nacht 13/14. Februar 2023",
+      "introText": "<p>Aufgrund einer Verz&ouml;gerung bei der Inbetriebnahme des neuen Bahnsteiges in Dresden-Plauen kann diese Verkehrsstation vom 10. Februar 2023 bis 13. Feburar 2023 durch die Z&uuml;ge der S-Bahn-Linie S 3 ganzt&auml;gig nicht bedient werden. Weiterhin kommt es in der Nacht vom 13. Februar 2023 bis 14. Februar 2023 ebenfalls zu Haltausf&auml;llen.</p>\n",
       "connectionsHeadline": "Betroffene Linie",
       "connections": [
         "S 3 Dresden Hbf - Tharandt - Freiberg (Sachs)"
@@ -387,6 +411,12 @@
           {
             "link": "https://assets.static-bahn.de/dam/jcr:946b5280-4df9-421e-8d04-b4df84673782/Fahrplan%20Schienenersatzverkehr%20S%203%20am%2010.02.23.pdf",
             "title": "Fahrplan Schienenersatzverkehr S 3 am 10.02.23 (PDF, 584 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:68134515-1337-4857-8694-6270dd03d560/D.%20Hbf%20-%20D-Plauen%20Haltausfall%2011.-13-02.23.pdf",
+            "title": "Fahrplan Schienenersatzverkehr S 3 vom 11. bis 13.02.23 sowie Nacht 13/14.02.2023 (PDF, 586 KB)",
             "info": "",
             "openInNewTab": false
           }
@@ -400,7 +430,7 @@
       "areas": [
         "sn"
       ],
-      "lastModified": "09.02.2023 19:04",
+      "lastModified": "10.02.2023 12:04",
       "expand": false,
       "priorityValue": 101
     },
