@@ -72,6 +72,26 @@
       "priorityValue": 201
     },
     {
+      "id": "0bf53918-d658-46a7-847c-b046e0722d1c",
+      "headline": " S 5(x) nur stündlich zwischen Leipzig und Halle",
+      "newsType": "Bauarbeiten ",
+      "timePeriod": "vom 20.02. - 02.03.2023, jeweils von 7:30 - 15.15 Uhr",
+      "introText": "<p><strong>Diese InterCity k&ouml;nnen Sie zwischen Halle und Leipzig nutzen:</strong></p>\n\n<p>Ab Halle:</p>\n\n<p>&bull; 7:55 Uhr, 8:55*Uhr, 09:55 Uhr, 10:55*Uhr, 11:55 Uhr, 12:55*Uhr, 13:55 Uhr, 14:55*Uhr</p>\n\n<p>&rarr; Z&uuml;ge mit * halten in Leipzig/Halle Flughafen, Fahrzeit circa 21 Minuten</p>\n\n<p>&nbsp;</p>\n\n<p>Ab Leipzig:</p>\n\n<p>&bull; 7:42 Uhr, 08:38*Uhr, 9:42 Uhr, 10:38*Uhr, 11:42 Uhr, 12:38*Uhr, 13:42 Uhr, 14:38 * Uhr</p>\n\n<p>&rarr; Z&uuml;ge mit * halten in Leipzig/Halle Flughafen, Fahrzeit circa 21 Minuten</p>\n",
+      "connections": [],
+      "closingText": "<p><strong>Betroffene Linie:</strong></p>\n\n<p>S 5</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sn",
+        "st"
+      ],
+      "lastModified": "13.02.2023 20:15",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "40a40c28-c991-433c-8880-7f33c76578e6",
       "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
       "newsType": "Personalengpässe",
@@ -363,14 +383,19 @@
       "headline": "Einschränkungen bei der S-Bahn Dresden Linie S 3",
       "newsType": "Bauarbeiten ",
       "timePeriod": "am 14. Februar 2023 ganztägig",
-      "introText": "<p>Aufgrund einer Verz&ouml;gerung bei der Inbetriebnahme des neuen Bahnsteiges in Dresden-Plauen kann diese Verkehrsstation vom 10. Februar 2023 bis 13. Feburar 2023 durch die Z&uuml;ge der S-Bahn-Linie S 3 ganzt&auml;gig nicht bedient werden. Weiterhin kommt es in der Nacht vom 13. Februar 2023 bis 14. Februar 2023 ebenfalls zu Haltausf&auml;llen.</p>\n",
+      "introText": "<p>Aufgrund einer Verz&ouml;gerung bei der Inbetriebnahme des neuen Bahnsteiges in Dresden-Plauen kann diese Verkehrsstation vom 10. Februar 2023 bis 14. Feburar 2023 durch die Z&uuml;ge der S-Bahn-Linie S 3 ganzt&auml;gig nicht bedient werden.</p>\n",
       "connectionsHeadline": "Betroffene Linie",
       "connections": [
         "S 3 Dresden Hbf - Tharandt - Freiberg (Sachs)"
       ],
       "download": {
         "linkDataList": [
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:bde37fb6-5e3d-4e9c-afbb-e4050f168509/SEV%20Dresden%20Hbf%20-%20Dresden%20Plauen%2014_02_23.pdf",
+            "title": "Fahrplan Schienenersatzverkehr S 3 am 14.02.23 (PDF, 576 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
         ]
       },
       "closingText": "<p>&nbsp;F&uuml;r Sie bestehen folgende alternative Fahrtm&ouml;glichkeiten:</p>\n\n<p>&bull; Schienenersatzverkehr zwischen Dresden Hauptbahnhof und Dresden-Plauen <em>(Fahrzeiten siehe Fahrplantabelle)</em></p>\n\n<p>&bull; Stadtverkehr Linie 160 zwischen Dresden-Plauen (Haltestelle &quot;Altplauen&quot; in der Tharandter Stra&szlig;e) und Freital-Potschappel (Haltestelle &quot;S-Bahnhof Potschappel)</p>\n\n<p>&bull; weitere Stadtverkehrlinien im Stadtgebiet Dresden</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>\n\n<p>Weitere Informationen erhalten Sie auch telefonisch unter 0351 32 3000 11 (zum Ortstarif).</p>\n",
@@ -381,7 +406,8 @@
       "areas": [
         "sn"
       ],
-      "lastModified": "13.02.2023 17:56",
+      "lastModified": "13.02.2023 20:12",
+      "author": "suedost",
       "expand": false,
       "priorityValue": 101
     },
