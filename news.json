@@ -73,11 +73,15 @@
     },
     {
       "id": "0bf53918-d658-46a7-847c-b046e0722d1c",
-      "headline": " S 5(x) nur stündlich zwischen Leipzig und Halle",
+      "headline": "Einschränkungen zwischen Leipzig und Halle",
       "newsType": "Bauarbeiten ",
-      "timePeriod": "20.02. bis 02.03.2023; jeweils von 7:30 bis 15:15 Uhr",
-      "introText": "<p><strong>Diese InterCity (IC) k&ouml;nnen Sie zwischen Halle und Leipzig auch mit Nahverkehrsfahrkarte nutzen</strong></p>\n\n<p>Ab Halle:</p>\n\n<p>&bull; 7:55 Uhr, 8:55*Uhr, 09:55 Uhr, 10:55*Uhr, 11:55 Uhr, 12:55*Uhr, 13:55 Uhr, 14:55*Uhr</p>\n\n<p>&rarr; Fahrzeit nach Leipzig Hbf circa 21 Minuten</p>\n\n<p>&rarr; Z&uuml;ge mit * halten in Leipzig/Halle Flughafen</p>\n\n<p>&nbsp;</p>\n\n<p>Ab Leipzig:</p>\n\n<p>&bull; 7:42 Uhr, 08:38*Uhr, 9:42 Uhr, 10:38*Uhr, 11:42 Uhr, 12:38*Uhr, 13:42 Uhr, 14:38*Uhr</p>\n\n<p>&rarr; Fahrzeit nach Halle Hbf circa 21 Minuten</p>\n\n<p>&rarr; Z&uuml;ge mit * halten in Leipzig/Halle Flughafen</p>\n",
-      "connections": [],
+      "timePeriod": "20. Februar bis 02 März 2023; jeweils von 7:30 bis 15:15 Uhr",
+      "introText": "<p>Aufgrund von Bauarbeiten an der Oberleitung fallen die Z&uuml;ge der S-Bahn-Linie S 5 zwischen Halle (Saale) Hbf und Leipzig/Halle Flughafen aus.</p>\n",
+      "connectionsHeadline": "Betroffene Linie",
+      "connections": [
+        "S 5 - Halle(Saale) Hbf - Leipzig/Halle Flughafen - Leipzig Hbf (tief) - Altenburg - Zwickau(Sachs) Hbf "
+      ],
+      "closingText": "<p>Bitte nutzen Sie ersatzweise die S-Bahnen der Linie S 5X. Zusatzlich sind f&uuml;r Sie die nachstehenden InterCity Z&uuml;ge zur Reise mit Fahrkarten des Nahverkehrs freigegeben:</p>\n\n<p><u>Halle (Saale) Hbf&nbsp;&rarr; Leipzig Hbf</u></p>\n\n<p>IC 2031 Abfahrt 07:55 Uhr&nbsp;<br />\nIC 2447 Abfahrt 08:55 Uhr*<br />\nIC 2033 Abfahrt 09:55 Uhr&nbsp;<br />\nIC 2445 Abfahrt 10:55 Uhr*<br />\nIC 2035 Abfahrt 11:55 Uhr&nbsp;<br />\nIC 2443 Abfahrt 12:55 Uhr*<br />\nIC 2037 Abfahrt 13:55 Uhr<br />\nIC 2441 Abfahrt 14:44 Uhr*</p>\n\n<p><em>(* = Halt in Leipzig/Halle Flughafen)</em></p>\n\n<p><u>Leipzig Hbf&nbsp;&rarr; Halle (Saale) Hbf</u></p>\n\n<p>IC 2238 Abfahrt 07:42 Uhr&nbsp;<br />\nIC 2046 Abfahrt 08:38 Uhr*<br />\nIC 2430 Abfahrt 09:42 Uhr<br />\nIC 2048 Abfahrt 10:38 Uhr*<br />\nIC 2038 Abfahrt 11:42 Uhr<br />\nIC 2440 Abfahrt 12:38 Uhr*<br />\nIC 2036 Abfahrt 13:42 Uhr<br />\nIC 2442 Abfahrt 14:38 Uhr*</p>\n\n<p><em>(* = Halt in Leipzig/Halle Flughafen)</em></p>\n\n<p>Hinweis: Die Fahrzeit auf dem Streckenabschnitt Halle (Saale) Hbf und Leipzig Hbf betr&auml;gt mit den InterCity-Z&uuml;gen ca. 20 - 25 Minuten.</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>\n\n<p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -86,7 +90,7 @@
         "sn",
         "st"
       ],
-      "lastModified": "13.02.2023 20:45",
+      "lastModified": "14.02.2023 09:07",
       "expand": false,
       "priorityValue": 102
     },
