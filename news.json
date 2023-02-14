@@ -53,7 +53,7 @@
       "headline": "Beeinträchtigungen zwischen Rendsburg und Jübek",
       "newsType": "Reparatur an einem Signal",
       "timePeriod": "Dienstag, 14. Februar 2023 bis vsl. 23 Uhr",
-      "introText": "<p>Eine Reparatur an einem Signal zwischen Schleswig und J&uuml;bek beeitr&auml;chtigt den Bahnverkehr. Es kommt zu Versp&auml;tungen und Teilausf&auml;llen in beide Richtungen.</p>\n",
+      "introText": "<p>Eine Reparatur an einem Signal zwischen Schleswig und J&uuml;bek beeintr&auml;chtigt den Bahnverkehr. Es kommt zu Versp&auml;tungen und Teilausf&auml;llen in beide Richtungen.</p>\n",
       "connectionsHeadline": "Betroffene Linien:",
       "connections": [
         "RE 7 (Flensburg – Hamburg Hbf): Züge verkehren mit Verspätungen bis zu 30 Minuten.",
@@ -67,7 +67,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "14.02.2023 19:33",
+      "lastModified": "14.02.2023 20:02",
       "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 201
@@ -390,6 +390,29 @@
       "lastModified": "13.10.2021 08:58",
       "author": "suedostbayernbahn",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "305b2ae9-60a8-420a-b87b-7069674ba232",
+      "headline": "Einschränkungen zwischen Greußen und Sondershausen",
+      "newsType": "Personalengpässe",
+      "timePeriod": "15.02.2023, zwischen 16:30 Uhr und 23:30 Uhr",
+      "introText": "<p>Durch Engp&auml;sse an einsatzbereitem Personal kann das Stellwerk in Wasserthaleben am 15.02.2023 zwischen 16:30 Uhr und 23:30 Uhr nicht besetzt werden.</p>\n\n<p>Es kommt zu Teilausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffene Linien",
+      "connections": [
+        "RE 55 Erfurt Hbf - Straußfurt - Greußen - Sondershausen - Nordhausen",
+        "RE 56 Erfurt Hbf - Straußfurt - Greußen - Sondershausen - Nordhausen"
+      ],
+      "closingText": "<p>Wir organisieren einen Busnotverkehr zwischen Sondershausen und Greu&szlig;en.</p>\n\n<p>&nbsp;</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>\n\n<p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "th"
+      ],
+      "lastModified": "14.02.2023 20:03",
+      "expand": false,
       "priorityValue": 101
     },
     {
