@@ -315,12 +315,22 @@
       "headline": "Beeinträchtigungen zwischen Aschaffenburg und Kleinwallstadt",
       "newsType": "Krankheitsbedingter Personalausfall im Stellwerk",
       "timePeriod": "vom 14. - 17.02. und vom 22. - 24.02. jeweils von 13 Uhr bis 20 Uhr",
-      "introText": "<p>Aufgrund krankheitsbedingter Personalausf&auml;lle im Stellwerk Aschaffenburg kommt es zwischen Aschaffenburg und Kleinwallstadt bei Z&uuml;gen der Linie RE 88 und RE 87 jeweils von 13 Uhr bis 20 Uhr zu Zugausf&auml;llen.</p>\n\n<p>Wir haben zwischen Kleinwallstadt und Aschaffenburg einen Schienenersatzverkehr mit Bussen im Pendelbetrieb zwischen 13 Uhr und 20 Uhr eingerichtet.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
+      "introText": "<p>Aufgrund krankheitsbedingter Personalausf&auml;lle im Stellwerk Aschaffenburg kommt es zwischen Aschaffenburg und Kleinwallstadt bei vier Z&uuml;gen der Linie RE 88 und RE 87 zu Zugausf&auml;llen.&nbsp;</p>\n\n<p>Wir haben zwischen Kleinwallstadt und Aschaffenburg einen Schienenersatzverkehr mit Bussen f&uuml;r die ausfallenden Z&uuml;ge eingerichtet.</p>\n\n<p>Schienenersatzverkehr und Fahrplan finden Sie im Anhang.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
       "connectionsHeadline": "Betroffene Strecken:",
       "connections": [
         "RE 88: Aschaffenburg -  Wertheim",
         "RE 87: Aschaffenburg - Crailsheim"
       ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:cd78d545-33ac-496f-a207-de301a7e4db9/Unterbesetzung%20Stw%20NAH%20-%20Ausf%C3%A4lle%2014.%20-%2024.02.2023.pdf",
+            "title": "Ersatzfahrplan Aschaffenburg - Kleinwallstadt 14.-17. Februar und 22.-24. Februar 2023 (PDF, 205 KB)",
+            "info": "Ersatzfahrplan Aschaffenburg - Kleinwallstadt 14.-17. Februar und 22.-24. Februar 2023",
+            "openInNewTab": true
+          }
+        ]
+      },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
       "priority": "0",
       "distance": [
@@ -330,7 +340,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "13.02.2023 18:33",
+      "lastModified": "14.02.2023 10:33",
       "expand": false,
       "priorityValue": 102
     },
