@@ -74,13 +74,13 @@
     },
     {
       "id": "3b27e1cb-a6e6-40c7-8dc6-b18224234d03",
-      "headline": "Beeinträchtigungen zwischen Passau und Schärnding",
-      "newsType": "Schienenbruch",
-      "timePeriod": "15.02.2023 bis einschl. 17.02.2023 in den Abendstunden",
-      "introText": "<p>Aufgrund von Schienenbruch ist die Strecke zwischen Passau und Sch&auml;rnding derzeit eingleisig befahrbar. Dadurch versp&auml;ten sich einige Z&uuml;ge im Fernverkehr der Deutschen Bahn um einige Minuten.&nbsp;</p>\n",
+      "headline": "Beeinträchtigungen zwischen Passau und Schärding",
+      "newsType": "Reparatur an der Strecke",
+      "timePeriod": "bis vsl. Freitag, 17.02.2023 in die Abendstunden",
+      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Passau und Sch&auml;rding kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Da der betroffene Streckenabschnitt nur eingleisig befahrbar ist, versp&auml;ten sich einzelne Z&uuml;ge um etwa 10 Minuten.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE-Linie Nürnberg - Passau - Wien"
+        "ICE-Züge auf dem Abschnitt Nürnberg - Passau - Wien"
       ],
       "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "1",
@@ -90,7 +90,30 @@
       "areas": [
         "by"
       ],
-      "lastModified": "15.02.2023 09:31",
+      "lastModified": "15.02.2023 12:49",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
+      "id": "2537d983-9372-48e6-8865-08946a7e4f11",
+      "headline": "Beeinträchtigungen zwischen Neumünster und Flensburg",
+      "newsType": "Vandalismusschäden",
+      "timePeriod": "Am Mittwoch, 15.02.2023 bis in die Abendstunden",
+      "introText": "<p>Aufgrund von Vandalismussch&auml;den bei Schleswig kommt es im Fernverkehr der Deutschen Bahn zu Beeintr&auml;chtigungen. Da der betroffene Streckenabschnitt nur eingleisig befahrbar ist, versp&auml;ten sich einzelne Z&uuml;ge um etwa 20 Minuten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle IC-Züge auf dem Abschnitt zwischen Neumünster und Flensburg"
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "sh"
+      ],
+      "lastModified": "15.02.2023 12:58",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
@@ -451,12 +474,6 @@
       "download": {
         "linkDataList": [
           {
-            "link": "https://assets.static-bahn.de/dam/jcr:bde37fb6-5e3d-4e9c-afbb-e4050f168509/SEV%20Dresden%20Hbf%20-%20Dresden%20Plauen%2014_02_23.pdf",
-            "title": "Fahrplan Schienenersatzverkehr S 3 am 14.02.23 (PDF, 576 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
             "link": "https://assets.static-bahn.de/dam/jcr:f067dbf0-7627-493b-a5f4-bd7480730b52/SEV%20Dresden%20Hbf%20%20-%20Dresden%20Plauen%2015_02_23.pdf",
             "title": "SEV Dresden Hbf  - Dresden Plauen 15_02_23.pdf (PDF, 576 KB)",
             "info": "",
@@ -472,7 +489,7 @@
       "areas": [
         "sn"
       ],
-      "lastModified": "14.02.2023 16:33",
+      "lastModified": "15.02.2023 13:10",
       "author": "suedost",
       "expand": false,
       "priorityValue": 101
