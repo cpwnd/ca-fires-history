@@ -269,36 +269,6 @@
       "priorityValue": 102
     },
     {
-      "id": "f34d61da-1eeb-4844-8d76-20ec698a05b0",
-      "headline": "Aktualisierter Ersatzverkehr: Kurzfristige Bauarbeiten Linie RE2 Lübbenau (Spreew) - Vetschau - Cottbus Hbf",
-      "newsType": "Gleisarbeiten",
-      "timePeriod": "1. Februar 2023 ca. 8.40 Uhr bis 17. Februar 2023 ca. 19 Uhr",
-      "introText": "<p>Aufgrund kurzfristig durch die DB Netz anberaumter Bauarbeiten (Auswechslung von 1400 Schwellen) zwischen L&uuml;bbenau (Spreew) und Cottbus Hbf werden folgende Fahrplan&auml;nderungen erforderlich:</p>\n\n<p>Die Z&uuml;ge der Linie RE2 bzw. RE7 fallen in diesen Zeitr&auml;umen und Abschnitten aus:&nbsp;</p>\n\n<ul>\n\t<li>01.02.23 (Mi) bis 05.02.23 (So) zwischen <strong>Vetschau und Cottbus Hbf</strong></li>\n\t<li>06.02.23 (Mo) bis 08.02.23 (Mi) zwischen <strong>L&uuml;bbenau (Spreew.) und Cottbus Hbf</strong></li>\n\t<li>09.02.23 (Do) bis 17.02.23 (Fr) zwischen <strong>Vetschau und Cottbus Hbf</strong></li>\n</ul>\n\n<p>Ein Ersatzverkehr mit Bussen ist zwischen L&uuml;bbenau (Spreew.) bzw. Vetschau und Cottbus Hbf eingerichtet.</p>\n\n<p><strong>Bitte beachten</strong>:&nbsp;Busse des Ersatzverkehrs halten in H&ouml;he der Kreuzung Milkersdorfer Allee/Am Bahnhof an der Haltestelle: Kunersdorf, Abzweig Bahnhof.</p>\n",
-      "connections": [],
-      "download": {
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:870952af-40f4-4b07-896e-6d3ba8b4e728/Baufpl_11511_Aushangfahrpl%C3%A4ne__BLN-BCS_(RE2)_v04_01.02.-17.02.2023.pdf",
-            "title": "Ersatzverkehr (PDF, 122 KB)",
-            "info": "",
-            "openInNewTab": true
-          }
-        ]
-      },
-      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Fahrtm&ouml;glichkeiten in der Reiseauskunft unter&nbsp;<a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>&nbsp;und VBB.de sowie in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>,&nbsp;im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;und in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "08.02.2023 09:47",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "1e2a45bd-546b-4423-8ac6-4ece2051bd85",
       "headline": "Zugausfälle auf der Linie RB24 Nord (zwischen Berlin-Lichtenberg - Flughafen BER - Terminal 5)",
       "newsType": ".",
@@ -559,9 +529,9 @@
       "connections": [
         "RE 72 (Flensburg – Kiel Hbf): Umgestürzter Baum auf der Strecke zwischen Flensburg und Eckernförde. Es verkehrt ein Bus der Firma Rope Reisen um 18:45 Uhr ab Eckernförde. 18:30 Uhr in Flensburg Frima Fedder Reisen 18:45 Uhr in Eckernförde Frima Rope 19:30 Uhr in Flensburg Firma Wried Reisen 19:45 Uhr in Eckernförde Firma Wried Reisen",
         "RB 73 (Eckernförde – Kiel Hbf): Umgestürzter Baum auf der Strecke zwischen Flensburg und Eckernförde. Es verkehrt ein Bus der Firma Rope Reisen um 18:45 Uhr ab Eckernförde. 18:30 Uhr in Flensburg Frima Fedder Reisen 18:45 Uhr in Eckernförde Frima Rope 19:30 Uhr in Flensburg Firma Wried Reisen 19:45 Uhr in Eckernförde Firma Wried Reisen",
-        "RE 8 (Lübeck Hbf – Hamburg Hbf): Umgestürzter Baum auf der Strecke zwischen Ahrensburg und Hamburg-Rahlstedt. Ersatzverkehr im Pendel ab 18:30 Uhr durch die Firma Limo",
-        "RE 80 (Lübeck Hbf – Ahrensburg – Hamburg Hbf):  Umgestürzter Baum auf der Strecke zwischen Ahrensburg und Hamburg-Rahlstedt. Ersatzverkehr im Pendel ab 18:30 Uhr durch die Firma Limo",
-        "RB 81 (Bad Oldesloe - Hamburg Hbf): Umgestürzter Baum auf der Strecke zwischen Ahrensburg und Hamburg-Rahlstedt. Ersatzverkehr im Pendel ab 18:30 Uhr durch die Firma Limo"
+        "RE 8 (Lübeck Hbf – Hamburg Hbf): Umgestürzter Baum auf der Strecke zwischen Ahrensburg und Hamburg-Rahlstedt. Ersatzverkehr mit vier Bussen im Pendel ab 18:30 Uhr durch die Firma Limo",
+        "RE 80 (Lübeck Hbf – Ahrensburg – Hamburg Hbf):  Umgestürzter Baum auf der Strecke zwischen Ahrensburg und Hamburg-Rahlstedt. Ersatzverkehr im Pendel mit vier Bussen ab 18:30 Uhr durch die Firma Limo",
+        "RB 81 (Bad Oldesloe - Hamburg Hbf): Umgestürzter Baum auf der Strecke zwischen Ahrensburg und Hamburg-Rahlstedt. Ersatzverkehr mit vier Bussen seit 18:30 Uhr im Pendel durch die Firma Limo"
       ],
       "closingText": "<p>Rechnen Sie mit einer Reisezeitverl&auml;ngerung von voraussichtlich 60 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<u><a href=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\" style=\"color:blue; text-decoration:underline\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:\">bahn.de/reiseauskunft</a></u>, in der&nbsp;<u><a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\" target=\"_blank\" title=\"https://www.bahn.de/service/mobile/db-navigator\">DB Navigator-App</a></u>&nbsp;oder beim regionalen Kundendialog unter <a href=\"tel:043153440500\" style=\"color:blue; text-decoration:underline\">0431 53440500</a>.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf&nbsp;<u><a href=\"https://twitter.com/dbregio_SH\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">Twitter</a></u>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <u><a href=\"https://www.bahn.de/service/fahrplaene/fahrgastrechte\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">bahn.de/fahrgastrechte</a></u>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld</p>\n",
       "priority": "0",
@@ -571,7 +541,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "17.02.2023 18:26",
+      "lastModified": "17.02.2023 20:08",
       "author": "schleswig_holstein",
       "expand": true,
       "priorityValue": 101
