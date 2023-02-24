@@ -1,6 +1,29 @@
 {
   "news": [
     {
+      "id": "1c3a3dcd-d334-4d59-bbcc-69ea26b72f37",
+      "headline": "Beeinträchtigungen zwischen München und Salzburg bzw. Innsbruck",
+      "newsType": "Defektes Stellwerk",
+      "timePeriod": "Am heutigen Freitag, 24.02.2023 vsl. bis in die Abendstunden",
+      "introText": "<p>Aufgrund eines defekten Stellwerkes zwischen M&uuml;nchen und Rosenheim kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten. Der Halt in M&uuml;nchen Ost muss leider entfallen.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle RJX-, EC- und IC-Züge, die zwischen München und Salzburg bzw. Innsbruck verkehren."
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>M&uuml;nchen Ost erreichen Sie ab M&uuml;nchen Hbf mit der U-Bahnlinie U 5. Die Z&uuml;ge verkehren alle f&uuml;nf Minuten, die Fahrzeit betr&auml;gt 7 Minuten.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "by"
+      ],
+      "lastModified": "24.02.2023 13:27",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 301
+    },
+    {
       "id": "e2c60e0b-c3e8-498c-96a3-42ac4d06b829",
       "headline": "Einschränkung bei der S-Bahn Dresden",
       "newsType": "Personalengpässe",
@@ -45,29 +68,6 @@
       ],
       "lastModified": "08.02.2023 13:03",
       "author": "suedost",
-      "expand": false,
-      "priorityValue": 201
-    },
-    {
-      "id": "cef2afc6-064a-485a-8755-8bde27399e00",
-      "headline": "Beeinträchtigungen zwischen Dortmund und Hamm (Westf)",
-      "newsType": "Reparatur an einem Signal",
-      "timePeriod": "Am Donnerstag, 23.02.2023 bis in die Nachtstunden",
-      "introText": "<p>Aufgrund einer Reparatur an einem Signal zwischen Dortmund und Hamm (Westf) kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Einzelne Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 20 Minuten.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Alle ICE- und IC-Züge zwischen Dortmund und Hamm (Westf)"
-      ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "nw"
-      ],
-      "lastModified": "23.02.2023 20:51",
-      "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
     },
@@ -572,10 +572,10 @@
       "headline": "Kein Zugverkehr zwischen Rastatt und Freudenstadt Hbf",
       "newsType": "Kurzfristige Erkrankung von Personal",
       "timePeriod": "24.02.23 ab 19:15 Uhr bis 25.02.23 Betriebsschluss",
-      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Stellwerkspersonal in Gernsbach, kann das Stellwerk am Freitag, 24. Februar, ab 19.15 Uhr bis Betriebsschluss sowie am Samstag, 25. Februar ab 16.50 Uhr bis Betriebsschluss nicht besetzt werden.</p>\n\n<p>Es sind zu den genannten Zeiten<strong> keine Zugfahrten&nbsp;der DB und der Albtal-Verkehrs-Gesellschaft (AVG)&nbsp;zwischen Rastatt und Freudenstadt Hauptbahnhof m&ouml;glich.&nbsp;</strong></p>\n",
+      "introText": "<p>Aufgrund eines erh&ouml;hten Krankenstandes beim Stellwerkspersonal in Gernsbach, kann das Stellwerk am Freitag, 24. Februar, ab 19.15 Uhr bis Betriebsschluss sowie am Samstag, 25. Februar ab 16.50 Uhr bis Betriebsschluss nicht besetzt werden.</p>\n\n<p>Es sind zu den genannten Zeiten<strong> keine Zugfahrten&nbsp;</strong>der DB und der Albtal-Verkehrs-Gesellschaft (AVG)&nbsp;zwischen Rastatt und Freudenstadt Hauptbahnhof m&ouml;glich.&nbsp;</p>\n",
       "connectionsHeadline": "RE 40 Karlsruhe Hbf - Rastatt - Gernsbach - Freudenstadt Hbf",
       "connections": [],
-      "closingText": "<p>Wir haben f&uuml;r Sie einen <strong>Busnotverkehr mit 3 Bussen zwischen Rastatt und Freudenstadt Hbf mit allen Unterwegshalten eingerichtet.&nbsp;</strong></p>\n\n<p>Bitte beachten Sie, dass die <strong>Busse ohne festen Fahrplan verkehren</strong> und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.</p>\n\n<p>Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n\n<p>&nbsp;</p>\n",
+      "closingText": "<p>Wir haben f&uuml;r Sie einen <strong>Busnotverkehr mit insgesamt 8 Busse der Firma Wei&szlig;-Touristik und City-Mobil zwischen Rastatt und Freudenstadt Hbf mit allen Unterwegshalten eingerichtet. Es verkehren je Abfahrtszeit 2 Busse im Pendel.</strong></p>\n\n<p>Bitte beachten Sie, dass die Busse eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.</p>\n\n<p>Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n\n<p>&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -583,7 +583,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "24.02.2023 10:41",
+      "lastModified": "24.02.2023 12:49",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
