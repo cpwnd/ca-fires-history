@@ -49,6 +49,26 @@
       "priorityValue": 201
     },
     {
+      "id": "91cb32ed-8d8c-4176-b529-85d4dc291110",
+      "headline": "Beeinträchtigungen zwischen Stuttgart und Heidelberg/Mannheim",
+      "newsType": "Bauarbeiten",
+      "timePeriod": "Heute, 26.02.2023 bis in die Abendstunden",
+      "introText": "<p>Aufgrund von Bauarbeiten zwischen Stuttgart und Heidelberg bzw. Mannheim kommt es zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn.</p>\n\n<p>Die betroffenen Z&uuml;ge beginnen und enden abweichend in Mannheim Hbf statt in Heidelberg Hbf. Bei diesen Z&uuml;gen <u>entf&auml;llt</u> der Halt Heidelberg Hbf.</p>\n\n<p><br />\n<strong>Sonntag, 26.02.2023:</strong><br />\nFolgende Z&uuml;ge <u>beginnen</u> in Mannheim Hbf: ICE 570, ICE 572, ICE 576, ICE 578 und ICE 1094.<br />\nFolgende Z&uuml;ge <u>enden</u> in Mannheim Hbf: ICE 571, ICE 573, ICE 575, ICE 577 und ICE 579.</p>\n\n<p>&nbsp;</p>\n",
+      "connections": [],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Nutzen Sie bitte zwischen Heidelberg Hbf und Mannheim Hbf die Nahverkehrsz&uuml;ge der Linien S 1, S 2, S 3, S 4, RE 10 und RE 73.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "26.02.2023 12:46",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
       "id": "0bf53918-d658-46a7-847c-b046e0722d1c",
       "headline": "Einschränkungen bei der S-Bahn Mitteldeutschland Linie S 5",
       "newsType": "Bauarbeiten ",
@@ -206,7 +226,7 @@
         "be",
         "br"
       ],
-      "lastModified": "27.02.2023 18:06",
+      "lastModified": "24.02.2023 14:39",
       "expand": false,
       "priorityValue": 102
     },
@@ -227,28 +247,6 @@
         "br"
       ],
       "lastModified": "17.02.2023 16:38",
-      "author": "nordost",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
-      "id": "47479134-01c0-4e0b-8567-2ab7f36605ed",
-      "headline": "Ausfall RB91 zwischen Frankfurt(Oder) und Rzepin",
-      "newsType": "Fahrzeugstörung",
-      "timePeriod": "27. Februar 2023",
-      "connections": [
-        "RB91 Frankfurt(Oder) - Rzepin"
-      ],
-      "closingText": "<p>Wegen einer Reparatur am Triebfahrzeug fallen folgende Z&uuml;ge zwischen Rzepin und Frankfurt (Oder) aus:</p>\n\n<p><strong>RB 5830</strong> planm&auml;&szlig;ige Abfahrt ab Rzepin um 7:16 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5831&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 8:12 Uhr nach Rzepin</p>\n\n<p><strong>RB 5832&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 12:27 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5833&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 13:12 Uhr nach Rzepin</p>\n\n<p><strong>RB 5834&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 17:25 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5835&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) ab 18:10 Uhr nach Rzepin</p>\n\n<p>Nach Informationen der <em><u>POLREGIO</u></em> verkehrt ein Ersatzverkehr mit einem Bus zwischen Rzepin und Frankfurt und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "27.02.2023 03:47",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -276,11 +274,12 @@
     {
       "id": "aefa1b8f-9226-4572-801d-3ae09a83a2b9",
       "headline": "Vorübergehend reduziertes Fahrplanangebot und teilweise Schienenersatzverkehr bei der Westfrankenbahn",
-      "newsType": "Personalnotstand in den Stellwerken der Tauberbahn ",
+      "newsType": "Längerfristige Personalausfälle bei der Kahlgrundbahn und Personalnotstand in den Stellwerken der Tauberbahn ",
       "timePeriod": "24. Dezember 2022 bis 28. Mai 2023",
-      "connectionsHeadline": "Betroffene Strecke",
+      "connectionsHeadline": "Betroffene Strecke und Dauer:",
       "connections": [
-        "Tauberbahn"
+        "Tauberbahn: bis voraussichtlich 28. Mai 2023 an Samstagen, Sonn- und Feiertagen",
+        "Kahlgrundbahn: bis voraussichtlich 26. Februar 2023 an Samstagen, Sonn- und Feiertagen"
       ],
       "download": {
         "text": "<p>Die Fahrplantabellen zu den ausfallenden Z&uuml;gen und zum Schienenersatzverkehr finden Sie hier:&nbsp;</p>\n",
@@ -290,6 +289,12 @@
             "title": "Veränderter Fahrplan Tauberbahn bis 28. Mai (PDF, 240 KB)",
             "info": "Veränderter Fahrplan Tauberbahn bis 28. Mai",
             "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:bcf6f159-f32b-44ef-a982-c11c3f260e42/Kahlgrundbahn_Ausf%C3%A4lle_SEV_RB56_bis%2026%20Februar%202023.pdf",
+            "title": "Veränderter Fahrplan Kahlgrundbahn bis 26. Februar (PDF, 89 KB)",
+            "info": "Veränderter Fahrplan Kahlgrundbahn bis 26. Februar",
+            "openInNewTab": true
           }
         ]
       },
@@ -302,7 +307,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "27.02.2023 05:56",
+      "lastModified": "03.02.2023 16:23",
       "expand": false,
       "priorityValue": 102
     },
@@ -444,10 +449,10 @@
     },
     {
       "id": "fa9d2fa7-8550-4c29-86b6-385946e8b490",
-      "headline": "Beeinträchtigungen im Regionalverkehr zwischen Hamburg Hbf und Lübeck",
-      "newsType": "Reparaturen an der Strecke",
-      "timePeriod": "Montag, 27. Februar 2023 bis vsl. 20:00 Uhr",
-      "introText": "<p>Aufgrund von Reparaturen an einer Weiche und einem Signal kommt es zwischen Hamburg Hbf und L&uuml;beck zu Beeintr&auml;chtigungen im Bahnverkehr. Es kann zu Versp&auml;tungen und Teilausf&auml;llen in beiden Richtungen kommen.&nbsp;</p>\n\n<p>Die Techniker sind vor Ort und arbeiten mit Hochdruck an der Beseitigung der St&ouml;rungen.</p>\n",
+      "headline": "Beeinträchtigungen im Regionalverkehr zwischen Hamburg und Lübeck",
+      "newsType": "Reparatur an einem Signal und Bahnübergängen ",
+      "timePeriod": "Sonntag, 26. Februar 2023 bis vsl. 23:59 Uhr",
+      "introText": "<p>Eine Reparatur an einem Signal und zwei Bahn&uuml;berg&auml;ngen beeintr&auml;chtigt den Bahnverkehr. Es kann zu Versp&auml;tungen und Teilausf&auml;llen in beiden Richtungen kommen.&nbsp;</p>\n",
       "connectionsHeadline": "Folgende Linien sind betroffen:",
       "connections": [
         "RE 8 (Lübeck Hbf – Hamburg Hbf): Verspätungen und Teilausfälle sind möglich",
@@ -462,8 +467,7 @@
       "areas": [
         "sh"
       ],
-      "lastModified": "27.02.2023 14:19",
-      "author": "schleswig_holstein",
+      "lastModified": "26.02.2023 18:34",
       "expand": false,
       "priorityValue": 101
     },
