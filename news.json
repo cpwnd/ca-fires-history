@@ -96,6 +96,29 @@
       "priorityValue": 201
     },
     {
+      "id": "71153917-4066-4fe9-873f-186bd62af1a8",
+      "headline": "Streckensperrung zwischen Husum und Bredstedt ist beendet",
+      "newsType": "kurzfistige Bauarbeiten",
+      "timePeriod": "Montag, 6. März 2023 ",
+      "introText": "<p>Die kurzfristig notwendige Streckensperrung wegen dringender Bauarbeiten zwischen Husum und Bredstedt ist beendet. Die Z&uuml;ge der Linie RE 6 verkehren wieder auf dem Regelweg. Der Schienenersatzverkehr endet in K&uuml;rze.</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "RE 6 (Westerland(Sylt) - Pinneberg): Erster durchfahrender Zug ab Westerland(Sylt) ist der  RE 11007, Abfahrt um 04:19 Uhr. Erster Zug ab Husum in Richtung Westerland(Sylt) ist der RE 11098 um 04:58 Uhr ab Husum."
+      ],
+      "closingText": "<p>Rechnen Sie infolge der Streckensperrung noch mit Verz&ouml;gerungen in beide Richtungen.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;<a href=\"https://reiseauskunft.bahn.de/\">bahn.de/reiseauskunft</a>, in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\">App DB Navigator</a>&nbsp;oder beim regionalen Kundendialog unter <a href=\"tel:0431 53440500\">0431 53440500</a>.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf&nbsp;<a href=\"https://twitter.com/dbregio_SH\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf&nbsp;<a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "priority": "1",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sh"
+      ],
+      "lastModified": "06.03.2023 04:14",
+      "author": "schleswig_holstein",
+      "expand": false,
+      "priorityValue": 201
+    },
+    {
       "id": "40a40c28-c991-433c-8880-7f33c76578e6",
       "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
       "newsType": "Personalengpässe",
@@ -447,58 +470,6 @@
         "sn"
       ],
       "lastModified": "24.12.2022 14:48",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "a79070b7-787e-414c-be5d-3ceed2864927",
-      "headline": "Streckensperrung zwischen Husum und Bredstedt ",
-      "newsType": "Kurzfristige Bauarbeiten",
-      "timePeriod": "3. März, 04:00 Uhr, bis vsl. 6. März 2023, 05:00 Uhr",
-      "introText": "<p>Aufgrund von kurzfristigen Bauarbeiten ist die Strecke zwischen Husum und Bredstedt vom&nbsp;3. M&auml;rz, 04:00 Uhr, bis voraussichtlich 6. M&auml;rz 2023, 05:00 Uhr gesperrt.&nbsp;</p>\n",
-      "connectionsHeadline": "Betroffene Linie:",
-      "connections": [
-        "RE 6 (Westerland(Sylt) - Hamburg-Altona): Die Züge der Linie RE 6 fahren am 3. März zwischen Hamburg-Altona und Husum sowie zwischen Bredstedt und Westerland(Sylt). Für den Streckenabschnitt zwischen Husum und Bredstedt ist ein Ersatzverkehr mit Bussen eingerichtet. Ab dem 4. März fahren die Züge aufgrund einer weiteren Baumaßnahme ab Pinneberg anstatt Hamburg-Altona nach Husum. "
-      ],
-      "download": {
-        "text": "<p>Nachfolgend finden Sie die angepassten Fahrpl&auml;ne:</p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:33b3cf7c-19ee-4984-8760-d20c6bb1208f/RE%206%20Westerland%20-%20Hamburg%20am%203.%20M%C3%A4rz%202023.pdf",
-            "title": "RE 6 Westerland - Hamburg am 3. März 2023 (PDF, 345 KB)",
-            "info": "RE 6 Westerland - Hamburg am 3. März 2023",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:c80dd6c3-c787-430e-b5b8-11ade5b1b143/RE%206%20Hamburg%20-%20Westerland%20am%203.%20M%C3%A4rz%202023.pdf",
-            "title": "RE 6 Hamburg - Westerland am 3. März 2023 (PDF, 346 KB)",
-            "info": "RE 6 Hamburg - Westerland am 3. März 2023",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:cac2c470-f4d3-44e0-80ca-87dc9eb0b2ab/RE%206%20Westerland%20-%20Hamburg%20ab%204.%20M%C3%A4rz%202023.pdf",
-            "title": "RE 6 Westerland - Hamburg ab 4. März 2023 (PDF, 350 KB)",
-            "info": "RE 6 Westerland - Hamburg ab 4. März 2023",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:c1c5b07b-8249-4c14-99d4-9a17c0919493/RE%206%20Hamburg%20-%20Westerland%20ab%204.%20M%C3%A4rz%202023.pdf",
-            "title": "RE 6 Hamburg - Westerland ab 4. März 2023 (PDF, 359 KB)",
-            "info": "RE 6 Hamburg - Westerland ab 4. März 2023",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p>Weitere Informationen zu den Ersatzverkehr-Haltestellen finden Sie auch unter <a href=\"http://www.bahnhof.de\">bahnhof.de.</a></p>\n\n<p>&Uuml;ber Aktualisierungen halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" style=\"color:blue; text-decoration:underline\">App DB Navigator</a> oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf <a href=\"https://twitter.com/dbregio_SH\" style=\"color:blue; text-decoration:underline\">Twitter</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" style=\"color:blue; text-decoration:underline\">bahn.de/fahrgastrechte</a>.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "sh"
-      ],
-      "lastModified": "02.03.2023 13:58",
-      "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 101
     },
