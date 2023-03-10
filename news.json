@@ -770,15 +770,20 @@
       "id": "986a4c14-c739-4866-97a0-8af24547e20a",
       "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
       "newsType": "Kurzfristige Personalausfälle wegen Streik bei der französischen Bahn (SNCF)",
-      "timePeriod": "Seit dem 7. März bis voraussichtlich 12. März 2023",
+      "timePeriod": "bis voraussichtlich 15. März 2023 um ca. 14 Uhr",
       "connectionsHeadline": "Betroffener Streckenabschnitt:",
       "connections": [
         "RB28 Müllheim(Baden) - Mulhouse Ville"
       ],
       "download": {
-        "text": "<p>Den Fahrplan f&uuml;r den Ersatzverkehr mit Bus vom 10. bis 12. M&auml;rz finden Sie hier:</p>\n",
+        "text": "<p>Den Fahrplan f&uuml;r den Ersatzverkehr mit Bus vom bis 15. M&auml;rz finden Sie hier:</p>\n",
         "linkDataList": [
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:2fab08f4-1d12-4127-a3a7-f5c43df69be3/Fahrplan%20M%C3%BCllheim%20-%20Mulhouse%20Ville%20bis%2015.M%C3%A4rz.pdf",
+            "title": "Fahrplan Müllheim - Mulhouse Ville bis 15.März.pdf (PDF, 2 MB)",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung&nbsp;mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!</p>\n",
@@ -789,7 +794,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "10.03.2023 05:35",
+      "lastModified": "10.03.2023 15:28",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
