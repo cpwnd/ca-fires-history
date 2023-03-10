@@ -1,6 +1,41 @@
 {
   "news": [
     {
+      "id": "d28fc04d-e104-43ed-96d0-8d993f0c3d99",
+      "headline": "Störung in der Reisendeninformation",
+      "newsType": "Technische Störung",
+      "timePeriod": "Heute, am Freitag, den 10.03.2023",
+      "introText": "<p>Aufgrund einer technischen St&ouml;rung kommt es derzeit bundesweit zu Einschr&auml;nkungen in der Reisendeninformation.<br />\nEchtzeitdaten (insbesondere Haltausf&auml;lle) zu den Fern- und Nahverkehrsz&uuml;gen der Deutschen Bahn werden teilweise unvollst&auml;ndig oder erst verz&ouml;gert in der Reiseauskunft und an den Bahnh&ouml;fen angezeigt.</p>\n\n<p>Wir arbeiten mit Hochdruck an einer Behebung der St&ouml;rung.</p>\n\n<p>Das n&auml;chste Update dieser Meldung erfolgt um 13 Uhr oder wenn uns vorher neue Informationen vorliegen.</p>\n",
+      "connections": [],
+      "priority": "2",
+      "distance": [
+        "regional",
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
+      ],
+      "lastModified": "10.03.2023 11:13",
+      "author": "fernverkehr_ag",
+      "expand": true,
+      "priorityValue": 316
+    },
+    {
       "id": "84fcdde1-aab4-4449-a109-685d094c54bf",
       "headline": "Zugausfälle zwischen Deutschland und Frankreich",
       "newsType": "Streikauswirkungen",
@@ -23,29 +58,6 @@
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 305
-    },
-    {
-      "id": "b18a6dab-c4b9-40db-87c4-e7f437b7eced",
-      "headline": "Bundesweite Störung an Servern",
-      "newsType": "Eingeschränkte Echtzeitdaten",
-      "timePeriod": "vsl. 10.03.2023",
-      "introText": "<p>Aufgrund einer St&ouml;rung bei der &Uuml;bertragung werden die Echtzeit-Informationen in der Reiseauskunft eingeschr&auml;nkt aktualisiert.</p>\n\n<p>Teilweise sind auch die Anzeigen und Ansagen vor Ort am Bahnsteig beeintr&auml;chtigt.</p>\n\n<p>Wir arbeiten mit Hochdruck an der Behebung der St&ouml;rung.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
-      "connections": [],
-      "closingText": "<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "priority": "2",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "he",
-        "rp",
-        "sl"
-      ],
-      "lastModified": "10.03.2023 09:42",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 304
     },
     {
       "id": "c74cfe8e-c65c-41f9-8542-bf74059a0fbb",
@@ -259,6 +271,27 @@
       ],
       "lastModified": "22.12.2022 10:56",
       "author": "suedost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "3ba02ffd-ff37-440c-91ab-b7b671f06fa7",
+      "headline": "Zugausfälle zw. Berlin Flughafen Terminal 1-2 < - > Ludwigsfelde",
+      "newsType": "kurzfristige Baumaßnahmen ",
+      "timePeriod": " 11. März - 12. März 23 im Zeitraum von 22-08 Uhr",
+      "introText": "<p>Wegen kurzfristiger Bauma&szlig;nahmen kommt es in der Nacht vom Samstag, den <strong>11. M&auml;rz ab 22:00</strong> <strong>Uhr</strong> bis zum Sonntag, den <strong>12. M&auml;rz 08:00 Uhr</strong> zu einzelnen Zugausf&auml;llen auf der RB 32 zwischen&nbsp;</p>\n\n<p><strong>Flughafen BER-Terminal 1-2 - Ludwigsfelde.</strong></p>\n\n<p>Folgende Z&uuml;ge sind betroffen:</p>\n\n<p><strong>Samstag, den 11. M&auml;rz</strong></p>\n\n<p><strong>RB 18687</strong> Berlin Flughafen Terminal 1-2 Abfahrt 22:09 Uhr nach&nbsp;Ludwigsfelde<br />\n<strong>RB 18689</strong> Berlin Flughafen&nbsp;Terminal 1-2 Abfahrt 23:09 Uhr nach&nbsp;Ludwigsfelde [ Ersatzverkehr eingerichtet]</p>\n\n<p><strong>RB 18686</strong> Ludwigfelde Abfahrt 22:38 Uhr nach Flughafen BER-Terminal 1-2<br />\n<strong>RB 18688</strong> Ludwigfelde Abfahrt 23:38 Uhr nach Flughafen&nbsp;BER-Terminal 1-2 [ Ersatzverkehr eingerichtet]</p>\n\n<p><strong>Sonntag, den 12. M&auml;rz</strong></p>\n\n<p><strong>RB 18651</strong> Flughafen BER-Terminal 1-2&nbsp;&nbsp;Abfahrt 04:09 Uhr nach&nbsp;Ludwigsfelde<br />\n<strong>RB 18653</strong> Flughafen BER-Terminal 1-2&nbsp;&nbsp;Abfahrt 05:09 Uhr nach Ludwigsfelde<br />\n<strong>RB 18655</strong> Flughafen BER-Terminal 1-2&nbsp;&nbsp;Abfahrt 06:09 Uhr nach Ludwigsfelde [ Ersatzverkehr eingerichtet]<br />\n<strong>RB 18657</strong> Flughafen BER-Terminal 1-2&nbsp;&nbsp;Abfahrt 07:09 Uhr nach Ludwigsfelde [ Ersatzverkehr eingerichtet]</p>\n\n<p><strong>RB 18650</strong> Ludwigfelde Abfahrt 04:32 Uhr nach&nbsp;Flughafen BER-Terminal 1-2&nbsp;<br />\n<strong>RB 18652</strong> Ludwigfelde Abfahrt 05:38 Uhr nach&nbsp;Flughafen BER-Terminal 1-2&nbsp;&nbsp;[ Ersatzverkehr eingerichtet]<br />\n<strong>RB 18654</strong> Ludwigfelde Abfahrt 06:32 Uhr nach&nbsp;Flughafen BER-Terminal 1-2<br />\n<strong>RB 18656</strong> Ludwigfelde Abfahrt 07:38 Uhr nach&nbsp;Flughafen BER-Terminal 1-2&nbsp;&nbsp;[ Ersatzverkehr eingerichte]</p>\n\n<p>&nbsp;</p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Fahrtm&ouml;glichkeiten in der Reiseauskunft unter&nbsp;<a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>&nbsp;und VBB.de sowie in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>,&nbsp;im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;und in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "10.03.2023 10:53",
+      "author": "nordost",
       "expand": false,
       "priorityValue": 102
     },
