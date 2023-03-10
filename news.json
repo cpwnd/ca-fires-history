@@ -29,21 +29,23 @@
       "headline": "Bundesweite Störung an Servern",
       "newsType": "Eingeschränkte Echtzeitdaten",
       "timePeriod": "vsl. 10.03.2023",
-      "introText": "<p>Aufgrund einer St&ouml;rung bei der &Uuml;bertragung werden die Echtzeit-Informationen in der Reiseauskunft nicht aktualisiert.</p>\n\n<p>Teilweise sind auch die Anzeigen und Ansagen vor Ort am Bahnsteig beeintr&auml;chtigt.</p>\n\n<p>Wir arbeiten mit Hochdruck an der Behebung der St&ouml;rung.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
+      "introText": "<p>Aufgrund einer St&ouml;rung bei der &Uuml;bertragung werden die Echtzeit-Informationen in der Reiseauskunft eingeschr&auml;nkt aktualisiert.</p>\n\n<p>Teilweise sind auch die Anzeigen und Ansagen vor Ort am Bahnsteig beeintr&auml;chtigt.</p>\n\n<p>Wir arbeiten mit Hochdruck an der Behebung der St&ouml;rung.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n",
       "connections": [],
+      "closingText": "<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "priority": "2",
       "distance": [
         "regional"
       ],
       "areas": [
         "bw",
+        "he",
         "rp",
         "sl"
       ],
-      "lastModified": "10.03.2023 09:24",
+      "lastModified": "10.03.2023 09:42",
       "author": "mitte",
       "expand": false,
-      "priorityValue": 303
+      "priorityValue": 304
     },
     {
       "id": "c74cfe8e-c65c-41f9-8542-bf74059a0fbb",
@@ -360,7 +362,7 @@
         "rp",
         "sl"
       ],
-      "lastModified": "10.03.2023 09:02",
+      "lastModified": "10.03.2023 09:42",
       "author": "mitte",
       "expand": false,
       "priorityValue": 102
