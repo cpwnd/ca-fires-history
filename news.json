@@ -29,11 +29,11 @@
       "headline": "Beeinträchtigungen im Bahnverkehr in Nordrhein-Westfalen und Niedersachsen",
       "newsType": "Unwetter",
       "timePeriod": "Am Freitag, 10.03.2023, vsl. bis in die Nachtstunden",
-      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn in Nordrhein-Westfalen und Niedersachsen. Die Z&uuml;ge werden an geeigneten Bahnh&ouml;fen zur&uuml;ckgehalten und warten die Dauer der Streckensperrung ab.</p>\n",
+      "introText": "<p>Aufgrund von Unwettersch&auml;den kommt es zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn in Nordrhein-Westfalen und Niedersachsen.</p>\n\n<p><strong>Alle betroffenen Strecken sind wieder befahrbar. In der Folge kann es weiterhin zu Versp&auml;tungen und Zugausf&auml;llen kommen.</strong></p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "ICE-/IC-Züge zwischen Hannover – Bielefeld – Dortmund",
-        "ICE-/IC-Züge zwischen Osnabrück und Münster (Westfalen)"
+        "ICE-/IC-/EC-Züge zwischen Hamburg – Osnabrück – Münster (Westfalen)",
+        "ICE-/IC-Züge zwischen Hannover – Bielefeld – Hamm (Westfalen)"
       ],
       "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
@@ -44,7 +44,7 @@
         "ni",
         "nw"
       ],
-      "lastModified": "10.03.2023 22:54",
+      "lastModified": "10.03.2023 23:54",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 302
@@ -114,29 +114,6 @@
       ],
       "lastModified": "08.02.2023 13:03",
       "author": "suedost",
-      "expand": false,
-      "priorityValue": 201
-    },
-    {
-      "id": "5184efbc-c772-4081-bb74-a8b829bd7cc6",
-      "headline": "Beeinträchtigungen zwischen Hagen und Wuppertal",
-      "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Am heutigen Freitag, 10.03.2023 vsl. bis in die Abendstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Hagen und Wuppertal kommt es im Fernverkehr der Deutschen Bahn derzeit zu Versp&auml;tungen von etwa 20 Minuten im betroffenen Streckenabschnitt.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "alle IC/ICE-Züge zwischen Hagen und Wuppertal"
-      ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "1",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "nw"
-      ],
-      "lastModified": "10.03.2023 19:25",
-      "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 201
     },
@@ -551,37 +528,6 @@
         "sn"
       ],
       "lastModified": "24.12.2022 14:48",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "8c80eb01-77f3-4429-90a4-a30c0c321197",
-      "headline": "Zugausfälle zwischen Velgast - Barth",
-      "newsType": "Kurzfristige Bauarbeiten",
-      "timePeriod": "07. März bis 10. März 2023",
-      "connectionsHeadline": "RB25 Velgast - Barth",
-      "connections": [],
-      "download": {
-        "text": "<p>Aufgrund von kurzfristig angesetzten Bauma&szlig;nahmen zwischen Martensdorf und Stralsund fallen alle Z&uuml;ge der RB25 vom 07.03. bis 10.03.2023 zwischen&nbsp;Velgast &ndash; Barth in beide Richtungen aus.</p>\n\n<p>Als&nbsp;Ersatz verkehren zwei Busse.</p>\n",
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:bd994f78-9c9d-4cb3-a531-15b67363d800/SEV_MV_RB25_WV-WBH_07.03.-10.03.2023.pdf",
-            "title": "Fahrplan Busersatz RB25 (PDF, 131 KB)",
-            "info": "",
-            "openInNewTab": true
-          }
-        ]
-      },
-      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>,&nbsp;in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a>,&nbsp;im <a href=\"http://DB Navigator\">DB Navigator</a>&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "mv"
-      ],
-      "lastModified": "06.03.2023 17:59",
-      "author": "nordost",
       "expand": false,
       "priorityValue": 101
     },
