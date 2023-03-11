@@ -308,7 +308,7 @@
         "RE18 Saarbrücken - Forbach - Metz-Ville",
         "RE19 Saarbrücken - Straßbourg"
       ],
-      "closingText": "<p>Die Z&uuml;ge der Linie <strong>RB53 verkehren am 10-11.03.2023 planm&auml;&szlig;ig.</strong></p>\n\n<p>Die Z&uuml;ge der Linie <strong>RE18 zwischen Saarbr&uuml;cken und Forbach / Metz-Ville sowie RE19 zwischen Saarbr&uuml;cken und Stra&szlig;bourg entfallen.&nbsp;</strong>Ein Ersatzverkehr kann leider nicht eingerichtet werden.</p>\n\n<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein und pr&uuml;fen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</p>\n\n<p>Informieren&nbsp;Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio AG, Region Mitte&nbsp;</p>\n",
+      "closingText": "<p>Die Z&uuml;ge der Linie <strong>RB53 verkehren am 10. und 11.03.2023 planm&auml;&szlig;ig. Kurzfristige Teilausf&auml;lle m&ouml;glich.</strong></p>\n\n<p>Die Z&uuml;ge der Linie <strong>RE18 zwischen Saarbr&uuml;cken und Forbach / Metz-Ville sowie RE19 zwischen Saarbr&uuml;cken und Stra&szlig;bourg entfallen.&nbsp;</strong>Ein Ersatzverkehr kann leider nicht eingerichtet werden.</p>\n\n<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein und pr&uuml;fen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</p>\n\n<p>Informieren&nbsp;Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio AG, Region Mitte&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -317,7 +317,7 @@
         "rp",
         "sl"
       ],
-      "lastModified": "11.03.2023 05:58",
+      "lastModified": "11.03.2023 11:19",
       "author": "mitte",
       "expand": false,
       "priorityValue": 102
@@ -381,6 +381,25 @@
       "lastModified": "13.10.2021 08:58",
       "author": "suedostbayernbahn",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "b69bc509-48b9-44a9-b329-6ebb81ef6f80",
+      "headline": "Einschränkungen Linie RE 20 Magdeburg - Uelzen",
+      "newsType": "Witterungsbedingte Sperrung zwischen Salzwedel und Stendal",
+      "timePeriod": "Störung behoben",
+      "introText": "<p>Aufgrund der Witterung bestand eine Sperrung zwischen Stendal und Salzwedel. Der Zugverkehr kann wieder aufgenommen werden. Die ersten durchgehenden Fahrten sind:<br />\n<br />\nRE 16916 Magdeburg ab 11:03 Uhr</p>\n\n<p>RE 16921 Uelzen ab 11:02 Uhr</p>\n",
+      "connections": [],
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "st"
+      ],
+      "lastModified": "11.03.2023 11:03",
+      "author": "suedost",
+      "expand": false,
       "priorityValue": 101
     },
     {
