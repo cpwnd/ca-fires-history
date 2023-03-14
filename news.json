@@ -245,48 +245,10 @@
       "priorityValue": 102
     },
     {
-      "id": "9fe81715-87af-4083-8bf1-fb5ddd40f3c0",
-      "headline": "RB20 Haltausfall in Birkenwerder",
-      "newsType": "(Arbeiten an der Oberleitung)",
-      "timePeriod": "27. Februar bis 02. April 2023",
-      "introText": "<p>Wegen dringender Arbeiten an der Oberleitungsanlage verkehren alle Z&uuml;ge der Regionalbahnlinie RB20 vom 27.Februar bis 02.April 2023 ohne Halt in Birkenwerder.</p>\n\n<p>Als Ersatz nutzen Sie bitte die S-Bahn Linien S 1 und S 8.</p>\n\n<p>Diese sind von der St&ouml;rung nicht betroffen.</p>\n\n<p>Als Alternative steht der planm&auml;&szlig;ige Ersatzverkehr mit einem Bus zwischen Hennigsdorf und Hohen Neuendorf und Hennigsdorf zur Verf&uuml;gung.</p>\n",
-      "connections": [
-        "RB 20"
-      ],
-      "download": {
-        "linkDataList": [
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:e6ea5ea9-a441-465d-aa46-aa1d0fe38346/Fahrplan-S1.pdf",
-            "title": "Fahrplan S1 (als Ersatz)  (PDF, 219 KB)",
-            "info": "",
-            "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:e650250f-9d07-45e2-9847-c1c2df19a4bb/Fahrplan-S8.pdf",
-            "title": "Fahrplan S8 (als Ersatz)  (PDF, 135 KB)",
-            "info": "",
-            "openInNewTab": false
-          }
-        ]
-      },
-      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter&nbsp;<a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>&nbsp;und VBB.de sowie in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>,&nbsp;im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;und in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "be",
-        "br"
-      ],
-      "lastModified": "27.02.2023 18:06",
-      "expand": false,
-      "priorityValue": 102
-    },
-    {
       "id": "1e2a45bd-546b-4423-8ac6-4ece2051bd85",
       "headline": "Zugausfälle auf der Linie RB24 Nord (zwischen Berlin-Lichtenberg - Flughafen BER - Terminal 5)",
       "newsType": ".",
-      "timePeriod": "bis vsl. Anfang April 2023",
+      "timePeriod": "bis vsl. Anfang Mai 2023",
       "introText": "<p>Derzeit ist die Linie RB24 Nord baubedingt zwischen Bernau und Berlin unterbrochen und k&ouml;nnte daher nur noch zwischen Berlin-Lichtenberg und dem Flughafen BER T5 (mit erh&ouml;htem Personalbedarf) fahren mit vsl. geringer Fahrgastnachfrage.</p>\n\n<p>Aufgrund der alternativen Reisem&ouml;glichkeiten zwischen Berlin-Lichtenberg und dem f&uuml;r Flugg&auml;ste nicht mehr relevanten Bahnhof Flughafen BER T5 mit der S-Bahn wurde die Leistung zugunsten anderer Linien ausgelegt. Die Anbindung zum Flughafen BER T1-2 wird durch andere Linien (FEX, RB22, RB23) sichergestellt.</p>\n\n<p>Die Reiseauskunftssysteme der DB und des VBB wurden aktualisiert.</p>\n",
       "connections": [],
       "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter&nbsp;<a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>&nbsp;und VBB.de sowie in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>,&nbsp;im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;und in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
@@ -298,7 +260,7 @@
         "be",
         "br"
       ],
-      "lastModified": "17.02.2023 16:38",
+      "lastModified": "14.03.2023 12:52",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -321,32 +283,6 @@
       "lastModified": "27.12.2022 10:50",
       "author": "nordost",
       "expand": true,
-      "priorityValue": 102
-    },
-    {
-      "id": "009a9368-2982-4006-93e2-fef86561dd41",
-      "headline": "Beeinträchtigungen im grenzüberschreitenden Bahnverkehr nach Frankreich ",
-      "newsType": "Streik in Frankreich",
-      "timePeriod": "Dienstag, 14.03.2023 ",
-      "introText": "<p>In Frankreich sind f&uuml;r Montag 14.03.2023 Streikma&szlig;nahmen angek&uuml;ndigt.</p>\n\n<p>Dadurch kommt es zu Beeintr&auml;chtigungen im grenz&uuml;berschreitenden Bahnverkehr.</p>\n",
-      "connectionsHeadline": "Betroffene Strecken:",
-      "connections": [
-        "RB53 Neustadt - Landau - Winden - Wissembourg",
-        "RE18 Saarbrücken - Forbach - Metz-Ville",
-        "RE19 Saarbrücken - Straßbourg"
-      ],
-      "closingText": "<p>Die Z&uuml;ge der Linie <strong>RB53 verkehren am 17.03.2023 planm&auml;&szlig;ig. Ab 12 Uhr Ersatzverkehr mit einem Bus zwischen Winden und Wissembourg. Kurzfristige Teilausf&auml;lle m&ouml;glich.</strong></p>\n\n<p>Die Z&uuml;ge der Linie <strong>RE18 zwischen Saarbr&uuml;cken und Forbach / Metz-Ville sowie RE19 zwischen Saarbr&uuml;cken und Stra&szlig;bourg entfallen.&nbsp;</strong>Ein Ersatzverkehr kann leider nicht eingerichtet werden.</p>\n\n<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein und pr&uuml;fen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</p>\n\n<p>Informieren&nbsp;Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio AG, Region Mitte&nbsp;</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "rp",
-        "sl"
-      ],
-      "lastModified": "14.03.2023 05:49",
-      "author": "mitte",
-      "expand": false,
       "priorityValue": 102
     },
     {
@@ -554,7 +490,7 @@
       "headline": "Haltausfall Bahnhof Munster (Örtze)",
       "newsType": "Einschränkungen am Bahnhof",
       "timePeriod": "am Donnerstag, den 9.2.2023 bis vsl. Donnerstag, 16.3.2023",
-      "introText": "<p>Aufgrund einer Notstromversorgung k&ouml;nnen vereinzelte Z&uuml;ge den Bahnhof Munster (&Ouml;rtze) bis vsl. Donnerstag, den 16. M&auml;rz 2023, nicht mehr angefahren werden.</p>\n",
+      "introText": "<p>Aufgrund einer Notstromversorgung k&ouml;nnen vereinzelte Z&uuml;ge den Bahnhof Munster (&Ouml;rtze) bis vsl. Freitag, den 17. M&auml;rz 2023, nicht mehr angefahren werden.</p>\n",
       "connectionsHeadline": "Betroffene Line:",
       "connections": [
         "RB 37 (16377) (Bremen - Soltau - Uelzen): Haltausfall Bahnhof Munster (Örtze) Abfahrt: 13:40 Uhr",
@@ -568,7 +504,7 @@
       "areas": [
         "ni"
       ],
-      "lastModified": "14.03.2023 07:24",
+      "lastModified": "14.03.2023 13:01",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 101
