@@ -96,43 +96,6 @@
       "priorityValue": 201
     },
     {
-      "id": "66ee63c2-51bc-45e2-bcd8-13570dbbe75a",
-      "headline": "Zugausfälle auf der Linie RE7 und RE2",
-      "newsType": "Feuerwehreinsatz an der Strecke",
-      "timePeriod": "14. März bis vrsl. 15 Uhr",
-      "introText": "<p>Aufrund eines Feuerwehreinsatzes im Bereich L&uuml;bben (Spreewald) kommt es auf den Linien RE2 und RE7 zu Zugausf&auml;llen bzw. Teilausf&auml;llen.&nbsp; Ab 12 bis ca. 15 Uhr ist der Streckenabschnitt zwischen L&uuml;bben (Spreewald) und L&uuml;bbenau (Speewald) gesperrt. Busnotverkehr in Planung. Update folgt.</p>\n",
-      "connectionsHeadline": "folgende Linien sind betroffen",
-      "connections": [
-        "RE7 Dessau - Berlin Ostkreuz - Königs Wusterhausen - Lübben - Senftenberg",
-        "RE2 Nauen - Berlin - Cottbus"
-      ],
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw",
-        "by",
-        "be",
-        "br",
-        "hb",
-        "hh",
-        "he",
-        "mv",
-        "ni",
-        "nw",
-        "rp",
-        "sl",
-        "sn",
-        "st",
-        "sh",
-        "th"
-      ],
-      "lastModified": "14.03.2023 10:46",
-      "expand": false,
-      "priorityValue": 116
-    },
-    {
       "id": "0bf53918-d658-46a7-847c-b046e0722d1c",
       "headline": "Einschränkungen bei der S-Bahn Mitteldeutschland Linie S 5",
       "newsType": "Bauarbeiten ",
@@ -253,6 +216,31 @@
       ],
       "lastModified": "22.12.2022 10:56",
       "author": "suedost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "66ee63c2-51bc-45e2-bcd8-13570dbbe75a",
+      "headline": "Zugausfälle auf der Linie RE7 und RE2",
+      "newsType": "Feuerwehreinsatz an der Strecke",
+      "timePeriod": "14. März bis vrsl. 15 Uhr",
+      "introText": "<p>Aufgrund eines Feuerwehreinsatzes im Bereich L&uuml;bben (Spreewald) kommt es auf den Linien RE2 und RE7 zu Zugausf&auml;llen bzw. Teilausf&auml;llen.&nbsp; Ab 12 bis ca. 15 Uhr ist der Streckenabschnitt zwischen L&uuml;bben (Spreewald) und L&uuml;bbenau (Spreewald) gesperrt. Bitte nutzen Sie den bereitgestellten Busnotverkehr.</p>\n",
+      "connectionsHeadline": "folgende Linien sind betroffen",
+      "connections": [
+        "RE7 Dessau - Berlin Ostkreuz - Königs Wusterhausen - Lübben - Senftenberg",
+        "RE2 Nauen - Berlin - Cottbus"
+      ],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Fahrtm&ouml;glichkeiten in der Reiseauskunft unter&nbsp;<a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>&nbsp;und VBB.de sowie in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>,&nbsp;im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;und in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "14.03.2023 11:21",
+      "author": "nordost",
       "expand": false,
       "priorityValue": 102
     },
