@@ -276,10 +276,64 @@
       "priorityValue": 102
     },
     {
+      "id": "26d3b929-ce69-449c-aed6-d62e2bc122a5",
+      "headline": "Beeinträchtigungen im Regionalverkehr in Rheinland-Pfalz möglich",
+      "newsType": "Unwetterwarnung / Sturm",
+      "timePeriod": "Dienstag, 14.03.2023",
+      "introText": "<p>Aufgrund der aktuellen Unwetterwarnungen des Deutschen Wetterdienstes kommt es in Rheinland-Pfalz und im Saarland zu Beeintr&auml;chtigungen im Regionalverkehr.</p>\n\n<p>Zur Sicherheit verkehren die Z&uuml;ge auf mehreren Strecken am 14.03.2023 mit reduzierter Geschwindigkeit. Bitte rechnen Sie mit Versp&auml;tungen und kurzfristigen Fahrtausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "RB38 Kaisersesch - Mayen - Mendig - Andernach",
+        "RB55 Landau(Pfalz) - Annweiler - Hinterweidenthal - Pirmasens",
+        "RB64 Kaiserslautern - Waldfischbach - Pirmasens ",
+        "RB68 Pirmasens - Zweibrücken - Saarbrücken",
+        "RB77 Dillingen - Niedaltdorf"
+      ],
+      "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der Ma&szlig;nahme auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp",
+        "sl"
+      ],
+      "lastModified": "14.03.2023 05:46",
+      "author": "mitte",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "009a9368-2982-4006-93e2-fef86561dd41",
+      "headline": "Beeinträchtigungen im grenzüberschreitenden Bahnverkehr nach Frankreich ",
+      "newsType": "Streik in Frankreich",
+      "timePeriod": "Dienstag, 14.03.2023 ",
+      "introText": "<p>In Frankreich sind f&uuml;r Montag 14.03.2023 Streikma&szlig;nahmen angek&uuml;ndigt.</p>\n\n<p>Dadurch kommt es zu Beeintr&auml;chtigungen im grenz&uuml;berschreitenden Bahnverkehr.</p>\n",
+      "connectionsHeadline": "Betroffene Strecken:",
+      "connections": [
+        "RB53 Neustadt - Landau - Winden - Wissembourg",
+        "RE18 Saarbrücken - Forbach - Metz-Ville",
+        "RE19 Saarbrücken - Straßbourg"
+      ],
+      "closingText": "<p>Die Z&uuml;ge der Linie <strong>RB53 verkehren am 17.03.2023 planm&auml;&szlig;ig. Ab 12 Uhr Ersatzverkehr mit einem Bus zwischen Winden und Wissembourg. Kurzfristige Teilausf&auml;lle m&ouml;glich.</strong></p>\n\n<p>Die Z&uuml;ge der Linie <strong>RE18 zwischen Saarbr&uuml;cken und Forbach / Metz-Ville sowie RE19 zwischen Saarbr&uuml;cken und Stra&szlig;bourg entfallen.&nbsp;</strong>Ein Ersatzverkehr kann leider nicht eingerichtet werden.</p>\n\n<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein und pr&uuml;fen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</p>\n\n<p>Informieren&nbsp;Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.&nbsp;</p>\n\n<p>DB Regio AG, Region Mitte&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp",
+        "sl"
+      ],
+      "lastModified": "14.03.2023 05:49",
+      "author": "mitte",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "da944ae2-8036-4464-bf63-f16e211e46ea",
       "headline": "Einzelne Zugausfälle auf der Madonnenlandbahn",
       "newsType": "Personalengpass",
-      "timePeriod": "Von Dienstag, den 14. März bis Donnerstag, den 16. März",
+      "timePeriod": "bis Donnerstag, den 16. März",
       "introText": "<p><strong>Folgende Verbindungen sind betroffen:</strong></p>\n\n<p>- RB84 23569 (Abfahrt in Walld&uuml;rn um 15:35 Uhr) nach Seckach<br />\n- RB84 23537 (Abfahrt in Walld&uuml;rn um 16:56 Uhr) nach Seckach<br />\n- RB84 23549 (Abfahrt in Miltenberg um 20:09 Uhr) nach Walld&uuml;rn<br />\n- RB84 23534 (Abfahrt in Seckach um 16:20 Uhr) nach Walld&uuml;rn<br />\n- RB84 23540 (Abfahrt in Seckach um 18:20 Uhr) nach Walld&uuml;rn<br />\n- RB84 23542 (Abfahrt in Walld&uuml;rn um 19:22 Uhr) nach Miltenberg</p>\n\n<p>Ein Schienenersatzverkehr wurde eingerichtet.</p>\n\n<p>Bitte beachten Sie, dass der Schienenersatzverkehr an folgenden Stationen nicht an den Bahnh&ouml;fen, sondern an Ersatzhalten h&auml;lt: <strong>Hainstadt, Ort; Buchen, Eberstadter Str. </strong>und<strong> B&ouml;digheim, Kirche</strong>. Au&szlig;erdem ist eine Fahrradmitnahme in den Bussen leider nicht m&ouml;glich.</p>\n",
       "connections": [],
       "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
@@ -291,7 +345,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "13.03.2023 20:57",
+      "lastModified": "14.03.2023 05:35",
       "expand": false,
       "priorityValue": 102
     },
@@ -299,7 +353,7 @@
       "id": "0578239f-2c88-45f7-831c-56864e421604",
       "headline": "Einzelne Zugausfälle auf der Kahlgrundbahn",
       "newsType": "Personalengpässe",
-      "timePeriod": "Montag, den 6. März bis Freitag, den 17. März (nur montags bis freitags)",
+      "timePeriod": "bis voraussichtlich Freitag, den 17. März (nur montags bis freitags)",
       "introText": "<p>Betroffene Z&uuml;ge:</p>\n\n<p>RB 56 (23624): Abfahrt in Sch&ouml;llkrippen um 15:08 Uhr</p>\n\n<p>RB 56 (23630): Abfahrt in Sch&ouml;llkrippen um 18:08 Uhr</p>\n\n<p>RB 56 (23623): Abfahrt in Hanau um 16:02 Uhr</p>\n\n<p>RB 56 (23629): Abfahrt in Hanau um 19:02 Uhr.</p>\n\n<p>Zwischen Kahl(Main) und Sch&ouml;llkrippen haben wir f&uuml;r die ausfallenden Z&uuml;ge einen Schienenersatzverkehr eingerichtet. Bitte nutzen Sie zwischen Hanau und Kahl(Main) die verbleibenden Verbindungen, die hiervon nicht betroffen sind.</p>\n",
       "connectionsHeadline": "RB 56 Hanau Hbf - Schöllkrippen",
       "connections": [],
@@ -323,7 +377,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "03.03.2023 13:16",
+      "lastModified": "14.03.2023 05:34",
       "expand": false,
       "priorityValue": 102
     },
