@@ -1,6 +1,41 @@
 {
   "news": [
     {
+      "id": "96056ecf-6e8c-44c5-a502-6e947c593d9a",
+      "headline": "Störung in der Reisendeninformation",
+      "newsType": "Technische Störung",
+      "timePeriod": "Heute, am Freitag, den 17.03.2023",
+      "introText": "<p>Aufgrund einer technischen St&ouml;rung kommt es derzeit bundesweit zu Einschr&auml;nkungen in der Reisendeninformation.<br />\nEchtzeitdaten (insbesondere Versp&auml;tungen) zu den Fern- und Nahverkehrsz&uuml;gen der Deutschen Bahn werden teilweise erst verz&ouml;gert in der Reiseauskunft und an den Bahnh&ouml;fen angezeigt.</p>\n\n<p>Wir arbeiten mit Hochdruck an einer Behebung der St&ouml;rung.</p>\n\n<p>&nbsp;</p>\n",
+      "connections": [],
+      "priority": "2",
+      "distance": [
+        "regional",
+        "longDistance"
+      ],
+      "areas": [
+        "bw",
+        "by",
+        "be",
+        "br",
+        "hb",
+        "hh",
+        "he",
+        "mv",
+        "ni",
+        "nw",
+        "rp",
+        "sl",
+        "sn",
+        "st",
+        "sh",
+        "th"
+      ],
+      "lastModified": "17.03.2023 06:21",
+      "author": "fernverkehr_ag",
+      "expand": true,
+      "priorityValue": 316
+    },
+    {
       "id": "84fcdde1-aab4-4449-a109-685d094c54bf",
       "headline": "Zugausfälle zwischen Deutschland und Frankreich",
       "newsType": "Streikauswirkungen",
