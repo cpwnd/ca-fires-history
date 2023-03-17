@@ -25,41 +25,6 @@
       "priorityValue": 305
     },
     {
-      "id": "96056ecf-6e8c-44c5-a502-6e947c593d9a",
-      "headline": "Störung in der Reisendeninformation behoben",
-      "newsType": "Technische Störung",
-      "timePeriod": "Heute, am Freitag, 17.03.2023",
-      "introText": "<p>Die technische St&ouml;rung, die zu Einschr&auml;nkungen in der Reisendeninformation gef&uuml;hrt hat, konnte behoben werden. Echtzeitdaten (Versp&auml;tungen, Ausf&auml;lle, etc.) werden wieder angezeigt.&nbsp;</p>\n",
-      "connections": [],
-      "priority": "1",
-      "distance": [
-        "regional",
-        "longDistance"
-      ],
-      "areas": [
-        "bw",
-        "by",
-        "be",
-        "br",
-        "hb",
-        "hh",
-        "he",
-        "mv",
-        "ni",
-        "nw",
-        "rp",
-        "sl",
-        "sn",
-        "st",
-        "sh",
-        "th"
-      ],
-      "lastModified": "17.03.2023 13:12",
-      "author": "fernverkehr_ag",
-      "expand": true,
-      "priorityValue": 216
-    },
-    {
       "id": "e2c60e0b-c3e8-498c-96a3-42ac4d06b829",
       "headline": "Einschränkung bei der S-Bahn Dresden",
       "newsType": "Personalengpässe",
@@ -651,7 +616,7 @@
       "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
       "newsType": "Kurzfristige Personalausfälle wegen Streik bei der französischen Bahn (SNCF)",
       "timePeriod": "bis einschließlich Freitag, den 16. April 2023",
-      "introText": "<p>Die Z&uuml;ge zwischen M&uuml;llheim(Baden) und Mulhouse Ville entfallen bis&nbsp;einschlie&szlig;lich Freitag, den 16. April 2023 und werden durch Busse ersetzt. Grund hierf&uuml;r ist der Streik bei der franz&ouml;sischen Bahn (SNCF) an mehreren Tagen, aber auch Bauarbeiten bei der DB und die Reparatur von Fahrzeugen.</p>\n",
+      "introText": "<p>Die Z&uuml;ge zwischen M&uuml;llheim(Baden) und Mulhouse Ville entfallen bis&nbsp;einschlie&szlig;lich Freitag, den 16. April 2023 und werden durch Busse ersetzt. Grund hierf&uuml;r ist der Streik bei der franz&ouml;sischen Bahn (SNCF) an mehreren Tagen, aber auch Bauarbeiten bei der Deutschen Bahn und die Reparatur von Fahrzeugen.</p>\n",
       "connectionsHeadline": "Betroffener Streckenabschnitt:",
       "connections": [
         "RB28 Müllheim(Baden) - Mulhouse Ville"
@@ -675,7 +640,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "17.03.2023 14:39",
+      "lastModified": "17.03.2023 14:55",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
