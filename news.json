@@ -111,6 +111,29 @@
       "priorityValue": 301
     },
     {
+      "id": "6bac2cf6-e41d-49e1-9380-98481084f3e3",
+      "headline": " Beeinträchtigungen zwischen Hamburg und Westerland(Sylt)",
+      "newsType": "Defektes Stellwerk",
+      "timePeriod": "Am heutigen Sonntag, 26.03.2023 vsl. bis in die späten Nachmittagsstunden",
+      "introText": "<p>Aufgrund eines defekten Stellwerkes zwischen Hamburg und Heide kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Die Strecke ist aktuell gesperrt. Es kommt zu Versp&auml;tungen und Teilausf&auml;llen von Z&uuml;gen zwischen Hamburg und Westerland(Sylt).</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "Alle IC-Züge, die zwischen Hamburg und Westerland(Sylt) verkehren"
+      ],
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Nach Husum, Itzehoe und Westerland(Sylt) nutzen Sie ab Hamburg bitte die Z&uuml;ge der Regionalverkehrslinie RE 7 Richtung Flensburg bis J&uuml;bek. Ab dort weiter mit den Z&uuml;gen der Linie RE 74 nach Husum. Von Husum nach Nieb&uuml;ll und Westerland(Sylt) verkehren die Z&uuml;ge der Linie RE 6.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "hh",
+        "sh"
+      ],
+      "lastModified": "26.03.2023 14:31",
+      "expand": false,
+      "priorityValue": 202
+    },
+    {
       "id": "d44da7e6-4463-4d54-9021-cf8adad78d71",
       "headline": "Streik am 27.03.2023: Regionalverkehr der DB Regio Mitte massiv beeinträchtigt",
       "newsType": "Streik der EVG",
@@ -329,6 +352,36 @@
       "lastModified": "27.12.2022 10:50",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "ea84e00c-3b6a-4d7f-8674-46c00c04338c",
+      "headline": "Ab 15 Uhr kein Zugverkehr in der Westpfalz",
+      "newsType": "Kurzfristige Erkrankung von Stellwerkspersonal",
+      "timePeriod": "Sonntag, 26.03.2023 ab 15:00 Uhr ",
+      "introText": "<p>Wegen kurzfristiger Erkrankung von Stellwerkspersonal wird der Zugverkehr auf vielen Strecken in der Westpfalz eingestellt.</p>\n",
+      "connectionsHeadline": "Betroffene Linien:",
+      "connections": [
+        "RB55 Landau(Pfalz) - Annweiler - Pirmasens",
+        "RB64 Kaiserslautern – Schopp - Pirmasens ",
+        "RB66 Kaiserslautern - Wolfstein - Lauterecken-Grumbach",
+        "RB68 Pirmasens - Zweibrücken - Rohrbach(Saar)/Saarbrücken"
+      ],
+      "download": {
+        "text": "<p>Die Z&uuml;ge der Linie <strong>RB64</strong> verkehren nur noch zwischen Kaiserslautern Hbf und Schopp und entfallen zwischen Schopp und Pirmasens Hbf.</p>\n\n<p>Zwischen Pirmasens und Landau(Pfalz), Pirmasens und Rohrbach(Saar)/Saarbr&uuml;cken, sowie zwischen Kaiserslautern und Lauterecken-Grumbach verkehren <strong>ab 15 Uhr bis Betriebsschluss keine Z&uuml;ge </strong>mehr.</p>\n\n<p>Zwischen Schopp und Pirmasens h.aben wir bereits einen <strong>Ersatzverkehr mit Bussen</strong>&nbsp;eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p>F&uuml;r alle anderen Strecken arbeiten wir derzeit an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.&nbsp;Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n"
+      },
+      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\"><strong>Twitter</strong></a>.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp",
+        "sl"
+      ],
+      "lastModified": "26.03.2023 14:32",
+      "author": "mitte",
+      "expand": false,
       "priorityValue": 102
     },
     {
@@ -593,32 +646,6 @@
         "rp"
       ],
       "lastModified": "25.03.2023 13:21",
-      "author": "mitte",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
-      "id": "ea84e00c-3b6a-4d7f-8674-46c00c04338c",
-      "headline": "Kein Zugverkehr zwischen Pirmasens und Schopp",
-      "newsType": "Kurzfristige Erkrankung von Stellwerkspersonal",
-      "timePeriod": "Sonntag, 26.03.2023 ab 15:00 Uhr ",
-      "introText": "<p>Wegen kurzfristiger Erkrankung von Stellwerkspersonal verkehren am Sonntag,<strong>&nbsp;</strong>26.03.2023 ab 15:00 Uhr keine Z&uuml;ge zwischen Pirmasens und Schopp.</p>\n",
-      "connectionsHeadline": "Betroffene Linie:  ",
-      "connections": [
-        "RB64 Kaiserslautern – Schopp - Pirmasens "
-      ],
-      "download": {
-        "text": "<p>Die Z&uuml;ge der Linie RB64 verkehren nur zwischen Kaiserslautern Hbf und Schopp und entfallen zwischen Schopp und Pirmasens Hbf.</p>\n\n<p>Wir haben f&uuml;r Sie einen <strong>Ersatzverkehr mit Bussen </strong>zwischen Schopp und Pirmasens Hbf eingerichtet. Alle Unterwegshalte werden angefahren.</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.&nbsp;Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Zwischen Pirmasens Nord und Pirmasens Hbf k&ouml;nnen Sie alternativ auch die Z&uuml;ge der Linien RB55 und RB68 nutzen.</p>\n"
-      },
-      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\"><strong>Twitter</strong></a>.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "rp"
-      ],
-      "lastModified": "25.03.2023 16:39",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
