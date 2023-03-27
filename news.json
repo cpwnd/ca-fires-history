@@ -56,9 +56,9 @@
         "RB 82 (Göttingen – Kreiensen – Bad Harzburg):Derzeit weiterhin kein Zugverkehr.",
         "RB 86 (Einbeck Mitte – Göttingen):Derzeit weiterhin kein Zugverkehr.",
         "RB 37 (Bremen – Soltau – Uelzen):Derzeit weiterhin kein Zugverkehr.",
-        "RB 38 (Hannover – Soltau – Buchholz – (Hamburg-Harburg)):Zugverkehr läuft wieder an.",
-        "RB 77 (Bünde – Hameln – Hildesheim):Zugverkehr läuft wieder an.",
-        "RB 79 (Hildesheim – Bodenburg):Zugverkehr läuft wieder an.",
+        "RB 38 (Hannover – Soltau – Buchholz – (Hamburg-Harburg)): Erster durchgehender Zug von Buchholz um  19:13 Uhr.",
+        "RB 77 (Bünde – Hameln – Hildesheim): Erster durchgehender Zug von Hamel um 18:27 Uhr.",
+        "RB 79 (Hildesheim – Bodenburg): Erster durchgehender Zug von Hildesheim Hbf um 18:02 Uhr.",
         "RE 5 (Cuxhaven - Hamburg): Ersatzverkehr mit einem Bus zw. Cadenberge und Stade ist eingerichtet. RE 5 verkehrt zw. Stade und Hamburg-Harburg mit Zusatzhalt in Hamburg-Neugraben.  Ab ca. 20 Uhr wird der Zugverkehr  auf der kompletten Strecke wieder aufgenommen."
       ],
       "closingText": "<p>Der geplante Ersatzverkehr mit Bussen aufgrund von Bauarbeiten wird nach aktuellem Informationsstand ebenfalls bestreikt und wird nicht gefahren.</p>\n\n<p>Unser prim&auml;res Ziel ist es, ab Dienstagfr&uuml;h das vollst&auml;ndige Fahrplanangebot wieder anzubieten.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p><strong>Sonderhotline</strong></p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer&nbsp;<a href=\"tel:08000-996633\">08000-996633</a>.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/\">bahn.de</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3DL01_S01_D001_KIN0057_-_bahndeaktuell_LZ06?target%3D_blank\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3dl01_s01_d001_kin0057_-_bahndeaktuell_lz06?target%3d_blank\">DB Navigator</a>&nbsp;oder bei der telefonischen Reiseauskunft <a href=\"tel:08000-996633\">08000-996633</a>.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf&nbsp;<a href=\"http://bahn.de/fahrgastrechte\" target=\"_blank\">bahn.de/fahrgastrechte</a> und <a href=\"http://bahn.de/sonderkulanz\" target=\"_blank\">bahn.de/sonderkulanz</a>.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf <a href=\"https://twitter.com/dbregio_NDS\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>&nbsp;sowie auch der <a href=\"https://twitter.com/start_NI_mitte\">Start Niedersachsen Mitte</a>&nbsp;und <a href=\"https://twitter.com/start_unterelbe?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\" target=\"_blank\">Start Unterelbe</a>.</p>\n\n<p>F&uuml;r Informationen zu anderen Eisenbahnverkehrsunternehmen wenden Sie sich bitte direkt an diese. Die Kontaktangaben finden Sie unter <a href=\"http://bahnhof.de/zuege\" target=\"_blank\">bahnhof.de/zuege</a>.</p>\n",
@@ -70,7 +70,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "27.03.2023 18:04",
+      "lastModified": "27.03.2023 18:14",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 302
@@ -223,15 +223,35 @@
       "priorityValue": 102
     },
     {
-      "id": "b240db39-e1b2-4197-801b-993fd3fc1fb9",
+      "id": "2edc466a-315a-45d4-a384-20ef2d930131",
       "headline": "EVG-Streik: DB-Fernverkehr eingestellt. Der Regionalverkehr der DB in Berlin und Brandenburg fährt langsam wieder an",
       "newsType": ".",
-      "timePeriod": "27. März  Betriebsbeginn bis mindestens zum frühen Abend",
+      "timePeriod": "am 27. März",
       "introText": "<p>Der Fernverkehr ist weiter wegen eines Streiks der Gewerkschaft EVG eingestellt. Der Regionalverkehr f&auml;hrt in einigen Gebieten langsam wieder an.</p>\n",
-      "connectionsHeadline": "Noch sind alle Linien von DB Regio Nordost in Berlin und Brandenburg von Streikauswirkungen betroffen.",
-      "connections": [],
+      "connectionsHeadline": "Auf folgenden Linien kommt es derzeit noch zu größeren Einschränkungen:",
+      "connections": [
+        "RE2 (Nauen – Berlin – Königs Wusterh.– Cottbus): derzeit noch einige Ausfälle",
+        "RE3 (Stralsund/Schwedt (O) – Berlin – Lu. Wittenberg): derzeit noch einige Ausfälle",
+        "RE4 (Rathenow – Wustermark – Berlin – Falkenberg (E)): derzeit noch einige Ausfälle",
+        "RE5 (Rostock/Stralsund – Neustrelitz – Berlin Südkreuz): derzeit noch einige Ausfälle",
+        "RE7 (Dessau – Bad Belzig – Berlin – Lübbenau – Senftenberg): Zugverkehr startet am 28.3.",
+        "RE10 (Leipzig – Falkenberg (E) – Cottbus – Frankfurt (O)): Zugverkehr startet am 28.3.",
+        "RE11 (Leipzig – Falkenberg (E) – Elsterw.-Biehla – Hoyerswerda): Zugverkehr startet am 28.3.",
+        "RE13 (Elsterwerda – Ruhland – Senftenberg – Cottbus): Zugverkehr startet am 28.3.",
+        "RE15 (Hoyerswerda – Ruhland – Coswig – Dresden): Zugverkehr startet am 28.3.",
+        "RE18 (Cottbus – Senftenberg – Ruhland – Dresden): Zugverkehr startet am 28.3.",
+        "RB10/RB14 (Nauen – Berlin Hbf – Berlin Südkreuz): derzeit noch einige Ausfälle",
+        "RB21 (Potsdam – Wustermark – Berlin Gesundbrunnen): Zugverkehr startet am 28.3.",
+        "RB22 (Potsdam Griebnitzsee – Flugh BER T 1-2 – Königs Wusterhausen): Zugverkehr startet am 28.3.",
+        "RB23 (Golm – Potsdam – Berlin – Flugh BER T 1-2): Zugverkehr startet am 28.3.",
+        "RB31 (Elsterwerda-Biehla – Elsterwerda – Coswig – Dresden): Zugverkehr startet am 28.3.",
+        "RB43 (Falkenberg (E) – Calau (NL) – Cottbus – Frankfurt (O)): Zugverkehr startet am 28.3.",
+        "RB49 (Falkenberg (E) – Elsterw.-Biehla – Senftenberg – Cottbus): Zugverkehr startet am 28.3.",
+        "RB55 (Kremmen – Hennigsdorf): Zugverkehr startet am 28.3.",
+        "RB66 (Angermünde – Szczecin Główny): Zugverkehr startet am 28.3."
+      ],
       "download": {
-        "text": "<p>&Uuml;ber eine m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir kurzfristig situativ informieren.&nbsp;Unser prim&auml;res Ziel ist es, ab Dienstagfr&uuml;h das vollst&auml;ndige Fahrplanangebot wieder anzubieten.</p>\n\n<p>Ein Busnotverkehr kann leider nicht eingerichtet werden.<br />\nAuch der geplante Ersatzverkehr kann von Ausf&auml;llen betroffen sein.</p>\n"
+        "text": "<p>&Uuml;ber eine m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir kurzfristig informieren.&nbsp;Unser prim&auml;res Ziel ist es, ab Dienstagfr&uuml;h das vollst&auml;ndige Fahrplanangebot wieder anzubieten.</p>\n"
       },
       "closingText": "<p>Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p><strong>Sonderhotline</strong><br />\nWenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer&nbsp;08000-996633.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/\">bahn.de</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3DL01_S01_D001_KIN0057_-_bahndeaktuell_LZ06?target%3D_blank\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3dl01_s01_d001_kin0057_-_bahndeaktuell_lz06?target%3d_blank\">DB Navigator</a>, bei der telefonischen Reiseauskunft 08000-996633 sowie in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf&nbsp;bahn.de/fahrgastrechte und bahn.de/sonderkulanz.</p>\n\n<p>F&uuml;r Informationen zu anderen Eisenbahnverkehrsunternehmen wenden Sie sich bitte direkt an diese. Die Kontaktangaben finden Sie unter bahnhof.de/zuege.</p>\n",
       "priority": "0",
@@ -242,7 +262,7 @@
         "be",
         "br"
       ],
-      "lastModified": "27.03.2023 15:53",
+      "lastModified": "27.03.2023 18:37",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -509,17 +529,21 @@
       "priorityValue": 101
     },
     {
-      "id": "efc1f646-b474-4163-bb1b-62b0d7853379",
-      "headline": "EVG-Streik: DB-Fernverkehr eingestellt. Der Regionalverkehr der DB in Mecklenburg-Vorpommern fährt langsam wieder an.",
+      "id": "64e50434-4349-4d33-ba62-5b192404cfee",
+      "headline": "EVG-Streik: DB-Fernverkehr eingestellt. Der Regionalverkehr der DB in Mecklenburg-Vorpommern fährt langsam wieder an",
       "newsType": ".",
-      "timePeriod": "27. März  Betriebsbeginn bis mindestens zum frühen Abend",
+      "timePeriod": "am 27. März",
       "introText": "<p>Der Fernverkehr ist weiter wegen eines Streiks der Gewerkschaft EVG eingestellt. Der Regionalverkehr f&auml;hrt in einigen Gebieten langsam wieder an.</p>\n",
-      "connectionsHeadline": "Noch sind alle Linien der DB Regio Nordost in Mecklenburg-Vorpommern von Streikauswirkungen betroffen.",
-      "connections": [],
+      "connectionsHeadline": "Auf folgenden Linien kommt es derzeit noch zu größeren Einschränkungen:",
+      "connections": [
+        "RE3 (Stralsund/Schwedt (O) – Berlin – Lu. Wittenberg): derzeit noch einige Ausfälle",
+        "RE4 (Lübeck – Güstrow – Pasewalk - Szczecin Gł/Ueckermünde): Zugverkehr startet am 28.3.",
+        "RE5 (Rostock/Stralsund – Neustrelitz – Berlin Südkreuz): derzeit noch einige Ausfälle"
+      ],
       "download": {
-        "text": "<p>&Uuml;ber eine m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir kurzfristig situativ informieren.&nbsp;Unser prim&auml;res Ziel ist es, ab Dienstagfr&uuml;h das vollst&auml;ndige Fahrplanangebot wieder anzubieten.</p>\n\n<p>Ein Busnotverkehr kann leider nicht eingerichtet werden.<br />\nAuch der geplante Ersatzverkehr kann von Ausf&auml;llen betroffen sein.</p>\n"
+        "text": "<p>&Uuml;ber eine m&ouml;gliche Durchf&uuml;hrung der Fahrten werden wir kurzfristig informieren.&nbsp;Unser prim&auml;res Ziel ist es, ab Dienstagfr&uuml;h das vollst&auml;ndige Fahrplanangebot wieder anzubieten.</p>\n"
       },
-      "closingText": "<p>Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p><strong>Sonderhotline</strong><br />\nWenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer&nbsp;08000-996633.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/\">bahn.de</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3DL01_S01_D001_KIN0057_-_bahndeaktuell_LZ06?target%3D_blank\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3dl01_s01_d001_kin0057_-_bahndeaktuell_lz06?target%3d_blank\">DB Navigator</a>&nbsp;sowie bei der telefonischen Reiseauskunft 08000-996633.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf&nbsp;bahn.de/fahrgastrechte und bahn.de/sonderkulanz.</p>\n\n<p>F&uuml;r Informationen zu anderen Eisenbahnverkehrsunternehmen wenden Sie sich bitte direkt an diese. Die Kontaktangaben finden Sie unter bahnhof.de/zuege.</p>\n",
+      "closingText": "<p>Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p><strong>Sonderhotline</strong><br />\nWenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer&nbsp;08000-996633.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/\">bahn.de</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3DL01_S01_D001_KIN0057_-_bahndeaktuell_LZ06?target%3D_blank\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3dl01_s01_d001_kin0057_-_bahndeaktuell_lz06?target%3d_blank\">DB Navigator</a>&nbsp;und bei der telefonischen Reiseauskunft 08000-996633.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf&nbsp;bahn.de/fahrgastrechte und bahn.de/sonderkulanz.</p>\n\n<p>F&uuml;r Informationen zu anderen Eisenbahnverkehrsunternehmen wenden Sie sich bitte direkt an diese. Die Kontaktangaben finden Sie unter bahnhof.de/zuege.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -527,7 +551,7 @@
       "areas": [
         "mv"
       ],
-      "lastModified": "27.03.2023 18:07",
+      "lastModified": "27.03.2023 18:36",
       "author": "nordost",
       "expand": false,
       "priorityValue": 101
@@ -587,7 +611,7 @@
         "S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt(M)Flughafen Regionalbf - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)",
         "S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt(M)Flughafen Regionalbf - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf"
       ],
-      "closingText": "<p>&nbsp;</p>\n\n<p><u><strong>Der S-Bahn-Verkehr f&auml;hrt langsam wieder an. Die Z&uuml;ge verkehren im Stundentakt wie folgt:</strong></u></p>\n\n<p><strong>S1:</strong><br />\nKein Betrieb.</p>\n\n<p><strong>S2: </strong><br />\nDietzenbach Bahnhof - Frankfurt-H&ouml;chst.</p>\n\n<p><strong>S3 &amp; S4: </strong><br />\nBad Soden (Taunus) / Kronberg (Taunus) - Frankfurt S&uuml;d.</p>\n\n<p><strong>S5 &amp; S6: </strong><br />\nPlanm&auml;&szlig;iger Laufweg.</p>\n\n<p><strong>S8: </strong><br />\nKein Betrieb.</p>\n\n<p><strong>S9: </strong><br />\nHanau Hbf - Kelsterbach.</p>\n\n<p>&nbsp;</p>\n\n<p>Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Sonderhotline:</strong></p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung.</p>\n\n<p>Die kostenfreie Hotline erreichen Sie unter der Nummer<strong>&nbsp;<a href=\"tel:08000996633\">08000-996633</a>.</strong></p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/\">bahn.de</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3DL01_S01_D001_KIN0057_-_bahndeaktuell_LZ06?target%3D_blank\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3dl01_s01_d001_kin0057_-_bahndeaktuell_lz06?target%3d_blank\">DB Navigator</a>&nbsp;oder bei der telefonischen Reiseauskunft <a href=\"tel:08000996633\">08000-996633</a></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf&nbsp;<a href=\"https://www.bahn.de/service/buchung/fahrgastrechte\">bahn.de/fahrgastrechte</a> und <a href=\"https://www.bahn.de/info/sonderkulanz\">bahn.de/sonderkulanz.</a></p>\n\n<p>F&uuml;r Informationen zu anderen Eisenbahnverkehrsunternehmen wenden Sie sich bitte direkt an diese. Die Kontaktangaben finden Sie unter <a href=\"https://www.bahnhof.de/verkehrsunternehmen\" target=\"_blank\">bahnhof.de/zuege.</a></p>\n",
+      "closingText": "<p>&nbsp;</p>\n\n<p><u><strong>Der S-Bahn-Verkehr f&auml;hrt langsam wieder an. Die Z&uuml;ge verkehren im Stundentakt wie folgt:</strong></u></p>\n\n<p><strong>S1:</strong><br />\nR&ouml;dermark-Ober Roden - Hochheim(Main).</p>\n\n<p><strong>S2: </strong><br />\nDietzenbach Bahnhof - Frankfurt-H&ouml;chst.</p>\n\n<p><strong>S3 &amp; S4: </strong><br />\nBad Soden (Taunus) / Kronberg (Taunus) - Frankfurt S&uuml;d.</p>\n\n<p><strong>S5 &amp; S6: </strong><br />\nPlanm&auml;&szlig;iger Laufweg.</p>\n\n<p><strong>S8: </strong><br />\nKein Betrieb.</p>\n\n<p><strong>S9: </strong><br />\nHanau Hbf - Raunheim.</p>\n\n<p>&nbsp;</p>\n\n<p>Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Sonderhotline:</strong></p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung.</p>\n\n<p>Die kostenfreie Hotline erreichen Sie unter der Nummer<strong>&nbsp;<a href=\"tel:08000996633\">08000-996633</a>.</strong></p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/\">bahn.de</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3DL01_S01_D001_KIN0057_-_bahndeaktuell_LZ06?target%3D_blank\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3dl01_s01_d001_kin0057_-_bahndeaktuell_lz06?target%3d_blank\">DB Navigator</a>&nbsp;oder bei der telefonischen Reiseauskunft <a href=\"tel:08000996633\">08000-996633</a></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf&nbsp;<a href=\"https://www.bahn.de/service/buchung/fahrgastrechte\">bahn.de/fahrgastrechte</a> und <a href=\"https://www.bahn.de/info/sonderkulanz\">bahn.de/sonderkulanz.</a></p>\n\n<p>F&uuml;r Informationen zu anderen Eisenbahnverkehrsunternehmen wenden Sie sich bitte direkt an diese. Die Kontaktangaben finden Sie unter <a href=\"https://www.bahnhof.de/verkehrsunternehmen\" target=\"_blank\">bahnhof.de/zuege.</a></p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -595,7 +619,7 @@
       "areas": [
         "he"
       ],
-      "lastModified": "27.03.2023 15:52",
+      "lastModified": "27.03.2023 18:22",
       "author": "hessen",
       "expand": false,
       "priorityValue": 101
