@@ -86,9 +86,9 @@
       "headline": "EVG-Streik beendet: Regionalverkehr der DB Regio Mitte normalisiert sich.",
       "newsType": "Streik der EVG",
       "timePeriod": "am Montag, 27.03.2023 - 28.03.2023 in den Morgenstunden",
-      "introText": "<p>Der Fern- und der Regionalverkehr der DB normalisieren sich nach dem Streik der Gewerkschaft EVG.</p>\n\n<p>Es kommt vereinzelt noch zu Beeintr&auml;chtigungen.</p>\n\n<p>&nbsp;</p>\n",
+      "introText": "<p>Der Fern- und der Regionalverkehr der DB normalisieren sich nach dem Streik der Gewerkschaft EVG.<br />\nEs kommt vereinzelt noch zu <strong>Beeintr&auml;chtigungen.</strong></p>\n",
       "connections": [],
-      "closingText": "<p>Bitte rechnen Sie auf weiterhin mit <strong>Folgeverz&ouml;gerungen und Fahrtausf&auml;llen.</strong></p>\n\n<p>Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.</p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer&nbsp;<a href=\"tel:08000996633\">08000-996633</a>.</p>\n\n<p>Bitte informieren Sie sich regelm&auml;&szlig;ig vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">www.bahn.de</a>, im <a href=\"https://reiseauskunft.bahn.de/bin/query.exe??dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06?target=_blank\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft&nbsp;08000 996633.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"http://www.bahn.de/service/buchung/fahrgastrechte\">bahn.de/fahrgastrechte</a> und <a href=\"https://www.bahn.de/info/sonderkulanz\">bahn.de/sonderkulanz</a>.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n",
+      "closingText": "<p>Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.</p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer&nbsp;<a href=\"tel:08000996633\">08000-996633</a>.</p>\n\n<p>Bitte informieren Sie sich regelm&auml;&szlig;ig vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">www.bahn.de</a>, im <a href=\"https://reiseauskunft.bahn.de/bin/query.exe??dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06?target=_blank\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft&nbsp;08000 996633.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"http://www.bahn.de/service/buchung/fahrgastrechte\">bahn.de/fahrgastrechte</a> und <a href=\"https://www.bahn.de/info/sonderkulanz\">bahn.de/sonderkulanz</a>.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -99,7 +99,7 @@
         "rp",
         "sl"
       ],
-      "lastModified": "28.03.2023 06:35",
+      "lastModified": "28.03.2023 06:50",
       "author": "mitte",
       "expand": true,
       "priorityValue": 104
@@ -491,36 +491,6 @@
       "lastModified": "04.11.2021 10:10",
       "author": "nrw",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "834da874-1c67-4139-af8e-0560b3a50881",
-      "headline": "EVG-Streik beendet: Verkehr der S-Bahn Rhein-Main normalisiert sich",
-      "newsType": "Streik der Eisenbahn- und Verkehrsgewerkschaft (EVG) beendet",
-      "timePeriod": "28.03.2023 in den Morgenstunden",
-      "introText": "<p>Der Fern- und der Regionalverkehr der DB normalisieren sich nach dem Streik der Gewerkschaft EVG.</p>\n",
-      "connectionsHeadline": "S-Bahn-Linien:",
-      "connections": [
-        "S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden",
-        "S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof",
-        "S3: Bad Soden(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf",
-        "S4: Kronberg(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main) Süd - Langen(Hess)",
-        "S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd",
-        "S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd",
-        "S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt(M)Flughafen Regionalbf - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)",
-        "S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt(M)Flughafen Regionalbf - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf"
-      ],
-      "closingText": "<p><br />\n<u><strong>Bei der S-Bahn-Rhein-Main kommt es in den Morgenstunden noch zu einzelnen Beeintr&auml;chtigungen.</strong></u></p>\n\n<p>&nbsp;</p>\n\n<p><strong>Sonderhotline:</strong></p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung.</p>\n\n<p>Die kostenfreie Hotline erreichen Sie unter der Nummer<strong>&nbsp;<a href=\"tel:08000996633\">08000-996633</a>.</strong></p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;<a href=\"https://reiseauskunft.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://reiseauskunft.bahn.de/\">bahn.de</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3DL01_S01_D001_KIN0057_-_bahndeaktuell_LZ06?target%3D_blank\" rel=\"noreferrer noopener\" target=\"_blank\" title=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;=&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007%3dl01_s01_d001_kin0057_-_bahndeaktuell_lz06?target%3d_blank\">DB Navigator</a>&nbsp;oder bei der telefonischen Reiseauskunft <a href=\"tel:08000996633\">08000-996633</a></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf&nbsp;<a href=\"https://www.bahn.de/service/buchung/fahrgastrechte\">bahn.de/fahrgastrechte</a> und <a href=\"https://www.bahn.de/info/sonderkulanz\">bahn.de/sonderkulanz.</a></p>\n\n<p>F&uuml;r Informationen zu anderen Eisenbahnverkehrsunternehmen wenden Sie sich bitte direkt an diese. Die Kontaktangaben finden Sie unter <a href=\"https://www.bahnhof.de/verkehrsunternehmen\" target=\"_blank\">bahnhof.de/zuege.</a></p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "he"
-      ],
-      "lastModified": "27.03.2023 23:01",
-      "author": "hessen",
-      "expand": false,
       "priorityValue": 101
     },
     {
