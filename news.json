@@ -471,7 +471,7 @@
       "headline": "Unwetter: S-Bahnverkehr zwischen Neustadt(Schwarzwald) und Donaueschingen eingestellt",
       "newsType": "Unwetter",
       "timePeriod": "bis vsl. Samstag, 1. April 2023, ganztägig",
-      "introText": "<p>Es kommt zu Versp&auml;tungen und Teilausf&auml;llen auf der Linie S1/S11/S10. Zwischen Freiburg(Breisgau) und Neustadt(Schwarzw) fahren die S-Bahnen im Stundentakt der S10.</p>\n\n<p><strong>Der Streckenabschnitt zwischen Neustadt(Schwarzw) und Donaueschingen bleibt f&uuml;r Zugfahrten bis vsl. 1. April 2023, ganzt&auml;gig, gesperrt.&nbsp;</strong></p>\n\n<p>Bitte weichen Sie zwischen Donaueschingen und Villingen(Schwarzw) auch auf die regul&auml;r verkehrenden Z&uuml;ge der Linie RE2 und RB45 aus.</p>\n\n<p><strong>Ein Schienenersatzverkehr mit Bus ist auf folgenden Streckenabschnitten weiterhin eingerichtet:</strong></p>\n\n<p>- Zwischen Titisee und Donaueschingen im Pendelverkehr&nbsp;</p>\n",
+      "introText": "<p>Es kommt zu Versp&auml;tungen und Teilausf&auml;llen auf der Linie S1/S11/S10. Zwischen Freiburg(Breisgau) und Neustadt(Schwarzw) fahren die S-Bahnen im Stundentakt der S10.</p>\n\n<p><strong>Der Streckenabschnitt zwischen Neustadt(Schwarzw) und Donaueschingen bleibt f&uuml;r Zugfahrten bis vsl. 1. April 2023, ganzt&auml;gig, gesperrt.&nbsp;</strong></p>\n\n<p>Bitte weichen Sie zwischen Donaueschingen und Villingen(Schwarzw) auch auf die regul&auml;r verkehrenden Z&uuml;ge der Linie RE2 und RB42 aus.</p>\n\n<p><strong>Ein Schienenersatzverkehr mit Bus ist auf folgenden Streckenabschnitten weiterhin eingerichtet:</strong></p>\n\n<p>- Zwischen Titisee und Donaueschingen im Pendelverkehr&nbsp;</p>\n",
       "connectionsHeadline": "Betroffene Strecke: ",
       "connections": [
         "S1: Freiburg(Breisgau) - Titisee - Seebrugg",
@@ -486,8 +486,29 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "01.04.2023 13:23",
+      "lastModified": "01.04.2023 13:51",
       "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "3529f07c-26ee-4a46-bf2c-ebc6078f268b",
+      "headline": "Beeinträchtigungen zwischen Konstanz und Karlsruhe(Schwarzwaldbahn)",
+      "newsType": "Fahrzeugstörung",
+      "timePeriod": "seit ca. 12 Uhr",
+      "connectionsHeadline": "Betroffene Strecke:",
+      "connections": [
+        "RE2 Konstanz - Singen(Hohentwiel) - Offenburg - Karlsruhe"
+      ],
+      "closingText": "<p>Eine Reparatur an einem Zug zwischen Singen(Hohentwiel) und Engen beeintr&auml;chtigt den Bahnverkehr. Die Strecke ist gesperrt. In der Folge kommt es zu hohen Versp&auml;tungen und Teilausf&auml;llen.</p>\n\n<p>Bisher haben wir leider keine Informationen zur Dauer der Sperrung. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "01.04.2023 14:27",
       "expand": false,
       "priorityValue": 101
     },
