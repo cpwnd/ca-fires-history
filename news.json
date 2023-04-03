@@ -37,51 +37,6 @@
       "priorityValue": 316
     },
     {
-      "id": "7c3925f0-2701-47b1-9ad5-ec2970b67d0b",
-      "headline": " Beeinträchtigungen zwischen Köln und Düsseldorf",
-      "newsType": " Reparatur an der Weiche",
-      "timePeriod": "Bis vsl. Montag, 03.04.2023 in den Morgenstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Weiche zwischen K&ouml;ln und D&uuml;sseldorf kommt es im Fernverkehr der Deutschen Bahn derzeit zu Versp&auml;tungen von etwa 20 Minuten im betroffenen Streckenabschnitt.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "alle EC/IC sowie ICE-Züge zwischen Köln und Düsseldorf"
-      ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "nw"
-      ],
-      "lastModified": "02.04.2023 22:36",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 301
-    },
-    {
-      "id": "1f6a2aa2-88bc-44e8-8b67-0a3433684e64",
-      "headline": " Beeinträchtigungen zwischen Stuttgart und Ulm",
-      "newsType": " Reparatur an der Oberleitung",
-      "timePeriod": "Am heutigen Montag, 03.04.2023 vsl. bis in die Mittagsstunden",
-      "introText": "<p>Aufgrund einer Reparatur an der Oberleitung zwischen Stuttgart und Ulm kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. In der Folge kommt es zu Versp&auml;tungen und (Teil-) Ausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "Züge zwischen Stuttgart und Ulm"
-      ],
-      "closingText": "<p><strong>Bitte rechnen Sie in den noch verkehrenden Fernverkehrsz&uuml;gen in diesem Abschnitt mit einer erh&ouml;hten Auslastung.</strong></p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "03.04.2023 05:21",
-      "expand": false,
-      "priorityValue": 301
-    },
-    {
       "id": "40a40c28-c991-433c-8880-7f33c76578e6",
       "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
       "newsType": "Personalengpässe",
@@ -187,6 +142,28 @@
         "br"
       ],
       "lastModified": "14.03.2023 12:52",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "4aec7116-c8ee-4314-9bf5-e2767a244bd5",
+      "headline": "Ausfall RB91 zwischen Frankfurt(Oder) und Rzepin",
+      "newsType": "Fahrzeugstörung",
+      "timePeriod": "03. April 2023",
+      "connections": [
+        "RB91 Frankfurt(Oder) - Rzepin"
+      ],
+      "closingText": "<p>Wegen einer Reparatur am Triebfahrzeug fallen folgende Z&uuml;ge zwischen Rzepin und Frankfurt (Oder) aus:</p>\n\n<p><strong>RB 5830</strong> planm&auml;&szlig;ige Abfahrt ab Rzepin um 7:16 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5831&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 8:12 Uhr nach Rzepin</p>\n\n<p><strong>RB 5832&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 12:26 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5833&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 13:12 Uhr nach Rzepin</p>\n\n<p><strong>RB 5834&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 17:25 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5835</strong> planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) ab 18:10 Uhr nach Rzepin</p>\n\n<p>Nach Informationen der <em><u>POLREGIO</u></em> verkehrt ein Ersatzverkehr mit einem Bus zwischen Rzepin und Frankfurt und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>,&nbsp;im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "03.04.2023 07:37",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
