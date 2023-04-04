@@ -436,8 +436,10 @@
       "newsType": "Defektes Stellwerk",
       "timePeriod": "Dauer der Sperrung nicht bekannt",
       "introText": "<p>Ein <strong>defektes Stellwerk</strong> beeintr&auml;chtigt den Zugverkehr <strong>zwischen Rockenhausen und Bingen(Rhein) Hbf.</strong><br />\nZur Zeit sind <strong>keine Zugfahrten im oben genannten Streckenabschnitt</strong> m&ouml;glich.&nbsp;</p>\n",
-      "connectionsHeadline": "RB65 Kaiserslautern - Enkenbach - Bad Kreuznach - Bingen",
-      "connections": [],
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "RB65 Kaiserslautern - Enkenbach - Bad Kreuznach - Bingen"
+      ],
       "download": {
         "text": "<p>Die <strong>RB65</strong> aus Richtung Kaiserslautern Hbf<strong> endet und beginnt vorzeitig in Rockenhausen.</strong></p>\n\n<p>Wir haben f&uuml;r Sie einen <strong>Ersatzverkehr mit drei Bussen zwischen Rockenhausen und Bingen(Rhein) Hbf eingerichtet</strong>, der alle Unterwegshalte anf&auml;hrt.<br />\nBitte beachten Sie, dass die <strong>Busse ohne festen Fahrplan verkehren</strong> und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.<br />\nDie Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Es kann auf dem <strong>gesamten Laufweg zu Versp&auml;tungen und kurzfristigen Fahrausf&auml;llen</strong> kommen.</p>\n\n<p>Sobald uns neuere Informationen vorliegen halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n"
       },
@@ -449,7 +451,7 @@
       "areas": [
         "rp"
       ],
-      "lastModified": "04.04.2023 12:10",
+      "lastModified": "04.04.2023 12:26",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
