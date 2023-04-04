@@ -150,6 +150,29 @@
       "priorityValue": 102
     },
     {
+      "id": "b591377d-2a2e-4a5b-b0cc-69bb1781ab1e",
+      "headline": "Unterbrechung und Ausfall RB55 und RE6",
+      "newsType": "(Streckensperrung nach Entgleisung) ",
+      "timePeriod": "bis vsl. 05.April Betriebsschluss ",
+      "introText": "<p>Nach einer Entleisung ist die Strecke zwischen Hennigsdorf (b Berlin) und Kremmen in beiden Richtungen gesperrt und kein Zugverkehr m&ouml;glich. Betroffen sind folgende Linien:&nbsp;</p>\n\n<p><strong>RB55</strong></p>\n\n<p>Alle Z&uuml;ge dieser Linie fallen zwischen Hennigsdorf (b Berlin) und Kremmen in beiden Richtungen aus. Es pendeln zwei Busse ohne Fahrplan und mit Halt auf allen Unterwegsbahnh&ouml;fen&nbsp;</p>\n\n<p><strong>RE6</strong></p>\n\n<p>Alle Z&uuml;ge fallen zwischen Hennigsdorf (b Berlin) und Kremmen aus. Es pendeln zwei Busse ohne Halt auf Unterwegsbahnh&ouml;fen&nbsp;</p>\n",
+      "connections": [
+        "RB55 (Hennigsdorf- Velten (Mark) -Kremmen)",
+        "RE6 (Berlin-Charlottenburg- Hennigsdorf- Velten (Mark)- Neuruppin- Wittstock - Pritzwalk- Wittenberge)  "
+      ],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>,&nbsp;in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a>,&nbsp;im <a href=\"http://DB Navigator\">DB Navigator</a>&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "04.04.2023 15:47",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "1e2a45bd-546b-4423-8ac6-4ece2051bd85",
       "headline": "Zugausfälle auf der Linie RB24 Nord (zwischen Berlin-Lichtenberg - Flughafen BER - Terminal 5)",
       "newsType": ".",
