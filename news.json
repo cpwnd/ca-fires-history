@@ -27,7 +27,7 @@
       "id": "7f208124-6f75-42a3-8cf6-c39deaf3ff7a",
       "headline": " Beeinträchtigungen im Raum Hamburg behoben",
       "newsType": " Feuerwehreinsatz auf der Strecke abgeschlossen",
-      "timePeriod": "Am heutigen Sonntag, 09.04.2023 vsl. bis in die Nachmittagsstunden",
+      "timePeriod": "-",
       "introText": "<p>Der Feuerwehreinsatz in Gleisn&auml;he zwischen Hamburg und B&uuml;chen ist abgeschlossen. Eingeschr&auml;nkter Zugverkehr nun m&ouml;glich. Mit Folgeversp&auml;tungen ist noch zu rechnen.</p>\n",
       "connectionsHeadline": "Betroffen waren folgende Verbindungen im Fernverkehr:",
       "connections": [
@@ -45,34 +45,10 @@
         "hh",
         "mv"
       ],
-      "lastModified": "09.04.2023 14:47",
+      "lastModified": "09.04.2023 15:02",
       "author": "fernverkehr_ag",
       "expand": false,
       "priorityValue": 204
-    },
-    {
-      "id": "00715675-a884-4ce9-8b5d-01713ed8c2d7",
-      "headline": "Streckensperrung zwischen Hamburg Hbf und Hamburg-Bergedorf",
-      "newsType": "Feuerwehreinsatz auf der Strecke",
-      "timePeriod": "Sonntag, 09.04.2023, vsl. bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund eines Feuerwehreinsatzes in Gleisn&auml;he ist die Strecke zwischen Hamburg und Hamburg-Bergedorf derzeit gesperrt.</p>\n",
-      "connectionsHeadline": "Betroffene Linie:",
-      "connections": [
-        "RE 1 (Hamburg Hbf - Büchen - Rostock): Züge nach Rostock beginnen/enden in Hamburg-Bergedorf. Züge von/nach Büchen fallen aus. Nutzen Sie ab Hamburg Hbf die S-Bahn bis Berliner Tor. Anschließend ist ein Ersatzverkehr mit Bussen bis Billwerder- Moorfleet eingerichtet und ab dort verkehren S- Bahnen Richtung Hamburg-Bergedorf."
-      ],
-      "closingText": "<p>Rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 30 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noreferrer noopener\" target=\"_blank\">App DB Navigator</a> oder beim regionalen Kundendialog unter<a href=\"tel: 043153440500\"> 0431 53440500</a>.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf <a href=\"https://twitter.com/dbregio_SH\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" rel=\"noreferrer noopener\" target=\"_blank\">bahn.de/fahrgastrechte</a>.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "priority": "1",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "hh",
-        "sh"
-      ],
-      "lastModified": "09.04.2023 11:32",
-      "author": "schleswig_holstein",
-      "expand": false,
-      "priorityValue": 202
     },
     {
       "id": "40a40c28-c991-433c-8880-7f33c76578e6",
@@ -160,6 +136,31 @@
       ],
       "lastModified": "22.12.2022 10:56",
       "author": "suedost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "6aa11723-b970-4b85-b5c8-f9e5d8b38b9d",
+      "headline": "Streckensperrung zwischen Hamburg Hbf und Hamburg-Bergedorf aufgehoben",
+      "newsType": "Feuerwehreinsatz auf der Strecke",
+      "timePeriod": "Sonntag, 09.04.2023",
+      "introText": "<p>Die Strecke zwischen Hamburg und Hamburg-Bergedorf ist wieder freigegeben.&nbsp;</p>\n",
+      "connectionsHeadline": "Die ersten durchfahrenden Züge sind:",
+      "connections": [
+        "RE 1 (Hamburg Hbf -Büchen): RE 13015 ab Hamburg Hbf um 15:21 Uhr. ",
+        "RE 1 (Rostock - Hamburg Hbf): RE 4310 ab Hamburg-Bergedorf um 15:28 Uhr."
+      ],
+      "closingText": "<p>Versp&auml;tungen auf der Linie RE 1 sind weiterhin m&ouml;glich.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter <a href=\"https://reiseauskunft.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">bahn.de/reiseauskunft</a>, in der <a href=\"https://www.bahn.de/service/mobile/db-navigator\" rel=\"noreferrer noopener\" target=\"_blank\">App DB Navigator</a> oder beim regionalen Kundendialog unter<a href=\"tel: 043153440500\"> 0431 53440500</a>.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf <a href=\"https://twitter.com/dbregio_SH\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf <a href=\"https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml\" rel=\"noreferrer noopener\" target=\"_blank\">bahn.de/fahrgastrechte</a>.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "hh",
+        "sh"
+      ],
+      "lastModified": "09.04.2023 14:57",
+      "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 102
     },
