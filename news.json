@@ -1,33 +1,6 @@
 {
   "news": [
     {
-      "id": "7f208124-6f75-42a3-8cf6-c39deaf3ff7a",
-      "headline": " Beeinträchtigungen im Raum Hamburg",
-      "newsType": " Feuerwehreinsatz auf der Strecke",
-      "timePeriod": "Am heutigen Sonntag, 09.04.2023 vsl. bis in die Nachmittagsstunden",
-      "introText": "<p>Aufgrund eines Feuerwehreinsatzes in Gleisn&auml;he ist die Strecke zwischen Hamburg und B&uuml;chen derzeit gesperrt. Es kommt zu Versp&auml;tungen, Umleitungen und (Teil-)Ausf&auml;llen.</p>\n",
-      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
-      "connections": [
-        "IC/EC/ICE-Züge zwischen Hamburg und Berlin werden umgeleitet und verspäten sich um etwa 90 Minuten. Die Halte in Hamburg-Bergedorf, Büchen, Ludwigslust und Wittenberge entfallen.",
-        "IC/ICE-Züge zwischen Hamburg und Rostock fallen leider aus "
-      ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>- Sie erreichen <u>B&uuml;chen</u> weiterhin mit Nahverkehrsz&uuml;gen der Linie RE1 ab Hamburg-<strong>Bergedorf</strong>&nbsp;oder der Linie erx RE83 ab L&uuml;neburg</p>\n\n<p>- Sie erreichen <u>Ludwigslust</u> und <u>Wittenberge</u> weiterhin mit Nahverkehrsz&uuml;gen der Linie RE8 ab Berlin</p>\n\n<p>- Sie erreichen <u>Schwerin</u> weiterhin mit Nahverkehrsz&uuml;gen der Linie RE1 sowie <u>Rostock</u> mit Fernverkehrs- und Nahverkehrsz&uuml;gen ab Berlin</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
-      "priority": "2",
-      "distance": [
-        "longDistance"
-      ],
-      "areas": [
-        "be",
-        "br",
-        "hh",
-        "mv"
-      ],
-      "lastModified": "09.04.2023 10:52",
-      "author": "fernverkehr_ag",
-      "expand": false,
-      "priorityValue": 304
-    },
-    {
       "id": "f98ed6f5-b83f-42b1-a3b3-6d7c87787f6b",
       "headline": " Beeinträchtigungen zwischen Offenburg und Freiburg",
       "newsType": " Bauarbeiten",
@@ -49,6 +22,33 @@
       "lastModified": "07.04.2023 07:53",
       "expand": false,
       "priorityValue": 301
+    },
+    {
+      "id": "7f208124-6f75-42a3-8cf6-c39deaf3ff7a",
+      "headline": " Beeinträchtigungen im Raum Hamburg behoben",
+      "newsType": " Feuerwehreinsatz auf der Strecke abgeschlossen",
+      "timePeriod": "Am heutigen Sonntag, 09.04.2023 vsl. bis in die Nachmittagsstunden",
+      "introText": "<p>Der Feuerwehreinsatz in Gleisn&auml;he zwischen Hamburg und B&uuml;chen ist abgeschlossen. Eingeschr&auml;nkter Zugverkehr nun m&ouml;glich. Mit Folgeversp&auml;tungen ist noch zu rechnen.</p>\n",
+      "connectionsHeadline": "Betroffen waren folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "IC/EC/ICE-Züge zwischen Hamburg und Berlin",
+        "IC/ICE-Züge zwischen Hamburg und Rostock"
+      ],
+      "closingText": "<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "1",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "be",
+        "br",
+        "hh",
+        "mv"
+      ],
+      "lastModified": "09.04.2023 14:47",
+      "author": "fernverkehr_ag",
+      "expand": false,
+      "priorityValue": 204
     },
     {
       "id": "00715675-a884-4ce9-8b5d-01713ed8c2d7",
