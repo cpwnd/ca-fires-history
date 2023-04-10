@@ -1,24 +1,24 @@
 {
   "news": [
     {
-      "id": "49f04b62-310a-4dbf-a62a-c7986c8f3d9b",
-      "headline": " Beeinträchtigungen in Dresden",
-      "newsType": "Erkrankung Personal",
-      "timePeriod": "Am Ostermontag, 10.04.2023 bis in die Abendstunden",
-      "introText": "<p>Aufgrund einer Erkrankung von Personal in Dresden ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Haltausf&auml;llen.</p>\n",
+      "id": "c2adb45d-2ff6-48a3-9a87-04845081eb47",
+      "headline": " Verspätungen zwischen Stuttgart und Ulm",
+      "newsType": " Technische Störung an der Strecke",
+      "timePeriod": "am Mittwoch, 05.04.2023 bis in die Nachmittagsstunden",
+      "introText": "<p>Aufgrund einer technischen St&ouml;rung an der Strecke in Wendlingen zwischen Stuttgart und Ulm ist der Fernverkehr der Deutschen Bahn derzeit beeintr&auml;chtigt. Es kommt zu Versp&auml;tungen.</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
-        "Alle ICE/IC-Züge mit Halt in Dresden-Neustadt werden umgeleitet. Der Halt Dresden-Neustadt entfällt."
+        "Einzelne ICE-Züge beider Fahrtrichtungen zwischen Stuttgart und Ulm verspäten sich um bis zu 20 Minuten."
       ],
-      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Reisende von/nach Dresden-Neustadt nutzen bitte den Halt Dresden Hbf und zwischen Dresden-Neustadt und Dresden Hbf die S-Bahn Linie S 1, S 2 und S 8. Bitte planen Sie mehr Reisezeit ein.<br />\n&nbsp;</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
       ],
       "areas": [
-        "sn"
+        "bw"
       ],
-      "lastModified": "10.04.2023 10:33",
+      "lastModified": "05.04.2023 11:09",
       "expand": false,
       "priorityValue": 301
     },
@@ -42,6 +42,47 @@
         "st"
       ],
       "lastModified": "26.03.2023 16:46",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "17f43ecd-0cf5-4d14-ac5d-3dc5de0d1de5",
+      "headline": "Einschränkungen bei der S-Bahn Mitteldeutschland Linie S 9",
+      "newsType": "Personalengpässe",
+      "timePeriod": "bis einschließlich 10. April 2023",
+      "introText": "<p>Wegen Engp&auml;ssen an einsatzbereitem Fahrpersonal kommt es auf der Linie S 9 zu weiteren Fahrplananpassungen.</p>\n",
+      "connectionsHeadline": "Betroffene Linie",
+      "connections": [
+        "S 9 Halle (Saale) Hbf - Eilenburg"
+      ],
+      "download": {
+        "text": "<p><u>Bitte beachten Sie, dass vereinzelte Z&uuml;ge ausfallen und durch Busse ersetzt werden.</u></p>\n\n<p>Die geltenden Fahrpl&auml;ne finden Sie nachstehend:</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:ae9acb14-7541-4438-b127-70ddd10ffc8c/LH-LEG_Ausfall%20Verst%C3%A4rker_230306-230410.xlsx",
+            "title": "Fahrplan Halle - Eilenburg 06.03.2023 - 10.04.2023 (XLSX, 20 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:6ae79fa5-fab0-4dc3-8163-3ee38ba1c58b/LEG-LH_Ausfall%20Verst%C3%A4rker_230306-230410.xlsx",
+            "title": "Fahrplan Eilenburg - Halle 06.03.2023 - 10.04.2023 (XLSX, 21 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder telefonisch unter 0341 266 966 22 (zum Ortstarif) zu informieren.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sn",
+        "st"
+      ],
+      "lastModified": "25.03.2023 21:36",
+      "author": "suedost",
       "expand": false,
       "priorityValue": 102
     },
@@ -71,6 +112,29 @@
       "priorityValue": 102
     },
     {
+      "id": "b591377d-2a2e-4a5b-b0cc-69bb1781ab1e",
+      "headline": "Unterbrechung und Ausfall RB55 und RE6",
+      "newsType": "(Streckensperrung nach Entgleisung) ",
+      "timePeriod": "bis vsl. 12.April 2023 ",
+      "introText": "<p>Nach einer Entgleisung ist die Strecke zwischen Hennigsdorf (b Berlin) und Kremmen in beiden Richtungen bis vsl. 12. April 2023 gesperrt. Es ist kein Zugverkehr m&ouml;glich. Betroffen sind folgende Linien:&nbsp;</p>\n\n<p><strong>RB55</strong></p>\n\n<p>Alle Z&uuml;ge dieser Linie fallen zwischen Hennigsdorf (b Berlin) und Kremmen in beiden Richtungen aus. Es pendeln zwei Busse ohne Fahrplan und mit Halt an allen Unterwegsbahnh&ouml;fen.&nbsp;</p>\n\n<p><strong>RE6</strong></p>\n\n<p>Alle Z&uuml;ge fallen zwischen Hennigsdorf (b Berlin) und Kremmen aus. Es pendeln zwei Busse ohne Halt an Unterwegsbahnh&ouml;fen.&nbsp;</p>\n",
+      "connections": [
+        "RB55 (Hennigsdorf- Velten (Mark) -Kremmen)",
+        "RE6 (Berlin-Charlottenburg- Hennigsdorf- Velten (Mark)- Neuruppin- Wittstock - Pritzwalk- Wittenberge)  "
+      ],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>,&nbsp;in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a>,&nbsp;im <a href=\"http://DB Navigator\">DB Navigator</a>&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "05.04.2023 12:32",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "1e2a45bd-546b-4423-8ac6-4ece2051bd85",
       "headline": "Zugausfälle auf der Linie RB24 Nord (zwischen Berlin-Lichtenberg - Flughafen BER - Terminal 5)",
       "newsType": ".",
@@ -87,6 +151,28 @@
         "br"
       ],
       "lastModified": "14.03.2023 12:52",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
+      "id": "4aec7116-c8ee-4314-9bf5-e2767a244bd5",
+      "headline": "Ausfall RB91 zwischen Frankfurt(Oder) und Rzepin",
+      "newsType": "Fahrzeugstörung",
+      "timePeriod": "05. April 2023",
+      "connections": [
+        "RB91 Frankfurt(Oder) - Rzepin"
+      ],
+      "closingText": "<p>Wegen einer Reparatur am Triebfahrzeug fallen folgende Z&uuml;ge zwischen Rzepin und Frankfurt (Oder) aus:</p>\n\n<p><strong>RB 5830</strong> planm&auml;&szlig;ige Abfahrt ab Rzepin um 7:16 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5831&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 8:12 Uhr nach Rzepin</p>\n\n<p><strong>RB 5832&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 12:26 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5833&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) um 13:12 Uhr nach Rzepin</p>\n\n<p><strong>RB 5834&nbsp;</strong>planm&auml;&szlig;ige Abfahrt ab Rzepin ab 17:25 Uhr nach Frankfurt (Oder)</p>\n\n<p><strong>RB 5835</strong> planm&auml;&szlig;ige Abfahrt ab Frankfurt (Oder) ab 18:10 Uhr nach Rzepin</p>\n\n<p>Nach Informationen der <em><u>POLREGIO</u></em> verkehrt ein Ersatzverkehr mit einem Bus zwischen Rzepin und Frankfurt und zur&uuml;ck.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\" style=\"color:blue; text-decoration:underline\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>,&nbsp;im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "05.04.2023 05:52",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -109,6 +195,40 @@
       "lastModified": "27.12.2022 10:50",
       "author": "nordost",
       "expand": true,
+      "priorityValue": 102
+    },
+    {
+      "id": "7e8240de-9cf5-451c-95d0-171fa1efed29",
+      "headline": "Beeinträchtigungen zwischen Bad Mergentheim und Crailsheim",
+      "newsType": "Krankheitsbedingter Personalausfall im Stellwerk ",
+      "timePeriod": "am 5. und 6. April 2023, jeweils ab 14:30 Uhr",
+      "introText": "<p>Aufgrund krankheitsbedingter Personalausf&auml;lle im Stellwerk Markelsheim kommt es zwischen Bad Mergentheim und Crailsheim am 5. und 6. April jeweils ab 14:30 Uhr zu Zugausf&auml;llen.&nbsp;</p>\n\n<p>Wir haben f&uuml;r die ausfallenden Z&uuml;ge einen Ersatzverkehr mit Bus eingerichtet, den&nbsp;Fahrplan finden Sie weiter unten. Bitte &uuml;berpr&uuml;fen Sie auch die Verbindung mit dem&nbsp;Buserg&auml;nzungsverkehr in den Randlagen.</p>\n",
+      "connectionsHeadline": "Betroffene Strecken:",
+      "connections": [
+        "RE 88: Aschaffenburg -  Wertheim",
+        "RE 87: Aschaffenburg - Crailsheim"
+      ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:e099cb6a-8208-43cb-8bd7-c8a5cccfb762/Ersatzverkehr%20mit%20Bus%20Bad%20Mergentheim-Crailsheim%205.%20und%206.%20April.pdf",
+            "title": "Ersatzverkehr mit Bus Bad Mergentheim-Crailsheim 5. und 6. April.pdf (PDF, 159 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw",
+        "by"
+      ],
+      "lastModified": "04.04.2023 18:56",
+      "expand": false,
       "priorityValue": 102
     },
     {
@@ -141,6 +261,32 @@
       "priorityValue": 101
     },
     {
+      "id": "97d1d389-ba99-47d1-8f0c-5f4836d5608e",
+      "headline": "Einschränkungen bei der S-Bahn Mitteldeutschland Linie S 47",
+      "newsType": "Personalengpässe",
+      "timePeriod": "06.03.2023 bis 10.04.2023",
+      "introText": "<p>Wegen Engp&auml;ssen an einsatzbereitem Fahrpersonal kommt es auf der Linie S 47 zu weiteren Fahrplananpassungen.</p>\n",
+      "connectionsHeadline": "Betroffene Linie",
+      "connections": [
+        "S 47 Halle(Saale) Hbf - Halle-Trotha"
+      ],
+      "download": {
+        "text": "<p><strong>Im Zeitraum 06.03.2023 &ndash; 10.04.2023 fallen folgende Z&uuml;ge aus:</strong></p>\n\n<p><br />\n<strong>1. zwischen Halle (S) Hbf - Halle-Trotha Sa+So auch am 07.04. und 10.04.2023:</strong><br />\n<strong>37704</strong> -&gt; ab Halle(Saale) Hbf 07:26 Uhr -&nbsp; an Halle -Trotha 07:37 Uhr</p>\n\n<p><strong>37706</strong> -&gt; ab Halle(Saale) Hbf 08:26 Uhr -&nbsp; an Halle-Trotha 08:37 Uhr&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong>2. zwischen Halle-Trotha - Halle (S) Hbf Sa+So auch am 07.04. und 10.04.2023:</strong><br />\n<strong>37707</strong> -&gt; ab Halle-Trotha 07:53 Uhr - an Halle(Saale) Hbf 08:05 Uhr&nbsp;</p>\n\n<p><strong>37709</strong> -&gt; ab Halle-Trotha 08:53 Uhr - an Halle(Saale) Hbf 09:05 Uhr&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong>3. zwischen Halle (S) Hbf - Halle-Trotha t&auml;glich:</strong><br />\n<strong>37708</strong> -&gt; ab Halle(Saale) Hbf 09:26 Uhr - an Halle-Trotha 09:37 Uhr&nbsp;</p>\n\n<p><strong>37710</strong> -&gt; ab Halle(Saale) Hbf 10:26 Uhr - an Halle-Trotha 10:37 Uhr&nbsp;</p>\n\n<p><strong>37712</strong> -&gt; ab Halle(Saale) Hbf 11:26 Uhr - an Halle-Trotha 11:37 Uhr&nbsp;</p>\n\n<p><strong>37714</strong> -&gt; ab Halle(Saale) Hbf 12:26 Uhr - an Halle-Trotha 12:37 Uhr&nbsp;</p>\n\n<p><strong>37716</strong> -&gt; ab Halle(Saale) Hbf 13:26 Uhr - an Halle-Trotha 13:37 Uhr&nbsp;</p>\n\n<p><strong>37718</strong> -&gt; ab Halle(Saale) Hbf 14:26 Uhr - an Halle-Trotha 14:37 Uhr&nbsp;</p>\n\n<p><strong>37720</strong> -&gt; ab Halle(Saale) Hbf 15:26 Uhr - an Halle-Trotha 15:37 Uhr&nbsp;</p>\n\n<p><strong>37722</strong> -&gt; ab Halle(Saale) Hbf 16:26 Uhr - an Halle-Trotha 16:37 Uhr&nbsp;</p>\n\n<p><strong>37724</strong> -&gt; ab Halle(Saale) Hbf 17:26 Uhr - an Halle-Trotha 17:37 Uhr&nbsp;</p>\n\n<p><strong>37726</strong> -&gt; ab Halle(Saale) Hbf 18:26 Uhr - an Halle-Trotha 18:37 Uhr&nbsp;</p>\n\n<p><strong>37728</strong> -&gt; ab Halle(Saale) Hbf 19:26 Uhr - an Halle-Trotha 19:37 Uhr&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p><strong>4. zwischen Halle-Trotha - Halle (S) Hbf t&auml;glich:</strong></p>\n\n<p><strong>37711</strong> -&gt; ab Halle-Trotha 09:53 Uhr - an Halle(Saale) Hbf 10:05 Uhr</p>\n\n<p><strong>37713</strong> -&gt; ab Halle-Trotha 10:53 Uhr - an Halle(Saale) Hbf 11:05 Uhr</p>\n\n<p><strong>37715</strong> -&gt; ab Halle-Trotha 11:53 Uhr - an Halle(Saale) Hbf 12:05 Uhr</p>\n\n<p><strong>37717</strong> -&gt; ab Halle-Trotha 12:53 Uhr - an Halle(Saale) Hbf 13:05 Uhr</p>\n\n<p><strong>37719</strong> -&gt; ab Halle-Trotha 13:53 Uhr - an Halle(Saale) Hbf 14:05 Uhr</p>\n\n<p><strong>37721</strong> -&gt; ab Halle-Trotha 14:53 Uhr - an Halle(Saale) Hbf 15:05 Uhr</p>\n\n<p><strong>37723</strong> -&gt; ab Halle-Trotha 15:53 Uhr - an Halle(Saale) Hbf 16:05 Uhr</p>\n\n<p><strong>37725</strong> -&gt; ab Halle-Trotha 16:53 Uhr - an Halle(Saale) Hbf 17:05 Uhr</p>\n\n<p><strong>37727</strong> -&gt; ab Halle-Trotha 17:53 Uhr - an Halle(Saale) Hbf 18:05 Uhr</p>\n\n<p><strong>37729</strong> -&gt; ab Halle-Trotha 18:53 Uhr - an Halle(Saale) Hbf 19:05 Uhr</p>\n\n<p><strong>37731</strong> -&gt; ab Halle-Trotha 19:53 Uhr - an Halle(Saale) Hbf 20:05 Uhr</p>\n\n<p>Reisende sind mit Ihren Ticket berechtigt, die Leistungen der HAVAG in der Tarifzone 210 auf dem k&uuml;rzesten Weg zur n&auml;chsten bedienten S-Bahn-Station innerhalb eines Zeitraumes von einer Stunde vor bzw. nach Start- bzw Endzeitpunkt Ihrer S-Bahn-Fahrt zu nutzen. Das Umsteigen zwischen verschiedenen Linien ist m&ouml;glich.</p>\n"
+      },
+      "closingText": "<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren. Die Angebotsver&auml;nderungen sind bereits in der elektronischen Reiseauskunft eingearbeitet.</p>\n\n<p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif)</p>\n\n<p>&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "st"
+      ],
+      "lastModified": "05.02.2023 06:31",
+      "author": "suedost",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "5592a7e8-6682-4cfb-a5ef-0de632680d64",
       "headline": "Baubedingte Fahrplanänderungen auf den S-Bahn Linien S 2 und S 8",
       "newsType": "Bauarbeiten",
@@ -170,6 +316,28 @@
         "st"
       ],
       "lastModified": "07.02.2023 14:19",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "3c68d4b6-006e-47f6-a836-7c593f070c23",
+      "headline": "Einschränkungen bei der S-Bahn Mitteldeutschland Linie S 10",
+      "newsType": "Personalengpässe",
+      "timePeriod": "bis einschließlich 06. April 2022",
+      "introText": "<p>Durch Engp&auml;sse an einsatzbereitem Personal bestehen f&uuml;r die S-Bahn-Linie S 10 Fahrplaneinschr&auml;nkungen bis zum 06. April 2023.</p>\n",
+      "connectionsHeadline": "Betroffene Linie",
+      "connections": [
+        "S 10 Leipzig Hbf - Leipzig Miltitzer Allee"
+      ],
+      "closingText": "<p>Folgende Z&uuml;ge entfallen:<br />\n<br />\n<u>Leipzig Miltitzer Allee - Leipzig Hbf</u></p>\n\n<p>37751 - Abfahrt 06:35 Uhr<br />\n37757 - Abfahrt 08:05 Uhr<br />\n37763 - Abfahrt 09:35 Uhr<br />\n37769 - Abfahrt 11:05 Uhr<br />\n37775 - Abfahrt 12:35 Uhr&nbsp;<br />\n37781 - Abfahrt 14:05 Uhr<br />\n37787 - Abfahrt 15:35 Uhr<br />\n37793 - Abfahrt 17:05 Uhr<br />\n37799 - Abfahrt 18:35 Uhr</p>\n\n<p><u>Leipzig Hbf - Leipzig Miltitzer Allee</u></p>\n\n<p>37752 - Abfahrt 07:28 Uhr<br />\n37758 - Abfahrt 08:58 Uhr<br />\n37764 - Abfahrt 10:28 Uhr<br />\n37770 - Abfahrt 11:58 Uhr<br />\n37776 - Abfahrt 13:28 Uhr<br />\n37782 - Abfahrt 14:58 Uhr<br />\n37788 - Abfahrt 16.28 Uhr<br />\n37794 - Abfahrt 17:58 Uhr</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>\n\n<p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sn"
+      ],
+      "lastModified": "24.12.2022 14:48",
       "expand": false,
       "priorityValue": 101
     },
@@ -257,6 +425,30 @@
       "lastModified": "04.11.2021 10:10",
       "author": "nrw",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "f017aee2-b9a6-4b46-96f9-2cd017133051",
+      "headline": "Weiterhin Beeinträchtigungen zwischen Rockenhausen und Bingen(Rhein)",
+      "newsType": "Defektes Stellwerk",
+      "timePeriod": "Dauer der Beeinträchtigung nicht bekannt",
+      "introText": "<p>Das defekte Stellwerk zwischen Rockenhausen und Bingen(Rhein) Hbf wurde teilweise repariert. Der Zugverkehr im oben genannten Streckenabschnitt&nbsp;wurde wieder aufgenommen.</p>\n\n<p>&nbsp;</p>\n",
+      "connectionsHeadline": "RB65 Kaiserslautern - Enkenbach - Bad Kreuznach - Bingen",
+      "connections": [],
+      "download": {
+        "text": "<p>Es kommt zu Versp&auml;tungen von 10-20 Minuten in beide Richtungen. Auch kurzfristige Fahrtausf&auml;lle k&ouml;nnen nicht ausgeschlossen werden.</p>\n\n<p>Sobald uns neuere Informationen vorliegen halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n"
+      },
+      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter <a href=\"http://www.bahn.de/\" rel=\"noreferrer noopener\" target=\"_blank\">www.bahn.de</a>.&nbsp;&nbsp;</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" rel=\"noreferrer noopener\" target=\"_blank\">Streckenagent-App</a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" rel=\"noreferrer noopener\" target=\"_blank\">Twitter</a>.&nbsp;</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "04.04.2023 19:23",
+      "author": "mitte",
+      "expand": false,
       "priorityValue": 101
     },
     {
