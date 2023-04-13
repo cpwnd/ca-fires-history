@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "id": "53c3da7c-8120-43c6-8602-54ce9300dd91",
+      "headline": "Verspätungen zwischen München und Rosenheim",
+      "newsType": " Reparatur an einem Signal",
+      "timePeriod": "Am heutigen Donnerstag, 13.04.2023 vsl. bis in die Mittagsstunden",
+      "introText": "<p>Aufgrund einer Reparatur an einem Signal zwischen M&uuml;nchen und Rosenheim kommt es im Fernverkehr der Deutschen Bahn derzeit zu Versp&auml;tungen von etwa 20 Minuten.</p>\n",
+      "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
+      "connections": [
+        "alle EC/IC/ICE/RJ-Züge zwischen München und Rosenheim/Salzburg"
+      ],
+      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "priority": "2",
+      "distance": [
+        "longDistance"
+      ],
+      "areas": [
+        "by"
+      ],
+      "lastModified": "13.04.2023 09:49",
+      "expand": false,
+      "priorityValue": 301
+    },
+    {
       "id": "40a40c28-c991-433c-8880-7f33c76578e6",
       "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
       "newsType": "Personalengpässe",
@@ -103,6 +125,22 @@
       "connections": [
         "U 28 Decin hl.n. - Bad Schandau - Rumburk"
       ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:10a33da8-9456-4e92-836e-11c3efc335a3/SEV_Bad_Schandau-Sebnitz_17.04-21.04.pdf",
+            "title": "SEV Bad-Schandau - Sebnitz und zurück (PDF, 512 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:e076a78d-53af-4c40-b03b-c2635903fa6c/SEV_Go%C3%9Fdorf-Kohlm%C3%BChle_Porschdorf_17.04-21.04.pdf",
+            "title": "SEV Goßdorf-Kohlmühle bis Porschdorf (Pirna) und zurück  (PDF, 507 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
       "closingText": "<p>Zwischen Sebnitz (Sachs) und Bad Schandau besteht Schienenersatzverkehr. F&uuml;r einen &uuml;berwiegenden Teil der Fahrten besteht ein Taxipendel zwischen Go&szlig;dorf-Kohlm&uuml;hle und Porschdorf (Pirna). Die Fahrzeiten der Z&uuml;ge zwischen Sebnitz (Sachs) und Rumbruk sind zeitlich angepasst.</p>\n\n<p>Aufgrund der Kurzfristigkeit der Bauma&szlig;nahme stehen die ge&auml;nderten Reiseverbindungen noch nicht in unseren Auskunftsmedien zur Verf&uuml;gung. Diese werden schrittweise als kurzfristige Fahrplan&auml;nderung in die elektronische Fahrplanauskunft eingepflegt.</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder telefonisch unter 0351 32 3000 11 (zum Ortstarif) zu informieren.</p>\n",
       "priority": "0",
       "distance": [
@@ -111,7 +149,7 @@
       "areas": [
         "sn"
       ],
-      "lastModified": "13.04.2023 08:38",
+      "lastModified": "13.04.2023 10:08",
       "expand": false,
       "priorityValue": 101
     },
