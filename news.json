@@ -47,7 +47,7 @@
       "connections": [
         "RE 6 (Westerland(Sylt) – Hamburg-Altona) Erster Zug von Husum nach Hamburg -Altona RE11019 um 11:29 Uhr. Erster Zug von Husum nach Westerland(Sylt)  RE11010 um 11:28 Uhr",
         "RB 62 (Heide(Holst) – Itzehoe) Erster Zug von Itzehoe nach Heide(Holst) RB 11112 um 11:03 Uhr. Erster Zug von Heide(Holst) nach Itzehoe RB 11119 um 12:08 Uhr.",
-        "RB 64 (Bad St. Peter-Ording – Husum) Erster Zug von Husum nach Bad St. Peter Ording RB 11810 um 11:36 Uhr. Erster Zug von Bad St. Peter Ording RB 11823 um 12:33 Uhr.",
+        "RB 64 (Bad St. Peter-Ording – Husum) Es verkehrt ein Bus der Firma Dithmarscher Bus und Service GmbH ab ca. 12: Uhr.",
         "RE 7/RE 70 (Flensburg/Kiel Hbf – Hamburg Hbf) Erster Zug von Hamburg Hbf. nach Kiel Hbf. RE 11214 um 11:22 Uhr. Erster Zug von Kiel nach Hamburg Hbf. RE 11217 um 11:25 Uhrvon ",
         "RE 72 (Flensburg – Kiel Hbf) Erster Zug von Kiel Hbf. nach Eckernförde RE 11912 um 11:43 Uhr",
         "RB 73 (Eckernförde – Kiel Hbf) Derzeit kommt Zugverkehr.",
@@ -67,7 +67,7 @@
         "hh",
         "sh"
       ],
-      "lastModified": "21.04.2023 11:19",
+      "lastModified": "21.04.2023 11:45",
       "author": "schleswig_holstein",
       "expand": false,
       "priorityValue": 302
@@ -83,12 +83,12 @@
         "RE 1 (Nordddeich(Mole) - Bremen Hbf – Hannover Hbf) Erster Zug von Oldenburg(Oldb) nach Norddeich Mole ist RE 4414, Abfahrt um 13:33 Uhr. Erster Zug von Norddeich Mole nach Hannover Hbf ist RE 4419, Abfahrt um 10:38 Uhr. Zug verkehrt ab Norddeich Mole mit einer Verspätung von vsl. 30 Minuten.",
         "RE 5 (Cuxhaven - Hamburg-Harburg) Erster Zug von Cuxhaven nach Hamburg ist RE 14512, Abfahrt um 12:09 Uhr. Erster Zug von Stade nach Cuxhaven ist RE 14510, Abfahrt um 11:03 Uhr.",
         "RE 8 (Bremerhaven-Lehe – Hannover Hbf) Erster Zug von Bremerhaven-Lehe nach Hannover Hbf ist RE 4417, Abfahrt um 11:23 Uhr.",
-        "RE 9 (Osnabrück Hbf – Bremen Hbf – Bremerhaven-Lehe) Derzeit kein Zugverkehr.",
-        "RB 40 (Braunschweig Hbf – Helmstedt) Derzeit kein Zugverkehr.",
-        "RB 44 (Braunschweig Hbf - Salzgitter-Lebenstedt) Derzeit kein Zugverkehr.",
+        "RE 9 (Osnabrück Hbf – Bremen Hbf – Bremerhaven-Lehe) Zugverkehr wieder aufgenommen.",
+        "RB 40 (Braunschweig Hbf – Helmstedt) Zugverkehr wieder aufgenommen.",
+        "RB 44 (Braunschweig Hbf - Salzgitter-Lebenstedt) Zugverkehr wieder aufgenommen.",
         "RB 45 (Braunschweig Hbf – Schöppenstedt) Erster Zug von Schöppenstedt nach Braunschweig ist RB 14232, Abfahrt um 11:34 Uhr.",
-        "RB 46 (Braunschweig Hbf – Herzberg(Harz) Derzeit kein Zugverkehr.",
-        "RB 48 (Braunschweig Hbf – Salzgitter-Lebenstedt) Derzeit kein Zugverkehr.",
+        "RB 46 (Braunschweig Hbf – Herzberg(Harz) Zugverkehr wieder aufgenommen.",
+        "RB 48 (Braunschweig Hbf – Salzgitter-Lebenstedt) Zugverkehr wieder aufgenommen.",
         "RB 80/81 (Göttingen/Bodenfelde – Nordhausen) Erster Zug von Herzberg(Harz) nach Nordhausen ist RB 14013, Abfahrt um 12:29 Uhr.",
         "RB 82 (Göttingen – Kreiensen – Bad Harzburg) Erster Zug von Kreiensen nach Bad Harzburg ist RB 14117, Abfahrt um 11:24 Uhr. Erster Zug von Northeim(Han) nach Göttingen ist RB 14116, Abfahrt um 12:55 Uhr.",
         "RB 86 (Einbeck Mitte – Göttingen) Erster Zug von Northeim(Han) nach Einbeck-Mitte ist RB 14205, Abfahrt um 12:42 Uhr.",
@@ -106,7 +106,7 @@
         "hb",
         "ni"
       ],
-      "lastModified": "21.04.2023 11:20",
+      "lastModified": "21.04.2023 11:35",
       "author": "niedersachsen_bremen",
       "expand": false,
       "priorityValue": 302
@@ -152,17 +152,17 @@
         "rp",
         "sl"
       ],
-      "lastModified": "21.04.2023 11:18",
+      "lastModified": "21.04.2023 11:41",
       "author": "mitte",
       "expand": true,
       "priorityValue": 104
     },
     {
       "id": "1f53e3d4-d225-4c6e-a088-35113740e1f4",
-      "headline": "EVG-Streik beendet: DB Nahverkehr in Sachsen, Sachsen-Anhalt und Thüringen weiterhin beeinträchtigt",
+      "headline": "EVG-Streik beendet",
       "newsType": "Streik der Eisenbahn- & Verkehrsgesellschaft (EVG)",
       "timePeriod": "Freitag, den 21.04.2023 ",
-      "introText": "<p>Nach dem Streik der EVG ist der DB-Fernverkehr noch bis 13 Uhr eingestellt, der Nahverkehr f&auml;hrt ab 11 Uhr wieder an. Es kommt heute noch zu Beeintr&auml;chtigungen.</p>\n\n<p>Bitte rechnen Sie noch mit Versp&auml;tungen und Teilausf&auml;llen im DB Nahverkehr der Bundesl&auml;nder Sachsen, Sachsen-Anhalt und Th&uuml;ringen.&nbsp;<br />\n&nbsp;</p>\n",
+      "introText": "<p>Nach dem Streik der EVG ist der DB-Fernverkehr noch bis 13 Uhr eingestellt, der Nahverkehr f&auml;hrt ab 11 Uhr wieder an. Es kommt heute noch zu Beeintr&auml;chtigungen.</p>\n\n<p>Bitte rechnen Sie noch mit Versp&auml;tungen und Teilausf&auml;llen im DB Nahverkehr der Bundesl&auml;nder Sachsen, Sachsen-Anhalt und Th&uuml;ringen.</p>\n",
       "connections": [],
       "closingText": "<p>Sobald uns weiter Informationen vorliegen, werden wir diese Meldung aktualisieren.</p>\n\n<p><strong>Sonderhotline</strong>&nbsp;</p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer 08000-996633.&nbsp;</p>\n\n<p><strong>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf bahn.de, im DB Navigator oder bei der telefonischen Reiseauskunft 08000-996633.&nbsp;</strong></p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte und bahn.de/sonderkulanz.</p>\n",
       "priority": "0",
@@ -174,7 +174,7 @@
         "st",
         "th"
       ],
-      "lastModified": "21.04.2023 11:22",
+      "lastModified": "21.04.2023 11:34",
       "author": "suedost",
       "expand": false,
       "priorityValue": 103
@@ -353,18 +353,12 @@
     },
     {
       "id": "7355c131-a1e4-4209-9b74-e4fff39a92fc",
-      "headline": "Streik am 21.04.: Nahverkehr der Westfrankenbahn fällt weitestgehend aus",
+      "headline": "EVG-Streik beendet",
       "newsType": "Streik der Gewerkschaft EVG",
       "timePeriod": "Am Freitag, den 21. 04. vormittags",
-      "introText": "<p>Der Fernverkehr der DB wird am 21.04. vormittags wegen eines Streiks der Gewerkschaft EVG eingestellt. Der DB-Nahverkehr der Westfrankenbahn f&auml;llt vormittags weitestgehend aus. Wenn m&ouml;glich, verschieben Sie bitte geplante Reisen.</p>\n",
-      "connectionsHeadline": "Betroffene Strecken:",
-      "connections": [
-        "RB84 Miltenberg - Seckach ",
-        "RE87 Aschaffenburg - Wertheim - Crailsheim",
-        "RB88 Aschaffenburg - Miltenberg",
-        "RE80 Crailsheim - Heilbronn"
-      ],
-      "closingText": "<p>Wir gehen derzeit davon aus, dass am 21.04. bis mindestens 11:00 Uhr kein Zugverkehr der Westfrankenbahn stattfinden wird. Auf der Kahlgrundbahn kann der Verkehr zwischen Kahl (Main) und Sch&ouml;llkrippen aufrechterhalten werden. Die Streik-Auswirkungen ab 11:00 Uhr, insbesondere im Bereich der Eisenbahninfrastruktur, sind f&uuml;r uns zum aktuellen Zeitpunkt nicht abzusch&auml;tzen; &uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir kurzfristig situativ informieren. Unser prim&auml;res Ziel ist es, ab Samstag fr&uuml;h das vollst&auml;ndige Fahrplanangebot wieder anzubieten.&nbsp;</p>\n\n<p>Der geplante Ersatzverkehr mit Bussen aufgrund von Bauarbeiten wird nach aktuellem Informationsstand ebenfalls bestreikt und wird nicht gefahren.&nbsp;</p>\n\n<p>Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren. &nbsp;</p>\n\n<p>Sonderhotline&nbsp;</p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer 08000-996633.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf bahn.de, im DB Navigator oder bei der telefonischen Reiseauskunft 08000-996633.&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte und bahn.de/sonderkulanz.&nbsp;</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "introText": "<p>Nach dem Streik der EVG ist der DB-Fernverkehr noch bis 13 Uhr eingestellt, der Nahverkehr f&auml;hrt ab 11 Uhr wieder an. Es kommt heute noch zu Beeintr&auml;chtigungen.</p>\n",
+      "connections": [],
+      "closingText": "<p>Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren. &nbsp;</p>\n\n<p>Sonderhotline&nbsp;</p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer 08000-996633.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf bahn.de, im DB Navigator oder bei der telefonischen Reiseauskunft 08000-996633.&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte und bahn.de/sonderkulanz.&nbsp;</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -373,7 +367,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "21.04.2023 00:07",
+      "lastModified": "21.04.2023 11:38",
       "expand": false,
       "priorityValue": 102
     },
@@ -777,37 +771,12 @@
     },
     {
       "id": "cba53b82-76bb-4045-a820-ccfdd5e05afa",
-      "headline": "Streik am 21.04.: Nahverkehr in Baden-Württemberg fällt weitestgehend aus ",
+      "headline": "EVG-Streik beendet",
       "newsType": "Streik der Gewerkschaft EVG",
       "timePeriod": "Am Freitag, den 21.04. vormittags",
-      "introText": "<p>Der Fernverkehr der DB wird am 21.04. vormittags wegen eines Streiks der Gewerkschaft EVG eingestellt. Der Nahverkehr f&auml;llt vormittags weitestgehend aus.&nbsp;Wenn m&ouml;glich, verschieben Sie bitte geplante Reisen.</p>\n",
-      "connectionsHeadline": "Betroffene Linien:",
-      "connections": [
-        "IRE3: Ulm - Lindau / Friedrichshafen - Basel Bad bf",
-        "IRE6: Stuttgart - Tübingen - Aulendorf / Rottenburg(Neckar)",
-        "IRE50: Aalen - Ulm",
-        "IRE200: Wendlingen - Ulm",
-        "RE5: Stuttgart - Friedrichshafen",
-        "RE2: Karlsruhe - Konstanz",
-        "RE4: Stuttgart - Konstanz",
-        "RE7: Karlsruhe - Basel",
-        "RE14a/b: Stuttgart - Rottweil / Freudenstadt",
-        "RE55: Donaueschingen - Ulm",
-        "RB26: Offenburg - Freiburg",
-        "RB27: Freiburg - Basel Bad bf / Neuenburg(Baden)",
-        "RB28: Müllheim(Baden) - Mulhouse Ville",
-        "RB30: Basel Bad bf - Lauchringen",
-        "RB31: Radolfzell - Friedrichshafen Stadt",
-        "RB37: Waldshut - Stühlingen",
-        "RB53: Sigmaringen - Aulendorf - Leutkirch / Wangen(Allgäu)",
-        "RB63: Bad Urach - Tübingen (Streckenabschnitt Tübingen - Herrenberg kann nach jetzigem Stand befahren werden)",
-        "RB74: Pforzheim - Horb - Tübingen",
-        "RB93: Friedrichshafen - Lindau",
-        "MEX19 / 90: Stuttgart - Schwäbisch Hall-Hessental - Crailsheim",
-        "S1 / S10 / S11: Breisach / Endingen - Freiburg - Seebrugg / Villingen(Schwarzw.)",
-        "RS2 / RS21: Ulm - Biberach(Riß) "
-      ],
-      "closingText": "<p>Wir gehen derzeit davon aus, dass am 21.04. bis mindestens 11:00 Uhr kein Zugverkehr der DB Regio in Baden-W&uuml;rttemberg stattfinden wird. Die Streik-Auswirkungen ab 11:00 Uhr, insbesondere im Bereich der Eisenbahninfrastruktur, sind f&uuml;r uns zum aktuellen Zeitpunkt nicht abzusch&auml;tzen; &uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir kurzfristig situativ informieren. Unser prim&auml;res Ziel ist es, ab Samstag fr&uuml;h das vollst&auml;ndige Fahrplanangebot wieder anzubieten.&nbsp;</p>\n\n<p>Der geplante Ersatzverkehr mit Bussen aufgrund von Bauarbeiten wird nach aktuellem Informationsstand ebenfalls bestreikt und wird nicht gefahren.&nbsp;</p>\n\n<p>Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren. &nbsp;</p>\n\n<p><strong>Sonderhotline</strong>&nbsp;</p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer 08000-996633.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf bahn.de, im DB Navigator oder bei der telefonischen Reiseauskunft 08000-996633.&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte und bahn.de/sonderkulanz.&nbsp;</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
+      "introText": "<p>Nach dem Streik der EVG ist der DB-Fernverkehr noch bis 13 Uhr eingestellt, der Nahverkehr f&auml;hrt ab 11 Uhr wieder an. Es kommt heute noch zu Beeintr&auml;chtigungen.</p>\n",
+      "connections": [],
+      "closingText": "<p>Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren. &nbsp;</p>\n\n<p><strong>Sonderhotline</strong>&nbsp;</p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die Auswirkungen des Streiks der EVG auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer 08000-996633.&nbsp;</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf bahn.de, im DB Navigator oder bei der telefonischen Reiseauskunft 08000-996633.&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte und bahn.de/sonderkulanz.&nbsp;</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<a href=\"https://www.bahn.de/p/view/service/mobile/streckenagent-app.shtml\">Streckenagent-APP</a>&nbsp;immer dabei!</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -815,7 +784,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "21.04.2023 05:23",
+      "lastModified": "21.04.2023 11:33",
       "expand": false,
       "priorityValue": 101
     },
