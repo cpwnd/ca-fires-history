@@ -105,11 +105,11 @@
       "id": "f1ed94f0-f245-4b62-b315-1de589c7dc33",
       "headline": "RE7 - Umleitung und Haltausfall zwischen Berlin-Wannsee und Beelitz-Heilstätten",
       "newsType": "Reparatur an einer Weiche",
-      "timePeriod": "bis vsl. 25. April 2023 in den Nachmittagsstunden",
+      "timePeriod": "bis vsl. 25. April 2023 nachmittags",
       "introText": "<p>Aufgrund einer Weichenst&ouml;rung in Michendorf werden die Z&uuml;ge der Linie RE7 zwischen Berlin-Wannsee und Beelitz-Heilst&auml;tten in beiden Richtungen &uuml;ber Potsdam Hbf umgeleitet. Die Halte in Potsdam Medienstadt Babelsberg, Potsdam Rehbr&uuml;cke, Wilhelmshorst, Michendorf und Seddin&nbsp;entfallen.</p>\n\n<p>Bitte nutzen Sie zwischen Berlin-Wannsee und Potsdam Hbf in beiden Richtungen die S-Bahnlinie S7 und zwischen Potsdam Hbf und Beelitz-Heilst&auml;tten in beiden Richtungen die Buslinie 643.&nbsp;</p>\n",
-      "connectionsHeadline": "folgende Linie ist betroffen",
+      "connectionsHeadline": "RE7 Senftenberg - Lübbenau(Spreewald) - Königs Wusterhausen - Berlin Hbf - Beelitz-Heilstätten - Bad Belzig - Dessau   ",
       "connections": [
-        "RE7 Senftenberg - Lübbenau(Spreewald) - Königs Wusterhausen - Berlin Hbf - Beelitz-Heilstätten - Bad Belzig - Dessau   "
+        ""
       ],
       "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>,&nbsp;in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a>,&nbsp;im <a href=\"http://DB Navigator\">DB Navigator</a>&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
       "priority": "0",
@@ -120,7 +120,7 @@
         "be",
         "br"
       ],
-      "lastModified": "23.04.2023 09:08",
+      "lastModified": "24.04.2023 04:14",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -523,28 +523,6 @@
       "priorityValue": 101
     },
     {
-      "id": "5dc52cfc-47c3-402e-a4a2-dfbf67580bab",
-      "headline": "Streckensperrung zwischen Metzingen und Tübingen ist beendet",
-      "newsType": "Reparatur an der Oberleitung",
-      "timePeriod": "Seit ca. 19.00 Uhr",
-      "introText": "<p>Die Reparatur an der Oberleitung zwischen T&uuml;bingen Hbf und Metzingen(W&uuml;rtt) ist beendet.<br />\nIn der Folge sind noch Versp&auml;tungen und Teilausf&auml;lle m&ouml;glich.<br />\nDer letzte Bus des Ersatzverkehres f&auml;hrt ab Metzingen um 0:30 Uhr,<br />\ndanach wird dieser eingestellt.&nbsp;<br />\nBitte pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n",
-      "connectionsHeadline": "Betroffene Linie: ",
-      "connections": [
-        "RB 63:  Herrenberg - Bad Urach"
-      ],
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "24.04.2023 00:07",
-      "expand": false,
-      "priorityValue": 101
-    },
-    {
       "id": "9bb93036-5967-42dc-b9c2-ce17ed7a4813",
       "headline": "Reduziertes Fahrplanangebot auf der Ammertalbahn zwischen Tübingen und Entringen",
       "newsType": "Reparatur an der Strecke",
@@ -563,6 +541,29 @@
       "lastModified": "05.01.2023 09:17",
       "author": "baden_wuerttemberg",
       "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "78eafb49-8884-4a65-b33a-4f4116d81144",
+      "headline": "Streckensperrung zwischen Hornberg (Schwarzw) und Triberg",
+      "newsType": "Reparatur an der Oberleitung",
+      "timePeriod": "24. April 2023  3.00 Uhr  bis vsl. 8 .00 Uhr",
+      "introText": "<p>Zwischen Hornberg (Schwarzw) und Triberg haben wir einen Ersatzverkehr mit Bus im<br />\nPendelbetrieb eingerichtet.</p>\n",
+      "connectionsHeadline": "Betroffene Strecke:",
+      "connections": [
+        "RE 2:  Karlsruhe - Konstanz"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Sperrung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\">Streckenagent-APP</a> immer dabei!<br />\n&nbsp;</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "24.04.2023 04:13",
+      "author": "baden_wuerttemberg",
+      "expand": true,
       "priorityValue": 101
     },
     {
