@@ -5,12 +5,12 @@
       "headline": "Beeinträchtigungen in Bochum",
       "newsType": "defektes Stellwerk",
       "timePeriod": "Heute, 02.05.2023 bis in die Abendstunden",
-      "introText": "<p>Aufgrund eines defekten Stellwerkes in Bochum kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Die Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 10 Minuten.</p>\n\n<p>Der Halt Bochum Hbf entf&auml;llt.</p>\n",
+      "introText": "<p>Aufgrund eines defekten Stellwerkes in Bochum kommt es derzeit zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Die Z&uuml;ge werden umgeleitet und versp&auml;ten sich dadurch um etwa 15 Minuten.</p>\n\n<p>Der Halt Bochum Hbf entf&auml;llt.<br />\n&nbsp;</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "ICE- und IC/EC-Züge zwischen Essen - Bochum - Dortmund "
       ],
-      "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
+      "closingText": "<p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p>\n\n<p>Zwischen Essen Hbf - Bochum Hbf - Dortmund Hbf wurde ein Ersatzverkehr mit Bussen eingerichtet.<br />\nDie Ersatzbusse k&ouml;nnen in unregelm&auml;&szlig;igen zeitlichen Abst&auml;nden fahren.</p>\n\n<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
         "longDistance"
@@ -18,9 +18,33 @@
       "areas": [
         "nw"
       ],
-      "lastModified": "02.05.2023 10:08",
+      "lastModified": "02.05.2023 12:00",
       "expand": false,
       "priorityValue": 301
+    },
+    {
+      "id": "d91f9652-608f-4814-a832-ffc65164a84d",
+      "headline": "Zusätzliche Verbindungen Linie S 5/S 5X",
+      "newsType": "Museumsnacht Halle und Leipzig",
+      "timePeriod": "am 06. Mai 2023",
+      "introText": "<p>Zur &quot;Musuemsnacht Halle und Leipzig&quot; am 06. Mai 2023 bestehen folgende Reiseverbindungen zus&auml;tzlich zwischen Leipzig und Halle sowie Gegenrichtung.</p>\n",
+      "connectionsHeadline": "Linie:",
+      "connections": [
+        "S 5/S 5X Halle(Saale) Hbf - Leipzig/Halle Flughafen - Leipzig Hbf (tief) - Altenburg - Zwickau(Sachs) Hbf "
+      ],
+      "closingText": "<p><u>S 37587 und&nbsp;S 37589</u></p>\n\n<p>ab Halle(Saale) Hbf um 21:40 Uhr mit Ankunft in Leipzig Hbf (tief) um 22:08 Uhr</p>\n\n<p>sowie&nbsp;</p>\n\n<p>ab Halle(Saale) Hbf um 22:35 Uhr&nbsp;mit Ankunft in Leipzig Hbf (tief) um 22:57 Uhr</p>\n\n<p><u>S 37584 und&nbsp;S 37586</u></p>\n\n<p>ab Leipzig Hbf (tief) um 20:53 Uhr mit Ankunft in Halle(Saale) Hbf&nbsp;um 21:18 Uhr</p>\n\n<p>sowie&nbsp;</p>\n\n<p>ab Leipzig Hbf (tief) um 21:53 Uhr&nbsp;mit Ankunft in Halle(Saale) Hbf&nbsp;um 22:16 Uhr</p>\n\n<p>Die zus&auml;tzlichen Reiseverbindungen sind auch unter www.bahn.de bzw. in der App DB Navigator abrufbar.</p>\n\n<p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sn",
+        "st"
+      ],
+      "lastModified": "02.05.2023 12:13",
+      "author": "suedost",
+      "expand": false,
+      "priorityValue": 102
     },
     {
       "id": "40a40c28-c991-433c-8880-7f33c76578e6",
