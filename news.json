@@ -72,6 +72,28 @@
       "priorityValue": 102
     },
     {
+      "id": "640a68e2-9895-43d9-aba4-576df31aa573",
+      "headline": "Haltausfall in Birkengrund",
+      "newsType": "Reparatur an einer Weiche",
+      "timePeriod": "4. Mai 2023 bis Betriebsende",
+      "introText": "<p>Wegen einer Reparatur an der Weiche entf&auml;llt bei der Linie RE 3 in Richtung Falkenberg (Elster)/Lutherstadt Wittenberg der Halt Birkengrund. Bitte fahren Sie ab Gro&szlig;beeren weiter bis Ludwigsfelde und steigen dort in die Linie RE 3 oder RB 32 um. Nutzen Sie ab Ludwigsfelde auch die Busse des &ouml;ffentlichen Nahverkehrs der Linie 702/720.</p>\n",
+      "connections": [
+        "RE3 Stralsund Hbf – / Schwedt (O) – Berlin – Lu. Wittenberg Hbf/Falkenberg (Elster)"
+      ],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "04.05.2023 06:27",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "8c70fd46-c841-4ff5-96b6-91c7eefe0c54",
       "headline": "Zugausfälle RE6 zwischen Wittenberge und Neuruppin West",
       "newsType": "Reparatur an der Strecke",
@@ -191,7 +213,7 @@
       "headline": "Umleitung auf den Linien RE2, RE7 und RB21 / Teilausfall auf der Linie RB 23",
       "newsType": "Entschärfung einer Weltkriegsbombe im Bereich Berlin Ostbahnhof",
       "timePeriod": "04. Mai 2023 11:00 bis voraussichtlich 14:00 Uhr",
-      "connectionsHeadline": "RE 2, RE 7, RB21 RB23",
+      "connectionsHeadline": "RE 2, RE 7, RB21, RB23",
       "connections": [
         "RE2 Nauen - Berlin - Lübbenau (Spreewald) - Cottbus",
         "RE7 Dessau - Berlin - Lübbenau (Spreewald) - Senftenberg",
@@ -207,7 +229,7 @@
         "be",
         "br"
       ],
-      "lastModified": "04.05.2023 05:12",
+      "lastModified": "04.05.2023 06:22",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
