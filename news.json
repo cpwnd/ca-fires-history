@@ -5,13 +5,24 @@
       "headline": " Entschärfung einer Weltkriegsbombe in Karlsruhe",
       "newsType": " Bombenentschärfung",
       "timePeriod": "Heute, 05.05.2023, ab ca. 18 Uhr",
-      "introText": "<p>Aufgrund der Entsch&auml;rfung einer Weltkriegsbombe kommt es <strong>heute ab ca. 18 Uhr</strong> in <strong>Karlsruhe </strong>zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Die Z&uuml;ge werden an geeigneten Bahnh&ouml;fen halten und die Dauer der Streckensperrung abwarten. Die Entsch&auml;rfung soll <strong>etwa 30 bis 90 Minuten</strong> andauern.</p>\n\n<p>Informationen zur Entsch&auml;rfung entnehmen Sie bitte auch der Webseite der Stadt Karlsruhe:</p>\n\n<p>https://www.karlsruhe.de/aktuelles/bombenfund</p>\n",
+      "introText": "<p>Aufgrund der Entsch&auml;rfung einer Weltkriegsbombe kommt es<strong>&nbsp;ab ca. 18 Uhr</strong> in <strong>Karlsruhe </strong>zu Beeintr&auml;chtigungen im Fernverkehr der Deutschen Bahn. Die Z&uuml;ge werden an geeigneten Bahnh&ouml;fen halten und die Dauer der Streckensperrung abwarten. Die Entsch&auml;rfung soll <strong>etwa 30 bis 90 Minuten</strong> andauern.</p>\n\n<p>Informationen zur Entsch&auml;rfung entnehmen Sie bitte auch der Webseite der Stadt Karlsruhe:</p>\n",
       "connectionsHeadline": "Betroffen sind folgende Verbindungen im Fernverkehr:",
       "connections": [
         "ICE-/IC-/EC-Züge zwischen Karlsruhe und Mannheim",
         "ICE-Züge zwischen Karlsruhe – Bruchsal – Stuttgart",
         "IC-Züge zwischen Karlsruhe – Pforzheim – Stuttgart"
       ],
+      "internal": {
+        "text": "<p>https://www.karlsruhe.de/aktuelles/bombenfund</p>\n",
+        "linkDataList": [
+          {
+            "link": "http://localhost:8080/magnolia/fallback/db-fernverkehr",
+            "title": "Webseite",
+            "info": "",
+            "openInNewTab": true
+          }
+        ]
+      },
       "closingText": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf <a href=\"https://reiseauskunft.bahn.de\" target=\"_blank\">www.bahn.de/reiseauskunft</a>, im&nbsp;<a href=\"https://c00.adobe.com/v3/49929e9f-38d4-43ce-adbb-321b4c936bd4/start?a_dl=598094fdf1f7dfa61a60a20b&amp;ctxa.launch.campaign.trackingcode=?dbkanal_007=L01_S01_D001_KIN0057_-_bahndeaktuell_LZ06\" target=\"_blank\">DB Navigator</a> oder bei der telefonischen Reiseauskunft Tel. +49 (0)30 2970.</p>\n",
       "priority": "2",
       "distance": [
@@ -20,7 +31,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "05.05.2023 17:16",
+      "lastModified": "05.05.2023 17:23",
       "expand": false,
       "priorityValue": 301
     },
@@ -64,7 +75,7 @@
         "RB44 Karlsruhe – Rastatt – (Baden-Baden – Achern)"
       ],
       "download": {
-        "text": "<p>Ab etwa 17 Uhr wird die Strecke zwischen Karlsruhe Hbf - Karlsruhe Durlach und Karlsruhe Hagsfeld gesperrt und es sind keine Zugfahrten m&ouml;glich.</p>\n\n<p>Dauer der Beeintr&auml;chtigung voraussichtlich von 17:00 Uhr bis vsl 20:00 Uhr.&nbsp;</p>\n\n<p>Sobald uns weitere Informationen vorliegen halten wir Sie and dieser Stelle auf dem Laufenden.</p>\n"
+        "text": "<p>Ab etwa 18 Uhr wird die Strecke zwischen <strong>Karlsruhe Hbf - Karlsruhe Durlach und Karlsruhe Hagsfeld gesperrt und es sind keine Zugfahrten m&ouml;glich.&nbsp;</strong></p>\n\n<p>Ein <strong>Ersatzverkehr</strong> mit Bussen von <strong>Karlsruhe-Hagsfeld nach Karlsruhe Hbf ist eingerichtet.</strong></p>\n\n<p>Bitte beachten Sie, dass die <strong>Busse ohne festen Fahrplan verkehren</strong> und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.</p>\n\n<p>Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Dauer der Beeintr&auml;chtigung voraussichtlich von 18:00 Uhr bis vsl 20:00 Uhr.&nbsp;</p>\n"
       },
       "closingText": "<p>Bitte rechnen Sie f&uuml;r die Dauer der St&ouml;rung auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter www.bahn.de.&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der Streckenagent-App oder auf Twitter.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "priority": "0",
@@ -76,7 +87,7 @@
         "he",
         "rp"
       ],
-      "lastModified": "05.05.2023 16:44",
+      "lastModified": "05.05.2023 17:23",
       "author": "mitte",
       "expand": false,
       "priorityValue": 103
