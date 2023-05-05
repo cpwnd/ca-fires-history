@@ -170,15 +170,20 @@
         "RE6 - zwischen Hennigsdorf und Berlin-Charlottenburg",
         "RE7 - zwischen Michendorf - Berlin Wannsee - Königs Wusterhausen",
         "RB21 - zwischen Wustermark - Berlin Gesundbrunnen",
-        "RB23 - Golm - Berlin - Flughafen BER - T1-2"
+        "RB23 - zwischen Golm - Berlin - Flughafen BER - T1-2"
       ],
       "download": {
         "text": "<p>Eine Zusammenstellung der Auswirkungen finden Sie hier:</p>\n",
         "linkDataList": [
-          null
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:bc7f6d92-96db-46b6-ae74-ea4ebca2d833/AC0008671_DTP205_A5%20Flyer%20Stadtbahnsperrung_Ansicht.pdf",
+            "title": "Stadbahnsperrung_Mai_2023 (PDF, 145 KB)",
+            "info": "",
+            "openInNewTab": true
+          }
         ]
       },
-      "closingText": "<p>Die Fahrpl&auml;ne &auml;ndern sich w&auml;hrend des Bauzeitraumes mehrfach.<br />\nBitte informieren Sie sich deshalb tageskatuell vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Fahrtm&ouml;glichkeiten in der Reiseauskunft unter&nbsp;<a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>&nbsp;und VBB.de sowie in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>,&nbsp;im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;und in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "closingText": "<p>Die Fahrpl&auml;ne &auml;ndern sich w&auml;hrend des Bauzeitraumes mehrfach. Sie sind in allen Auskunftsmedien abrufbar.<br />\nBitte informieren Sie sich deshalb tagesaktuell vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Fahrtm&ouml;glichkeiten in der Reiseauskunft unter&nbsp;<a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>&nbsp;und VBB.de sowie in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>,&nbsp;im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;und in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
       "priority": "0",
       "distance": [
         "regional"
@@ -187,7 +192,7 @@
         "be",
         "br"
       ],
-      "lastModified": "05.05.2023 12:09",
+      "lastModified": "05.05.2023 12:48",
       "author": "nordost",
       "expand": false,
       "priorityValue": 102
@@ -260,7 +265,7 @@
       "headline": "Beeinträchtigungen zwischen Bad Mergentheim und Markelsheim",
       "newsType": "Arbeiten am Signal",
       "timePeriod": "bis voraussichtlich 5. Mai 2023 nachmittags",
-      "introText": "<p>Aufgrund von Bauarbeiten wurde ein Kabel besch&auml;digt. Hierdurch kommt es zu Versp&auml;tungen und Zugausf&auml;llen..</p>\n\n<p>Die Dauer der St&ouml;rung ist f&uuml;r, den Freitag 5. Mai 2023 nachmittags prognostiziert. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.&nbsp;Bitte pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n",
+      "introText": "<p>Aufgrund von Bauarbeiten wurde ein Kabel besch&auml;digt. Hierdurch kommt es zu Versp&auml;tungen. Die St&ouml;rungsbehebung&nbsp;ist f&uuml;r den Freitag 5. Mai 2023 nachmittags prognostiziert. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.&nbsp;Bitte pr&uuml;fen Sie Ihre Reiseverbindung.</p>\n",
       "connectionsHeadline": "Betroffene Strecke: ",
       "connections": [
         "RE 87: Aschaffenburg - Crailsheim",
@@ -275,7 +280,7 @@
         "bw",
         "by"
       ],
-      "lastModified": "05.05.2023 06:12",
+      "lastModified": "05.05.2023 12:46",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 102
