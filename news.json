@@ -58,10 +58,20 @@
       "id": "b591377d-2a2e-4a5b-b0cc-69bb1781ab1e",
       "headline": "Ausfall aller Züge der RB55",
       "newsType": "Reparatur an der Strecke",
-      "timePeriod": "10. Mai 2023 bis Betriebsschluss",
+      "timePeriod": "vom 10. Mai bis 12. Mai 2023 bis Betriebsschluss",
       "connections": [
         "RB55 (Hennigsdorf- Velten (Mark) -Kremmen)"
       ],
+      "download": {
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:108ceb5d-c57d-4b86-94b6-0be912053bf6/SEV%20RB%2055.pdf",
+            "title": "SEV RB 55.pdf (PDF, 96 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
       "closingText": "<p>Wegen einer Reparatur an der Strecke fallen alle Z&uuml;ge der RB55 zwischen Hennigsdorf (b Berlin) und Kremmen in beide Richtungen bis Betriebsschluss aus.&nbsp;</p>\n\n<p>Als Ersatz f&auml;hrt ein Bus.</p>\n\n<p>Benutzen Sie auch die Z&uuml;ge der RE6 mit Halt in Velten (Mark) und Kremmen.</p>\n\n<p>Bitte informieren Sie sich rechtzeitig vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>,&nbsp;in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a>,&nbsp;im <a href=\"http://DB Navigator\">DB Navigator</a>&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
       "priority": "0",
       "distance": [
@@ -71,7 +81,7 @@
         "be",
         "br"
       ],
-      "lastModified": "10.05.2023 12:55",
+      "lastModified": "10.05.2023 17:34",
       "expand": false,
       "priorityValue": 102
     },
@@ -407,6 +417,27 @@
       "lastModified": "04.11.2021 10:10",
       "author": "nrw",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "bbcc1ba3-352a-43fc-95c9-1e2b4f75c9a0",
+      "headline": "Kurzfristige Reparatur an der Strecke: Kein Zugverkehr zwischen Dieburg und Rödermark-Ober Roden",
+      "newsType": "Bauarbeiten",
+      "introText": "<p><strong>Aufgrund kurzfristiger Instandhaltungsarbeiten ist die Strecke zwischen Dieburg und R&ouml;dermark-Ober Roden f&uuml;r den Zugverkehr gesperrt.</strong><br />\n&nbsp;</p>\n",
+      "connectionsHeadline": "Betroffene Linie",
+      "connections": [
+        "RB61: (Frankfurt Hbf -) Dreieich-Buchschlag - Rödermark-Ober Roden (-Dieburg)"
+      ],
+      "closingText": "<p><br />\n<strong><u>Es kommt zu folgedenden Einschr&auml;nkungen:</u></strong></p>\n\n<p><strong>RB61:</strong><br />\nDie Z&uuml;ge<strong>&nbsp;</strong>aus Richtung Frankfurt(Main)Hbf / Dreieich-Buchschlag enden vorzeitig in R&ouml;dermark-Ober Roden und wenden dort. Die Halte&nbsp;Eppertshausen, M&uuml;nster(Hessen) und Dieburg entfallen.&nbsp;</p>\n\n<p>Wir haben f&uuml;r Sie einen <strong>Ersatzverkehr mit Bussen</strong>&nbsp;zwischen R&ouml;dermark-Ober Roden und Dieburg eingerichtet.&nbsp;Bitte beachten Sie, dass eine Fahrradmitnahme nicht m&ouml;glich ist.</p>\n\n<p>Die Busse fahren von den Bushaltestellen mit dem SEV-Piktogramm. Bitte folgen Sie der Beschilderung.</p>\n\n<p>Wir aktualisieren diese Meldung, sobald die genaue Dauer der Sperrung absehbar ist.<br />\n&nbsp;</p>\n\n<p>Bitte informieren Sie sich fr&uuml;hzeitig &uuml;ber Ihre geplanten Verbindungen und w&auml;hlen Sie gegebenenfalls eine fr&uuml;here Zugverbindung, um Ihre Anschl&uuml;sse an Ihren Umsteigebahnh&ouml;fen erreichen zu k&ouml;nnen.</p>\n\n<p><br />\nInformationen &uuml;ber die aktuelle Betriebslage finden Sie unter <a href=\"http://bahn.de\">bahn.de</a> oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter: <a href=\"tel:069 24445710\">069 24445710</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "he"
+      ],
+      "lastModified": "10.05.2023 17:19",
+      "expand": false,
       "priorityValue": 101
     },
     {
