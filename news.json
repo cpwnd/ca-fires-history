@@ -214,11 +214,29 @@
         "S51\tHeidelberg – Meckesheim – Aglasterhausen"
       ],
       "download": {
-        "text": "<p><strong>Ein Ersatzverkehr mit Bussen ist eingerichtet (alle Unterwegshalte).</strong></p>\n\n<p>Bitte beachten Sie, dass die Busse eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen,&nbsp;dass die Busse&nbsp;<em><strong>ohne festen Fahrplan</strong></em> verkehren und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n",
+        "text": "<p><strong>Ein Ersatzverkehr mit Bussen ist eingerichtet (alle Unterwegshalte).</strong></p>\n\n<p><strong>Den Fahrplan finden Sie hier:&nbsp;</strong></p>\n",
         "linkDataList": [
           {
             "link": "https://assets.static-bahn.de/dam/jcr:0a006e2e-19f4-4868-8c09-9a509ea18541/Eberbach-Heidelberg%20(2).pdf",
-            "title": "Eberbach-Heidelberg (2).pdf (PDF, 25 KB)",
+            "title": "Fahrplan Eberbach-Heidelberg (PDF, 25 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:266dc3b6-582a-49cc-a47b-a15de3ea04e0/Eppingen-Heidelberg%20(2).pdf",
+            "title": "Fahrplan Eppingen-Heidelberg (PDF, 25 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:916a3ecd-0df4-49d4-bf23-904250ed9696/Heidelberg-Eberbach%20(2).pdf",
+            "title": "Fahrplan Heidelberg-Eberbach (PDF, 29 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:7f7e341e-5951-438e-b9a4-35c8d0c93dd7/Heidelberg-Eppingen%20(2).pdf",
+            "title": "Fahrplan Heidelberg-Eppingen (PDF, 41 KB)",
             "info": "",
             "openInNewTab": false
           }
@@ -233,7 +251,7 @@
         "bw",
         "rp"
       ],
-      "lastModified": "10.05.2023 14:41",
+      "lastModified": "10.05.2023 15:14",
       "author": "mitte",
       "expand": false,
       "priorityValue": 102
