@@ -214,8 +214,14 @@
         "S51\tHeidelberg – Meckesheim – Aglasterhausen"
       ],
       "download": {
-        "text": "<p><strong>Ein Ersatzverkehr ab ca. 21 Uhr&nbsp;mit Bussen zw. Heidelberg- Altstadt &lt;-&gt; Eberbach!</strong></p>\n\n<p><strong>Ab ca. 06:00 Uhr Eberbach nach Heidelberg-Altstadt&nbsp;ist eingerichtet (alle Unterwegshalte).</strong></p>\n\n<p><strong>Ab ca. 20 Uhr&nbsp;von Sinsheim nach Heidelberg Hbf&nbsp; und ab ca. 20:40 Uhr Meckesheim nach Heidelberg Hbf ist eingerichtet (alle Unterwegshalte).</strong></p>\n\n<p>Bitte beachten Sie, dass die Busse eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen,&nbsp;dass die Busse&nbsp;<em><strong>ohne festen Fahrplan</strong></em> verkehren und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n",
+        "text": "<p><strong>Ein Ersatzverkehr mit Bussen ist eingerichtet (alle Unterwegshalte).</strong></p>\n\n<p>Bitte beachten Sie, dass die Busse eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen,&nbsp;dass die Busse&nbsp;<em><strong>ohne festen Fahrplan</strong></em> verkehren und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n",
         "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:af8c8408-42f6-40d0-8353-e6020172b5cc/Busuml%C3%A4ufe.pdf",
+            "title": "Busumläufe.pdf (PDF, 20 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
           {
             "link": "https://assets.static-bahn.de/dam/jcr:643720e5-79c9-4ef3-8cc9-81d5ed4535e3/Heidelberg-Eppingen.pdf",
             "title": "Heidelberg - Eppingen Fahrplan (PDF, 41 KB)",
@@ -245,12 +251,6 @@
             "title": "Fahrweg HD-Altstadt.pdf (PDF, 132 KB)",
             "info": "",
             "openInNewTab": false
-          },
-          {
-            "link": "https://assets.static-bahn.de/dam/jcr:af8c8408-42f6-40d0-8353-e6020172b5cc/Busuml%C3%A4ufe.pdf",
-            "title": "Busumläufe.pdf (PDF, 20 KB)",
-            "info": "",
-            "openInNewTab": false
           }
         ]
       },
@@ -263,7 +263,7 @@
         "bw",
         "rp"
       ],
-      "lastModified": "09.05.2023 21:22",
+      "lastModified": "10.05.2023 10:39",
       "author": "mitte",
       "expand": false,
       "priorityValue": 102
