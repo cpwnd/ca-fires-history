@@ -37,6 +37,27 @@
       "priorityValue": 216
     },
     {
+      "id": "6f3d762f-c2b2-4e3d-9602-66445efe7d33",
+      "headline": "Busnotverkehr zwischen Delitzsch und Eilenburg",
+      "newsType": "Gleisbauarbeiten",
+      "timePeriod": "22.05.2023 bis voraussichtlich 26.05.2023, 7:00 Uhr",
+      "introText": "<p><strong>Bauarbeiten zwischen Delitzsch und Eilenburg</strong></p>\n\n<p>&nbsp;</p>\n",
+      "connectionsHeadline": "S 9: Halle/Saale - Eilenburg",
+      "connections": [],
+      "closingText": "<p>- die meisten Z&uuml;ge der S 9 enden aus Halle/Saale kommend in Delitzsch&nbsp;<strong>unterer Bahnhof</strong></p>\n\n<p>- Zwischen Delitzsch <strong>unterer Bahnho</strong>f und Eilenburg haben wir Busnotverkehr eingerichtet</p>\n\n<p>- S 9, 7:38 Uhr ab Halle/Saale f&auml;hrt komplett im Busnotverkehr</p>\n\n<p>- S 9, 12:40 Uhr ab Eilenburg f&auml;hrt komplett im Busnotverkehr</p>\n\n<p>- Grund: Schwellentausch</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sn",
+        "st"
+      ],
+      "lastModified": "22.05.2023 12:10",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "40a40c28-c991-433c-8880-7f33c76578e6",
       "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
       "newsType": "Personalengpässe",
@@ -290,30 +311,6 @@
       "lastModified": "04.11.2021 10:10",
       "author": "nrw",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "ee2b99f1-caf4-4d21-ac19-ec1e731f76c9",
-      "headline": "Keine Zugfahrten zwischen Dillingen(Saar) und Niedaltdorf",
-      "newsType": "kurzfristiger Personalausfall",
-      "timePeriod": "Sonntag, 21.05.2023, ganztägig",
-      "introText": "<p>Wegen kurzfristigen Personalausfalls verkehren am Sonntag, 21.05.2023 ganzt&auml;gig keine Z&uuml;ge zwischen Dillingen(Saar) und Niedaltdorf.</p>\n",
-      "connectionsHeadline": "RB77 Dillingen(Saar) <> Niedaltdorf ",
-      "connections": [],
-      "download": {
-        "text": "<p>Wir haben f&uuml;r Sie einen Ersatzverkehr mit Bus (Fa. Nikolaus Kirsch)&nbsp;zwischen Dillingen(Saar) und Niedaltdorf eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p>Bitte beachten Sie, dass die<strong> </strong>Busse ohne festen Fahrplan verkehren<strong> </strong>und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.<br />\nDie Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n"
-      },
-      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "sl"
-      ],
-      "lastModified": "21.05.2023 07:02",
-      "author": "mitte",
-      "expand": false,
       "priorityValue": 101
     },
     {
