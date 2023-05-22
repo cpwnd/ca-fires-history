@@ -455,11 +455,34 @@
       "priorityValue": 101
     },
     {
+      "id": "d6aee64b-7ea1-41d4-9ee9-18311d5b8832",
+      "headline": "Defektes Stellwerk im Raum Tübingen Hbf",
+      "newsType": "Reparatur an einem Stellwerk",
+      "timePeriod": "seit 16:00 Uhr",
+      "introText": "<p>Ein defektes Stellwerk im Raum T&uuml;bingen Hbf beeintr&auml;chtigt den Zugverkehr. Derzeit sind keine Zugfahrten im Ammertal m&ouml;glich. Wir haben daf&uuml;r zwischen T&uuml;bingen und Herrenberg einen Ersatzverkehr mit Bus im Pendelverkehr eingerichtet. Zwischen Herrenberg und Unterjesungen Sand&auml;cker verkehren die Regionalbahnen langsamer. Rechnen Sie dadurch bitte mit Versp&auml;tungen und Teilausf&auml;llen.</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "RB 63: Herrenberg - Metzingen"
+      ],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "22.05.2023 19:01",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "b022c744-575b-48b5-bb1a-1775d38ba693",
       "headline": "Reparatur an einem Signal im Raum Donaueschingen",
       "newsType": "Reparatur an einem Signal nach Unwetter",
       "timePeriod": "seit 15:00 Uhr",
-      "introText": "<p>In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen. Im weiteren Streckenverlauf der RE 55 bestehen weitere arbeiten an der Strecke bei Blaubeuren und an der Weiche in Ulm.&nbsp;Bitte pr&uuml;fen Sie die Reiseverbindung.</p>\n",
+      "introText": "<p>In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen. Im weiteren Streckenverlauf der RE 55 bestehen weitere Arbeiten an der Strecke bei Blaubeuren und an der Weiche in Ulm.&nbsp;Bitte pr&uuml;fen Sie die Reiseverbindung.</p>\n",
       "connectionsHeadline": "Betroffene Verbindungen:",
       "connections": [
         "RE 2: Karlsruhe Hbf - Konstanz",
@@ -474,7 +497,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "22.05.2023 18:48",
+      "lastModified": "22.05.2023 18:51",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
