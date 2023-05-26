@@ -323,8 +323,8 @@
       "id": "ee2b99f1-caf4-4d21-ac19-ec1e731f76c9",
       "headline": "Keine Zugfahrten zwischen Dillingen(Saar) und Niedaltdorf",
       "newsType": "kurzfristiger Personalausfall",
-      "timePeriod": "Freitag, 26.05.2023 ganztägig",
-      "introText": "<p>Wegen eines kurzfristigen Personalausfalls verkehren am Freitag, den 26.05.2023 ganzt&auml;gig keine Z&uuml;ge zwischen Dillingen(Saar) und Niedaltdorf.</p>\n",
+      "timePeriod": "Freitag, 26.05.2023 ganztägig und 28.05.2023",
+      "introText": "<p>Wegen eines kurzfristigen Personalausfalls verkehren am Freitag, den 26.05.2023 ganzt&auml;gig keine Z&uuml;ge zwischen Dillingen(Saar) und Niedaltdorf und am Sonntag, den 28.05.2023 ganzt&auml;gig.</p>\n",
       "connectionsHeadline": "RB77 Dillingen(Saar) <> Niedaltdorf ",
       "connections": [],
       "download": {
@@ -346,7 +346,33 @@
       "areas": [
         "sl"
       ],
-      "lastModified": "26.05.2023 12:00",
+      "lastModified": "26.05.2023 14:05",
+      "author": "mitte",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
+      "id": "ea84e00c-3b6a-4d7f-8674-46c00c04338c",
+      "headline": "Kein Zugverkehr zwischen Pirmasens Hbf und Schopp",
+      "newsType": "Kurzfristige Erkrankung von Stellwerkspersonal",
+      "timePeriod": "Freitag, 26.05.2023, ab 14:30 Uhr bis Betriebsschluss",
+      "introText": "<p>Wegen kurzfristiger Erkrankung von Stellwerkspersonal verkehren am Freitag, 26.05.2023 ab 14:30 Uhr bis Betriebsschluss, keine Z&uuml;ge zwischen Pirmasens Hbf und Schopp.</p>\n",
+      "connectionsHeadline": "Betroffene Linie:",
+      "connections": [
+        "RB64 Kaiserslautern – Schopp - Pirmasens "
+      ],
+      "download": {
+        "text": "<p>Die Z&uuml;ge der Linie <strong>RB64</strong> verkehren nur zwischen Kaiserslautern Hbf und Schopp und entfallen zwischen Schopp und Pirmasens Hbf.</p>\n\n<p>Wir haben einen Ersatzverkehr mit Bussen (CityBus Mobil) zwischen Schopp und Pirmasens Hbf f&uuml;r Sie eingerichtet. Es werden alle Unterwegshalte angefahren.</p>\n\n<p>Bitte beachten Sie, dass die Busse ohne festen Fahrplan verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen. Die Mitnahme von Fahrr&auml;dern in den Bussen ist aus Kapazit&auml;tsgr&uuml;nden nicht m&ouml;glich.</p>\n\n<p>Sobald uns neuere Informationen vorliegen halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n"
+      },
+      "closingText": "<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\"><strong>www.bahn.de</strong></a>.</p>\n\n<p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\"><strong>Twitter</strong></a>.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "26.05.2023 14:11",
       "author": "mitte",
       "expand": false,
       "priorityValue": 101
