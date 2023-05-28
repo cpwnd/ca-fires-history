@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "id": "9bffa476-528d-4e73-88aa-bd1680230864",
+      "headline": "Entlastungszüge RE3",
+      "newsType": "zusätzlicher Einsatz",
+      "timePeriod": "28. Mai 2023",
+      "introText": "<p>Am 28. Mai 2023 fahren zus&auml;tzliche Entlastungsz&uuml;ge zwischen Berlin Hbf (tief) und Greifswald.</p>\n\n<p>RE13070 ab Berlin Hbf (tief) 10:25 Uhr nach Greifswald</p>\n\n<p>RE13071 ab Greiifswald 14:33 Uhr nach Berlin Hbf (tief)</p>\n\n<p>Bitte nutzen Sie diese Z&uuml;ge als Ersatz f&uuml;r die Linie RE3.</p>\n",
+      "connectionsHeadline": "RE3 Stralsund Hbf – / Schwedt (O) – Berlin – Lu. Wittenberg Hbf",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>, in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>&nbsp;und im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br",
+        "mv"
+      ],
+      "lastModified": "28.05.2023 08:11",
+      "expand": false,
+      "priorityValue": 103
+    },
+    {
       "id": "40a40c28-c991-433c-8880-7f33c76578e6",
       "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
       "newsType": "Personalengpässe",
@@ -453,29 +475,6 @@
       "lastModified": "13.05.2023 17:39",
       "author": "bayern",
       "expand": true,
-      "priorityValue": 101
-    },
-    {
-      "id": "7561c4f2-4244-4acd-aac3-fbe8ce57ec86",
-      "headline": "Zugverkehr zwischen Wendlingen(Neckar) und Ulm Hbf wird wieder aufgenommen",
-      "newsType": "Stellwerk in Merklingen - Schwäbische Alb wieder in Betrieb",
-      "timePeriod": "Ab Samstagabend (27. Mai 2023) um 22:00 Uhr bis Sonntagmorgen um 7:30 Uhr",
-      "introText": "<p>Um 7:30 Uhr wird der Zugverkehr zwischen Wendlingen und Ulm Hbf wieder aufgenommen. Der erste planm&auml;&szlig;ig verkehrende Zug ist IRE200 16046 (Abfahrt in Ulm Hbf um 7:29 Uhr).</p>\n",
-      "connectionsHeadline": "Betroffene Strecke",
-      "connections": [
-        "IRE200 Ulm - Merklingen - Wendlingen(Neckar)"
-      ],
-      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
-      "priority": "0",
-      "distance": [
-        "regional"
-      ],
-      "areas": [
-        "bw"
-      ],
-      "lastModified": "28.05.2023 07:21",
-      "author": "baden_wuerttemberg",
-      "expand": false,
       "priorityValue": 101
     },
     {
