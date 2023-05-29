@@ -46,6 +46,28 @@
       "priorityValue": 102
     },
     {
+      "id": "c8898ab4-3540-4584-bc46-66059ecd7503",
+      "headline": "Beeinträchtigungen durch Vandalismus",
+      "newsType": "Haltausfall in Großräschen",
+      "timePeriod": "bis vsl. 30. Mai 2023 ca. 8:00 Uhr",
+      "introText": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+      "connectionsHeadline": "RE7 (Dessau Hbf - Berlin - Lübbenau (Spreewald) - Senftenberg) ",
+      "connections": [],
+      "closingText": "<p>Wegen&nbsp;Beeintr&auml;chtigungen an der Strecke durch Vandalismus halten die Z&uuml;ge der Linie RE7 in Richtung Berlin bzw. K&ouml;nigs Wusterhausen nicht in&nbsp;Gro&szlig;r&auml;schen.</p>\n\n<p>Benutzen Sie bitte alternative Reisem&ouml;glichkeiten.</p>\n\n<p>Bitte informieren Sie sich rechtzeitig vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter <a href=\"http://bahn.de/reiseauskunft\">bahn.de/reiseauskunft</a>,&nbsp;in der App <a href=\"http://DB Streckenagent\">DB Streckenagent</a>,&nbsp;im <a href=\"http://DB Navigator\">DB Navigator</a>&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "29.05.2023 18:18",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "1e2a45bd-546b-4423-8ac6-4ece2051bd85",
       "headline": "Zugausfälle auf der Linie RB24 Nord zwischen Berlin-Lichtenberg und Flughafen BER - Terminal 5",
       "newsType": ".",
@@ -260,6 +282,33 @@
       "lastModified": "04.11.2021 10:10",
       "author": "nrw",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "055555f0-9ac2-479f-b027-84653b2034cd",
+      "headline": "Erhöhter Krankenstand beim Stellwerkspersonal",
+      "newsType": "Zugverkehr eingestellt, Zugausfälle",
+      "timePeriod": "Dienstag 30.05.2023 zwischen 04:00 Uhr und 13:30 Uhr",
+      "introText": "<p>Wegen eines erh&ouml;hten Krankenstandes Stellwerkpersonals wurde der Zugverkehr&nbsp;auf der Regionalbahnen</p>\n\n<p><strong>RB66 Kaiserslautern Hbf &ndash; Lauterecken Grumbach zwischen 04:00 Uhr und 13:30 Uhr eingestellt und</strong></p>\n\n<p><strong>RB46 zwischen Gr&uuml;nstadt und Frankenthal kommt es zu Zugausf&auml;llen.</strong></p>\n",
+      "connectionsHeadline": "Betroffene Linien: ",
+      "connections": [
+        "RB46\tFrankenthal – Freinsheim – Grünstadt – Ramsen – Eiswoog (Eistalbahn)",
+        "RB66\tKaiserslautern – Wolfstein – Lauterecken-Grumbach (Lautertalbahn)"
+      ],
+      "download": {
+        "text": "<p><strong>Ersatzverkehr in Planung.&nbsp;</strong></p>\n\n<p>Die DB bittet ihre Fahrg&auml;ste, aufgrund der abweichenden Abfahrts- und Reisezeiten der Busse mehr Reisezeit einzuplanen und zu beachten, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnh&ouml;fen liegen.</p>\n\n<p>Eine Fahrradmitnahme in den Bussen ist nicht m&ouml;glich.&nbsp;</p>\n"
+      },
+      "closingText": "<p>Bitte beachten Sie die &Auml;nderungen bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Fahrzeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><a href=\"http://www.bahn.de/\" style=\"color:blue; text-decoration:underline\"><strong>www.bahn.de</strong></a>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" style=\"color:blue; text-decoration:underline\"><strong>Streckenagent-App</strong></a> oder auf <a href=\"https://twitter.com/Regio_Mitte\" style=\"color:blue; text-decoration:underline\"><strong>Twitter</strong></a>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "rp"
+      ],
+      "lastModified": "29.05.2023 18:16",
+      "author": "mitte",
+      "expand": false,
       "priorityValue": 101
     },
     {
