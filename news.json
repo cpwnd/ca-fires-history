@@ -24,6 +24,27 @@
       "priorityValue": 102
     },
     {
+      "id": "1e2a45bd-546b-4423-8ac6-4ece2051bd85",
+      "headline": "Zugausfälle auf der Linie RB24 Nord zwischen Berlin-Lichtenberg und Flughafen BER - Terminal 5",
+      "newsType": ".",
+      "timePeriod": "bis vsl. einschließlich 10.06.2023",
+      "introText": "<p>Derzeit ist die Linie <strong>RB24 Nord</strong> baubedingt zwischen Bernau (b Berlin) und Berlin-Lichtenberg unterbrochen und k&ouml;nnte daher nur noch zwischen Berlin-Lichtenberg und Flughafen BER T5 (mit erh&ouml;htem Personalbedarf) fahren, bei vsl. geringer Fahrgastnachfrage.</p>\n\n<p>Aufgrund der alternativen Reisem&ouml;glichkeiten zwischen Berlin-Lichtenberg und dem f&uuml;r Flugg&auml;ste nicht mehr relevanten Bahnhof Flughafen BER T5 mit der S-Bahn wurde die Leistung zugunsten anderer Linien ausgelegt. Die Anbindung zum Flughafen BER T1-2 wird durch andere Linien (FEX, RB23, RE8) sichergestellt.</p>\n\n<p>Die Reiseauskunftssysteme der DB und des VBB wurden aktualisiert.</p>\n",
+      "connections": [],
+      "closingText": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter&nbsp;<a href=\"https://www.bahn.de/\">bahn.de/reiseauskunft</a>&nbsp;und VBB.de sowie in der App&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\">DB Streckenagent</a>,&nbsp;im&nbsp;<a href=\"https://www.bahn.de/service/mobile/db-navigator\" target=\"_blank\">DB Navigator</a>&nbsp;und in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "be",
+        "br"
+      ],
+      "lastModified": "26.05.2023 12:45",
+      "author": "nordost",
+      "expand": false,
+      "priorityValue": 102
+    },
+    {
       "id": "3f318b0b-7c89-411a-beac-fdd6d502e3cb",
       "headline": "Meldungen der S-Bahn Berlin",
       "newsType": ".",
@@ -146,7 +167,7 @@
       "headline": "Meldungen der DB Regio NRW",
       "newsType": "Betriebslage",
       "timePeriod": "unbefristet",
-      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der DB Regio NRW finden Sie&nbsp;<a href=\"http://zuginfo.nrw\" target=\"_blank\">hier</a></p>\n\n<p>&nbsp;</p>\n\n<p>Aktuelle Verkehrsmeldungen und Informationen der DB Regio NRW finden Sie auf dem frei zug&auml;nglichen&nbsp;<a href=\"http://www.twitter.com/Regio_NRW\" target=\"_blank\">Twitter-Kanal</a></p>\n",
+      "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage der DB Regio NRW finden Sie&nbsp;<a href=\"http://www.zuginfo.nrw\" target=\"_blank\">hier</a></p>\n\n<p>&nbsp;</p>\n\n<p>Aktuelle Verkehrsmeldungen und Infos der DB Regio NRW finden Sie auf dem frei zug&auml;nglichen&nbsp;<a href=\"http://www.twitter.com/Regio_NRW\" target=\"_blank\">Twitter-Kanal</a></p>\n",
       "connections": [],
       "priority": "0",
       "distance": [
@@ -155,9 +176,47 @@
       "areas": [
         "nw"
       ],
-      "lastModified": "07.06.2023 14:42",
+      "lastModified": "04.11.2021 10:10",
       "author": "nrw",
       "expand": true,
+      "priorityValue": 101
+    },
+    {
+      "id": "afa2dfdd-e2aa-4eb9-9314-53703ad5be12",
+      "headline": "Keine Zugfahrten zwischen Dillingen(Saar) und Niedaltdorf",
+      "newsType": "kurzfristiger Personalausfall",
+      "timePeriod": "02.06.2023 bis Betriebsschluss",
+      "introText": "<p>Wegen eines kurzfristigen Personalausfalls verkehren am Dienstag, den 02.06.2023 ganzt&auml;gig&nbsp;keine Z&uuml;ge zwischen Dillingen(Saar) und Niedaltdorf.</p>\n",
+      "connectionsHeadline": "RB77 Dillingen(Saar) und Niedaltdorf",
+      "connections": [],
+      "download": {
+        "text": "<p>Wir haben f&uuml;r Sie einen <strong>Ersatzverkehr mit einem Bus der Firma Nikolaus Kirsch GmbH zwischen Dillingen(Saar) und Niedaltdorf</strong> eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p>Den <strong>Busfahrplan</strong> finden Sie hier:</p>\n",
+        "linkDataList": [
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:063d67a1-cdb5-4043-bada-295713537493/SEV-Fahrpl%C3%A4ne%20DillingenSaar-Niedaltdorf.pdf",
+            "title": "SEV-Fahrpläne DillingenSaar-Niedaltdorf.pdf (PDF, 25 KB)",
+            "info": "",
+            "openInNewTab": false
+          },
+          {
+            "link": "https://assets.static-bahn.de/dam/jcr:6233b743-7cb6-46a3-8096-d77f001f44d1/SEV-Fahrpl%C3%A4ne%20Niedaltdorf%20-%20DillingenSaar.pdf",
+            "title": "SEV-Fahrpläne Niedaltdorf - DillingenSaar.pdf (PDF, 25 KB)",
+            "info": "",
+            "openInNewTab": false
+          }
+        ]
+      },
+      "closingText": "<p>Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Sobald uns neue Informationen vorliegen, halten wir Sie an dieser Stelle auf dem Laufenden.</p>\n\n<p>Bitte rechnen Sie auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><a href=\"http://www.bahn.de/\" target=\"_blank\"><strong>www.bahn.de</strong></a>.&nbsp;&nbsp;<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.&nbsp;<br />\nZus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-App</strong></a>&nbsp;oder auf&nbsp;<a href=\"https://twitter.com/Regio_Mitte\" target=\"_blank\"><strong>Twitter</strong></a>.&nbsp;</p>\n\n<p>DB Regio&nbsp;AG, Region&nbsp;Mitte</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "sl"
+      ],
+      "lastModified": "01.06.2023 16:10",
+      "author": "mitte",
+      "expand": false,
       "priorityValue": 101
     },
     {
@@ -260,9 +319,30 @@
       "priorityValue": 101
     },
     {
+      "id": "9bb93036-5967-42dc-b9c2-ce17ed7a4813",
+      "headline": "Reduziertes Fahrplanangebot auf der Ammertalbahn zwischen Tübingen und Entringen",
+      "newsType": "Reparatur an der Strecke",
+      "timePeriod": "bis auf Weiteres",
+      "introText": "<p>Die Z&uuml;ge, die ausschlie&szlig;lich den Streckenabschnitt zwischen T&uuml;bingen und Entringen befahren, entfallen mit Ausnahme von wenigen Z&uuml;gen im Sch&uuml;lerverkehr. Bitte nutzen Sie die &uuml;brigen Z&uuml;ge der Linie RB 63 zwischen T&uuml;bingen und Herrenberg.</p>\n",
+      "connectionsHeadline": "RB 63: Tübingen - Entringen",
+      "connections": [],
+      "closingText": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <a href=\"https://www.bahn.de/service/mobile/streckenagent-app\" target=\"_blank\"><strong>Streckenagent-APP</strong></a> immer dabei!</p>\n",
+      "priority": "0",
+      "distance": [
+        "regional"
+      ],
+      "areas": [
+        "bw"
+      ],
+      "lastModified": "15.05.2023 18:40",
+      "author": "baden_wuerttemberg",
+      "expand": false,
+      "priorityValue": 101
+    },
+    {
       "id": "67d9e854-390f-401c-a4ef-45fa289d069c",
       "headline": "Meldungen der S-Bahn Stuttgart",
-      "newsType": "Aktuelle Betriebslage",
+      "newsType": "Betriebslage",
       "timePeriod": "unbefristet",
       "introText": "<p>Meldungen &uuml;ber die aktuelle Betriebslage im S-Bahnverkehr in Stuttgart finden Sie auf:<br />\n<a href=\"https://www.s-bahn-stuttgart.de/s-stuttgart/betriebslage-7554414\" target=\"_blank\">Betriebslage S-Bahn Stuttgart</a><br />\n<a href=\"https://twitter.com/SBahn_Stuttgart\" target=\"_blank\">Twitter-Kanal</a></p>\n",
       "connections": [],
@@ -273,7 +353,7 @@
       "areas": [
         "bw"
       ],
-      "lastModified": "02.06.2023 08:56",
+      "lastModified": "13.01.2023 09:42",
       "author": "baden_wuerttemberg",
       "expand": false,
       "priorityValue": 101
