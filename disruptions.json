@@ -324,6 +324,61 @@
       "topDisruption": false
     },
     {
+      "id": "3895af1c-8715-4e19-a9ac-8aa6c43fd2f5",
+      "author": "REGIO_SH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Reparatur an der Oberleitung Bahnhof Hamburg-Wandsbek",
+      "summary": "Aufgrund einer kurzfristig notwendigen Reparatur an der Oberleitung&nbsp;ist der Bahnhof Hamburg-Wandsbek von 10.10.2023 18:00 Uhr bis 11.10.2023 06:00 Uhr gesperrt.",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>RE 8/RE 80&nbsp;(L&uuml;beck-Travem&uuml;nde Strand/L&uuml;beck Hbf &ndash; Hamburg Hbf):</strong>&nbsp;Z&uuml;ge beginnen und enden Ahrensburg.</li>\n\t<li><strong>RB 81 (Bad Oldesloe &ndash;Hamburg Hbf):</strong> Z&uuml;ge beginnen und enden in Hamburg-Rahlstedt.</li>\n</ul>\n\n<p>Wir richten einen Ersatzverkehr mit Bussen von Hamburg-Rahlstedt bis Wandsbek Markt (U-Bahn) und Hasselbrook sowie von&nbsp;Ahrensburg bis&nbsp;Ahrensburg West (U-Bahn) f&uuml;r Sie ein.&nbsp;Die Fahrplanmedien werden hierzu zeitnah aktualisiert.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf Twitter.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "durationBegin": "10.10.2023",
+      "durationEnd": "11.10.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "Twitter DB Regio Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml",
+          "label": "Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SH"
+      ],
+      "lastModified": "04.10.2023 11:12",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "d45dc896-09f7-4653-b0f1-38b6f48aaeb4",
       "author": "REGIO_SH",
       "cause": {
