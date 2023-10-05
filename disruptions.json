@@ -138,50 +138,6 @@
       "topDisruption": false
     },
     {
-      "id": "8c1cd80d-2f71-489e-bf75-4c0ce6b53335",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Verspätungen auf den Linien RE10 und RB43 ",
-      "summary": "Wegen witterungsbedingter Beeintr&auml;chtigungen und Fahrzeugsch&auml;den ist die Strecke zwischen Frankfurt/Oder - Eisenh&uuml;ttenstadt teilweise noch gesperrt und kann nur eingleisig befahren werden. An der Beseitigung und Entst&ouml;rung wird gearbeitet.<br />\n<br />\nDie Z&uuml;ge der Linien RE10 und RB43 verkehren wieder. Es kann jedoch zu Versp&auml;tungen von bis zu 20 Minuten kommen.<br />\n<br />\nBitte informieren Sie sich vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der AppDB Streckenagent oder imDB Navigator.",
-      "text": "<p>&nbsp;</p>\n\n<p>&nbsp;</p>\n",
-      "durationBegin": "04.10.2023",
-      "durationEnd": "05.10.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/reiseauskunft",
-          "label": "Reiseauskunft bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "App DB Streckenagent",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE"
-      ],
-      "lastModified": "05.10.2023 14:22",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "f40085c0-01ca-4650-8c42-74afb20cb1c5",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -203,56 +159,6 @@
         "SN"
       ],
       "lastModified": "03.10.2023 15:29",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "740bd1d4-a108-4516-bbc0-74514487418d",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "accident",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Umleitung aller Züge der RE6 nach Berlin Jungfernheide Ausfall Halt Berlin-Charlottenburg",
-      "summary": "Wegen einer Reparatur an der Strecke fahren alle Z&uuml;ge bis voraussichtlich Tagesende von und nach Berlin Jungfernheide.&nbsp;<br />\n<br />\nDer Halt Berlin-Charlottenburg entf&auml;llt. Benutzen Sie bitte die S-Bahn oder andere Verkehrsmittel.",
-      "text": "<p>Informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App&nbsp;DB Streckenagent,&nbsp;im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
-      "durationBegin": "05.10.2023",
-      "durationEnd": "05.10.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/reiseauskunft",
-          "label": "Reiseauskunft bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "App DB Streckenagent",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.vbb.de/fahrinformation/vbb-apps/vbb-app-bus-bahn/",
-          "label": "VBB-App \"Bus&Bahn\"",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE"
-      ],
-      "lastModified": "05.10.2023 17:43",
       "expand": false,
       "topDisruption": false
     },
