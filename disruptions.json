@@ -242,6 +242,31 @@
       "topDisruption": false
     },
     {
+      "id": "24f6ba87-ada5-4eb4-b604-ce8be06b244b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Ulm und Augsburg",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Ulm und Augsburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten. Bei einzelnen Zügen können höhere Verspätungen auftreten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-/EC-Züge zwischen Ulm und Augsburg.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis in die Nachtstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.10.2023",
+      "durationEnd": "06.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lastModified": "06.10.2023 18:25",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -322,6 +347,29 @@
         "ST"
       ],
       "lastModified": "04.10.2023 12:25",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "d9a7d4d8-2a6d-4c67-9407-0f7b6c7f09d9",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Streckensperrung zwischen Mössingen und Tübingen am Freitagabend ab 20 Uhr",
+      "summary": "Aufgrund kurzfristig notwendiger Bauarbeiten kommt es am Freitagabend (6. Oktober 2023) zwischen T&uuml;bingen Hbf und M&ouml;ssingen zu Zugausf&auml;llen.<br />\n<br />\nF&uuml;r alle ausfallenden Z&uuml;ge der Linien IRE6 und RB66 wurde zwischen M&ouml;ssingen und T&uuml;bingen Hbf ein Ersatzverkehr mit Bus eingerichtet.<br />\n<br />\nMorgen fr&uuml;h (Samstag, 7. Oktober) wird der Zugverkehr planm&auml;&szlig;ig wieder aufgenommen.",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li>IRE 6</li>\n\t<li>RB 66</li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "06.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "06.10.2023 18:26",
       "expand": false,
       "topDisruption": false
     },
@@ -483,7 +531,7 @@
       "states": [
         "SH"
       ],
-      "lastModified": "06.10.2023 17:47",
+      "lastModified": "06.10.2023 18:32",
       "expand": true,
       "topDisruption": false
     },
@@ -766,6 +814,30 @@
       ],
       "lastModified": "29.08.2023 03:26",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "9035a239-456a-466a-8ef1-9c331104bcf3",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Augsburg und München",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Augsburg und München kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch um etwa 10 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-/EC-Züge zwischen Augsburg und München.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis Mittwoch, 11.10.2023, erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.10.2023",
+      "durationEnd": "11.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lastModified": "06.10.2023 18:22",
+      "expand": true,
       "topDisruption": false
     },
     {
