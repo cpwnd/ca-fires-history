@@ -318,18 +318,32 @@
         "label": "Bauarbeiten"
       },
       "headline": "Streckensperrung zwischen Mössingen und Tübingen am Freitagabend ab 20 Uhr",
-      "summary": "Aufgrund kurzfristig notwendiger Bauarbeiten kommt es am Freitagabend (6. Oktober 2023) zwischen T&uuml;bingen Hbf und M&ouml;ssingen zu Zugausf&auml;llen.<br />\n<br />\nF&uuml;r alle ausfallenden Z&uuml;ge der Linien IRE6 und RB66 wurde zwischen M&ouml;ssingen und T&uuml;bingen Hbf ein Ersatzverkehr mit Bus eingerichtet.<br />\n<br />\nMorgen fr&uuml;h (Samstag, 7. Oktober) wird der Zugverkehr planm&auml;&szlig;ig wieder aufgenommen.",
+      "summary": "Aufgrund kurzfristig notwendiger Bauarbeiten kommt es am Freitagabend (6. Oktober 2023) zwischen T&uuml;bingen Hbf und M&ouml;ssingen zu Zugausf&auml;llen.<br />\n<br />\nF&uuml;r alle ausfallenden Z&uuml;ge der Linien IRE6 und RB66 wurde zwischen M&ouml;ssingen und T&uuml;bingen Hbf ein Ersatzverkehr mit Bus eingerichtet. Den Fahrplan der Busse finden Sie weiter unten als Link.<br />\n<br />\nMorgen fr&uuml;h (Samstag, 7. Oktober) wird der Zugverkehr planm&auml;&szlig;ig wieder aufgenommen.",
       "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li>IRE 6</li>\n\t<li>RB 66</li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
       "durationBegin": "06.10.2023",
-      "downloads": [],
-      "links": [],
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:70a150db-e353-41a0-8c03-5a27775244a0/M%C3%B6ssingen_T%C3%BCbingen_06102023.pdf",
+          "label": "Fahrplan des Ersatzverkehrs zwischen Tübingen und Mössingen (PDF, 262 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-APP",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
       "states": [
         "BW"
       ],
-      "lastModified": "06.10.2023 18:26",
+      "lastModified": "06.10.2023 19:14",
       "expand": false,
       "topDisruption": false
     },
@@ -438,61 +452,6 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "7abdd638-8359-426d-bf37-c877151cc06c",
-      "author": "REGIO_SH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Reparatur an der Oberleitung auf der Strecke Flintbek und Kiel Hbf",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung kann es zu Versp&auml;tungen und Ausf&auml;llen auf der Strecke zwischen Flintbek und Kiel Hbf kommen.&nbsp;",
-      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>RE 7/RE 70 (Hamburg Hbf -&nbsp;Kiel Hbf)</strong></li>\n</ul>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf Twitter.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
-      "durationBegin": "06.10.2023",
-      "durationEnd": "06.10.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://reiseauskunft.bahn.de/",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH",
-          "label": "Twitter DB Regio Schleswig-Holstein",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml",
-          "label": "Fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de",
-          "label": "Lageplan des Ersatzverkehrs",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SH"
-      ],
-      "lastModified": "06.10.2023 18:32",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -744,6 +703,30 @@
       ],
       "lastModified": "07.08.2023 16:20",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "77f320e0-cc0f-4b6a-9057-c2139e47ff8b",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 4 Ersatzverkehr von/nach Pönitz(Sachsen)",
+      "summary": "Pönitz(Sachsen) kann während der Bauarbeiten nicht vom regulären Busersatzverkehr angefahren werden.",
+      "text": "<p>Aufgrund von Straßenbauarbeiten muss der Halt Pönitz(Leipzig) leider für den regulären Busersatzverkehr entfallen. Ein Pendelverkehr mit Taxi zwischen Pönitz(Leipzig) und Taucha wurde eingerichtet. Reisende Richtung Eilenburg nutzen den SEV der S 4 ab Taucha, Reisende Richtung Leipzig nutzen die Züge der S 4 ab Taucha. Die Abfahrt des Taxis ist in Pönitz(Leipzig) zur Minute 10 und in Taucha zur Minute 50.</p>",
+      "durationBegin": "05.10.2023",
+      "durationEnd": "13.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "06.10.2023 19:01",
+      "expand": true,
       "topDisruption": false
     },
     {
