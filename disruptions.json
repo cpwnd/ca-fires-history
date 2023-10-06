@@ -107,11 +107,18 @@
         "label": "Kurzfristiger Personalausfall"
       },
       "headline": "Beeinträchtigungen bei der Westfrankenbahn vom 09.10. - 27.10.",
-      "summary": "<u><strong>Betroffene Fahrten:</strong></u><br />\n<strong>RB 84 (Madonnenlandbahn)</strong>\n<ul>\n\t<li>RB 23565 Miltenberg (12:46 Uhr)&nbsp;► Seckach (14:01 Uhr)</li>\n\t<li>RB 23530 Seckach (14:20 Uhr)&nbsp;► Miltenberg (15:48 Uhr)</li>\n\t<li>RB 23569 Walld&uuml;rn (15.35 Uhr) ► Seckach (16.08 Uhr)</li>\n\t<li>RB 23534 Seckach (16.20 Uhr) ► Walld&uuml;rn (16.50 Uhr)</li>\n\t<li>RB 23537 Walld&uuml;rn (16.56 Uhr) ► Seckach (17.35 Uhr)</li>\n\t<li>RB 23540 Seckach (18:20 Uhr) ► Walld&uuml;rn (18.50 Uhr)</li>\n\t<li>RB 23542 Walld&uuml;rn (19:22 Uhr) ► Miltenberg (19.54 Uhr)</li>\n\t<li>RB 23549 Miltenberg (20:09 Uhr) ► Walld&uuml;rn (20.40 Uhr)</li>\n</ul>\n<br />\n<strong>Ein Ersatzverkehr mit Bus ist eingerichtet.</strong><br />\n<br />\nBitte beachten Sie: Der EV-Bus h&auml;lt an folgenden Ersatzhalten: Hainstadt, Ort - Buchen, Eberstadter Str. und B&ouml;digheim, Kirche. Eine Fahrradmitnahme in den Bussen ist nicht m&ouml;glich.",
+      "summary": "<u><strong>Betroffene Linie / Z&uuml;ge:</strong></u><br />\n<strong>RB 84 (Madonnenlandbahn)</strong><br />\n<br />\nDie betroffenen Z&uuml;ge finden Sie im Anhang unten.<br />\n<br />\n<strong>Ein Ersatzverkehr mit Bus ist eingerichtet.</strong><br />\n<br />\nBitte beachten Sie: Der EV-Bus h&auml;lt an folgenden Ersatzhalten: Hainstadt, Ort - Buchen, Eberstadter Str. und B&ouml;digheim, Kirche. Eine Fahrradmitnahme in den Bussen ist nicht m&ouml;glich.",
       "text": "<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung insbesondere aufgrund der l&auml;ngeren Fahrzeiten der Busse mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
       "durationBegin": "09.10.2023",
       "durationEnd": "27.10.2023",
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:e588e16e-46c6-402d-8151-c8f17e6428b1/Madonnenlandbahn_Ersatzverkehr%20ab%209.10%20bis%2027.10..pdf",
+          "label": "Madonnenlandbahn_Ersatzverkehr ab 9.10 bis 27.10. (PDF, 163 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [
         {
           "href": "https://www.bahn.de/service/mobile/streckenagent-app",
@@ -127,7 +134,7 @@
         "BW",
         "BY"
       ],
-      "lastModified": "06.10.2023 12:50",
+      "lastModified": "06.10.2023 13:20",
       "expand": false,
       "topDisruption": false
     },
@@ -192,6 +199,31 @@
       ],
       "lastModified": "03.10.2023 15:29",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "24f6ba87-ada5-4eb4-b604-ce8be06b244b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Ulm und Augsburg",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Ulm und Augsburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten. Bei einzelnen Zügen können höhere Verspätungen auftreten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-/EC-Züge zwischen Ulm und Augsburg.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.10.2023",
+      "durationEnd": "06.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lastModified": "06.10.2023 13:15",
+      "expand": true,
       "topDisruption": false
     },
     {
