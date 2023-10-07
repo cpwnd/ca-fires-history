@@ -293,8 +293,8 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "Beeinträchtigungen zwischen Kusel und Landstuhl / Kaiserslautern",
-      "summary": "Ein defektes Stellwerk in Altenglan beeintr&auml;chtigt den Zugverkehr zwischen Kusel und Landstuhl. Es kommt zu Versp&auml;tungen und Zugausf&auml;llen.",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB67 Kusel - Landstuhl - Kaiserslautern</strong></li>\n</ul>\n\n<p>Zwischen Kusel und Landstuhl haben wir einen zus&auml;tzlichen Pendelverkehr mit Bussen (Lay Reisen) f&uuml;r Sie eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p>Achten Sie bitte darauf, dass die Busse ohne festen Fahrplan verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen. Die Mitnahme von Fahrr&auml;dern in den Bussen ist aus Kapazit&auml;tsgr&uuml;nden nicht m&ouml;glich.</p>\n\n<p>Bitte beachten Sie die &Auml;nderungen bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Fahrzeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "summary": "Ein defektes Stellwerk in Altenglan beeintr&auml;chtigt den Zugverkehr zwischen Kusel und Landstuhl. Aktuell kein Zugverkehr m&ouml;glich.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB67 Kusel - Landstuhl - Kaiserslautern</strong></li>\n</ul>\n\n<p>Die Z&uuml;ge fallen zwischen Kusel und Landstuhl aus.</p>\n\n<p>Zwischen Kusel und Landstuhl haben wir einen <strong>Ersatzverkehr</strong> mit zwei Bussen (Lay Reisen) f&uuml;r Sie eingerichtet, der alle Unterwegshalte anf&auml;hrt.</p>\n\n<p>Achten Sie bitte darauf, dass die Busse ohne festen Fahrplan verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen. Die Mitnahme von Fahrr&auml;dern in den Bussen ist aus Kapazit&auml;tsgr&uuml;nden nicht m&ouml;glich.</p>\n\n<p>Bitte beachten Sie die &Auml;nderungen bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Fahrzeit ein.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "durationBegin": "07.10.2023",
       "downloads": [],
       "links": [
@@ -329,7 +329,7 @@
       "states": [
         "RP"
       ],
-      "lastModified": "07.10.2023 11:32",
+      "lastModified": "07.10.2023 14:18",
       "expand": false,
       "topDisruption": false
     },
@@ -844,6 +844,29 @@
       "topDisruption": false
     },
     {
+      "id": "0d2a695d-fd20-4846-8109-ea077b81532f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Wuppertal und Köln",
+      "summary": "Aufgrund einer technischen Störung an der Strecke in Solingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen von etwa 15 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge zwischen Wuppertal und Köln</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lastModified": "07.10.2023 14:30",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "9035a239-456a-466a-8ef1-9c331104bcf3",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -864,29 +887,6 @@
         "BY"
       ],
       "lastModified": "07.10.2023 06:38",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "0d2a695d-fd20-4846-8109-ea077b81532f",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Beeinträchtigungen zwischen Wuppertal und Köln",
-      "summary": "Aufgrund einer technischen Störung an der Strecke in Solingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen von etwa 45 Minuten. Einzelne Züge halten nicht in Solingen, Wuppertal und Hagen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge zwischen Wuppertal und Köln</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.10.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lastModified": "07.10.2023 04:33",
       "expand": true,
       "topDisruption": false
     },
