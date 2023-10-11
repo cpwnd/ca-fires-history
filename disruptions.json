@@ -310,6 +310,30 @@
       "topDisruption": false
     },
     {
+      "id": "649fdee9-d006-4e8e-bff9-0cac38da40a8",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Unfall an einem Bahnübergang",
+      "summary": "Aufgrund eine Unfalls an einem Bahnübergang bei Stendal ist der Streckenabschnitt zwischen Stendal und Hohenwulsch gesperrt.",
+      "text": "<p>Derzeit fallen die Züge im Streckenabschnitt Hohenwulsch - Stendal aus. Die Züge fahren aus/in Richtung Magdeburg bis/ab Stendal und aus/in Richtung Uelzen bis/ab Hohenwulsch. Aufgrund der Gegebenheiten steht uns im Abschnitt Uelzen - Hohenwulsch nur ein Zug zur Verfügung, sodass nicht alle Zugleistungen abgedeckt werden können.</p><p>Ein Ersatzverkehr mit Bus wurde zwischen Salzwedel und Stendal eingerichtet. Die Platzkapazität des Ersatzverkehrs ist stark eingeschränkt. </p><p>Alternativ haben Reisenden von Magdeburg nach Salzwedel die Möglichkeit die Regionalbusline 100 zu nutzen. Reisende von Magdeburg nach Uelzen können alternativ die Verbindung über Wolfsburg in Betracht ziehen. Bitte beachten Sie, dass hierfür entsprechende Fahrscheine z.B. Deutschland-Ticket vorhanden sein müssen.</p>",
+      "durationBegin": "11.10.2023",
+      "durationEnd": "12.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "11.10.2023 08:49",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -664,6 +688,30 @@
       ],
       "lastModified": "12.09.2023 13:44",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "8a159377-84a9-4f52-ab9c-b487855a731b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Köln Hbf und Köln/Bonn Flughafen",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Köln Hbf und Köln/Bonn Flughafen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Der Halt in Köln/Bonn Flughafen entfällt.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge der Fahrtrichtung Köln Hbf - Siegburg/Bonn - Frankfurt(M) mit planmäßigem Halt in Köln/Bonn Flughafen</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>S 19 in Richtung Hennef(Sieg)</li><li>RE 6 in Richtung Hennef(Sieg)</li><li>RB 27 in Richtung Koblenz</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "11.10.2023",
+      "durationEnd": "11.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lastModified": "11.10.2023 09:07",
+      "expand": true,
       "topDisruption": false
     },
     {
