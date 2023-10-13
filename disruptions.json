@@ -761,6 +761,55 @@
       "topDisruption": false
     },
     {
+      "id": "f9f7cb40-826a-4e81-855f-3fa1e3e9a5b5",
+      "author": "REGIO_SH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Streckenstörung zwischen Keitum und Westerland(Sylt)",
+      "summary": "Aufgrund einer Streckenst&ouml;rung zwischen Keitum und Westerland(Sylt) kommt es zurzeit zu Versp&auml;tungen und Teilausf&auml;llen auf der Linie RE6.",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Es kommt zu Versp&auml;tungen bis zu 40 Minuten und zu Teilausf&auml;llen.</li>\n</ul>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "durationBegin": "13.10.2023",
+      "durationEnd": "14.10.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "Twitter DB Regio Schleswig-Holstein",
+          "info": "https://twitter.com/dbregio_SH",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator",
+          "info": "https://www.bahn.de/service/mobile/db-navigator",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https",
+          "label": "DB Reiseauskunft",
+          "info": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https",
+          "openInNewTab": true
+        },
+        {
+          "href": ": https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt ",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": ": https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt ",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SH"
+      ],
+      "lastModified": "13.10.2023 19:42",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "author": "S_BAHN_S",
       "cause": {
