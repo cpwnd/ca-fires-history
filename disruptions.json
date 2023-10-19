@@ -35,6 +35,31 @@
       "topDisruption": false
     },
     {
+      "id": "6d8ea50a-39f4-4111-9e1c-70ae55991753",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Berlin Ostbahnhof und Berlin Spandau",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Berlin Ostbahnhof und Berlin Spandau kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch bis zu 15 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Berlin und dem Ruhrgebiet (einzelne Züge)</li><li>ICE Züge zwischen Berlin und Frankfurt(M) (einzelne Züge)</li><li>EC Züge zwischen Berlin und Warschau</li><li>IC Züge zwischen Berlin und Cottbus</li><li>IC Züge zwischen Berlin und Magdeburg (einzelne Züge)</li><li>IC Züge zwischen Berlin und Amsterdam</li><li>NJ Züge zwischen Berlin und Graz</li></ul><p>Es sind nur die Züge betroffen, welche in Berlin Hbf oben (Gleise 11, 12, 13 und 14) verkehren. Züge, die in Berlin Hbf unten (Gleise 1 - 8) halten, sind NICHT betroffen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "19.10.2023",
+      "durationEnd": "19.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lastModified": "19.10.2023 10:37",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "015bd289-125e-4f57-9315-8f580ed03ce7",
       "author": "REGIO_BW",
       "cause": {
@@ -71,31 +96,6 @@
       ],
       "lastModified": "19.10.2023 08:29",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "033d843b-f9e4-407e-ba3c-b32a5cbd4750",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Mannheim",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Frankfurt(M) und Mannheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 10 - 15 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge der Fahrtrichtung Frankfurt(M) - Mannheim</li><li>IC Züge der Fahrtrichtung Frankfurt(M) - Mannheim</li><li>ECE Züge der Fahrtrichtung Frankfurt(M) - Mannheim</li><li>TGV Züge der Fahrtrichtung Frankfurt(M) - Mannheim</li></ul><p>Züge der Fahrtrichtung Mannheim - Frankfurt(M) sind von der Störung nicht betroffen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "19.10.2023",
-      "durationEnd": "20.10.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lastModified": "19.10.2023 08:20",
-      "expand": true,
       "topDisruption": false
     },
     {
