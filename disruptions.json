@@ -2,44 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "4674fe0e-7a4c-43e0-95d6-57df07455c6b",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen Würzburg und Aschaffenburg bzw. Fulda",
-      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Würzburg und Aschaffenburg bzw. Fulda kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von etwa 25 Minuten.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE, IC und NJ Züge zwischen Würzburg und Aschaffenburg bzw. Fulda.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "19.10.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lastModified": "19.10.2023 19:19",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -77,13 +39,12 @@
       "author": "FERNVERKEHR_AG",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "Beeinträchtigungen zwischen Berlin Ostbahnhof und Berlin Spandau",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Berlin Ostbahnhof und Berlin Spandau kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch bis zu 15 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Berlin und dem Ruhrgebiet (einzelne Züge)</li><li>ICE Züge zwischen Berlin und Frankfurt(M) (einzelne Züge)</li><li>EC Züge zwischen Berlin und Warschau</li><li>IC Züge zwischen Berlin und Cottbus</li><li>IC Züge zwischen Berlin und Magdeburg (einzelne Züge)</li><li>IC Züge zwischen Berlin und Amsterdam</li><li>NJ Züge zwischen Berlin und Graz</li></ul><p>Es sind nur die Züge betroffen, welche in Berlin Hbf oben (Gleise 11, 12, 13 und 14) verkehren. Züge, die in Berlin Hbf unten (Gleise 1 - 8) halten, sind NICHT betroffen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigung im Raum Berlin",
+      "summary": "Aufgrund einer Reparatur an der Weiche im Raum Berlin Zoologischer Garten kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von etwa 15 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC/EC-Züge auf dem Abschnitt zwischen Berlin Hbf und Berlin-Spandau</li><li>Alle ICE- und IC-Züge auf dem Abschnitt zwischen Berlin Hbf und Potsdam</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "19.10.2023",
-      "durationEnd": "19.10.2023",
       "downloads": [],
       "links": [],
       "properties": [
@@ -93,7 +54,7 @@
         "BB",
         "BE"
       ],
-      "lastModified": "19.10.2023 10:37",
+      "lastModified": "19.10.2023 20:11",
       "expand": true,
       "topDisruption": false
     },
@@ -282,30 +243,6 @@
       "topDisruption": false
     },
     {
-      "id": "4566dbdf-f337-4b40-9c09-54a5170ef9f2",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Beeinträchtigung in Hanau",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Hanau kommt es am 19.10.2023 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden zwischen  Frankfurt (Main) und Aschaffenburg umgeleitet und verspäten sich um etwa 25 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 621 (Essen - München)</li><li>ICE 623 (Düsseldorf - München)</li><li>ICE 724 (München - Essen)</li><li>ICE 722 (München - Essen)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "17.10.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "HE"
-      ],
-      "lastModified": "18.10.2023 20:35",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -398,7 +335,7 @@
       },
       "headline": "Beeinträchtigungen zwischen Augsburg Hbf bzw. Stuttgart Hbf und Oberstdorf",
       "summary": "Aufgrund einer Reparatur an der Strecke kommt es zwischen Augsburg Hbf bzw. Stuttgart Hbf und Oberstdorf zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Die Züge IC 2084 / IC 2085 sowie IC 2012 / IC 2013 fallen auf dem Abschnitt zwischen Augsburg Hbf bzw. Stuttgart Hbf und Oberstdorf aus.</li></ul><p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p><ul><li>Zwischen Augsburg Hbf und Kempten (Allgäu) nutzen Sie die verbleibenden Züge des Regionalverkehrs der Linie RE79.</li><li>Zwischen Ulm und Kempten nutzen Sie die verbleibenden Züge des Regionalverkehrs der Linie RE75.</li><li>Zwischen Kempten (Allgäu) und Sonthofen nutzen Sie die verbleibenden Züge des Regionalverkehrs der Linien RE17, RE75 und RE76.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Die Züge IC 2084 / IC 2085 fallen auf dem Abschnitt zwischen Augsburg Hbf und Oberstdorf aus.</li><li>Die Züge IC 2012 / IC 2013 fallen auf dem Abschnitt zwischen Stuttgart Hbf und Oberstdorf aus.</li></ul><p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p><ul><li>Zwischen Augsburg Hbf und Kempten (Allgäu) nutzen Sie die verbleibenden Züge des Regionalverkehrs der Linie RE79.</li><li>Zwischen Ulm und Kempten nutzen Sie die verbleibenden Züge des Regionalverkehrs der Linie RE75.</li><li>Zwischen Kempten (Allgäu) und Sonthofen nutzen Sie die verbleibenden Züge des Regionalverkehrs der Linien RE17, RE75 und RE76.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "18.10.2023",
       "downloads": [],
       "links": [],
@@ -408,7 +345,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "19.10.2023 15:05",
+      "lastModified": "19.10.2023 20:15",
       "expand": true,
       "topDisruption": false
     },
