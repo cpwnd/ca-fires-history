@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "4674fe0e-7a4c-43e0-95d6-57df07455c6b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Würzburg und Aschaffenburg bzw. Fulda",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Würzburg und Aschaffenburg bzw. Fulda kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von etwa 25 Minuten.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE, IC und NJ Züge zwischen Würzburg und Aschaffenburg bzw. Fulda.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "19.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "19.10.2023 19:19",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
       "author": "REGIO_SUEDOST",
       "cause": {
