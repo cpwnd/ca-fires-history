@@ -42,8 +42,8 @@
         "label": "Reparatur an der Weiche"
       },
       "headline": "Beeinträchtigung zwischen Mannheim und Frankfurt(M)",
-      "summary": "Aufgrund einer Reparatur an der Weiche in Lampertheim auf der Strecke zwischen Mannheim und Frankfurt(M) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und TGV-Züge zwischen Mannheim und Frankfurt(M) werden umgeleitet und verspäten sich um etwa 15 Minuten.</li><li>Einzelne ICE-Züge zwischen Frankfurt(M) – Mannheim – Basel/Stuttgart werden umgeleitet. Der Halt Mannheim Hbf entfällt. Ersatzweise halten die Züge in Heidelberg Hbf.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Mittagsstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund einer Reparatur an der Weiche in Lampertheim auf der Strecke zwischen Mannheim und Frankfurt(M) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich im betroffenen Streckenabschnitt um etwa 10 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und TGV-Züge zwischen Mannheim und Frankfurt(M).</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Mittagsstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "20.10.2023",
       "downloads": [],
       "links": [],
@@ -54,7 +54,7 @@
         "BW",
         "HE"
       ],
-      "lastModified": "20.10.2023 09:29",
+      "lastModified": "20.10.2023 10:04",
       "expand": false,
       "topDisruption": false
     },
@@ -452,6 +452,61 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "e865608d-f39b-4ba3-84c8-52bba9e6bb7d",
+      "author": "REGIO_SH",
+      "cause": {
+        "category": "significant_delays",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Reparatur an der Oberleitung zwischen Neumünster und Brokstedt",
+      "summary": "Aufgrund eines umgest&uuml;rzten Baums in der Oberleitung zwischen Neum&uuml;nster und Brokstedt ist die Strecke zwischen Neum&uuml;nster und Wrist f&uuml;r Zugfahrten vsl. bis 16:00 Uhr gesperrt.",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>RE 70 (Kiel Hbf &ndash; Hamburg Hbf)</strong>: Die Z&uuml;ge der Linie RE 70 verkehren zwischen Kiel Hbf und Neum&uuml;nster, sowie zwischen Wrist und Hamburg Hbf.&nbsp;</li>\n</ul>\n\n<p>Ein Ersatzverkehr zwischen Neum&uuml;nster und Wrist ist durch die Firma Muss Bus eingerichet.&nbsp;Reisende von Kiel Hbf nach Hamburg Hbf fahren bitte &uuml;ber L&uuml;beck Hbf. Reisende ab Neum&uuml;nster Richtung S&uuml;den nutzen die Nordbahn &uuml;ber Bad Oldesloe.&nbsp;</p>\n\n<p>Es kommt zu einer Reisezeitverl&auml;ngerung von bis zu 60 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "durationBegin": "20.10.2023",
+      "durationEnd": "20.10.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "Twitter DB Regio Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml",
+          "label": "Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SH"
+      ],
+      "lastModified": "20.10.2023 09:58",
+      "expand": true,
       "topDisruption": false
     },
     {
