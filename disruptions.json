@@ -286,7 +286,7 @@
       },
       "headline": "Beeinträchtigung zwischen Bergen auf Rügen und Ostseebad Binz",
       "summary": "Aufgrund einer Reparatur an der Oberleitung im Raum Prora zwischen Bergen auf Rügen und Ostseebad Binz  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Teilausfällen zwischen Stralsund und Ostseebad Binz.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge zwischen Stralsund und Ostseebad Binz.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><p>Nutzen Sie bitte zwischen Stralsund und Bergen auf Rügen die Nahverkehrszüge der Linie RE 9.</p><p>Des Weiteren ist ein Ersatzverkehr mit Bussen von Ostseebad Binz nach Stralsund eingerichtet. Diese sind in der Reiseauskunft ersichtlich.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Mittagsstunden des Samstag, 21.10.2023 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge zwischen Stralsund und Ostseebad Binz.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><p>Nutzen Sie bitte zwischen Stralsund und Bergen auf Rügen die Nahverkehrszüge der Linie RE 9.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Abendstunden des 21.10.2023 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "20.10.2023",
       "downloads": [],
       "links": [],
@@ -296,7 +296,7 @@
       "states": [
         "MV"
       ],
-      "lastModified": "21.10.2023 05:18",
+      "lastModified": "21.10.2023 14:12",
       "expand": false,
       "topDisruption": false
     },
@@ -426,6 +426,54 @@
         "RP"
       ],
       "lastModified": "31.05.2023 09:32",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "67238ee2-c749-42fe-92b0-b47507f9b0df",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "accident",
+        "label": "Unfall an einem Bahnübergang"
+      },
+      "headline": "Unfall an einem Bahnübergang zwischen Winden(Pfalz) und Bad Bergzabern.",
+      "summary": "Ein Unfall an einem Bahn&uuml;bergang zwischen Winden(Pfalz) und Bad Bergzabern schr&auml;nkt den Zugverkehr ein. Zur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich. Dauer der Beeintr&auml;chtigung bis zum 22.10.2023 ganzt&auml;tig.<br />\n&nbsp;",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><em><strong>RB54</strong> Winden &ndash; Bad Bergzabern <strong>(Kurbadlinie)</strong></em></li>\n</ul>\n\n<p><strong>Ersatzverkehr mit Bus ist eingerichtet.</strong></p>\n\n<p>Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Bitte beachten Sie die &Auml;nderungen bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Fahrzeit ein&nbsp;und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationEnd": "22.10.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "RP"
+      ],
+      "lastModified": "21.10.2023 14:15",
       "expand": false,
       "topDisruption": false
     },
