@@ -2,6 +2,45 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "95b7f2b0-7a7d-4749-a1db-c25a614055f9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "Beeinträchtigungen im Bereich Aachen",
+      "summary": "Auf Grund einer technischen Störung an einem Güterzug im Bereich Aachen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es muss mit Verspätungen bis zu 40 Min gerechnet werden.",
+      "text": "<strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong><ul><li>ICE und IC Züge der Relation Köln - Aachen und Köln - Bruxelles</li><li>NJ 425 und NJ 424</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "25.10.2023",
+      "durationEnd": "25.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "25.10.2023 14:27",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
       "author": "REGIO_SUEDOST",
       "cause": {
