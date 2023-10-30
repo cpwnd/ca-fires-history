@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "3cc77eab-6ff4-4507-9b30-6fd703fe647a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "unknown_cause",
+        "label": "Unbekannte Ursache"
+      },
+      "headline": "Störung in der Reiseauskunft",
+      "summary": "Aufgrund einer technischen Störung in den IT-Systemen kommt es derzeit bundesweit zu Einschränkungen bei der Buchung von Fahrkarten und Sitzplatzreservierungen. Dies kann u.a. die Buchung über bahn.de, die DB Navigator-App sowie die Fahrkartenautomaten betreffen.",
+      "text": "<p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p>",
+      "durationBegin": "30.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "30.10.2023 07:23",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
       "author": "REGIO_SUEDOST",
       "cause": {
