@@ -81,6 +81,80 @@
       "topDisruption": false
     },
     {
+      "id": "0e272d11-c184-4ecf-bbb8-553cb8486a67",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Memmingen und Lindau",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung in Hergatz auf der Strecke zwischen Memmingen und Lindau kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu (Teil-)Ausfällen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ECE-Züge zwischen München – Lindau – Bregenz – Zürich</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Nachtstunden des Mittwoch, 01.11.2023 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "31.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lastModified": "31.10.2023 16:32",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "14c82085-e373-41c0-8b73-087d99c9aada",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Beeinträchtigungen im Raum Ludwigshafen Hbf",
+      "summary": "Wegen kurzfristiger Erkrankung von Stellwerkspersonal kommt es am Dienstag, 31.10.2023 in der Zeit von 20:00 Uhr bis 01.11.2023&nbsp; Mittwoch 06:00 Uhr zu erheblichen Beeintr&auml;chtigungen im Raum Ludwigshafen.<br />\n&nbsp;",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>S1</strong> Homburg - Neustadt - Mannheim - Osterburken</li>\n\t<li><strong>S2</strong> Kaiserslautern - Neustadt - Mannheim - Mosbach</li>\n\t<li><strong>S3</strong> Germersheim - Schifferstadt - Heidelberg -&nbsp;Karlsruhe</li>\n\t<li><strong>S4</strong> Germersheim - Schifferstadt - Mannheim - Bruchsal</li>\n\t<li><strong>S6</strong> Mainz - Worms - Mannheim - Bensheim</li>\n\t<li><strong>RE1</strong> Koblenz - Trier - Saarbr&uuml;cken - Mannheim</li>\n\t<li><strong>RE4</strong> Frankfurt - Mainz - Mannheim - Karlsruhe</li>\n\t<li><strong>RE14</strong> Frankfurt - Mainz - Mannheim</li>\n</ul>\n\n<p>In der Folge kommt es zu Versp&auml;tungen und zu Fahrtausf&auml;llen.&nbsp;</p>\n\n<p>Bitte beachten Sie die &Auml;nderungen bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall <strong>mehr Warte- und Fahrzeit ein.</strong></p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "31.10.2023",
+      "durationEnd": "01.11.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "RP"
+      ],
+      "lastModified": "31.10.2023 16:38",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "291cbb07-b1f5-40eb-80bb-5920e5100dc0",
       "author": "REGIO_MITTE",
       "cause": {
