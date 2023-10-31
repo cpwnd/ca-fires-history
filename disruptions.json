@@ -81,6 +81,32 @@
       "topDisruption": false
     },
     {
+      "id": "72d5decc-4935-45ff-88d2-e47395cb2436",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Köln und Frankfurt (Main)",
+      "summary": "Aufgrund eines Feuerwehreinsatzes in Gleisnähe ist die Strecke zwischen Köln und Frankfurt (Main) derzeit gesperrt. Die Züge im Fernverkehr der Deutschen Bahn müssen umgeleitet werden und verspäten sich dadurch um etwa 90 Minuten. Die Halte Siegburg/Bonn, Montabaur und Limburg Süd entfallen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge auf der Schnellfahrstrecke Köln – Frankfurt (M) Flughafen.</li></ul><p>Die Behebung der Störung soll vsl. bis in die Mittagsstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "31.10.2023",
+      "durationEnd": "31.10.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lastModified": "31.10.2023 10:56",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "619b47cb-b406-4a73-9e4a-1c3813157326",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -912,6 +938,18 @@
           "label": "Ersatzfahrplan RB 77 gültig ab 20.10.2023 (PDF, 40 KB)",
           "info": "Ersatzfahrplan RB 77 gültig ab 20.10.2023",
           "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:39881855-da33-4417-9e84-e5214c16680f/SEV-Fahrplan_RB77_g%C3%BCltig%20ab%2001.11.2023_2-%20Hildesheim-B%C3%BCnde.pdf",
+          "label": "Ersatzfahrplan RB77 gültig ab 01.11.2023 Hildesheim-Bünde (PDF, 149 KB)",
+          "info": "Ersatzfahrplan RB77 gültig ab 01.11.2023 Hildesheim-Bünde",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:7170e293-725a-457e-a79f-9a1e0b88450b/SEV-Fahrplan_RB77_g%C3%BCltig%20ab%2001.11.2023_2.xlsx-B%C3%BCnde-Hildesheim.pdf",
+          "label": "Ersatzfahrplan RB77 gültig ab 01.11.2023 Bünde-Hildesheim (PDF, 151 KB)",
+          "info": "Ersatzfahrplan RB77 gültig ab 01.11.2023 Bünde-Hildesheim",
+          "openInNewTab": true
         }
       ],
       "links": [
@@ -958,7 +996,7 @@
       "states": [
         "NI"
       ],
-      "lastModified": "25.10.2023 10:37",
+      "lastModified": "31.10.2023 11:06",
       "expand": false,
       "topDisruption": false
     },
