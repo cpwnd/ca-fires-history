@@ -2,22 +2,21 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
+      "id": "3d9dab92-086b-400e-95c2-36101f8fef45",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "strike",
-        "label": "Streik"
+        "category": "other_cause",
+        "label": "Information"
       },
-      "headline": "Streik in Belgien vom 07.11. bis 09.11.2023 und vom 05.12. bis 07.12.2023",
-      "summary": "Die Eisenbahngewerkschaften in Belgien kündigen zwei Streikwellen mit je 48 Stunden Dauer für folgende Zeiträume an:",
-      "text": "<ul><li><strong>07.11.2023 ab 22 Uhr bis 09.11.2023 um 24 Uhr</strong></li><li><strong>05.12.2023 ab 22 Uhr bis 07.12.2023 um 22 Uhr</strong></li></ul><p>Es wird zu erheblichen Störungen im Bahnverkehr Belgiens sowie Verbindungen nach/von/durch Belgien kommen. Wir empfehlen in jedem Fall, von Reisen in diesen Zeiträumen abzusehen.</p><p>Folgende Regelung wurde von der Belgischen Eisenbahn bekannt gegeben:</p><p><strong>Fahrkarten für Reisen nach/von/durch oder innerhalb Belgiens, die bis zum 31.10.2023 zur Fahrt zwischen dem 7. und 9. November</strong> gebucht wurden, können kostenfrei storniert werden oder zur Fahrt bereits ab dem 6. November genutzt werden. Die Reise kann auch zu einem späteren Zeitpunkt unternommen werden; wir empfehlen eine Reise bis zum 11. November, um Tage mit erfahrungsgemäß hohem Reisendenaufkommen zu vermeiden und eine angenehme Fahrt zu ermöglichen.</p><p><strong>Fahrkarten für Reisen nach/von/durch oder innerhalb Belgiens, die bis zum 31.10.2023 zur Fahrt zwischen dem 5. und 7. Dezember</strong> gebucht wurden, können kostenfrei storniert werden oder zur Fahrt bereits ab dem 4. Dezember genutzt werden. Die Reise kann auch zu einem späteren Zeitpunkt unternommen werden; wir empfehlen eine Reise bis zum 9. Dezember, um Tage mit erfahrungsgemäß hohem Reisendenaufkommen zu vermeiden und eine angenehme Fahrt zu ermöglichen.&nbsp;</p><p>Zudem gelten bei Verspätung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter bahn.de/service/fahrgastrechte.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "07.11.2023",
-      "durationEnd": "09.11.2023",
+      "headline": "Störung im DB Navigator",
+      "summary": "Seit dem Nachmittag ist die Nutzung des DB Navigators eingeschränkt. Unsere IT-Expert:innen arbeiten mit Hochdruck an einer schnellen Lösung des Problems.  ",
+      "text": "<p>Wir empfehlen den Fahrgästen, auf die Website www.bahn.de auszuweichen, hier sind Fahrplanauskünfte und Buchungen weiterhin möglich.</p>",
+      "durationBegin": "01.11.2023",
       "downloads": [],
       "links": [
         {
-          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
-          "label": "Weitere Informationen zu den Fahrgastrechten",
+          "href": "https://www.bahn.de",
+          "label": "www.bahn.de",
           "info": "",
           "openInNewTab": true
         }
@@ -43,7 +42,42 @@
         "SH",
         "TH"
       ],
-      "lastModified": "31.10.2023 08:13",
+      "lastModified": "01.11.2023 17:44",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik in Belgien vom 07.11. bis 09.11.2023 und vom 05.12. bis 07.12.2023",
+      "summary": "Die Eisenbahngewerkschaften in Belgien kündigen zwei Streikwellen mit je 48 Stunden Dauer für folgende Zeiträume an:",
+      "text": "<ul><li><strong>07.11.2023 ab 22 Uhr bis 09.11.2023 um 24 Uhr</strong></li><li><strong>05.12.2023 ab 22 Uhr bis 07.12.2023 um 22 Uhr</strong></li></ul><p>Es wird zu erheblichen Störungen im Bahnverkehr Belgiens sowie Verbindungen nach/von/durch Belgien kommen. Wir empfehlen in jedem Fall, von Reisen in diesen Zeiträumen abzusehen.</p><p>Folgende Regelung wurde von der Belgischen Eisenbahn bekannt gegeben:</p><p><strong>Fahrkarten für Reisen nach/von/durch oder innerhalb Belgiens, die bis zum 31.10.2023 zur Fahrt zwischen dem 7. und 9. November</strong> gebucht wurden, können kostenfrei storniert werden oder zur Fahrt bereits ab dem 6. November genutzt werden. Die Reise kann auch zu einem späteren Zeitpunkt unternommen werden; wir empfehlen eine Reise bis zum 11. November, um Tage mit erfahrungsgemäß hohem Reisendenaufkommen zu vermeiden und eine angenehme Fahrt zu ermöglichen.</p><p><strong>Fahrkarten für Reisen nach/von/durch oder innerhalb Belgiens, die bis zum 31.10.2023 zur Fahrt zwischen dem 5. und 7. Dezember</strong> gebucht wurden, können kostenfrei storniert werden oder zur Fahrt bereits ab dem 4. Dezember genutzt werden. Die Reise kann auch zu einem späteren Zeitpunkt unternommen werden; wir empfehlen eine Reise bis zum 9. Dezember, um Tage mit erfahrungsgemäß hohem Reisendenaufkommen zu vermeiden und eine angenehme Fahrt zu ermöglichen.&nbsp;</p><p>Zudem gelten bei Verspätung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter bahn.de/service/fahrgastrechte.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "07.11.2023",
+      "durationEnd": "09.11.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Weitere Informationen zu den Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "SL",
+        "NW",
+        "NI",
+        "HE",
+        "RP"
+      ],
+      "lastModified": "01.11.2023 17:42",
       "expand": true,
       "topDisruption": false
     },
