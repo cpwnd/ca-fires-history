@@ -1,51 +1,5 @@
 {
-  "topDisruptions": [
-    {
-      "id": "3d9dab92-086b-400e-95c2-36101f8fef45",
-      "author": "DEUTSCHE_BAHN_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Störung im DB Navigator",
-      "summary": "Seit dem Nachmittag ist die Nutzung des DB Navigators eingeschränkt. Unsere IT-Expert:innen arbeiten mit Hochdruck an einer schnellen Lösung des Problems.  ",
-      "text": "<p>Wir empfehlen den Fahrgästen, auf die Website www.bahn.de auszuweichen, hier sind Fahrplanauskünfte und Buchungen weiterhin möglich.</p>",
-      "durationBegin": "01.11.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "www.bahn.de",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lastModified": "01.11.2023 17:55",
-      "expand": true,
-      "topDisruption": true
-    }
-  ],
+  "topDisruptions": [],
   "disruptions": [
     {
       "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
