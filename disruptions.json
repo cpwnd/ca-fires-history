@@ -1,9 +1,8 @@
 {
-  "topDisruptions": [],
-  "disruptions": [
+  "topDisruptions": [
     {
       "id": "3d9dab92-086b-400e-95c2-36101f8fef45",
-      "author": "FERNVERKEHR_AG",
+      "author": "DEUTSCHE_BAHN_AG",
       "cause": {
         "category": "other_cause",
         "label": "Information"
@@ -42,10 +41,12 @@
         "SH",
         "TH"
       ],
-      "lastModified": "01.11.2023 17:44",
+      "lastModified": "01.11.2023 17:55",
       "expand": true,
-      "topDisruption": false
-    },
+      "topDisruption": true
+    }
+  ],
+  "disruptions": [
     {
       "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
       "author": "FERNVERKEHR_AG",
