@@ -1065,19 +1065,19 @@
       },
       "headline": "Meldungen der S-Bahn Stuttgart",
       "summary": "Meldungen über die aktuelle Betriebslage im S-Bahnverkehr in Stuttgart finden sie:",
-      "text": "<ol><li>auf der S-Bahn Webseite unter Betriebslage</li><li>im Twitter-Kanal der S-Bahn</li></ol>",
+      "text": "<ol><li>auf der S-Bahn Webseite unter Betriebslage</li><li>im X-Kanal der S-Bahn (ehemals Twitter)</li></ol>",
       "durationBegin": "01.01.2023",
       "downloads": [],
       "links": [
         {
-          "href": "https://www.s-bahn-stuttgart.de/betriebslage",
-          "label": "Betriebslageseite",
+          "href": "https://twitter.com/SBahn_Stuttgart",
+          "label": "Aktuell Verkehrsmeldungen finden Sie zudem auf dem X-Kanal (ehemals Twitter)",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://twitter.com/SBahn_Stuttgart",
-          "label": ".Aktuell Verkehrsmeldungen finden Sie zudem auf dem Twitter-Kanal",
+          "href": "https://www.s-bahn-stuttgart.de/betriebslage",
+          "label": "Betriebslageseite",
           "info": "",
           "openInNewTab": true
         }
@@ -1088,8 +1088,8 @@
       "states": [
         "BW"
       ],
-      "lastModified": "05.07.2023 07:59",
-      "expand": true,
+      "lastModified": "02.11.2023 08:48",
+      "expand": false,
       "topDisruption": false
     },
     {
