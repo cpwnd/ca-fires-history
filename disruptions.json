@@ -748,6 +748,54 @@
       "topDisruption": false
     },
     {
+      "id": "17f34690-98dc-42d7-a411-708d503568ab",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Fahrzeugverfügbarkeit"
+      },
+      "headline": "Keine Zugfahrten auf den Regionalbahnlininen RB41 und RB44",
+      "summary": "Die Z&uuml;ge fallen bis Betriebsende aus. Keine Zugfahrten m&ouml;glich.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li>RB41&nbsp;Karlsruhe&ndash;Rastatt&ndash;Forbach(Schwarzw)&ndash;Freudenstadt &ndash;(Schopfloch-Herrenberg)</li>\n\t<li>RB44 Karlsruhe &ndash; Rastatt &ndash; (Baden-Baden &ndash; Achern)</li>\n</ul>\n\n<p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>Bitte beachten Sie, dass die<strong> Busse ohne festen Fahrplan</strong> verkehren<strong> </strong>und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.</p>\n\n<p>Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationEnd": "02.11.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "02.11.2023 14:38",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "e478b0a6-b78c-4faa-854d-0c28c7c5b326",
       "author": "REGIO_BW",
       "cause": {
