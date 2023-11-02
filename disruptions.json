@@ -2,35 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "52d29e7b-6393-4d73-85d5-78ab9c577cbf",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetter"
-      },
-      "headline": "Beeinträchtigungen in Teilen von Niedersachsen",
-      "summary": "Aktuell kommt es in Teilen von Niedersachsen aufgrund des Unwetters zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Haltausfällen. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge zwischen Hannover und Braunschweig.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "02.11.2023",
-      "durationEnd": "02.11.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "HH",
-        "ST",
-        "BE",
-        "HB",
-        "NI"
-      ],
-      "lastModified": "02.11.2023 11:01",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -738,7 +709,14 @@
       "summary": "Aufgrund Personalausfalls im Stellwerk der Ammertalbahn fallen die Z&uuml;ge zwischen T&uuml;bingen Hbf und Entringen im Zeitraum vom&nbsp;04.11. um 20:00 Uhr bis zum 05.11. um 07:00 Uhr aus und werden durch Busse ersetzt.",
       "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li>RB 63: T&uuml;bingen Hbf - Bad Urach</li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
       "durationEnd": "05.11.2023",
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:dd4bfad2-72cb-4acf-a1c8-46b53860f76c/Ersatzfahrplan%20T%C3%BCbingen%20-%20Entringen%204.%20+%205.%2011.%202023.pdf",
+          "label": "Ersatzfahrplan Tübingen - Entringen 4. + 5. 11. 2023.pdf (PDF, 27 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [
         {
           "href": "https://www.bahn.de/service/mobile/streckenagent-app",
@@ -753,7 +731,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "31.10.2023 14:35",
+      "lastModified": "02.11.2023 12:38",
       "expand": false,
       "topDisruption": false
     },
