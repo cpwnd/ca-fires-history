@@ -2,6 +2,35 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "52d29e7b-6393-4d73-85d5-78ab9c577cbf",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetter"
+      },
+      "headline": "Beeinträchtigungen in Teilen von Niedersachsen",
+      "summary": "Aktuell kommt es in Teilen von Niedersachsen aufgrund des Unwetters zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Haltausfällen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge zwischen Hannover und Braunschweig.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.11.2023",
+      "durationEnd": "02.11.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "HH",
+        "ST",
+        "BE",
+        "HB",
+        "NI"
+      ],
+      "lastModified": "02.11.2023 11:01",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
       "author": "FERNVERKEHR_AG",
       "cause": {
