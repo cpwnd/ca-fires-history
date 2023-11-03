@@ -70,6 +70,62 @@
       "topDisruption": false
     },
     {
+      "id": "e775cf2d-c203-4f34-aed1-d2e138ffc7cc",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg Hbf und Hamburg-Wandsbek",
+      "summary": "Die St&ouml;rung konnte behoben werden.",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>RE 8 (L&uuml;beck Hbf &ndash; Hamburg Hbf)</strong></li>\n\t<li><strong>RE 80 (L&uuml;beck Hbf &ndash; Ahrensburg &ndash; Hamburg Hbf)</strong></li>\n\t<li><strong>RB 81 (Bad Oldesloe &ndash; Hamburg Hbf)</strong></li>\n</ul>\n\n<p>Bitte beachten Sie, dass es noch zu Folgeversp&auml;tungen kommen kann, bis sich der Zugverkehr normalisiert hat.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X.</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "durationBegin": "03.11.2023",
+      "durationEnd": "03.11.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "X",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/p/view/service/auskunft/fahrgastrechte/uebersicht.shtml",
+          "label": "Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lastModified": "03.11.2023 12:09",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "2ce7cd14-a4ba-470f-bd80-ff0b764043f7",
       "author": "REGIO_BW",
       "cause": {
@@ -1082,6 +1138,41 @@
       "topDisruption": false
     },
     {
+      "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
+      "author": "REGIO_NW",
+      "cause": {
+        "category": "additional_service",
+        "label": "Service"
+      },
+      "headline": "Meldungen der DB Regio NRW",
+      "summary": "Meldungen &uuml;ber die aktuelle Betriebslage der DB Regio NRW finden Sie unter",
+      "text": "<ul>\n\t<li>zuginfo.nrw</li>\n\t<li>frei zug&auml;nglichen&nbsp;X-Kanal</li>\n</ul>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "http://www.zuginfo.nrw/",
+          "label": "zuginfo.nrw",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "http://www.twitter.com/Regio_NRW",
+          "label": "X-Kanal",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lastModified": "03.11.2023 12:22",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "8b6d4897-7904-47c8-8875-c436dddf8b59",
       "author": "REGIO_BY",
       "cause": {
@@ -1190,41 +1281,6 @@
         "BY"
       ],
       "lastModified": "05.08.2023 05:30",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
-      "author": "REGIO_NW",
-      "cause": {
-        "category": "additional_service",
-        "label": "Service"
-      },
-      "headline": "Meldungen der DB Regio NRW",
-      "summary": "Meldungen &uuml;ber die aktuelle Betriebslage der DB Regio NRW finden Sie unter",
-      "text": "<ul>\n\t<li>zuginfo.nrw</li>\n\t<li>frei zug&auml;nglichen&nbsp;Twitter-Kanal</li>\n</ul>\n",
-      "downloads": [],
-      "links": [
-        {
-          "href": "http://www.zuginfo.nrw/",
-          "label": "zuginfo.nrw",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "http://www.twitter.com/Regio_NRW",
-          "label": "Twitter-Kanal",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lastModified": "12.06.2023 14:27",
       "expand": false,
       "topDisruption": false
     },
