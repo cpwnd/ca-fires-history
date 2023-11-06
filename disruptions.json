@@ -65,39 +65,6 @@
       "topDisruption": false
     },
     {
-      "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
-      "summary": "Durch Engpässe an einsatzbereitem Personal kann das Stellwerk in Halle-Nietleben bis einschließlich 09. Dezember 2023 zeitweise nicht besetzt werden.",
-      "text": "<h3><strong>Betroffene Linie</strong></h3><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle Südstadt - Halle Nietleben aus:</strong></p><p><strong>Von Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr&nbsp;(nur Mo - Sa)</p><p>37309, Abfahrt 04:56 Uhr&nbsp;</p><p>37393, Abfahrt 23:50 Uhr</p><p><strong>Von Halle Südstadt</strong></p><p>37372 Abfahrt 22:56 Uhr</p><p>37376 Abfahrt 00:02 Uhr</p><p>37378 Abfahrt 01:11 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "30.05.2023",
-      "durationEnd": "09.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://bahn.de",
-          "label": "Weiterführende Informationen",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST",
-        "TH",
-        "SN"
-      ],
-      "lastModified": "01.06.2023 10:22",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "5d7a7417-1d52-4ef4-abbc-5e9fc8b986c5",
       "author": "REGIO_BW",
       "cause": {
@@ -445,6 +412,30 @@
         "SN"
       ],
       "lastModified": "26.10.2023 14:09",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
+      "summary": "Durch Engpässe an einsatzbereitem Personal kann das Stellwerk in Halle-Nietleben bis einschließlich 09. Dezember 2023 zeitweise nicht besetzt werden.",
+      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle Südstadt - Halle Nietleben aus:</strong></p><p><strong>Von Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr&nbsp;(nur Mo - Sa)</p><p>37309, Abfahrt 04:56 Uhr&nbsp;</p><p>37393, Abfahrt 23:50 Uhr</p><p><strong>Von Halle Südstadt</strong></p><p>37372 Abfahrt 22:56 Uhr</p><p>37376 Abfahrt 00:02 Uhr</p><p>37378 Abfahrt 01:11 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "30.05.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "06.11.2023 09:33",
       "expand": false,
       "topDisruption": false
     },
