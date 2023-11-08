@@ -476,6 +476,30 @@
       "topDisruption": false
     },
     {
+      "id": "0675acd5-896c-4f5b-9413-cbbd983e113f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung in Frankfurt(M) Hbf",
+      "summary": "Aufgrund einer Reparatur an der Weiche in Frankfurt(M) Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen, Umleitungen und Haltausfällen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li><strong>Bei folgenden Verbindungen entfällt der Halt in Frankfurt(M) Hbf, Ersatzhalt ist Frankfurt(M) Süd.</strong></li><li>ICE Züge der Relation Berlin - Frankfurt - Basel</li><li>ICE Züge der Relation Berlin - Frankfurt(M) - Stuttgart</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis 06:00 Uhr am 09.11.2023 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "08.11.2023",
+      "durationEnd": "09.11.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lastModified": "08.11.2023 16:06",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "9d0dac47-1579-411c-99d0-f564a75c1045",
       "author": "REGIO_BW",
       "cause": {
@@ -886,21 +910,20 @@
       "topDisruption": false
     },
     {
-      "id": "1151ae4b-2be5-4c46-a1d2-6188ec0b7138",
+      "id": "c73e66f5-54af-4c5b-ad72-7d91938796a9",
       "author": "REGIO_NORDOST",
       "cause": {
         "category": "other_cause",
         "label": "Sonstiges"
       },
-      "headline": "Ausfall der Linie RE13 zwischen Cottbus und Elsterwerda",
-      "summary": "...",
-      "text": "<p>Die Z&uuml;ge der Linie RE13 fallen vom Mittwoch,den 07.11. bis einschlie&szlig;lich Freitag,den 10.11.2023 zwischen Cottbus und Elsterwerda ersatzlos aus.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
-      "durationBegin": "07.11.2023",
-      "durationEnd": "10.11.2023",
+      "headline": "Linie RE11 - bei Fahrten von und nach  Leipzig Hbf - Umsteigen in Falkenberg (Elster) erforderlich",
+      "text": "<p>F&uuml;r die Linie RE11 (Hoyerswerda - Falkenberg (Elster) - Leipzig Hbf) gilt vom 11.11. bis einschlie&szlig;lich 24.11.2023 ein ver&auml;ndertes Konzept:</p>\n\n<p>- Die Z&uuml;ge fahren nur noch zwischen Hoyerswerda und Falkenberg (Elster) und kommen dort im unteren Bahnhofsteil an bzw. fahren dort ab.<br />\n- Bei Fahrten nach Leipzig Hbf ist ein Umstieg in die Z&uuml;ge der Linie RE10 erforderlich.<br />\n- Die Z&uuml;ge des RE10 fahren vom oberen Bahnhofsteil ab.</p>\n\n<p>- F&uuml;r die Gegenrichtung gilt dies entsprechend.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de, im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "durationBegin": "11.11.2023",
+      "durationEnd": "24.11.2023",
       "downloads": [],
       "links": [
         {
-          "href": "https://www.bahn.de/reiseauskunft",
+          "href": "https://www.bahn.de",
           "label": "Reiseauskunft bahn.de",
           "info": "",
           "openInNewTab": true
@@ -924,7 +947,50 @@
       "states": [
         "BB"
       ],
-      "lastModified": "07.11.2023 17:20",
+      "lastModified": "08.11.2023 16:08",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "1151ae4b-2be5-4c46-a1d2-6188ec0b7138",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Sonstiges"
+      },
+      "headline": "Ausfall der Linie RE13 zwischen Cottbus und Elsterwerda",
+      "summary": "...",
+      "text": "<p>Die Z&uuml;ge der Linie RE13 fallen vom Mittwoch,den 07.11. bis einschlie&szlig;lich Freitag,den 10.11.2023 zwischen Cottbus und Elsterwerda ersatzlos aus.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de, im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "durationBegin": "07.11.2023",
+      "durationEnd": "10.11.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "Reiseauskunft bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.vbb.de/fahrinformation/vbb-apps/vbb-app-bus-bahn/",
+          "label": "VBB-App \"Bus&Bahn\"",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB"
+      ],
+      "lastModified": "08.11.2023 16:06",
       "expand": false,
       "topDisruption": false
     },
