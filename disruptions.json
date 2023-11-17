@@ -2,32 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "bb2c71da-0555-4de7-b64c-38b7c7a4616b",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung in Frankfurt(M) Flughafen Fernbf",
-      "summary": "Aufgrund einer Reparatur an einer Weiche in Frankfurt(M) Flughafen Fernbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es in einzelnen Fällen zu Umleitungen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge der Relation aus Richtung Köln und Mainz mit Weiterfahrt in Richtung Mannheim und Frankfurt(M) Hbf bzw. Frankfurt(M) Süd</li><li>Einzelne Züge dieser Relation werden umgeleitet, dabei entfällt der Halt in Frankfurt(M) Flughafen FERNBF, Ersatzhalt ist in Frankfurt(M) Flughafen REGIOBF</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis 06:30 Uhr am 18.11.2023 erfolgen.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "17.11.2023",
-      "durationEnd": "18.11.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE",
-        "RP"
-      ],
-      "lastModified": "17.11.2023 03:00",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "54504902-f965-4e00-96b8-ccc9a53998d0",
       "author": "REGIO_MITTE",
       "cause": {
@@ -351,7 +325,7 @@
       },
       "headline": "Streckensperrung zwischen München und Ingolstadt",
       "summary": "Streckensperrung zwischen München und Ingolstadt. Dadurch kommt es zu (Halt-)Ausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen München - Ingolstadt - Nürnberg werden umgeleitet und verspäten sich um zusätzlich etwa 60 Minuten. Der Halt in Ingolstadt Hbf entfällt.</li></ul><p><strong>ICE-Züge zwischen München und Nürnberg mit planmäßigem Weg über Augsburg Hbf sind hiervon nicht betroffen!</strong></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen München - Ingolstadt - Nürnberg werden umgeleitet und verspäten sich um zusätzlich etwa 60 Minuten. Der Halt in Ingolstadt Hbf entfällt.</li></ul><p><strong>ICE-Züge zwischen München und Nürnberg mit planmäßigem Weg über Augsburg Hbf sind hiervon nicht betroffen!</strong></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten. Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "17.11.2023",
       "durationEnd": "17.11.2023",
       "downloads": [],
@@ -362,7 +336,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "17.11.2023 14:58",
+      "lastModified": "17.11.2023 15:55",
       "expand": true,
       "topDisruption": false
     },
@@ -443,6 +417,30 @@
       ],
       "lastModified": "17.11.2023 15:20",
       "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "bb2c71da-0555-4de7-b64c-38b7c7a4616b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung in Frankfurt(M) Flughafen Fernbf",
+      "summary": "Aufgrund einer Reparatur an einer Weiche in Frankfurt(M) Flughafen Fernbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es in einzelnen Fällen zu Umleitungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge der Relation aus Richtung Köln und Mainz mit Weiterfahrt in Richtung Mannheim und Frankfurt(M) Hbf bzw. Frankfurt(M) Süd</li><li>Einzelne Züge dieser Relation werden umgeleitet, dabei entfällt der Halt in Frankfurt(M) Flughafen FERNBF, Ersatzhalt ist in Frankfurt(M) Flughafen REGIOBF</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis 06:30 Uhr am 18.11.2023 erfolgen.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "17.11.2023",
+      "durationEnd": "18.11.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lastModified": "17.11.2023 15:53",
+      "expand": false,
       "topDisruption": false
     },
     {
