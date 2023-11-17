@@ -226,6 +226,50 @@
       "topDisruption": false
     },
     {
+      "id": "59c74886-a3d0-4971-8204-fbe368807e40",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Zugausfälle bei der Westfrankenbahn",
+      "summary": "Aufgrund kurzfristigen Personalausfalls beim Stellwerkpersonal entfallen die Z&uuml;ge zwischen Klingenberg(Main) und Aschaffenburg Hbf am Samstag, 18.11. ab 14 Uhr und Sonntag, 19.11. ganzt&auml;gig und werden durch Busse ersetzt. Den Fahrplan der Busse finden Sie weiter unten.<br />\n&nbsp;",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>RE 87 / RB 88&nbsp;Aschaffenburg - Miltenberg - Wertheim</strong></li>\n\t<li><strong>RE 87 / RB 88&nbsp;Wertheim - Lauda - Bad Mergentheim - Crailsheim</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung insbesondere aufgrund der l&auml;ngeren Fahrzeiten der Busse mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<strong>Streckenagent-APP</strong>&nbsp;immer dabei!</p>\n",
+      "durationBegin": "18.11.2023",
+      "durationEnd": "19.11.2023",
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:c7ce4043-21a6-4bd3-ab10-4c7752a184a5/18.%20+%2019.11.2023_Ersatzverkehr%20Aschaffenburg%20-%20Klingenberg.pdf",
+          "label": "18. und 19.11.2023 Ersatzverkehr Aschaffenburg Hbf - Klingenberg(Main) (PDF, 244 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.westfrankenbahn.de/fahrplan/sev-haltestellen",
+          "label": "Übersicht aller Ersatz-Haltestellen bei der Westfrankenbahn:",
+          "info": "Übersicht aller Ersatz-Haltestellen bei der Westfrankenbahn:",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-APP",
+          "info": "Streckenagent-APP",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lastModified": "17.11.2023 15:00",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "aa7ea4e4-d68c-461f-9aad-9ed1539b72d7",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -359,6 +403,30 @@
       ],
       "lastModified": "12.06.2023 14:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "baa6e9f5-c19d-42e3-9584-5f86751edb27",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Streckensperrung zwischen München und Ingolstadt",
+      "summary": "Streckensperrung zwischen München und Ingolstadt. Dadurch kommt es zu (Halt-)Ausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen München - Ingolstadt - Nürnberg werden umgeleitet und verspäten sich um zusätzlich etwa 60 Minuten. Der Halt in Ingolstadt Hbf entfällt.</li></ul><p><strong>ICE-Züge zwischen München und Nürnberg mit planmäßigem Weg über Augsburg Hbf sind hiervon nicht betroffen!</strong></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "17.11.2023",
+      "durationEnd": "17.11.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lastModified": "17.11.2023 14:58",
+      "expand": true,
       "topDisruption": false
     },
     {
