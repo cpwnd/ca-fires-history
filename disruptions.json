@@ -359,6 +359,30 @@
       "topDisruption": false
     },
     {
+      "id": "baa6e9f5-c19d-42e3-9584-5f86751edb27",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
+      },
+      "headline": "Beeinträchtigungen zwischen München und Ingolstadt",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen München und Ingolstadt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch um etwa 20 Min.",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle ICE-Züge zwischen München - Ingolstadt - Nürnberg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis 21.11.2023 zum Tagesende erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten. Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "17.11.2023",
+      "durationEnd": "18.11.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lastModified": "18.11.2023 13:46",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "a7693584-bce2-4f98-8137-5dd34a569870",
       "author": "REGIO_BW",
       "cause": {
@@ -386,30 +410,6 @@
       ],
       "lastModified": "18.11.2023 12:33",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "baa6e9f5-c19d-42e3-9584-5f86751edb27",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
-      },
-      "headline": "Beeinträchtigungen zwischen München und Ingolstadt",
-      "summary": "Aufgrund einer Störung an der Strecke zwischen München und Ingolstadt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge verspäten sich dadurch um etwa 20 Min.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge zwischen München - Ingolstadt - Nürnberg</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten. Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "17.11.2023",
-      "durationEnd": "18.11.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lastModified": "18.11.2023 12:07",
-      "expand": true,
       "topDisruption": false
     },
     {
