@@ -369,7 +369,6 @@
       "summary": "Aufgrund einer Reparatur an der Strecke zwischen München und Ingolstadt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch um etwa 20 Min.",
       "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle ICE-Züge zwischen München - Ingolstadt - Nürnberg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis 21.11.2023 zum Tagesende erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten. Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "17.11.2023",
-      "durationEnd": "18.11.2023",
       "downloads": [],
       "links": [],
       "properties": [
@@ -378,7 +377,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "18.11.2023 13:46",
+      "lastModified": "18.11.2023 13:56",
       "expand": true,
       "topDisruption": false
     },
@@ -926,6 +925,36 @@
         "BW"
       ],
       "lastModified": "02.11.2023 08:48",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "1cee2094-18ec-4bfd-b8e8-cbe5b0ad887f",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "other_cause",
+        "label": "Hohes Fahrgastaufkommen verlängert Ein- und Ausstieg"
+      },
+      "headline": "Hohes Fahrgastaufkommen auf der Schwarzwaldbahn",
+      "summary": "<strong>Betroffene Linie:</strong>\n<ul>\n\t<li><strong>RE 2: Karlsruhe - Rastatt - Offenburg (Schwarzwaldbahn)</strong></li>\n</ul>\n",
+      "text": "<p>Au&szlig;ergew&ouml;hnlich hohes Reisendenaufkommen in Z&uuml;gen der Linie RE 2 (Schwarzwaldbahn) zwischen Karlsruhe und Offenburg.&nbsp;Eine Mitfahrt kann nicht garantiert werden. Es verkehren Busse zwischen Karlsruhe und Rastatt. Au&szlig;erdem verkehren zus&auml;tzlich Direktbusse zwischen Karlsruhe und Offenburg.&nbsp;</p>\n\n<p><strong>Abfahrtszeiten der Busse:&nbsp;</strong></p>\n\n<ul>\n\t<li>Offenburg ►&nbsp;Karlsruhe: St&uuml;ndlich zur Minute :50 (Direktbus)</li>\n\t<li>Karlsruhe ►&nbsp;Offenburg : St&uuml;ndlich zur Minute :40 (Direktbus)</li>\n\t<li>Rastatt ►&nbsp;Karlsruhe: St&uuml;ndlich zur Minute :40</li>\n\t<li>Karlsruhe ►&nbsp;Rastatt: St&uuml;ndlich zur Minute :13</li>\n</ul>\n\n<p>Rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung insbesondere aufgrund der l&auml;ngeren Fahrzeiten der Busse mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<strong>Streckenagent-APP</strong>&nbsp;immer dabei!</p>\n",
+      "durationBegin": "18.11.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "DB-Streckenagent",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "18.11.2023 14:04",
       "expand": false,
       "topDisruption": false
     },
