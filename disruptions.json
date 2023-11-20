@@ -2,69 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "26f17c15-9b01-4a7d-9e19-87cbce324e9d",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Streckensperrung zwischen Büchen und Hamburg Hbf",
-      "summary": "Aufgrund von Reparaturen an der Strecke sind aktuell zwischen B&uuml;chen und Hamburg Hbf keine Zugfahrten m&ouml;glich.&nbsp;",
-      "text": "<p><u><strong>Betroffene Linie</strong></u></p>\n\n<ul>\n\t<li><strong>RE 1 (Hamburg Hbf - Schwerin - Rostock Hbf)</strong>:&nbsp;Die Z&uuml;ge fallen zwischen Hamburg Hbf und B&uuml;chen aus.</li>\n</ul>\n\n<p>Reisende zwischen B&uuml;chen und Hamburg Hbf nutzen bitte alternativ die Reisem&ouml;glichkeiten ab B&uuml;chen mit der Linie RE 83 bis L&uuml;beck Hbf und ab L&uuml;beck Hbf die Linien RE 8 und RE 80 in Richtung Hamburg Hbf.</p>\n\n<p>Rechnen Sie bitte mit einer Reisezeitverl&auml;ngerung von bis zu 60 Minuten.&nbsp;</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
-      "durationBegin": "19.11.2023",
-      "durationEnd": "20.11.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https ",
-          "label": "bahn.de/reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt ",
-          "label": "Regionaler Kundendialog Schleswig-Holstein",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH",
-          "label": "Twitter",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "MV"
-      ],
-      "lastModified": "20.11.2023 05:44",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "54504902-f965-4e00-96b8-ccc9a53998d0",
       "author": "REGIO_MITTE",
       "cause": {
@@ -686,10 +623,10 @@
         "category": "technical_problem_other",
         "label": "Einschränkungen auf der Strecke"
       },
-      "headline": "Reparatur an einem Signal zwischen Radolfzell und Konstanz",
-      "summary": "Beeintr&auml;chtigungen aufgrund der Reparatur an einem Signal auf der Strecke zwischen Radolfzell und Konstanz. In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen. Reisende zwischen Radolfzell und Konstanz nutzen bitte auch die Seehas Z&uuml;ge der SBB GmbH. Bisher haben wir leider keine Informationen zur Dauer der St&ouml;rung. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.",
-      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li>RE 2 Konstanz - Karlsruhe Hbf</li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
-      "durationBegin": "17.11.2023",
+      "headline": "Reparatur an einem Signal zwischen Radolfzell und Konstanz beendet",
+      "summary": "Rechnen Sie gegebenenfalls noch mit Folgeversp&auml;tungen.",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li>RE 2 Konstanz - Karlsruhe Hbf</li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationEnd": "20.11.2023",
       "downloads": [],
       "links": [
         {
@@ -705,7 +642,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "17.11.2023 15:20",
+      "lastModified": "20.11.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
