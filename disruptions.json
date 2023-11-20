@@ -120,7 +120,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "26.10.2023 14:06",
+      "lastModified": "20.11.2023 14:22",
       "expand": false,
       "topDisruption": false
     },
@@ -204,30 +204,6 @@
       "topDisruption": false
     },
     {
-      "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen auf der Linie S 47",
-      "summary": "Betriebsbedingte Fahrplananpassungen sowie Bauarbeiten 30.10. - 5.11.2023",
-      "text": "<p><strong>Baubedingte Betriebseinstellung vom 30.10. - 05.11.2023 - Alle Züge fallen aus.</strong></p><p>Ansonsten gilt:</p><p><strong>Bis zum Fahrplanwechsel am 09.12.2023 verkehrt die Linie S 47</strong></p><p><strong>Montag bis Freitag</strong></p><p>Es verkehren die folgenden Einzelleistungen in den Morgenstunden:&nbsp;&nbsp;</p><ul><li>37702 Halle(Saale) Hbf (6:26) – Halle Trotha</li><li>37705 Halle Trotha (6:53) – Halle Südstadt</li><li>37704 Halle(Saale) Hbf (07:26) – Halle Trotha</li><li>37707 Halle Trotha(07:53) – Halle(Saale) Hbf</li><li>37706 Halle Südstadt (08:16) –Halle Trotha</li><li>37709 Halle Trotha (08:53) – Halle(Saale) Hbf</li></ul><p><strong>Samstag und Sonntag</strong></p><p>Es sind keine Einschränkungen auf der Linie S 47 geplant.&nbsp;</p><p><strong>Alternative Reisemöglichkeit:</strong></p><p>Nutzen Sie alternativ die Straßenbahnen der HAVAG, <strong>Linie 12</strong>. Ihre Tickets werden in den Straßenbahnen zur Fahrt anerkannt.</p>",
-      "durationBegin": "24.07.2023",
-      "durationEnd": "09.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lastModified": "26.10.2023 15:26",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -247,7 +223,31 @@
       "states": [
         "SN"
       ],
-      "lastModified": "26.10.2023 14:09",
+      "lastModified": "20.11.2023 14:22",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen auf der Linie S 47",
+      "summary": "Betriebsbedingte Fahrplananpassungen sowie Bauarbeiten 30.10. - 5.11.2023",
+      "text": "<p><strong>Baubedingte Betriebseinstellung vom 30.10. - 05.11.2023 - Alle Züge fallen aus.</strong></p><p>Ansonsten gilt:</p><p><strong>Bis zum Fahrplanwechsel am 09.12.2023 verkehrt die Linie S 47</strong></p><p><strong>Montag bis Freitag</strong></p><p>Es verkehren die folgenden Einzelleistungen in den Morgenstunden:&nbsp;&nbsp;</p><ul><li>37702 Halle(Saale) Hbf (6:26) – Halle Trotha</li><li>37705 Halle Trotha (6:53) – Halle Südstadt</li><li>37704 Halle(Saale) Hbf (07:26) – Halle Trotha</li><li>37707 Halle Trotha(07:53) – Halle(Saale) Hbf</li><li>37706 Halle Südstadt (08:16) –Halle Trotha</li><li>37709 Halle Trotha (08:53) – Halle(Saale) Hbf</li></ul><p><strong>Samstag und Sonntag</strong></p><p>Es sind keine Einschränkungen auf der Linie S 47 geplant.&nbsp;</p><p><strong>Alternative Reisemöglichkeit:</strong></p><p>Nutzen Sie alternativ die Straßenbahnen der HAVAG, <strong>Linie 12</strong>. Ihre Tickets werden in den Straßenbahnen zur Fahrt anerkannt.</p>",
+      "durationBegin": "24.07.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "20.11.2023 14:22",
       "expand": false,
       "topDisruption": false
     },
@@ -278,7 +278,103 @@
       "states": [
         "NW"
       ],
-      "lastModified": "17.11.2023 15:20",
+      "lastModified": "20.11.2023 14:22",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "706f69c5-48e9-47f5-bbcd-f2b8a1d50505",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Filderstadt: kein barrierefreier Zugang aufgrund von Aufzugserneuerung",
+      "summary": "Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. ",
+      "text": "<p>Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. </p><p>Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. </p><p>Die Deutsche Bahn empfiehlt mobilitätseingeschränkten Reisenden in Richtung Stuttgart die Buslinien 812, 813 oder X3 zu nehmen und an der Haltestelle Flughafen/Messe in die S-Bahn einzusteigen. </p><p>Des Weiteren empfiehlt die Deutsche Bahn mobilitätseingeschränkten Reisenden ihre Reise vorher (spätestens einen Werktag) bei der Mobilitätsservice-Zentrale (Telefon 030 65212888) anzumelden.</p>",
+      "durationBegin": "21.08.2023",
+      "durationEnd": "15.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "20.11.2023 14:22",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "7d068048-834e-45cc-9eb9-e054ad964529",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Fahrplanänderungen im Raum Dresden",
+      "summary": "Zur Stabilisierung des Verkehrsangebotes im Bereich Dresden treten ab 16. Oktober 2023 mehrere Änderungen in Kraft.",
+      "text": "<p>Linie S1 Meißen Triebischtal – Pirna – Bad Schandau/Schöna:</p><p>Entfall der Takt-Verdichterfahrten zwischen Meißen-Triebischtal und Pirna in der Hauptverkehrszeit Montag bis Freitag</p><p>Linie S2 Dresden Flughafen - Dresden Hbf - Pirna:</p><p>Entfall zwei Zugpaare Abends und ein Zugpaar früh Morgens von Montag bis Freitag</p><p>Samstags, Sonntags und Feiertags verkehrt die S2 im 1-Stunden-Takt und nur im Abschnitt Dresden Hbf – Dresden Flughafen</p><p>Linie S3 Dresden Hbf – Tharandt (- Freiberg):</p><p>Entfall der Takt-Verdichterfahrten zwischen Dresden Hbf – Tharandt in der Hauptverkehrszeit Montag bis Freitag</p><p><strong>VVO-Dieselnetz</strong></p><p>Linie S8 Dresden Hbf - Radeberg - Kamenz:</p><p>Entfall der Takt-Verdichterfahrten in der Nachmittags-Hauptverkehrszeit Montag bis Freitag</p><p>Die Züge des Grundtaktes S8 werden in der Nachmittags-Hauptverkehrszeit auf drei Triebwagen verstärkt.</p><p>Linie RB33 Dresden-Neustadt - Königsbrück:</p><p>Mit Ausnahme folgender Fahrten im Tagesanlauf und -auslauf verkehren die Züge nur im Abschnitt Dresden-Neustadt – Ottendorf-Okrilla Süd:</p><p>&nbsp;-Königsbrück ab 4.44 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Montags – Freitags, außer Feiertags)</p><p>&nbsp;-Königsbrück ab 6.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Samstags, Sonntags und Feiertags)</p><p>&nbsp;-Königsbrück ab 22.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt</p><p>&nbsp;-Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>&nbsp;-Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>Zwischen Ottendorf-Okrilla Süd und Königsbrück wird ein Ersatzverkehr mit Bus eingerichtet. </p><p>Linie RB71 Pirna - Sebnitz:</p><p>Mit Ausnahme folgender Fahrten verkehren die Züge nur im Abschnitt Pirna – Neustadt(Sachs):</p><p>&nbsp;-Sebnitz(Sachs) ab 13.43 Uhr verkehrt durchgehend als Zug bis Pirna</p><p>&nbsp;-Sebnitz(Sachs) ab 11.43 Uhr wird durchgehend bis Pirna durch einen Bus ersetzt</p><p>&nbsp;-Pirna ab 11.11 Uhr verkehrt durchgehend als Zug bis Sebnitz(Sachs)</p><p>&nbsp;-Pirna ab 13.11 Uhr wird durchgehend bis Sebnitz(Sachs) durch einen Bus ersetzt </p><p>Zwischen Neustadt(Sachs) und Sebnitz(Sachs) wird ein Ersatzverkehr mit Bus eingerichtet. </p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, im DB Streckenagent oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
+      "durationBegin": "06.10.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "20.11.2023 14:22",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
+      "summary": "Durch Engpässe an einsatzbereitem Personal kann das Stellwerk in Halle-Nietleben bis einschließlich 09. Dezember 2023 zeitweise nicht besetzt werden.",
+      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle Südstadt - Halle Nietleben aus:</strong></p><p><strong>Von Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr&nbsp;(nur Mo - Sa)</p><p>37309, Abfahrt 04:56 Uhr&nbsp;</p><p>37393, Abfahrt 23:50 Uhr</p><p><strong>Von Halle Südstadt</strong></p><p>37372 Abfahrt 22:56 Uhr</p><p>37376 Abfahrt 00:02 Uhr</p><p>37378 Abfahrt 01:11 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "30.05.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "20.11.2023 14:22",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "3228ba0d-a57a-4f4a-916f-b068682bde51",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bauarbeiten zwischen Ulm und Lindau",
+      "summary": "Aufgrund von Bauarbeiten zwischen Ulm und Lindau ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 119 fällt auf dem Abschnitt zwischen Köln und Lindau aus. Es verkehrt ein Ersatzzug zwischen Dortmund und Stuttgart.</li><li>ICE 118 fällt auf dem Abschnitt zwischen Lindau und Köln aus. Es verkehrt ein Ersatzzug zwischen Stuttgart und Dortmund.</li><li>RJ 890 und RJ 897 fallen zwischen Frankfurt(M) und Bregenz aus.</li></ul><p>Die Bauarbeiten sollen vsl. bis 03.12.2023 zum Tagesende andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.11.2023",
+      "durationEnd": "03.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "20.11.2023 14:22",
       "expand": true,
       "topDisruption": false
     },
@@ -310,30 +406,6 @@
       ],
       "lastModified": "18.11.2023 12:33",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "3228ba0d-a57a-4f4a-916f-b068682bde51",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Bauarbeiten zwischen Ulm und Lindau",
-      "summary": "Aufgrund von Bauarbeiten zwischen Ulm und Lindau ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 119 fällt auf dem Abschnitt zwischen Köln und Lindau aus. Es verkehrt ein Ersatzzug zwischen Dortmund und Stuttgart.</li><li>ICE 118 fällt auf dem Abschnitt zwischen Lindau und Köln aus. Es verkehrt ein Ersatzzug zwischen Stuttgart und Dortmund.</li><li>RJ 890 und RJ 897 fallen zwischen Frankfurt(M) und Bregenz aus.</li></ul><p>Die Bauarbeiten sollen vsl. bis 03.12.2023 zum Tagesende andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.11.2023",
-      "durationEnd": "03.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "17.11.2023 15:19",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -380,78 +452,6 @@
       "topDisruption": false
     },
     {
-      "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
-      "summary": "Durch Engpässe an einsatzbereitem Personal kann das Stellwerk in Halle-Nietleben bis einschließlich 09. Dezember 2023 zeitweise nicht besetzt werden.",
-      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle Südstadt - Halle Nietleben aus:</strong></p><p><strong>Von Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr&nbsp;(nur Mo - Sa)</p><p>37309, Abfahrt 04:56 Uhr&nbsp;</p><p>37393, Abfahrt 23:50 Uhr</p><p><strong>Von Halle Südstadt</strong></p><p>37372 Abfahrt 22:56 Uhr</p><p>37376 Abfahrt 00:02 Uhr</p><p>37378 Abfahrt 01:11 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "30.05.2023",
-      "durationEnd": "09.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lastModified": "06.11.2023 09:33",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "7d068048-834e-45cc-9eb9-e054ad964529",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Fahrplanänderungen im Raum Dresden",
-      "summary": "Zur Stabilisierung des Verkehrsangebotes im Bereich Dresden treten ab 16. Oktober 2023 mehrere Änderungen in Kraft.",
-      "text": "<p>Linie S1 Meißen Triebischtal – Pirna – Bad Schandau/Schöna:</p><p>Entfall der Takt-Verdichterfahrten zwischen Meißen-Triebischtal und Pirna in der Hauptverkehrszeit Montag bis Freitag</p><p>Linie S2 Dresden Flughafen - Dresden Hbf - Pirna:</p><p>Entfall zwei Zugpaare Abends und ein Zugpaar früh Morgens von Montag bis Freitag</p><p>Samstags, Sonntags und Feiertags verkehrt die S2 im 1-Stunden-Takt und nur im Abschnitt Dresden Hbf – Dresden Flughafen</p><p>Linie S3 Dresden Hbf – Tharandt (- Freiberg):</p><p>Entfall der Takt-Verdichterfahrten zwischen Dresden Hbf – Tharandt in der Hauptverkehrszeit Montag bis Freitag</p><p><strong>VVO-Dieselnetz</strong></p><p>Linie S8 Dresden Hbf - Radeberg - Kamenz:</p><p>Entfall der Takt-Verdichterfahrten in der Nachmittags-Hauptverkehrszeit Montag bis Freitag</p><p>Die Züge des Grundtaktes S8 werden in der Nachmittags-Hauptverkehrszeit auf drei Triebwagen verstärkt.</p><p>Linie RB33 Dresden-Neustadt - Königsbrück:</p><p>Mit Ausnahme folgender Fahrten im Tagesanlauf und -auslauf verkehren die Züge nur im Abschnitt Dresden-Neustadt – Ottendorf-Okrilla Süd:</p><p>&nbsp;-Königsbrück ab 4.44 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Montags – Freitags, außer Feiertags)</p><p>&nbsp;-Königsbrück ab 6.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Samstags, Sonntags und Feiertags)</p><p>&nbsp;-Königsbrück ab 22.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt</p><p>&nbsp;-Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>&nbsp;-Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>Zwischen Ottendorf-Okrilla Süd und Königsbrück wird ein Ersatzverkehr mit Bus eingerichtet. </p><p>Linie RB71 Pirna - Sebnitz:</p><p>Mit Ausnahme folgender Fahrten verkehren die Züge nur im Abschnitt Pirna – Neustadt(Sachs):</p><p>&nbsp;-Sebnitz(Sachs) ab 13.43 Uhr verkehrt durchgehend als Zug bis Pirna</p><p>&nbsp;-Sebnitz(Sachs) ab 11.43 Uhr wird durchgehend bis Pirna durch einen Bus ersetzt</p><p>&nbsp;-Pirna ab 11.11 Uhr verkehrt durchgehend als Zug bis Sebnitz(Sachs)</p><p>&nbsp;-Pirna ab 13.11 Uhr wird durchgehend bis Sebnitz(Sachs) durch einen Bus ersetzt </p><p>Zwischen Neustadt(Sachs) und Sebnitz(Sachs) wird ein Ersatzverkehr mit Bus eingerichtet. </p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, im DB Streckenagent oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
-      "durationBegin": "06.10.2023",
-      "durationEnd": "09.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lastModified": "26.10.2023 14:08",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "706f69c5-48e9-47f5-bbcd-f2b8a1d50505",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "Filderstadt: kein barrierefreier Zugang aufgrund von Aufzugserneuerung",
-      "summary": "Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. ",
-      "text": "<p>Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. </p><p>Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. </p><p>Die Deutsche Bahn empfiehlt mobilitätseingeschränkten Reisenden in Richtung Stuttgart die Buslinien 812, 813 oder X3 zu nehmen und an der Haltestelle Flughafen/Messe in die S-Bahn einzusteigen. </p><p>Des Weiteren empfiehlt die Deutsche Bahn mobilitätseingeschränkten Reisenden ihre Reise vorher (spätestens einen Werktag) bei der Mobilitätsservice-Zentrale (Telefon 030 65212888) anzumelden.</p>",
-      "durationBegin": "21.08.2023",
-      "durationEnd": "15.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "16.08.2023 12:54",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "author": "REGIO_NW",
       "cause": {
@@ -477,6 +477,54 @@
         "RP"
       ],
       "lastModified": "31.05.2023 09:32",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "d13fb107-5c5a-48e8-9b34-0391e820c189",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Entfall von Leistungen der Linie S2 an Sonn- und Feiertagen",
+      "summary": "Wegen Engpässen an einsatzbereitem Personal können mehrere Fahrten der S-Bahn Linie S2 im Zeitraum vom 15. Oktober 2023 bis 09. Dezember 2023 nicht bedient werden.",
+      "text": "<p>Folgende Fahrten fallen an Sonn- und Feiertagen im genannten Zeitraum aus:</p><p><strong>Ab Leipzig-Stötteritz</strong></p><p>37218: ab 07:04 Uhr von Leipzig-Stötteritz</p><p>37226: ab 09:04 Uhr von Leipzig-Stötteritz</p><p>37234: ab 11:04 Uhr von Leipzig-Stötteritz</p><p>37242: ab 13:04 Uhr von Leipzig-Stötteritz</p><p>37250: ab 15:04 Uhr von Leipzig-Stötteritz</p><p>37258: ab 17:04 Uhr von Leipzig-Stötteritz</p><p>37266: ab 19:04 Uhr von Leipzig-Stötteritz</p><p>37274: ab 21:04 Uhr von Leipzig-Stötteritz</p><p><strong>Ab Delitzsch unt. Bahnhof</strong></p><p>37213: ab 05:37 Uhr von Delitzsch unt. Bahnhof</p><p>37221: ab 08:22 Uhr von Delitzsch unt. Bahnhof</p><p>37229: ab 10:22 Uhr von Delitzsch unt. Bahnhof</p><p>37237: ab 12:22 Uhr von Delitzsch unt. Bahnhof</p><p>37245: ab 14:22 Uhr von Delitzsch unt. Bahnhof</p><p>37253: ab 16:22 Uhr von Delitzsch unt. Bahnhof</p><p>37261: ab 18:22 Uhr von Delitzsch unt. Bahnhof</p><p>37269: ab 20:22 Uhr von Delitzsch unt. Bahnhof</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder telefonisch unter 0391 55757975 (zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "15.10.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "20.11.2023 14:22",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "a30486b4-ea47-457f-b47b-d416482dc296",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen auf der Linie RB 76 Zeitz - Weißenfels",
+      "summary": "Betriebsbedingte Ausfälle aufgrund von Personalmangel.",
+      "text": "<p>Aufgrund von Personalmangel kommt es auf der Linie RB 76 (Zeitz – Weißenfels) zu Ausfällen im Zeitraum 06.11. – 09.12.23 und 11. – 29.12.23. Es verkehren weiterhin Züge im Zweistundentakt.</p><p><strong>Fahrplan 2023 (Mo-Fr):</strong></p><p>- Ausfalltage: 06. – 10., 13. – 17., 20. – 24., 27.11. – 01., 04. – 08.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Fahrplan 2024 (Mo-Fr):</strong></p><p>- Ausfalltage: 11. – 15., 18. – 22., 27. – 29.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Sa+So:</strong></p><p>- Züge verkehren planmäßig.</p><p><strong>Schienenersatzverkehr (SEV):</strong></p><p>- Zwischenhalte Theißen und Teuchern werden bedient.</p><p>- Für alle übrige Halte bitte die zweistündlich verkehrenden Züge nutzen.</p><p>*Bitte beachten: Die SEV-Haltestelle in Teuchern befindet sich am Bahnübergang, nicht direkt am Bahnhof.</p><p>Auskünfte mit Weg Beschreibungen zu den Haltestellen finden Sie unter https://www.bahnhof.de/</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>",
+      "durationBegin": "06.11.2023",
+      "durationEnd": "29.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "20.11.2023 14:22",
       "expand": false,
       "topDisruption": false
     },
@@ -528,30 +576,6 @@
       "topDisruption": false
     },
     {
-      "id": "a30486b4-ea47-457f-b47b-d416482dc296",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen auf der Linie RB 76 Zeitz - Weißenfels",
-      "summary": "Betriebsbedingte Ausfälle aufgrund von Personalmangel.",
-      "text": "<p>Aufgrund von Personalmangel kommt es auf der Linie RB 76 (Zeitz – Weißenfels) zu Ausfällen im Zeitraum 06.11. – 09.12.23 und 11. – 29.12.23. Es verkehren weiterhin Züge im Zweistundentakt.</p><p><strong>Fahrplan 2023 (Mo-Fr):</strong></p><p>- Ausfalltage: 06. – 10., 13. – 17., 20. – 24., 27.11. – 01., 04. – 08.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Fahrplan 2024 (Mo-Fr):</strong></p><p>- Ausfalltage: 11. – 15., 18. – 22., 27. – 29.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Sa+So:</strong></p><p>- Züge verkehren planmäßig.</p><p><strong>Schienenersatzverkehr (SEV):</strong></p><p>- Zwischenhalte Theißen und Teuchern werden bedient.</p><p>- Für alle übrige Halte bitte die zweistündlich verkehrenden Züge nutzen.</p><p>*Bitte beachten: Die SEV-Haltestelle in Teuchern befindet sich am Bahnübergang, nicht direkt am Bahnhof.</p><p>Auskünfte mit Weg Beschreibungen zu den Haltestellen finden Sie unter https://www.bahnhof.de/</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>",
-      "durationBegin": "06.11.2023",
-      "durationEnd": "29.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lastModified": "10.11.2023 08:34",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "abc69c3d-ce4e-4d8e-904d-dd93e353da0d",
       "author": "REGIO_BW",
       "cause": {
@@ -577,30 +601,6 @@
         "BW"
       ],
       "lastModified": "06.11.2023 13:05",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "d13fb107-5c5a-48e8-9b34-0391e820c189",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Entfall von Leistungen der Linie S2 an Sonn- und Feiertagen",
-      "summary": "Wegen Engpässen an einsatzbereitem Personal können mehrere Fahrten der S-Bahn Linie S2 im Zeitraum vom 15. Oktober 2023 bis 09. Dezember 2023 nicht bedient werden.",
-      "text": "<p>Folgende Fahrten fallen an Sonn- und Feiertagen im genannten Zeitraum aus:</p><p><strong>Ab Leipzig-Stötteritz</strong></p><p>37218: ab 07:04 Uhr von Leipzig-Stötteritz</p><p>37226: ab 09:04 Uhr von Leipzig-Stötteritz</p><p>37234: ab 11:04 Uhr von Leipzig-Stötteritz</p><p>37242: ab 13:04 Uhr von Leipzig-Stötteritz</p><p>37250: ab 15:04 Uhr von Leipzig-Stötteritz</p><p>37258: ab 17:04 Uhr von Leipzig-Stötteritz</p><p>37266: ab 19:04 Uhr von Leipzig-Stötteritz</p><p>37274: ab 21:04 Uhr von Leipzig-Stötteritz</p><p><strong>Ab Delitzsch unt. Bahnhof</strong></p><p>37213: ab 05:37 Uhr von Delitzsch unt. Bahnhof</p><p>37221: ab 08:22 Uhr von Delitzsch unt. Bahnhof</p><p>37229: ab 10:22 Uhr von Delitzsch unt. Bahnhof</p><p>37237: ab 12:22 Uhr von Delitzsch unt. Bahnhof</p><p>37245: ab 14:22 Uhr von Delitzsch unt. Bahnhof</p><p>37253: ab 16:22 Uhr von Delitzsch unt. Bahnhof</p><p>37261: ab 18:22 Uhr von Delitzsch unt. Bahnhof</p><p>37269: ab 20:22 Uhr von Delitzsch unt. Bahnhof</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder telefonisch unter 0391 55757975 (zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "15.10.2023",
-      "durationEnd": "09.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lastModified": "26.10.2023 14:11",
       "expand": false,
       "topDisruption": false
     },
@@ -753,7 +753,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "26.10.2023 14:46",
+      "lastModified": "20.11.2023 14:22",
       "expand": false,
       "topDisruption": false
     },
@@ -784,6 +784,42 @@
         "BW"
       ],
       "lastModified": "29.08.2023 03:26",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Meldungen der S-Bahn Stuttgart",
+      "summary": "Meldungen über die aktuelle Betriebslage im S-Bahnverkehr in Stuttgart finden sie:",
+      "text": "<ol><li>auf der S-Bahn Webseite unter Betriebslage</li><li>im X-Kanal der S-Bahn (ehemals Twitter)</li></ol>",
+      "durationBegin": "01.01.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://twitter.com/SBahn_Stuttgart",
+          "label": "Aktuell Verkehrsmeldungen finden Sie zudem auf dem X-Kanal (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.s-bahn-stuttgart.de/betriebslage",
+          "label": "Betriebslageseite",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "20.11.2023 14:22",
       "expand": false,
       "topDisruption": false
     },
@@ -868,42 +904,6 @@
         "BB"
       ],
       "lastModified": "08.11.2023 16:08",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Meldungen der S-Bahn Stuttgart",
-      "summary": "Meldungen über die aktuelle Betriebslage im S-Bahnverkehr in Stuttgart finden sie:",
-      "text": "<ol><li>auf der S-Bahn Webseite unter Betriebslage</li><li>im X-Kanal der S-Bahn (ehemals Twitter)</li></ol>",
-      "durationBegin": "01.01.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://twitter.com/SBahn_Stuttgart",
-          "label": "Aktuell Verkehrsmeldungen finden Sie zudem auf dem X-Kanal (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.s-bahn-stuttgart.de/betriebslage",
-          "label": "Betriebslageseite",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "02.11.2023 08:48",
       "expand": false,
       "topDisruption": false
     },
