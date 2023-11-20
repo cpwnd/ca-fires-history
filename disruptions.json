@@ -125,6 +125,42 @@
       "topDisruption": false
     },
     {
+      "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "additional_service",
+        "label": "Service"
+      },
+      "headline": "Meldungen der S-Bahn Berlin",
+      "summary": "Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie auf folgenden Kan&auml;len:&nbsp;",
+      "text": "<p>Website S-Bahn Berlin</p>\n\n<p>X (vormalsTwitter)</p>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://sbahn.berlin/fahren/fahrplanaenderungen/",
+          "label": "https://sbahn.berlin/fahren/fahrplanaenderungen/",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/SBahnBerlin",
+          "label": "frei zugänglichen Twitter-Kanal",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lastModified": "20.11.2023 12:19",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "d363a9d5-a2ec-4321-8491-1f49ac47cebb",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -165,42 +201,6 @@
       ],
       "lastModified": "20.11.2023 10:16",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "additional_service",
-        "label": "Service"
-      },
-      "headline": "Meldungen der S-Bahn Berlin",
-      "summary": "Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie auf folgenden Kan&auml;len:&nbsp;",
-      "text": "<p>Website S-Bahn Berlin</p>\n\n<p>Twitter</p>\n",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://sbahn.berlin/fahren/fahrplanaenderungen/",
-          "label": "https://sbahn.berlin/fahren/fahrplanaenderungen/",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/SBahnBerlin",
-          "label": "frei zugänglichen Twitter-Kanal",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE"
-      ],
-      "lastModified": "12.06.2023 14:32",
-      "expand": false,
       "topDisruption": false
     },
     {
