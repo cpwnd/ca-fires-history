@@ -122,7 +122,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "22.11.2023 12:12",
+      "lastModified": "22.11.2023 12:27",
       "expand": false,
       "topDisruption": false
     },
@@ -225,7 +225,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "22.11.2023 12:12",
+      "lastModified": "22.11.2023 12:27",
       "expand": false,
       "topDisruption": false
     },
@@ -249,7 +249,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "22.11.2023 12:12",
+      "lastModified": "22.11.2023 12:27",
       "expand": false,
       "topDisruption": false
     },
@@ -280,7 +280,7 @@
       "states": [
         "NW"
       ],
-      "lastModified": "22.11.2023 12:12",
+      "lastModified": "22.11.2023 12:27",
       "expand": true,
       "topDisruption": false
     },
@@ -304,7 +304,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "22.11.2023 12:12",
+      "lastModified": "22.11.2023 12:27",
       "expand": false,
       "topDisruption": false
     },
@@ -328,7 +328,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "22.11.2023 12:12",
+      "lastModified": "22.11.2023 12:27",
       "expand": false,
       "topDisruption": false
     },
@@ -352,7 +352,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "22.11.2023 12:12",
+      "lastModified": "22.11.2023 12:27",
       "expand": true,
       "topDisruption": false
     },
@@ -376,7 +376,7 @@
       "states": [
         "NW"
       ],
-      "lastModified": "22.11.2023 12:12",
+      "lastModified": "22.11.2023 12:27",
       "expand": true,
       "topDisruption": false
     },
@@ -429,7 +429,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "22.11.2023 12:12",
+      "lastModified": "22.11.2023 12:27",
       "expand": false,
       "topDisruption": false
     },
@@ -453,7 +453,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "22.11.2023 12:12",
+      "lastModified": "22.11.2023 12:27",
       "expand": false,
       "topDisruption": false
     },
@@ -538,6 +538,53 @@
         "SH"
       ],
       "lastModified": "24.10.2023 14:56",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "6c6b4884-af54-4638-83d8-62a5460e4e8b",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bauarbeiten am Bahnsteig Heidelberg Wieblingen/Pfaffengrund",
+      "summary": "Bauarbeiten am Bahnsteig <strong>Heidelberg Wieblingen/Pfaffengrund in Richtung Mannheim Hbf.</strong><br />\nIn Heidelberg-Pfaffengrund/Wieblingen steht nur ein verk&uuml;rzter Bahnsteig zur Verf&uuml;gung. Der Streckenabschnitt ist nicht mit allen Z&uuml;gen befahrbar. Der Halt Heidelberg-Pfaffengrund/Wieblingen kann entfallen.<br />\n&nbsp;",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>S3</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Karlsruhe</li>\n</ul>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:",
+          "label": "Reiseauskunft ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "22.11.2023 12:18",
       "expand": false,
       "topDisruption": false
     },
@@ -635,7 +682,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "22.11.2023 12:12",
+      "lastModified": "22.11.2023 12:27",
       "expand": false,
       "topDisruption": false
     },
@@ -701,7 +748,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "22.11.2023 12:12",
+      "lastModified": "22.11.2023 12:27",
       "expand": false,
       "topDisruption": false
     },
