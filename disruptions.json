@@ -23,7 +23,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "24.11.2023 08:49",
+      "lastModified": "24.11.2023 09:18",
       "expand": true,
       "topDisruption": false
     },
@@ -99,7 +99,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "24.11.2023 08:49",
+      "lastModified": "24.11.2023 09:18",
       "expand": true,
       "topDisruption": false
     },
@@ -123,7 +123,7 @@
         "HH",
         "NI"
       ],
-      "lastModified": "24.11.2023 08:49",
+      "lastModified": "24.11.2023 09:18",
       "expand": true,
       "topDisruption": false
     },
@@ -197,7 +197,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "24.11.2023 08:48",
+      "lastModified": "24.11.2023 09:18",
       "expand": false,
       "topDisruption": false
     },
@@ -281,30 +281,6 @@
       "topDisruption": false
     },
     {
-      "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen auf der Linie S 47",
-      "summary": "Betriebsbedingte Fahrplananpassungen sowie Bauarbeiten 30.10. - 5.11.2023",
-      "text": "<p><strong>Baubedingte Betriebseinstellung vom 30.10. - 05.11.2023 - Alle Züge fallen aus.</strong></p><p>Ansonsten gilt:</p><p><strong>Bis zum Fahrplanwechsel am 09.12.2023 verkehrt die Linie S 47</strong></p><p><strong>Montag bis Freitag</strong></p><p>Es verkehren die folgenden Einzelleistungen in den Morgenstunden:&nbsp;&nbsp;</p><ul><li>37702 Halle(Saale) Hbf (6:26) – Halle Trotha</li><li>37705 Halle Trotha (6:53) – Halle Südstadt</li><li>37704 Halle(Saale) Hbf (07:26) – Halle Trotha</li><li>37707 Halle Trotha(07:53) – Halle(Saale) Hbf</li><li>37706 Halle Südstadt (08:16) –Halle Trotha</li><li>37709 Halle Trotha (08:53) – Halle(Saale) Hbf</li></ul><p><strong>Samstag und Sonntag</strong></p><p>Es sind keine Einschränkungen auf der Linie S 47 geplant.&nbsp;</p><p><strong>Alternative Reisemöglichkeit:</strong></p><p>Nutzen Sie alternativ die Straßenbahnen der HAVAG, <strong>Linie 12</strong>. Ihre Tickets werden in den Straßenbahnen zur Fahrt anerkannt.</p>",
-      "durationBegin": "24.07.2023",
-      "durationEnd": "09.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lastModified": "24.11.2023 08:49",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -324,7 +300,31 @@
       "states": [
         "SN"
       ],
-      "lastModified": "24.11.2023 08:48",
+      "lastModified": "24.11.2023 09:18",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen auf der Linie S 47",
+      "summary": "Betriebsbedingte Fahrplananpassungen sowie Bauarbeiten 30.10. - 5.11.2023",
+      "text": "<p><strong>Baubedingte Betriebseinstellung vom 30.10. - 05.11.2023 - Alle Züge fallen aus.</strong></p><p>Ansonsten gilt:</p><p><strong>Bis zum Fahrplanwechsel am 09.12.2023 verkehrt die Linie S 47</strong></p><p><strong>Montag bis Freitag</strong></p><p>Es verkehren die folgenden Einzelleistungen in den Morgenstunden:&nbsp;&nbsp;</p><ul><li>37702 Halle(Saale) Hbf (6:26) – Halle Trotha</li><li>37705 Halle Trotha (6:53) – Halle Südstadt</li><li>37704 Halle(Saale) Hbf (07:26) – Halle Trotha</li><li>37707 Halle Trotha(07:53) – Halle(Saale) Hbf</li><li>37706 Halle Südstadt (08:16) –Halle Trotha</li><li>37709 Halle Trotha (08:53) – Halle(Saale) Hbf</li></ul><p><strong>Samstag und Sonntag</strong></p><p>Es sind keine Einschränkungen auf der Linie S 47 geplant.&nbsp;</p><p><strong>Alternative Reisemöglichkeit:</strong></p><p>Nutzen Sie alternativ die Straßenbahnen der HAVAG, <strong>Linie 12</strong>. Ihre Tickets werden in den Straßenbahnen zur Fahrt anerkannt.</p>",
+      "durationBegin": "24.07.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "24.11.2023 09:18",
       "expand": false,
       "topDisruption": false
     },
@@ -355,55 +355,31 @@
       "states": [
         "NW"
       ],
-      "lastModified": "24.11.2023 08:49",
+      "lastModified": "24.11.2023 09:18",
       "expand": true,
       "topDisruption": false
     },
     {
-      "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
-      "author": "REGIO_SUEDOST",
+      "id": "706f69c5-48e9-47f5-bbcd-f2b8a1d50505",
+      "author": "S_BAHN_S",
       "cause": {
-        "category": "other_cause",
-        "label": "Information"
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
       },
-      "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
-      "summary": "Durch Engpässe an einsatzbereitem Personal kann das Stellwerk in Halle-Nietleben bis einschließlich 09. Dezember 2023 zeitweise nicht besetzt werden.",
-      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle Südstadt - Halle Nietleben aus:</strong></p><p><strong>Von Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr&nbsp;(nur Mo - Sa)</p><p>37309, Abfahrt 04:56 Uhr&nbsp;</p><p>37393, Abfahrt 23:50 Uhr</p><p><strong>Von Halle Südstadt</strong></p><p>37372 Abfahrt 22:56 Uhr</p><p>37376 Abfahrt 00:02 Uhr</p><p>37378 Abfahrt 01:11 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "30.05.2023",
-      "durationEnd": "09.12.2023",
+      "headline": "Filderstadt: kein barrierefreier Zugang aufgrund von Aufzugserneuerung",
+      "summary": "Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. ",
+      "text": "<p>Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. </p><p>Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. </p><p>Die Deutsche Bahn empfiehlt mobilitätseingeschränkten Reisenden in Richtung Stuttgart die Buslinien 812, 813 oder X3 zu nehmen und an der Haltestelle Flughafen/Messe in die S-Bahn einzusteigen. </p><p>Des Weiteren empfiehlt die Deutsche Bahn mobilitätseingeschränkten Reisenden ihre Reise vorher (spätestens einen Werktag) bei der Mobilitätsservice-Zentrale (Telefon 030 65212888) anzumelden.</p>",
+      "durationBegin": "21.08.2023",
+      "durationEnd": "15.12.2023",
       "downloads": [],
       "links": [],
       "properties": [
         "REGIONAL"
       ],
       "states": [
-        "ST"
-      ],
-      "lastModified": "24.11.2023 08:49",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "3228ba0d-a57a-4f4a-916f-b068682bde51",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Bauarbeiten zwischen Ulm und Lindau",
-      "summary": "Aufgrund von Bauarbeiten zwischen Ulm und Lindau ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 119 fällt auf dem Abschnitt zwischen Köln und Lindau aus. Es verkehrt ein Ersatzzug zwischen Dortmund und Stuttgart.</li><li>ICE 118 fällt auf dem Abschnitt zwischen Lindau und Köln aus. Es verkehrt ein Ersatzzug zwischen Stuttgart und Dortmund.</li><li>RJ 890 und RJ 897 fallen zwischen Frankfurt(M) und Bregenz aus.</li></ul><p>Die Bauarbeiten sollen vsl. bis 03.12.2023 zum Tagesende andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.11.2023",
-      "durationEnd": "03.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
         "BW"
       ],
-      "lastModified": "24.11.2023 08:49",
+      "lastModified": "24.11.2023 09:18",
       "expand": true,
       "topDisruption": false
     },
@@ -427,7 +403,98 @@
       "states": [
         "SN"
       ],
-      "lastModified": "24.11.2023 08:48",
+      "lastModified": "24.11.2023 09:18",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
+      "summary": "Durch Engpässe an einsatzbereitem Personal kann das Stellwerk in Halle-Nietleben bis einschließlich 09. Dezember 2023 zeitweise nicht besetzt werden.",
+      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle Südstadt - Halle Nietleben aus:</strong></p><p><strong>Von Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr&nbsp;(nur Mo - Sa)</p><p>37309, Abfahrt 04:56 Uhr&nbsp;</p><p>37393, Abfahrt 23:50 Uhr</p><p><strong>Von Halle Südstadt</strong></p><p>37372 Abfahrt 22:56 Uhr</p><p>37376 Abfahrt 00:02 Uhr</p><p>37378 Abfahrt 01:11 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "30.05.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "24.11.2023 09:18",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "3228ba0d-a57a-4f4a-916f-b068682bde51",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bauarbeiten zwischen Ulm und Lindau",
+      "summary": "Aufgrund von Bauarbeiten zwischen Ulm und Lindau ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 119 fällt auf dem Abschnitt zwischen Köln und Lindau aus. Es verkehrt ein Ersatzzug zwischen Dortmund und Stuttgart.</li><li>ICE 118 fällt auf dem Abschnitt zwischen Lindau und Köln aus. Es verkehrt ein Ersatzzug zwischen Stuttgart und Dortmund.</li><li>RJ 890 und RJ 897 fallen zwischen Frankfurt(M) und Bregenz aus.</li></ul><p>Die Bauarbeiten sollen vsl. bis 03.12.2023 zum Tagesende andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.11.2023",
+      "durationEnd": "03.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "24.11.2023 09:18",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "9d0dac47-1579-411c-99d0-f564a75c1045",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Brückenarbeiten in Biberach (Riß) verlängert: Züge fahren ab 4. Dezember",
+      "summary": "Weitere Arbeiten bei Einbau der Gleise verz&ouml;gern die Inbetriebnahme um vier Wochen. Die Bahn f&auml;hrt weiterhin Busse zwischen <strong>Biberach (Ri&szlig;) und Aulendorf,</strong> sowie zwischen <strong>Kressbronn und Lindau</strong>.",
+      "text": "<p>Die Ersatzfahrpl&auml;ne sind in der Reiseauskunft wie www.bahn.de oder DB Navigator eingearbeitet und&nbsp;Sie finden diese weiter unten im Anhang.</p>\n\n<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>IRE3: Ulm - Friedrichshafen - Lindau / Basel Bad Bf / (Fahrzeiten&auml;nderungen)</strong></li>\n\t<li><strong>RE5: Stuttgart - Friedrichshafen</strong></li>\n\t<li><strong>RS21: Ulm - Biberach(Ri&szlig;)</strong></li>\n\t<li><strong>RB93: Friedrichshafen - Lindau</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "06.11.2023",
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:99927436-c1f9-4983-a584-faeeec8fa302/63938%20Information%20Biberach_Aulendorf%2026.10.-3.12.%20B4.pdf",
+          "label": "Fahrplan Ersatzverkehr Biberach (Riß) - Aulendorf bis 3.12. (PDF, 882 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:82d4c396-a62e-4815-b481-6dea674798a5/Information_72218%20Kressbronn-Lindau%2014.10.-3.12.2023%20B2.pdf",
+          "label": "Fahrplan Ersatzverkehr Kressbronn - Lindau bis 3.12. (PDF, 520 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-stuttgart-de/aktuell/presseinformationen/127-pm_Brueckenerneuerung-in-Biberach-12441408#",
+          "label": "Presseinformation",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "15.11.2023 21:41",
       "expand": false,
       "topDisruption": false
     },
@@ -461,30 +528,6 @@
       "topDisruption": false
     },
     {
-      "id": "a30486b4-ea47-457f-b47b-d416482dc296",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen auf der Linie RB 76 Zeitz - Weißenfels",
-      "summary": "Betriebsbedingte Ausfälle aufgrund von Personalmangel.",
-      "text": "<p>Aufgrund von Personalmangel kommt es auf der Linie RB 76 (Zeitz – Weißenfels) zu Ausfällen im Zeitraum 06.11. – 09.12.23 und 11. – 29.12.23. Es verkehren weiterhin Züge im Zweistundentakt.</p><p><strong>Fahrplan 2023 (Mo-Fr):</strong></p><p>- Ausfalltage: 06. – 10., 13. – 17., 20. – 24., 27.11. – 01., 04. – 08.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Fahrplan 2024 (Mo-Fr):</strong></p><p>- Ausfalltage: 11. – 15., 18. – 22., 27. – 29.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Sa+So:</strong></p><p>- Züge verkehren planmäßig.</p><p><strong>Schienenersatzverkehr (SEV):</strong></p><p>- Zwischenhalte Theißen und Teuchern werden bedient.</p><p>- Für alle übrige Halte bitte die zweistündlich verkehrenden Züge nutzen.</p><p>*Bitte beachten: Die SEV-Haltestelle in Teuchern befindet sich am Bahnübergang, nicht direkt am Bahnhof.</p><p>Auskünfte mit Weg Beschreibungen zu den Haltestellen finden Sie unter https://www.bahnhof.de/</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>",
-      "durationBegin": "06.11.2023",
-      "durationEnd": "29.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lastModified": "24.11.2023 08:49",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "d13fb107-5c5a-48e8-9b34-0391e820c189",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -504,7 +547,31 @@
       "states": [
         "SN"
       ],
-      "lastModified": "24.11.2023 08:48",
+      "lastModified": "24.11.2023 09:18",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "a30486b4-ea47-457f-b47b-d416482dc296",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen auf der Linie RB 76 Zeitz - Weißenfels",
+      "summary": "Betriebsbedingte Ausfälle aufgrund von Personalmangel.",
+      "text": "<p>Aufgrund von Personalmangel kommt es auf der Linie RB 76 (Zeitz – Weißenfels) zu Ausfällen im Zeitraum 06.11. – 09.12.23 und 11. – 29.12.23. Es verkehren weiterhin Züge im Zweistundentakt.</p><p><strong>Fahrplan 2023 (Mo-Fr):</strong></p><p>- Ausfalltage: 06. – 10., 13. – 17., 20. – 24., 27.11. – 01., 04. – 08.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Fahrplan 2024 (Mo-Fr):</strong></p><p>- Ausfalltage: 11. – 15., 18. – 22., 27. – 29.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Sa+So:</strong></p><p>- Züge verkehren planmäßig.</p><p><strong>Schienenersatzverkehr (SEV):</strong></p><p>- Zwischenhalte Theißen und Teuchern werden bedient.</p><p>- Für alle übrige Halte bitte die zweistündlich verkehrenden Züge nutzen.</p><p>*Bitte beachten: Die SEV-Haltestelle in Teuchern befindet sich am Bahnübergang, nicht direkt am Bahnhof.</p><p>Auskünfte mit Weg Beschreibungen zu den Haltestellen finden Sie unter https://www.bahnhof.de/</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>",
+      "durationBegin": "06.11.2023",
+      "durationEnd": "29.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "24.11.2023 09:18",
       "expand": false,
       "topDisruption": false
     },
@@ -735,7 +802,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "24.11.2023 08:48",
+      "lastModified": "24.11.2023 09:18",
       "expand": false,
       "topDisruption": false
     },
@@ -801,7 +868,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "24.11.2023 08:49",
+      "lastModified": "24.11.2023 09:18",
       "expand": false,
       "topDisruption": false
     },
