@@ -23,7 +23,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": true,
       "topDisruption": false
     },
@@ -99,7 +99,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": true,
       "topDisruption": false
     },
@@ -123,7 +123,7 @@
         "HH",
         "NI"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": true,
       "topDisruption": false
     },
@@ -197,7 +197,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": false,
       "topDisruption": false
     },
@@ -300,7 +300,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": false,
       "topDisruption": false
     },
@@ -324,7 +324,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": false,
       "topDisruption": false
     },
@@ -355,7 +355,7 @@
       "states": [
         "NW"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": true,
       "topDisruption": false
     },
@@ -379,7 +379,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": false,
       "topDisruption": false
     },
@@ -403,7 +403,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": true,
       "topDisruption": false
     },
@@ -427,7 +427,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": false,
       "topDisruption": false
     },
@@ -451,7 +451,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": false,
       "topDisruption": false
     },
@@ -475,7 +475,30 @@
       "states": [
         "BW"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "5aa3dcce-4004-4767-b4cc-6d565d27bb8f",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "TESTMELDUNG!! S11: Erneut keine S-Bahnen zwischen Ohlsdorf und Hasselbrook. Auf U-Bahn ausweichen.",
+      "summary": "Wegen mehrerer Polizeieinsätze ist die Linie S11 zwischen Ohlsdorf und Hasselbrook erneut unterbrochen. Bitte weichen Sie nach Möglichkeit auf die U-Bahnen aus.",
+      "text": "<p>ABC</p>",
+      "durationBegin": "23.11.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lastModified": "24.11.2023 09:45",
       "expand": true,
       "topDisruption": false
     },
@@ -571,7 +594,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": false,
       "topDisruption": false
     },
@@ -595,7 +618,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": false,
       "topDisruption": false
     },
@@ -826,7 +849,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": false,
       "topDisruption": false
     },
@@ -892,7 +915,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "24.11.2023 09:30",
+      "lastModified": "24.11.2023 09:45",
       "expand": false,
       "topDisruption": false
     },
