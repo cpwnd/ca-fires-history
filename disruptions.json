@@ -23,7 +23,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": true,
       "topDisruption": false
     },
@@ -99,7 +99,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": true,
       "topDisruption": false
     },
@@ -123,7 +123,7 @@
         "HH",
         "NI"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": true,
       "topDisruption": false
     },
@@ -197,7 +197,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": false,
       "topDisruption": false
     },
@@ -300,7 +300,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": false,
       "topDisruption": false
     },
@@ -324,7 +324,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": false,
       "topDisruption": false
     },
@@ -355,8 +355,32 @@
       "states": [
         "NW"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "d858f206-5d7f-46f1-9dac-4f07b02bd51b",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "TESTMELDUNG!!! Streik der GDL",
+      "summary": "Bis zum Tagesende kommt es zu massiven Einschränkungen im S-Bahn-Verkehr. ",
+      "text": "<strong>Wir versuchen derzeit auf folgenden Verbindungen nach einem Notfahrplan S-Bahn-Fahrten anzubieten.&nbsp;</strong><p> <strong>S1 als S11:&nbsp;</strong></p><ul><li>Wedel &lt;&gt; Blankenese (20-Min-Takt)</li><li>Blankenese &lt;&gt; Airport (über Dammtor) (20-Min-Takt)</li><li>Ohlsdorf &lt;&gt; Poppenbüttel derzeit keine S-Bahn-Fahrten möglich. Bitte Busse 174 und 179 nutzen.</li></ul><p> <strong>S2: </strong>Altona &lt;&gt; Landungsbrücken (20-Min-Takt)</p><p> <strong>S21:</strong> Aumühle &lt;&gt; Altona (20-Min-Takt)</p><p> <strong>S3 als S31:</strong></p><ul><li>Pinneberg &lt;&gt; Neugraben (ohne Altona, über Dammtor) (20-Min-Takt)</li><li>Neugraben &lt;&gt; Stade (60-Min-Takt)&nbsp;</li></ul><p>Aufgrund der unklaren Situation werden die Fahrzeiten in den Auskunftsmedien (DB &amp; hvv) nur kurzfristig abrufbar sein.</p><p>Auch nach dem offiziellen Streikende (18 Uhr) wird es noch zu Ausfällen kommen.</p><p>Bitte nutzen Sie dort, wo möglich, auch U-Bahnen und Busse.</p>",
+      "durationBegin": "23.11.2023",
+      "durationEnd": "26.11.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lastModified": "24.11.2023 09:30",
+      "expand": false,
       "topDisruption": false
     },
     {
@@ -379,7 +403,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": true,
       "topDisruption": false
     },
@@ -403,7 +427,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": false,
       "topDisruption": false
     },
@@ -427,7 +451,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": false,
       "topDisruption": false
     },
@@ -451,7 +475,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": true,
       "topDisruption": false
     },
@@ -547,7 +571,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": false,
       "topDisruption": false
     },
@@ -571,7 +595,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": false,
       "topDisruption": false
     },
@@ -802,7 +826,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": false,
       "topDisruption": false
     },
@@ -868,7 +892,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "24.11.2023 09:18",
+      "lastModified": "24.11.2023 09:30",
       "expand": false,
       "topDisruption": false
     },
