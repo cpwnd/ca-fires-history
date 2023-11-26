@@ -23,7 +23,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "26.11.2023 23:27",
+      "lastModified": "26.11.2023 23:47",
       "expand": true,
       "topDisruption": false
     },
@@ -99,7 +99,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "26.11.2023 23:27",
+      "lastModified": "26.11.2023 23:47",
       "expand": true,
       "topDisruption": false
     },
@@ -204,7 +204,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "26.11.2023 23:26",
+      "lastModified": "26.11.2023 23:47",
       "expand": false,
       "topDisruption": false
     },
@@ -307,7 +307,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "26.11.2023 23:26",
+      "lastModified": "26.11.2023 23:47",
       "expand": false,
       "topDisruption": false
     },
@@ -331,7 +331,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "26.11.2023 23:26",
+      "lastModified": "26.11.2023 23:47",
       "expand": false,
       "topDisruption": false
     },
@@ -362,55 +362,7 @@
       "states": [
         "NW"
       ],
-      "lastModified": "26.11.2023 23:27",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
-      "summary": "Durch Engpässe an einsatzbereitem Personal kann das Stellwerk in Halle-Nietleben bis einschließlich 09. Dezember 2023 zeitweise nicht besetzt werden.",
-      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle Südstadt - Halle Nietleben aus:</strong></p><p><strong>Von Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr&nbsp;(nur Mo - Sa)</p><p>37309, Abfahrt 04:56 Uhr&nbsp;</p><p>37393, Abfahrt 23:50 Uhr</p><p><strong>Von Halle Südstadt</strong></p><p>37372 Abfahrt 22:56 Uhr</p><p>37376 Abfahrt 00:02 Uhr</p><p>37378 Abfahrt 01:11 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "30.05.2023",
-      "durationEnd": "09.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lastModified": "26.11.2023 23:27",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "3228ba0d-a57a-4f4a-916f-b068682bde51",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Bauarbeiten zwischen Ulm und Lindau",
-      "summary": "Aufgrund von Bauarbeiten zwischen Ulm und Lindau ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 119 fällt auf dem Abschnitt zwischen Köln und Lindau aus. Es verkehrt ein Ersatzzug zwischen Dortmund und Stuttgart.</li><li>ICE 118 fällt auf dem Abschnitt zwischen Lindau und Köln aus. Es verkehrt ein Ersatzzug zwischen Stuttgart und Dortmund.</li><li>RJ 890 und RJ 897 fallen zwischen Frankfurt(M) und Bregenz aus.</li></ul><p>Die Bauarbeiten sollen vsl. bis 03.12.2023 zum Tagesende andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.11.2023",
-      "durationEnd": "03.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "26.11.2023 23:27",
+      "lastModified": "26.11.2023 23:47",
       "expand": true,
       "topDisruption": false
     },
@@ -434,8 +386,56 @@
       "states": [
         "SN"
       ],
-      "lastModified": "26.11.2023 23:26",
+      "lastModified": "26.11.2023 23:47",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen zwischen Halle-Südstadt und Halle-Nietleben",
+      "summary": "Durch Engpässe an einsatzbereitem Personal kann das Stellwerk in Halle-Nietleben bis einschließlich 09. Dezember 2023 zeitweise nicht besetzt werden.",
+      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle Südstadt - Halle Nietleben aus:</strong></p><p><strong>Von Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr&nbsp;(nur Mo - Sa)</p><p>37309, Abfahrt 04:56 Uhr&nbsp;</p><p>37393, Abfahrt 23:50 Uhr</p><p><strong>Von Halle Südstadt</strong></p><p>37372 Abfahrt 22:56 Uhr</p><p>37376 Abfahrt 00:02 Uhr</p><p>37378 Abfahrt 01:11 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "30.05.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "26.11.2023 23:47",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "3228ba0d-a57a-4f4a-916f-b068682bde51",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bauarbeiten zwischen Ulm und Lindau",
+      "summary": "Aufgrund von Bauarbeiten zwischen Ulm und Lindau ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 119 fällt auf dem Abschnitt zwischen Köln und Lindau aus. Es verkehrt ein Ersatzzug zwischen Dortmund und Stuttgart.</li><li>ICE 118 fällt auf dem Abschnitt zwischen Lindau und Köln aus. Es verkehrt ein Ersatzzug zwischen Stuttgart und Dortmund.</li><li>RJ 890 und RJ 897 fallen zwischen Frankfurt(M) und Bregenz aus.</li></ul><p>Die Bauarbeiten sollen vsl. bis 03.12.2023 zum Tagesende andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.11.2023",
+      "durationEnd": "03.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "26.11.2023 23:47",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -487,7 +487,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "26.11.2023 23:27",
+      "lastModified": "26.11.2023 23:47",
       "expand": false,
       "topDisruption": false
     },
@@ -511,7 +511,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "26.11.2023 23:27",
+      "lastModified": "26.11.2023 23:47",
       "expand": false,
       "topDisruption": false
     },
@@ -693,7 +693,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "26.11.2023 23:26",
+      "lastModified": "26.11.2023 23:47",
       "expand": false,
       "topDisruption": false
     },
@@ -759,7 +759,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "26.11.2023 23:27",
+      "lastModified": "26.11.2023 23:47",
       "expand": false,
       "topDisruption": false
     },
