@@ -35,7 +35,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": true,
       "topDisruption": false
     },
@@ -61,7 +61,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": true,
       "topDisruption": false
     },
@@ -86,7 +86,7 @@
         "NW",
         "HE"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": false,
       "topDisruption": false
     },
@@ -162,7 +162,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": true,
       "topDisruption": false
     },
@@ -284,7 +284,7 @@
         "NW",
         "HE"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": true,
       "topDisruption": false
     },
@@ -340,7 +340,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": false,
       "topDisruption": false
     },
@@ -400,7 +400,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": false,
       "topDisruption": false
     },
@@ -424,8 +424,39 @@
       "states": [
         "ST"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik in Belgien vom 05.12. bis 07.12.2023",
+      "summary": "Die Eisenbahngewerkschaften in Belgien kündigen eine Streikwelle mit 48 Stunden Dauer für folgenden Zeitraum an:",
+      "text": "<ul><li><strong>05.12.2023 ab 22 Uhr bis 07.12.2023 um 22 Uhr</strong></li></ul><p>Es wird zu erheblichen Störungen im Bahnverkehr Belgiens sowie Verbindungen nach/von/durch Belgien kommen. Wir empfehlen in jedem Fall, von Reisen in diesem Zeitraum abzusehen.</p><p>Folgende Regelung wurde von der Belgischen Eisenbahn bekannt gegeben:</p><p><strong>Fahrkarten für Reisen nach/von/durch oder innerhalb Belgiens, die bis zum 31.10.2023 zur Fahrt zwischen dem 5. und 7. Dezember</strong> gebucht wurden, können kostenfrei storniert werden oder zur Fahrt bereits ab dem 4. Dezember genutzt werden. Die Reise kann auch zu einem späteren Zeitpunkt unternommen werden; wir empfehlen eine Reise bis zum 9. Dezember, um Tage mit erfahrungsgemäß hohem Reisendenaufkommen zu vermeiden und eine angenehme Fahrt zu ermöglichen.&nbsp;</p><p>Zudem gelten bei Verspätung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter bahn.de/service/fahrgastrechte.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.12.2023",
+      "durationEnd": "07.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Weitere Informationen zu den Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lastModified": "28.11.2023 18:14",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -478,37 +509,6 @@
       "topDisruption": false
     },
     {
-      "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Streik in Belgien vom 05.12. bis 07.12.2023",
-      "summary": "Die Eisenbahngewerkschaften in Belgien kündigen eine Streikwelle mit 48 Stunden Dauer für folgenden Zeitraum an:",
-      "text": "<ul><li><strong>05.12.2023 ab 22 Uhr bis 07.12.2023 um 22 Uhr</strong></li></ul><p>Es wird zu erheblichen Störungen im Bahnverkehr Belgiens sowie Verbindungen nach/von/durch Belgien kommen. Wir empfehlen in jedem Fall, von Reisen in diesem Zeitraum abzusehen.</p><p>Folgende Regelung wurde von der Belgischen Eisenbahn bekannt gegeben:</p><p><strong>Fahrkarten für Reisen nach/von/durch oder innerhalb Belgiens, die bis zum 31.10.2023 zur Fahrt zwischen dem 5. und 7. Dezember</strong> gebucht wurden, können kostenfrei storniert werden oder zur Fahrt bereits ab dem 4. Dezember genutzt werden. Die Reise kann auch zu einem späteren Zeitpunkt unternommen werden; wir empfehlen eine Reise bis zum 9. Dezember, um Tage mit erfahrungsgemäß hohem Reisendenaufkommen zu vermeiden und eine angenehme Fahrt zu ermöglichen.&nbsp;</p><p>Zudem gelten bei Verspätung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter bahn.de/service/fahrgastrechte.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "05.12.2023",
-      "durationEnd": "07.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
-          "label": "Weitere Informationen zu den Fahrgastrechten",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lastModified": "28.11.2023 17:49",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -528,7 +528,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": false,
       "topDisruption": false
     },
@@ -552,7 +552,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": false,
       "topDisruption": false
     },
@@ -576,7 +576,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": true,
       "topDisruption": false
     },
@@ -629,7 +629,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": false,
       "topDisruption": false
     },
@@ -653,7 +653,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": false,
       "topDisruption": false
     },
@@ -884,7 +884,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": false,
       "topDisruption": false
     },
@@ -950,7 +950,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "28.11.2023 17:49",
+      "lastModified": "28.11.2023 18:14",
       "expand": false,
       "topDisruption": false
     },
