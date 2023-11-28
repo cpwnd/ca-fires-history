@@ -35,7 +35,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": true,
       "topDisruption": false
     },
@@ -61,7 +61,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": true,
       "topDisruption": false
     },
@@ -86,7 +86,7 @@
         "NW",
         "HE"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": false,
       "topDisruption": false
     },
@@ -142,31 +142,6 @@
       "topDisruption": false
     },
     {
-      "id": "b90c942a-b20b-416f-aa8d-868caf6be196",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Siegen",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Wetzlar und Siegen  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Zugausfällen.",
-      "text": "<strong><strong>Betroffen ist folgende Verbindung im Fernverkehr:</strong></strong><ul><li>IC-Züge Frankfurt(M) – Gießen – Siegen – Dortmund fallen in beiden Fahrtrichtungen zwischen Frankfurt(M) und Siegen aus.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "28.11.2023",
-      "durationEnd": "28.11.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lastModified": "28.11.2023 17:24",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "ae616e11-2a9c-4c41-8c65-df8f22d6f598",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -187,7 +162,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": true,
       "topDisruption": false
     },
@@ -289,6 +264,31 @@
       "topDisruption": false
     },
     {
+      "id": "b90c942a-b20b-416f-aa8d-868caf6be196",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Zugausfälle zwischen Frankfurt(M) und Dortmund (über Siegen)",
+      "summary": "Aufgrund witterungsbedingter Schäden auf der Strecke Wetzlar – Siegen ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen. ",
+      "text": "<strong><strong>Betroffen ist folgende Verbindung im Fernverkehr:</strong></strong><ul><li>Die IC-Linie Frankfurt(M) – Wetzlar – Siegen – Dortmund (– Münster(Westf) – Norddeich ) fällt aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Reisende zwischen Rhein/Main und NRW nutzen bitte Verbindungen über Köln oder Hannover</li><li>Reisende von/nach Bad Nauheim, Wetzlar, Dillenburg, Siegen, Altenhundem und Letmathe nutzen bitte Nahverkehrsverbindungen. Bitte beachten Sie, dass diese zwischen Haiger und Siegen unterbrochen sind und dafür ein Busersatzverkehr eingerichtet ist.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.11.2023",
+      "durationEnd": "01.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lastModified": "28.11.2023 17:49",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "26fbb3db-4a29-44ec-9fc1-ce8fc9f38d59",
       "author": "REGIO_HE",
       "cause": {
@@ -340,7 +340,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": false,
       "topDisruption": false
     },
@@ -400,7 +400,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": false,
       "topDisruption": false
     },
@@ -424,39 +424,8 @@
       "states": [
         "ST"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Streik in Belgien vom 05.12. bis 07.12.2023",
-      "summary": "Die Eisenbahngewerkschaften in Belgien kündigen eine Streikwelle mit 48 Stunden Dauer für folgenden Zeitraum an:",
-      "text": "<ul><li><strong>05.12.2023 ab 22 Uhr bis 07.12.2023 um 22 Uhr</strong></li></ul><p>Es wird zu erheblichen Störungen im Bahnverkehr Belgiens sowie Verbindungen nach/von/durch Belgien kommen. Wir empfehlen in jedem Fall, von Reisen in diesem Zeitraum abzusehen.</p><p>Folgende Regelung wurde von der Belgischen Eisenbahn bekannt gegeben:</p><p><strong>Fahrkarten für Reisen nach/von/durch oder innerhalb Belgiens, die bis zum 31.10.2023 zur Fahrt zwischen dem 5. und 7. Dezember</strong> gebucht wurden, können kostenfrei storniert werden oder zur Fahrt bereits ab dem 4. Dezember genutzt werden. Die Reise kann auch zu einem späteren Zeitpunkt unternommen werden; wir empfehlen eine Reise bis zum 9. Dezember, um Tage mit erfahrungsgemäß hohem Reisendenaufkommen zu vermeiden und eine angenehme Fahrt zu ermöglichen.&nbsp;</p><p>Zudem gelten bei Verspätung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter bahn.de/service/fahrgastrechte.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "05.12.2023",
-      "durationEnd": "07.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
-          "label": "Weitere Informationen zu den Fahrgastrechten",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lastModified": "28.11.2023 17:24",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -467,7 +436,7 @@
         "label": "Kurzfristige Erkrankung von Personal"
       },
       "headline": "S-Bahn-Linie 5 und 51 ab 10. Dezember bis 01. Januar mit verändertem Angebot.",
-      "summary": "Wie bei anderen Unternehmen in der Region gibt es derzeit auch bei der DB in einigen Betrieben einen deutlich erh&ouml;hten Krankenstand bei den Mitarbeitenden.<br />\n<br />\nUm den Zugverkehr zwischen Heidelberg und Eppingen bzw. Aglasterhausen nachhaltig zu stabilisieren und kurzfristige Zugausf&auml;lle aufgrund von Krankheit der Fahrpersonale zu vermeiden, stellt die Deutsche Bahn (DB) die Fahrpl&auml;ne der S-Bahn-Linien S 5 und S 51 in diesem Streckenbereich ab Sonntag, 10. Dezember, bis einschlie&szlig;lich Montag, 01. Januar, auf einen Ersatzfahrplan um.<br />\n&nbsp;",
+      "summary": "Aufgrund von Personalengp&auml;ssen beim Fahrpersonal k&ouml;nnen die Zugleistungen zwischen Heidelberg und Eppingen bzw.&nbsp; Aglasterhausen nur eingeschr&auml;nkt gefahren werden.&nbsp;<br />\n<br />\nUm den Zugverkehr zwischen Heidelberg und Eppingen bzw. Aglasterhausen nachhaltig zu stabilisieren und kurzfristige Zugausf&auml;lle aufgrund von Krankheit der Fahrpersonale zu vermeiden, stellt die Deutsche Bahn (DB) die Fahrpl&auml;ne der S-Bahn-Linien S 5 und S 51 in diesem Streckenbereich ab Sonntag, 10. Dezember, bis einschlie&szlig;lich Montag, 01. Januar, auf einen Ersatzfahrplan um.<br />\n&nbsp;",
       "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>S5</strong> Heidelberg &ndash; Neckargem&uuml;nd &ndash; Sinsheim &ndash; Eppingen</li>\n\t<li><strong>S51</strong>&nbsp;Heidelberg &ndash; Meckesheim &ndash; Aglasterhausen</li>\n</ul>\n\n<p><strong>Folgende Fahrplananpassungen gelten ab 10. Dezember:</strong></p>\n\n<ul>\n\t<li>Das halbst&uuml;ndliche Angebot der S-Bahn-Linien S 5 und S 51 zwischen Heidelberg und Sinsheim wird auf einen Stundentakt umgestellt. Das st&uuml;ndliche Angebot zwischen Sinsheim und Eppingen bleibt erhalten.</li>\n\t<li>Das halbst&uuml;ndliche Angebot von Montag bis Freitag der S-Bahn-Linie S 51 zwischen Meckesheim und Aglasterhausen wird auf einen Stundentakt umgestellt. Die umstiegsfreie Verbindung zwischen Heidelberg und Aglasterhausen entf&auml;llt. Die Anschl&uuml;sse in Meckesheim sind am morgen in Fahrtrichtung nach Heidelberg und am Nachmittag umgekehrt ausgerichtet.&nbsp;</li>\n\t<li>Ausfall der Verl&auml;ngerungen der S-Bahn-Linie S5 von und nach Bad Rappenau.</li>\n\t<li>Reisenden stehen je nach Strecke neben den verkehrenden S-Bahnen der ebenfalls verkehrende RE10b und auf Teilstrecken die Stadtbahn der AVG zur Verf&uuml;gung</li>\n</ul>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "durationBegin": "10.12.2023",
       "durationEnd": "01.01.2024",
@@ -504,8 +473,39 @@
       "states": [
         "BW"
       ],
-      "lastModified": "28.11.2023 17:23",
+      "lastModified": "28.11.2023 17:49",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik in Belgien vom 05.12. bis 07.12.2023",
+      "summary": "Die Eisenbahngewerkschaften in Belgien kündigen eine Streikwelle mit 48 Stunden Dauer für folgenden Zeitraum an:",
+      "text": "<ul><li><strong>05.12.2023 ab 22 Uhr bis 07.12.2023 um 22 Uhr</strong></li></ul><p>Es wird zu erheblichen Störungen im Bahnverkehr Belgiens sowie Verbindungen nach/von/durch Belgien kommen. Wir empfehlen in jedem Fall, von Reisen in diesem Zeitraum abzusehen.</p><p>Folgende Regelung wurde von der Belgischen Eisenbahn bekannt gegeben:</p><p><strong>Fahrkarten für Reisen nach/von/durch oder innerhalb Belgiens, die bis zum 31.10.2023 zur Fahrt zwischen dem 5. und 7. Dezember</strong> gebucht wurden, können kostenfrei storniert werden oder zur Fahrt bereits ab dem 4. Dezember genutzt werden. Die Reise kann auch zu einem späteren Zeitpunkt unternommen werden; wir empfehlen eine Reise bis zum 9. Dezember, um Tage mit erfahrungsgemäß hohem Reisendenaufkommen zu vermeiden und eine angenehme Fahrt zu ermöglichen.&nbsp;</p><p>Zudem gelten bei Verspätung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter bahn.de/service/fahrgastrechte.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.12.2023",
+      "durationEnd": "07.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Weitere Informationen zu den Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lastModified": "28.11.2023 17:49",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -528,7 +528,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": false,
       "topDisruption": false
     },
@@ -552,7 +552,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": false,
       "topDisruption": false
     },
@@ -576,7 +576,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": true,
       "topDisruption": false
     },
@@ -629,7 +629,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": false,
       "topDisruption": false
     },
@@ -653,7 +653,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": false,
       "topDisruption": false
     },
@@ -884,7 +884,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": false,
       "topDisruption": false
     },
@@ -950,7 +950,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "28.11.2023 17:24",
+      "lastModified": "28.11.2023 17:49",
       "expand": false,
       "topDisruption": false
     },
