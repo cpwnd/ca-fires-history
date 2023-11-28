@@ -35,33 +35,8 @@
         "SH",
         "TH"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "f5b8e5d7-b6b9-4b4a-9691-da4f0f68c0f4",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingte Beeinträchtigungen"
-      },
-      "headline": "Beeinträchtigungen aufgrund von Winterwitterung in Kassel und Altenbeken\n",
-      "summary": "Aktuell kommt es aufgrund von Winterwitterung zwischen Kassel und Altenbeken\n zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen und Zugteilausfällen. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Linie 51 (Köln – Hamm(W) – Kassel-Wilhelmshöhe – Erfurt – Gera)</li><li>verkehrt aktuell nur zwischen Kassel-Wilhelmshöhe und Gera</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "28.11.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "TH",
-        "NI",
-        "HE"
-      ],
-      "lastModified": "28.11.2023 13:57",
-      "expand": false,
       "topDisruption": false
     },
     {
@@ -86,8 +61,33 @@
         "HE",
         "RP"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "f5b8e5d7-b6b9-4b4a-9691-da4f0f68c0f4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "Beeinträchtigungen aufgrund Winterwitterung zwischen Köln und Kassel\n",
+      "summary": "Aufgrund von Winterwitterung zwischen Kassel und Altenbeken ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen. ",
+      "text": "<strong><strong>Betroffen ist folgende Verbindung im Fernverkehr:</strong></strong><ul><li>IC-Züge Köln – Hamm(W) – Kassel-Wilhelmshöhe – Erfurt – Gera fallen zwischen Köln und Kassel aus.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.11.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "NW",
+        "HE"
+      ],
+      "lastModified": "28.11.2023 14:21",
+      "expand": false,
       "topDisruption": false
     },
     {
@@ -148,9 +148,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Siegen",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Frankfurt(M) und Siegen  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu (Teil-) Ausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge entfallen zwischen Frankfurt(M) und Siegen</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Siegen",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Wetzlar und Siegen  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Zugausfällen.",
+      "text": "<strong><strong>Betroffen ist folgende Verbindung im Fernverkehr:</strong></strong><ul><li>IC-Züge Frankfurt(M) – Gießen – Siegen – Dortmund fallen in beiden Fahrtrichtungen zwischen Frankfurt(M) und Siegen aus.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "28.11.2023",
       "durationEnd": "28.11.2023",
       "downloads": [],
@@ -162,7 +162,7 @@
         "NW",
         "HE"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": true,
       "topDisruption": false
     },
@@ -187,7 +187,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": true,
       "topDisruption": false
     },
@@ -340,7 +340,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": false,
       "topDisruption": false
     },
@@ -400,7 +400,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": false,
       "topDisruption": false
     },
@@ -424,7 +424,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": false,
       "topDisruption": false
     },
@@ -455,7 +455,7 @@
       "states": [
         "NW"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": true,
       "topDisruption": false
     },
@@ -479,7 +479,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": false,
       "topDisruption": false
     },
@@ -503,7 +503,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": false,
       "topDisruption": false
     },
@@ -527,7 +527,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": true,
       "topDisruption": false
     },
@@ -580,7 +580,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": false,
       "topDisruption": false
     },
@@ -604,7 +604,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": false,
       "topDisruption": false
     },
@@ -835,7 +835,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": false,
       "topDisruption": false
     },
@@ -901,7 +901,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "28.11.2023 13:57",
+      "lastModified": "28.11.2023 14:21",
       "expand": false,
       "topDisruption": false
     },
