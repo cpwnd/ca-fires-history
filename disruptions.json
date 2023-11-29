@@ -2,6 +2,35 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "0261eef7-9c04-427d-8132-ae4fcb61ab2a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung im Raum Hannover",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung in Hannover kommt es derzeit im Großraum Hannover zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Zug- und Haltausfällen sowie Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge mit Verkehrshalt in Hannover.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "29.11.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BB",
+        "BE",
+        "NW",
+        "HB",
+        "NI",
+        "HE"
+      ],
+      "lastModified": "29.11.2023 16:29",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "50cf348a-090b-4337-9bbf-3387bcce4427",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -23,7 +52,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": true,
       "topDisruption": false
     },
@@ -123,7 +152,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": true,
       "topDisruption": false
     },
@@ -245,7 +274,7 @@
         "NW",
         "HE"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": true,
       "topDisruption": false
     },
@@ -301,7 +330,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -361,7 +390,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -385,7 +414,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -416,7 +445,7 @@
       "states": [
         "NW"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": true,
       "topDisruption": false
     },
@@ -489,7 +518,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -513,7 +542,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -537,7 +566,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": true,
       "topDisruption": false
     },
@@ -633,7 +662,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -657,7 +686,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -888,7 +917,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -954,7 +983,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "29.11.2023 16:19",
+      "lastModified": "29.11.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
