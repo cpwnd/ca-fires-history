@@ -23,7 +23,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:49",
       "expand": true,
       "topDisruption": false
     },
@@ -98,7 +98,7 @@
         "BW",
         "HE"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:49",
       "expand": true,
       "topDisruption": false
     },
@@ -123,7 +123,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:49",
       "expand": true,
       "topDisruption": false
     },
@@ -245,7 +245,7 @@
         "NW",
         "HE"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:49",
       "expand": true,
       "topDisruption": false
     },
@@ -301,7 +301,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:48",
       "expand": false,
       "topDisruption": false
     },
@@ -361,7 +361,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:48",
       "expand": false,
       "topDisruption": false
     },
@@ -385,7 +385,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:48",
       "expand": false,
       "topDisruption": false
     },
@@ -416,7 +416,7 @@
       "states": [
         "NW"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:49",
       "expand": true,
       "topDisruption": false
     },
@@ -470,6 +470,30 @@
       "topDisruption": false
     },
     {
+      "id": "3228ba0d-a57a-4f4a-916f-b068682bde51",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bauarbeiten zwischen Ulm und Lindau",
+      "summary": "Aufgrund von Bauarbeiten zwischen Ulm und Lindau ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 119 fällt auf dem Abschnitt zwischen Köln und Lindau aus. Es verkehrt ein Ersatzzug zwischen Dortmund und Stuttgart.</li><li>ICE 118 fällt auf dem Abschnitt zwischen Lindau und Köln aus. Es verkehrt ein Ersatzzug zwischen Stuttgart und Dortmund.</li><li>RJ 890 und RJ 897 fallen zwischen Frankfurt(M) und Bregenz aus.</li></ul><p>Die Bauarbeiten sollen vsl. bis 03.12.2023 zum Tagesende andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.11.2023",
+      "durationEnd": "03.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "29.11.2023 10:49",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -489,7 +513,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:48",
       "expand": false,
       "topDisruption": false
     },
@@ -513,32 +537,8 @@
       "states": [
         "ST"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:48",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "3228ba0d-a57a-4f4a-916f-b068682bde51",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Bauarbeiten zwischen Ulm und Lindau",
-      "summary": "Aufgrund von Bauarbeiten zwischen Ulm und Lindau ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 119 fällt auf dem Abschnitt zwischen Köln und Lindau aus. Es verkehrt ein Ersatzzug zwischen Dortmund und Stuttgart.</li><li>ICE 118 fällt auf dem Abschnitt zwischen Lindau und Köln aus. Es verkehrt ein Ersatzzug zwischen Stuttgart und Dortmund.</li><li>RJ 890 und RJ 897 fallen zwischen Frankfurt(M) und Bregenz aus.</li></ul><p>Die Bauarbeiten sollen vsl. bis 03.12.2023 zum Tagesende andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.11.2023",
-      "durationEnd": "03.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "29.11.2023 10:25",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -590,7 +590,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:49",
       "expand": false,
       "topDisruption": false
     },
@@ -614,7 +614,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:49",
       "expand": false,
       "topDisruption": false
     },
@@ -845,7 +845,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:48",
       "expand": false,
       "topDisruption": false
     },
@@ -911,7 +911,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "29.11.2023 10:25",
+      "lastModified": "29.11.2023 10:48",
       "expand": false,
       "topDisruption": false
     },
