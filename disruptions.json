@@ -23,7 +23,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": true,
       "topDisruption": false
     },
@@ -98,7 +98,7 @@
         "BW",
         "HE"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": true,
       "topDisruption": false
     },
@@ -123,7 +123,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": true,
       "topDisruption": false
     },
@@ -245,7 +245,7 @@
         "NW",
         "HE"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": true,
       "topDisruption": false
     },
@@ -301,7 +301,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": false,
       "topDisruption": false
     },
@@ -361,7 +361,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": false,
       "topDisruption": false
     },
@@ -385,8 +385,39 @@
       "states": [
         "ST"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik in Belgien vom 05.12. bis 07.12.2023",
+      "summary": "Die Eisenbahngewerkschaften in Belgien kündigen eine Streikwelle mit 48 Stunden Dauer für folgenden Zeitraum an:",
+      "text": "<ul><li><strong>05.12.2023 ab 22 Uhr bis 07.12.2023 um 22 Uhr</strong></li></ul><p>Es wird zu erheblichen Störungen im Bahnverkehr Belgiens sowie Verbindungen nach/von/durch Belgien kommen. Wir empfehlen in jedem Fall, von Reisen in diesem Zeitraum abzusehen.</p><p>Folgende Regelung wurde von der Belgischen Eisenbahn bekannt gegeben:</p><p><strong>Fahrkarten für Reisen nach/von/durch oder innerhalb Belgiens, die bis zum 31.10.2023 zur Fahrt zwischen dem 5. und 7. Dezember</strong> gebucht wurden, können kostenfrei storniert werden oder zur Fahrt bereits ab dem 4. Dezember genutzt werden. Die Reise kann auch zu einem späteren Zeitpunkt unternommen werden; wir empfehlen eine Reise bis zum 9. Dezember, um Tage mit erfahrungsgemäß hohem Reisendenaufkommen zu vermeiden und eine angenehme Fahrt zu ermöglichen.&nbsp;</p><p>Zudem gelten bei Verspätung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter bahn.de/service/fahrgastrechte.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.12.2023",
+      "durationEnd": "07.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Weitere Informationen zu den Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lastModified": "29.11.2023 10:25",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -439,37 +470,6 @@
       "topDisruption": false
     },
     {
-      "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Streik in Belgien vom 05.12. bis 07.12.2023",
-      "summary": "Die Eisenbahngewerkschaften in Belgien kündigen eine Streikwelle mit 48 Stunden Dauer für folgenden Zeitraum an:",
-      "text": "<ul><li><strong>05.12.2023 ab 22 Uhr bis 07.12.2023 um 22 Uhr</strong></li></ul><p>Es wird zu erheblichen Störungen im Bahnverkehr Belgiens sowie Verbindungen nach/von/durch Belgien kommen. Wir empfehlen in jedem Fall, von Reisen in diesem Zeitraum abzusehen.</p><p>Folgende Regelung wurde von der Belgischen Eisenbahn bekannt gegeben:</p><p><strong>Fahrkarten für Reisen nach/von/durch oder innerhalb Belgiens, die bis zum 31.10.2023 zur Fahrt zwischen dem 5. und 7. Dezember</strong> gebucht wurden, können kostenfrei storniert werden oder zur Fahrt bereits ab dem 4. Dezember genutzt werden. Die Reise kann auch zu einem späteren Zeitpunkt unternommen werden; wir empfehlen eine Reise bis zum 9. Dezember, um Tage mit erfahrungsgemäß hohem Reisendenaufkommen zu vermeiden und eine angenehme Fahrt zu ermöglichen.&nbsp;</p><p>Zudem gelten bei Verspätung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter bahn.de/service/fahrgastrechte.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "05.12.2023",
-      "durationEnd": "07.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
-          "label": "Weitere Informationen zu den Fahrgastrechten",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lastModified": "29.11.2023 10:14",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -489,7 +489,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": false,
       "topDisruption": false
     },
@@ -513,7 +513,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": false,
       "topDisruption": false
     },
@@ -537,7 +537,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": true,
       "topDisruption": false
     },
@@ -590,7 +590,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": false,
       "topDisruption": false
     },
@@ -614,7 +614,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": false,
       "topDisruption": false
     },
@@ -845,7 +845,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": false,
       "topDisruption": false
     },
@@ -911,7 +911,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "29.11.2023 10:14",
+      "lastModified": "29.11.2023 10:25",
       "expand": false,
       "topDisruption": false
     },
@@ -1088,6 +1088,51 @@
         "BY"
       ],
       "lastModified": "12.06.2023 14:25",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "40873109-f507-4fd5-b159-c6eb427ed595",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Keine Zugfahrten zwischen Heidelberg Hbf und Bad Schönborn Süd möglich",
+      "summary": "Eine Reparatur an einem Zug zwischen Heidelberg Hbf und Bad Sch&ouml;nborn S&uuml;d beeintr&auml;chtigt den Bahnverkehr.<br />\nZur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.&nbsp;",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>S3/S4 - Bruchsal/Germersheim &lt;&gt; Mannheim Hbf &lt;&gt; Heidelberg Hbf &lt;&gt; Bruchsal/KarlsruheHbf&nbsp;</strong></li>\n\t<li><strong>S33 - Bruchsal &lt;&gt; Germersheim</strong></li>\n</ul>\n\n<p>Die Z&uuml;ge aus Richtung Germersheim/Mannheim Hbf enden/beginnen in Heidelberg Hbf.<br />\nDie Z&uuml;ge aus Richtung Karlsruhe Hbf/Bruchsal enden/beginnen in Bad Sch&ouml;nborn S&uuml;d</p>\n\n<p>Bitte rechnen Sie auf dem gesamten Laufweg mit hohen Versp&auml;tungen und kurzfristigen Zugausf&auml;llen.</p>\n\n<p>Wir haben einen <strong>Ersatzverkehr mit sechs Bussen zwischen Heidelberg Hbf und Bad Sch&ouml;nborn S&uuml;d f&uuml;r Sie eingerichtet.</strong>&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die <strong>Busse ohne festen Fahrplan</strong> verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.&nbsp;<br />\nDie Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [],
+      "lastModified": "29.11.2023 10:21",
       "expand": false,
       "topDisruption": false
     }
