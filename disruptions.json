@@ -24,7 +24,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "30.11.2023 14:25",
+      "lastModified": "30.11.2023 15:25",
       "expand": true,
       "topDisruption": false
     },
@@ -50,7 +50,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "30.11.2023 14:24",
+      "lastModified": "30.11.2023 15:24",
       "expand": true,
       "topDisruption": false
     },
@@ -126,7 +126,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "30.11.2023 14:24",
+      "lastModified": "30.11.2023 15:25",
       "expand": true,
       "topDisruption": false
     },
@@ -200,7 +200,7 @@
         "NW",
         "HE"
       ],
-      "lastModified": "30.11.2023 14:25",
+      "lastModified": "30.11.2023 15:24",
       "expand": true,
       "topDisruption": false
     },
@@ -256,7 +256,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "30.11.2023 14:24",
+      "lastModified": "30.11.2023 14:48",
       "expand": false,
       "topDisruption": false
     },
@@ -297,30 +297,6 @@
       "topDisruption": false
     },
     {
-      "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Fahrtausfälle der S-Bahn-Linie S10 ",
-      "summary": "Aufgrund von Engpässen an einsatzbereitem Personal können die Fahrten der S-Bahn-Linie S10 vom 16. Oktober 2023 bis zum 08. Dezember 2023 nicht bedient werden.",
-      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 10 Leipzig Hbf - Leipzig Miltitzer Allee</li></ul><p>Es entfallen alle Fahrten der S10. Reisende in diesem Streckenabschnitt nutzen bitte die Züge der S-Bahn-Linie S1.</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "16.10.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lastModified": "30.11.2023 14:24",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -340,7 +316,31 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 14:24",
+      "lastModified": "30.11.2023 14:51",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Fahrtausfälle der S-Bahn-Linie S10 ",
+      "summary": "Aufgrund von Engpässen an einsatzbereitem Personal können die Fahrten der S-Bahn-Linie S10 vom 16. Oktober 2023 bis zum 08. Dezember 2023 nicht bedient werden.",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 10 Leipzig Hbf - Leipzig Miltitzer Allee</li></ul><p>Es entfallen alle Fahrten der S10. Reisende in diesem Streckenabschnitt nutzen bitte die Züge der S-Bahn-Linie S1.</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "16.10.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "30.11.2023 14:43",
       "expand": false,
       "topDisruption": false
     },
@@ -371,7 +371,7 @@
       "states": [
         "NW"
       ],
-      "lastModified": "30.11.2023 14:24",
+      "lastModified": "30.11.2023 15:26",
       "expand": true,
       "topDisruption": false
     },
@@ -444,32 +444,8 @@
       "states": [
         "BW"
       ],
-      "lastModified": "30.11.2023 14:34",
+      "lastModified": "30.11.2023 15:26",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "7d068048-834e-45cc-9eb9-e054ad964529",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Fahrplanänderungen im Raum Dresden",
-      "summary": "Zur Stabilisierung des Verkehrsangebotes im Bereich Dresden treten ab 16. Oktober 2023 mehrere Änderungen in Kraft.",
-      "text": "<p>Linie S1 Meißen Triebischtal – Pirna – Bad Schandau/Schöna:</p><p>Entfall der Takt-Verdichterfahrten zwischen Meißen-Triebischtal und Pirna in der Hauptverkehrszeit Montag bis Freitag</p><p>Linie S2 Dresden Flughafen - Dresden Hbf - Pirna:</p><p>Entfall zwei Zugpaare Abends und ein Zugpaar früh Morgens von Montag bis Freitag</p><p>Samstags, Sonntags und Feiertags verkehrt die S2 im 1-Stunden-Takt und nur im Abschnitt Dresden Hbf – Dresden Flughafen</p><p>Linie S3 Dresden Hbf – Tharandt (- Freiberg):</p><p>Entfall der Takt-Verdichterfahrten zwischen Dresden Hbf – Tharandt in der Hauptverkehrszeit Montag bis Freitag</p><p><strong>VVO-Dieselnetz</strong></p><p>Linie S8 Dresden Hbf - Radeberg - Kamenz:</p><p>Entfall der Takt-Verdichterfahrten in der Nachmittags-Hauptverkehrszeit Montag bis Freitag</p><p>Die Züge des Grundtaktes S8 werden in der Nachmittags-Hauptverkehrszeit auf drei Triebwagen verstärkt.</p><p>Linie RB33 Dresden-Neustadt - Königsbrück:</p><p>Mit Ausnahme folgender Fahrten im Tagesanlauf und -auslauf verkehren die Züge nur im Abschnitt Dresden-Neustadt – Ottendorf-Okrilla Süd:</p><p>&nbsp;-Königsbrück ab 4.44 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Montags – Freitags, außer Feiertags)</p><p>&nbsp;-Königsbrück ab 6.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Samstags, Sonntags und Feiertags)</p><p>&nbsp;-Königsbrück ab 22.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt</p><p>&nbsp;-Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>&nbsp;-Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>Zwischen Ottendorf-Okrilla Süd und Königsbrück wird ein Ersatzverkehr mit Bus eingerichtet. </p><p>Linie RB71 Pirna - Sebnitz:</p><p>Mit Ausnahme folgender Fahrten verkehren die Züge nur im Abschnitt Pirna – Neustadt(Sachs):</p><p>&nbsp;-Sebnitz(Sachs) ab 13.43 Uhr verkehrt durchgehend als Zug bis Pirna</p><p>&nbsp;-Sebnitz(Sachs) ab 11.43 Uhr wird durchgehend bis Pirna durch einen Bus ersetzt</p><p>&nbsp;-Pirna ab 11.11 Uhr verkehrt durchgehend als Zug bis Sebnitz(Sachs)</p><p>&nbsp;-Pirna ab 13.11 Uhr wird durchgehend bis Sebnitz(Sachs) durch einen Bus ersetzt </p><p>Zwischen Neustadt(Sachs) und Sebnitz(Sachs) wird ein Ersatzverkehr mit Bus eingerichtet. </p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, im DB Streckenagent oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
-      "durationBegin": "06.10.2023",
-      "durationEnd": "09.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lastModified": "30.11.2023 14:24",
-      "expand": false,
       "topDisruption": false
     },
     {
@@ -492,7 +468,31 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 14:24",
+      "lastModified": "30.11.2023 14:47",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "7d068048-834e-45cc-9eb9-e054ad964529",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Fahrplanänderungen im Raum Dresden",
+      "summary": "Zur Stabilisierung des Verkehrsangebotes im Bereich Dresden treten ab 16. Oktober 2023 mehrere Änderungen in Kraft.",
+      "text": "<p>Linie S1 Meißen Triebischtal – Pirna – Bad Schandau/Schöna:</p><p>Entfall der Takt-Verdichterfahrten zwischen Meißen-Triebischtal und Pirna in der Hauptverkehrszeit Montag bis Freitag</p><p>Linie S2 Dresden Flughafen - Dresden Hbf - Pirna:</p><p>Entfall zwei Zugpaare Abends und ein Zugpaar früh Morgens von Montag bis Freitag</p><p>Samstags, Sonntags und Feiertags verkehrt die S2 im 1-Stunden-Takt und nur im Abschnitt Dresden Hbf – Dresden Flughafen</p><p>Linie S3 Dresden Hbf – Tharandt (- Freiberg):</p><p>Entfall der Takt-Verdichterfahrten zwischen Dresden Hbf – Tharandt in der Hauptverkehrszeit Montag bis Freitag</p><p><strong>VVO-Dieselnetz</strong></p><p>Linie S8 Dresden Hbf - Radeberg - Kamenz:</p><p>Entfall der Takt-Verdichterfahrten in der Nachmittags-Hauptverkehrszeit Montag bis Freitag</p><p>Die Züge des Grundtaktes S8 werden in der Nachmittags-Hauptverkehrszeit auf drei Triebwagen verstärkt.</p><p>Linie RB33 Dresden-Neustadt - Königsbrück:</p><p>Mit Ausnahme folgender Fahrten im Tagesanlauf und -auslauf verkehren die Züge nur im Abschnitt Dresden-Neustadt – Ottendorf-Okrilla Süd:</p><p>&nbsp;-Königsbrück ab 4.44 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Montags – Freitags, außer Feiertags)</p><p>&nbsp;-Königsbrück ab 6.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Samstags, Sonntags und Feiertags)</p><p>&nbsp;-Königsbrück ab 22.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt</p><p>&nbsp;-Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>&nbsp;-Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>Zwischen Ottendorf-Okrilla Süd und Königsbrück wird ein Ersatzverkehr mit Bus eingerichtet. </p><p>Linie RB71 Pirna - Sebnitz:</p><p>Mit Ausnahme folgender Fahrten verkehren die Züge nur im Abschnitt Pirna – Neustadt(Sachs):</p><p>&nbsp;-Sebnitz(Sachs) ab 13.43 Uhr verkehrt durchgehend als Zug bis Pirna</p><p>&nbsp;-Sebnitz(Sachs) ab 11.43 Uhr wird durchgehend bis Pirna durch einen Bus ersetzt</p><p>&nbsp;-Pirna ab 11.11 Uhr verkehrt durchgehend als Zug bis Sebnitz(Sachs)</p><p>&nbsp;-Pirna ab 13.11 Uhr wird durchgehend bis Sebnitz(Sachs) durch einen Bus ersetzt </p><p>Zwischen Neustadt(Sachs) und Sebnitz(Sachs) wird ein Ersatzverkehr mit Bus eingerichtet. </p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, im DB Streckenagent oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
+      "durationBegin": "06.10.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "30.11.2023 14:45",
       "expand": false,
       "topDisruption": false
     },
@@ -569,30 +569,6 @@
       "topDisruption": false
     },
     {
-      "id": "a30486b4-ea47-457f-b47b-d416482dc296",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen auf der Linie RB 76 Zeitz - Weißenfels",
-      "summary": "Betriebsbedingte Ausfälle aufgrund von Personalmangel.",
-      "text": "<p>Aufgrund von Personalmangel kommt es auf der Linie RB 76 (Zeitz – Weißenfels) zu Ausfällen im Zeitraum 06.11. – 09.12.23 und 11. – 29.12.23. Es verkehren weiterhin Züge im Zweistundentakt.</p><p><strong>Fahrplan 2023 (Mo-Fr):</strong></p><p>- Ausfalltage: 06. – 10., 13. – 17., 20. – 24., 27.11. – 01., 04. – 08.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Fahrplan 2024 (Mo-Fr):</strong></p><p>- Ausfalltage: 11. – 15., 18. – 22., 27. – 29.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Sa+So:</strong></p><p>- Züge verkehren planmäßig.</p><p><strong>Schienenersatzverkehr (SEV):</strong></p><p>- Zwischenhalte Theißen und Teuchern werden bedient.</p><p>- Für alle übrige Halte bitte die zweistündlich verkehrenden Züge nutzen.</p><p>*Bitte beachten: Die SEV-Haltestelle in Teuchern befindet sich am Bahnübergang, nicht direkt am Bahnhof.</p><p>Auskünfte mit Weg Beschreibungen zu den Haltestellen finden Sie unter https://www.bahnhof.de/</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>",
-      "durationBegin": "06.11.2023",
-      "durationEnd": "29.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lastModified": "30.11.2023 14:24",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "d13fb107-5c5a-48e8-9b34-0391e820c189",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -612,7 +588,31 @@
       "states": [
         "SN"
       ],
-      "lastModified": "30.11.2023 14:24",
+      "lastModified": "30.11.2023 15:25",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "a30486b4-ea47-457f-b47b-d416482dc296",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen auf der Linie RB 76 Zeitz - Weißenfels",
+      "summary": "Betriebsbedingte Ausfälle aufgrund von Personalmangel.",
+      "text": "<p>Aufgrund von Personalmangel kommt es auf der Linie RB 76 (Zeitz – Weißenfels) zu Ausfällen im Zeitraum 06.11. – 09.12.23 und 11. – 29.12.23. Es verkehren weiterhin Züge im Zweistundentakt.</p><p><strong>Fahrplan 2023 (Mo-Fr):</strong></p><p>- Ausfalltage: 06. – 10., 13. – 17., 20. – 24., 27.11. – 01., 04. – 08.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Fahrplan 2024 (Mo-Fr):</strong></p><p>- Ausfalltage: 11. – 15., 18. – 22., 27. – 29.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Sa+So:</strong></p><p>- Züge verkehren planmäßig.</p><p><strong>Schienenersatzverkehr (SEV):</strong></p><p>- Zwischenhalte Theißen und Teuchern werden bedient.</p><p>- Für alle übrige Halte bitte die zweistündlich verkehrenden Züge nutzen.</p><p>*Bitte beachten: Die SEV-Haltestelle in Teuchern befindet sich am Bahnübergang, nicht direkt am Bahnhof.</p><p>Auskünfte mit Weg Beschreibungen zu den Haltestellen finden Sie unter https://www.bahnhof.de/</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>",
+      "durationBegin": "06.11.2023",
+      "durationEnd": "29.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "30.11.2023 14:45",
       "expand": false,
       "topDisruption": false
     },
@@ -843,7 +843,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 14:24",
+      "lastModified": "30.11.2023 14:52",
       "expand": false,
       "topDisruption": false
     },
@@ -909,7 +909,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "30.11.2023 14:24",
+      "lastModified": "30.11.2023 14:49",
       "expand": false,
       "topDisruption": false
     },
