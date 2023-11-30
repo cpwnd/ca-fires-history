@@ -34,7 +34,7 @@
         "NI",
         "HE"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": true,
       "topDisruption": false
     },
@@ -61,7 +61,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": true,
       "topDisruption": false
     },
@@ -87,7 +87,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": true,
       "topDisruption": false
     },
@@ -163,7 +163,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": true,
       "topDisruption": false
     },
@@ -237,7 +237,7 @@
         "NW",
         "HE"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": true,
       "topDisruption": false
     },
@@ -293,7 +293,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": false,
       "topDisruption": false
     },
@@ -353,7 +353,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": false,
       "topDisruption": false
     },
@@ -377,7 +377,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": false,
       "topDisruption": false
     },
@@ -408,7 +408,7 @@
       "states": [
         "NW"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": true,
       "topDisruption": false
     },
@@ -481,7 +481,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": false,
       "topDisruption": false
     },
@@ -505,7 +505,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": false,
       "topDisruption": false
     },
@@ -529,7 +529,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": true,
       "topDisruption": false
     },
@@ -625,7 +625,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": false,
       "topDisruption": false
     },
@@ -649,7 +649,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": false,
       "topDisruption": false
     },
@@ -880,7 +880,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 11:31",
+      "lastModified": "30.11.2023 11:46",
       "expand": false,
       "topDisruption": false
     },
@@ -911,6 +911,29 @@
         "BW"
       ],
       "lastModified": "29.08.2023 03:26",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "f972b646-4817-4256-ad5a-70112367b8f0",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Fahrzeugverfügbarkeit"
+      },
+      "headline": "Ausfälle RB 25 von Barth nach Velgast am 30. November 2023",
+      "text": "<p>Wegen einer Reparatur am Zug fallen am 30. November 2023 alle Z&uuml;ge von Barth nach Velgast&nbsp; in beide Richtungen aus:</p>\n\n<p>Wir haben f&uuml;r Sie ein Ersatzverkehr mit einem Bus bereitgestellt. Bitte nutzen Sie auch alternative Reisem&ouml;glichkeiten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App&nbsp;DB Streckenagent,&nbsp;im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "durationBegin": "30.11.2023",
+      "durationEnd": "30.11.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "MV"
+      ],
+      "lastModified": "30.11.2023 11:46",
       "expand": false,
       "topDisruption": false
     },
@@ -946,30 +969,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "30.11.2023 11:31",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "f972b646-4817-4256-ad5a-70112367b8f0",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Fahrzeugverfügbarkeit"
-      },
-      "headline": "Ausfälle RB 25 von Barth nach Velgast ",
-      "text": "<p>Wegen einer Reparatur am Zug fallen folgende Z&uuml;ge von Barth nach Velgast aus:</p>\n\n<p>RB18871, RB18870, RB18873, RB18872, RB18875, RB18874, RB18877, RB18876, RB18879, RB18878, RB18881, RB18880, RB18883, RB18882, RB1885</p>\n\n<p>Wir haben f&uuml;r Sie ein Ersatzverkehr mit einem Bus bereitgestellt.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App&nbsp;DB Streckenagent,&nbsp;im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
-      "durationBegin": "30.11.2023",
-      "durationEnd": "30.11.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "MV"
-      ],
-      "lastModified": "30.11.2023 08:01",
+      "lastModified": "30.11.2023 11:46",
       "expand": false,
       "topDisruption": false
     },
