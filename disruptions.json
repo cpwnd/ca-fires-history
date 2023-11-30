@@ -2,43 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "0261eef7-9c04-427d-8132-ae4fcb61ab2a",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen im Raum Hannover",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung in Hannover kommt es noch bis in die Vormittagsstunden vereinzelt zu Zug- und Haltausfällen im Fernverkehr der Deutschen Bahn.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC-Züge mit Verkehrshalt in Hannover Hbf</li></ul><p><strong>Regelung für betroffene Reisende:</strong></p><p>Alle Fahrgäste, die ihre am <strong>29.11.2023</strong> geplante Reise aufgrund der Oberleitungsstörung in Hannover verschoben haben, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.&nbsp;&nbsp;</p><p>Daneben gelten selbstverständlich die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll bis in die Vormittagsstunden abgeschlossen sein.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "29.11.2023",
-      "durationEnd": "30.11.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/fahrgastrechte",
-          "label": "Allgemeine Informationen zun Ihren Fahrgastrechten",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "HH",
-        "BE",
-        "NW",
-        "HB",
-        "NI",
-        "HE"
-      ],
-      "lastModified": "30.11.2023 11:46",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "14b7aab3-ab84-4fff-b928-0089b81eb7f4",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -61,7 +24,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": true,
       "topDisruption": false
     },
@@ -87,7 +50,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": true,
       "topDisruption": false
     },
@@ -163,7 +126,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": true,
       "topDisruption": false
     },
@@ -237,7 +200,7 @@
         "NW",
         "HE"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": true,
       "topDisruption": false
     },
@@ -293,7 +256,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": false,
       "topDisruption": false
     },
@@ -353,7 +316,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": false,
       "topDisruption": false
     },
@@ -377,7 +340,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": false,
       "topDisruption": false
     },
@@ -408,7 +371,7 @@
       "states": [
         "NW"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": true,
       "topDisruption": false
     },
@@ -481,7 +444,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": false,
       "topDisruption": false
     },
@@ -505,7 +468,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": false,
       "topDisruption": false
     },
@@ -529,7 +492,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": true,
       "topDisruption": false
     },
@@ -625,7 +588,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": false,
       "topDisruption": false
     },
@@ -649,7 +612,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": false,
       "topDisruption": false
     },
@@ -880,7 +843,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:16",
       "expand": false,
       "topDisruption": false
     },
@@ -915,29 +878,6 @@
       "topDisruption": false
     },
     {
-      "id": "f972b646-4817-4256-ad5a-70112367b8f0",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Fahrzeugverfügbarkeit"
-      },
-      "headline": "Ausfälle RB 25 von Barth nach Velgast am 30. November 2023",
-      "text": "<p>Wegen einer Reparatur am Zug fallen am 30. November 2023 alle Z&uuml;ge von Barth nach Velgast&nbsp; in beide Richtungen aus:</p>\n\n<p>Wir haben f&uuml;r Sie ein Ersatzverkehr mit einem Bus bereitgestellt. Bitte nutzen Sie auch alternative Reisem&ouml;glichkeiten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App&nbsp;DB Streckenagent,&nbsp;im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
-      "durationBegin": "30.11.2023",
-      "durationEnd": "30.11.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "MV"
-      ],
-      "lastModified": "30.11.2023 11:46",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "author": "S_BAHN_S",
       "cause": {
@@ -968,6 +908,29 @@
       ],
       "states": [
         "BW"
+      ],
+      "lastModified": "30.11.2023 12:16",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "f972b646-4817-4256-ad5a-70112367b8f0",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Fahrzeugverfügbarkeit"
+      },
+      "headline": "Ausfälle RB 25 von Barth nach Velgast am 30. November 2023",
+      "text": "<p>Wegen einer Reparatur am Zug fallen am 30. November 2023 alle Z&uuml;ge von Barth nach Velgast&nbsp; in beide Richtungen aus:</p>\n\n<p>Wir haben f&uuml;r Sie ein Ersatzverkehr mit einem Bus bereitgestellt. Bitte nutzen Sie auch alternative Reisem&ouml;glichkeiten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App&nbsp;DB Streckenagent,&nbsp;im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "durationBegin": "30.11.2023",
+      "durationEnd": "30.11.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "MV"
       ],
       "lastModified": "30.11.2023 11:46",
       "expand": false,
