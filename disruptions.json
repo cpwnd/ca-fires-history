@@ -24,7 +24,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:26",
       "expand": true,
       "topDisruption": false
     },
@@ -50,7 +50,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:26",
       "expand": true,
       "topDisruption": false
     },
@@ -126,7 +126,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:26",
       "expand": true,
       "topDisruption": false
     },
@@ -200,7 +200,7 @@
         "NW",
         "HE"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:26",
       "expand": true,
       "topDisruption": false
     },
@@ -256,7 +256,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:25",
       "expand": false,
       "topDisruption": false
     },
@@ -316,7 +316,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:25",
       "expand": false,
       "topDisruption": false
     },
@@ -340,7 +340,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:25",
       "expand": false,
       "topDisruption": false
     },
@@ -371,7 +371,7 @@
       "states": [
         "NW"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:26",
       "expand": true,
       "topDisruption": false
     },
@@ -425,6 +425,30 @@
       "topDisruption": false
     },
     {
+      "id": "3228ba0d-a57a-4f4a-916f-b068682bde51",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bauarbeiten zwischen Ulm und Lindau",
+      "summary": "Aufgrund von Bauarbeiten zwischen Ulm und Lindau ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 119 fällt auf dem Abschnitt zwischen Köln und Lindau aus. Es verkehrt ein Ersatzzug zwischen Dortmund und Stuttgart.</li><li>ICE 118 fällt auf dem Abschnitt zwischen Lindau und Köln aus. Es verkehrt ein Ersatzzug zwischen Stuttgart und Dortmund.</li><li>RJ 890 und RJ 897 fallen zwischen Frankfurt(M) und Bregenz aus.</li></ul><p>Die Bauarbeiten sollen vsl. bis 03.12.2023 zum Tagesende andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.11.2023",
+      "durationEnd": "03.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "30.11.2023 12:26",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -444,7 +468,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:25",
       "expand": false,
       "topDisruption": false
     },
@@ -468,32 +492,8 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:25",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "3228ba0d-a57a-4f4a-916f-b068682bde51",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Bauarbeiten zwischen Ulm und Lindau",
-      "summary": "Aufgrund von Bauarbeiten zwischen Ulm und Lindau ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 119 fällt auf dem Abschnitt zwischen Köln und Lindau aus. Es verkehrt ein Ersatzzug zwischen Dortmund und Stuttgart.</li><li>ICE 118 fällt auf dem Abschnitt zwischen Lindau und Köln aus. Es verkehrt ein Ersatzzug zwischen Stuttgart und Dortmund.</li><li>RJ 890 und RJ 897 fallen zwischen Frankfurt(M) und Bregenz aus.</li></ul><p>Die Bauarbeiten sollen vsl. bis 03.12.2023 zum Tagesende andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.11.2023",
-      "durationEnd": "03.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "30.11.2023 12:16",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -569,30 +569,6 @@
       "topDisruption": false
     },
     {
-      "id": "a30486b4-ea47-457f-b47b-d416482dc296",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen auf der Linie RB 76 Zeitz - Weißenfels",
-      "summary": "Betriebsbedingte Ausfälle aufgrund von Personalmangel.",
-      "text": "<p>Aufgrund von Personalmangel kommt es auf der Linie RB 76 (Zeitz – Weißenfels) zu Ausfällen im Zeitraum 06.11. – 09.12.23 und 11. – 29.12.23. Es verkehren weiterhin Züge im Zweistundentakt.</p><p><strong>Fahrplan 2023 (Mo-Fr):</strong></p><p>- Ausfalltage: 06. – 10., 13. – 17., 20. – 24., 27.11. – 01., 04. – 08.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Fahrplan 2024 (Mo-Fr):</strong></p><p>- Ausfalltage: 11. – 15., 18. – 22., 27. – 29.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Sa+So:</strong></p><p>- Züge verkehren planmäßig.</p><p><strong>Schienenersatzverkehr (SEV):</strong></p><p>- Zwischenhalte Theißen und Teuchern werden bedient.</p><p>- Für alle übrige Halte bitte die zweistündlich verkehrenden Züge nutzen.</p><p>*Bitte beachten: Die SEV-Haltestelle in Teuchern befindet sich am Bahnübergang, nicht direkt am Bahnhof.</p><p>Auskünfte mit Weg Beschreibungen zu den Haltestellen finden Sie unter https://www.bahnhof.de/</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>",
-      "durationBegin": "06.11.2023",
-      "durationEnd": "29.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lastModified": "30.11.2023 12:16",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "d13fb107-5c5a-48e8-9b34-0391e820c189",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -612,7 +588,31 @@
       "states": [
         "SN"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:26",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "a30486b4-ea47-457f-b47b-d416482dc296",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen auf der Linie RB 76 Zeitz - Weißenfels",
+      "summary": "Betriebsbedingte Ausfälle aufgrund von Personalmangel.",
+      "text": "<p>Aufgrund von Personalmangel kommt es auf der Linie RB 76 (Zeitz – Weißenfels) zu Ausfällen im Zeitraum 06.11. – 09.12.23 und 11. – 29.12.23. Es verkehren weiterhin Züge im Zweistundentakt.</p><p><strong>Fahrplan 2023 (Mo-Fr):</strong></p><p>- Ausfalltage: 06. – 10., 13. – 17., 20. – 24., 27.11. – 01., 04. – 08.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Fahrplan 2024 (Mo-Fr):</strong></p><p>- Ausfalltage: 11. – 15., 18. – 22., 27. – 29.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Sa+So:</strong></p><p>- Züge verkehren planmäßig.</p><p><strong>Schienenersatzverkehr (SEV):</strong></p><p>- Zwischenhalte Theißen und Teuchern werden bedient.</p><p>- Für alle übrige Halte bitte die zweistündlich verkehrenden Züge nutzen.</p><p>*Bitte beachten: Die SEV-Haltestelle in Teuchern befindet sich am Bahnübergang, nicht direkt am Bahnhof.</p><p>Auskünfte mit Weg Beschreibungen zu den Haltestellen finden Sie unter https://www.bahnhof.de/</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>",
+      "durationBegin": "06.11.2023",
+      "durationEnd": "29.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "30.11.2023 12:25",
       "expand": false,
       "topDisruption": false
     },
@@ -624,10 +624,10 @@
         "label": "Kurzfristiger Personalausfall"
       },
       "headline": "Kein Zugverkehr zwischen Dillingen und Niedaltdorf",
-      "summary": "Wegen kurzfristiger Erkrankung von Fahrpersonal, wird der Zugverkehr ab <strong>Dienstag, 28.11.23 bis Sonntag, 03.12.23</strong><strong>&nbsp;jeweils ganzt&auml;gig&nbsp;</strong>zwischen Dillingen und Niedaltdorf eingestellt.",
+      "summary": "Wegen kurzfristiger Erkrankung von Fahrpersonal, wird der Zugverkehr ab <strong>Dienstag, 28.11.23 bis Sonntag, 10.12.23</strong><strong>&nbsp;jeweils ganzt&auml;gig&nbsp;</strong>zwischen Dillingen und Niedaltdorf eingestellt.",
       "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB77 Dillingen - Niedaltdorf</strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr mit Bussen ist eingerichtet.</strong></p>\n\n<p>Bitte beachten Sie, dass die <strong>Busse ohne festen Fahrplan</strong> verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.&nbsp;<br />\nDie Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "durationBegin": "28.11.2023",
-      "durationEnd": "03.12.2023",
+      "durationEnd": "10.12.2023",
       "downloads": [],
       "links": [
         {
@@ -661,7 +661,7 @@
       "states": [
         "SL"
       ],
-      "lastModified": "30.11.2023 10:33",
+      "lastModified": "30.11.2023 12:22",
       "expand": false,
       "topDisruption": false
     },
@@ -843,7 +843,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:25",
       "expand": false,
       "topDisruption": false
     },
@@ -909,7 +909,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "30.11.2023 12:16",
+      "lastModified": "30.11.2023 12:25",
       "expand": false,
       "topDisruption": false
     },
@@ -921,7 +921,7 @@
         "label": "Fahrzeugverfügbarkeit"
       },
       "headline": "Ausfälle RB 25 von Barth nach Velgast am 30. November 2023",
-      "text": "<p>Wegen einer Reparatur am Zug fallen am 30. November 2023 alle Z&uuml;ge von Barth nach Velgast&nbsp; in beide Richtungen aus:</p>\n\n<p>Wir haben f&uuml;r Sie ein Ersatzverkehr mit einem Bus bereitgestellt. Bitte nutzen Sie auch alternative Reisem&ouml;glichkeiten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App&nbsp;DB Streckenagent,&nbsp;im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "text": "<p>Wegen einer Reparatur am Zug fallen am 30. November 2023 alle Z&uuml;ge von Barth nach Velgast&nbsp; in beide Richtungen aus:</p>\n\n<p>Wir haben f&uuml;r Sie ein Ersatzverkehr mit zwei Bussen bereitgestellt. Bitte nutzen Sie auch alternative Reisem&ouml;glichkeiten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, in der App&nbsp;DB Streckenagent,&nbsp;im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
       "durationBegin": "30.11.2023",
       "durationEnd": "30.11.2023",
       "downloads": [],
@@ -932,7 +932,7 @@
       "states": [
         "MV"
       ],
-      "lastModified": "30.11.2023 11:46",
+      "lastModified": "30.11.2023 12:19",
       "expand": false,
       "topDisruption": false
     },
