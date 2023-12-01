@@ -24,7 +24,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": true,
       "topDisruption": false
     },
@@ -50,7 +50,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": true,
       "topDisruption": false
     },
@@ -76,7 +76,7 @@
         "NI",
         "HE"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": true,
       "topDisruption": false
     },
@@ -152,7 +152,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": true,
       "topDisruption": false
     },
@@ -257,7 +257,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": false,
       "topDisruption": false
     },
@@ -282,7 +282,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": true,
       "topDisruption": false
     },
@@ -342,7 +342,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": false,
       "topDisruption": false
     },
@@ -366,7 +366,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": false,
       "topDisruption": false
     },
@@ -397,7 +397,31 @@
       "states": [
         "NW"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "c56d4621-c817-4ad0-ac5a-941ab591694e",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Stuttgart und Mannheim/Heidelberg/Karlsruhe",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Stuttgart Hbf und Vaihingen (Enz) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/TGV/IC-Züge beider Fahrtrichtungen zwischen Mannheim/Heidelberg und Stuttgart</li><li>ICE/TGV/IC-Züge beider Fahrtrichtungen zwischen Karlsruhe und Stuttgart</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.12.2023",
+      "durationEnd": "01.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "01.12.2023 09:32",
       "expand": true,
       "topDisruption": false
     },
@@ -470,7 +494,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": false,
       "topDisruption": false
     },
@@ -494,7 +518,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": false,
       "topDisruption": false
     },
@@ -518,7 +542,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": true,
       "topDisruption": false
     },
@@ -636,7 +660,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": false,
       "topDisruption": false
     },
@@ -660,7 +684,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": false,
       "topDisruption": false
     },
@@ -891,7 +915,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": false,
       "topDisruption": false
     },
@@ -957,7 +981,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "01.12.2023 09:21",
+      "lastModified": "01.12.2023 09:32",
       "expand": false,
       "topDisruption": false
     },
