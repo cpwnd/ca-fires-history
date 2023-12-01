@@ -2,6 +2,52 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik in Belgien vom 05.12. bis 07.12.2023",
+      "summary": "Die Eisenbahngewerkschaften in Belgien kündigen eine Streikwelle mit 48 Stunden Dauer für folgenden Zeitraum an:",
+      "text": "<ul><li><strong>05.12.2023 ab 22 Uhr bis 07.12.2023 um 22 Uhr</strong></li></ul><p>Es wird zu erheblichen Störungen im Bahnverkehr Belgiens sowie Verbindungen nach/von/durch Belgien kommen. Wir empfehlen in jedem Fall, von Reisen in diesem Zeitraum abzusehen.</p><p><strong>Im Fernverkehr der Deutschen Bahn kommt es zu folgenden Beeinträchtigungen.</strong></p><ul><li>am <strong>05.12.2023</strong>: <strong>ICE 10, ICE 12 </strong>fallen zwischen Köln und Brüssel aus</li><li>am <strong>06.12.2023</strong>: <strong>ICE 10, ICE 12</strong> fallen zwischen Köln und Brüssel aus; <strong>ICE 11, ICE 13</strong> fallen zwischen Brüssel und Köln aus</li><li>am <strong>07.12.2023: ICE 10, ICE 12 </strong>fallen zwischen Köln und Brüssel aus; <strong>ICE 11, ICE 13 </strong>fallen zwischen Brüssel und Köln aus</li><li>am <strong>08.12.2023: </strong><strong>ICE 11, ICE 13 </strong>fallen zwischen Brüssel und Köln aus</li></ul><p>Folgende Regelung wurde von der Belgischen Eisenbahn bekannt gegeben:</p><p><strong>Fahrkarten für Reisen nach/von/durch oder innerhalb Belgiens, die bis zum 31.10.2023 zur Fahrt zwischen dem 5. und 7. Dezember</strong> gebucht wurden, können kostenfrei storniert werden oder zur Fahrt bereits ab dem 4. Dezember genutzt werden. Die Reise kann auch zu einem späteren Zeitpunkt unternommen werden; wir empfehlen eine Reise bis zum 9. Dezember, um Tage mit erfahrungsgemäß hohem Reisendenaufkommen zu vermeiden und eine angenehme Fahrt zu ermöglichen.&nbsp;</p><p>Zudem gelten bei Verspätung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter bahn.de/service/fahrgastrechte.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.12.2023",
+      "durationEnd": "07.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Weitere Informationen zu den Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "01.12.2023 13:31",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "14b7aab3-ab84-4fff-b928-0089b81eb7f4",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -24,7 +70,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": true,
       "topDisruption": false
     },
@@ -50,7 +96,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": true,
       "topDisruption": false
     },
@@ -76,7 +122,7 @@
         "NI",
         "HE"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": true,
       "topDisruption": false
     },
@@ -152,7 +198,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": true,
       "topDisruption": false
     },
@@ -257,7 +303,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": false,
       "topDisruption": false
     },
@@ -282,7 +328,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": true,
       "topDisruption": false
     },
@@ -342,7 +388,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": false,
       "topDisruption": false
     },
@@ -366,63 +412,8 @@
       "states": [
         "ST"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Streik in Belgien vom 05.12. bis 07.12.2023",
-      "summary": "Die Eisenbahngewerkschaften in Belgien kündigen eine Streikwelle mit 48 Stunden Dauer für folgenden Zeitraum an:",
-      "text": "<ul><li><strong>05.12.2023 ab 22 Uhr bis 07.12.2023 um 22 Uhr</strong></li></ul><p>Es wird zu erheblichen Störungen im Bahnverkehr Belgiens sowie Verbindungen nach/von/durch Belgien kommen. Wir empfehlen in jedem Fall, von Reisen in diesem Zeitraum abzusehen.</p><p>Folgende Regelung wurde von der Belgischen Eisenbahn bekannt gegeben:</p><p><strong>Fahrkarten für Reisen nach/von/durch oder innerhalb Belgiens, die bis zum 31.10.2023 zur Fahrt zwischen dem 5. und 7. Dezember</strong> gebucht wurden, können kostenfrei storniert werden oder zur Fahrt bereits ab dem 4. Dezember genutzt werden. Die Reise kann auch zu einem späteren Zeitpunkt unternommen werden; wir empfehlen eine Reise bis zum 9. Dezember, um Tage mit erfahrungsgemäß hohem Reisendenaufkommen zu vermeiden und eine angenehme Fahrt zu ermöglichen.&nbsp;</p><p>Zudem gelten bei Verspätung oder Zugausfall die allgemeinen Fahrgastrechte. Hierzu finden Sie weitere Informationen unter bahn.de/service/fahrgastrechte.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "05.12.2023",
-      "durationEnd": "07.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
-          "label": "Weitere Informationen zu den Fahrgastrechten",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lastModified": "01.12.2023 12:47",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "c56d4621-c817-4ad0-ac5a-941ab591694e",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Stuttgart und Mannheim/Heidelberg/Karlsruhe",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Stuttgart Hbf und Vaihingen (Enz) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/TGV/IC-Züge beider Fahrtrichtungen zwischen Mannheim/Heidelberg und Stuttgart</li><li>ICE/TGV/IC-Züge beider Fahrtrichtungen zwischen Karlsruhe und Stuttgart</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "01.12.2023",
-      "durationEnd": "01.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "01.12.2023 12:47",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -494,7 +485,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": false,
       "topDisruption": false
     },
@@ -518,7 +509,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": false,
       "topDisruption": false
     },
@@ -542,7 +533,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": true,
       "topDisruption": false
     },
@@ -638,7 +629,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": false,
       "topDisruption": false
     },
@@ -662,7 +653,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": false,
       "topDisruption": false
     },
@@ -900,7 +891,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": false,
       "topDisruption": false
     },
@@ -966,7 +957,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "01.12.2023 12:47",
+      "lastModified": "01.12.2023 13:31",
       "expand": false,
       "topDisruption": false
     },
