@@ -43,7 +43,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": false,
       "topDisruption": false
     },
@@ -61,6 +61,12 @@
       "durationEnd": "02.12.2023",
       "downloads": [],
       "links": [
+        {
+          "href": "https://www.bahn.de/info/sonderkulanz",
+          "label": "Ausführliche Informationen zu Reisen während des Wintereinbruchs in Süddeutschland",
+          "info": "",
+          "openInNewTab": true
+        },
         {
           "href": "https://www.bahn.de/fahrgastrechte",
           "label": "Allgemeine Informationen zu Ihren Fahrgastrechten",
@@ -89,7 +95,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": true,
       "topDisruption": false
     },
@@ -115,7 +121,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": true,
       "topDisruption": false
     },
@@ -141,7 +147,7 @@
         "NI",
         "HE"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": true,
       "topDisruption": false
     },
@@ -217,7 +223,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": true,
       "topDisruption": false
     },
@@ -322,7 +328,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": false,
       "topDisruption": false
     },
@@ -382,7 +388,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": false,
       "topDisruption": false
     },
@@ -406,7 +412,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": false,
       "topDisruption": false
     },
@@ -460,6 +466,30 @@
       "topDisruption": false
     },
     {
+      "id": "ef45ff4a-8932-401c-8593-da820c53e354",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Wintereinbruch: Bahnverkehr bei der DB Regio Baden-Württemberg auf einigen Strecken aktuell beeinträchtigt",
+      "summary": "Aufgrund von Wintereinbruch kommt es aktuell in S&uuml;ddeutschland zu Versp&auml;tungen und Zugausf&auml;llen.",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>IRE3 / RE5&nbsp;(Ulm - Friedrichshafen - Singen / Stuttgart - Ulm- Friedrichshafen)&nbsp;</strong>Streckenabschnitt zwischen Aulendorf und Ravensburg&nbsp;gesperrt.&nbsp;</li>\n\t<li><strong>RE2 (Karlsruhe - Offenburg - Konstanz) - RB31 (Friedrichshafen - Singen)&nbsp;</strong>Streckenabschnitt zwischen Villingen(Schwarzwald) und Radolfzell gesperrt.&nbsp;</li>\n\t<li><strong>RE55 (Villingen - Sigmaringen Ulm)&nbsp;</strong>Streckenabschnitt zwischen Immendingen&nbsp;-Tuttlingen und Sigmaringen - Ulm&nbsp;gesperrt.&nbsp;</li>\n</ul>\n\n<p>Zudem fahren auf vielen Streckenabschnitten die Z&uuml;ge heute Morgen langsamer, was zu h&ouml;heren Versp&auml;tungen und Zugausf&auml;llen f&uuml;hrt. Bitte informieren Sie sich vor Fahrtantritt z. B. auf www.bahn.de &uuml;ber Ihre Reiseverbindung.</p>\n\n<p><strong>Aufgrund der aktuellen Stra&szlig;enverh&auml;ltnisse ist kein Ersatzverkehr mit Bussen m&ouml;glich.</strong></p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "01.12.2023",
+      "durationEnd": "02.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "02.12.2023 06:27",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -479,7 +509,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": false,
       "topDisruption": false
     },
@@ -503,7 +533,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": false,
       "topDisruption": false
     },
@@ -527,32 +557,8 @@
       "states": [
         "BW"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "ef45ff4a-8932-401c-8593-da820c53e354",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Wintereinbruch: Bahnverkehr bei der DB Regio Baden-Württemberg auf einigen Strecken aktuell beeinträchtigt",
-      "summary": "Aufgrund von Wintereinbruch kommt es aktuell in S&uuml;ddeutschland zu Versp&auml;tungen und Zugausf&auml;llen.",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>IRE3 / RE5&nbsp;(Ulm - Friedrichshafen - Singen / Stuttgart - Ulm- Friedrichshafen)&nbsp;</strong>Streckenabschnitt zwischen Aulendorf und Ravensburg&nbsp;gesperrt.&nbsp;</li>\n\t<li><strong>RE2 (Karlsruhe - Offenburg - Konstanz) - RB31 (Friedrichshafen - Singen)&nbsp;</strong>Streckenabschnitt zwischen Villingen(Schwarzwald) und Radolfzell gesperrt.&nbsp;</li>\n\t<li><strong>RE55 (Villingen - Sigmaringen Ulm)&nbsp;</strong>Streckenabschnitt zwischen Immendingen&nbsp;-Tuttlingen und Sigmaringen - Ulm&nbsp;gesperrt.&nbsp;</li>\n</ul>\n\n<p>Zudem fahren auf vielen Streckenabschnitten die Z&uuml;ge heute Morgen langsamer, was zu h&ouml;heren Versp&auml;tungen und Zugausf&auml;llen f&uuml;hrt.Bitte informieren Sie sich vor Fahrtantritt z. B. auf www.bahn.de &uuml;ber Ihre Reiseverbindung.</p>\n\n<p><strong>Aktuell kein Ersatzverkehr mit Bussen m&ouml;glich aufgrund der aktuellen Stra&szlig;enverh&auml;ltnissen.</strong></p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
-      "durationBegin": "01.12.2023",
-      "durationEnd": "02.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "02.12.2023 06:12",
-      "expand": false,
       "topDisruption": false
     },
     {
@@ -647,7 +653,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": false,
       "topDisruption": false
     },
@@ -671,7 +677,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": false,
       "topDisruption": false
     },
@@ -909,7 +915,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": false,
       "topDisruption": false
     },
@@ -975,7 +981,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "02.12.2023 06:13",
+      "lastModified": "02.12.2023 06:27",
       "expand": false,
       "topDisruption": false
     },
