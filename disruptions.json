@@ -2,6 +2,45 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "0599de92-bd48-4ed8-9e5a-ac723a3f42c2",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Beeinträchtigungen im Fernverkehr aufgrund des Wintereinbruchs in Süddeutschland",
+      "summary": "Aktuell kommt es aufgrund eines Wintereinbruchs in Süddeutschland mit starkem Schneefall zu großen Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<p><strong>Insbesondere in Bayern kommt es aktuell zu großen Auswirkungen:</strong></p><ul><li><strong>Im Großraum München ist der Fernverkehr der Deutschen Bahn vorübergehend eingestellt</strong></li><li><strong>Auf folgenden Strecken in Bayern können aktuell keine Fernverkehrszüge verkehren:</strong></li><li><strong>München - Ingolstadt</strong></li><li><strong>München - Augsburg</strong></li><li><strong>München - Rosenheim</strong></li><li><strong>Auch in anderen Teilen von Süddeutschland kann es zu witterungsbedingten Zugausfällen und Verspätungen kommen</strong></li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.12.2023",
+      "durationEnd": "02.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "02.12.2023 02:16",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -43,35 +82,8 @@
         "SH",
         "TH"
       ],
-      "lastModified": "02.12.2023 00:45",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "14b7aab3-ab84-4fff-b928-0089b81eb7f4",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "strike",
-        "label": "Streikauswirkungen"
-      },
-      "headline": "Streik in Frankreich am 01.12.2023",
-      "summary": "Für den 01.12.2023 sind Streikmaßnahmen in Frankreich angekündigt. Dadurch kommt es im Fernverkehr der Deutschen Bahn zu Beeinträchtigungen. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>TGV 9552, ICE 9553 und ICE 9557 werden zwischen Mannheim Hbf und Paris Est umgeleitet. Die Halte in Kaiserslautern Hbf, Saarbrücken Hbf und Forbach entfallen. Zusatzhalt in Karlsruhe Hbf und Strasbourg.</li></ul><p><strong>Bitte beachten Sie: Entgegen der ersten Meldung ist ICE 9550 nicht vom Streik in Frankreich betroffen und verkehrt deshalb auf seinem planmäßigen Weg und bedient alle planmäßigen Halte!</strong></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "01.12.2023",
-      "durationEnd": "01.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "SL",
-        "HE",
-        "RP"
-      ],
-      "lastModified": "02.12.2023 00:45",
-      "expand": true,
+      "lastModified": "02.12.2023 02:16",
+      "expand": false,
       "topDisruption": false
     },
     {
@@ -96,7 +108,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": true,
       "topDisruption": false
     },
@@ -122,7 +134,7 @@
         "NI",
         "HE"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": true,
       "topDisruption": false
     },
@@ -198,7 +210,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": true,
       "topDisruption": false
     },
@@ -303,7 +315,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": false,
       "topDisruption": false
     },
@@ -363,7 +375,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": false,
       "topDisruption": false
     },
@@ -387,7 +399,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": false,
       "topDisruption": false
     },
@@ -460,7 +472,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": false,
       "topDisruption": false
     },
@@ -484,7 +496,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": false,
       "topDisruption": false
     },
@@ -508,8 +520,32 @@
       "states": [
         "BW"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "ef45ff4a-8932-401c-8593-da820c53e354",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Kein Zugverkehr zwischen Singen und Radolfzell",
+      "summary": "Die Strecke ist voraussichtlich noch bis zum fr&uuml;hen Samstagmorgen um ca. 4 Uhr gesperrt. Wir konnten leider keinen Ersatzverkehr einrichten, da keine Busse zur Verf&uuml;gung stehen.<br />\n&nbsp;",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li>IRE 3 (Ulm - Friedrichshafen - Singen)</li>\n\t<li>S6 (Engen - Radolfzell - Konstanz)</li>\n\t<li>RE 2 (Karlsruhe - Offenburg - Konstanz)</li>\n\t<li>RB 31 (Friedrichshafen - &Uuml;berlingen - Singen</li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "01.12.2023",
+      "durationEnd": "02.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "02.12.2023 01:56",
+      "expand": false,
       "topDisruption": false
     },
     {
@@ -604,7 +640,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": false,
       "topDisruption": false
     },
@@ -628,7 +664,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": false,
       "topDisruption": false
     },
@@ -866,7 +902,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": false,
       "topDisruption": false
     },
@@ -932,7 +968,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "02.12.2023 00:45",
+      "lastModified": "02.12.2023 02:16",
       "expand": false,
       "topDisruption": false
     },
