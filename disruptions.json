@@ -55,7 +55,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "03.12.2023 13:55",
+      "lastModified": "03.12.2023 14:18",
       "expand": true,
       "topDisruption": true
     }
@@ -90,7 +90,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "03.12.2023 13:55",
+      "lastModified": "03.12.2023 14:18",
       "expand": false,
       "topDisruption": false
     },
@@ -246,7 +246,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "03.12.2023 13:55",
+      "lastModified": "03.12.2023 14:17",
       "expand": false,
       "topDisruption": false
     },
@@ -287,30 +287,6 @@
       "topDisruption": false
     },
     {
-      "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Fahrtausfälle der S-Bahn-Linie S10 ",
-      "summary": "Aufgrund von Engpässen an einsatzbereitem Personal können die Fahrten der S-Bahn-Linie S10 vom 16. Oktober 2023 bis zum 08. Dezember 2023 nicht bedient werden.",
-      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 10 Leipzig Hbf - Leipzig Miltitzer Allee</li></ul><p>Es entfallen alle Fahrten der S10. Reisende in diesem Streckenabschnitt nutzen bitte die Züge der S-Bahn-Linie S1.</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "16.10.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lastModified": "03.12.2023 13:55",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -330,7 +306,31 @@
       "states": [
         "ST"
       ],
-      "lastModified": "03.12.2023 13:55",
+      "lastModified": "03.12.2023 14:18",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Fahrtausfälle der S-Bahn-Linie S10 ",
+      "summary": "Aufgrund von Engpässen an einsatzbereitem Personal können die Fahrten der S-Bahn-Linie S10 vom 16. Oktober 2023 bis zum 08. Dezember 2023 nicht bedient werden.",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 10 Leipzig Hbf - Leipzig Miltitzer Allee</li></ul><p>Es entfallen alle Fahrten der S10. Reisende in diesem Streckenabschnitt nutzen bitte die Züge der S-Bahn-Linie S1.</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "16.10.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "03.12.2023 14:17",
       "expand": false,
       "topDisruption": false
     },
@@ -343,13 +343,13 @@
       },
       "headline": "Bahnverkehr in Süddeutschland bis Montag massiv beeinträchtigt",
       "summary": "Wintereinbruch: Bahnverkehr in Bayern bis Montag massiv beeinträchtigt ",
-      "text": "<p>aufgrund der witterungsbedingten Bedingungen, Bahnverkehr in Bayern bis Montag zu massiven Beeinträchtigungen.</p><p>Der Hauptbahnhof in München ist aktuell nicht anfahrbar. Es kommt großflächig zu Zug- und Halteausfällen.</p><p>Aufgrund der aktuellen Straßenverhältnisse ist kein Ersatzverkehr mit Bussen möglich.</p><p>Bitte informieren Sie sich regelmäßig auf bahn.de oder im DB Navigator über Ihre Verbindung. Eine kostenfreie Hotline wurde eingerichtet. Die Nummer lautet: 08000-996633</p><p><strong>Werdenfels:</strong></p><p>RB 63&nbsp;&nbsp;Murnau-Oberammergau&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RB 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;München – Garmisch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RE 61&nbsp;&nbsp;&nbsp;&nbsp;München – Garmisch&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RB 60&nbsp;&nbsp;&nbsp;Garmisch – Pfronten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RB 66&nbsp;&nbsp;&nbsp;Penzberg (Kochel) – München&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall&nbsp;</p><p><strong>Allgäu</strong></p><p>RE 79&nbsp;&nbsp;Augsburg – Kempten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RE 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lindau – Augsburg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RE 17&nbsp;&nbsp;Oberstdorf – Augsburg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RB 74&nbsp;&nbsp;&nbsp;München – Buchloe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RE 70&nbsp;&nbsp;Lindau – München&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RB 73&nbsp;&nbsp;Pfronten Steinach – Kempten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RE 75&nbsp;&nbsp;Ulm – Oberstdorf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RE 71&nbsp;&nbsp;Augsburg – Memmingen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RS 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Memmingen – Ulm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RB 78&nbsp;&nbsp;Mindelheim – Günzburg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RE 73&nbsp;&nbsp;&nbsp;&nbsp;Türkheim – Bad Wörishofen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p><p>RS 71&nbsp;&nbsp;&nbsp;&nbsp;Ulm – Weißenhorn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ausfall</p>",
+      "text": "<p>aufgrund von Wintereinbruch kommt es in <strong>Süddeutschland bis Montag, 04. Dezember 2023 zu Verspätungen und Zugausfällen</strong>.</p><p>Im Großraum München ist weiterhin mit massiven Einschränkungen zu rechnen.</p><p>Aufgrund der aktuellen Straßenverhältnisse ist kein Ersatzverkehr mit Bussen möglich.</p><p>Für Kunden, die sich über die aktuelle Verkehrslage und Auswirkungen des Wintereinbruchs in Süddeutschland auf den Bahnverkehr informieren möchten, wurde eine kostenfreie Hotline eingerichtet. Die Nummer lautet 08000-996633</p><p><strong>Werdenfels:</strong></p><ul><li>RB 63&nbsp;&nbsp;Murnau-Oberammergau&nbsp;&nbsp;/ Ausfall</li><li>RB 6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;München – Garmisch / Ausfall</li><li>RE 61&nbsp;&nbsp;&nbsp;&nbsp;München – Garmisch /&nbsp;Ausfall</li><li>RB 60&nbsp;&nbsp;&nbsp;Garmisch – Pfronten/ Ausfall</li><li>RB 66&nbsp;&nbsp;&nbsp;Penzberg (Kochel) – München / Ausfall&nbsp;</li></ul><p><strong>Allgäu:</strong></p><ul><li>RE 79&nbsp;&nbsp;Augsburg – Kempten&nbsp;/&nbsp;Ausfall</li><li>RE 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lindau – Augsburg / Ausfall</li><li>RE 17&nbsp;&nbsp;Oberstdorf – Augsburg / Ausfall</li><li>RB 74&nbsp;&nbsp;&nbsp;München – Buchloe&nbsp;/ Ausfall</li><li>RE 70&nbsp;&nbsp;Lindau – München&nbsp;/ Ausfall</li><li>RB 73&nbsp;&nbsp;Pfronten Steinach – Kempten / Ausfall</li><li>RE 75&nbsp;&nbsp;Ulm – Oberstdorf / Ausfall</li><li>RE 71&nbsp;&nbsp;Augsburg – Memmingen&nbsp;/ Ausfall</li><li>RS 7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Memmingen – Ulm / Ausfall</li><li>RB 78&nbsp;&nbsp;Mindelheim – Günzburg&nbsp;/ Ausfall</li><li>RE 73&nbsp;&nbsp;&nbsp;&nbsp;Türkheim – Bad Wörishofen&nbsp;/ Ausfall</li><li>RS 71&nbsp;&nbsp;&nbsp;&nbsp;Ulm – Weißenhorn&nbsp;&nbsp;/ Ausfall</li></ul><p>Bitte informieren Sie sich regelmäßig auf bahn.de bzw. im DB Navigator oder in der App DB Streckenagent über Ihre Verbindung und auf bahn.de/aktuell über die aktuelle Lage.</p>",
       "durationBegin": "02.12.2023",
-      "durationEnd": "03.12.2023",
+      "durationEnd": "04.12.2023",
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2023-12-03/39383d4d-c340-454b-9ec1-f40a48c463b9Karte_Witterungsbedingte%2BLage_2.12.2023.png",
-          "label": "Karte_Witterungsbedingte Lage_2.12.2023.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2023-12-03/94b8aeab-1a27-416b-835b-ee0e6d51e7f1Karte_BY_Witterungsbedingte%2BLage_3.12.2023.png",
+          "label": "Karte_BY_Witterungsbedingte Lage_3.12.2023.png",
           "info": "",
           "openInNewTab": true
         }
@@ -368,7 +368,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "03.12.2023 13:55",
+      "lastModified": "03.12.2023 14:18",
       "expand": true,
       "topDisruption": false
     },
@@ -422,30 +422,6 @@
       "topDisruption": false
     },
     {
-      "id": "7d068048-834e-45cc-9eb9-e054ad964529",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Fahrplanänderungen im Raum Dresden",
-      "summary": "Zur Stabilisierung des Verkehrsangebotes im Bereich Dresden treten ab 16. Oktober 2023 mehrere Änderungen in Kraft.",
-      "text": "<p>Linie S1 Meißen Triebischtal – Pirna – Bad Schandau/Schöna:</p><p>Entfall der Takt-Verdichterfahrten zwischen Meißen-Triebischtal und Pirna in der Hauptverkehrszeit Montag bis Freitag</p><p>Linie S2 Dresden Flughafen - Dresden Hbf - Pirna:</p><p>Entfall zwei Zugpaare Abends und ein Zugpaar früh Morgens von Montag bis Freitag</p><p>Samstags, Sonntags und Feiertags verkehrt die S2 im 1-Stunden-Takt und nur im Abschnitt Dresden Hbf – Dresden Flughafen</p><p>Linie S3 Dresden Hbf – Tharandt (- Freiberg):</p><p>Entfall der Takt-Verdichterfahrten zwischen Dresden Hbf – Tharandt in der Hauptverkehrszeit Montag bis Freitag</p><p><strong>VVO-Dieselnetz</strong></p><p>Linie S8 Dresden Hbf - Radeberg - Kamenz:</p><p>Entfall der Takt-Verdichterfahrten in der Nachmittags-Hauptverkehrszeit Montag bis Freitag</p><p>Die Züge des Grundtaktes S8 werden in der Nachmittags-Hauptverkehrszeit auf drei Triebwagen verstärkt.</p><p>Linie RB33 Dresden-Neustadt - Königsbrück:</p><p>Mit Ausnahme folgender Fahrten im Tagesanlauf und -auslauf verkehren die Züge nur im Abschnitt Dresden-Neustadt – Ottendorf-Okrilla Süd:</p><p>&nbsp;-Königsbrück ab 4.44 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Montags – Freitags, außer Feiertags)</p><p>&nbsp;-Königsbrück ab 6.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Samstags, Sonntags und Feiertags)</p><p>&nbsp;-Königsbrück ab 22.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt</p><p>&nbsp;-Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>&nbsp;-Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>Zwischen Ottendorf-Okrilla Süd und Königsbrück wird ein Ersatzverkehr mit Bus eingerichtet. </p><p>Linie RB71 Pirna - Sebnitz:</p><p>Mit Ausnahme folgender Fahrten verkehren die Züge nur im Abschnitt Pirna – Neustadt(Sachs):</p><p>&nbsp;-Sebnitz(Sachs) ab 13.43 Uhr verkehrt durchgehend als Zug bis Pirna</p><p>&nbsp;-Sebnitz(Sachs) ab 11.43 Uhr wird durchgehend bis Pirna durch einen Bus ersetzt</p><p>&nbsp;-Pirna ab 11.11 Uhr verkehrt durchgehend als Zug bis Sebnitz(Sachs)</p><p>&nbsp;-Pirna ab 13.11 Uhr wird durchgehend bis Sebnitz(Sachs) durch einen Bus ersetzt </p><p>Zwischen Neustadt(Sachs) und Sebnitz(Sachs) wird ein Ersatzverkehr mit Bus eingerichtet. </p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, im DB Streckenagent oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
-      "durationBegin": "06.10.2023",
-      "durationEnd": "09.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lastModified": "03.12.2023 13:55",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -465,7 +441,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "03.12.2023 13:55",
+      "lastModified": "03.12.2023 14:18",
       "expand": false,
       "topDisruption": false
     },
@@ -489,8 +465,32 @@
       "states": [
         "BW"
       ],
-      "lastModified": "03.12.2023 13:55",
+      "lastModified": "03.12.2023 14:18",
       "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "7d068048-834e-45cc-9eb9-e054ad964529",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Fahrplanänderungen im Raum Dresden",
+      "summary": "Zur Stabilisierung des Verkehrsangebotes im Bereich Dresden treten ab 16. Oktober 2023 mehrere Änderungen in Kraft.",
+      "text": "<p>Linie S1 Meißen Triebischtal – Pirna – Bad Schandau/Schöna:</p><p>Entfall der Takt-Verdichterfahrten zwischen Meißen-Triebischtal und Pirna in der Hauptverkehrszeit Montag bis Freitag</p><p>Linie S2 Dresden Flughafen - Dresden Hbf - Pirna:</p><p>Entfall zwei Zugpaare Abends und ein Zugpaar früh Morgens von Montag bis Freitag</p><p>Samstags, Sonntags und Feiertags verkehrt die S2 im 1-Stunden-Takt und nur im Abschnitt Dresden Hbf – Dresden Flughafen</p><p>Linie S3 Dresden Hbf – Tharandt (- Freiberg):</p><p>Entfall der Takt-Verdichterfahrten zwischen Dresden Hbf – Tharandt in der Hauptverkehrszeit Montag bis Freitag</p><p><strong>VVO-Dieselnetz</strong></p><p>Linie S8 Dresden Hbf - Radeberg - Kamenz:</p><p>Entfall der Takt-Verdichterfahrten in der Nachmittags-Hauptverkehrszeit Montag bis Freitag</p><p>Die Züge des Grundtaktes S8 werden in der Nachmittags-Hauptverkehrszeit auf drei Triebwagen verstärkt.</p><p>Linie RB33 Dresden-Neustadt - Königsbrück:</p><p>Mit Ausnahme folgender Fahrten im Tagesanlauf und -auslauf verkehren die Züge nur im Abschnitt Dresden-Neustadt – Ottendorf-Okrilla Süd:</p><p>&nbsp;-Königsbrück ab 4.44 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Montags – Freitags, außer Feiertags)</p><p>&nbsp;-Königsbrück ab 6.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Samstags, Sonntags und Feiertags)</p><p>&nbsp;-Königsbrück ab 22.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt</p><p>&nbsp;-Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>&nbsp;-Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>Zwischen Ottendorf-Okrilla Süd und Königsbrück wird ein Ersatzverkehr mit Bus eingerichtet. </p><p>Linie RB71 Pirna - Sebnitz:</p><p>Mit Ausnahme folgender Fahrten verkehren die Züge nur im Abschnitt Pirna – Neustadt(Sachs):</p><p>&nbsp;-Sebnitz(Sachs) ab 13.43 Uhr verkehrt durchgehend als Zug bis Pirna</p><p>&nbsp;-Sebnitz(Sachs) ab 11.43 Uhr wird durchgehend bis Pirna durch einen Bus ersetzt</p><p>&nbsp;-Pirna ab 11.11 Uhr verkehrt durchgehend als Zug bis Sebnitz(Sachs)</p><p>&nbsp;-Pirna ab 13.11 Uhr wird durchgehend bis Sebnitz(Sachs) durch einen Bus ersetzt </p><p>Zwischen Neustadt(Sachs) und Sebnitz(Sachs) wird ein Ersatzverkehr mit Bus eingerichtet. </p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, im DB Streckenagent oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
+      "durationBegin": "06.10.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "03.12.2023 14:17",
+      "expand": false,
       "topDisruption": false
     },
     {
@@ -502,7 +502,7 @@
       },
       "headline": "Wintereinbruch: Bahnverkehr bei der DB Regio Baden-Württemberg auf einigen Strecken aktuell beeinträchtigt",
       "summary": "Aufgrund von Wintereinbruch kommt es in S&uuml;ddeutschland bis Montag zu Versp&auml;tungen und Zugausf&auml;llen.",
-      "text": "<p><strong><u>Am Sonntag, 3. Dezember, nachmittags&nbsp;wird der Zugverkehr auf diesen Linien nach Erkundung der Strecken wieder aufgenommen:</u></strong></p>\n\n<ul>\n\t<li><strong>IRE3 / RE5&nbsp;(Ulm - Friedrichshafen - Singen - Basel / Stuttgart - Ulm - Friedrichshafen)&nbsp;</strong>Zugverkehr zwischen Aulendorf und Friedrichshafen seit 8 Uhr wieder aufgenommen.</li>\n\t<li><strong>RE55 (Villingen - Sigmaringen - Ulm)&nbsp;</strong>Streckenabschnitt zwischen Donaueschingen&nbsp;- Sigmaringen wird noch weiter erkundet. Zugverkehr zwischen Sigmaringen und Ulm seit 12 Uhr wieder aufgenommen.</li>\n\t<li><strong>IRE6 (Stuttgart - T&uuml;bingen - Sigmaringen - Aulendorf)</strong> Streckenabschnitt Albstadt-Ebingen - Sigmaringen und Herbertingen - Aulendorf wird noch weiter erkundet.</li>\n\t<li><strong>RB53 (Sigmaringen - Aulendorf - Ki&szlig;legg - Leutkirch/Wangen)</strong>&nbsp;Streckenabschnitt&nbsp;zwischen Herbertingen&nbsp;- Ki&szlig;legg wird noch weiter erkundet.</li>\n\t<li><strong>S1 (Breisach - Freiburg - Titisee - Seebrugg/Neustadt)</strong> Streckenabschnitt Altglash&uuml;tten&nbsp;- Seebrugg. Ersatzverkehr ist eingerichtet.</li>\n</ul>\n\n<p><u><strong>Kein Zugverkehr bis voraussichtlich Montag, 4. Dezember bis 3 Uhr auf den Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>IRE3 / RB31 (Friedrichshafen - Radolfzell)</strong> Streckenabschnitt zwischen Friedrichshafen -&nbsp;Radolfzell.</li>\n\t<li><strong>IRE3 (Ulm - Friedrichshafen - Singen - Basel)&nbsp;</strong>Streckenabschnitt&nbsp;zwischen Basel Bad Bf und Singen(Hohentwiel). Alternativ nutzen Sie bitte die Z&uuml;ge der Linie RB30&nbsp;zwischen Basel Bad Bf und Lauchringen. Ersatzverkehr zwischen Schaffhausen und Singen ist eingerichtet.</li>\n\t<li><strong>RE2 (Karlsruhe - Offenburg - Konstanz)&nbsp;</strong>Streckenabschnitt zwischen Donaueschingen&nbsp;-&nbsp;Konstanz. Ersatzverkehr zwischen Engen und Konstanz ist eingerichtet.</li>\n</ul>\n\n<p>Am Sonntag, den 3. Dezember kommt es au&szlig;erdem zu Zugausf&auml;llen auf der Linie <strong>IRE 200</strong> zwischen Wendlingen(Neckar) und Ulm. Bitte benutzen Sie f&uuml;r Fahrten zwischen Ulm und Stuttgart die Z&uuml;ge der Linien RE 5 und des MEX 16 der Filstalbahn.</p>\n\n<p><strong>Ersatzfahrpl&auml;ne finden Sie weiter unten, wegen der aktuellen Stra&szlig;enverh&auml;ltnisse ist leider kein weiterer Ersatzverkehr mit Bussen m&ouml;glich.</strong></p>\n\n<p>F&uuml;r Kunden, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen des Wintereinbruchs in S&uuml;ddeutschland auf den Bahnverkehr informieren m&ouml;chten, wurde eine <strong>kostenfreie Hotline</strong> eingerichtet. Die Nummer lautet <strong>08000-996633</strong></p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "text": "<p><strong><u>Am Sonntag, 3. Dezember, nachmittags&nbsp;wird der Zugverkehr auf diesen Linien nach Erkundung der Strecken wieder aufgenommen:</u></strong></p>\n\n<ul>\n\t<li><strong>IRE3 / RE5&nbsp;(Ulm - Friedrichshafen - Singen - Basel / Stuttgart - Ulm - Friedrichshafen)&nbsp;</strong>Zugverkehr zwischen Aulendorf und Friedrichshafen seit 8 Uhr wieder aufgenommen.</li>\n\t<li><strong>RE55 (Villingen - Sigmaringen - Ulm)&nbsp;</strong>Streckenabschnitt zwischen Donaueschingen&nbsp;- Sigmaringen wird noch weiter erkundet. Zugverkehr zwischen Sigmaringen und Ulm seit 12 Uhr wieder aufgenommen.</li>\n\t<li><strong>IRE6 (Stuttgart - T&uuml;bingen - Sigmaringen - Aulendorf)</strong> Streckenabschnitt Albstadt-Ebingen - Sigmaringen und Herbertingen - Aulendorf wird noch weiter erkundet.</li>\n\t<li><strong>RB53 (Sigmaringen - Aulendorf - Ki&szlig;legg - Leutkirch/Wangen)</strong>&nbsp;Streckenabschnitt&nbsp;zwischen Herbertingen&nbsp;- Ki&szlig;legg wird noch weiter erkundet.</li>\n</ul>\n\n<p><u><strong>Kein Zugverkehr bis voraussichtlich Montag, 4. Dezember bis 3 Uhr auf den Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>IRE3 / RB31 (Friedrichshafen - Radolfzell)</strong> Streckenabschnitt zwischen Friedrichshafen -&nbsp;Radolfzell.</li>\n\t<li><strong>IRE3 (Ulm - Friedrichshafen - Singen - Basel)&nbsp;</strong>Streckenabschnitt&nbsp;zwischen Basel Bad Bf und Singen(Hohentwiel). Alternativ nutzen Sie bitte die Z&uuml;ge der Linie RB30&nbsp;zwischen Basel Bad Bf und Lauchringen. Ersatzverkehr zwischen Schaffhausen und Singen ist eingerichtet.</li>\n\t<li><strong>RE2 (Karlsruhe - Offenburg - Konstanz)&nbsp;</strong>Streckenabschnitt zwischen Donaueschingen&nbsp;-&nbsp;Konstanz. Ersatzverkehr zwischen Engen und Konstanz ist eingerichtet.</li>\n\t<li><strong>S1 (Breisach - Freiburg - Titisee - Seebrugg/Neustadt)</strong> Streckenabschnitt Altglash&uuml;tten&nbsp;- Seebrugg. Ersatzverkehr ist eingerichtet.</li>\n</ul>\n\n<p>Am Sonntag, den 3. Dezember kommt es au&szlig;erdem zu Zugausf&auml;llen auf der Linie <strong>IRE 200</strong> zwischen Wendlingen(Neckar) und Ulm. Bitte benutzen Sie f&uuml;r Fahrten zwischen Ulm und Stuttgart die Z&uuml;ge der Linien RE 5 und des MEX 16 der Filstalbahn.</p>\n\n<p><strong>Ersatzfahrpl&auml;ne finden Sie weiter unten, wegen der aktuellen Stra&szlig;enverh&auml;ltnisse ist leider kein weiterer Ersatzverkehr mit Bussen m&ouml;glich.</strong></p>\n\n<p>F&uuml;r Kunden, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen des Wintereinbruchs in S&uuml;ddeutschland auf den Bahnverkehr informieren m&ouml;chten, wurde eine <strong>kostenfreie Hotline</strong> eingerichtet. Die Nummer lautet <strong>08000-996633</strong></p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
       "durationBegin": "01.12.2023",
       "durationEnd": "04.12.2023",
       "downloads": [
@@ -526,7 +526,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "03.12.2023 12:36",
+      "lastModified": "03.12.2023 13:57",
       "expand": false,
       "topDisruption": false
     },
@@ -622,7 +622,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "03.12.2023 13:55",
+      "lastModified": "03.12.2023 14:18",
       "expand": false,
       "topDisruption": false
     },
@@ -646,7 +646,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "03.12.2023 13:55",
+      "lastModified": "03.12.2023 14:18",
       "expand": false,
       "topDisruption": false
     },
@@ -884,7 +884,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "03.12.2023 13:55",
+      "lastModified": "03.12.2023 14:17",
       "expand": false,
       "topDisruption": false
     },
@@ -950,7 +950,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "03.12.2023 13:55",
+      "lastModified": "03.12.2023 14:18",
       "expand": false,
       "topDisruption": false
     },
