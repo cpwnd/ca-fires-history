@@ -56,7 +56,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "03.12.2023 02:30",
+      "lastModified": "03.12.2023 03:18",
       "expand": true,
       "topDisruption": false
     },
@@ -89,7 +89,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "03.12.2023 02:30",
+      "lastModified": "03.12.2023 03:17",
       "expand": false,
       "topDisruption": false
     },
@@ -245,7 +245,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "03.12.2023 02:30",
+      "lastModified": "03.12.2023 03:17",
       "expand": false,
       "topDisruption": false
     },
@@ -286,30 +286,6 @@
       "topDisruption": false
     },
     {
-      "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Fahrtausfälle der S-Bahn-Linie S10 ",
-      "summary": "Aufgrund von Engpässen an einsatzbereitem Personal können die Fahrten der S-Bahn-Linie S10 vom 16. Oktober 2023 bis zum 08. Dezember 2023 nicht bedient werden.",
-      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 10 Leipzig Hbf - Leipzig Miltitzer Allee</li></ul><p>Es entfallen alle Fahrten der S10. Reisende in diesem Streckenabschnitt nutzen bitte die Züge der S-Bahn-Linie S1.</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "16.10.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lastModified": "03.12.2023 02:30",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -329,7 +305,31 @@
       "states": [
         "ST"
       ],
-      "lastModified": "03.12.2023 02:30",
+      "lastModified": "03.12.2023 03:18",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Fahrtausfälle der S-Bahn-Linie S10 ",
+      "summary": "Aufgrund von Engpässen an einsatzbereitem Personal können die Fahrten der S-Bahn-Linie S10 vom 16. Oktober 2023 bis zum 08. Dezember 2023 nicht bedient werden.",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 10 Leipzig Hbf - Leipzig Miltitzer Allee</li></ul><p>Es entfallen alle Fahrten der S10. Reisende in diesem Streckenabschnitt nutzen bitte die Züge der S-Bahn-Linie S1.</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "16.10.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "03.12.2023 03:17",
       "expand": false,
       "topDisruption": false
     },
@@ -367,7 +367,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "03.12.2023 02:30",
+      "lastModified": "03.12.2023 03:18",
       "expand": true,
       "topDisruption": false
     },
@@ -421,6 +421,30 @@
       "topDisruption": false
     },
     {
+      "id": "706f69c5-48e9-47f5-bbcd-f2b8a1d50505",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Filderstadt: kein barrierefreier Zugang aufgrund von Aufzugserneuerung",
+      "summary": "Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. ",
+      "text": "<p>Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. </p><p>Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. </p><p>Die Deutsche Bahn empfiehlt mobilitätseingeschränkten Reisenden in Richtung Stuttgart die Buslinien 812, 813 oder X3 zu nehmen und an der Haltestelle Flughafen/Messe in die S-Bahn einzusteigen. </p><p>Des Weiteren empfiehlt die Deutsche Bahn mobilitätseingeschränkten Reisenden ihre Reise vorher (spätestens einen Werktag) bei der Mobilitätsservice-Zentrale (Telefon 030 65212888) anzumelden.</p>",
+      "durationBegin": "21.08.2023",
+      "durationEnd": "15.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "03.12.2023 03:17",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -440,7 +464,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "03.12.2023 02:30",
+      "lastModified": "03.12.2023 03:17",
       "expand": false,
       "topDisruption": false
     },
@@ -464,7 +488,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "03.12.2023 02:30",
+      "lastModified": "03.12.2023 03:17",
       "expand": false,
       "topDisruption": false
     },
@@ -488,7 +512,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "03.12.2023 02:30",
+      "lastModified": "03.12.2023 03:17",
       "expand": true,
       "topDisruption": false
     },
@@ -589,30 +613,6 @@
       "topDisruption": false
     },
     {
-      "id": "a30486b4-ea47-457f-b47b-d416482dc296",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen auf der Linie RB 76 Zeitz - Weißenfels",
-      "summary": "Betriebsbedingte Ausfälle aufgrund von Personalmangel.",
-      "text": "<p>Aufgrund von Personalmangel kommt es auf der Linie RB 76 (Zeitz – Weißenfels) zu Ausfällen im Zeitraum 06.11. – 09.12.23 und 11. – 29.12.23. Es verkehren weiterhin Züge im Zweistundentakt.</p><p><strong>Fahrplan 2023 (Mo-Fr):</strong></p><p>- Ausfalltage: 06. – 10., 13. – 17., 20. – 24., 27.11. – 01., 04. – 08.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Fahrplan 2024 (Mo-Fr):</strong></p><p>- Ausfalltage: 11. – 15., 18. – 22., 27. – 29.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Sa+So:</strong></p><p>- Züge verkehren planmäßig.</p><p><strong>Schienenersatzverkehr (SEV):</strong></p><p>- Zwischenhalte Theißen und Teuchern werden bedient.</p><p>- Für alle übrige Halte bitte die zweistündlich verkehrenden Züge nutzen.</p><p>*Bitte beachten: Die SEV-Haltestelle in Teuchern befindet sich am Bahnübergang, nicht direkt am Bahnhof.</p><p>Auskünfte mit Weg Beschreibungen zu den Haltestellen finden Sie unter https://www.bahnhof.de/</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>",
-      "durationBegin": "06.11.2023",
-      "durationEnd": "29.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lastModified": "03.12.2023 02:30",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "d13fb107-5c5a-48e8-9b34-0391e820c189",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -632,7 +632,31 @@
       "states": [
         "SN"
       ],
-      "lastModified": "03.12.2023 02:30",
+      "lastModified": "03.12.2023 03:18",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "a30486b4-ea47-457f-b47b-d416482dc296",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen auf der Linie RB 76 Zeitz - Weißenfels",
+      "summary": "Betriebsbedingte Ausfälle aufgrund von Personalmangel.",
+      "text": "<p>Aufgrund von Personalmangel kommt es auf der Linie RB 76 (Zeitz – Weißenfels) zu Ausfällen im Zeitraum 06.11. – 09.12.23 und 11. – 29.12.23. Es verkehren weiterhin Züge im Zweistundentakt.</p><p><strong>Fahrplan 2023 (Mo-Fr):</strong></p><p>- Ausfalltage: 06. – 10., 13. – 17., 20. – 24., 27.11. – 01., 04. – 08.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Fahrplan 2024 (Mo-Fr):</strong></p><p>- Ausfalltage: 11. – 15., 18. – 22., 27. – 29.12.23</p><p>- Ausfallende Züge Zeitz – Weißenfels: 16852, 16856, 16860, 16864, 16868, 16872, 16876, 16880</p><p>- Ausfallende Züge Weißenfels – Zeitz: 16853, 16857, 16861, 16865, 16869, 16873, 16877, 16881</p><p>- Nichtgenannte Züge fahren planmäßig im Zweistundentakt.</p><p><strong>Sa+So:</strong></p><p>- Züge verkehren planmäßig.</p><p><strong>Schienenersatzverkehr (SEV):</strong></p><p>- Zwischenhalte Theißen und Teuchern werden bedient.</p><p>- Für alle übrige Halte bitte die zweistündlich verkehrenden Züge nutzen.</p><p>*Bitte beachten: Die SEV-Haltestelle in Teuchern befindet sich am Bahnübergang, nicht direkt am Bahnhof.</p><p>Auskünfte mit Weg Beschreibungen zu den Haltestellen finden Sie unter https://www.bahnhof.de/</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>",
+      "durationBegin": "06.11.2023",
+      "durationEnd": "29.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "03.12.2023 03:17",
       "expand": false,
       "topDisruption": false
     },
@@ -870,7 +894,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "03.12.2023 02:30",
+      "lastModified": "03.12.2023 03:17",
       "expand": false,
       "topDisruption": false
     },
@@ -936,7 +960,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "03.12.2023 02:30",
+      "lastModified": "03.12.2023 03:17",
       "expand": false,
       "topDisruption": false
     },
