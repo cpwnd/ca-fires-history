@@ -55,7 +55,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "04.12.2023 18:44",
+      "lastModified": "04.12.2023 19:22",
       "expand": true,
       "topDisruption": true
     }
@@ -90,7 +90,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "04.12.2023 18:44",
+      "lastModified": "04.12.2023 19:22",
       "expand": false,
       "topDisruption": false
     },
@@ -215,7 +215,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "04.12.2023 18:44",
+      "lastModified": "04.12.2023 19:22",
       "expand": false,
       "topDisruption": false
     },
@@ -275,7 +275,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "04.12.2023 18:44",
+      "lastModified": "04.12.2023 19:22",
       "expand": false,
       "topDisruption": false
     },
@@ -299,7 +299,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "04.12.2023 18:44",
+      "lastModified": "04.12.2023 19:22",
       "expand": false,
       "topDisruption": false
     },
@@ -337,7 +337,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "04.12.2023 18:44",
+      "lastModified": "04.12.2023 19:22",
       "expand": true,
       "topDisruption": false
     },
@@ -410,7 +410,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "04.12.2023 18:44",
+      "lastModified": "04.12.2023 19:22",
       "expand": false,
       "topDisruption": false
     },
@@ -441,8 +441,32 @@
       "states": [
         "SN"
       ],
-      "lastModified": "04.12.2023 18:44",
+      "lastModified": "04.12.2023 19:22",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "d4f7957b-9d9a-4ac4-964f-3240daa317cc",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Einige Fahrten nur einteilig",
+      "summary": "Weniger Plätze auf einigen Fahrten",
+      "text": "<p>Im VVO-Dieselnetz kommt es derzeit zu Abweichungen bei der Zugbildung in der Hauptverkehrszeit. Dadurch stehen weniger Plätze in den Zügen zur Verfügung und die Züge haben eine sehr hohe Auslastung. </p><p>Betroffen sind die Fahrten der Linie S 8 Dresden – Kamenz und RB 33 im Abschnitt Ottendorf-Okrilla Süd – Dresden-Neustadt zwischen 5.30 Uhr und 9.30 Uhr sowie 13.30 Uhr und 19.30 Uhr. </p><p>Zudem ist die Fahrt der RB 72 ab Heidenau um 6.18 Uhr nach Kurort Altenberg betroffen. </p><p>Wir bitten um Entschuldiging</p>",
+      "durationBegin": "04.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "04.12.2023 19:22",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -506,6 +530,36 @@
       "topDisruption": false
     },
     {
+      "id": "bcb2af21-11bf-4cb1-a782-8ef08c505949",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Reparatur an der Oberleitung im Raum Hüfingen Mitte",
+      "summary": "Die Strecke ist leider zwischen D&ouml;ggingen und Donaueschingen gesperrt. In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen. Ein Ersatzverkehr mit Bus ist zwischen D&ouml;ggingen und Donaueschingen eingerichtet. Genaue Informationen zur Dauer der St&ouml;rung liegen leider noch nicht vor. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert. Bitte pr&uuml;fen Sie Ihre Reiseverbindung.",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>S1/S10 (Breisach / Endingen - Freiburg - Seebrugg / Villingen(Schwarzw))</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "04.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-APP",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "04.12.2023 19:22",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "a30486b4-ea47-457f-b47b-d416482dc296",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -525,7 +579,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "04.12.2023 18:44",
+      "lastModified": "04.12.2023 19:22",
       "expand": false,
       "topDisruption": false
     },
@@ -549,7 +603,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "04.12.2023 18:44",
+      "lastModified": "04.12.2023 19:22",
       "expand": false,
       "topDisruption": false
     },
@@ -787,7 +841,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "04.12.2023 18:44",
+      "lastModified": "04.12.2023 19:22",
       "expand": false,
       "topDisruption": false
     },
@@ -853,7 +907,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "04.12.2023 18:44",
+      "lastModified": "04.12.2023 19:22",
       "expand": false,
       "topDisruption": false
     },
