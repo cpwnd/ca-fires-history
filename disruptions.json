@@ -55,7 +55,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": true,
       "topDisruption": true
     }
@@ -90,7 +90,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": false,
       "topDisruption": false
     },
@@ -142,6 +142,54 @@
         "RP"
       ],
       "lastModified": "05.12.2023 09:25",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "1981f69d-0ef3-4ce1-96aa-7c035a20c49d",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Notarzteinsatz auf der Strecke zwischen Mannheim Hbf und Schwetzingen.",
+      "summary": "Ein Notarzteinsatz auf der Strecke beeintr&auml;chtigt den Bahnverkehr <strong>zwischen Mannheim Hbf und Schwetzingen. Die Strecke ist derzeit leider gesperrt.</strong> Zur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich. In der Folge kommt es jetzt zu Umleitungen, Versp&auml;tungen und Teilausf&auml;llen.&nbsp;",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<p><strong>S9</strong>&nbsp;Karlsruhe &ndash; Graben-Neudorf &ndash; Hockenheim &ndash; Mannheim &ndash; Biblis &ndash; Gro&szlig; Rohrheim</p>\n\n<p><strong>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</strong></p>\n\n<p>Bitte beachten Sie, dass die <strong>Busse ohne festen Fahrplan</strong> verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.&nbsp;</p>\n\n<p>Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "RP"
+      ],
+      "lastModified": "05.12.2023 12:57",
       "expand": false,
       "topDisruption": false
     },
@@ -215,7 +263,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": false,
       "topDisruption": false
     },
@@ -275,7 +323,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": false,
       "topDisruption": false
     },
@@ -299,7 +347,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": false,
       "topDisruption": false
     },
@@ -310,19 +358,12 @@
         "category": "weather_winter",
         "label": "Witterungsbedingte Einschränkung"
       },
-      "headline": "Bahnverkehr in Südbayern voraussichtlich bis Wochenmitte massiv beeinträchtigt",
-      "summary": "Wintereinbruch: Bahnverkehr in Südbayern voraussichtlich bis Wochenmitte massiv beeinträchtigt",
-      "text": "<p>aufgrund des Wintereinbruchs kommt es in Südbayern <strong>auch am Dienstag, 05. Dezember 2023 weiterhin zu umfangreichen Zugausfällen</strong> im Nahverkehr der Deutschen Bahn. Der Knoten München Hbf ist weiterhin nur stark eingeschränkt erreichbar.</p><p>Aufgrund der eingeschränkten Straßenverhältnisse ist ein Ersatzverkehr mit Bussen nur sehr eingeschränkt möglich.</p><p>Für Kunden, die sich über die aktuelle Verkehrslage und Auswirkungen des Wintereinbruchs in Süddeutschland auf den Bahnverkehr informieren möchten, wurde eine kostenfreie Hotline eingerichtet. Die Nummer lautet 08000-996633</p><p><strong>++ Bitte informieren Sie sich regelmäßig auf bahn.de bzw. im DB Navigator über Ihre Verbindung. ++</strong></p>",
+      "headline": "Bahnverkehr in Südbayern bis Wochenmitte massiv beeinträchtigt",
+      "summary": "Wintereinbruch: Bahnverkehr in Südbayern bis Wochenmitte massiv beeinträchtigt",
+      "text": "<p>aufgrund des Wintereinbruchs kommt es in Südbayern <strong> weiterhin zu umfangreichen Zugausfällen</strong> im Nahverkehr der Deutschen Bahn. Der Knoten München Hbf ist weiterhin nur stark eingeschränkt erreichbar.</p><p>Aufgrund der eingeschränkten Straßenverhältnisse ist ein Ersatzverkehr mit Bussen nur sehr eingeschränkt möglich.</p><p><strong>++ Bitte informieren Sie sich regelmäßig auf bahn.de bzw. im DB Navigator über Ihre Verbindung. ++</strong></p>",
       "durationBegin": "02.12.2023",
-      "durationEnd": "04.12.2023",
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2023-12-04/f6599e0a-8072-406f-b013-541c0bc82d52Karte_BY_Witterungsbedingte%2BLage_3.12.2023.png",
-          "label": "Karte_BY_Witterungsbedingte Lage_3.12.2023.png",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "durationEnd": "06.12.2023",
+      "downloads": [],
       "links": [
         {
           "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
@@ -337,7 +378,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": true,
       "topDisruption": false
     },
@@ -410,7 +451,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": false,
       "topDisruption": false
     },
@@ -434,7 +475,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": true,
       "topDisruption": false
     },
@@ -465,7 +506,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": false,
       "topDisruption": false
     },
@@ -489,7 +530,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": true,
       "topDisruption": false
     },
@@ -501,8 +542,8 @@
         "label": "Witterungsbedingte Einschränkung"
       },
       "headline": "Wintereinbruch: Bahnverkehr bei der DB Regio Baden-Württemberg auf einigen Strecken aktuell beeinträchtigt",
-      "summary": "Aufgrund von Wintereinbruch kommt es im S&uuml;den voraussichtlich bis Wochenmitte zu Versp&auml;tungen und Zugausf&auml;llen.",
-      "text": "<p><u><strong>Folgende Strecken sind gesperrt:</strong></u></p>\n\n<ul>\n\t<li><strong>IRE3 / RE5 / RB93 (Ulm - Friedrichshafen - Lindau)</strong>&nbsp;Der Zugverkehr ist zwischen Lindau und Friedrichshafen eingestellt. Ein Ersatzverkehr mit einem Bus ist im Pendelverkehr eingerichtet. Genaue Informationen zur Dauer der Sperrung liegen leider noch nicht vor.</li>\n\t<li><strong>IRE3 / RB31 ( Ulm - Friedrichshafen -Basel) </strong>Ein umgest&uuml;rzter Baum auf der Strecke beeintr&auml;chtigt den Zugverkehr zwischen Ludwigshafen(Bodensee)&nbsp;und Radolfzell. Die Strecke ist gesperrt. Auf dem kompletten Streckenabschnitt zwischen Friedrichshafen und Radolfzell kommt es aktuell zu Zugausf&auml;llen. Genaue Informationen zur Dauer der Sperrung liegen leider noch nicht vor.</li>\n\t<li><strong>RE2 (Karlsruhe - Offenburg - Konstanz)&nbsp;</strong>Streckenabschnitt&nbsp;zwischen&nbsp; Singen(Hohentwiel) und Konstanz ist gesperrt. Ein Ersatzverkehr mit Bus von Singen(Hohentwiel) nach Konstanz ist eingerichtet. Die Abfahrtszeiten der Busse finden Sie in der Reiseauskunft unter www.bahn.de. Abweichungen bei den Fahrzeiten sind m&ouml;glich.&nbsp;Abfahrt der Busse in Singen&nbsp;von Haltestelle Singen S&uuml;d/Maggi. Die Strecke ist&nbsp;voraussichtlich&nbsp;am 7. Dezember wieder befahrbar.</li>\n\t<li><strong>S1 (Breisach - Freiburg - Titisee - Seebrugg/Neustadt)</strong> Streckenabschnitt Titisee&nbsp;- Seebrugg gesperrt. Ersatzverkehr zwischen Titisee und Seebrugg ist eingerichtet.&nbsp;Die Strecke ist&nbsp;bis mindestens einschlie&szlig;lich 5. Dezember nicht befahrbar.</li>\n</ul>\n\n<p>F&uuml;r Kunden, die sich &uuml;ber die aktuelle Verkehrslage und Auswirkungen des Wintereinbruchs in S&uuml;ddeutschland auf den Bahnverkehr informieren m&ouml;chten, wurde eine <strong>kostenfreie Hotline</strong> eingerichtet. Die Nummer lautet <strong>08000-996633</strong></p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "summary": "<strong>Bahnverkehr im S&uuml;den weiter beeintr&auml;chtigt.</strong>",
+      "text": "<p><u><strong>Folgende Strecken sind gesperrt:</strong></u></p>\n\n<ul>\n\t<li><strong>IRE3 / RE5 / RB93 (Ulm - Friedrichshafen - Lindau)</strong>&nbsp;Der Zugverkehr ist zwischen Lindau und Friedrichshafen eingestellt. Ein Ersatzverkehr mit einem Bus ist im Pendelverkehr eingerichtet. Genaue Informationen zur Dauer der Sperrung liegen leider noch nicht vor.</li>\n\t<li><strong>IRE3 / RB31 ( Ulm - Friedrichshafen -Basel) </strong>Der umgest&uuml;rzter Baum auf der Strecke &nbsp;zwischen Ludwigshafen(Bodensee) und Radolfzell ist beseitigt. Die Streckensperrung ist aufgehoben. In der Folge sind noch Versp&auml;tungen und Teilausf&auml;lle m&ouml;glich. Bitte pr&uuml;fen Sie Ihre Reiseverbindung.</li>\n\t<li><strong>RE2 (Karlsruhe - Offenburg - Konstanz)&nbsp;</strong>Streckenabschnitt&nbsp;zwischen&nbsp; Singen(Hohentwiel) und Konstanz ist gesperrt. Ein Ersatzverkehr mit Bus von Singen(Hohentwiel) nach Konstanz ist eingerichtet. Die Abfahrtszeiten der Busse finden Sie in der Reiseauskunft unter www.bahn.de. Abweichungen bei den Fahrzeiten sind m&ouml;glich.&nbsp;Abfahrt der Busse in Singen&nbsp;von Haltestelle Singen S&uuml;d/Maggi. Die Strecke ist&nbsp;voraussichtlich&nbsp;am 7. Dezember wieder befahrbar.</li>\n\t<li><strong>S1 (Breisach - Freiburg - Titisee - Seebrugg/Neustadt)</strong> Streckenabschnitt Titisee&nbsp;- Seebrugg gesperrt. Ersatzverkehr zwischen Titisee und Seebrugg ist eingerichtet.&nbsp;Die Strecke ist&nbsp;bis mindestens einschlie&szlig;lich 5. Dezember nicht befahrbar.</li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
       "durationBegin": "01.12.2023",
       "durationEnd": "07.12.2023",
       "downloads": [],
@@ -513,7 +554,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "05.12.2023 11:48",
+      "lastModified": "05.12.2023 13:21",
       "expand": false,
       "topDisruption": false
     },
@@ -566,7 +607,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": false,
       "topDisruption": false
     },
@@ -590,60 +631,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 12:45",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "bcb2af21-11bf-4cb1-a782-8ef08c505949",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Reparatur an der Oberleitung im Raum Hüfingen Mitte",
-      "summary": "Die Strecke zwischen D&ouml;ggingen und Villingen bleibt voraussichtlich bis 06.12.23 unterbrochen. Grund hierf&uuml;r ist ein Schaden an der Oberleitung. In der Folge kommt zu Versp&auml;tungen und Teilausf&auml;llen. Die Z&uuml;ge aus Richtung Freiburg enden und beginnen in D&ouml;ggingen. Zwischen D&ouml;ggingen und Donaueschingen haben wir einen Ersatzverkehr mit einem Bus f&uuml;r Sie eingerichtet. Reisende mit Ziel bzw. Umstieg in Villingen(Schwarzw) benutzen bitte ab Donaueschingen die Z&uuml;ge der SWE und die Lienie RE2.&nbsp;",
-      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>S1/S10 (Breisach / Endingen - Freiburg - Seebrugg / Villingen(Schwarzw))</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
-      "durationBegin": "04.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-APP",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "05.12.2023 12:30",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "e421e8c2-2d38-4cae-87c5-1f488d8f6ff8",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Fahrzeugverfügbarkeit"
-      },
-      "headline": "Beeinträchtigungen auf der Strecke Herrenberg - Tübingen - Bad Urach",
-      "text": "<p><u><strong>Betroffene Strecke:</strong></u></p>\n\n<ul>\n\t<li><strong>Herrenberg - T&uuml;bingen - Bad Urach</strong></li>\n</ul>\n\n<p>Zugausf&auml;lle am 5.12.2023 zwischen Herrenberg, T&uuml;bingen und Bad Urach. Grund: Fahrzeugengpass. Bitte auf die davor- und danach fahrenden Z&uuml;ge ausweichen. Ersatzverkehr im Pendelbetrieb mit Bus ist ab 9 Uhr ist eingerichtet.</p>\n\n<p>Es ist ein Ersatzverkehr von T&uuml;bingen nach Herrenberg im Pendelbetrieb eingerichtet.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
-      "durationBegin": "05.12.2023",
-      "durationEnd": "05.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "05.12.2023 12:18",
+      "lastModified": "05.12.2023 13:34",
       "expand": false,
       "topDisruption": false
     },
@@ -699,7 +687,60 @@
       "states": [
         "SL"
       ],
-      "lastModified": "01.12.2023 12:29",
+      "lastModified": "05.12.2023 12:58",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "bcb2af21-11bf-4cb1-a782-8ef08c505949",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Reparatur an der Oberleitung im Raum Hüfingen Mitte",
+      "summary": "Die Strecke zwischen D&ouml;ggingen und Villingen bleibt voraussichtlich bis 06.12.23 unterbrochen. Grund hierf&uuml;r ist ein Schaden an der Oberleitung. In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen. Die Z&uuml;ge aus Richtung Freiburg enden und beginnen in D&ouml;ggingen. Zwischen D&ouml;ggingen und Donaueschingen haben wir einen Ersatzverkehr mit einem Bus f&uuml;r Sie eingerichtet. Reisende mit Ziel bzw. Umstieg in Villingen(Schwarzw) benutzen bitte ab Donaueschingen die Z&uuml;ge der SWE und die Linie RE2.&nbsp;",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>S1/S10 (Breisach / Endingen - Freiburg - Seebrugg / Villingen(Schwarzw))</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "04.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-APP",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "05.12.2023 12:49",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "e421e8c2-2d38-4cae-87c5-1f488d8f6ff8",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Fahrzeugverfügbarkeit"
+      },
+      "headline": "Beeinträchtigungen auf der Strecke Herrenberg - Tübingen - Bad Urach",
+      "text": "<p><u><strong>Betroffene Strecke:</strong></u></p>\n\n<ul>\n\t<li><strong>Herrenberg - T&uuml;bingen - Bad Urach</strong></li>\n</ul>\n\n<p>Zugausf&auml;lle am 5.12.2023 zwischen Herrenberg, T&uuml;bingen und Bad Urach. Grund: Fahrzeugengpass. Bitte auf die davor- und danach fahrenden Z&uuml;ge ausweichen. Ersatzverkehr im Pendelbetrieb mit Bus ist ab 9 Uhr ist eingerichtet.</p>\n\n<p>Es ist ein Ersatzverkehr von T&uuml;bingen nach Herrenberg im Pendelbetrieb eingerichtet.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "05.12.2023",
+      "durationEnd": "05.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "05.12.2023 12:18",
       "expand": false,
       "topDisruption": false
     },
@@ -881,7 +922,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": false,
       "topDisruption": false
     },
@@ -947,7 +988,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "05.12.2023 12:45",
+      "lastModified": "05.12.2023 13:34",
       "expand": false,
       "topDisruption": false
     },
