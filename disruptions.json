@@ -55,7 +55,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": true,
       "topDisruption": true
     }
@@ -90,7 +90,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -215,7 +215,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -275,7 +275,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -299,7 +299,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -337,7 +337,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": true,
       "topDisruption": false
     },
@@ -410,7 +410,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -434,7 +434,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": true,
       "topDisruption": false
     },
@@ -465,7 +465,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -489,7 +489,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": true,
       "topDisruption": false
     },
@@ -566,7 +566,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -590,7 +590,37 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "bcb2af21-11bf-4cb1-a782-8ef08c505949",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Reparatur an der Oberleitung im Raum Hüfingen Mitte",
+      "summary": "Die Strecke zwischen D&ouml;ggingen und Villingen bleibt voraussichtlich bis 06.12.23 unterbrochen. Grund hierf&uuml;r ist ein Schaden an der Oberleitung. In der Folge kommt zu Versp&auml;tungen und Teilausf&auml;llen. Die Z&uuml;ge aus Richtung Freiburg enden und beginnen in D&ouml;ggingen. Zwischen D&ouml;ggingen und Donaueschingen haben wir einen Ersatzverkehr mit einem Bus f&uuml;r Sie eingerichtet. Reisende mit Ziel bzw. Umstieg in Villingen(Schwarzw) benutzen bitte ab Donaueschingen die Z&uuml;ge der SWE und die Lienie RE2.&nbsp;",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>S1/S10 (Breisach / Endingen - Freiburg - Seebrugg / Villingen(Schwarzw))</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "04.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-APP",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "05.12.2023 12:30",
       "expand": false,
       "topDisruption": false
     },
@@ -614,36 +644,6 @@
         "BW"
       ],
       "lastModified": "05.12.2023 12:18",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "bcb2af21-11bf-4cb1-a782-8ef08c505949",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Streckensperrung zwischen Neustadt(Schwarzwald) und Donaueschingen",
-      "summary": "Oberleitungssch&auml;den und B&auml;ume im Gleis im im Raum H&uuml;fingen Mitte verz&ouml;gert den Bahnverkehr. Die Strecke ist leider zwischen Neustadt(Schwarzwald) und Donaueschingen gesperrt. In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\nZ&uuml;ge aus Freiburg wenden voraussichtlich bis 12:00 Uhr in Neustadt(Schwarzwald) wieder zur&uuml;ck nach Freiburg. Ab 12:00 Uhr ist es geplannt, dass die Z&uuml;ge bis D&ouml;ggingen weiterfahren k&ouml;nnen und ab D&ouml;ggingen wieder zur&uuml;ck nach Freiburg fahren. Die Strecke zwischen D&ouml;ggingen und Villingen kann heute nicht mehr bedient werden.<br />\nWir haben einen Ersatzverkehr mit einem Bus zun&auml;chst nur zwischen D&ouml;ggingen und Donaueschingen f&uuml;r Sie eingerichtet. &nbsp;Zwischen D&ouml;ggingen und Neustadt weichen Sie bitte auf die S&uuml;dbadenbus-Verbindungen &uuml;ber Bonndorf im Schwarzwald aus. Genaue Informationen zur Dauer der St&ouml;rung liegen leider noch nicht vor. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.&nbsp;",
-      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>S1/S10 (Breisach / Endingen - Freiburg - Seebrugg / Villingen(Schwarzw))</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
-      "durationBegin": "04.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-APP",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "05.12.2023 10:38",
       "expand": false,
       "topDisruption": false
     },
@@ -881,7 +881,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -947,7 +947,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "05.12.2023 12:27",
+      "lastModified": "05.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
