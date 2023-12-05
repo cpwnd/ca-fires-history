@@ -55,7 +55,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:44",
       "expand": true,
       "topDisruption": true
     }
@@ -90,7 +90,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:44",
       "expand": false,
       "topDisruption": false
     },
@@ -215,7 +215,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:43",
       "expand": false,
       "topDisruption": false
     },
@@ -256,30 +256,6 @@
       "topDisruption": false
     },
     {
-      "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Fahrtausfälle der S-Bahn-Linie S10 ",
-      "summary": "Aufgrund von Engpässen an einsatzbereitem Personal können die Fahrten der S-Bahn-Linie S10 vom 16. Oktober 2023 bis zum 08. Dezember 2023 nicht bedient werden.",
-      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 10 Leipzig Hbf - Leipzig Miltitzer Allee</li></ul><p>Es entfallen alle Fahrten der S10. Reisende in diesem Streckenabschnitt nutzen bitte die Züge der S-Bahn-Linie S1.</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "16.10.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lastModified": "05.12.2023 10:25",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -299,7 +275,31 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:44",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Fahrtausfälle der S-Bahn-Linie S10 ",
+      "summary": "Aufgrund von Engpässen an einsatzbereitem Personal können die Fahrten der S-Bahn-Linie S10 vom 16. Oktober 2023 bis zum 08. Dezember 2023 nicht bedient werden.",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 10 Leipzig Hbf - Leipzig Miltitzer Allee</li></ul><p>Es entfallen alle Fahrten der S10. Reisende in diesem Streckenabschnitt nutzen bitte die Züge der S-Bahn-Linie S1.</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "16.10.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "05.12.2023 10:43",
       "expand": false,
       "topDisruption": false
     },
@@ -337,7 +337,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:44",
       "expand": true,
       "topDisruption": false
     },
@@ -410,7 +410,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:44",
       "expand": false,
       "topDisruption": false
     },
@@ -434,7 +434,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:44",
       "expand": true,
       "topDisruption": false
     },
@@ -465,7 +465,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:44",
       "expand": false,
       "topDisruption": false
     },
@@ -478,7 +478,7 @@
       },
       "headline": "Einschränkungen durch aktuelle Witterung",
       "summary": "Durch die anhaltende Witterung kommt es aktuell auf allen Linien zu Einschränkungen und Ausfällen. Die neuesten Informationen, finden Sie hier.",
-      "text": "<p>S1: Fährt aktuell zwischen Wedel / Blankenese und Airport. Von und nach Poppenbüttel muss in Ohlsdorf umgestiegen werden.</p><p>S3/S31: Aus Richtung Pinneberg / Elbgaustraße aktuell kein Halt in Altona möglich. In diese Richtung fährt die S3 als S31 über Sternschanze und Dammtor.</p><p>Aus Richtung Stade / Neugraben / Harburg fährt die S3 aktuell ihren normalen Weg über Jungfernstieg, Landungsbrücken und Altona.</p><p>Hinweis: Zwischen Hauptbahnhof und Harburg fahren die S-Bahnen ca. alle 10 Minuten.</p><p>S21: Fährt aktuell mit Verspätungen aber auf ihrem normalen Weg.</p><p>Auf allen aktuell noch fahrenden Linien kommt es zu großen Verspätungen und Abweichungen vom Fahrplan.</p>",
+      "text": "<p>S1: Fährt aktuell mit Verspätung, aber wieder auf ihrem normalen Weg nach Airport und Poppenbüttel.</p><p>S3/S31: Aus Richtung Pinneberg / Elbgaustraße aktuell kein Halt in Altona möglich. In diese Richtung fährt die S3 als S31 über Sternschanze und Dammtor.</p><p>Aus Richtung Stade / Neugraben / Harburg fährt die S3 aktuell ihren normalen Weg über Jungfernstieg, Landungsbrücken und Altona.</p><p>Hinweis: Zwischen Hauptbahnhof und Harburg fahren die S-Bahnen ca. alle 10 Minuten.</p><p>S21: Fährt aktuell mit Verspätungen, aber auf ihrem normalen Weg.</p><p>Auf allen aktuell fahrenden Linien kommt es noch zu großen Verspätungen und Abweichungen vom Fahrplan.</p>",
       "durationBegin": "05.12.2023",
       "durationEnd": "05.12.2023",
       "downloads": [],
@@ -489,7 +489,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:44",
       "expand": true,
       "topDisruption": false
     },
@@ -566,7 +566,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:44",
       "expand": false,
       "topDisruption": false
     },
@@ -590,7 +590,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:44",
       "expand": false,
       "topDisruption": false
     },
@@ -602,7 +602,7 @@
         "label": "Einschränkungen auf der Strecke"
       },
       "headline": "Streckensperrung zwischen Neustadt(Schwarzwald) und Donaueschingen",
-      "summary": "Oberleitungssch&auml;den und B&auml;ume im Gleis im im Raum H&uuml;fingen Mitte verz&ouml;gert den Bahnverkehr. Die Strecke ist leider zwischen Neustadt(Schwarzwald) und Donaueschingen gesperrt. In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\nZ&uuml;ge aus Freiburg wenden in Neustadt(Schwarzwald) wieder zur&uuml;ck nach Freiburg.<br />\nWir haben einen Ersatzverkehr mit einem Bus zun&auml;chst nur zwischen D&ouml;ggingen und Donaueschingen f&uuml;r Sie eingerichtet. &nbsp;Zwischen D&ouml;ggingen und Neustadt weichen Sie bitte auf die S&uuml;dbadenbus-Verbindungen &uuml;ber Bonndorf im Schwarzwald aus. Genaue Informationen zur Dauer der St&ouml;rung liegen leider noch nicht vor. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.&nbsp;",
+      "summary": "Oberleitungssch&auml;den und B&auml;ume im Gleis im im Raum H&uuml;fingen Mitte verz&ouml;gert den Bahnverkehr. Die Strecke ist leider zwischen Neustadt(Schwarzwald) und Donaueschingen gesperrt. In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\nZ&uuml;ge aus Freiburg wenden voraussichtlich bis 12:00 Uhr in Neustadt(Schwarzwald) wieder zur&uuml;ck nach Freiburg. Ab 12:00 Uhr ist es geplannt, dass die Z&uuml;ge bis D&ouml;ggingen weiterfahren k&ouml;nnen und ab D&ouml;ggingen wieder zur&uuml;ck nach Freiburg fahren. Die Strecke zwischen D&ouml;ggingen und Villingen kann heute nicht mehr bedient werden.<br />\nWir haben einen Ersatzverkehr mit einem Bus zun&auml;chst nur zwischen D&ouml;ggingen und Donaueschingen f&uuml;r Sie eingerichtet. &nbsp;Zwischen D&ouml;ggingen und Neustadt weichen Sie bitte auf die S&uuml;dbadenbus-Verbindungen &uuml;ber Bonndorf im Schwarzwald aus. Genaue Informationen zur Dauer der St&ouml;rung liegen leider noch nicht vor. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.&nbsp;",
       "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>S1/S10 (Breisach / Endingen - Freiburg - Seebrugg / Villingen(Schwarzw))</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
       "durationBegin": "04.12.2023",
       "downloads": [],
@@ -620,7 +620,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "05.12.2023 08:36",
+      "lastModified": "05.12.2023 10:38",
       "expand": false,
       "topDisruption": false
     },
@@ -881,7 +881,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:43",
       "expand": false,
       "topDisruption": false
     },
@@ -947,7 +947,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "05.12.2023 10:25",
+      "lastModified": "05.12.2023 10:44",
       "expand": false,
       "topDisruption": false
     },
