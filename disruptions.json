@@ -55,7 +55,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:13",
       "expand": true,
       "topDisruption": true
     }
@@ -90,7 +90,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:13",
       "expand": false,
       "topDisruption": false
     },
@@ -263,7 +263,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:12",
       "expand": false,
       "topDisruption": false
     },
@@ -304,30 +304,6 @@
       "topDisruption": false
     },
     {
-      "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Fahrtausfälle der S-Bahn-Linie S10 ",
-      "summary": "Aufgrund von Engpässen an einsatzbereitem Personal können die Fahrten der S-Bahn-Linie S10 vom 16. Oktober 2023 bis zum 08. Dezember 2023 nicht bedient werden.",
-      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 10 Leipzig Hbf - Leipzig Miltitzer Allee</li></ul><p>Es entfallen alle Fahrten der S10. Reisende in diesem Streckenabschnitt nutzen bitte die Züge der S-Bahn-Linie S1.</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "16.10.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lastModified": "05.12.2023 17:46",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -347,7 +323,31 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:13",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Fahrtausfälle der S-Bahn-Linie S10 ",
+      "summary": "Aufgrund von Engpässen an einsatzbereitem Personal können die Fahrten der S-Bahn-Linie S10 vom 16. Oktober 2023 bis zum 08. Dezember 2023 nicht bedient werden.",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 10 Leipzig Hbf - Leipzig Miltitzer Allee</li></ul><p>Es entfallen alle Fahrten der S10. Reisende in diesem Streckenabschnitt nutzen bitte die Züge der S-Bahn-Linie S1.</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "16.10.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "05.12.2023 18:12",
       "expand": false,
       "topDisruption": false
     },
@@ -378,7 +378,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:13",
       "expand": true,
       "topDisruption": false
     },
@@ -451,7 +451,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:13",
       "expand": false,
       "topDisruption": false
     },
@@ -475,7 +475,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:13",
       "expand": true,
       "topDisruption": false
     },
@@ -506,7 +506,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:13",
       "expand": false,
       "topDisruption": false
     },
@@ -519,7 +519,7 @@
       },
       "headline": "Einschränkungen durch aktuelle Witterung",
       "summary": "Durch die anhaltende Witterung kommt es aktuell auf allen Linien zu Einschränkungen und Ausfällen. Die neuesten Informationen, finden Sie hier.",
-      "text": "<p>S1: Fährt regulär über Jungfernstieg, Landungsbrücken und Altona..</p><p>S2: Fährt aktuell nicht. Zwischen Bergedorf und Hauptbahnhof bitte die S21, zwischen Hauptbahnhof und Altona die S1 in Richtung Wedel nutzen.</p><p>S3: Fährt aktuell als S31 über Holstenstraße, Sternschanze und Dammtor.</p><p>Fahrgäste mit den Zielen Jungfernstieg, Stadthausbrücke, Landungsbrücken, Reeperbahn, Königstraße oder Altona bitte die S1 ab Hauptbahnhof nutzen.</p><p>Außerdem besteht die Möglichkeit die Station Landungsbrücken mit der U3 und die Station Jungfernstieg mit der U1 zu erreichen.</p><p>Die Linie S3 fährt ab Neugraben wieder weiter bis Buxtehude und Stade. Der Feuerwehreinsatz ist beendet.</p><p>S11: Fährt aktuell nicht. Bitte zwischen Poppenbüttel und Hauptbahnhof sowie Altona und Blankenese die S1, zwischen Hauptbahnhof und Holstenstraße die S21 und S3 (als S31) nutzen.</p><p>S21: Fährt regulär auf dem normalen Linienweg, über Dammtor und Sternschanze.</p><p>S31: Fährt aktuell noch unregelmäßig, zwischen Neugraben und Hauptbahnhof.</p><p>Auf allen aktuell fahrenden Linien kommt es nach wie vor zu Verspätungen und teilweisen Ausfällen. Bitte im Innenstadtbereich weiterhin auch auf die U-Bahnen ausweichen.</p>",
+      "text": "<p>S1: Fährt regulär über Jungfernstieg, Landungsbrücken und Altona..</p><p>S2: Fährt aktuell nicht. Zwischen Bergedorf und Hauptbahnhof bitte die S21, zwischen Hauptbahnhof und Altona die S1 in Richtung Wedel nutzen.</p><p>S3: Fährt aktuell als S31 über Holstenstraße, Sternschanze und Dammtor.</p><p>Fahrgäste mit den Zielen Jungfernstieg, Stadthausbrücke, Landungsbrücken, Reeperbahn, Königstraße oder Altona bitte die S1 ab Hauptbahnhof nutzen.</p><p>Außerdem besteht die Möglichkeit die Station Landungsbrücken mit der U3 und die Station Jungfernstieg mit der U1 zu erreichen.</p><p>S11: Fährt aktuell nicht. Bitte zwischen Poppenbüttel und Hauptbahnhof sowie Altona und Blankenese die S1, zwischen Hauptbahnhof und Holstenstraße die S21 und S3 (als S31) nutzen.</p><p>S21: Fährt regulär auf dem normalen Linienweg, über Dammtor und Sternschanze.</p><p>S31: Fährt aktuell noch unregelmäßig, zwischen Neugraben und Hauptbahnhof.</p><p>Auf allen aktuell fahrenden Linien kommt es nach wie vor zu Verspätungen und teilweisen Ausfällen. Bitte im Innenstadtbereich weiterhin auch auf die U-Bahnen ausweichen.</p>",
       "durationBegin": "05.12.2023",
       "durationEnd": "05.12.2023",
       "downloads": [],
@@ -530,7 +530,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:13",
       "expand": true,
       "topDisruption": false
     },
@@ -607,7 +607,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:13",
       "expand": false,
       "topDisruption": false
     },
@@ -631,7 +631,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:13",
       "expand": false,
       "topDisruption": false
     },
@@ -922,7 +922,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:12",
       "expand": false,
       "topDisruption": false
     },
@@ -988,7 +988,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "05.12.2023 17:46",
+      "lastModified": "05.12.2023 18:12",
       "expand": false,
       "topDisruption": false
     },
