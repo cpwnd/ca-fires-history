@@ -55,7 +55,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "05.12.2023 14:30",
+      "lastModified": "05.12.2023 14:49",
       "expand": true,
       "topDisruption": true
     }
@@ -90,7 +90,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "05.12.2023 14:30",
+      "lastModified": "05.12.2023 14:49",
       "expand": false,
       "topDisruption": false
     },
@@ -263,7 +263,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "05.12.2023 14:30",
+      "lastModified": "05.12.2023 14:49",
       "expand": false,
       "topDisruption": false
     },
@@ -323,7 +323,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 14:30",
+      "lastModified": "05.12.2023 14:49",
       "expand": false,
       "topDisruption": false
     },
@@ -347,7 +347,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 14:30",
+      "lastModified": "05.12.2023 14:49",
       "expand": false,
       "topDisruption": false
     },
@@ -378,7 +378,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "05.12.2023 14:31",
+      "lastModified": "05.12.2023 14:49",
       "expand": true,
       "topDisruption": false
     },
@@ -432,30 +432,6 @@
       "topDisruption": false
     },
     {
-      "id": "e90ed666-29bf-4a48-8a1f-d9a911457cc2",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingte Beeinträchtigungen"
-      },
-      "headline": "Einschränkungen durch aktuelle Witterung und einen Feuerwehreinsatz",
-      "summary": "Durch die anhaltende Witterung sowie einem Feuerwehreinsatz kommt es aktuell auf allen Linien zu Einschränkungen und Ausfällen. Die neuesten Informationen, finden Sie hier.",
-      "text": "<p>S1 (Airport/Poppenbüttel - Jungfernstieg - Wedel): Fährt regulär über Jungfernstieg, Landungsbrücken und Altona.</p><p>S2 (Altona - Jungfernstieg - Bergedorf): Fährt aktuell nicht. Zwischen Bergedorf und Hauptbahnhof bitte die S21, zwischen Hauptbahnhof und Altona die S1 in Richtung Wedel nutzen.</p><p>S3 (Pinneberg - Jungfernstieg - Stade): Fährt aktuell als S31 über Holstenstraße, Sternschanze (Messe) und Dammtor (Messe / CCH). Die Halte in Altona, Königstraße, Reeperbahn, Landungsbrücken, Stadthausbrücke und Jungfernstieg entfallen. Bitte mit genannten Zielen ab Hauptbahnhof auf die S1 in Richtung Wedel oder ab Dammtor (Stephansplatz) sowie Sternschanze auf die U1 und U3 ausweichen. Der Abschnitt Neugraben - Fischbek - Neu Wulmstorf - Buxtehude ist zudem wegen eines Feuerwehreinsatzes gesperrt. Ein Ersatz mit Bussen wurde angefordert.</p><p>S11 (Poppenbüttel - Dammtor - Blankenese): Fährt aktuell nicht. Bitte zwischen Poppenbüttel und Hauptbahnhof sowie Altona und Blankenese die S1, zwischen Hauptbahnhof und Holstenstraße die S21 und S3 (als S31) nutzen.</p><p>S21 (Elbgaustraße - Dammtor - Aumühle): Fährt regulär über Sternschanze (Messe) und Dammtor (Messe / CCH).</p><p>S31 (Neugraben - Dammtor - Altona): Fährt aktuell nicht. Bitte zwischen Neugraben und Holstenstraße die Züge Richtung Pinneberg; nach Altona ab Hauptbahnhof die S1 in Richtung Wedel nutzen.</p><p>Auf allen aktuell fahrenden Linien kommt es nach wie vor zu Verspätungen und teilweise Ausfällen. Bitte im Innenstadtbereich weiterhin auch auf die U-Bahnen ausweichen.</p>",
-      "durationBegin": "05.12.2023",
-      "durationEnd": "05.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lastModified": "05.12.2023 14:31",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -475,7 +451,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 14:30",
+      "lastModified": "05.12.2023 14:49",
       "expand": false,
       "topDisruption": false
     },
@@ -499,7 +475,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 14:30",
+      "lastModified": "05.12.2023 14:49",
       "expand": true,
       "topDisruption": false
     },
@@ -530,8 +506,32 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 14:30",
+      "lastModified": "05.12.2023 14:49",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "e90ed666-29bf-4a48-8a1f-d9a911457cc2",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "Einschränkungen durch aktuelle Witterung und einen Feuerwehreinsatz",
+      "summary": "Durch die anhaltende Witterung sowie einem Feuerwehreinsatz kommt es aktuell auf allen Linien zu Einschränkungen und Ausfällen. Die neuesten Informationen, finden Sie hier.",
+      "text": "<p>S1 (Airport/Poppenbüttel - Jungfernstieg - Wedel): Fährt regulär über Jungfernstieg, Landungsbrücken und Altona.</p><p>S2 (Altona - Jungfernstieg - Bergedorf): Fährt aktuell nicht. Zwischen Bergedorf und Hauptbahnhof bitte die S21, zwischen Hauptbahnhof und Altona die S1 in Richtung Wedel nutzen.</p><p>S3 (Pinneberg - Jungfernstieg - Stade): Fährt aktuell als S31 über Holstenstraße, Sternschanze (Messe) und Dammtor (Messe / CCH). Die Halte in Altona, Königstraße, Reeperbahn, Landungsbrücken, Stadthausbrücke und Jungfernstieg entfallen. Bitte mit genannten Zielen ab Hauptbahnhof auf die S1 in Richtung Wedel oder ab Dammtor (Stephansplatz) sowie Sternschanze auf die U1 und U3 ausweichen. Der Abschnitt Neugraben - Fischbek - Neu Wulmstorf - Buxtehude ist zudem wegen eines Feuerwehreinsatzes gesperrt. Ein Ersatz mit Bussen wurde angefordert.</p><p>S11 (Poppenbüttel - Dammtor - Blankenese): Fährt aktuell nicht. Bitte zwischen Poppenbüttel und Hauptbahnhof sowie Altona und Blankenese die S1, zwischen Hauptbahnhof und Holstenstraße die S21 und S3 (als S31) nutzen.</p><p>S21 (Elbgaustraße - Dammtor - Aumühle): Fährt regulär über Sternschanze (Messe) und Dammtor (Messe / CCH).</p><p>S31 (Neugraben - Dammtor - Altona): Fährt aktuell nicht. Bitte zwischen Neugraben und Holstenstraße die Züge Richtung Pinneberg; nach Altona ab Hauptbahnhof die S1 in Richtung Wedel nutzen.</p><p>Auf allen aktuell fahrenden Linien kommt es nach wie vor zu Verspätungen und teilweise Ausfällen. Bitte im Innenstadtbereich weiterhin auch auf die U-Bahnen ausweichen.</p>",
+      "durationBegin": "05.12.2023",
+      "durationEnd": "05.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lastModified": "05.12.2023 14:49",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -607,7 +607,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 14:30",
+      "lastModified": "05.12.2023 14:49",
       "expand": false,
       "topDisruption": false
     },
@@ -631,7 +631,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 14:30",
+      "lastModified": "05.12.2023 14:49",
       "expand": false,
       "topDisruption": false
     },
@@ -922,7 +922,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 14:30",
+      "lastModified": "05.12.2023 14:49",
       "expand": false,
       "topDisruption": false
     },
@@ -988,7 +988,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "05.12.2023 14:30",
+      "lastModified": "05.12.2023 14:49",
       "expand": false,
       "topDisruption": false
     },
