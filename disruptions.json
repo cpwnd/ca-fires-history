@@ -55,7 +55,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": true,
       "topDisruption": true
     }
@@ -90,7 +90,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": false,
       "topDisruption": false
     },
@@ -311,7 +311,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": false,
       "topDisruption": false
     },
@@ -371,7 +371,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": false,
       "topDisruption": false
     },
@@ -395,7 +395,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": false,
       "topDisruption": false
     },
@@ -433,7 +433,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": true,
       "topDisruption": false
     },
@@ -487,6 +487,30 @@
       "topDisruption": false
     },
     {
+      "id": "e90ed666-29bf-4a48-8a1f-d9a911457cc2",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "Einschränkungen durch aktuelle Witterung",
+      "summary": "Durch die anhaltende Witterung kommt es aktuell auf allen Linien zu Einschränkungen und Ausfällen. Die neuesten Informationen, finden Sie hier.",
+      "text": "<p>S1: Fährt aktuell zwischen Wedel / Blankenese und Airport. Von und nach Poppenbüttel muss in Ohlsdorf umgestiegen werden.</p><p>S3/S31: Aus Richtung Pinneberg / Elbgaustraße aktuell kein Halt in Altona möglich. In diese Richtung fährt die S3 als S31 über Sternschanze und Dammtor.</p><p>Aus Richtung Stade / Neugraben / Harburg fährt die S3 aktuell ihren normalen Weg über Jungfernstieg, Landungsbrücken und Altona.</p><p>Hinweis: Zwischen Hauptbahnhof und Harburg fahren die S-Bahnen ca. alle 10 Minuten.</p><p>S21: Fährt aktuell mit Verspätungen aber auf ihrem normalen Weg.</p><p>Auf allen aktuell noch fahrenden Linien kommt es zu großen Verspätungen und Abweichungen vom Fahrplan.</p>",
+      "durationBegin": "05.12.2023",
+      "durationEnd": "05.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lastModified": "05.12.2023 09:48",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "ff7eabfd-c6a3-4ed7-95ed-dbe45a347fea",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -506,7 +530,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": false,
       "topDisruption": false
     },
@@ -530,7 +554,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": true,
       "topDisruption": false
     },
@@ -561,32 +585,8 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "e90ed666-29bf-4a48-8a1f-d9a911457cc2",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingte Beeinträchtigungen"
-      },
-      "headline": "Einschränkungen durch aktuelle Witterung",
-      "summary": "Durch die anhaltende Witterung kommt es aktuell auf allen Linien zu Einschränkungen und Ausfällen. Die neuesten Informationen, finden Sie hier.",
-      "text": "<p>S1: Fährt aktuell zwischen Wedel / Blankenese und Airport. Von und nach Poppenbüttel muss in Ohlsdorf umgestiegen werden.</p><p>S3/S31: Aus Richtung Pinneberg / Elbgaustraße aktuell kein Halt in Altona möglich. In diese Richtung fährt die S3 als S31 über Sternschanze und Dammtor.</p><p>Aus Richtung Stade / Neugraben / Harburg fährt die S3 aktuell ihren normalen Weg über Jungfernstieg, Landungsbrücken und Altona.</p><p>Hinweis: Zwischen Hauptbahnhof und Harburg fahren die S-Bahnen ca. alle 10 Minuten.</p><p>S21: Fährt aktuell mit Verspätungen aber auf ihrem normalen Weg.</p><p>Auf allen aktuell noch fahrenden Linien kommt es zu großen Verspätungen und Abweichungen vom Fahrplan.</p>",
-      "durationBegin": "05.12.2023",
-      "durationEnd": "05.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lastModified": "05.12.2023 09:33",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -662,7 +662,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": false,
       "topDisruption": false
     },
@@ -686,7 +686,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": false,
       "topDisruption": false
     },
@@ -977,7 +977,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": false,
       "topDisruption": false
     },
@@ -1043,7 +1043,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "05.12.2023 09:33",
+      "lastModified": "05.12.2023 09:47",
       "expand": false,
       "topDisruption": false
     },
