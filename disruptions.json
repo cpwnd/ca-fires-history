@@ -7,14 +7,14 @@
         "category": "weather_winter",
         "label": "Witterungsbedingte Einschränkung"
       },
-      "headline": "Wintereinbruch: Bahnverkehr im Süden bis Mittwochabend weiterhin stark beeinträchtigt",
-      "summary": "Aufgrund von Wintereinbruch kommt es bis Mittwochabend im Süden zu Verspätungen und Zugausfällen. Von Reisen über München hinaus raten wir ab.",
-      "text": "<p><strong>Gegenwärtig ist der Großraum München Hbf nur stark eingeschränkt anfahrbar. Es verkehren daher nur wenige Fernverkehrszüge von und nach München. Wir rechnen dementsprechend mit einer sehr hohen Auslastung der Züge und empfehlen weiterhin Reisen von und nach München zu verschieben.</strong></p><p>Auf den Strecken zwischen Stuttgart und Singen sowie zwischen München und Salzburg wurde der Verkehr wieder aufgenommen.</p><p><strong>Darüber hinaus verkehrt auch am Mittwoch, 06.12.2023 kein Fernverkehr der DB auf folgenden Strecken:</strong></p><ul><li>München – Innsbruck</li><li>München – Lindau/Zürich</li></ul><p><strong>Bitte beachten Sie: </strong></p><p>Auch in anderen Teilen von Süddeutschland kann es weiterhin zu witterungsbedingten Zugausfällen und Verspätungen kommen.</p><p><strong>Regelung für vom Wintereinbruch betroffene Reisende: </strong></p><p>Alle Fahrgäste, die ihre <strong>vom 02.12.2023 bis einschließlich 05.12.2023 in Süddeutschland</strong> geplante Reise aufgrund des Wintereinbruchs in Süddeutschland verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.&nbsp;</p><p>Bitte beachten Sie: Am 06.12.2023 sind die Züge bereits sehr hoch ausgelastet. Daher empfehlen wir unseren Fahrgästen, ihre Reise – wenn möglich – in den Zeitraum ab 07.12.2023 zu legen.</p><p>Daneben gelten selbstverständlich die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de oder im&nbsp;DB Navigator.</p>",
+      "headline": "Wintereinbruch: Bahnverkehr stabilisiert sich im Süden",
+      "summary": "Es kommt bis Mittwochabend im Süden noch zu Beeinträchtigungen.",
+      "text": "<p><strong>Gegenwärtig ist der Großraum München Hbf nur eingeschränkt anfahrbar. Es verkehren daher noch nicht alle Fernverkehrszüge von und nach München. Wir rechnen dementsprechend mit einer hohen Auslastung dieser Züge.</strong></p><p>Auf den Strecken zwischen Stuttgart und Singen sowie zwischen München und Salzburg wurde der Verkehr wieder aufgenommen.</p><p><strong>Darüber hinaus verkehrt auch am Mittwoch, 06.12.2023 kein Fernverkehr der DB auf folgenden Strecken:</strong></p><ul><li>München – Innsbruck</li><li>München – Lindau - Zürich</li></ul><p><strong>Bitte beachten Sie: </strong></p><p>Auch in anderen Teilen von Süddeutschland kann es weiterhin zu witterungsbedingten Zugausfällen und Verspätungen kommen.</p><p><strong>Regelung für vom Wintereinbruch betroffene Reisende: </strong></p><p>Alle Fahrgäste, die ihre <strong>vom 02.12.2023 bis einschließlich 05.12.2023 in Süddeutschland</strong> geplante Reise aufgrund des Wintereinbruchs in Süddeutschland verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.</p><p>Daneben gelten selbstverständlich die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de oder im&nbsp;DB Navigator.</p>",
       "durationBegin": "02.12.2023",
       "durationEnd": "06.12.2023",
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2023-12-05/d0f5fc16-edab-4a33-aaf6-db0716318416reisendenkarte_20231202-084211%2B3.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2023-12-06/3fa7c720-f5af-4de2-9790-73d2bda160a5reisendenkarte_20231202-084211%2B3.png",
           "label": "Störungsgebiet Süddeutschland",
           "info": "",
           "openInNewTab": true
@@ -55,12 +55,71 @@
         "SH",
         "TH"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": true,
       "topDisruption": true
     }
   ],
   "disruptions": [
+    {
+      "id": "146b6ec2-a6fd-42ff-b955-0db9efcc8d03",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigung zwischen Frankfurt(Main) und Erfurt",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Frankfurt(Main) und Erfurt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Haltausfällen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Frankfurt(Main) und Erfurt werden umgeleitet und verspäten sich um zusätzlich etwa 100 Minuten. Die Halte in Fulda und Eisenach entfallen.</li></ul><p><strong>AUSNAHME:</strong> ICE-Züge zwischen Frankfurt(Main) und Erfurt mit planmäßigen Halten in <strong>Bad Hersfeld</strong> und <strong>Gotha</strong> sind hiervon nicht betroffen!</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in den Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "HH",
+        "ST",
+        "BE",
+        "TH",
+        "BW",
+        "SH",
+        "BY",
+        "NI",
+        "SN",
+        "HE"
+      ],
+      "lastModified": "06.12.2023 11:21",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "3f297265-b7e1-4ab5-884d-6cf0120d5172",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Kassel-Wilhelmshöhe",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Frankfurt(M) und Kassel-Wilhelmshöhe kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Haltausfällen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Frankfurt(M) - Fulda - Kassel Wilhelmshöhe werden umgeleitet und verspäten sich um zusätzlich etwa 40 Minuten. Die Halte in Hanau Hbf und Fulda entfallen.</li></ul><p><strong>AUSNAHME:</strong> ICE-Züge zwischen Frankfurt(M) und Kassel-Wilhelmshöhe mit planmäßigem Halt in <strong>Gießen</strong> sind hiervon nicht betroffen!</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in den Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BW",
+        "NI",
+        "HE"
+      ],
+      "lastModified": "06.12.2023 11:21",
+      "expand": true,
+      "topDisruption": false
+    },
     {
       "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
       "author": "FERNVERKEHR_AG",
@@ -90,7 +149,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": false,
       "topDisruption": false
     },
@@ -215,7 +274,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": false,
       "topDisruption": false
     },
@@ -275,7 +334,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": false,
       "topDisruption": false
     },
@@ -299,7 +358,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": false,
       "topDisruption": false
     },
@@ -330,7 +389,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": true,
       "topDisruption": false
     },
@@ -403,7 +462,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": false,
       "topDisruption": false
     },
@@ -427,7 +486,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": true,
       "topDisruption": false
     },
@@ -458,7 +517,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": false,
       "topDisruption": false
     },
@@ -535,7 +594,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": false,
       "topDisruption": false
     },
@@ -559,7 +618,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": false,
       "topDisruption": false
     },
@@ -850,7 +909,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": false,
       "topDisruption": false
     },
@@ -916,7 +975,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "06.12.2023 10:45",
+      "lastModified": "06.12.2023 11:21",
       "expand": false,
       "topDisruption": false
     },
