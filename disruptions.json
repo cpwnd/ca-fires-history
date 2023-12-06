@@ -47,7 +47,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": true,
       "topDisruption": true
     }
@@ -95,7 +95,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
@@ -128,7 +128,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
@@ -154,7 +154,7 @@
         "TH",
         "SN"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
@@ -273,7 +273,7 @@
         "HB",
         "NI"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": true,
       "topDisruption": false
     },
@@ -457,7 +457,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
@@ -517,7 +517,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
@@ -541,7 +541,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
@@ -572,7 +572,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": true,
       "topDisruption": false
     },
@@ -596,7 +596,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": true,
       "topDisruption": false
     },
@@ -620,7 +620,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
@@ -674,6 +674,30 @@
       "topDisruption": false
     },
     {
+      "id": "706f69c5-48e9-47f5-bbcd-f2b8a1d50505",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Filderstadt: kein barrierefreier Zugang aufgrund von Aufzugserneuerung",
+      "summary": "Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. ",
+      "text": "<p>Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. </p><p>Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. </p><p>Die Deutsche Bahn empfiehlt mobilitätseingeschränkten Reisenden in Richtung Stuttgart die Buslinien 812, 813 oder X3 zu nehmen und an der Haltestelle Flughafen/Messe in die S-Bahn einzusteigen. </p><p>Des Weiteren empfiehlt die Deutsche Bahn mobilitätseingeschränkten Reisenden ihre Reise vorher (spätestens einen Werktag) bei der Mobilitätsservice-Zentrale (Telefon 030 65212888) anzumelden.</p>",
+      "durationBegin": "21.08.2023",
+      "durationEnd": "15.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "06.12.2023 21:20",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -700,7 +724,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
@@ -724,7 +748,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": true,
       "topDisruption": false
     },
@@ -748,7 +772,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
@@ -772,7 +796,31 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "ef45ff4a-8932-401c-8593-da820c53e354",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Wintereinbruch: Bahnverkehr bei der DB Regio Baden-Württemberg normalisiert sich",
+      "summary": "<strong>Der Bahnverkehr normalisiert sich im S&uuml;den nach Wintereinbruch.</strong>",
+      "text": "<ul>\n\t<li><strong>RE2 (Karlsruhe - Offenburg - Konstanz) </strong>auch der&nbsp;Streckenabschnitt&nbsp;zwischen&nbsp; Singen(Hohentwiel) und Konstanz ist wieder befahrbar. Die ersten verkehrenden Z&uuml;ge sind RE 4743 (Abfahrt in Singen(Hohentwiel) um 23:52 Uhr) und RE 4741 (Abfahrt in Konstanz 20:09 Uhr). Der Ersatzverkehr mit Bus von Singen(Hohentwiel) nach Konstanz bleibt eingerichtet. Die Abfahrtszeiten der Busse finden Sie in der Reiseauskunft unter www.bahn.de. Abweichungen bei den Fahrzeiten sind m&ouml;glich.&nbsp;Abfahrt der Busse in Singen&nbsp;von Haltestelle Singen S&uuml;d/Maggi.&nbsp;</li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "01.12.2023",
+      "durationEnd": "07.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "06.12.2023 21:18",
       "expand": false,
       "topDisruption": false
     },
@@ -838,30 +886,6 @@
       "topDisruption": false
     },
     {
-      "id": "ef45ff4a-8932-401c-8593-da820c53e354",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Wintereinbruch: Bahnverkehr bei der DB Regio Baden-Württemberg auf einigen Strecken aktuell beeinträchtigt",
-      "summary": "<strong>Der Bahnverkehr normalisiert sich im S&uuml;den nach Wintereinbruch.</strong>",
-      "text": "<ul>\n\t<li><strong>RE2 (Karlsruhe - Offenburg - Konstanz) </strong>auch der&nbsp;Streckenabschnitt&nbsp;zwischen&nbsp; Singen(Hohentwiel) und Konstanz ist wieder befahrbar. Die ersten verkehrenden Z&uuml;ge sind RE 4743 (Abfahrt in Singen(Hohentwiel) um 23:52 Uhr) und RE 4741 (Abfahrt in Konstanz 20:09 Uhr). Der Ersatzverkehr mit Bus von Singen(Hohentwiel) nach Konstanz bleibt eingerichtet. Die Abfahrtszeiten der Busse finden Sie in der Reiseauskunft unter www.bahn.de. Abweichungen bei den Fahrzeiten sind m&ouml;glich.&nbsp;Abfahrt der Busse in Singen&nbsp;von Haltestelle Singen S&uuml;d/Maggi.&nbsp;</li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
-      "durationBegin": "01.12.2023",
-      "durationEnd": "07.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "06.12.2023 19:11",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "author": "REGIO_NW",
       "cause": {
@@ -910,7 +934,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
@@ -934,7 +958,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
@@ -1341,7 +1365,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
@@ -1407,7 +1431,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "06.12.2023 20:48",
+      "lastModified": "06.12.2023 21:20",
       "expand": false,
       "topDisruption": false
     },
