@@ -55,7 +55,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": true,
       "topDisruption": true
     }
@@ -70,10 +70,23 @@
       },
       "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. abends bis einschließlich 8.12. bundesweit massiv beeinträchtigt",
       "summary": "Aufgrund eines Streiks der GDL (Gewerkschaft Deutscher Lokomotivführer) wird es im Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. abends bis einschließlich 8.12. bundesweit zu Verspätungen und Zugausfällen kommen.\n\n",
-      "text": "<p><strong>Weitere Informationen folgen in Kürze. </strong>&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<p>Der Streikfahrplan sichert nur ein sehr begrenztes Grundangebot im Fern-, Regional- und S-Bahn Verkehr der DB. Bitte sehen Sie von nicht notwendigen Reisen während des GDL-Streiks ab und verschieben Sie Ihre Reise auf einen anderen Zeitpunkt.&nbsp;</p><p><strong>Gültigkeit der Tickets: </strong></p><p>Alle Fahrgäste, die ihre für den <strong>Donnerstagabend, 07.12.2023 und Freitag, 08.12.2023&nbsp;</strong>geplante Reise aufgrund des <strong>Streiks der GDL</strong> verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.</p><p>Zudem haben Fahrgäste im Rahmen einer Sonderkulanz auch die Möglichkeit, ihre <strong>Reise vorzuverlegen und bereits im Laufe des Donnerstags, 07.12.2023</strong> früher zu fahren. In diesem Fall empfehlen wir, die Reise bereits früh am Tag anzutreten, um so sicherzustellen, dass sie im besten Fall am frühen Abend (18 Uhr) an ihrem Zielort sind, da bereits vor offiziellem Streikbeginn um 22 Uhr mit ersten Einschränkungen zur rechnen ist.</p><p>Daneben gelten selbstverständlich die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "06.12.2023",
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://bahn.de/fahrgastrechte",
+          "label": "Allgemeine Informationen zu Ihren Fahrgastrechten ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de/sonderkulanz",
+          "label": "Ausführliche Informationen zu Reisen während des GDL-Streiks",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "LONG_DISTANCE"
       ],
@@ -95,7 +108,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": true,
       "topDisruption": false
     },
@@ -128,7 +141,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": false,
       "topDisruption": false
     },
@@ -184,6 +197,62 @@
       "topDisruption": false
     },
     {
+      "id": "b8faaa31-2f92-4fa7-bf2a-afa905bf4f6a",
+      "author": "REGIO_NI_HB",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik angekündigt",
+      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird vom 7.Dezember um 22 Uhr, bis 8. Dezember um 22 Uhr, bundesweit wegen eines Streiks der GDL massiv beeintr&auml;chtigt sein.&nbsp;<br />\n<br />\nDer Regionalverkehr der DB Regio Niedersachsen und Bremen wird massiv beeintr&auml;chtigt sein. Wir versuchen ein Mindestfahrplanangebot aufrechtzuerhalten. Trotzdem k&ouml;nnen wir in dieser Situation nicht garantieren, dass alle Reisenden an Ihr Ziel kommen. Wenn m&ouml;glich, verschieben Sie bitte geplante Reisen.&nbsp;",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 1 (Norddeich(Mole) - Bremen Hbf &ndash; Hannover Hbf): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RE 8 (Bremerhaven-Lehe &ndash; Hannover Hbf): Die Z&uuml;ge fallen aus.</li>\n\t<li>RE 9 (Osnabr&uuml;ck Hbf &ndash; (Bremen Hbf) &ndash; Bremerhaven-Lehe): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 40 (Braunschweig Hbf &ndash; Helmstedt): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 44/RB 48 (Braunschweig - Salzgitter-Lebenstedt): Die Z&uuml;ge fallen aus.</li>\n\t<li>RB 45 (Braunschweig Hbf &ndash; Sch&ouml;ppenstedt): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 46 (Braunschweig Hbf &ndash; Herzberg(Harz): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 80/81 (G&ouml;ttingen/Bodenfelde &ndash; Nordhausen): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 82 (G&ouml;ttingen &ndash; Kreiensen &ndash; Bad Harzburg): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 86 (Einbeck Mitte &ndash; G&ouml;ttingen): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RE 5 (Cuxhaven &ndash; Hamburg Hbf): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n\t<li>RB 37 (Bremen &ndash; Soltau &ndash; Uelzen): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n\t<li>RB 38 (Hannover &ndash; Soltau &ndash; Buchholz &ndash; (Hamburg-Harburg)): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n\t<li>RB 77 (B&uuml;nde &ndash; Hameln &ndash; Hildesheim): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n\t<li>RB 79 (Hildesheim &ndash; Bodenburg): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n</ul>\n\n<p>Das Mindestfahrplanangebot sowie die letzten durchfahrenden Z&uuml;ge am Donnerstag, den 7.Dezember 2023, finden Sie im Laufe des Donnerstagvormittags in unseren digitalen Reiseauskunftsmedien unter bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent. &Uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir kurzfristig&nbsp;situativ informieren.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass es bereits am Donnerstag vor Streikbeginn, 22 Uhr, zu (Teil)- Ausf&auml;llen kommen wird. Am Donnerstagabend werden wir ab Streikbeginn keinen Zugverkehr mehr anbieten k&ouml;nnen.&nbsp;&nbsp;</p>\n\n<p>Leider konnte ein Ersatzverkehr mit Bussen aufgrund fehlender Buskapazit&auml;ten so kurzfristig nicht eingerichtet werden.</p>\n\n<p>Wir m&ouml;chten Sie an dieser Stelle zur Vollst&auml;ndigkeit darauf hinweisen, dass auch wir mit unserem Mindestfahrplanangebot von weiteren Streik-Ma&szlig;nahmen, wie beispielweise auf einem Stellwerk, betroffen sein k&ouml;nnen. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>Im Rahmen einer Sonderkulanz der DB Regio und des DB Fernverkehrs besteht auch die M&ouml;glichkeit, Ihre Reise vorzuverlegen und bereits im Laufe des 7. Dezember fr&uuml;her zu fahren. In diesem Fall empfehlen wir, die Reise bereits fr&uuml;h am Tag anzutreten, um so sicherzustellen, dass Sie vor Streikbeginn um 22 Uhr an Ihrem Zielort sind.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "06.12.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https ",
+          "label": "bahn.de/reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS  ",
+          "label": "Twitter DB Regio Niedersachsen und Bremen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/start_NI_mitte  ",
+          "label": "Twitter Start Niedersachsen Mitte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/start_unterelbe ",
+          "label": "Twitter Start Unterelbe",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lastModified": "06.12.2023 19:34",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7de0e47d-257b-4286-9ffa-fa709f3d2c74",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -203,33 +272,8 @@
         "HB",
         "NI"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "b8faaa31-2f92-4fa7-bf2a-afa905bf4f6a",
-      "author": "REGIO_NI_HB",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik: Fern-, Regional-, S-Bahn-Verkehr der DB vom 07.12. abends bis inkl. 08.12. bundesweit massiv beeinträchtigt",
-      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird vom 7. Dezember um 22 Uhr, bis 8. Dezember um 22 Uhr, bundesweit wegen eines Streiks der GDL massiv beeintr&auml;chtigt sein.&nbsp;<br />\n<br />\nDer Regionalverkehr der DB Regio Niedersachsen und Bremen wird massiv beeintr&auml;chtigt sein. Wir versuchen ein Mindestfahrplanangebot aufrechtzuerhalten. Trotzdem k&ouml;nnen wir in dieser Situation nicht garantieren, dass alle Reisenden an Ihr Ziel kommen. Wenn m&ouml;glich, verschieben Sie bitte geplante Reisen.&nbsp;",
-      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 1 (Norddeich(Mole) - Bremen Hbf &ndash; Hannover Hbf): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RE 8 (Bremerhaven-Lehe &ndash; Hannover Hbf): Die Z&uuml;ge fallen aus.</li>\n\t<li>RE 9 (Osnabr&uuml;ck Hbf &ndash; (Bremen Hbf) &ndash; Bremerhaven-Lehe): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 40 (Braunschweig Hbf &ndash; Helmstedt): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 44/RB 48 (Braunschweig - Salzgitter-Lebenstedt): Die Z&uuml;ge fallen aus.</li>\n\t<li>RB 45 (Braunschweig Hbf &ndash; Sch&ouml;ppenstedt): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 46 (Braunschweig Hbf &ndash; Herzberg(Harz): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 80/81 (G&ouml;ttingen/Bodenfelde &ndash; Nordhausen): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 82 (G&ouml;ttingen &ndash; Kreiensen &ndash; Bad Harzburg): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 86 (Einbeck Mitte &ndash; G&ouml;ttingen): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RE 5 (Cuxhaven &ndash; Hamburg Hbf): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n\t<li>RB 37 (Bremen &ndash; Soltau &ndash; Uelzen): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n\t<li>RB 38 (Hannover &ndash; Soltau &ndash; Buchholz &ndash; (Hamburg-Harburg)): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n\t<li>RB 77 (B&uuml;nde &ndash; Hameln &ndash; Hildesheim): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n\t<li>RB 79 (Hildesheim &ndash; Bodenburg): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n</ul>\n\n<p>Das Mindestfahrplanangebot sowie die letzten durchfahrenden Z&uuml;ge am Donnerstag, den 7. Dezember 2023, finden Sie im Laufe des Donnerstagvormittags in unseren digitalen Reiseauskunftsmedien unter bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent. &Uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir kurzfristig&nbsp;situativ informieren.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass es bereits am Donnerstag vor Streikbeginn, 22 Uhr, zu (Teil)- Ausf&auml;llen kommen wird. Am Donnerstagabend werden wir ab Streikbeginn keinen Zugverkehr mehr anbieten k&ouml;nnen.&nbsp;&nbsp;</p>\n\n<p>Leider konnte ein Ersatzverkehr mit Bussen aufgrund fehlender Buskapazit&auml;ten so kurzfristig nicht eingerichtet werden.</p>\n\n<p>Wir m&ouml;chten Sie an dieser Stelle zur Vollst&auml;ndigkeit darauf hinweisen, dass auch wir mit unserem Mindestfahrplanangebot von weiteren Streik-Ma&szlig;nahmen, wie beispielweise auf einem Stellwerk, betroffen sein k&ouml;nnen. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "durationBegin": "07.12.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lastModified": "06.12.2023 19:01",
-      "expand": false,
       "topDisruption": false
     },
     {
@@ -350,7 +394,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": false,
       "topDisruption": false
     },
@@ -410,7 +454,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": false,
       "topDisruption": false
     },
@@ -434,7 +478,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": false,
       "topDisruption": false
     },
@@ -465,7 +509,31 @@
       "states": [
         "BY"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "922b5fa4-1895-4507-a45e-d5e26d730e7c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik der GDL",
+      "summary": "Die GDL hat für den Zeitraum vom 7.12., 22 Uhr bis 8.12., 22 Uhr zu einem Streik aufgerufen.",
+      "text": "<p>Es wird zu massiven Einschränkungen im S-Bahn-Verkehr kommen. Sowie wir nähere Informationen haben, werden wir sie an dieser Stelle veröffentlichen.</p><p>Aufgrund der unklaren Situation werden die Fahrzeiten in den Auskunftsmedien (DB &amp; hvv) nur kurzfristig abrufbar sein.</p><p><strong>Bitte nutzen Sie dort, wo möglich, auch U-Bahnen und Busse.</strong></p>",
+      "durationBegin": "06.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lastModified": "06.12.2023 19:34",
       "expand": true,
       "topDisruption": false
     },
@@ -545,7 +613,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": false,
       "topDisruption": false
     },
@@ -569,7 +637,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": true,
       "topDisruption": false
     },
@@ -593,7 +661,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": false,
       "topDisruption": false
     },
@@ -617,7 +685,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": false,
       "topDisruption": false
     },
@@ -628,20 +696,57 @@
         "category": "strike",
         "label": "Streik"
       },
-      "headline": "GDL-Streik: Fern-, Regional-, S-Bahn-Verkehr der DB vom 07.12. abends bis inkl. 08.12. bundesweit massiv beeinträchtigt",
+      "headline": "GDL-Streik angekündigt",
       "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird vom 7. Dezember um 22 Uhr, bis 8. Dezember um 22 Uhr, bundesweit wegen eines Streiks der GDL massiv beeintr&auml;chtigt sein.&nbsp;<br />\n<br />\nDer Regionalverkehr der DB Regio Schleswig-Holstein wird massiv beeintr&auml;chtigt sein. Wir versuchen ein Mindestfahrplanangebot aufrechtzuerhalten. Trotzdem k&ouml;nnen wir in dieser Situation nicht garantieren, dass alle Reisenden an Ihr Ziel kommen. Wenn m&ouml;glich, verschieben Sie bitte geplante Reisen.&nbsp;",
       "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Zwischen Westerland(Sylt) und Nieb&uuml;ll wird &uuml;berwiegend ein Dreistundentakt&nbsp;zur Hauptverkehrszeit angeboten. Vereinzelt verkehren Z&uuml;ge auf der Strecke zwischen Husum und Nieb&uuml;ll.&nbsp;</li>\n\t<li>RB 62 (Heide(Holst) &ndash; Itzehoe): Die Z&uuml;ge fallen aus.</li>\n\t<li>RB 64 (Bad St. Peter-Ording &ndash; Husum): Auf dieser Linie verkehrt derzeit ein Ersatzverkehr mit Bus aufgrund von Bauarbeiten.</li>\n\t<li>RE 7/RE 70 (Flensburg/Kiel Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge zwischen Kiel Hbf, Neum&uuml;nster und Hamburg verkehren vsl. im Zweistundentakt. Zwischen Neum&uuml;nster und Flensburg verkehren die Z&uuml;ge vsl. im Dreistundentakt. Bitte beachten Sie, dass es von/nach Flensburg zu einem Umstieg in Neum&uuml;nster kommt.</li>\n\t<li>RE 72/RB 73 (Flensburg &ndash; Eckernf&ouml;rde&nbsp;&ndash; Kiel Hbf):&nbsp;Auf dieser Linie verkehrt derzeit ein Ersatzverkehr mit Bus aufgrund von Bauarbeiten.</li>\n\t<li>RE 74 (Husum &ndash; Kiel Hbf): Die Z&uuml;ge fallen aus.</li>\n\t<li>RB 75 (Rendsburg &ndash; Kiel Hbf): Die Z&uuml;ge fallen aus.</li>\n\t<li>RE 8/RE 80 (L&uuml;beck Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren vsl. im Stundentakt.</li>\n\t<li>RB 81 (Bad Oldesloe &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren vsl. im Zweistundentakt.</li>\n\t<li>RB 85 (L&uuml;beck Hbf &ndash; Neustadt(Holst): Die Z&uuml;ge fallen aus.</li>\n\t<li>RB 86 (L&uuml;beck-Travem&uuml;nde Strand &ndash; L&uuml;beck Hbf): Diese Z&uuml;ge fallen aus. Bitte nutzen Sie zwischen L&uuml;beck Hbf und L&uuml;beck-Travem&uuml;nde Strand den Busverkehr mit den Linien 30, 31, 40.</li>\n</ul>\n\n<p>Das Mindestfahrplanangebot sowie die letzten durchfahrenden Z&uuml;ge am Donnerstag, den 7.Dezember 2023, finden Sie im Laufe des Donnerstagvormittags in unseren digitalen Reiseauskunftsmedien unter bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent. &Uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hreung einzelner Fahrten werden wir kurzfristig&nbsp;situativ informieren.&nbsp;<br />\nBitte beachten Sie, dass es bereits am Donnerstag vor Streikbeginn, 22 Uhr, zu (Teil)- Ausf&auml;llen kommen wird. Am Donnerstagabend werden wir ab Streikbeginn keinen Zugverkehr mehr anbieten k&ouml;nnen.&nbsp;</p>\n\n<p>Wir versuchen einen Ersatzverkehr mit Bussen einzurichten, k&ouml;nnen dies aufgrund der Kurzfristigkeit und der aktuellen Witterung derzeit nicht garantieren.&nbsp;<br />\n<br />\nWir m&ouml;chten Sie an dieser Stelle zur Vollst&auml;ndigkeit darauf hinweisen, dass auch wir mit unserem Mindestfahrplanangebot von weiteren Streik-Ma&szlig;nahmen, wie beispielweise auf einem Stellwerk, betroffen sein k&ouml;nnen. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
       "durationBegin": "07.12.2023",
       "durationEnd": "09.12.2023",
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https",
+          "label": "bahn.de/reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt ",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "Twitter",
+          "info": "Twitter",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
       "states": [
         "SH"
       ],
-      "lastModified": "06.12.2023 19:13",
+      "lastModified": "06.12.2023 19:25",
       "expand": false,
       "topDisruption": false
     },
@@ -718,7 +823,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": false,
       "topDisruption": false
     },
@@ -742,7 +847,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": false,
       "topDisruption": false
     },
@@ -753,8 +858,8 @@
         "category": "strike",
         "label": "Streik"
       },
-      "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. abends bis inkl. 08.12. bundesweit massiv beeinträchtigt",
-      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird vom 7. Dezember um 22 Uhr, bis 8. Dezember um 22 Uhr, bundesweit wegen eines Streiks der GDL massiv beeintr&auml;chtigt sein.&nbsp;<br />\n<br />\nDer Regionalverkehr der DB Regio Baden-W&uuml;rttemberg wird massiv beeintr&auml;chtigt sein.<br />\n<br />\n<strong>Bereits vor dem Streikzeitraum kommt es ab 18 Uhr bereits zu Beeintr&auml;chtigungen und Zugausf&auml;llen.</strong><br />\n<br />\n<strong>Die DB Regio Baden-W&uuml;rttemberg wird am Freitag, 8.Dezember w&auml;hrend dem Streikzeitraum bis Tagesende nach einem Notfahrplan verkehren</strong>. <strong>Details entnehmen sie bitte in den betroffenen Linien. Die Zeiten der noch verkehrenden Z&uuml;ge finden Sie in den Fahrpl&auml;nen im Anhang.</strong><br />\n<br />\n<strong><u>Bitte beachten Sie:</u></strong>&nbsp;In dieser Situatuion kann es bei den Notfahrpl&auml;nen noch zu kurzfristigen &Auml;nderungen und Zugausf&auml;llen kommen. Ebenso werden wir versuchen das geplante Konzept w&auml;hrend dem Streik zu erweitern falls weitere Ressourcen an Fahrzeugen und Personal zur Verf&uuml;gung stehen.&nbsp;<br />\n&nbsp;",
+      "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. abends bis einschließlich 8.12. bundesweit massiv beeinträchtigt",
+      "summary": "Aufgrund eines Streiks der GDL (Gewerkschaft Deutscher Lokomotivf&uuml;hrer) wird es im Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. abends bis einschlie&szlig;lich 8.12. bundesweit zu Versp&auml;tungen und Zugausf&auml;llen kommen.<br />\nDie GDL hat Streikma&szlig;nahmen im Personenverkehr angek&uuml;ndigt. Der Notfahrplan der DB sichert nur ein sehr begrenztes Zugangebot im Fern-, Regional- und S-Bahn-Verkehr der DB. Bitte sehen Sie von nicht notwendigen Reisen w&auml;hrend des GDL-Streiks ab und verschieben Sie Ihre Reise auf einen anderen Zeitpunkt.<br />\n<br />\nDer Regionalverkehr der DB Regio Baden-W&uuml;rttemberg wird massiv beeintr&auml;chtigt sein.<br />\n<br />\n<strong>Bereits vor dem Streikzeitraum kommt es ab 18 Uhr bereits zu Beeintr&auml;chtigungen und Zugausf&auml;llen.</strong><br />\n<br />\n<strong>Die DB Regio Baden-W&uuml;rttemberg wird am Freitag, 8.Dezember w&auml;hrend dem Streikzeitraum bis Tagesende nach einem Notfahrplan verkehren</strong>. <strong>Details entnehmen sie bitte in den betroffenen Linien. Die Zeiten der noch verkehrenden Z&uuml;ge finden Sie in den Fahrpl&auml;nen im Anhang.</strong><br />\n<br />\n<strong><u>Bitte beachten Sie:</u></strong>&nbsp;In dieser Situatuion kann es bei den Notfahrpl&auml;nen noch zu kurzfristigen &Auml;nderungen und Zugausf&auml;llen kommen. Ebenso werden wir versuchen das geplante Konzept w&auml;hrend dem Streik zu erweitern falls weitere Ressourcen an Fahrzeugen und Personal zur Verf&uuml;gung stehen.&nbsp;<br />\n&nbsp;",
       "text": "<p><strong>Betroffene Linien und Konzepte vom Notfahrplan:</strong></p>\n\n<ul>\n\t<li>IRE3: Ulm - Lindau / Friedrichshafen - Basel Bad Bf&nbsp;<strong>Wegen&nbsp;Baustelle Biberach unregelm&auml;&szlig;iger Verkehr&nbsp;Ulm&lt;&gt;Biberach und Aulendorf&lt;&gt;Friedrichshafen. Zwischen Ulm&lt;&gt;Biberach auch die Z&uuml;ge der RS21 nutzen. Einzelne Zugverbindungen</strong></li>\n\t<li>IRE6: Stuttgart - T&uuml;bingen - Aulendorf /Rottenburg(Neckar) <strong>(einzelne Zugverbindungen)</strong></li>\n\t<li>IRE50: Aalen - Ulm<strong> (kein Notprogramm &gt; wenn m&ouml;glich auf Z&uuml;ge der SWEG ausweichen)</strong></li>\n\t<li>IRE200: Wendlingen - Ulm <strong>(2-Stunden-Takt)</strong></li>\n\t<li>RE2: Karlsruhe - Konstanz<strong> (einzelne Zugverbindungen)</strong></li>\n\t<li>RE4: Stuttgart - Konstanz <strong>(kein Notprogramm)</strong></li>\n\t<li>RE5: Stuttgart - Friedrichshaf<strong>en (kein Notprogramm Stuttgart&lt;&gt;Ulm. Wenn m&ouml;glich Z&uuml;ge der Go-Ahead GmbH nutzen. Wegen&nbsp;Baustelle Biberach unregelm&auml;&szlig;iger Verkehr&nbsp;Ulm&lt;&gt;Biberach und Aulendorf&lt;&gt;Friedrichshafen. Zwischen Ulm&lt;&gt;Biberach auch die Z&uuml;ge der RS21 nutzen.)</strong></li>\n\t<li>RE7: Karlsruhe - Basel <strong>Kein Notprogramm, Z&uuml;ge der Linien RE2 (Karlsruhe&lt;&gt;Offenburg), Linie RB26 (Offenburg&lt;&gt;Freiburg) und RB27 (Freiburg&lt;&gt;Basel) nutzen.&nbsp;</strong></li>\n\t<li>RE14a/b: Stuttgart - Rottweil / Freudenstadt <strong>(einzelne Zugverbindungen)</strong></li>\n\t<li>RE55: Donaueschingen - Ulm <strong>(einzelne Zugverbindungen)</strong></li>\n\t<li>RB26: Offenburg - Freiburg(Breisgau) <strong>(3-Stunden-Takt)</strong></li>\n\t<li>RB27: Freiburg(Breisgau) -Basel Bad Bf /Neuenburg(Baden)&nbsp;<strong>(3-Stunden-Takt Freiburg&lt;&gt;Basel, Kein Notprogramm M&uuml;llheim(Baden)&lt;&gt;Neuenburg(Baden))&nbsp;</strong></li>\n\t<li>RB28: M&uuml;llheim(Baden) - Mulhouse Ville<strong> (kein Notprogramm)</strong></li>\n\t<li>RB30: Basel Bad Bf - Lauchringen <strong>(3-Stunden-Takt)</strong></li>\n\t<li>RB31: Radolfzell - Friedrichshafen <strong>(kein Notprogramm. Z&uuml;ge der Linie IRE3 nutzen)</strong></li>\n\t<li>RB37: Waldshut -St&uuml;hlingen<strong> (kein Notprogramm)</strong></li>\n\t<li>RB42: Donaueschingen - Triberg/Rottweil <strong>(kein Notprogramm. Z&uuml;ge der Linie RE2 und SWEG nutzen)</strong></li>\n\t<li>RB53: Aulendorf - Leutkirch /Wangen(Allg&auml;u) <strong>(einzelne Zugverbindungen)</strong></li>\n\t<li>RB56: Ulm - Sigmaringen<strong> (Kein Notprogramm. Z&uuml;ge der Linie RE55 nutzen)&nbsp;</strong></li>\n\t<li>RB63: Bad Urach - Herrenberg<strong> (Kein Notprogramm Bad Urach&lt;&gt;T&uuml;bingen, 1.5 Stunden-Takt T&uuml;bingen&lt;&gt;Herrenberg)</strong></li>\n\t<li>RB74: Pforzheim - Horb - T&uuml;bingen <strong>(Pforzheim&lt;&gt;Horb einzelne Zugverbindungen, Horb &lt;&gt; T&uuml;bingen guter 2-Stunden-Takt)</strong></li>\n\t<li>RB93:<strong> </strong>Friedrichshafen - Lindau<strong> (Z&uuml;ge der Linie IRE3 nutzen)</strong></li>\n\t<li>MEX 19 / 90: Stuttgart - Schw&auml;bisch Hall-Hessental - Crailsheim <strong>(einzelne Zugverbindungen &gt;&nbsp;wenn m&ouml;glich auch auf Z&uuml;ge der Go Ahead GmbH&nbsp;ausweichen)</strong></li>\n\t<li>S1 / S10 / S11: Breisach / Endingen - Freiburg - Seebrugg / Villingen(Schwarzw)<strong> (kein Notprogramm Titisee&lt;&gt;Villingen(Schwarzw)), Kein Notprogramm Endingen a.K. &lt;&gt;Gottenheim, Einzelne Zugverbindungen Breisach-Freiburg-Titisee)</strong></li>\n\t<li>RS2 / RS21: Ulm - Biberach(Ri&szlig;)<strong> (2-Stunden-Takt)</strong></li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<strong>Streckenagent-APP</strong>&nbsp;immer dabei!</p>\n",
       "durationBegin": "07.12.2023",
       "durationEnd": "08.12.2023",
@@ -858,7 +963,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "06.12.2023 19:19",
+      "lastModified": "06.12.2023 19:26",
       "expand": false,
       "topDisruption": false
     },
@@ -1149,7 +1254,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": false,
       "topDisruption": false
     },
@@ -1215,7 +1320,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "06.12.2023 19:21",
+      "lastModified": "06.12.2023 19:34",
       "expand": false,
       "topDisruption": false
     },
