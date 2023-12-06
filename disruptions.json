@@ -55,7 +55,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": true,
       "topDisruption": true
     }
@@ -90,7 +90,7 @@
         "SN",
         "HE"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": true,
       "topDisruption": false
     },
@@ -116,7 +116,7 @@
         "NI",
         "HE"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": true,
       "topDisruption": false
     },
@@ -149,7 +149,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": false,
       "topDisruption": false
     },
@@ -254,6 +254,54 @@
       "topDisruption": false
     },
     {
+      "id": "9c2d8ed6-b04f-4e6f-99d9-f39e254e8923",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Wegen eines erhöhten Krankenstands beim Fahrpersonal fallen die Züge zwischen Worms und Biblis",
+      "summary": "Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal fallen die Z&uuml;ge <strong>ab Mittwoch, 06.12.23 zwischen Biblis und Worms aus.</strong><br />\n&nbsp;",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB62</strong>&nbsp;Worms &ndash; Hofheim &ndash; Biblis <strong><em>(Riedbahn)</em></strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr mit Bus ist in Planung.</strong></p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lastModified": "06.12.2023 13:46",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "aa7ea4e4-d68c-461f-9aad-9ed1539b72d7",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -274,7 +322,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": false,
       "topDisruption": false
     },
@@ -334,7 +382,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": false,
       "topDisruption": false
     },
@@ -358,7 +406,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": false,
       "topDisruption": false
     },
@@ -389,7 +437,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": true,
       "topDisruption": false
     },
@@ -462,7 +510,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": false,
       "topDisruption": false
     },
@@ -486,7 +534,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": true,
       "topDisruption": false
     },
@@ -517,8 +565,32 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "1734f102-5d2a-4ebe-a988-755f79f57072",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Singen(Hohentwiel) und Schaffhausen",
+      "summary": "Aktuell kommt es aufgrund von Winterwitterung zwischen Singen(Hohentwiel) und Schaffhausen zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen und Verspätungen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Zürich fallen auf dem Abschnitt zwischen Singen(Hohentwiel) und Zürich aus. Zwischen Schaffhausen und Zürich verkehren Ersatzzüge durch die ÖBB. Zwischen Singen(Hohentwiel) und Schaffhausen nutzen Sie bitte die S-Bahn. Beachten Sie, dass es durch den nötigen Umstieg zu einer Reisezeitverlängerung kommt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "06.12.2023 13:55",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -529,8 +601,8 @@
         "label": "Witterungsbedingte Einschränkung"
       },
       "headline": "Wintereinbruch: Bahnverkehr bei der DB Regio Baden-Württemberg auf einigen Strecken aktuell beeinträchtigt",
-      "summary": "<strong>Der Bahnverkehr normalisiert sich im S&uuml;den nach Wintereinbruch.<br />\n<br />\nIRE3 / RE5 / RB93 (Ulm - Friedrichshafen - Lindau)</strong>&nbsp;Reparatur an der Oberleitung zwischen&nbsp;Friedrichshafen und Lindau behoben. Zugverkehr wieder ohne Einschr&auml;nkungen m&ouml;glich. Bis sich die Betriebslage wieder normalisiert hat kommt es noch zu Versp&auml;tungen und Zugausf&auml;llen.",
-      "text": "<p><u><strong>Folgende Strecken sind gesperrt:</strong></u></p>\n\n<ul>\n\t<li><strong>RE2 (Karlsruhe - Offenburg - Konstanz)&nbsp;</strong>Streckenabschnitt&nbsp;zwischen&nbsp; Singen(Hohentwiel) und Konstanz ist gesperrt. Ein Ersatzverkehr mit Bus von Singen(Hohentwiel) nach Konstanz ist eingerichtet. Die Abfahrtszeiten der Busse finden Sie in der Reiseauskunft unter www.bahn.de. Abweichungen bei den Fahrzeiten sind m&ouml;glich.&nbsp;Abfahrt der Busse in Singen&nbsp;von Haltestelle Singen S&uuml;d/Maggi. Die Strecke ist&nbsp;voraussichtlich&nbsp;am 7. Dezember wieder befahrbar.</li>\n\t<li><strong>S1 (Breisach - Freiburg - Titisee - Seebrugg/Neustadt)</strong> Streckenabschnitt Titisee&nbsp;- Seebrugg gesperrt. Ersatzverkehr zwischen Titisee und Seebrugg ist eingerichtet.&nbsp;Die Strecke ist&nbsp;vsl. heute ab 14:30 Uhr wieder befahrbar.</li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "summary": "<strong>Der Bahnverkehr normalisiert sich im S&uuml;den nach Wintereinbruch.</strong>",
+      "text": "<ul>\n\t<li><strong>IRE3 / RE5 / RB93 (Ulm - Friedrichshafen - Lindau)</strong>&nbsp;Reparatur an der Oberleitung zwischen&nbsp;Friedrichshafen und Lindau behoben. Zugverkehr wieder ohne Einschr&auml;nkungen m&ouml;glich. Bis sich die Betriebslage wieder normalisiert hat kommt es noch zu Versp&auml;tungen und Zugausf&auml;llen.</li>\n\t<li><strong>S1 (Breisach - Freiburg - Titisee - Seebrugg/Neustadt)</strong> Streckenabschnitt Titisee&nbsp;- Seebrugg wieder befahrbar. Erster verkehrender Zug mit Abfahrt in Titisee&nbsp;um 14:29 Uhr in Richtung Seebrugg. Ersatzverkehr mit Bus&nbsp;wird im Anschluss eingestellt.</li>\n</ul>\n\n<p><u><strong>Folgende Strecken sind gesperrt:</strong></u></p>\n\n<ul>\n\t<li><strong>RE2 (Karlsruhe - Offenburg - Konstanz)&nbsp;</strong>Streckenabschnitt&nbsp;zwischen&nbsp; Singen(Hohentwiel) und Konstanz ist gesperrt. Ein Ersatzverkehr mit Bus von Singen(Hohentwiel) nach Konstanz ist eingerichtet. Die Abfahrtszeiten der Busse finden Sie in der Reiseauskunft unter www.bahn.de. Abweichungen bei den Fahrzeiten sind m&ouml;glich.&nbsp;Abfahrt der Busse in Singen&nbsp;von Haltestelle Singen S&uuml;d/Maggi. Die Strecke ist&nbsp;voraussichtlich&nbsp;am 7. Dezember wieder befahrbar.</li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
       "durationBegin": "01.12.2023",
       "durationEnd": "07.12.2023",
       "downloads": [],
@@ -541,7 +613,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "06.12.2023 12:30",
+      "lastModified": "06.12.2023 13:48",
       "expand": false,
       "topDisruption": false
     },
@@ -594,7 +666,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": false,
       "topDisruption": false
     },
@@ -618,7 +690,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": false,
       "topDisruption": false
     },
@@ -909,7 +981,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": false,
       "topDisruption": false
     },
@@ -975,7 +1047,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "06.12.2023 13:31",
+      "lastModified": "06.12.2023 13:55",
       "expand": false,
       "topDisruption": false
     },
