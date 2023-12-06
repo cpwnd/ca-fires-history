@@ -55,22 +55,22 @@
         "SH",
         "TH"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
       "expand": true,
       "topDisruption": true
     }
   ],
   "disruptions": [
     {
-      "id": "146b6ec2-a6fd-42ff-b955-0db9efcc8d03",
+      "id": "cac3b424-91f5-4a09-962b-4012e0b8a90a",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "category": "strike",
+        "label": "Streikauswirkungen"
       },
-      "headline": "Beeinträchtigung zwischen Frankfurt(Main) und Erfurt",
-      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Frankfurt(Main) und Erfurt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Haltausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Frankfurt(Main) und Erfurt werden umgeleitet und verspäten sich um zusätzlich etwa 100 Minuten. Die Halte in Fulda und Eisenach entfallen.</li></ul><p><strong>AUSNAHME:</strong> ICE-Züge zwischen Frankfurt(Main) und Erfurt mit planmäßigen Halten in <strong>Bad Hersfeld</strong> und <strong>Gotha</strong> sind hiervon nicht betroffen!</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in den Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. abends bis einschließlich 8.12. bundesweit massiv beeinträchtigt",
+      "summary": "Aufgrund eines Streiks der GDL (Gewerkschaft Deutscher Lokomotivführer) wird es im Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. abends bis einschließlich 8.12. bundesweit zu Verspätungen und Zugausfällen kommen.\n\n",
+      "text": "<p><strong>Weitere Informationen folgen in Kürze. </strong>&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "06.12.2023",
       "downloads": [],
       "links": [],
@@ -78,45 +78,24 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "BB",
-        "HH",
-        "ST",
-        "BE",
-        "TH",
         "BW",
-        "SH",
         "BY",
-        "NI",
-        "SN",
-        "HE"
-      ],
-      "lastModified": "06.12.2023 18:46",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "3f297265-b7e1-4ab5-884d-6cf0120d5172",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Kassel-Wilhelmshöhe",
-      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Frankfurt(M) und Kassel-Wilhelmshöhe kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Haltausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Frankfurt(M) - Fulda - Kassel Wilhelmshöhe werden umgeleitet und verspäten sich um zusätzlich etwa 40 Minuten. Die Halte in Hanau Hbf und Fulda entfallen.</li></ul><p><strong>AUSNAHME:</strong> ICE-Züge zwischen Frankfurt(M) und Kassel-Wilhelmshöhe mit planmäßigem Halt in <strong>Gießen</strong> sind hiervon nicht betroffen!</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in den Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
+        "BE",
+        "BB",
+        "HB",
         "HH",
-        "BW",
+        "HE",
+        "MV",
         "NI",
-        "HE"
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
       "expand": true,
       "topDisruption": false
     },
@@ -149,7 +128,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
       "expand": false,
       "topDisruption": false
     },
@@ -201,6 +180,55 @@
         "RP"
       ],
       "lastModified": "05.12.2023 09:25",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "7de0e47d-257b-4286-9ffa-fa709f3d2c74",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Hannover und Bremen",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hannover und Nienburg(Weser) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Haltausfällen und Zugausfällen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Hannover - Bremen (- Oldenburg(Old)) fallen auf diesem Abschnitt aus</li><li>IC-Züge Hannover - Bremen - Oldenburg(Old) - Emden werden zwischen Hannover und Bremen umgeleitet. Die Halte in Nienburg(Weser) und Verden(Aller) entfallen. Die Züge verspäten sich um etwa 90 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lastModified": "06.12.2023 19:21",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "b8faaa31-2f92-4fa7-bf2a-afa905bf4f6a",
+      "author": "REGIO_NI_HB",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik: Fern-, Regional-, S-Bahn-Verkehr der DB vom 07.12. abends bis inkl. 08.12. bundesweit massiv beeinträchtigt",
+      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird vom 7. Dezember um 22 Uhr, bis 8. Dezember um 22 Uhr, bundesweit wegen eines Streiks der GDL massiv beeintr&auml;chtigt sein.&nbsp;<br />\n<br />\nDer Regionalverkehr der DB Regio Niedersachsen und Bremen wird massiv beeintr&auml;chtigt sein. Wir versuchen ein Mindestfahrplanangebot aufrechtzuerhalten. Trotzdem k&ouml;nnen wir in dieser Situation nicht garantieren, dass alle Reisenden an Ihr Ziel kommen. Wenn m&ouml;glich, verschieben Sie bitte geplante Reisen.&nbsp;",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 1 (Norddeich(Mole) - Bremen Hbf &ndash; Hannover Hbf): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RE 8 (Bremerhaven-Lehe &ndash; Hannover Hbf): Die Z&uuml;ge fallen aus.</li>\n\t<li>RE 9 (Osnabr&uuml;ck Hbf &ndash; (Bremen Hbf) &ndash; Bremerhaven-Lehe): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 40 (Braunschweig Hbf &ndash; Helmstedt): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 44/RB 48 (Braunschweig - Salzgitter-Lebenstedt): Die Z&uuml;ge fallen aus.</li>\n\t<li>RB 45 (Braunschweig Hbf &ndash; Sch&ouml;ppenstedt): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 46 (Braunschweig Hbf &ndash; Herzberg(Harz): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 80/81 (G&ouml;ttingen/Bodenfelde &ndash; Nordhausen): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 82 (G&ouml;ttingen &ndash; Kreiensen &ndash; Bad Harzburg): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 86 (Einbeck Mitte &ndash; G&ouml;ttingen): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RE 5 (Cuxhaven &ndash; Hamburg Hbf): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n\t<li>RB 37 (Bremen &ndash; Soltau &ndash; Uelzen): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n\t<li>RB 38 (Hannover &ndash; Soltau &ndash; Buchholz &ndash; (Hamburg-Harburg)): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n\t<li>RB 77 (B&uuml;nde &ndash; Hameln &ndash; Hildesheim): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n\t<li>RB 79 (Hildesheim &ndash; Bodenburg): Update folgt voraussichtlich Donnerstag Vormittag.</li>\n</ul>\n\n<p>Das Mindestfahrplanangebot sowie die letzten durchfahrenden Z&uuml;ge am Donnerstag, den 7. Dezember 2023, finden Sie im Laufe des Donnerstagvormittags in unseren digitalen Reiseauskunftsmedien unter bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent. &Uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir kurzfristig&nbsp;situativ informieren.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass es bereits am Donnerstag vor Streikbeginn, 22 Uhr, zu (Teil)- Ausf&auml;llen kommen wird. Am Donnerstagabend werden wir ab Streikbeginn keinen Zugverkehr mehr anbieten k&ouml;nnen.&nbsp;&nbsp;</p>\n\n<p>Leider konnte ein Ersatzverkehr mit Bussen aufgrund fehlender Buskapazit&auml;ten so kurzfristig nicht eingerichtet werden.</p>\n\n<p>Wir m&ouml;chten Sie an dieser Stelle zur Vollst&auml;ndigkeit darauf hinweisen, dass auch wir mit unserem Mindestfahrplanangebot von weiteren Streik-Ma&szlig;nahmen, wie beispielweise auf einem Stellwerk, betroffen sein k&ouml;nnen. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "07.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lastModified": "06.12.2023 19:01",
       "expand": false,
       "topDisruption": false
     },
@@ -322,7 +350,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
       "expand": false,
       "topDisruption": false
     },
@@ -363,30 +391,6 @@
       "topDisruption": false
     },
     {
-      "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Einschränkungen auf der Linie S 47",
-      "summary": "Betriebsbedingte Fahrplananpassungen bis 01. September 2024. ",
-      "text": "<p><strong>Bis 09. Dezember 2023 verkehrt die Linie S 47 wie folgt:</strong></p><p><strong>Montag bis Freitag</strong></p><p>Es verkehren die folgenden Einzelleistungen in den Morgenstunden:&nbsp;&nbsp;</p><ul><li>37702 Halle(Saale) Hbf (6:26) – Halle Trotha</li><li>37705 Halle Trotha (6:53) – Halle Südstadt</li><li>37704 Halle(Saale) Hbf (07:26) – Halle Trotha</li><li>37707 Halle Trotha(07:53) – Halle(Saale) Hbf</li><li>37706 Halle Südstadt (08:16) –Halle Trotha</li><li>37709 Halle Trotha (08:53) – Halle(Saale) Hbf</li></ul><p><strong>Samstag und Sonntag</strong></p><p>Es sind keine Einschränkungen auf der Linie S 47 geplant.&nbsp;</p><p><strong>Vom 10. Dezember 2023 bis 07. Januar 2024 verkehrt die Linie S 47 wie folgt:</strong></p><p><strong>Montag bis Freitag</strong></p><p>Es verkehren die folgenden Einzelleistungen in den Morgenstunden:&nbsp;&nbsp;</p><ul><li>37702 Halle(Saale) Hbf (6:26) – Halle Trotha</li><li>37705 Halle Trotha (6:53) – Halle Südstadt</li><li>37704 Halle(Saale) Hbf (07:26) – Halle Trotha</li><li>37707 Halle Trotha(07:53) – Halle(Saale) Hbf</li><li>37706 Halle Südstadt (08:16) –Halle Trotha</li><li>37709 Halle Trotha (08:53) – Halle(Saale) Hbf</li></ul><p><strong>Samstag und Sonntag</strong></p><p>Es sind keine Einschränkungen auf der Linie S 47 geplant.&nbsp;</p><p><strong>Vom 08. Januar bis 01. September 2024 verkehrt die Linie S 47 wie folgt:</strong></p><p>Mo - So verkehrt die Linie S 47 zwischen 06:00 Uhr und 22:00 Uhr ohne Einschränkungen. </p><p><strong>Alternative Reisemöglichkeit:</strong></p><p>Nutzen Sie alternativ die Straßenbahnen der HAVAG, <strong>Linie 12</strong>. Ihre Tickets werden in den Straßenbahnen zur Fahrt anerkannt.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>",
-      "durationBegin": "24.07.2023",
-      "durationEnd": "01.09.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lastModified": "06.12.2023 18:46",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "d2c8229b-7e5f-4bf9-9375-3312b843d70d",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -406,7 +410,31 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 18:45",
+      "lastModified": "06.12.2023 19:21",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Einschränkungen auf der Linie S 47",
+      "summary": "Betriebsbedingte Fahrplananpassungen bis 01. September 2024. ",
+      "text": "<p><strong>Bis 09. Dezember 2023 verkehrt die Linie S 47 wie folgt:</strong></p><p><strong>Montag bis Freitag</strong></p><p>Es verkehren die folgenden Einzelleistungen in den Morgenstunden:&nbsp;&nbsp;</p><ul><li>37702 Halle(Saale) Hbf (6:26) – Halle Trotha</li><li>37705 Halle Trotha (6:53) – Halle Südstadt</li><li>37704 Halle(Saale) Hbf (07:26) – Halle Trotha</li><li>37707 Halle Trotha(07:53) – Halle(Saale) Hbf</li><li>37706 Halle Südstadt (08:16) –Halle Trotha</li><li>37709 Halle Trotha (08:53) – Halle(Saale) Hbf</li></ul><p><strong>Samstag und Sonntag</strong></p><p>Es sind keine Einschränkungen auf der Linie S 47 geplant.&nbsp;</p><p><strong>Vom 10. Dezember 2023 bis 07. Januar 2024 verkehrt die Linie S 47 wie folgt:</strong></p><p><strong>Montag bis Freitag</strong></p><p>Es verkehren die folgenden Einzelleistungen in den Morgenstunden:&nbsp;&nbsp;</p><ul><li>37702 Halle(Saale) Hbf (6:26) – Halle Trotha</li><li>37705 Halle Trotha (6:53) – Halle Südstadt</li><li>37704 Halle(Saale) Hbf (07:26) – Halle Trotha</li><li>37707 Halle Trotha(07:53) – Halle(Saale) Hbf</li><li>37706 Halle Südstadt (08:16) –Halle Trotha</li><li>37709 Halle Trotha (08:53) – Halle(Saale) Hbf</li></ul><p><strong>Samstag und Sonntag</strong></p><p>Es sind keine Einschränkungen auf der Linie S 47 geplant.&nbsp;</p><p><strong>Vom 08. Januar bis 01. September 2024 verkehrt die Linie S 47 wie folgt:</strong></p><p>Mo - So verkehrt die Linie S 47 zwischen 06:00 Uhr und 22:00 Uhr ohne Einschränkungen. </p><p><strong>Alternative Reisemöglichkeit:</strong></p><p>Nutzen Sie alternativ die Straßenbahnen der HAVAG, <strong>Linie 12</strong>. Ihre Tickets werden in den Straßenbahnen zur Fahrt anerkannt.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p>",
+      "durationBegin": "24.07.2023",
+      "durationEnd": "01.09.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lastModified": "06.12.2023 19:21",
       "expand": false,
       "topDisruption": false
     },
@@ -437,7 +465,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
       "expand": true,
       "topDisruption": false
     },
@@ -517,7 +545,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
       "expand": false,
       "topDisruption": false
     },
@@ -541,7 +569,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
       "expand": true,
       "topDisruption": false
     },
@@ -565,7 +593,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
       "expand": false,
       "topDisruption": false
     },
@@ -589,7 +617,31 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "b723b91d-a116-4a42-abdf-877cded593dc",
+      "author": "REGIO_SH",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik: Fern-, Regional-, S-Bahn-Verkehr der DB vom 07.12. abends bis inkl. 08.12. bundesweit massiv beeinträchtigt",
+      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird vom 7. Dezember um 22 Uhr, bis 8. Dezember um 22 Uhr, bundesweit wegen eines Streiks der GDL massiv beeintr&auml;chtigt sein.&nbsp;<br />\n<br />\nDer Regionalverkehr der DB Regio Schleswig-Holstein wird massiv beeintr&auml;chtigt sein. Wir versuchen ein Mindestfahrplanangebot aufrechtzuerhalten. Trotzdem k&ouml;nnen wir in dieser Situation nicht garantieren, dass alle Reisenden an Ihr Ziel kommen. Wenn m&ouml;glich, verschieben Sie bitte geplante Reisen.&nbsp;",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Zwischen Westerland(Sylt) und Nieb&uuml;ll wird &uuml;berwiegend ein Dreistundentakt&nbsp;zur Hauptverkehrszeit angeboten. Vereinzelt verkehren Z&uuml;ge auf der Strecke zwischen Husum und Nieb&uuml;ll.&nbsp;</li>\n\t<li>RB 62 (Heide(Holst) &ndash; Itzehoe): Die Z&uuml;ge fallen aus.</li>\n\t<li>RB 64 (Bad St. Peter-Ording &ndash; Husum): Auf dieser Linie verkehrt derzeit ein Ersatzverkehr mit Bus aufgrund von Bauarbeiten.</li>\n\t<li>RE 7/RE 70 (Flensburg/Kiel Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge zwischen Kiel Hbf, Neum&uuml;nster und Hamburg verkehren vsl. im Zweistundentakt. Zwischen Neum&uuml;nster und Flensburg verkehren die Z&uuml;ge vsl. im Dreistundentakt. Bitte beachten Sie, dass es von/nach Flensburg zu einem Umstieg in Neum&uuml;nster kommt.</li>\n\t<li>RE 72/RB 73 (Flensburg &ndash; Eckernf&ouml;rde&nbsp;&ndash; Kiel Hbf):&nbsp;Auf dieser Linie verkehrt derzeit ein Ersatzverkehr mit Bus aufgrund von Bauarbeiten.</li>\n\t<li>RE 74 (Husum &ndash; Kiel Hbf): Die Z&uuml;ge fallen aus.</li>\n\t<li>RB 75 (Rendsburg &ndash; Kiel Hbf): Die Z&uuml;ge fallen aus.</li>\n\t<li>RE 8/RE 80 (L&uuml;beck Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren vsl. im Stundentakt.</li>\n\t<li>RB 81 (Bad Oldesloe &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren vsl. im Zweistundentakt.</li>\n\t<li>RB 85 (L&uuml;beck Hbf &ndash; Neustadt(Holst): Die Z&uuml;ge fallen aus.</li>\n\t<li>RB 86 (L&uuml;beck-Travem&uuml;nde Strand &ndash; L&uuml;beck Hbf): Diese Z&uuml;ge fallen aus. Bitte nutzen Sie zwischen L&uuml;beck Hbf und L&uuml;beck-Travem&uuml;nde Strand den Busverkehr mit den Linien 30, 31, 40.</li>\n</ul>\n\n<p>Das Mindestfahrplanangebot sowie die letzten durchfahrenden Z&uuml;ge am Donnerstag, den 7.Dezember 2023, finden Sie im Laufe des Donnerstagvormittags in unseren digitalen Reiseauskunftsmedien unter bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent. &Uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hreung einzelner Fahrten werden wir kurzfristig&nbsp;situativ informieren.&nbsp;<br />\nBitte beachten Sie, dass es bereits am Donnerstag vor Streikbeginn, 22 Uhr, zu (Teil)- Ausf&auml;llen kommen wird. Am Donnerstagabend werden wir ab Streikbeginn keinen Zugverkehr mehr anbieten k&ouml;nnen.&nbsp;</p>\n\n<p>Wir versuchen einen Ersatzverkehr mit Bussen einzurichten, k&ouml;nnen dies aufgrund der Kurzfristigkeit und der aktuellen Witterung derzeit nicht garantieren.&nbsp;<br />\n<br />\nWir m&ouml;chten Sie an dieser Stelle zur Vollst&auml;ndigkeit darauf hinweisen, dass auch wir mit unserem Mindestfahrplanangebot von weiteren Streik-Ma&szlig;nahmen, wie beispielweise auf einem Stellwerk, betroffen sein k&ouml;nnen. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "07.12.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SH"
+      ],
+      "lastModified": "06.12.2023 19:13",
       "expand": false,
       "topDisruption": false
     },
@@ -602,7 +654,7 @@
       },
       "headline": "Wintereinbruch: Bahnverkehr bei der DB Regio Baden-Württemberg auf einigen Strecken aktuell beeinträchtigt",
       "summary": "<strong>Der Bahnverkehr normalisiert sich im S&uuml;den nach Wintereinbruch.</strong>",
-      "text": "<ul>\n\t<li><strong>IRE3 / RE5 / RB93 (Ulm - Friedrichshafen - Lindau)</strong>&nbsp;Reparatur an der Oberleitung zwischen&nbsp;Friedrichshafen und Lindau behoben. Zugverkehr wieder ohne Einschr&auml;nkungen m&ouml;glich. Bis sich die Betriebslage wieder normalisiert hat kommt es noch zu Versp&auml;tungen und Zugausf&auml;llen.</li>\n\t<li><strong>S1 (Breisach - Freiburg - Titisee - Seebrugg/Neustadt)</strong> Streckenabschnitt Titisee&nbsp;- Seebrugg wieder befahrbar. Erster verkehrender Zug mit Abfahrt in Titisee&nbsp;um 14:29 Uhr in Richtung Seebrugg. Ersatzverkehr mit Bus&nbsp;wird im Anschluss eingestellt.</li>\n</ul>\n\n<p><u><strong>Folgende Strecken sind gesperrt:</strong></u></p>\n\n<ul>\n\t<li><strong>RE2 (Karlsruhe - Offenburg - Konstanz)&nbsp;</strong>Streckenabschnitt&nbsp;zwischen&nbsp; Singen(Hohentwiel) und Konstanz ist gesperrt. Ein Ersatzverkehr mit Bus von Singen(Hohentwiel) nach Konstanz ist eingerichtet. Die Abfahrtszeiten der Busse finden Sie in der Reiseauskunft unter www.bahn.de. Abweichungen bei den Fahrzeiten sind m&ouml;glich.&nbsp;Abfahrt der Busse in Singen&nbsp;von Haltestelle Singen S&uuml;d/Maggi. Die Strecke ist&nbsp;voraussichtlich&nbsp;am 7. Dezember wieder befahrbar.</li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "text": "<ul>\n\t<li><strong>RE2 (Karlsruhe - Offenburg - Konstanz) </strong>auch der&nbsp;Streckenabschnitt&nbsp;zwischen&nbsp; Singen(Hohentwiel) und Konstanz ist wieder befahrbar. Die ersten verkehrenden Z&uuml;ge sind RE 4743 (Abfahrt in Singen(Hohentwiel) um 23:52 Uhr) und RE 4741 (Abfahrt in Konstanz 20:09 Uhr). Der Ersatzverkehr mit Bus von Singen(Hohentwiel) nach Konstanz bleibt eingerichtet. Die Abfahrtszeiten der Busse finden Sie in der Reiseauskunft unter www.bahn.de. Abweichungen bei den Fahrzeiten sind m&ouml;glich.&nbsp;Abfahrt der Busse in Singen&nbsp;von Haltestelle Singen S&uuml;d/Maggi.&nbsp;</li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
       "durationBegin": "01.12.2023",
       "durationEnd": "07.12.2023",
       "downloads": [],
@@ -613,7 +665,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "06.12.2023 13:48",
+      "lastModified": "06.12.2023 19:11",
       "expand": false,
       "topDisruption": false
     },
@@ -666,7 +718,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
       "expand": false,
       "topDisruption": false
     },
@@ -690,7 +742,123 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "4bb29700-40af-4521-a7fb-3052e86f3ebf",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. abends bis inkl. 08.12. bundesweit massiv beeinträchtigt",
+      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird vom 7. Dezember um 22 Uhr, bis 8. Dezember um 22 Uhr, bundesweit wegen eines Streiks der GDL massiv beeintr&auml;chtigt sein.&nbsp;<br />\n<br />\nDer Regionalverkehr der DB Regio Baden-W&uuml;rttemberg wird massiv beeintr&auml;chtigt sein.<br />\n<br />\n<strong>Bereits vor dem Streikzeitraum kommt es ab 18 Uhr bereits zu Beeintr&auml;chtigungen und Zugausf&auml;llen.</strong><br />\n<br />\n<strong>Die DB Regio Baden-W&uuml;rttemberg wird am Freitag, 8.Dezember w&auml;hrend dem Streikzeitraum bis Tagesende nach einem Notfahrplan verkehren</strong>. <strong>Details entnehmen sie bitte in den betroffenen Linien. Die Zeiten der noch verkehrenden Z&uuml;ge finden Sie in den Fahrpl&auml;nen im Anhang.</strong><br />\n<br />\n<strong><u>Bitte beachten Sie:</u></strong>&nbsp;In dieser Situatuion kann es bei den Notfahrpl&auml;nen noch zu kurzfristigen &Auml;nderungen und Zugausf&auml;llen kommen. Ebenso werden wir versuchen das geplante Konzept w&auml;hrend dem Streik zu erweitern falls weitere Ressourcen an Fahrzeugen und Personal zur Verf&uuml;gung stehen.&nbsp;<br />\n&nbsp;",
+      "text": "<p><strong>Betroffene Linien und Konzepte vom Notfahrplan:</strong></p>\n\n<ul>\n\t<li>IRE3: Ulm - Lindau / Friedrichshafen - Basel Bad Bf&nbsp;<strong>Wegen&nbsp;Baustelle Biberach unregelm&auml;&szlig;iger Verkehr&nbsp;Ulm&lt;&gt;Biberach und Aulendorf&lt;&gt;Friedrichshafen. Zwischen Ulm&lt;&gt;Biberach auch die Z&uuml;ge der RS21 nutzen. Einzelne Zugverbindungen</strong></li>\n\t<li>IRE6: Stuttgart - T&uuml;bingen - Aulendorf /Rottenburg(Neckar) <strong>(einzelne Zugverbindungen)</strong></li>\n\t<li>IRE50: Aalen - Ulm<strong> (kein Notprogramm &gt; wenn m&ouml;glich auf Z&uuml;ge der SWEG ausweichen)</strong></li>\n\t<li>IRE200: Wendlingen - Ulm <strong>(2-Stunden-Takt)</strong></li>\n\t<li>RE2: Karlsruhe - Konstanz<strong> (einzelne Zugverbindungen)</strong></li>\n\t<li>RE4: Stuttgart - Konstanz <strong>(kein Notprogramm)</strong></li>\n\t<li>RE5: Stuttgart - Friedrichshaf<strong>en (kein Notprogramm Stuttgart&lt;&gt;Ulm. Wenn m&ouml;glich Z&uuml;ge der Go-Ahead GmbH nutzen. Wegen&nbsp;Baustelle Biberach unregelm&auml;&szlig;iger Verkehr&nbsp;Ulm&lt;&gt;Biberach und Aulendorf&lt;&gt;Friedrichshafen. Zwischen Ulm&lt;&gt;Biberach auch die Z&uuml;ge der RS21 nutzen.)</strong></li>\n\t<li>RE7: Karlsruhe - Basel <strong>Kein Notprogramm, Z&uuml;ge der Linien RE2 (Karlsruhe&lt;&gt;Offenburg), Linie RB26 (Offenburg&lt;&gt;Freiburg) und RB27 (Freiburg&lt;&gt;Basel) nutzen.&nbsp;</strong></li>\n\t<li>RE14a/b: Stuttgart - Rottweil / Freudenstadt <strong>(einzelne Zugverbindungen)</strong></li>\n\t<li>RE55: Donaueschingen - Ulm <strong>(einzelne Zugverbindungen)</strong></li>\n\t<li>RB26: Offenburg - Freiburg(Breisgau) <strong>(3-Stunden-Takt)</strong></li>\n\t<li>RB27: Freiburg(Breisgau) -Basel Bad Bf /Neuenburg(Baden)&nbsp;<strong>(3-Stunden-Takt Freiburg&lt;&gt;Basel, Kein Notprogramm M&uuml;llheim(Baden)&lt;&gt;Neuenburg(Baden))&nbsp;</strong></li>\n\t<li>RB28: M&uuml;llheim(Baden) - Mulhouse Ville<strong> (kein Notprogramm)</strong></li>\n\t<li>RB30: Basel Bad Bf - Lauchringen <strong>(3-Stunden-Takt)</strong></li>\n\t<li>RB31: Radolfzell - Friedrichshafen <strong>(kein Notprogramm. Z&uuml;ge der Linie IRE3 nutzen)</strong></li>\n\t<li>RB37: Waldshut -St&uuml;hlingen<strong> (kein Notprogramm)</strong></li>\n\t<li>RB42: Donaueschingen - Triberg/Rottweil <strong>(kein Notprogramm. Z&uuml;ge der Linie RE2 und SWEG nutzen)</strong></li>\n\t<li>RB53: Aulendorf - Leutkirch /Wangen(Allg&auml;u) <strong>(einzelne Zugverbindungen)</strong></li>\n\t<li>RB56: Ulm - Sigmaringen<strong> (Kein Notprogramm. Z&uuml;ge der Linie RE55 nutzen)&nbsp;</strong></li>\n\t<li>RB63: Bad Urach - Herrenberg<strong> (Kein Notprogramm Bad Urach&lt;&gt;T&uuml;bingen, 1.5 Stunden-Takt T&uuml;bingen&lt;&gt;Herrenberg)</strong></li>\n\t<li>RB74: Pforzheim - Horb - T&uuml;bingen <strong>(Pforzheim&lt;&gt;Horb einzelne Zugverbindungen, Horb &lt;&gt; T&uuml;bingen guter 2-Stunden-Takt)</strong></li>\n\t<li>RB93:<strong> </strong>Friedrichshafen - Lindau<strong> (Z&uuml;ge der Linie IRE3 nutzen)</strong></li>\n\t<li>MEX 19 / 90: Stuttgart - Schw&auml;bisch Hall-Hessental - Crailsheim <strong>(einzelne Zugverbindungen &gt;&nbsp;wenn m&ouml;glich auch auf Z&uuml;ge der Go Ahead GmbH&nbsp;ausweichen)</strong></li>\n\t<li>S1 / S10 / S11: Breisach / Endingen - Freiburg - Seebrugg / Villingen(Schwarzw)<strong> (kein Notprogramm Titisee&lt;&gt;Villingen(Schwarzw)), Kein Notprogramm Endingen a.K. &lt;&gt;Gottenheim, Einzelne Zugverbindungen Breisach-Freiburg-Titisee)</strong></li>\n\t<li>RS2 / RS21: Ulm - Biberach(Ri&szlig;)<strong> (2-Stunden-Takt)</strong></li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<strong>Streckenagent-APP</strong>&nbsp;immer dabei!</p>\n",
+      "durationBegin": "07.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:e02c1da0-b323-4ab9-b928-e43b44d36acd/IRE3_Singen-Lindau_Streik.pdf",
+          "label": "IRE3: Singen(Hohentwiel) - Lindau (PDF, 381 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:88f6ab7b-30e4-4e4b-8b8f-786ff2951528/IRE6_Aulendorf-Sigmaringen_Streik.pdf",
+          "label": "IRE6: Tübingen - Aulendorf (PDF, 374 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:d986a378-3050-49d9-9159-87529d559bd1/IRE200_Ulm-Wendlingen_Streik.pdf",
+          "label": "IRE200: Wendlingen - Ulm (PDF, 360 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:e2584a88-c7a8-446f-8449-7a73ded1f6e7/RE2_Offenburg-Konstanz_Streik.pdf",
+          "label": "RE2: Karlsruhe - Konstanz (PDF, 448 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:ccf54532-454a-429b-9605-173efffbf3b8/RE14_Stuttgart-Horb_Streik.pdf",
+          "label": "RE14a/b: Stuttgart - Horb (PDF, 371 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:50f6bfe9-8466-42a2-a64f-ee61f0d2ab5c/RE55_Ulm-Donaueschingen_Streik.pdf",
+          "label": "RE55: Donaueschingen - Ulm (PDF, 378 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:e2584a88-c7a8-446f-8449-7a73ded1f6e7/RE2_Offenburg-Konstanz_Streik.pdf",
+          "label": "RB26/RB27: Offenburg - Freiburg(Breisgau) - Basel Bad (PDF, 448 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:6a245c7f-38a4-479b-816d-ed3c11cc1f7f/RB30_Basel-Singen_Streik.pdf",
+          "label": "RB30: Basel Bad Bf - Lauchringen (PDF, 517 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:6726084b-3e4b-4189-801c-8edb1bde517f/RB53_Aulendorf-Ki%C3%9Flegg_Streik.pdf",
+          "label": "RB53: Aulendorf - Leutkirch /Wangen(Allgäu) (PDF, 374 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:9a54a7db-e427-4b02-aab1-51fccdaf9912/RB63_T%C3%BCbingen-Herrenberg_Streik.pdf",
+          "label": "RB63: Tübingen - Herrenberg (PDF, 383 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:b0b2569a-41e2-40e3-a36f-43374f7e3991/RB74_T%C3%BCbingen-Pforzheim_Streik.pdf",
+          "label": "RB74: Pforzheim - Horb - Tübingen (PDF, 385 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:b08c6af4-9a80-45fa-9fbe-2c92d42d8159/MEX90_Stuttgart-Crailsheim_Streik.pdf",
+          "label": "MEX 19 / 90: Stuttgart - Schwäbisch Hall-Hessental - Crailsheim (PDF, 557 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:e28940ac-9f5c-4863-9afa-7f3f6cb63a08/S1_Breisach-Freiburg-Titisee_Streik.pdf",
+          "label": "S1 : Breisach - Freiburg - Titisee (PDF, 471 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:9c06c363-c097-4ab1-9c37-7dd78c477b06/IRE3_Ulm-Friedrichshafen_Streik.pdf",
+          "label": "RS2 / RS21: Ulm - Biberach(Riß) (PDF, 458 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-APP",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "06.12.2023 19:19",
       "expand": false,
       "topDisruption": false
     },
@@ -981,7 +1149,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
       "expand": false,
       "topDisruption": false
     },
@@ -1047,7 +1215,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "06.12.2023 18:46",
+      "lastModified": "06.12.2023 19:21",
       "expand": false,
       "topDisruption": false
     },
