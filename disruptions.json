@@ -55,7 +55,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
       "expand": true,
       "topDisruption": true
     }
@@ -90,7 +90,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
       "expand": false,
       "topDisruption": false
     },
@@ -263,7 +263,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
       "expand": false,
       "topDisruption": false
     },
@@ -323,7 +323,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
       "expand": false,
       "topDisruption": false
     },
@@ -347,7 +347,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
       "expand": false,
       "topDisruption": false
     },
@@ -378,7 +378,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
       "expand": true,
       "topDisruption": false
     },
@@ -451,7 +451,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
       "expand": false,
       "topDisruption": false
     },
@@ -475,7 +475,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
       "expand": true,
       "topDisruption": false
     },
@@ -506,7 +506,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
       "expand": false,
       "topDisruption": false
     },
@@ -583,7 +583,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
       "expand": false,
       "topDisruption": false
     },
@@ -607,7 +607,30 @@
       "states": [
         "SN"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "e421e8c2-2d38-4cae-87c5-1f488d8f6ff8",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Fahrzeugverfügbarkeit"
+      },
+      "headline": "Beeinträchtigungen auf der Strecke Herrenberg - Tübingen Hbf",
+      "text": "<p><u><strong>Betroffene Strecke:</strong></u></p>\n\n<ul>\n\t<li><strong>RB63 Herrenberg - T&uuml;bingen - Metzingen&nbsp;</strong></li>\n</ul>\n\n<p>Zugausf&auml;lle am 6.12.2023 zwischen Herrenberg, T&uuml;bingen Hbf und Metzingen. Grund: Fahrzeugengpass. Bitte auf die davor- und danach fahrenden Z&uuml;ge ausweichen.&nbsp;</p>\n\n<p>Ein Ersatzverkehr mit Bus im Pendelbetrieb ist ab ca. 9 Uhr bis 21 Uhr zwischen Herrenberg und T&uuml;bingen eingerichtet.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "05.12.2023",
+      "durationEnd": "06.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "06.12.2023 01:54",
       "expand": false,
       "topDisruption": false
     },
@@ -638,29 +661,6 @@
         "BW"
       ],
       "lastModified": "05.12.2023 20:52",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "e421e8c2-2d38-4cae-87c5-1f488d8f6ff8",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Fahrzeugverfügbarkeit"
-      },
-      "headline": "Beeinträchtigungen auf der Strecke Herrenberg - Tübingen Hbf",
-      "text": "<p><u><strong>Betroffene Strecke:</strong></u></p>\n\n<ul>\n\t<li><strong>RB63 Herrenberg - T&uuml;bingen - Bad Urach</strong></li>\n</ul>\n\n<p>Zugausf&auml;lle am 5.12.2023 zwischen Herrenberg und T&uuml;bingen Hbf. Grund: Fahrzeugengpass. Bitte auf die davor- und danach fahrenden Z&uuml;ge ausweichen.&nbsp;</p>\n\n<p>Es ist ein Ersatzverkehr mit Bus von T&uuml;bingen nach Herrenberg im Pendelbetrieb eingerichtet.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
-      "durationBegin": "05.12.2023",
-      "durationEnd": "05.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "05.12.2023 17:14",
       "expand": false,
       "topDisruption": false
     },
@@ -898,7 +898,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
       "expand": false,
       "topDisruption": false
     },
@@ -964,7 +964,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "06.12.2023 00:46",
+      "lastModified": "06.12.2023 02:22",
       "expand": false,
       "topDisruption": false
     },
