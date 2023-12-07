@@ -47,12 +47,51 @@
         "SH",
         "TH"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": true,
       "topDisruption": true
     }
   ],
   "disruptions": [
+    {
+      "id": "15c28398-663f-4b33-b8bf-e3ca39e6bf5f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Berlin und Hannover / Göttingen",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Berlin und Wolfsburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Haltausfällen und Verspätungen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Sprinter zwischen Berlin und Köln/Bonn werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 75 Minuten. Der Halt Berlin-Spandau entfällt.</li><li>Alle ICE/IC-Züge zwischen Berlin und Hannover bzw. Göttingen werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 75 Minuten. Die Halte Berlin-Spandau, Stendal Hbf und Wolfsburg Hbf entfallen.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><p>Die umgeleiteten ICE/IC-Züge halten teilweise zusätzlich in Magdeburg Hbf bzw. Braunschweig Hbf. Gäste von/nach Stendal bzw. Wolfsburg nutzen bitte die Nahverkehrszüge zwischen Magdeburg und Stendal bzw. Braunschweig und Wolfsburg.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "07.12.2023",
+      "durationEnd": "07.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "07.12.2023 04:28",
+      "expand": true,
+      "topDisruption": false
+    },
     {
       "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
       "author": "FERNVERKEHR_AG",
@@ -82,7 +121,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
@@ -108,7 +147,7 @@
         "TH",
         "SN"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
@@ -208,30 +247,6 @@
       "topDisruption": false
     },
     {
-      "id": "7de0e47d-257b-4286-9ffa-fa709f3d2c74",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Hannover und Bremen",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hannover und Nienburg(Weser) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Haltausfällen und Zugausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Hannover - Bremen (- Oldenburg(Old)) fallen auf diesem Abschnitt aus</li><li>IC-Züge Hannover - Bremen - Oldenburg(Old) - Emden werden zwischen Hannover und Bremen umgeleitet. Die Halte in Nienburg(Weser) und Verden(Aller) entfallen. Die Züge verspäten sich um etwa 90 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lastModified": "07.12.2023 04:14",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "2dfb55bc-b28c-4047-9fa5-fc856574565f",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -252,7 +267,7 @@
         "BW",
         "BY"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": true,
       "topDisruption": false
     },
@@ -436,7 +451,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
@@ -496,7 +511,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
@@ -520,7 +535,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
@@ -551,7 +566,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": true,
       "topDisruption": false
     },
@@ -575,7 +590,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": true,
       "topDisruption": false
     },
@@ -599,7 +614,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
@@ -679,7 +694,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
@@ -703,7 +718,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
@@ -727,7 +742,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
@@ -740,7 +755,7 @@
       },
       "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Singen(Hohentwiel) und Schaffhausen",
       "summary": "Aktuell kommt es aufgrund von Winterwitterung zwischen Singen(Hohentwiel) und Schaffhausen zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen und Verspätungen. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Zürich fallen auf dem Abschnitt zwischen Singen(Hohentwiel) und Zürich aus. Zwischen Schaffhausen und Zürich verkehren Ersatzzüge durch die SBB. Zwischen Singen(Hohentwiel) und Schaffhausen nutzen Sie bitte die S-Bahn. Beachten Sie, dass es durch den nötigen Umstieg zu einer Reisezeitverlängerung kommt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen ist folgende Verbindung im Fernverkehr:</strong></strong><ul><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Zürich fallen auf dem Abschnitt zwischen Singen(Hohentwiel) und Zürich aus. Zwischen Schaffhausen und Zürich verkehren Ersatzzüge durch die SBB. Zwischen Singen(Hohentwiel) und Schaffhausen nutzen Sie bitte die S-Bahn. Beachten Sie, dass es durch den nötigen Umstieg zu einer Reisezeitverlängerung kommt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "06.12.2023",
       "durationEnd": "08.12.2023",
       "downloads": [],
@@ -751,7 +766,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": true,
       "topDisruption": false
     },
@@ -865,7 +880,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
@@ -889,7 +904,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
@@ -1296,7 +1311,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
@@ -1362,7 +1377,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "07.12.2023 04:14",
+      "lastModified": "07.12.2023 04:28",
       "expand": false,
       "topDisruption": false
     },
