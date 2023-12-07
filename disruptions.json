@@ -47,7 +47,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": true,
       "topDisruption": true
     }
@@ -88,7 +88,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": true,
       "topDisruption": false
     },
@@ -121,7 +121,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
       "topDisruption": false
     },
@@ -147,7 +147,7 @@
         "TH",
         "SN"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
       "topDisruption": false
     },
@@ -267,7 +267,7 @@
         "BW",
         "BY"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": true,
       "topDisruption": false
     },
@@ -403,7 +403,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
       "topDisruption": false
     },
@@ -463,7 +463,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
       "topDisruption": false
     },
@@ -487,7 +487,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
       "topDisruption": false
     },
@@ -518,7 +518,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": true,
       "topDisruption": false
     },
@@ -542,7 +542,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": true,
       "topDisruption": false
     },
@@ -566,7 +566,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
       "topDisruption": false
     },
@@ -620,30 +620,6 @@
       "topDisruption": false
     },
     {
-      "id": "1734f102-5d2a-4ebe-a988-755f79f57072",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Singen(Hohentwiel) und Schaffhausen",
-      "summary": "Aktuell kommt es aufgrund von Winterwitterung zwischen Singen(Hohentwiel) und Schaffhausen zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen und Verspätungen. ",
-      "text": "<strong><strong>Betroffen ist folgende Verbindung im Fernverkehr:</strong></strong><ul><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Zürich fallen auf dem Abschnitt zwischen Singen(Hohentwiel) und Zürich aus. Zwischen Schaffhausen und Zürich verkehren Ersatzzüge durch die SBB. Zwischen Singen(Hohentwiel) und Schaffhausen nutzen Sie bitte die S-Bahn. Beachten Sie, dass es durch den nötigen Umstieg zu einer Reisezeitverlängerung kommt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.12.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "07.12.2023 06:29",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -670,7 +646,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
       "topDisruption": false
     },
@@ -694,7 +670,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
       "topDisruption": false
     },
@@ -718,8 +694,32 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "1734f102-5d2a-4ebe-a988-755f79f57072",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Singen(Hohentwiel) und Schaffhausen",
+      "summary": "Aktuell kommt es aufgrund von Winterwitterung zwischen Singen(Hohentwiel) und Schaffhausen zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen und Verspätungen. ",
+      "text": "<strong><strong>Betroffen ist folgende Verbindung im Fernverkehr:</strong></strong><ul><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Zürich fallen auf dem Abschnitt zwischen Singen(Hohentwiel) und Zürich aus. Zwischen Schaffhausen und Zürich verkehren Ersatzzüge durch die SBB. Zwischen Singen(Hohentwiel) und Schaffhausen nutzen Sie bitte die S-Bahn. Beachten Sie, dass es durch den nötigen Umstieg zu einer Reisezeitverlängerung kommt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "07.12.2023 06:47",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -832,7 +832,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
       "topDisruption": false
     },
@@ -856,7 +856,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
       "topDisruption": false
     },
@@ -1310,7 +1310,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
       "topDisruption": false
     },
@@ -1376,7 +1376,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "07.12.2023 06:28",
+      "lastModified": "07.12.2023 06:47",
       "expand": false,
       "topDisruption": false
     },
