@@ -47,7 +47,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": true,
       "topDisruption": true
     }
@@ -88,7 +88,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": true,
       "topDisruption": false
     },
@@ -134,7 +134,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -167,7 +167,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -193,7 +193,7 @@
         "TH",
         "SN"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -326,6 +326,50 @@
       "topDisruption": false
     },
     {
+      "id": "c8f6947d-8454-4718-b548-389418c3f83e",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik DB Regio Südost Verkehrsbereich Mitteldeutschland",
+      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird vom 7. Dezember, um 22 Uhr bis 8. Dezember, um 22 Uhr bundesweit wegen eines Streiks der GDL massiv beeinträchtigt sein.\nDer Regionalverkehr der DB Regio Südost wird massiv beeinträchtigt sein. Wir versuchen ein Mindestfahrplanangebot aufrechtzuerhalten. Trotzdem können wir in dieser Situation nicht garantieren, dass alle Reisenden an Ihr Ziel kommen. Wenn möglich, verschieben Sie bitte geplante Reisen.",
+      "text": "<p>Folgendes Ersatzangebot ist für den 08. Dezember bestätigt:</p><p>S-Bahn Mitteldeutschland</p><p>S 4 Leipzig Hbf - Torgau Für diese Züge verkehrt zwischen Leipzig Hbf und Torgau ein Ersatzverkehr durch Bus im Vier-Stundentakt.</p><p>Sachsen-Anhalt</p><p>S 1 Wittenberge - Stendal Für diese Züge verkehrt zwischen Wittenberge und Stendal ein Ersatzverkehr durch Bus im Vier-Stundentakt.</p><p>RE 30 Halle(Saale) Hbf und Magdeburg Hbf Für diese Züge verkehrt zwischen Halle(Saale) Hbf und Magdeburg ein Ersatzverkehr durch Bus im Vier-Stundentakt.</p><p>Für Kunden, die sich über die aktuelle Verkehrslage und Auswirkungen des GDL-Streiks auf den Bahnverkehr informieren möchten, wurde eine&nbsp;<strong>kostenfreie Hotline</strong>&nbsp;eingerichtet. Die Nummer lautet&nbsp;<strong>08000-996633</strong></p>",
+      "durationBegin": "07.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2023-12-07/e82ee325-6a36-450c-bbed-3fa527bd508cBNV%2BRE30%2B%2528Halle-Magdeburg%2529.pdf",
+          "label": "BNV RE30 (Halle-Magdeburg).pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2023-12-07/827fbba0-7e90-4041-82c7-118eb81d4deaBNV%2B%2BS1%2B%2528Wittenberge-Stendal%2529.pdf",
+          "label": "BNV  S1 (Wittenberge-Stendal).pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2023-12-07/8dc7ece9-d34b-4257-92fc-ebc664041fb2BNV%2BS4%2B%2528Leipzig-Torgau.pdf",
+          "label": "BNV S4 (Leipzig-Torgau.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "SN"
+      ],
+      "lastModified": "07.12.2023 12:45",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "2dfb55bc-b28c-4047-9fa5-fc856574565f",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -346,7 +390,7 @@
         "BW",
         "BY"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": true,
       "topDisruption": false
     },
@@ -359,7 +403,7 @@
       },
       "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. abends bis einschließlich 8.12. bundesweit massiv beeinträchtigt",
       "summary": "Aufgrund eines Streiks der GDL (Gewerkschaft Deutscher Lokomotivf&uuml;hrer) wird es im Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. abends bis einschlie&szlig;lich 8.12. bundesweit zu Versp&auml;tungen und Zugausf&auml;llen kommen.<br />\n<br />\nDie GDL hat Streikma&szlig;nahmen im Personenverkehr angek&uuml;ndigt. Der Notfahrplan der DB sichert nur ein sehr begrenztes Zugangebot im Fern-, Regional- und S-Bahn-Verkehr der DB. Bitte sehen Sie von nicht notwendigen Reisen w&auml;hrend des GDL-Streiks ab und verschieben Sie Ihre Reise auf einen anderen Zeitpunkt.",
-      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 1 (Norddeich(Mole) - Bremen Hbf &ndash; Hannover Hbf): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RE 8 (Bremerhaven-Lehe &ndash; Hannover Hbf): Die Z&uuml;ge fallen aus.</li>\n\t<li>RE 9 (Osnabr&uuml;ck Hbf &ndash; (Bremen Hbf) &ndash; Bremerhaven-Lehe): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 40 (Braunschweig Hbf &ndash; Helmstedt): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RB 44/RB 48 (Braunschweig - Salzgitter-Lebenstedt): Die Z&uuml;ge fallen aus. Letzte durchfahrende Z&uuml;ge ab Braunschweig Hbf RB 14390 um 20:19 Uhr und ab Salzgitter-Lebenstedt RB 14291 um 20:49 Uhr.</li>\n\t<li>RB 45 (Braunschweig Hbf &ndash; Sch&ouml;ppenstedt): Die Z&uuml;ge verkehren vereinzelt. Letzte durchfahrende Z&uuml;ge ab Sch&ouml;ppenstedt RB14250 um 20:34 Uhr und ab Braunschweig Hbf RB 14251 um 20:57 Uhr.</li>\n\t<li>RB 46 (Braunschweig Hbf &ndash; Herzberg(Harz): Die Z&uuml;ge verkehren vereinzelt. Letzte&nbsp;durchfahrende&nbsp;Z&uuml;ge ab Braunschweig Hbf RB 14331 um 20:05 Uhr und ab Herzberg(Harz) RB 14334 um 20:34 Uhr.</li>\n\t<li>RB 80/81 (G&ouml;ttingen/Bodenfelde &ndash; Nordhausen): Die Z&uuml;ge verkehren vereinzelt.&nbsp;Bitte nutzen Sie zwischen G&ouml;ttingen und Northeim(Han)&nbsp;zus&auml;tzlich auch die Z&uuml;ge des&nbsp;Metronoms&nbsp;(RE 2). Letzte&nbsp;durchfahrende&nbsp;Z&uuml;ge am 07.12.2023 ab Northeim(Han) RB 14174 um 19:11 Uhr bis Bodenfelde, ab G&ouml;ttingen RB 14025 um 19:49 Uhr bis Nordhausen, ab Bodenfelde RB 14177 um 20:16 Uhr bis Northeim(Han) und ab Nordhausen RB 14022 um 20:39 Uhr bis Northeim(Han).</li>\n\t<li>RB 82 (G&ouml;ttingen &ndash; Kreiensen &ndash; Bad Harzburg): Die Z&uuml;ge verkehren vereinzelt. Letzte&nbsp;durchfahrenden Z&uuml;ge am 07.12.2023 ab G&ouml;ttingen RB 14133 um 18:48 Uhr bis Bad Harzburg und ab Bad Harzburg RB 14134 um 20:22 Uhr bis Kreiensen.</li>\n\t<li>RB 86 (Einbeck Mitte &ndash; G&ouml;ttingen): Die Z&uuml;ge verkehren vereinzelt.</li>\n\t<li>RE 5 (Cuxhaven &ndash; Hamburg Hbf):&nbsp;Folgende Z&uuml;ge fallen am Donnerstag, den 7.12., aus:&nbsp;RE 14535&nbsp;ab Stade um 21:57&nbsp;Uhr bis&nbsp;Cuxhaven,&nbsp;RE 14546 von&nbsp;Cuxhaven um 22:37 Uhr bis&nbsp;Stade. Ein Ersatzverkehr mit Bus ist f&uuml;r die ausfallenden Zugfahrten (14535 und 14546) eingerichtet. Letzter durchfahrender Zug am Freitag, den 8.12.:&nbsp;RE 14540 ab Cuxhaven um 04:30 Uhr in Richtung Hamburg-Harburg.&nbsp;Nachfolgend verkehren die Z&uuml;ge der Linie RE5 zwischen Stade und Hamburg-Harburg vsl. im Stundentakt. Ab vsl. 13 Uhr verkehren die Z&uuml;ge der Linie RE5 zwischen Cuxhaven und Hamburg-Harburg im Zwei-Stundentakt.</li>\n\t<li>RB 37 (Bremen &ndash; Soltau &ndash; Uelzen): Die Z&uuml;ge fallen aus.&nbsp;Es wird versucht, einen Ersatzverkehr mit Bussen einzurichten. Update folgt, sobald uns R&uuml;ckmeldungen der Busunternehmen vorliegen.</li>\n\t<li>RB 38 (Hannover &ndash; Soltau &ndash; Buchholz &ndash; (Hamburg-Harburg)): Die Z&uuml;ge fallen aus.&nbsp;Es wird versucht, einen Ersatzverkehr mit Bussen einzurichten. Update folgt, sobald uns R&uuml;ckmeldungen der Busunternehmen vorliegen.</li>\n\t<li>RB 77 (B&uuml;nde &ndash; Hameln &ndash; Hildesheim): Die Z&uuml;ge fallen aus. Es wird versucht, einen Ersatzverkehr mit Bussen einzurichten. Update folgt, sobald uns R&uuml;ckmeldungen der Busunternehmen vorliegen.</li>\n\t<li>RB 79 (Hildesheim &ndash; Bodenburg): Die Z&uuml;ge fallen aus.&nbsp;Es wird versucht, einen Ersatzverkehr mit Bussen einzurichten. Update folgt, sobald uns R&uuml;ckmeldungen der Busunternehmen vorliegen.</li>\n</ul>\n\n<p>Den Notfahrplan sowie die letzten durchfahrenden Z&uuml;ge am Donnerstag, den 7. Dezember 2023, finden Sie im Laufe des Donnerstagvormittag in unseren digitalen Reiseauskunftsmedien unter bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent. &Uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir kurzfristig&nbsp;situativ informieren.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass es bereits am Donnerstag vor Streikbeginn, 22 Uhr, zu (Teil)- Ausf&auml;llen kommen wird. Am Donnerstagabend werden wir ab Streikbeginn keinen Zugverkehr mehr anbieten k&ouml;nnen.&nbsp;&nbsp;</p>\n\n<p>Leider konnte ein Ersatzverkehr mit Bussen aufgrund fehlender Buskapazit&auml;ten so kurzfristig nicht eingerichtet werden.</p>\n\n<p>Wir m&ouml;chten Sie an dieser Stelle zur Vollst&auml;ndigkeit darauf hinweisen, dass auch wir mit unserem Notfahrplan von weiteren Streik-Ma&szlig;nahmen, wie beispielweise auf einem Stellwerk, betroffen sein k&ouml;nnen. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>Im Rahmen einer Sonderkulanz der DB Regio und des DB Fernverkehrs besteht auch die M&ouml;glichkeit, Ihre Reise vorzuverlegen und bereits im Laufe des 7. Dezember fr&uuml;her zu fahren. In diesem Fall empfehlen wir, die Reise bereits fr&uuml;h am Tag anzutreten, um so sicherzustellen, dass Sie vor Streikbeginn um 22 Uhr an Ihrem Zielort sind.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft oder in der App DB Navigator. Ab dem 7. Dezember, 9 Uhr, wird zus&auml;tzlich eine kostenfreie Streikhotline unter der Rufnummer 08000 99 66 33 geschaltet.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 1 (Norddeich(Mole) - Bremen Hbf &ndash; Hannover Hbf): Am 08.12. verkehren die Z&uuml;ge vereinzelt.</li>\n\t<li>RE 8 (Bremerhaven-Lehe &ndash; Hannover Hbf): Die Z&uuml;ge fallen aus.</li>\n\t<li>RE 9 (Osnabr&uuml;ck Hbf &ndash; (Bremen Hbf) &ndash; Bremerhaven-Lehe): Am 08.12. verkehren die Z&uuml;ge vereinzelt.</li>\n\t<li>RB 40 (Braunschweig Hbf &ndash; Helmstedt): Am 08.12. verkehren die Z&uuml;ge vereinzelt.</li>\n\t<li>RB 44/RB 48 (Braunschweig - Salzgitter-Lebenstedt): Die Z&uuml;ge fallen am 08.12. aus. Die letzten durchfahrenden Z&uuml;ge sind f&uuml;r den 07.12. ab Braunschweig Hbf RB 14390 um 20:19 Uhr und ab Salzgitter-Lebenstedt RB 14291 um 20:49 Uhr.</li>\n\t<li>RB 45 (Braunschweig Hbf &ndash; Sch&ouml;ppenstedt): Am 08.12. verkehren die Z&uuml;ge vereinzelt. Die letzten durchfahrenden Z&uuml;ge sind f&uuml;r den 07.12. ab Sch&ouml;ppenstedt RB14250 um 20:34 Uhr und ab Braunschweig Hbf RB 14251 um 20:57 Uhr.</li>\n\t<li>RB 46 (Braunschweig Hbf &ndash; Herzberg(Harz): Am 08.12. verkehren die Z&uuml;ge vereinzelt. Die letzten durchfahrenden Z&uuml;ge sind f&uuml;r den 07.12. ab Braunschweig Hbf RB 14331 um 20:05 Uhr und ab Herzberg(Harz) RB 14334 um 20:34 Uhr.</li>\n\t<li>RB 80/81 (G&ouml;ttingen/Bodenfelde &ndash; Nordhausen): Am 08.12. verkehren die Z&uuml;ge vereinzelt. Bitte nutzen Sie zwischen G&ouml;ttingen und Northeim(Han)&nbsp;zus&auml;tzlich auch die Z&uuml;ge des&nbsp;Metronoms&nbsp;(RE 2). Die letzten durchfahrenden Z&uuml;ge sind f&uuml;r den 07.12.&nbsp;ab Northeim(Han) RB 14174 um 19:11 Uhr bis Bodenfelde, ab G&ouml;ttingen RB 14025 um 19:49 Uhr bis Nordhausen, ab Bodenfelde RB 14177 um 20:16 Uhr bis Northeim(Han) und ab Nordhausen RB 14022 um 20:39 Uhr bis Northeim(Han).</li>\n\t<li>RB 82 (G&ouml;ttingen &ndash; Kreiensen &ndash; Bad Harzburg): Am 08.12. verkehren die Z&uuml;ge vereinzelt. Die letzten durchfahrenden Z&uuml;ge sind f&uuml;r den 07.12. ab G&ouml;ttingen RB 14133 um 18:48 Uhr bis Bad Harzburg und ab Bad Harzburg RB 14134 um 20:22 Uhr bis Kreiensen.</li>\n\t<li>RB 86 (Einbeck Mitte &ndash; G&ouml;ttingen): Am 08.12. verkehren die Z&uuml;ge vereinzelt.</li>\n\t<li>RE 5 (Cuxhaven &ndash; Hamburg Hbf):&nbsp;Folgende Z&uuml;ge fallen am Donnerstag, den 07.12., aus:&nbsp;RE 14535&nbsp;ab Stade um 21:57&nbsp;Uhr bis&nbsp;Cuxhaven,&nbsp;RE 14546 von&nbsp;Cuxhaven um 22:37 Uhr bis&nbsp;Stade. Ein Ersatzverkehr mit Bus ist f&uuml;r die ausfallenden Zugfahrten (14535 und 14546) eingerichtet. Letzter durchfahrender Zug am Freitag, den 08.12.:&nbsp;RE 14540 ab Cuxhaven um 04:30 Uhr in Richtung Hamburg-Harburg.&nbsp;Nachfolgend verkehren die Z&uuml;ge der Linie RE5 zwischen Stade und Hamburg-Harburg vsl. im Stundentakt. Ab vsl. 13 Uhr verkehren die Z&uuml;ge der Linie RE5 zwischen Cuxhaven und Hamburg-Harburg im Zwei-Stundentakt.</li>\n\t<li>RB 37 (Bremen &ndash; Soltau &ndash; Uelzen): Die Z&uuml;ge fallen aus.&nbsp;Es wird versucht, einen Ersatzverkehr mit Bussen einzurichten. Update folgt, sobald uns R&uuml;ckmeldungen der Busunternehmen vorliegen.</li>\n\t<li>RB 38 (Hannover &ndash; Soltau &ndash; Buchholz &ndash; (Hamburg-Harburg)): Die Z&uuml;ge fallen aus.&nbsp;Es wird versucht, einen Ersatzverkehr mit Bussen einzurichten. Update folgt, sobald uns R&uuml;ckmeldungen der Busunternehmen vorliegen.</li>\n\t<li>RB 77 (B&uuml;nde &ndash; Hameln &ndash; Hildesheim): Die Z&uuml;ge fallen aus. Es wird versucht, einen Ersatzverkehr mit Bussen einzurichten. Update folgt, sobald uns R&uuml;ckmeldungen der Busunternehmen vorliegen.</li>\n\t<li>RB 79 (Hildesheim &ndash; Bodenburg): Die Z&uuml;ge fallen aus.&nbsp;Es wird versucht, einen Ersatzverkehr mit Bussen einzurichten. Update folgt, sobald uns R&uuml;ckmeldungen der Busunternehmen vorliegen.</li>\n</ul>\n\n<p>Den Notfahrplan sowie die letzten durchfahrenden Z&uuml;ge am Donnerstag, den 7. Dezember 2023, finden Sie im Laufe des Donnerstagvormittag in unseren digitalen Reiseauskunftsmedien unter bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent. &Uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir kurzfristig&nbsp;situativ informieren.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass es bereits am Donnerstag vor Streikbeginn, 22 Uhr, zu (Teil)- Ausf&auml;llen kommen wird. Am Donnerstagabend werden wir ab Streikbeginn keinen Zugverkehr mehr anbieten k&ouml;nnen.&nbsp;&nbsp;</p>\n\n<p>Leider konnte ein Ersatzverkehr mit Bussen aufgrund fehlender Buskapazit&auml;ten so kurzfristig nicht eingerichtet werden.</p>\n\n<p>Wir m&ouml;chten Sie an dieser Stelle zur Vollst&auml;ndigkeit darauf hinweisen, dass auch wir mit unserem Notfahrplan von weiteren Streik-Ma&szlig;nahmen, wie beispielweise auf einem Stellwerk, betroffen sein k&ouml;nnen. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>Im Rahmen einer Sonderkulanz der DB Regio und des DB Fernverkehrs besteht auch die M&ouml;glichkeit, Ihre Reise vorzuverlegen und bereits im Laufe des 7. Dezember fr&uuml;her zu fahren. In diesem Fall empfehlen wir, die Reise bereits fr&uuml;h am Tag anzutreten, um so sicherzustellen, dass Sie vor Streikbeginn um 22 Uhr an Ihrem Zielort sind.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft oder in der App DB Navigator. Ab dem 7. Dezember, 9 Uhr, wird zus&auml;tzlich eine kostenfreie Streikhotline unter der Rufnummer 08000 99 66 33 geschaltet.</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
       "durationBegin": "07.12.2023",
       "durationEnd": "08.12.2023",
       "downloads": [],
@@ -408,7 +452,7 @@
         "HB",
         "NI"
       ],
-      "lastModified": "07.12.2023 11:18",
+      "lastModified": "07.12.2023 12:39",
       "expand": true,
       "topDisruption": false
     },
@@ -469,7 +513,7 @@
         "label": "Kurzfristige Erkrankung von Personal"
       },
       "headline": "Wegen eines erhöhten Krankenstands beim Fahrpersonal fallen die Züge zwischen Worms und Biblis",
-      "summary": "Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal fallen die Z&uuml;ge <strong>ab 14:30 Uhr, Donnerstag, 06.12.23 zwischen Biblis und Worms aus.</strong><br />\n&nbsp;",
+      "summary": "Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal fallen die Z&uuml;ge <strong>ab 14:30 Uhr, Donnerstag, 06.12.23 zwischen Biblis und Worms aus.</strong><br />\n<br />\nDauer der Beeintr&auml;chtigung bis Betriebsschluss.",
       "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB62</strong>&nbsp;Worms &ndash; Hofheim &ndash; Biblis <strong><em>(Riedbahn)</em></strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr mit Bus ist zwischen Worms Hbf - Biblis eingerichtet.</strong></p>\n\n<p>Bitte beachten Sie, dass die <strong>Busse ohne festen Fahrplan</strong> verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.&nbsp;</p>\n\n<p>Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "downloads": [],
       "links": [
@@ -505,7 +549,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "07.12.2023 11:59",
+      "lastModified": "07.12.2023 12:42",
       "expand": false,
       "topDisruption": false
     },
@@ -530,7 +574,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -632,7 +676,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -656,7 +700,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -687,7 +731,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": true,
       "topDisruption": false
     },
@@ -711,7 +755,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -735,38 +779,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "07.12.2023 12:27",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "0f47ac50-4eef-4c0a-a671-7d6aff00646c",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Ersatzfahrpläne für streikbedingte Ausfälle",
-      "summary": "Fahrplan für den Ersatzverkehr am 08.12.2023",
-      "text": "<p>Für die Linie RB 53 verkehrt ein Ersatzverkehr mit Bus.</p><p>Die Fahrzeiten entnehmen Sie dem PDF-Anhang.</p><p>Für Kunden, die sich über die aktuelle Verkehrslage und Auswirkungen des GDL-Streiks auf den Bahnverkehr informieren möchten, wurde eine&nbsp;<strong>kostenfreie Hotline</strong>&nbsp;eingerichtet. Die Nummer lautet&nbsp;<strong>08000-996633.</strong></p>",
-      "durationBegin": "08.12.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2023-12-07/6b7c427d-13a5-4358-a5a3-0777c0537c12Gotha%2B%2BBad%2BLangensalza081223Salza_359784428.pdf",
-          "label": "Gotha  Bad Langensalza081223Salza_359784428.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "TH"
-      ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": true,
       "topDisruption": false
     },
@@ -790,7 +803,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -814,7 +827,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": true,
       "topDisruption": false
     },
@@ -851,7 +864,38 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "0f47ac50-4eef-4c0a-a671-7d6aff00646c",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik DB Regio Südost Verkehrsbereich Thüringen",
+      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird vom 7. Dezember, um 22 Uhr bis 8. Dezember, um 22 Uhr bundesweit wegen eines Streiks der GDL massiv beeinträchtigt sein.\nDer Regionalverkehr der DB Regio Südost wird massiv beeinträchtigt sein. Wir versuchen ein Mindestfahrplanangebot aufrechtzuerhalten. Trotzdem können wir in dieser Situation nicht garantieren, dass alle Reisenden an Ihr Ziel kommen. Wenn möglich, verschieben Sie bitte geplante Reisen.",
+      "text": "<p>Folgendes Ersatzangebot ist für den 08. Dezember bestätigt:</p><p>RB 53 Gotha - Bad Langensalza &nbsp;Für diese Züge verkehrt zwischen Gotha und Bad Langensalza ein Ersatzverkehr durch Bus im Zwei-Stundentakt.</p><p>Für Kunden, die sich über die aktuelle Verkehrslage und Auswirkungen des GDL-Streiks auf den Bahnverkehr informieren möchten, wurde eine&nbsp;<strong>kostenfreie Hotline</strong>&nbsp;eingerichtet. Die Nummer lautet&nbsp;<strong>08000-996633.</strong></p>",
+      "durationBegin": "08.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2023-12-07/1cd4079a-a8e7-4d3a-a9d9-afed64121493Gotha%2B%2BBad%2BLangensalza081223Salza_359784428.pdf",
+          "label": "Gotha  Bad Langensalza081223Salza_359784428.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lastModified": "07.12.2023 12:45",
       "expand": true,
       "topDisruption": false
     },
@@ -975,7 +1019,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -999,7 +1043,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -1023,7 +1067,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -1047,7 +1091,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": true,
       "topDisruption": false
     },
@@ -1060,7 +1104,7 @@
       },
       "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. abends bis einschließlich 8.12. bundesweit massiv beeinträchtigt",
       "summary": "Aufgrund eines Streiks der GDL (Gewerkschaft Deutscher Lokomotivf&uuml;hrer) wird es im Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. abends bis einschlie&szlig;lich 8.12. bundesweit zu Versp&auml;tungen und Zugausf&auml;llen kommen.<br />\n<br />\nDie GDL hat Streikma&szlig;nahmen im Personenverkehr angek&uuml;ndigt. Der Notfahrplan der DB sichert nur ein sehr begrenztes Zugangebot im Fern-, Regional- und S-Bahn-Verkehr der DB. Bitte sehen Sie von nicht notwendigen Reisen w&auml;hrend des GDL-Streiks ab und verschieben Sie Ihre Reise auf einen anderen Zeitpunkt.",
-      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Zwischen Westerland(Sylt) und Nieb&uuml;ll wird &uuml;berwiegend ein Dreistundentakt&nbsp;zur Hauptverkehrszeit angeboten. Vereinzelt verkehren Z&uuml;ge auf der Strecke zwischen Husum und Nieb&uuml;ll. Bitte nutzen Sie zwischen Itzehoe und Hamburg zus&auml;tzlich auch die Z&uuml;ge der nordbahn (RB 61/RB71).&nbsp;Zwischen Westerland(Sylt) und Morsum verkehrt derzeit ein Ersatzverkehr mit Bus aufgrund von Bauarbeiten. Letzte&nbsp;durchfahrende&nbsp;Z&uuml;ge am 07.12.2023 ab Hamburg-Altona&nbsp;RE 11030 um 19:40 Uhr bis Husum, ab Husum RE 56324 um 18:40 Uhr bis Morsum, ab Morsum RE 56339 um 20:28 Uhr bis Husum und ab Husum RE 11035 um 19:31 Uhr bis Hamburg-Altona.<br />\n\tBitte beachten Sie, dass der Sylt-Shuttle von den Streikma&szlig;nahmen nicht betroffen sein wird. Hier wird im Regelfahrplan gefahren. Der Sylt Shuttle plus f&auml;hrt ebenfalls und ist f&uuml;r Reisende des Nahverkehrs freigegeben.</li>\n\t<li>RB 62 (Heide(Holst) &ndash; Itzehoe): Die Z&uuml;ge fallen aus. Letzte&nbsp;durchfahtrende&nbsp;Z&uuml;ge am 07.12.2023 ab Itzehoe RB 11128 um 19:11 Uhr und ab Heide(Holst) 11135 um 20:08 Uhr.</li>\n\t<li>RB 64 (Bad St. Peter-Ording &ndash; Husum): Auf dieser Linie verkehrt derzeit ein Ersatzverkehr mit Bus aufgrund von Bauarbeiten.</li>\n\t<li>RE 7/RE 70 (Flensburg/Kiel Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge zwischen Kiel Hbf, Neum&uuml;nster und Hamburg verkehren vsl. im Zweistundentakt. Zwischen Neum&uuml;nster und Flensburg verkehren die Z&uuml;ge vsl. im Dreistundentakt. Bitte beachten Sie, dass es von/nach Flensburg zu einem Umstieg in Neum&uuml;nster kommt. Letzte&nbsp;durchfahrende&nbsp;Z&uuml;ge am 07.12.2023 ab Flensburg in Richtung Hamburg Hbf RE 11181 um 17:15 Uhr, ab Kiel Hbf in Richtung Hamburg Hbf RE 11235 um 20:25 Uhr, ab Hamburg Hbf in Richtung Flensburg RE 11178 um 18:43 Uhr und ab Hamburg Hbf in Richtung Kiel Hbf RE 11232 um 20:22 Uhr.</li>\n\t<li>RE 72/RB 73 (Flensburg &ndash; Eckernf&ouml;rde&nbsp;&ndash; Kiel Hbf):&nbsp;Auf dieser Linie verkehrt derzeit ein Ersatzverkehr mit Bus aufgrund von Bauarbeiten.</li>\n\t<li>RE 74 (Husum &ndash; Kiel Hbf): Die Z&uuml;ge fallen aus. Letzte&nbsp;durchfahrende&nbsp;Z&uuml;ge am 07.12.2023 ab Husum RE 11735 um 19:35 Uhr und ab Kiel Hbf RE 11730 um 20:03 Uhr.&nbsp;Am 08.12.2023 ist ein Ersatzverkehr mit Bussen der Firma Reisedienst Breiholz&nbsp;im Pendel zwischen Husum&nbsp;und J&uuml;bek&nbsp;eingerichtet.</li>\n\t<li>RB 75 (Rendsburg &ndash; Kiel Hbf): Die Z&uuml;ge fallen aus. Letzte&nbsp;durchfahrende&nbsp;Z&uuml;ge am 07.12.2023 ab Kiel Hbf RB 11778 um 19:25 Uhr und ab Rendsburg RB 11787 um 20:51 Uhr.&nbsp;Auf dieser Linie verkehrt zus&auml;tzlich ein Ersatzverkehr mit Bus aufgrund von Bauarbeiten.</li>\n\t<li>RE 8/RE 80 (L&uuml;beck Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren vsl. im Stundentakt. Die letzte&nbsp;durchfahrende&nbsp;Z&uuml;ge am 07.12.2023 ab L&uuml;beck Hbf RE 11483 um 19:38 Uhr und ab Hamburg Hbf RE 11482 um 20:34 Uhr</li>\n\t<li>RB 81 (Bad Oldesloe &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren vsl. im Zweistundentakt. Letzte&nbsp;durchfahrende&nbsp;Z&uuml;ge am 07.12.2023 ab Bargteheide RB 11383 um 20:16 Uhr und ab Hamburg Hbf RB 11334 um 20:41 Uhr.</li>\n\t<li>RB 85 (L&uuml;beck Hbf &ndash; Neustadt(Holst): Die Z&uuml;ge fallen aus. Letzte&nbsp;durchfahrende&nbsp;Z&uuml;ge am 07.12.2023 ab L&uuml;beck Hbf RB 11628 um 19:12 Uhr und ab Neustadt(Holst) RB 11635 um 20:15 Uhr. Am 08.12.2023 ist ein Ersatzverkehr mit Bussen der Firma MussBus im Pendel zwischen L&uuml;beck Hbf und Neustadt(Holst) eingerichtet.</li>\n\t<li>RB 86 (L&uuml;beck-Travem&uuml;nde Strand &ndash; L&uuml;beck Hbf): Diese Z&uuml;ge fallen aus. Bitte nutzen Sie zwischen L&uuml;beck Hbf und L&uuml;beck-Travem&uuml;nde Strand den Busverkehr mit den Linien 30, 31, 40. Letzte&nbsp;durchfahrende&nbsp;Z&uuml;ge am 07.12.2023 ab L&uuml;beck Hbf RB 11530 um 20:03 Uhr und L&uuml;beck-Travem&uuml;nde Strand RB 11535 um 20:34 Uhr.</li>\n</ul>\n\n<p>Den Notfahrplan sowie die letzten durchfahrenden Z&uuml;ge am Donnerstag, den 7. Dezember 2023, finden Sie im Laufe des Donnerstagvormittags in unseren digitalen Reiseauskunftsmedien unter bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent. &Uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir kurzfristig&nbsp;situativ informieren.&nbsp;<br />\nBitte beachten Sie, dass es bereits am Donnerstag vor Streikbeginn, 22 Uhr, zu (Teil)- Ausf&auml;llen kommen wird. Am Donnerstagabend werden wir ab Streikbeginn keinen Zugverkehr mehr anbieten k&ouml;nnen.&nbsp;</p>\n\n<p>Wir versuchen einen Ersatzverkehr mit Bussen einzurichten, k&ouml;nnen dies aufgrund der Kurzfristigkeit und der aktuellen Witterung derzeit nicht garantieren.&nbsp;<br />\n<br />\nWir m&ouml;chten Sie an dieser Stelle zur Vollst&auml;ndigkeit darauf hinweisen, dass auch wir mit unserem Notfahrplan von weiteren Streik-Ma&szlig;nahmen, wie beispielweise auf einem Stellwerk, betroffen sein k&ouml;nnen. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft oder in der App DB Navigator. Ab dem 7. Dezember, 9 Uhr, wird zus&auml;tzlich eine kostenfreie Streikhotline unter der Rufnummer 08000 99 66 33 geschaltet.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Zwischen Westerland(Sylt) und Nieb&uuml;ll wird &uuml;berwiegend ein Dreistundentakt&nbsp;zur Hauptverkehrszeit angeboten. Vereinzelt verkehren Z&uuml;ge auf der Strecke zwischen Husum und Nieb&uuml;ll. Bitte nutzen Sie zwischen Itzehoe und Hamburg zus&auml;tzlich auch die Z&uuml;ge der nordbahn (RB 61/RB71).&nbsp;Zwischen Westerland(Sylt) und Morsum verkehrt derzeit ein Ersatzverkehr mit Bus aufgrund von Bauarbeiten. Die letzten durchfahrenden Z&uuml;ge sind am 07.12.&nbsp;ab Hamburg-Altona&nbsp;RE 11030 um 19:40 Uhr bis Husum, ab Husum RE 56324 um 18:40 Uhr bis Morsum, ab Morsum RE 56339 um 20:28 Uhr bis Husum und ab Husum RE 11035 um 19:31 Uhr bis Hamburg-Altona.<br />\n\tBitte beachten Sie, dass der Sylt-Shuttle von den Streikma&szlig;nahmen nicht betroffen sein wird. Hier wird im Regelfahrplan gefahren. Der Sylt Shuttle plus f&auml;hrt ebenfalls und ist f&uuml;r Reisende des Nahverkehrs freigegeben.</li>\n\t<li>RB 62 (Heide(Holst) &ndash; Itzehoe): Die Z&uuml;ge fallen aus. Die letzten durchfahrenden Z&uuml;ge sind am 07.12 ab Itzehoe RB 11128 um 19:11 Uhr und ab Heide(Holst) 11135 um 20:08 Uhr.</li>\n\t<li>RB 64 (Bad St. Peter-Ording &ndash; Husum): Auf dieser Linie verkehrt derzeit ein Ersatzverkehr mit Bus aufgrund von Bauarbeiten.</li>\n\t<li>RE 7/RE 70 (Flensburg/Kiel Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge zwischen Kiel Hbf, Neum&uuml;nster und Hamburg verkehren vsl. im Zweistundentakt. Zwischen Neum&uuml;nster und Flensburg verkehren die Z&uuml;ge vsl. im Dreistundentakt. Bitte beachten Sie, dass es von/nach Flensburg zu einem Umstieg in Neum&uuml;nster kommt. Die letzten durchfahrenden Z&uuml;ge sind am 07.12. ab Flensburg in Richtung Hamburg Hbf RE 11181 um 17:15 Uhr, ab Kiel Hbf in Richtung Hamburg Hbf RE 11235 um 20:25 Uhr, ab Hamburg Hbf in Richtung Flensburg RE 11178 um 18:43 Uhr und ab Hamburg Hbf in Richtung Kiel Hbf RE 11232 um 20:22 Uhr.</li>\n\t<li>RE 72/RB 73 (Flensburg &ndash; Eckernf&ouml;rde&nbsp;&ndash; Kiel Hbf):&nbsp;Auf dieser Linie verkehrt derzeit ein Ersatzverkehr mit Bus aufgrund von Bauarbeiten.</li>\n\t<li>RE 74 (Husum &ndash; Kiel Hbf): Die Z&uuml;ge fallen aus. Die letzten durchfahrenden Z&uuml;ge sind am 07.12. ab Husum RE 11735 um 19:35 Uhr und ab Kiel Hbf RE 11730 um 20:03 Uhr.&nbsp;Am 08.12.2023 ist ein Ersatzverkehr mit Bussen der Firma Reisedienst Breiholz&nbsp;im Pendel zwischen Husum&nbsp;und J&uuml;bek&nbsp;eingerichtet.</li>\n\t<li>RB 75 (Rendsburg &ndash; Kiel Hbf): Die Z&uuml;ge fallen aus. Die letzten durchfahrenden Z&uuml;ge sind am 07.12. ab Kiel Hbf RB 11778 um 19:25 Uhr und ab Rendsburg RB 11787 um 20:51 Uhr.&nbsp;Auf dieser Linie verkehrt zus&auml;tzlich ein Ersatzverkehr mit Bus aufgrund von Bauarbeiten.</li>\n\t<li>RE 8/RE 80 (L&uuml;beck Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren vsl. im Stundentakt. Die letzten durchfahrenden Z&uuml;ge sind am 07.12.&nbsp;ab L&uuml;beck Hbf RE 11483 um 19:38 Uhr und ab Hamburg Hbf RE 11482 um 20:34 Uhr</li>\n\t<li>RB 81 (Bad Oldesloe &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren vsl. im Zweistundentakt. Die letzten durchfahrenden Z&uuml;ge sind am 07.12. ab Bargteheide RB 11383 um 20:16 Uhr und ab Hamburg Hbf RB 11334 um 20:41 Uhr.</li>\n\t<li>RB 85 (L&uuml;beck Hbf &ndash; Neustadt(Holst): Die Z&uuml;ge fallen aus. Die letzten durchfahrenden Z&uuml;ge sind am 07.12.&nbsp;ab L&uuml;beck Hbf RB 11628 um 19:12 Uhr und ab Neustadt(Holst) RB 11635 um 20:15 Uhr. Am 08.12.2023 ist ein Ersatzverkehr mit Bussen der Firma MussBus im Pendel zwischen L&uuml;beck Hbf und Neustadt(Holst) eingerichtet.</li>\n\t<li>RB 86 (L&uuml;beck-Travem&uuml;nde Strand &ndash; L&uuml;beck Hbf): Diese Z&uuml;ge fallen aus. Bitte nutzen Sie zwischen L&uuml;beck Hbf und L&uuml;beck-Travem&uuml;nde Strand den Busverkehr mit den Linien 30, 31, 40. Die letzten durchfahrenden Z&uuml;ge sind am 07.12.&nbsp;ab L&uuml;beck Hbf RB 11530 um 20:03 Uhr und ab L&uuml;beck-Travem&uuml;nde Strand RB 11535 um 20:34 Uhr.</li>\n</ul>\n\n<p>Den Notfahrplan sowie die letzten durchfahrenden Z&uuml;ge am Donnerstag, den 7. Dezember 2023, finden Sie im Laufe des Donnerstagvormittags in unseren digitalen Reiseauskunftsmedien unter bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent. &Uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir kurzfristig&nbsp;situativ informieren.&nbsp;<br />\nBitte beachten Sie, dass es bereits am Donnerstag vor Streikbeginn, 22 Uhr, zu (Teil)- Ausf&auml;llen kommen wird. Am Donnerstagabend werden wir ab Streikbeginn keinen Zugverkehr mehr anbieten k&ouml;nnen.&nbsp;</p>\n\n<p>Wir versuchen einen Ersatzverkehr mit Bussen einzurichten, k&ouml;nnen dies aufgrund der Kurzfristigkeit und der aktuellen Witterung derzeit nicht garantieren.&nbsp;<br />\n<br />\nWir m&ouml;chten Sie an dieser Stelle zur Vollst&auml;ndigkeit darauf hinweisen, dass auch wir mit unserem Notfahrplan von weiteren Streik-Ma&szlig;nahmen, wie beispielweise auf einem Stellwerk, betroffen sein k&ouml;nnen. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft oder in der App DB Navigator. Ab dem 7. Dezember, 9 Uhr, wird zus&auml;tzlich eine kostenfreie Streikhotline unter der Rufnummer 08000 99 66 33 geschaltet.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
       "durationBegin": "07.12.2023",
       "durationEnd": "08.12.2023",
       "downloads": [],
@@ -1108,7 +1152,7 @@
       "states": [
         "SH"
       ],
-      "lastModified": "07.12.2023 11:41",
+      "lastModified": "07.12.2023 12:44",
       "expand": true,
       "topDisruption": false
     },
@@ -1161,7 +1205,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -1185,7 +1229,37 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "bcb2af21-11bf-4cb1-a782-8ef08c505949",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Reparatur an der Oberleitung im Raum Hüfingen Mitte",
+      "summary": "Die Strecke zwischen D&ouml;ggingen und Villingen(Schwarzw) bleibt voraussichtlich bis zum heutigen Donnerstag, 7. Dezember um 14 Uhr gesperrt.<br />\n<br />\nGrund hierf&uuml;r ist ein Schaden an der Oberleitung. In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen. Die Z&uuml;ge aus Richtung Freiburg(Brsg) Hbf enden und beginnen in D&ouml;ggingen. Zwischen D&ouml;ggingen und Donaueschingen haben wir einen Ersatzverkehr mit einem Bus f&uuml;r Sie eingerichtet. Reisende mit Ziel oder Umstieg in Villingen(Schwarzw) nutzen bitte ab Donaueschingen die Z&uuml;ge der SWEG und die Linie RE2.&nbsp;",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>S1/S10 (Breisach / Endingen - Freiburg - Seebrugg / Villingen(Schwarzw))</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "04.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-APP",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "07.12.2023 12:28",
       "expand": false,
       "topDisruption": false
     },
@@ -1325,36 +1399,6 @@
         "BW"
       ],
       "lastModified": "07.12.2023 11:30",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "bcb2af21-11bf-4cb1-a782-8ef08c505949",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Reparatur an der Oberleitung im Raum Hüfingen Mitte",
-      "summary": "Die Strecke zwischen D&ouml;ggingen und Villingen(Schwarzw) bleibt voraussichtlich bis Donnerstag, 7. Dezember nachmittags gesperrt. Grund hierf&uuml;r ist ein Schaden an der Oberleitung. In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen. Die Z&uuml;ge aus Richtung Freiburg(Brsg) Hbf enden und beginnen in D&ouml;ggingen. Zwischen D&ouml;ggingen und Donaueschingen haben wir einen Ersatzverkehr mit einem Bus f&uuml;r Sie eingerichtet. Reisende mit Ziel oder Umstieg in Villingen(Schwarzw) nutzen bitte ab Donaueschingen die Z&uuml;ge der SWEG und die Linie RE2.&nbsp;",
-      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>S1/S10 (Breisach / Endingen - Freiburg - Seebrugg / Villingen(Schwarzw))</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
-      "durationBegin": "04.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-APP",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "07.12.2023 09:03",
       "expand": false,
       "topDisruption": false
     },
@@ -1592,7 +1636,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
@@ -1658,7 +1702,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "07.12.2023 12:27",
+      "lastModified": "07.12.2023 12:45",
       "expand": false,
       "topDisruption": false
     },
