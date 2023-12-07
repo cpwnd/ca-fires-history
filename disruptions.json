@@ -47,7 +47,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": true,
       "topDisruption": true
     }
@@ -95,7 +95,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -128,7 +128,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -154,7 +154,7 @@
         "TH",
         "SN"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -326,8 +326,32 @@
         "ST",
         "SN"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:36",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "faf97004-df33-4931-a5f7-af19717d20d9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Mannheim und Frankfurt(M)",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Groß-Gerau und Walldorf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Verspätungen und einzelnen Haltausfällen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/TGV- und IC/EC-Züge der Fahrtrichtung von Frankfurt(M) nach Mannheim werden umgeleitet und verspäten sich um etwa 25 Minuten. Einzelne Züge können nicht in Mannheim Hbf halten, ersatzweise halten diese Züge in Heidelberg Hbf.</li><li><strong>Die Züge der Gegenrichtung von Mannheim nach Frankfurt(M) sind nicht betroffen.</strong></li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die heutigen Nachtstunden des 07.12.2023 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "07.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE"
+      ],
+      "lastModified": "07.12.2023 17:36",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -351,31 +375,7 @@
         "BW",
         "BY"
       ],
-      "lastModified": "07.12.2023 17:21",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "faf97004-df33-4931-a5f7-af19717d20d9",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen Mannheim und Frankfurt(M)",
-      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Groß-Gerau und Walldorf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Verspätungen und einzelnen Haltausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/TGV- und IC/EC-Züge der Fahrtrichtung von Frankfurt(M) nach Mannheim werden umgeleitet und verspäten sich um etwa 25 Minuten. Einzelne Züge können nicht in Mannheim Hbf halten, ersatzweise halten diese Züge in Heidelberg Hbf.</li><li><strong>Die Züge der Gegenrichtung von Mannheim nach Frankfurt(M) sind nicht betroffen.</strong></li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die heutigen Nachtstunden des 07.12.2023 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "07.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": true,
       "topDisruption": false
     },
@@ -559,7 +559,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -661,7 +661,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -685,62 +685,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 17:21",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "e03fab56-91de-443c-a51c-7c5689d1ebb2",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Nahverkehr in Südbayern bis Ende der Woche stark beeinträchtigt",
-      "summary": "Wintereinbruch: Nahverkehr in Südbayern bis Ende der Woche stark beeinträchtigt",
-      "text": "<p>aufgrund des Wintereinbruchs kommt es in Südbayern <strong> weiterhin zu umfangreichen Zugausfällen</strong> im Nahverkehr der Deutschen Bahn. Der Knoten München Hbf ist weiterhin nur stark eingeschränkt erreichbar.</p><p>Aufgrund der eingeschränkten Straßenverhältnisse ist ein Ersatzverkehr mit Bussen nur sehr eingeschränkt möglich.</p><p><strong>++ Bitte informieren Sie sich regelmäßig auf bahn.de bzw. im DB Navigator über Ihre Verbindung. ++</strong></p>",
-      "durationBegin": "02.12.2023",
-      "durationEnd": "10.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
-          "label": "Aktuelle Betriebslage DB Regio Bayern ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lastModified": "07.12.2023 17:21",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "5584a9e7-c8ac-4c34-ae4d-f5566d7c54c0",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. Abends, bis 8.12. bundesweit massiv beeinträchtigt",
-      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird ab 7.12. Abends, bis 8.12. bundesweit wegen eines Streiks der GDL massiv beeinträchtigt sein.",
-      "text": "<p>Der Fern-, Regional- und S-Bahn-Verkehr der DB wird am 7.12.,22 Uhr, bis 8.12.,22 Uhr bundesweit wegen eines Streiks der GDL massiv beeinträchtigt sein.&nbsp;</p><p>Vor diesem Hintergrund und unter Berücksichtigung der in den letzten Tagen witterungsbedingt aufgetretenen Schäden an Infrastruktur und Fahrzeugen, versucht DB Regio Bayern einen Notfahrplan mit einem stark begrenzten Zugangebot zu realisieren.</p><p>Bitte beachten Sie, dass es bereits vor dem Streikbeginn ab ca. 18:00 Uhr und auch nach dem Streik-Ende bis voraussichtlich 09.12, 03:00 Uhr, zu Ausfällen und Verspätungen kommen wird.</p><p>Bitte sehen Sie von nicht notwendigen Reisen während des GDL-Streiks ab und verschieben Sie Ihre Reise auf einen anderen Zeitpunkt.</p><p>Bitte informieren Sie sich kurz vor Abfahrt der geplanten Reise in den Onlinemedien auf bahn.de oder im DB Navigator über ihre Fahrt. Wenn Sie sich telefonisch über die Auswirkungen des GDL-Streiks auf den Bahnverkehr informieren möchten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verfügung. Die kostenfreie Hotline erreichen Sie unter der Nummer 08000-996633.</p>",
-      "durationBegin": "07.12.2023",
-      "durationEnd": "09.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -764,7 +709,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:36",
       "expand": true,
       "topDisruption": false
     },
@@ -788,7 +733,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:36",
       "expand": true,
       "topDisruption": false
     },
@@ -819,7 +764,7 @@
       "states": [
         "TH"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:36",
       "expand": true,
       "topDisruption": false
     },
@@ -868,7 +813,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:36",
       "expand": true,
       "topDisruption": false
     },
@@ -892,7 +837,62 @@
       "states": [
         "BY"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:36",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "e03fab56-91de-443c-a51c-7c5689d1ebb2",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Nahverkehr in Südbayern bis Ende der Woche stark beeinträchtigt",
+      "summary": "Wintereinbruch: Nahverkehr in Südbayern bis Ende der Woche stark beeinträchtigt",
+      "text": "<p>aufgrund des Wintereinbruchs kommt es in Südbayern <strong> weiterhin zu umfangreichen Zugausfällen</strong> im Nahverkehr der Deutschen Bahn. Der Knoten München Hbf ist weiterhin nur stark eingeschränkt erreichbar.</p><p>Aufgrund der eingeschränkten Straßenverhältnisse ist ein Ersatzverkehr mit Bussen nur sehr eingeschränkt möglich.</p><p><strong>++ Bitte informieren Sie sich regelmäßig auf bahn.de bzw. im DB Navigator über Ihre Verbindung. ++</strong></p>",
+      "durationBegin": "02.12.2023",
+      "durationEnd": "10.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Aktuelle Betriebslage DB Regio Bayern ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lastModified": "07.12.2023 17:35",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "5584a9e7-c8ac-4c34-ae4d-f5566d7c54c0",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.12. Abends, bis 8.12. bundesweit massiv beeinträchtigt",
+      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird ab 7.12. Abends, bis 8.12. bundesweit wegen eines Streiks der GDL massiv beeinträchtigt sein.",
+      "text": "<p>Der Fern-, Regional- und S-Bahn-Verkehr der DB wird am 7.12.,22 Uhr, bis 8.12.,22 Uhr bundesweit wegen eines Streiks der GDL massiv beeinträchtigt sein.&nbsp;</p><p>Vor diesem Hintergrund und unter Berücksichtigung der in den letzten Tagen witterungsbedingt aufgetretenen Schäden an Infrastruktur und Fahrzeugen, versucht DB Regio Bayern einen Notfahrplan mit einem stark begrenzten Zugangebot zu realisieren.</p><p>Bitte beachten Sie, dass es bereits vor dem Streikbeginn ab ca. 18:00 Uhr und auch nach dem Streik-Ende bis voraussichtlich 09.12, 03:00 Uhr, zu Ausfällen und Verspätungen kommen wird.</p><p>Bitte sehen Sie von nicht notwendigen Reisen während des GDL-Streiks ab und verschieben Sie Ihre Reise auf einen anderen Zeitpunkt.</p><p>Bitte informieren Sie sich kurz vor Abfahrt der geplanten Reise in den Onlinemedien auf bahn.de oder im DB Navigator über ihre Fahrt. Wenn Sie sich telefonisch über die Auswirkungen des GDL-Streiks auf den Bahnverkehr informieren möchten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verfügung. Die kostenfreie Hotline erreichen Sie unter der Nummer 08000-996633.</p>",
+      "durationBegin": "07.12.2023",
+      "durationEnd": "09.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -990,6 +990,29 @@
       "topDisruption": false
     },
     {
+      "id": "5bc4c2b4-0430-4c06-8720-2f77dae8aad0",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Karlsruhe und Mannheim",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Karlsruhe und Mannheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von etwa 30 Minuten.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/TGV- und IC/EC-Züge auf dem Abschnitt zwischen Karlsruhe und Mannheim</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "07.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "07.12.2023 17:36",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -1016,7 +1039,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -1040,7 +1063,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -1064,7 +1087,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -1088,30 +1111,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "07.12.2023 17:21",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "5bc4c2b4-0430-4c06-8720-2f77dae8aad0",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Karlsruhe und Mannheim",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Karlsruhe und Mannheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von etwa 30 Minuten.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/TGV- und IC/EC-Züge auf dem Abschnitt zwischen Karlsruhe und Mannheim</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "07.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": true,
       "topDisruption": false
     },
@@ -1225,7 +1225,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -1249,7 +1249,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -1626,7 +1626,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
@@ -1692,7 +1692,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "07.12.2023 17:21",
+      "lastModified": "07.12.2023 17:35",
       "expand": false,
       "topDisruption": false
     },
