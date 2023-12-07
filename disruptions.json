@@ -47,12 +47,38 @@
         "SH",
         "TH"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:48",
       "expand": true,
       "topDisruption": true
     }
   ],
   "disruptions": [
+    {
+      "id": "9bf3fcb3-2674-43fb-8c32-a31a39d8e36e",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik: Fern-, Regional-, S-Bahn-Verkehr der DB vom 07.12. abends bis inkl. 08.12. bundesweit massiv beeinträchtigt\n",
+      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird vom 7. Dezember, um 22 Uhr bis 8. Dezember, um 22 Uhr bundesweit wegen eines Streiks der GDL massiv beeinträchtigt sein. ",
+      "text": "<p>Der Regionalverkehr der DB Regio Südost wird massiv beeinträchtigt sein. Wir versuchen ein Mindestfahrplanangebot aufrechtzuerhalten. Trotzdem können wir in dieser Situation nicht garantieren, dass alle Reisenden an Ihr Ziel kommen. Wenn möglich, verschieben Sie bitte geplante Reisen.</p><p>Das Mindestfahrplanangebot sowie die letzten durchfahrenden Züge am Donnerstag, den 7. Dezember 2023, finden Sie im Laufe des Donnerstagvormittags in unseren digitalen Reiseauskunftsmedien unter bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent. Über eine gegebenenfalls mögliche Durchführung einzelner Fahrten werden wir kurzfristig situativ informieren.&nbsp;&nbsp;</p><p>Wir möchten Sie an dieser Stelle zur Vollständigkeit darauf hinweisen, dass auch wir mit unserem Mindestfahrplanangebot von weiteren Streik-Maßnahmen, wie beispielweise auf einem Stellwerk, betroffen sein können. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft oder in der App DB Navigator.</p>",
+      "durationBegin": "07.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "SN"
+      ],
+      "lastModified": "07.12.2023 03:48",
+      "expand": false,
+      "topDisruption": false
+    },
     {
       "id": "49c84426-2ab4-4bbc-a4ec-e456de95bbc7",
       "author": "FERNVERKEHR_AG",
@@ -82,33 +108,7 @@
         "HE",
         "RP"
       ],
-      "lastModified": "07.12.2023 03:34",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "9bf3fcb3-2674-43fb-8c32-a31a39d8e36e",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik: Fern-, Regional-, S-Bahn-Verkehr der DB vom 07.12. abends bis inkl. 08.12. bundesweit massiv beeinträchtigt\n",
-      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird vom 7. Dezember, um 22 Uhr bis 8. Dezember, um 22 Uhr bundesweit wegen eines Streiks der GDL massiv beeinträchtigt sein. ",
-      "text": "<p>Der Regionalverkehr der DB Regio Südost wird massiv beeinträchtigt sein. Wir versuchen ein Mindestfahrplanangebot aufrechtzuerhalten. Trotzdem können wir in dieser Situation nicht garantieren, dass alle Reisenden an Ihr Ziel kommen. Wenn möglich, verschieben Sie bitte geplante Reisen.</p><p>Das Mindestfahrplanangebot sowie die letzten durchfahrenden Züge am Donnerstag, den 7. Dezember 2023, finden Sie im Laufe des Donnerstagvormittags in unseren digitalen Reiseauskunftsmedien unter bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent. Über eine gegebenenfalls mögliche Durchführung einzelner Fahrten werden wir kurzfristig situativ informieren.&nbsp;&nbsp;</p><p>Wir möchten Sie an dieser Stelle zur Vollständigkeit darauf hinweisen, dass auch wir mit unserem Mindestfahrplanangebot von weiteren Streik-Maßnahmen, wie beispielweise auf einem Stellwerk, betroffen sein können. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft oder in der App DB Navigator.</p>",
-      "durationBegin": "07.12.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST",
-        "TH",
-        "SN"
-      ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:47",
       "expand": false,
       "topDisruption": false
     },
@@ -227,7 +227,7 @@
         "HB",
         "NI"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:48",
       "expand": true,
       "topDisruption": false
     },
@@ -252,7 +252,7 @@
         "BW",
         "BY"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:48",
       "expand": true,
       "topDisruption": false
     },
@@ -436,7 +436,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:48",
       "expand": false,
       "topDisruption": false
     },
@@ -496,7 +496,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:47",
       "expand": false,
       "topDisruption": false
     },
@@ -520,7 +520,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:47",
       "expand": false,
       "topDisruption": false
     },
@@ -551,7 +551,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:48",
       "expand": true,
       "topDisruption": false
     },
@@ -575,7 +575,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:48",
       "expand": true,
       "topDisruption": false
     },
@@ -599,7 +599,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:48",
       "expand": false,
       "topDisruption": false
     },
@@ -653,6 +653,54 @@
       "topDisruption": false
     },
     {
+      "id": "d4f7957b-9d9a-4ac4-964f-3240daa317cc",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Einteilige Fahrten im VVO-Dieselnetz - Hohe Fahrgastauslastung erwartet",
+      "summary": "Betroffene Linien: S 8, RB 33 & RB 72",
+      "text": "<p>Im VVO-Dieselnetz kommt es derzeit zu Abweichungen bei der Zugbildung in der Hauptverkehrszeit. Dadurch stehen weniger Plätze in den Zügen zur Verfügung und die Züge haben eine sehr hohe Auslastung. </p><p>Betroffen sind die Fahrten der Linie S 8 Dresden – Kamenz und RB 33 im Abschnitt Ottendorf-Okrilla Süd – Dresden-Neustadt zwischen 5.30 Uhr und 9.30 Uhr sowie 13.30 Uhr und 19.30 Uhr. </p><p>Zudem ist die Fahrt der RB 72 ab Heidenau um 6.18 Uhr nach Kurort Altenberg betroffen. </p><p>Wir bitten um Entschuldiging</p>",
+      "durationBegin": "04.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "07.12.2023 03:48",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "1734f102-5d2a-4ebe-a988-755f79f57072",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Singen(Hohentwiel) und Schaffhausen",
+      "summary": "Aktuell kommt es aufgrund von Winterwitterung zwischen Singen(Hohentwiel) und Schaffhausen zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen und Verspätungen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Zürich fallen auf dem Abschnitt zwischen Singen(Hohentwiel) und Zürich aus. Zwischen Schaffhausen und Zürich verkehren Ersatzzüge durch die SBB. Zwischen Singen(Hohentwiel) und Schaffhausen nutzen Sie bitte die S-Bahn. Beachten Sie, dass es durch den nötigen Umstieg zu einer Reisezeitverlängerung kommt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "07.12.2023 03:48",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -679,7 +727,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:47",
       "expand": false,
       "topDisruption": false
     },
@@ -703,56 +751,8 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:47",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "d4f7957b-9d9a-4ac4-964f-3240daa317cc",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Einteilige Fahrten im VVO-Dieselnetz - Hohe Fahrgastauslastung erwartet",
-      "summary": "Betroffene Linien: S 8, RB 33 & RB 72",
-      "text": "<p>Im VVO-Dieselnetz kommt es derzeit zu Abweichungen bei der Zugbildung in der Hauptverkehrszeit. Dadurch stehen weniger Plätze in den Zügen zur Verfügung und die Züge haben eine sehr hohe Auslastung. </p><p>Betroffen sind die Fahrten der Linie S 8 Dresden – Kamenz und RB 33 im Abschnitt Ottendorf-Okrilla Süd – Dresden-Neustadt zwischen 5.30 Uhr und 9.30 Uhr sowie 13.30 Uhr und 19.30 Uhr. </p><p>Zudem ist die Fahrt der RB 72 ab Heidenau um 6.18 Uhr nach Kurort Altenberg betroffen. </p><p>Wir bitten um Entschuldiging</p>",
-      "durationBegin": "04.12.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lastModified": "07.12.2023 03:34",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "1734f102-5d2a-4ebe-a988-755f79f57072",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Singen(Hohentwiel) und Schaffhausen",
-      "summary": "Aktuell kommt es aufgrund von Winterwitterung zwischen Singen(Hohentwiel) und Schaffhausen zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen und Verspätungen. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Zürich fallen auf dem Abschnitt zwischen Singen(Hohentwiel) und Zürich aus. Zwischen Schaffhausen und Zürich verkehren Ersatzzüge durch die SBB. Zwischen Singen(Hohentwiel) und Schaffhausen nutzen Sie bitte die S-Bahn. Beachten Sie, dass es durch den nötigen Umstieg zu einer Reisezeitverlängerung kommt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.12.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "07.12.2023 03:34",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -865,7 +865,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:47",
       "expand": false,
       "topDisruption": false
     },
@@ -889,7 +889,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:47",
       "expand": false,
       "topDisruption": false
     },
@@ -1296,7 +1296,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:48",
       "expand": false,
       "topDisruption": false
     },
@@ -1362,7 +1362,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "07.12.2023 03:34",
+      "lastModified": "07.12.2023 03:47",
       "expand": false,
       "topDisruption": false
     },
