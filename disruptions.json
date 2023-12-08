@@ -47,7 +47,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": true,
       "topDisruption": true
     }
@@ -221,7 +221,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
@@ -499,7 +499,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
@@ -601,7 +601,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
@@ -632,7 +632,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": true,
       "topDisruption": false
     },
@@ -656,7 +656,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
@@ -680,7 +680,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
@@ -711,31 +711,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "08.12.2023 20:12",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "922b5fa4-1895-4507-a45e-d5e26d730e7c",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Streik der GDL",
-      "summary": "Bis zum Tagesende kommt es zu massiven Einschränkungen im S-Bahn-Verkehr.",
-      "text": "<p>Auf folgenden Verbindungen fahren wir derzeit nach einem Notfahrplan:</p><p>S1:</p><p>Wedel &lt;&gt; Blankenese (20-Min-Takt)</p><p>Blankenese &lt;&gt; Airport (20-Min-Takt)</p><p>Ohlsdorf &lt;&gt; Poppenbüttel derzeit keine S-Bahn-Fahrten möglich. Bitte Busse 174 und 179 nutzen.</p><p>S21:&nbsp;</p><p>Aumühle &lt;&gt; Altona (20-Min-Takt)</p><p>S3:</p><p>Stade &lt;&gt; Neugraben (60-Min-Takt)</p><p>Neugraben &lt;&gt; Altona (20-Min-Takt)</p><p>Altona &lt;&gt; Pinneberg derzeit keine S-Bahn-Fahrten möglich.</p><p>Alternativen zur S3 nach Pinneberg:</p><p>Altona &lt;&gt; Rugenbarg Nord: Bus 2</p><p>Altona &lt;&gt; Eidelstedter Platz: Busse 115 und 183</p><p>Klein Flottbek &lt;&gt; Elbgaustraße: Bus 21</p><p>Pinneberg &lt;&gt; Wedel: Busse 395, oder 594</p><p>Pinneberg &lt;&gt; Airport Airport: Bus X95</p><p>Pinneberg &lt;&gt; Elbgaustraße: Busse 184, 185</p><p>Aufgrund der unklaren Situation werden die Fahrzeiten in den Auskunftsmedien (DB &amp; hvv) nur kurzfristig abrufbar sein.</p><p><strong>Auch nach dem offiziellen Streikende (Freitag, 22 Uhr) wird es noch zu Ausfällen kommen.</strong></p><p><strong>Bitte nutzen Sie dort, wo möglich, auch U-Bahnen und Busse.</strong></p>",
-      "durationBegin": "07.12.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": true,
       "topDisruption": false
     },
@@ -808,7 +784,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
@@ -839,8 +815,32 @@
       "states": [
         "TH"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "922b5fa4-1895-4507-a45e-d5e26d730e7c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik der GDL",
+      "summary": "Bis zum Tagesende kommt es zu massiven Einschränkungen im S-Bahn-Verkehr.",
+      "text": "<p>Auf folgenden Verbindungen fahren wir derzeit nach einem Notfahrplan:</p><p><strong>Linie S1:</strong></p><p>Wedel &lt;&gt; Blankenese (20-Min-Takt)</p><p>Blankenese &lt;&gt; Airport (20-Min-Takt)</p><p>Ohlsdorf &lt;&gt; Poppenbüttel derzeit keine S-Bahn-Fahrten möglich. Bitte Busse 174 und 179 nutzen.</p><p><strong>Linie S21:&nbsp;</strong></p><p>Aumühle &lt;&gt; Altona (20-Min-Takt)</p><p><strong>Linie S3:</strong></p><p>Stade &lt;&gt; Neugraben (60-Min-Takt)</p><p>Neugraben &lt;&gt; Pinneberg (20-Min-Takt)</p><p>Aufgrund der unklaren Situation werden die Fahrzeiten in den Auskunftsmedien (DB &amp; hvv) nur kurzfristig abrufbar sein.</p><p><strong>Auch nach dem offiziellen Streikende (Freitag, 22 Uhr) wird es noch zu Ausfällen kommen.</strong></p><p><strong>Bitte nutzen Sie dort, wo möglich, auch U-Bahnen und Busse.</strong></p>",
+      "durationBegin": "07.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lastModified": "08.12.2023 20:26",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -963,7 +963,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
@@ -987,7 +987,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
@@ -1011,7 +1011,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
@@ -1125,7 +1125,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
@@ -1149,7 +1149,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
@@ -1503,7 +1503,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
@@ -1569,7 +1569,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "08.12.2023 20:12",
+      "lastModified": "08.12.2023 20:26",
       "expand": false,
       "topDisruption": false
     },
