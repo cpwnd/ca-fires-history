@@ -47,7 +47,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": true,
       "topDisruption": true
     }
@@ -221,7 +221,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -268,7 +268,7 @@
         "BW",
         "HE"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": true,
       "topDisruption": false
     },
@@ -384,6 +384,63 @@
       "topDisruption": false
     },
     {
+      "id": "3b519850-6302-4aef-9678-38a0e63a6e2f",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Kein Zugverkehr zwischen Trier und Perl",
+      "summary": "Wegen kurzfristiger Erkrankung von Fahrpersonal wird der Zugverkehr ab <strong>Sonntag, 10.12.23 bis Montag, 01.01.24,</strong><strong>&nbsp;jeweils ganzt&auml;gig&nbsp;</strong>zwischen Trier und Perl eingestellt.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB81 Trier - Perl</strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr mit Bussen ist eingerichtet.</strong></p>\n\n<p>Den dazugeh&ouml;rigen<strong> Ersatzfahrplan finden Sie weiter unten.</strong></p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "10.12.2023",
+      "durationEnd": "01.01.2024",
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:01d250d9-a6be-4e8f-8547-26dc80bacbdd/RB82_Ersatzkonzept%20Trier-Perl-Trier_Stand%2030.11.23.pdf",
+          "label": "Ersatzfahrplan Dillingen <> Niedaltdorf <> Dillingen (PDF, 156 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SL",
+        "RP"
+      ],
+      "lastModified": "08.12.2023 07:44",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "aa7ea4e4-d68c-461f-9aad-9ed1539b72d7",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -404,7 +461,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -506,7 +563,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -537,7 +594,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": true,
       "topDisruption": false
     },
@@ -561,7 +618,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": true,
       "topDisruption": false
     },
@@ -585,7 +642,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -609,7 +666,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -682,7 +739,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -713,7 +770,7 @@
       "states": [
         "TH"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -737,7 +794,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": true,
       "topDisruption": false
     },
@@ -861,7 +918,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -885,7 +942,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -909,7 +966,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -1023,7 +1080,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -1047,7 +1104,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -1401,7 +1458,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
@@ -1467,7 +1524,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "08.12.2023 07:31",
+      "lastModified": "08.12.2023 07:44",
       "expand": false,
       "topDisruption": false
     },
