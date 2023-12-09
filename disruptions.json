@@ -292,7 +292,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "09.12.2023 23:13",
+      "lastModified": "09.12.2023 23:29",
       "expand": false,
       "topDisruption": false
     },
@@ -352,8 +352,32 @@
       "states": [
         "ST"
       ],
-      "lastModified": "09.12.2023 23:13",
+      "lastModified": "09.12.2023 23:29",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "685ff59a-b4f5-4a0b-b890-a4b3cbce370f",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Neues Liniennetz",
+      "summary": "Einführung",
+      "text": "<p>Heute Nacht geht es los:</p><p>Unser neues Liniennetz wird eingeführt.</p><p>Aus diesem Grund fahren am 10.12. kurzzeitig von ca. 3 bis ca. 4 Uhr keine S-Bahnen.</p>",
+      "durationBegin": "09.12.2023",
+      "durationEnd": "10.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lastModified": "09.12.2023 23:29",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -376,7 +400,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "09.12.2023 23:14",
+      "lastModified": "09.12.2023 23:29",
       "expand": false,
       "topDisruption": false
     },
@@ -430,27 +454,27 @@
       "topDisruption": false
     },
     {
-      "id": "d4f7957b-9d9a-4ac4-964f-3240daa317cc",
-      "author": "REGIO_SUEDOST",
+      "id": "706f69c5-48e9-47f5-bbcd-f2b8a1d50505",
+      "author": "S_BAHN_S",
       "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
       },
-      "headline": "Einteilige Fahrten im VVO-Dieselnetz - Hohe Fahrgastauslastung erwartet",
-      "summary": "Betroffene Linien: S 8, RB 33 & RB 72",
-      "text": "<p>Im VVO-Dieselnetz kommt es derzeit zu Abweichungen bei der Zugbildung in der Hauptverkehrszeit. Dadurch stehen weniger Plätze in den Zügen zur Verfügung und die Züge haben eine sehr hohe Auslastung. </p><p>Betroffen sind die Fahrten der Linie S 8 Dresden – Kamenz und RB 33 im Abschnitt Ottendorf-Okrilla Süd – Dresden-Neustadt zwischen 5.30 Uhr und 9.30 Uhr sowie 13.30 Uhr und 19.30 Uhr. </p><p>Zudem ist die Fahrt der RB 72 ab Heidenau um 6.18 Uhr nach Kurort Altenberg betroffen. </p><p>Wir bitten um Entschuldiging</p>",
-      "durationBegin": "04.12.2023",
-      "durationEnd": "08.12.2023",
+      "headline": "Filderstadt: kein barrierefreier Zugang aufgrund von Aufzugserneuerung",
+      "summary": "Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. ",
+      "text": "<p>Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. </p><p>Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. </p><p>Die Deutsche Bahn empfiehlt mobilitätseingeschränkten Reisenden in Richtung Stuttgart die Buslinien 812, 813 oder X3 zu nehmen und an der Haltestelle Flughafen/Messe in die S-Bahn einzusteigen. </p><p>Des Weiteren empfiehlt die Deutsche Bahn mobilitätseingeschränkten Reisenden ihre Reise vorher (spätestens einen Werktag) bei der Mobilitätsservice-Zentrale (Telefon 030 65212888) anzumelden.</p>",
+      "durationBegin": "21.08.2023",
+      "durationEnd": "15.12.2023",
       "downloads": [],
       "links": [],
       "properties": [
         "REGIONAL"
       ],
       "states": [
-        "SN"
+        "BW"
       ],
-      "lastModified": "09.12.2023 23:14",
-      "expand": false,
+      "lastModified": "09.12.2023 23:29",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -480,7 +504,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "09.12.2023 23:13",
+      "lastModified": "09.12.2023 23:29",
       "expand": false,
       "topDisruption": false
     },
@@ -504,7 +528,31 @@
       "states": [
         "ST"
       ],
-      "lastModified": "09.12.2023 23:13",
+      "lastModified": "09.12.2023 23:29",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "d4f7957b-9d9a-4ac4-964f-3240daa317cc",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Einteilige Fahrten im VVO-Dieselnetz - Hohe Fahrgastauslastung erwartet",
+      "summary": "Betroffene Linien: S 8, RB 33 & RB 72",
+      "text": "<p>Im VVO-Dieselnetz kommt es derzeit zu Abweichungen bei der Zugbildung in der Hauptverkehrszeit. Dadurch stehen weniger Plätze in den Zügen zur Verfügung und die Züge haben eine sehr hohe Auslastung. </p><p>Betroffen sind die Fahrten der Linie S 8 Dresden – Kamenz und RB 33 im Abschnitt Ottendorf-Okrilla Süd – Dresden-Neustadt zwischen 5.30 Uhr und 9.30 Uhr sowie 13.30 Uhr und 19.30 Uhr. </p><p>Zudem ist die Fahrt der RB 72 ab Heidenau um 6.18 Uhr nach Kurort Altenberg betroffen. </p><p>Wir bitten um Entschuldiging</p>",
+      "durationBegin": "04.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "09.12.2023 23:29",
       "expand": false,
       "topDisruption": false
     },
@@ -557,7 +605,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "09.12.2023 23:13",
+      "lastModified": "09.12.2023 23:29",
       "expand": false,
       "topDisruption": false
     },
@@ -581,7 +629,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "09.12.2023 23:13",
+      "lastModified": "09.12.2023 23:29",
       "expand": false,
       "topDisruption": false
     },
@@ -764,7 +812,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "09.12.2023 23:13",
+      "lastModified": "09.12.2023 23:29",
       "expand": false,
       "topDisruption": false
     },
@@ -829,7 +877,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "09.12.2023 23:13",
+      "lastModified": "09.12.2023 23:29",
       "expand": false,
       "topDisruption": false
     },
