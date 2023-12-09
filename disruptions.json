@@ -292,7 +292,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "09.12.2023 18:29",
+      "lastModified": "09.12.2023 18:49",
       "expand": false,
       "topDisruption": false
     },
@@ -352,7 +352,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "09.12.2023 18:29",
+      "lastModified": "09.12.2023 18:49",
       "expand": false,
       "topDisruption": false
     },
@@ -376,7 +376,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "09.12.2023 18:29",
+      "lastModified": "09.12.2023 18:50",
       "expand": false,
       "topDisruption": false
     },
@@ -430,6 +430,54 @@
       "topDisruption": false
     },
     {
+      "id": "d4f7957b-9d9a-4ac4-964f-3240daa317cc",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Einteilige Fahrten im VVO-Dieselnetz - Hohe Fahrgastauslastung erwartet",
+      "summary": "Betroffene Linien: S 8, RB 33 & RB 72",
+      "text": "<p>Im VVO-Dieselnetz kommt es derzeit zu Abweichungen bei der Zugbildung in der Hauptverkehrszeit. Dadurch stehen weniger Plätze in den Zügen zur Verfügung und die Züge haben eine sehr hohe Auslastung. </p><p>Betroffen sind die Fahrten der Linie S 8 Dresden – Kamenz und RB 33 im Abschnitt Ottendorf-Okrilla Süd – Dresden-Neustadt zwischen 5.30 Uhr und 9.30 Uhr sowie 13.30 Uhr und 19.30 Uhr. </p><p>Zudem ist die Fahrt der RB 72 ab Heidenau um 6.18 Uhr nach Kurort Altenberg betroffen. </p><p>Wir bitten um Entschuldiging</p>",
+      "durationBegin": "04.12.2023",
+      "durationEnd": "08.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "09.12.2023 18:50",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "706f69c5-48e9-47f5-bbcd-f2b8a1d50505",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Filderstadt: kein barrierefreier Zugang aufgrund von Aufzugserneuerung",
+      "summary": "Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. ",
+      "text": "<p>Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. </p><p>Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. </p><p>Die Deutsche Bahn empfiehlt mobilitätseingeschränkten Reisenden in Richtung Stuttgart die Buslinien 812, 813 oder X3 zu nehmen und an der Haltestelle Flughafen/Messe in die S-Bahn einzusteigen. </p><p>Des Weiteren empfiehlt die Deutsche Bahn mobilitätseingeschränkten Reisenden ihre Reise vorher (spätestens einen Werktag) bei der Mobilitätsservice-Zentrale (Telefon 030 65212888) anzumelden.</p>",
+      "durationBegin": "21.08.2023",
+      "durationEnd": "15.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "09.12.2023 18:49",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -456,7 +504,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "09.12.2023 18:29",
+      "lastModified": "09.12.2023 18:49",
       "expand": false,
       "topDisruption": false
     },
@@ -480,62 +528,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "09.12.2023 18:29",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "d4f7957b-9d9a-4ac4-964f-3240daa317cc",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Einteilige Fahrten im VVO-Dieselnetz - Hohe Fahrgastauslastung erwartet",
-      "summary": "Betroffene Linien: S 8, RB 33 & RB 72",
-      "text": "<p>Im VVO-Dieselnetz kommt es derzeit zu Abweichungen bei der Zugbildung in der Hauptverkehrszeit. Dadurch stehen weniger Plätze in den Zügen zur Verfügung und die Züge haben eine sehr hohe Auslastung. </p><p>Betroffen sind die Fahrten der Linie S 8 Dresden – Kamenz und RB 33 im Abschnitt Ottendorf-Okrilla Süd – Dresden-Neustadt zwischen 5.30 Uhr und 9.30 Uhr sowie 13.30 Uhr und 19.30 Uhr. </p><p>Zudem ist die Fahrt der RB 72 ab Heidenau um 6.18 Uhr nach Kurort Altenberg betroffen. </p><p>Wir bitten um Entschuldiging</p>",
-      "durationBegin": "04.12.2023",
-      "durationEnd": "08.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lastModified": "09.12.2023 18:29",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "dfe63283-5ec6-44f3-bb6b-cecf29f1d6b2",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Reparatur an der Strecke zwischen Radolfzell und Konstanz beendet",
-      "summary": "Die Z&uuml;ge k&ouml;nnen den betroffenen Streckenabschnitt wieder uneingeschr&auml;nkt befahren. Bitte rechnen Sie noch mit Folgeversp&auml;tungen, bis der Zugverkehr sich wieder normalisiert hat.",
-      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>RE2 (Karlsruhe Hbf - Konstanz)</strong></li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
-      "durationBegin": "09.12.2023",
-      "durationEnd": "09.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-APP",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "09.12.2023 17:26",
+      "lastModified": "09.12.2023 18:49",
       "expand": false,
       "topDisruption": false
     },
@@ -588,7 +581,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "09.12.2023 18:29",
+      "lastModified": "09.12.2023 18:49",
       "expand": false,
       "topDisruption": false
     },
@@ -612,7 +605,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "09.12.2023 18:29",
+      "lastModified": "09.12.2023 18:49",
       "expand": false,
       "topDisruption": false
     },
@@ -850,7 +843,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "09.12.2023 18:29",
+      "lastModified": "09.12.2023 18:49",
       "expand": false,
       "topDisruption": false
     },
@@ -915,7 +908,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "09.12.2023 18:29",
+      "lastModified": "09.12.2023 18:49",
       "expand": false,
       "topDisruption": false
     },
