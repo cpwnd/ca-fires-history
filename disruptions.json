@@ -215,6 +215,55 @@
       "topDisruption": false
     },
     {
+      "id": "9c2d8ed6-b04f-4e6f-99d9-f39e254e8923",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Wegen eines erhöhten Krankenstands beim Fahrpersonal fallen die Züge zwischen Worms und Biblis",
+      "summary": "Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal fallen die Z&uuml;ge <strong>am&nbsp;Montag, 11.12.23 zwischen Biblis und Worms aus.</strong><br />\n<br />\nDauer der Beeintr&auml;chtigung bis Betriebsschluss.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB62</strong>&nbsp;Worms &ndash; Hofheim &ndash; Biblis <strong><em>(Riedbahn)</em></strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr mit Bus ist zwischen Worms Hbf - Biblis eingerichtet.</strong></p>\n\n<p>Bitte beachten Sie, dass die <strong>Busse ohne festen Fahrplan</strong> verkehren und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.&nbsp;</p>\n\n<p>Die Mitnahme von Fahrr&auml;dern ist aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationEnd": "11.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lastModified": "10.12.2023 19:15",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "3b519850-6302-4aef-9678-38a0e63a6e2f",
       "author": "REGIO_MITTE",
       "cause": {
@@ -292,7 +341,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "10.12.2023 18:45",
+      "lastModified": "10.12.2023 19:20",
       "expand": false,
       "topDisruption": false
     },
@@ -352,7 +401,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "10.12.2023 18:45",
+      "lastModified": "10.12.2023 19:20",
       "expand": false,
       "topDisruption": false
     },
@@ -376,7 +425,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "10.12.2023 18:45",
+      "lastModified": "10.12.2023 19:20",
       "expand": false,
       "topDisruption": false
     },
@@ -456,7 +505,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "10.12.2023 18:45",
+      "lastModified": "10.12.2023 19:20",
       "expand": false,
       "topDisruption": false
     },
@@ -480,7 +529,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "10.12.2023 18:45",
+      "lastModified": "10.12.2023 19:20",
       "expand": false,
       "topDisruption": false
     },
@@ -504,7 +553,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "10.12.2023 18:45",
+      "lastModified": "10.12.2023 19:20",
       "expand": false,
       "topDisruption": false
     },
@@ -557,7 +606,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "10.12.2023 18:45",
+      "lastModified": "10.12.2023 19:20",
       "expand": false,
       "topDisruption": false
     },
@@ -581,7 +630,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "10.12.2023 18:45",
+      "lastModified": "10.12.2023 19:20",
       "expand": false,
       "topDisruption": false
     },
@@ -764,7 +813,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "10.12.2023 18:45",
+      "lastModified": "10.12.2023 19:20",
       "expand": false,
       "topDisruption": false
     },
@@ -829,7 +878,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "10.12.2023 18:45",
+      "lastModified": "10.12.2023 19:20",
       "expand": false,
       "topDisruption": false
     },
