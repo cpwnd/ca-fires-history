@@ -2,6 +2,41 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "8ce0babc-7132-44d1-a2ee-002a91285823",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Stellwerksstörung im Raum Hannover",
+      "summary": "Aufgrund einer Stellwerkstörung im Raum Hannover kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden über Hannover Hbf umgeleitet und verspäten sich dadurch um etwa 25 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Verbindungen von Berlin über Wolfsburg - Göttingen - Kassel-Wilhelmshöhe - Fulda - Frankfurt Main - Mannheim nach Basel SBB und Interlaken Ost</li><li>ICE-Verbindungen von Frankfurt Main - Kassel-Wilhelmshöhe - Göttingen - Wolfsburg - Stendal - nach Berlin-Südkreuz</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis 13.12.2023 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "11.12.2023",
+      "durationEnd": "13.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de/aktuell",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "BE",
+        "BW",
+        "NI",
+        "HE"
+      ],
+      "lastModified": "11.12.2023 18:15",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "54504902-f965-4e00-96b8-ccc9a53998d0",
       "author": "REGIO_MITTE",
       "cause": {
@@ -290,7 +325,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "11.12.2023 17:45",
+      "lastModified": "11.12.2023 18:15",
       "expand": false,
       "topDisruption": false
     },
@@ -350,7 +385,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "11.12.2023 17:45",
+      "lastModified": "11.12.2023 18:15",
       "expand": false,
       "topDisruption": false
     },
@@ -374,7 +409,7 @@
       "states": [
         "BY"
       ],
-      "lastModified": "11.12.2023 17:45",
+      "lastModified": "11.12.2023 18:15",
       "expand": false,
       "topDisruption": false
     },
@@ -454,7 +489,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "11.12.2023 17:45",
+      "lastModified": "11.12.2023 18:15",
       "expand": false,
       "topDisruption": false
     },
@@ -478,7 +513,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "11.12.2023 17:45",
+      "lastModified": "11.12.2023 18:15",
       "expand": false,
       "topDisruption": false
     },
@@ -502,7 +537,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "11.12.2023 17:45",
+      "lastModified": "11.12.2023 18:15",
       "expand": false,
       "topDisruption": false
     },
@@ -555,7 +590,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "11.12.2023 17:45",
+      "lastModified": "11.12.2023 18:15",
       "expand": false,
       "topDisruption": false
     },
@@ -579,7 +614,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "11.12.2023 17:45",
+      "lastModified": "11.12.2023 18:15",
       "expand": false,
       "topDisruption": false
     },
@@ -762,7 +797,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "11.12.2023 17:45",
+      "lastModified": "11.12.2023 18:15",
       "expand": false,
       "topDisruption": false
     },
@@ -827,7 +862,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "11.12.2023 17:45",
+      "lastModified": "11.12.2023 18:15",
       "expand": false,
       "topDisruption": false
     },
