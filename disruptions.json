@@ -32,7 +32,7 @@
         "NI",
         "HE"
       ],
-      "lastModified": "12.12.2023 23:16",
+      "lastModified": "12.12.2023 23:30",
       "expand": true,
       "topDisruption": false
     },
@@ -276,7 +276,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "12.12.2023 23:16",
+      "lastModified": "12.12.2023 23:30",
       "expand": false,
       "topDisruption": false
     },
@@ -336,7 +336,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "12.12.2023 23:16",
+      "lastModified": "12.12.2023 23:30",
       "expand": false,
       "topDisruption": false
     },
@@ -390,6 +390,30 @@
       "topDisruption": false
     },
     {
+      "id": "706f69c5-48e9-47f5-bbcd-f2b8a1d50505",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Filderstadt: kein barrierefreier Zugang aufgrund von Aufzugserneuerung",
+      "summary": "Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. ",
+      "text": "<p>Bis voraussichtlich Dezember 2023 erneuert die Deutsche Bahn in Filderstadt den Aufzug. </p><p>Während der Arbeiten steht der Aufzug leider nicht zur Verfügung. </p><p>Die Deutsche Bahn empfiehlt mobilitätseingeschränkten Reisenden in Richtung Stuttgart die Buslinien 812, 813 oder X3 zu nehmen und an der Haltestelle Flughafen/Messe in die S-Bahn einzusteigen. </p><p>Des Weiteren empfiehlt die Deutsche Bahn mobilitätseingeschränkten Reisenden ihre Reise vorher (spätestens einen Werktag) bei der Mobilitätsservice-Zentrale (Telefon 030 65212888) anzumelden.</p>",
+      "durationBegin": "21.08.2023",
+      "durationEnd": "15.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "12.12.2023 23:30",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -416,7 +440,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "12.12.2023 23:16",
+      "lastModified": "12.12.2023 23:30",
       "expand": false,
       "topDisruption": false
     },
@@ -440,7 +464,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "12.12.2023 23:16",
+      "lastModified": "12.12.2023 23:30",
       "expand": false,
       "topDisruption": false
     },
@@ -493,7 +517,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "12.12.2023 23:16",
+      "lastModified": "12.12.2023 23:30",
       "expand": false,
       "topDisruption": false
     },
@@ -517,7 +541,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "12.12.2023 23:16",
+      "lastModified": "12.12.2023 23:30",
       "expand": false,
       "topDisruption": false
     },
@@ -604,6 +628,30 @@
       ],
       "lastModified": "29.11.2023 10:56",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "c31a13b9-9b9f-43f2-904b-cc50750b1ed4",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bauarbeiten: Berliner Tor <> Barmbek",
+      "summary": "Ab 23:00 Uhr bis Betriebsschluss bitte auf U-Bahnen und Busse umsteigen.",
+      "text": "<p>Wegen kurzfristig notwendiger Bauarbeiten fahren ab 23:00 Uhr keine S-Bahnen zwischen den Stationen Berliner Tor und Barmbek. </p><p>Bitte nutzen Sie alternativ: </p><p>die Linie U1, zwischen Jungfernstieg und Ohlsdorf</p><p>oder</p><p>die Linie U3, zwischen Berliner Tor und Barmbek. </p><p>Die Stationen Landwehr, Hasselbrook, Wandsbeker Chaussee und Friedrichsberg sind über die dort ausgeschilderten Buslinien erreichbar.</p>",
+      "durationBegin": "12.12.2023",
+      "durationEnd": "13.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lastModified": "12.12.2023 23:30",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -700,7 +748,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "12.12.2023 23:16",
+      "lastModified": "12.12.2023 23:30",
       "expand": false,
       "topDisruption": false
     },
@@ -765,7 +813,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "12.12.2023 23:16",
+      "lastModified": "12.12.2023 23:30",
       "expand": false,
       "topDisruption": false
     },
