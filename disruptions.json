@@ -36,7 +36,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "14.12.2023 09:48",
+      "lastModified": "14.12.2023 10:18",
       "expand": true,
       "topDisruption": false
     },
@@ -71,7 +71,7 @@
         "NI",
         "HE"
       ],
-      "lastModified": "14.12.2023 09:48",
+      "lastModified": "14.12.2023 10:18",
       "expand": true,
       "topDisruption": false
     },
@@ -208,7 +208,7 @@
         "BW",
         "HE"
       ],
-      "lastModified": "14.12.2023 09:48",
+      "lastModified": "14.12.2023 10:18",
       "expand": true,
       "topDisruption": false
     },
@@ -337,7 +337,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "14.12.2023 09:48",
+      "lastModified": "14.12.2023 10:18",
       "expand": false,
       "topDisruption": false
     },
@@ -445,7 +445,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 09:48",
+      "lastModified": "14.12.2023 10:18",
       "expand": false,
       "topDisruption": false
     },
@@ -572,7 +572,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "14.12.2023 09:48",
+      "lastModified": "14.12.2023 10:18",
       "expand": false,
       "topDisruption": false
     },
@@ -596,7 +596,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 09:48",
+      "lastModified": "14.12.2023 10:18",
       "expand": false,
       "topDisruption": false
     },
@@ -649,7 +649,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 09:48",
+      "lastModified": "14.12.2023 10:18",
       "expand": false,
       "topDisruption": false
     },
@@ -673,7 +673,61 @@
       "states": [
         "SN"
       ],
-      "lastModified": "14.12.2023 09:48",
+      "lastModified": "14.12.2023 10:18",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "57842a91-38cc-4294-a695-38e02ce43540",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugausfälle  Saarbrücken Hbf ◄► Forbach",
+      "summary": "Wegen Personalausf&auml;lle beim Fahrpersonal werden einzelne Z&uuml;ge der Linie RE 18 im Zeitraum von 18.12. 2023- 1.1.2024&nbsp;zwischen Saarbr&uuml;cken Hbf ◄► Forbach durch Busse ersetzt.<br />\nEinzelheiten entnehmen Sie bitte dem beigef&uuml;gten Fahrplanauszug.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<p><strong>SNCF</strong><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; RE18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Saarbr&uuml;cken &ndash; Forbach &ndash; MetzVille (<strong>Express de Lorraine)</strong></p>\n\n<p><strong>Ersatzverkehr mit Bussen eingerichtet,</strong></p>\n\n<p>Die <strong>Busse pendeln </strong>nach einem vorgegebenen Fahrplan.<br />\nAufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:ad3c71d6-8dff-4202-9dc7-f77fb5cde599/RE18%20SSH-XXFMW.Personalmangel..pdf",
+          "label": "Fahrplanauszug (PDF, 196 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SL"
+      ],
+      "lastModified": "14.12.2023 09:55",
       "expand": false,
       "topDisruption": false
     },
@@ -885,7 +939,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 09:48",
+      "lastModified": "14.12.2023 10:18",
       "expand": false,
       "topDisruption": false
     },
@@ -950,7 +1004,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "14.12.2023 09:48",
+      "lastModified": "14.12.2023 10:18",
       "expand": false,
       "topDisruption": false
     },
