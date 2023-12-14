@@ -2,41 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "8ce0babc-7132-44d1-a2ee-002a91285823",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Stellwerksstörung im Raum Hannover",
-      "summary": "Aufgrund einer Stellwerkstörung im Raum Hannover  ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Zugausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Berlin und Basel (über Wolfsburg - Göttingen - Kassel-Wilhelmshöhe - Fulda - Frankfurt(M) - Mannheim) fallen in beiden Fahrtrichtungen zwischen Berlin und Frankfurt(M) aus.</li></ul><p><strong>Wir empfehlen folgende Reisealternativen:</strong></p><ul><li>Nutzen Sie <strong>zwischen Berlin und Frankfurt(M)</strong> die verbleibenden Fernzüge über Erfurt. Alternativ bestehen auch Umsteigeverbindungen über Hannover zur Verfügung.</li><li><strong>Zwischen Berlin und Göttingen</strong> bzw. <strong>Kassel</strong> nutzen Sie die Fernzugverbindungen mit Umstieg in Hannover.</li><li><strong>Zwischen Frankfurt(M) und Kassel </strong>bzw. <strong>Göttingen </strong>nutzen Sie die verbleibenden Fernzüge in Richtung Hamburg</li><li><strong>Wolfsburg </strong>erreichen Sie weiterhin mit Fernzügen von <strong>Berlin </strong>bzw. auch mit Regionalzügen von <strong>Hannover</strong>.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis zum 15.12.2023 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "11.12.2023",
-      "durationEnd": "15.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://bahn.de/aktuell",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "ST",
-        "BE",
-        "BW",
-        "NI",
-        "HE"
-      ],
-      "lastModified": "15.12.2023 00:25",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "54504902-f965-4e00-96b8-ccc9a53998d0",
       "author": "REGIO_MITTE",
       "cause": {
@@ -169,7 +134,7 @@
         "BW",
         "HE"
       ],
-      "lastModified": "15.12.2023 00:25",
+      "lastModified": "15.12.2023 00:45",
       "expand": true,
       "topDisruption": false
     },
@@ -298,7 +263,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "15.12.2023 00:25",
+      "lastModified": "15.12.2023 00:45",
       "expand": false,
       "topDisruption": false
     },
@@ -406,7 +371,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "15.12.2023 00:25",
+      "lastModified": "15.12.2023 00:45",
       "expand": false,
       "topDisruption": false
     },
@@ -533,7 +498,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "15.12.2023 00:25",
+      "lastModified": "15.12.2023 00:45",
       "expand": false,
       "topDisruption": false
     },
@@ -557,7 +522,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "15.12.2023 00:25",
+      "lastModified": "15.12.2023 00:45",
       "expand": false,
       "topDisruption": false
     },
@@ -610,7 +575,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "15.12.2023 00:25",
+      "lastModified": "15.12.2023 00:45",
       "expand": false,
       "topDisruption": false
     },
@@ -634,7 +599,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "15.12.2023 00:25",
+      "lastModified": "15.12.2023 00:45",
       "expand": false,
       "topDisruption": false
     },
@@ -947,7 +912,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "15.12.2023 00:25",
+      "lastModified": "15.12.2023 00:45",
       "expand": false,
       "topDisruption": false
     },
@@ -1012,7 +977,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "15.12.2023 00:25",
+      "lastModified": "15.12.2023 00:45",
       "expand": false,
       "topDisruption": false
     },
