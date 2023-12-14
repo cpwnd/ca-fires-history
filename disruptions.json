@@ -2,6 +2,45 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "17c70f21-997f-488c-a037-19278db48c7e",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Hamburg und Bremen",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hamburg und Bremen  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Zugausfällen und Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Die EC-Züge Hamburg - Schweiz (EC 6, 7, 8 + 9) fallen zwischen Hamburg und Basel aus.</li><li>Alle ICE/IC-Züge zwischen Hamburg und Bremen werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 45 Minuten.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Nutzen Sie zwischen Hamburg und NRW auch Umsteigeverbindungen über Hannover.</li></ul><p>Bitte beachten Sie, aufgrund hoher Streckenauslastung auf der Umleitungsstrecke sind kurzfristig weitere Zugausfälle und weiträumige Umleitungen, verbunden mit Ausfall der Halte Bremen Hbf, Osnabrück Hbf und Münster(W) Hbf, möglich.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Abendstunden des heutigen Tages erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.12.2023",
+      "durationEnd": "14.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "14.12.2023 02:19",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "8ce0babc-7132-44d1-a2ee-002a91285823",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -32,7 +71,7 @@
         "NI",
         "HE"
       ],
-      "lastModified": "14.12.2023 00:49",
+      "lastModified": "14.12.2023 02:19",
       "expand": true,
       "topDisruption": false
     },
@@ -276,7 +315,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "14.12.2023 00:49",
+      "lastModified": "14.12.2023 02:19",
       "expand": false,
       "topDisruption": false
     },
@@ -336,7 +375,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 00:49",
+      "lastModified": "14.12.2023 02:19",
       "expand": false,
       "topDisruption": false
     },
@@ -416,7 +455,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "14.12.2023 00:49",
+      "lastModified": "14.12.2023 02:19",
       "expand": false,
       "topDisruption": false
     },
@@ -440,7 +479,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 00:49",
+      "lastModified": "14.12.2023 02:19",
       "expand": false,
       "topDisruption": false
     },
@@ -493,7 +532,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 00:49",
+      "lastModified": "14.12.2023 02:19",
       "expand": false,
       "topDisruption": false
     },
@@ -517,7 +556,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "14.12.2023 00:49",
+      "lastModified": "14.12.2023 02:19",
       "expand": false,
       "topDisruption": false
     },
@@ -700,7 +739,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 00:49",
+      "lastModified": "14.12.2023 02:19",
       "expand": false,
       "topDisruption": false
     },
@@ -765,7 +804,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "14.12.2023 00:49",
+      "lastModified": "14.12.2023 02:19",
       "expand": false,
       "topDisruption": false
     },
