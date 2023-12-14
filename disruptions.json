@@ -10,7 +10,7 @@
       },
       "headline": "Beeinträchtigung zwischen Hamburg und Bremen",
       "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hamburg und Bremen  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Zugausfällen und Verspätungen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Die EC-Züge Hamburg - Schweiz (EC 6, 7, 8 + 9) fallen zwischen Hamburg und Basel aus.</li><li>Alle ICE/IC-Züge zwischen Hamburg und Bremen werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 45 Minuten.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Nutzen Sie zwischen Hamburg und NRW auch Umsteigeverbindungen über Hannover.</li></ul><p>Bitte beachten Sie, aufgrund hoher Streckenauslastung auf der Umleitungsstrecke sind kurzfristig weitere Zugausfälle und weiträumige Umleitungen, verbunden mit Ausfall der Halte Bremen Hbf, Osnabrück Hbf und Münster(W) Hbf, möglich.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Abendstunden des heutigen Tages erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Die EC-Züge Hamburg - Schweiz (EC 6, 7, 8 + 9) fallen zwischen Hamburg und Basel aus.</li><li>Alle ICE/IC-Züge zwischen Hamburg und Bremen werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 60 Minuten.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Nutzen Sie zwischen Hamburg und NRW auch Umsteigeverbindungen über Hannover.</li></ul><p>Bitte beachten Sie, aufgrund hoher Streckenauslastung auf der Umleitungsstrecke sind kurzfristig weitere Zugausfälle und weiträumige Umleitungen, verbunden mit Ausfall der Halte Bremen Hbf, Osnabrück Hbf und Münster(W) Hbf, möglich.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Abendstunden des heutigen Tages erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "14.12.2023",
       "durationEnd": "14.12.2023",
       "downloads": [],
@@ -36,7 +36,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "14.12.2023 08:46",
+      "lastModified": "14.12.2023 09:21",
       "expand": true,
       "topDisruption": false
     },
@@ -71,7 +71,7 @@
         "NI",
         "HE"
       ],
-      "lastModified": "14.12.2023 08:46",
+      "lastModified": "14.12.2023 09:21",
       "expand": true,
       "topDisruption": false
     },
@@ -208,7 +208,7 @@
         "BW",
         "HE"
       ],
-      "lastModified": "14.12.2023 08:46",
+      "lastModified": "14.12.2023 09:21",
       "expand": true,
       "topDisruption": false
     },
@@ -337,7 +337,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "14.12.2023 08:46",
+      "lastModified": "14.12.2023 09:21",
       "expand": false,
       "topDisruption": false
     },
@@ -385,7 +385,7 @@
         "BW",
         "HE"
       ],
-      "lastModified": "14.12.2023 08:42",
+      "lastModified": "14.12.2023 08:52",
       "expand": false,
       "topDisruption": false
     },
@@ -445,7 +445,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 08:46",
+      "lastModified": "14.12.2023 09:21",
       "expand": false,
       "topDisruption": false
     },
@@ -572,7 +572,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "14.12.2023 08:46",
+      "lastModified": "14.12.2023 09:21",
       "expand": false,
       "topDisruption": false
     },
@@ -596,7 +596,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 08:46",
+      "lastModified": "14.12.2023 09:21",
       "expand": false,
       "topDisruption": false
     },
@@ -649,7 +649,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 08:46",
+      "lastModified": "14.12.2023 09:21",
       "expand": false,
       "topDisruption": false
     },
@@ -673,7 +673,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "14.12.2023 08:46",
+      "lastModified": "14.12.2023 09:21",
       "expand": false,
       "topDisruption": false
     },
@@ -759,6 +759,35 @@
         "BW"
       ],
       "lastModified": "29.11.2023 10:56",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "74a6d6e8-b12e-4702-b3fc-3b9efab58a7e",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Haltausfall Teningen-Mundingen",
+      "text": "<p><u>Betroffene Strecke:</u></p>\n\n<ul>\n\t<li>RB26 / RB27 Offenburg - Freiburg(Breisgau)</li>\n</ul>\n\n<p>Der Bahnhof Teningen-Mundingen kann aufgrund einer &Uuml;berflutung der Bahnsteigunterf&uuml;hrung nicht angefahren werden. Die Dauer der Sperrung ist leider unbestimmt. Bitte pr&uuml;fen Sie Ihre Reiseverbindung und weichen auch auf die &ouml;rtliche Busverbindung der Linie 7200 aus.</p>\n\n<p>Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "14.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-APP",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "14.12.2023 09:11",
       "expand": false,
       "topDisruption": false
     },
@@ -856,7 +885,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 08:46",
+      "lastModified": "14.12.2023 09:21",
       "expand": false,
       "topDisruption": false
     },
@@ -921,7 +950,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "14.12.2023 08:46",
+      "lastModified": "14.12.2023 09:21",
       "expand": false,
       "topDisruption": false
     },
