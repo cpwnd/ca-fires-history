@@ -1,37 +1,5 @@
 {
-  "topDisruptions": [
-    {
-      "id": "9f24851b-f04b-4e2b-b561-cf95a5829797",
-      "author": "DEUTSCHE_BAHN_AG",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Polizeieinsatz beendet: Sperrung Frankfurt (M) Hbf aufgehoben. \nEs kommt aktuell in Frankfurt (M) Hbf noch vereinzelt zu Beeinträchtigungen. \n",
-      "summary": "Aufgrund eines Polizeieinsatzes in den Mittagsstunden kommt es aktuell noch vereinzelt zu Beeinträchtigungen in Frankfurt (M) Hbf und Verspätungen im Fernverkehr.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>vereinzelte Zugverbindungen, die über Frankfurt (M) Hbf verkehren</li></ul><p>Vereinzelt kommt es Zügen, die aufgrund der Sperrung von Frankfurt (M) Hbf umgeleitet oder verspätet abgefahren sind, noch zu einer Verspätung von ca. 20-30 Minuten.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "14.12.2023",
-      "durationEnd": "14.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lastModified": "14.12.2023 16:19",
-      "expand": true,
-      "topDisruption": true
-    }
-  ],
+  "topDisruptions": [],
   "disruptions": [
     {
       "id": "8ce0babc-7132-44d1-a2ee-002a91285823",
@@ -64,7 +32,7 @@
         "NI",
         "HE"
       ],
-      "lastModified": "14.12.2023 16:19",
+      "lastModified": "14.12.2023 16:29",
       "expand": true,
       "topDisruption": false
     },
@@ -201,7 +169,7 @@
         "BW",
         "HE"
       ],
-      "lastModified": "14.12.2023 16:19",
+      "lastModified": "14.12.2023 16:29",
       "expand": true,
       "topDisruption": false
     },
@@ -330,7 +298,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "14.12.2023 16:19",
+      "lastModified": "14.12.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -438,7 +406,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 16:19",
+      "lastModified": "14.12.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -565,7 +533,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "14.12.2023 16:19",
+      "lastModified": "14.12.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -589,7 +557,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 16:19",
+      "lastModified": "14.12.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -642,7 +610,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 16:19",
+      "lastModified": "14.12.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -666,7 +634,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "14.12.2023 16:19",
+      "lastModified": "14.12.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -979,7 +947,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 16:19",
+      "lastModified": "14.12.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
@@ -1044,7 +1012,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "14.12.2023 16:19",
+      "lastModified": "14.12.2023 16:29",
       "expand": false,
       "topDisruption": false
     },
