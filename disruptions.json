@@ -9,7 +9,7 @@
       },
       "headline": "Polizeieinsatz: Frankfurt (M) Hbf aktuell gesperrt\n",
       "summary": "Aufgrund eines Polizeieinsatzes kommt es aktuell zu Beeinträchtigungen in Frankfurt (M) Hbf. Fernverkehrszüge werden nach Möglichkeit über Frankfurt (M) Süd und Frankfurt (M) West umgeleitet. Der Halt Frankfurt (M) Hbf entfällt bis auf Weiteres.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle Zugverbindungen, die über Frankfurt (M) Hbf verkehren</li></ul><p>Reisende weichen nach Möglichkeit auf Bus und Tram aus oder prüfen ihre Fernverkehrsverbindung über die Bahnhöfe Frankfurt (M) Süd, Frankfurt (M) West und Frankfurt (M) Flughafen Fernbahnhof.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle Zugverbindungen, die über Frankfurt (M) Hbf verkehren</li></ul><p>Reisende weichen nach Möglichkeit auf S-Bahn, Bus und Tram aus oder prüfen ihre Fernverkehrsverbindung über die Bahnhöfe Frankfurt (M) Süd, Frankfurt (M) West und Frankfurt (M) Flughafen Fernbahnhof.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "14.12.2023",
       "durationEnd": "14.12.2023",
       "downloads": [],
@@ -27,51 +27,12 @@
       "states": [
         "HE"
       ],
-      "lastModified": "14.12.2023 13:57",
+      "lastModified": "14.12.2023 14:26",
       "expand": true,
       "topDisruption": true
     }
   ],
   "disruptions": [
-    {
-      "id": "17c70f21-997f-488c-a037-19278db48c7e",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Hamburg und Bremen",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hamburg und Bremen  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Zugausfällen und Verspätungen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Die EC-Züge Hamburg - Schweiz (EC 6, 7, 8 + 9) fallen zwischen Hamburg und Basel aus.</li><li>Alle ICE/IC-Züge zwischen Hamburg und Bremen werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 60 Minuten.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Nutzen Sie zwischen Hamburg und NRW auch Umsteigeverbindungen über Hannover.</li></ul><p>Bitte beachten Sie, aufgrund hoher Streckenauslastung auf der Umleitungsstrecke sind kurzfristig weitere Zugausfälle und weiträumige Umleitungen, verbunden mit Ausfall der Halte Bremen Hbf, Osnabrück Hbf und Münster(W) Hbf, möglich.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Abendstunden des heutigen Tages erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "14.12.2023",
-      "durationEnd": "14.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lastModified": "14.12.2023 13:57",
-      "expand": true,
-      "topDisruption": false
-    },
     {
       "id": "8ce0babc-7132-44d1-a2ee-002a91285823",
       "author": "FERNVERKEHR_AG",
@@ -103,7 +64,7 @@
         "NI",
         "HE"
       ],
-      "lastModified": "14.12.2023 13:57",
+      "lastModified": "14.12.2023 14:26",
       "expand": true,
       "topDisruption": false
     },
@@ -240,7 +201,7 @@
         "BW",
         "HE"
       ],
-      "lastModified": "14.12.2023 13:57",
+      "lastModified": "14.12.2023 14:26",
       "expand": true,
       "topDisruption": false
     },
@@ -369,7 +330,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "14.12.2023 13:57",
+      "lastModified": "14.12.2023 14:26",
       "expand": false,
       "topDisruption": false
     },
@@ -477,7 +438,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 13:57",
+      "lastModified": "14.12.2023 14:26",
       "expand": false,
       "topDisruption": false
     },
@@ -488,9 +449,9 @@
         "category": "weather_storm",
         "label": "Witterungsbedingte Beeinträchtigungen"
       },
-      "headline": "Witterungsbedingte Beeinträchtigungen zwischen Wörth - Lauterbourg.",
-      "summary": "Untersp&uuml;lte Gleise zwischen W&ouml;rth - Lauterbourg wird am 14.12.23 ab 06:00 Uhr eingestellt.&nbsp;<br />\nDauer der Sperrung bis Betriebsschluss.<br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB52&nbsp;&nbsp;</strong>W&ouml;rth &ndash; Hagenbach &ndash; Lauterbourg</li>\n</ul>\n\n<p><strong>Wir haben einen Ersatzverkehr mit Bussen zwischen W&ouml;rth(Rhein) und Lauterbourg f&uuml;r Sie eingerichtet.</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "headline": "Witterungsbedingte Beeinträchtigungen zwischen Wörth(Rhein) - Lauterbourg.",
+      "summary": "Wegen Untersp&uuml;lte Gleise zwischen W&ouml;rth(Rhein) - Lauterbourg wird am 14.12.23 bis 15.12.2023 der Zugverkehr ganzt&auml;tig eingestellt.&nbsp;<br />\n<br />\n&nbsp;",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB52&nbsp;&nbsp;</strong>W&ouml;rth &ndash; Hagenbach &ndash; Lauterbourg</li>\n</ul>\n\n<p><strong>Wir haben f&uuml;r heute den 14.12.23 einen Ersatzverkehr mit Bussen zwischen W&ouml;rth(Rhein) und Lauterbourg f&uuml;r Sie eingerichtet.</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "downloads": [],
       "links": [
         {
@@ -524,7 +485,7 @@
       "states": [
         "RP"
       ],
-      "lastModified": "14.12.2023 11:08",
+      "lastModified": "14.12.2023 14:03",
       "expand": false,
       "topDisruption": false
     },
@@ -604,7 +565,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "14.12.2023 13:57",
+      "lastModified": "14.12.2023 14:26",
       "expand": false,
       "topDisruption": false
     },
@@ -628,7 +589,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 13:57",
+      "lastModified": "14.12.2023 14:26",
       "expand": false,
       "topDisruption": false
     },
@@ -681,7 +642,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 13:57",
+      "lastModified": "14.12.2023 14:26",
       "expand": false,
       "topDisruption": false
     },
@@ -705,7 +666,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "14.12.2023 13:57",
+      "lastModified": "14.12.2023 14:26",
       "expand": false,
       "topDisruption": false
     },
@@ -1018,7 +979,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "14.12.2023 13:57",
+      "lastModified": "14.12.2023 14:26",
       "expand": false,
       "topDisruption": false
     },
@@ -1083,7 +1044,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "14.12.2023 13:57",
+      "lastModified": "14.12.2023 14:26",
       "expand": false,
       "topDisruption": false
     },
