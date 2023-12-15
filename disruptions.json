@@ -2,31 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "9ed166dd-84aa-4187-a944-f5a90397122a",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Mannheim und Frankfurt",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Mannheim und Frankfurt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge in Fahrtrichtung von Mannheim nach Frankfurt(M) Hbf bzw. Frankfurt(M) Flughafen werden umgeleitet und verspäten sich um etwa 20 Minuten.</li></ul><p>Für Züge in der Gegenrichtung erwarten wir keine Auswirkungen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Vormittagsstunden des heutigen Freitags erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "15.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE",
-        "RP"
-      ],
-      "lastModified": "15.12.2023 05:46",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "54504902-f965-4e00-96b8-ccc9a53998d0",
       "author": "REGIO_MITTE",
       "cause": {
@@ -264,55 +239,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "15.12.2023 05:46",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "060c3818-9ecc-4ce8-8d2c-7d410af8e6b4",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Reparatur an der Strecke zw. Mannheim-Waldhof und Mannheim Hbf",
-      "summary": "Eine Reparatur an der Strecke verz&ouml;gert den Zugverkehr <strong>zwischen Mannheim-Waldhof und Mannheim Hbf. Die Z&uuml;ge fahren in dem betroffenen Streckenabschnitt langsamer. </strong>In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\n<br />\nDauer der Beeintr&auml;chtigung bis vsl. 15.12.23, 08:00 Uhr.<br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>S9</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Karlsruhe &ndash; Graben-Neudorf &ndash;Hockenheim&ndash;Mannheim &ndash;Biblis&ndash;Gro&szlig; Rohrheim</li>\n\t<li><strong>S8&nbsp; &nbsp; &nbsp; &nbsp;</strong>Mannheim &ndash; Mannheim-Waldhof - &nbsp;Lampertheim &ndash; Biblis</li>\n\t<li><strong>S39</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mannheim-Waldhof &ndash; Mannheim Hbf&nbsp;</li>\n\t<li><strong>RE70&nbsp;&nbsp;</strong>Mannheim &ndash; Biblis &ndash; Frankfurt (<strong><em>Riedbahn)</em></strong></li>\n</ul>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-App",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lastModified": "14.12.2023 08:52",
+      "lastModified": "15.12.2023 06:16",
       "expand": false,
       "topDisruption": false
     },
@@ -372,7 +299,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "15.12.2023 05:46",
+      "lastModified": "15.12.2023 06:16",
       "expand": false,
       "topDisruption": false
     },
@@ -384,7 +311,7 @@
         "label": "Witterungsbedingte Beeinträchtigungen"
       },
       "headline": "Witterungsbedingte Beeinträchtigungen zwischen Wörth(Rhein) - Lauterbourg.",
-      "summary": "Wegen Untersp&uuml;lte Gleise zwischen W&ouml;rth(Rhein) - Lauterbourg wird am 14.12.23 bis 15.12.2023 der Zugverkehr ganzt&auml;tig eingestellt.&nbsp;<br />\n<br />\n&nbsp;",
+      "summary": "Wegen Untersp&uuml;lte Gleise zwischen W&ouml;rth(Rhein) - Lauterbourg wird am 14.12.23 bis 15.12.2023 der Zugverkehr ganzt&auml;gig eingestellt.<br />\n&nbsp;",
       "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB52&nbsp;&nbsp;</strong>W&ouml;rth &ndash; Hagenbach &ndash; Lauterbourg</li>\n</ul>\n\n<p><strong>Wir haben einen Ersatzverkehr mit Bussen der Firma Citybus S&uuml;dwest zwischen W&ouml;rth(Rhein) und Lauterbourg f&uuml;r Sie eingerichtet.</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "downloads": [],
       "links": [
@@ -419,7 +346,7 @@
       "states": [
         "RP"
       ],
-      "lastModified": "14.12.2023 18:41",
+      "lastModified": "15.12.2023 06:03",
       "expand": false,
       "topDisruption": false
     },
@@ -499,7 +426,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "15.12.2023 05:46",
+      "lastModified": "15.12.2023 06:16",
       "expand": false,
       "topDisruption": false
     },
@@ -523,7 +450,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "15.12.2023 05:46",
+      "lastModified": "15.12.2023 06:16",
       "expand": false,
       "topDisruption": false
     },
@@ -576,7 +503,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "15.12.2023 05:46",
+      "lastModified": "15.12.2023 06:16",
       "expand": false,
       "topDisruption": false
     },
@@ -600,7 +527,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "15.12.2023 05:46",
+      "lastModified": "15.12.2023 06:16",
       "expand": false,
       "topDisruption": false
     },
@@ -657,53 +584,6 @@
         "SL"
       ],
       "lastModified": "14.12.2023 12:16",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "214eb7bd-b3e2-4ff2-9423-772891fa5adf",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugausfälle zwischen Kaiserslautern und Pirmasens",
-      "summary": "Wegen erh&ouml;hter Erkrankung von Stellwerkspersonal wird der Verkehr zwischen Pirmasens und Kaiserslautern, am Donnerstag den 14.12.2023 ab 14:00Uhr bis Betriebsschluss eingestellt.&nbsp;<br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RB 64 Pirmasens - Schopp - Kaiserslautern</strong></li>\n</ul>\n\n<p>Wir haben einen Ersatzverkehr mit Bussen zwischen Kaiserslautern Hbf und Pirmasens Hbf f&uuml;r Sie eingerichtet.</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-App",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lastModified": "14.12.2023 11:49",
       "expand": false,
       "topDisruption": false
     },
@@ -913,7 +793,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "15.12.2023 05:46",
+      "lastModified": "15.12.2023 06:16",
       "expand": false,
       "topDisruption": false
     },
@@ -978,7 +858,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "15.12.2023 05:46",
+      "lastModified": "15.12.2023 06:16",
       "expand": false,
       "topDisruption": false
     },
