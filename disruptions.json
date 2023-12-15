@@ -2,6 +2,31 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "9ed166dd-84aa-4187-a944-f5a90397122a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Mannheim und Frankfurt",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Mannheim und Frankfurt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge in Fahrtrichtung von Mannheim nach Frankfurt(M) Hbf bzw. Frankfurt(M) Flughafen werden umgeleitet und verspäten sich um etwa 20 Minuten.</li></ul><p>Für Züge in der Gegenrichtung erwarten wir keine Auswirkungen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Vormittagsstunden des heutigen Freitags erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE",
+        "RP"
+      ],
+      "lastModified": "15.12.2023 05:21",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "54504902-f965-4e00-96b8-ccc9a53998d0",
       "author": "REGIO_MITTE",
       "cause": {
@@ -134,7 +159,7 @@
         "BW",
         "HE"
       ],
-      "lastModified": "15.12.2023 04:46",
+      "lastModified": "15.12.2023 05:21",
       "expand": true,
       "topDisruption": false
     },
@@ -263,7 +288,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "15.12.2023 04:46",
+      "lastModified": "15.12.2023 05:21",
       "expand": false,
       "topDisruption": false
     },
@@ -371,7 +396,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "15.12.2023 04:46",
+      "lastModified": "15.12.2023 05:21",
       "expand": false,
       "topDisruption": false
     },
@@ -498,7 +523,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "15.12.2023 04:46",
+      "lastModified": "15.12.2023 05:21",
       "expand": false,
       "topDisruption": false
     },
@@ -522,7 +547,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "15.12.2023 04:46",
+      "lastModified": "15.12.2023 05:21",
       "expand": false,
       "topDisruption": false
     },
@@ -575,7 +600,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "15.12.2023 04:46",
+      "lastModified": "15.12.2023 05:21",
       "expand": false,
       "topDisruption": false
     },
@@ -599,7 +624,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "15.12.2023 04:46",
+      "lastModified": "15.12.2023 05:21",
       "expand": false,
       "topDisruption": false
     },
@@ -912,7 +937,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "15.12.2023 04:46",
+      "lastModified": "15.12.2023 05:21",
       "expand": false,
       "topDisruption": false
     },
@@ -977,7 +1002,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "15.12.2023 04:46",
+      "lastModified": "15.12.2023 05:21",
       "expand": false,
       "topDisruption": false
     },
