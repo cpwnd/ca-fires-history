@@ -239,7 +239,7 @@
         "ST",
         "SN"
       ],
-      "lastModified": "17.12.2023 16:27",
+      "lastModified": "17.12.2023 16:47",
       "expand": false,
       "topDisruption": false
     },
@@ -299,7 +299,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "17.12.2023 16:27",
+      "lastModified": "17.12.2023 16:47",
       "expand": false,
       "topDisruption": false
     },
@@ -426,7 +426,7 @@
       "states": [
         "SN"
       ],
-      "lastModified": "17.12.2023 16:27",
+      "lastModified": "17.12.2023 16:47",
       "expand": false,
       "topDisruption": false
     },
@@ -450,7 +450,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "17.12.2023 16:27",
+      "lastModified": "17.12.2023 16:47",
       "expand": false,
       "topDisruption": false
     },
@@ -503,7 +503,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "17.12.2023 16:27",
+      "lastModified": "17.12.2023 16:47",
       "expand": false,
       "topDisruption": false
     },
@@ -527,7 +527,69 @@
       "states": [
         "SN"
       ],
-      "lastModified": "17.12.2023 16:27",
+      "lastModified": "17.12.2023 16:47",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "8b17f486-e4e8-4550-b2a8-c8913c636038",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Beeinträchtigungen auf der Linie RB 67- Kaiserslautern Hbf - Kusel und RB 68 - Saarbrücken Hbf - Pirmasens",
+      "summary": "Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal, kommt es <strong>ab Montag den 18. bis voraussichtlich den 22.12.2023 </strong>auf den Linien RB 67 und RB 68 zu einzelnen Zugausf&auml;llen mit Ersatzverkehr.<br />\nDen Fahrplan des Ersatzverkehrs finden Sie weiter unten.",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RB67&nbsp;Kaiserslautern Hbf - Kusel</strong></li>\n\t<li><strong>RB68 Saarbr&uuml;cken Hbf - Pirmasens Hbf</strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr mit Bussen ist am Montag den 18.12.2023 eingerichtet.<br />\nEs verkehrt jeweils ein Bus der Firma Fichtenkamm und Nikolaus im Pendel zwischen Pirmasens Hbf und Saarbr&uuml;cken Hbf.</strong></p>\n\n<p>Den dazugeh&ouml;rigen<strong> Ersatzfahrplan finden Sie weiter unten.</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "18.11.2023",
+      "durationEnd": "22.01.2024",
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:327430e1-8ce9-4523-826e-5dad74dc8942/RB_67_SKL-SKUS_2024_Ersatzprogramm.pdf",
+          "label": "Ersatzfahrplan Kaiserslautern Hbf - Kusel (PDF, 86 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:d0c3e045-5722-454d-a3f3-3b1dc35dc04f/RB_68_SSH-SPS_Ersatzprogramm.pdf",
+          "label": "Ersatzfahrplan Saarbrücken Hbf - Pirmasens Hbf (PDF, 89 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SL"
+      ],
+      "lastModified": "17.12.2023 16:44",
       "expand": false,
       "topDisruption": false
     },
@@ -764,7 +826,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "17.12.2023 16:27",
+      "lastModified": "17.12.2023 16:47",
       "expand": false,
       "topDisruption": false
     },
@@ -829,7 +891,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "17.12.2023 16:27",
+      "lastModified": "17.12.2023 16:47",
       "expand": false,
       "topDisruption": false
     },
