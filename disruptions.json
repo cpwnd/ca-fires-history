@@ -353,6 +353,37 @@
       "topDisruption": false
     },
     {
+      "id": "6ba38419-ee5b-4118-81b6-2f31da97ea45",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Fahrzeugbedingte Ausfälle auf der RB 71 bis einschließlich 24.12.2023",
+      "summary": "Auf Grund der Fahrzeugsituation im VVO-Dieselnetz kommt es im Wochenverlauf zu Zugausfällen auf der RB 71. Auf der RB71 (Pirna – Sebnitz) versuchen wir derzeit, den Busersatzverkehr auf alle Zugleistungen der RB 71 bis einschließlich Freitag, 22.12.2023 zu organisieren. \nFür Dienstag (19.12.) ist der Ersatzfahrplan im Anhang zu finden.",
+      "text": "<p>Wir werden die Fahrten schrittweise in die Reisendeninformation einspielen.</p><p>Für den weiteren Wochenverlauf informieren wir Sie fortwährend.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, im DB Streckenagent oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
+      "durationBegin": "19.12.2023",
+      "durationEnd": "22.12.2023",
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2023-12-21/601337b8-a5b8-44c6-bec5-48b969bbadd7BNV%2BRB71.pdf",
+          "label": "BNV RB71.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "21.12.2023 09:10",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -402,37 +433,6 @@
       ],
       "states": [
         "ST"
-      ],
-      "lastModified": "19.12.2023 17:31",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "6ba38419-ee5b-4118-81b6-2f31da97ea45",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Fahrzeugbedingte Ausfälle auf der RB 71 vom 19. Dezember bis 22. Dezember",
-      "summary": "Auf Grund der Fahrzeugsituation im VVO-Dieselnetz kommt es im Wochenverlauf zu Zugausfällen auf der RB 71. Auf der RB71 (Pirna – Sebnitz) versuchen wir derzeit, den Busersatzverkehr auf alle Zugleistungen der RB 71 bis einschließlich Freitag, 22.12.2023 zu organisieren. \nFür Dienstag (19.12.) ist der Ersatzfahrplan im Anhang zu finden.",
-      "text": "<p>Der Fahrplan wird unter bahn.de/aktuell eingestellt. Wir werden die Fahrten schrittweise in die Reisendeninfo einspielen.</p><p>&nbsp;Für den weiteren Wochenverlauf informieren wir Sie fortwährend.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, im DB Streckenagent oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
-      "durationBegin": "19.12.2023",
-      "durationEnd": "22.12.2023",
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2023-12-19/07362a1a-279e-424a-8350-0f2043534d0aBusnotverkehr%2BRB%2B71.pdf",
-          "label": "Busnotverkehr RB 71.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
       ],
       "lastModified": "19.12.2023 17:31",
       "expand": false,
