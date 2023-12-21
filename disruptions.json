@@ -62,7 +62,7 @@
       },
       "headline": "Sturm: Der Bahnverkehr der DB Regio Südost ist am 21.12.2023 beeinträchtigt.",
       "summary": "Aufgrund von Sturmschäden kommt es im Regionalverkehr der Deutschen Bahn in Sachsen-Anhalt und Thüringen am 21. Dezember zu Verspätungen und Zugausfällen.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 2 Erfurt Hbf - Bad Langensalza - Leinefelde - Eichenberg - Kassel-Wilhelmshöhe:</strong> Die Züge verkehren mit verminderter Geschwindigkeit. Infolge kommt es zu Verspätungen und Teilausfällen zwischen Witzenhausen Nord und Kassel Wilhelmshöhe.</li><li><strong>RE 20 Magdeburg Hbf - Stendal - Salzwedel - Uelzen:</strong> Die Züge verkehren mit verminderter Geschwindigkeit. Infolge kommt es zu Verspätungen und Teilausfällen zwischen Magdeburg Hbf und Schönebeck.</li><li><strong>RE 30 Magdeburg Hbf - Köthen - Halle(Saale) Hbf:</strong> Die Züge verkehren mit verminderter Geschwindigkeit. Infolge kommt es zu Verspätungen und Teilausfällen zwischen Köthen/Gnadau und Magdeburg Hbf. Die Züge werden zum Teil über Dessau Hbf umgeleitet.</li><li><strong>RB 40 Burg - Magdeburg Hbf - Eilsleben (b Magdeburg) - Helmstedt - Braunschweig Hbf:</strong> Die Züge fallen zwischen Magdeburg Hbf und Braunschweig aus. Ersatzverkehr mit Bus für den Streckenabschnitt Helmstedt und Braunschweig sowie von Helmstedt nach Magdeburg Hbf ist eingerichtet.</li></ul><p>Bitte rechnen Sie darüber hinaus auch auf anderen Linien mit Verspätungen und ggf. Teilausfällen. Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator.</p>",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 2 Erfurt Hbf - Bad Langensalza - Leinefelde - Eichenberg - Kassel-Wilhelmshöhe:</strong> Die Züge verkehren mit verminderter Geschwindigkeit.</li><li><strong>RE 20 Magdeburg Hbf - Stendal - Salzwedel - Uelzen:</strong> Die Züge verkehren mit verminderter Geschwindigkeit.</li><li><strong>RE 30 Magdeburg Hbf - Köthen - Halle(Saale) Hbf:</strong> Die Züge verkehren mit verminderter Geschwindigkeit. Infolge kommt es zu Verspätungen und Teilausfällen zwischen Köthen/Gnadau und Magdeburg Hbf. Die Züge werden zum Teil über Dessau Hbf umgeleitet.</li><li><strong>RB 40 Burg - Magdeburg Hbf - Eilsleben (b Magdeburg) - Helmstedt - Braunschweig Hbf:</strong> Die Züge fallen zwischen Magdeburg Hbf und Braunschweig aus. Ersatzverkehr mit Bus für den Streckenabschnitt Helmstedt und Braunschweig sowie von Helmstedt nach Magdeburg Hbf ist eingerichtet.</li></ul><p>Bitte rechnen Sie darüber hinaus auch auf anderen Linien mit Verspätungen und ggf. Teilausfällen. Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator.</p>",
       "durationBegin": "21.12.2023",
       "durationEnd": "21.12.2023",
       "downloads": [],
@@ -75,7 +75,7 @@
         "TH",
         "SN"
       ],
-      "lastModified": "21.12.2023 19:06",
+      "lastModified": "21.12.2023 20:07",
       "expand": false,
       "topDisruption": false
     },
@@ -485,6 +485,27 @@
       "topDisruption": false
     },
     {
+      "id": "b1128b62-a48a-4945-8c70-def359065753",
+      "author": "REGIO_HE",
+      "cause": {
+        "category": "weather_heat",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Sturmschäden: Der Bahnverkehr ist am 21.12. und 22.12.2023 beeinträchtigt.",
+      "text": "<p><strong>Aufgrund von Sturmsch&auml;den kann es am 21.12. und 22.12.2023 zu Einschr&auml;nkungen im Bahnverkehr in Hessen kommen.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><strong>Sollte es zu Einschr&auml;nkungen kommen, werden diese hier aufgef&uuml;hrt:</strong></p>\n\n<p>Aktuell gibt es Einschr&auml;nken auf folgenden Linien:</p>\n\n<p>&nbsp;</p>\n\n<p><strong><u>RE30:</u></strong></p>\n\n<p>Aufgrund einer technischen St&ouml;rung an einem Zug ist der Streckenabschnitt zwischen Gensungen-Felsberg und Grifte derzeit nur eingleisig befahrbar.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter bahn.de oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 244 457 10</p>\n",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lastModified": "21.12.2023 20:01",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "c8bdb3f2-bf39-4a46-a82c-08909501df9c",
       "author": "REGIO_SH",
       "cause": {
@@ -536,27 +557,6 @@
         "SH"
       ],
       "lastModified": "21.12.2023 19:40",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "b1128b62-a48a-4945-8c70-def359065753",
-      "author": "REGIO_HE",
-      "cause": {
-        "category": "weather_heat",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Sturmschäden: Der Bahnverkehr ist am 21.12. und 22.12.2023 beeinträchtigt.",
-      "text": "<p><strong>Aufgrund von Sturmsch&auml;den kommt es am 21.12. und 22.12.2023 zu Versp&auml;tungen und Zugausf&auml;llen im Bahnverkehr in Hessen.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter bahn.de oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.<br />\n<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 244 457 10</p>\n",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lastModified": "21.12.2023 19:39",
       "expand": false,
       "topDisruption": false
     },
