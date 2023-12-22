@@ -525,6 +525,37 @@
       "topDisruption": false
     },
     {
+      "id": "bb6ceaa7-a4fc-4c42-be94-1801e7ba9e0c",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetter"
+      },
+      "headline": "Sturmschäden: Der Bahnverkehr ist am 22. Dezember beeinträchtigt.",
+      "summary": "Aufgrund von Sturmsch&auml;den kommt es am 22. Dezember zu Versp&auml;tungen und Zugausf&auml;llen im Bahnverkehr.",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RE&nbsp;2: Konstanz - Karlsruhe: </strong>Baum auf der Strecke&nbsp;zwischen St. Georgen und Triberg. Streckensperrung. Bisher keine Information zur Dauer der St&ouml;rung. Update folgt.&nbsp;</li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "22.12.2023",
+      "durationEnd": "22.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-APP",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "22.12.2023 14:17",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "c8bdb3f2-bf39-4a46-a82c-08909501df9c",
       "author": "REGIO_SH",
       "cause": {
