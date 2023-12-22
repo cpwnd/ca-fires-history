@@ -211,68 +211,6 @@
       "topDisruption": false
     },
     {
-      "id": "d1401b55-659c-4fe7-b103-9f743b066e01",
-      "author": "REGIO_SH",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Verlängerung der Bauarbeiten am Halt Lübeck-Moisling bis voraussichtlich 22.12.2023.",
-      "summary": "Aufgrund der Verl&auml;ngerung von Bauarbeiten entf&auml;llt der Halt L&uuml;beck-Moisling bis voraussichtlich 22.12.2023.",
-      "text": "<p><u><strong>Betroffene Linien und Z&uuml;ge:</strong></u></p>\n\n<ul>\n\t<li><strong>RE 8 (L&uuml;beck Hbf &ndash; Hamburg Hbf):</strong>&nbsp;Die Z&uuml;ge verkehren ohne Halt zwischen L&uuml;beck Hbf und Reinfeld. Der Halt L&uuml;beck-Moisling entf&auml;llt bis voraussichtlich 22.12.2023.</li>\n\t<li><strong>RE 80 (L&uuml;beck Hbf &ndash; Ahrensburg &ndash; Hamburg Hbf):</strong>&nbsp;Die Z&uuml;ge verkehren ohne Halt zwischen L&uuml;beck Hbf und Reinfeld. Der Halt L&uuml;beck-Moisling entf&auml;llt&nbsp;bis voraussichtlich 22.12.2023.</li>\n</ul>\n\n<p>Bitte nutzen Sie die Buslinie 11 des regionalen Stadtverkehrs von/nach L&uuml;beck Hbf.&nbsp;</p>\n\n<p>Rechnen Sie mit einer Reisezeitverz&ouml;gerung von bis zu 30 Minuten.&nbsp;</p>\n\n<p>Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "durationBegin": "08.12.2023",
-      "durationEnd": "23.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH ",
-          "label": "Twitter ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de ",
-          "label": "Lageplan des Ersatzverkehrs",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lastModified": "21.12.2023 11:03",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
       "cause": {
@@ -588,6 +526,30 @@
       "topDisruption": false
     },
     {
+      "id": "6d1bedcf-4a48-403e-ac31-4508d52ff536",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetter"
+      },
+      "headline": "S1: Beendet: Unregelmäßige Fahrten zw. Ohlsdorf und Poppenbüttel",
+      "summary": "Die S1 fährt zw. Ohlsdorf und Poppenbüttel wieder wie gewohnt.",
+      "text": "<p>Die S1 fährt auch zwischen Ohlsdorf und Poppenbüttel wieder wie gewohnt. Die Zusatzbusse wurden eingestellt.</p>",
+      "durationBegin": "22.12.2023",
+      "durationEnd": "22.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lastModified": "22.12.2023 12:31",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c8bdb3f2-bf39-4a46-a82c-08909501df9c",
       "author": "REGIO_SH",
       "cause": {
@@ -640,30 +602,6 @@
       ],
       "lastModified": "22.12.2023 11:54",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "6d1bedcf-4a48-403e-ac31-4508d52ff536",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetter"
-      },
-      "headline": "S1: Unregelmäßige Fahrten zw. Ohlsdorf und Poppenbüttel",
-      "summary": "Die S1 fährt zw. Ohlsdorf und Poppenbüttel aktuell nur unregelmäßig. Es fahren Zusatzbusse.",
-      "text": "<p>Die S1 (Wedel - Airport/Poppenbüttel) fährt zwischen Ohlsdorf und Poppenbüttel aktuell unregelmäßig, die Stationen Kornweg (Klein Borstel), Hoheneichen, Wellingsbüttel und Poppenbüttel werden nur unregelmäßig angefahren. Es fahren Zusatzbusse. Weichen Sie bitte auch auf die regulären Buslinien aus. Der Grund sind witterungsbedingte Störungen an der Strecke. </p>",
-      "durationBegin": "22.12.2023",
-      "durationEnd": "22.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lastModified": "22.12.2023 09:53",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -1099,7 +1037,7 @@
       "states": [
         "HH"
       ],
-      "lastModified": "22.12.2023 09:53",
+      "lastModified": "22.12.2023 12:33",
       "expand": true,
       "topDisruption": false
     },
