@@ -2,6 +2,33 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "f7b47490-780f-41a8-b001-fb149ee9a766",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "Beeinträchtigungen aufgrund von Gleisunterspülungen zwischen Helmstedt und Magdeburg",
+      "summary": "Aktuell kommt es in Helmstedt und Magdeburg aufgrund von Gleisunterspülungen zu Beeinträchtigungen mit Umleitungen und Haltausfällen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p><strong>ICE-Züge der Relation Hannover - Berlin und Gegenrichtung:</strong></p><ul><li>einzelne Züge werden umgeleitet, die Halte in Magdeburg und Brandenburg entfallen</li></ul><p><strong>IC-Züge der Relation Hannover - Magdeburg - Leipzig und Gegenrichtung:</strong></p><ul><li>die Züge werden umgeleitet, die Halte in Peine, Braunschweig und Helmstedt entfallen, Ersatzhalt ist Wolfsburg</li><li>die Züge erhalten eine Umleitungsverspätung von vsl. 45 Minuten</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.12.2023",
+      "durationEnd": "24.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lastModified": "24.12.2023 02:58",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "723cb296-7c20-4375-88a3-b0bafd159ab4",
       "author": "FERNVERKEHR_AG",
       "cause": {
