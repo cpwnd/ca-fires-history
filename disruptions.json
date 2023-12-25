@@ -2,6 +2,33 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "c3513ee5-9973-46a5-8e0f-6c115f098f2c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Bremen und Oldenburg(Oldb)",
+      "summary": "Aufgrund von Stellwerksausfall ist die Strecke zwischen Bremen und Oldenburg(Oldb) derzeit gesperrt.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Linie 56 wird über Rheine umgeleitet. Die Verkehrshalte in Nienburg (Weser), Verden (Aller), Bremen Hbf, Delmenhorst, Hude, Oldenburg (Oldb), Bad Zwischenahn, Westerstede-Ocholt und Augustfehn entfallen ersatzlos. Ersatzhalt Osnabrück. Verspätung ca. 90 Minuten.</li></ul><p>Die Behebung der Störung soll vsl. bis 26.12.2023 um 12:00 Uhr erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.12.2023",
+      "durationEnd": "26.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "HB",
+        "NI"
+      ],
+      "lastModified": "26.12.2023 00:22",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "f7b47490-780f-41a8-b001-fb149ee9a766",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -259,7 +286,7 @@
       },
       "headline": "Beeinträchtigungen zwischen Bremen und Osnabrück",
       "summary": "Aufgrund eines defekten Stellwerkes zwischen Bremen und Osnabrück kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen bis zu 15 Min.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-/IC-/EC-Züge verspäten sich um etwa 15 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis Tagesende erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-/IC-/EC-Züge in Richtung Köln verspäten sich um etwa 15 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis Tagesende erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "25.12.2023",
       "durationEnd": "26.12.2023",
       "downloads": [],
@@ -271,7 +298,7 @@
         "HB",
         "NI"
       ],
-      "lastModified": "25.12.2023 21:06",
+      "lastModified": "26.12.2023 00:24",
       "expand": true,
       "topDisruption": false
     },
