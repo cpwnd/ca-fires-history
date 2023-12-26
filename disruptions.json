@@ -113,9 +113,9 @@
         "category": "technical_problem_other",
         "label": "Einschränkungen auf der Strecke"
       },
-      "headline": "Stellwerksstörung zwischen Bremen Hbf und Oldenburg (Oldb)",
-      "summary": "Aufgrund einer Stellwerksst&ouml;rung ist der Streckenabschnitt zwischen Bremen Hbf und Oldenburg(Oldb) stark beeintr&auml;chtigt. Es kommt zu Ausf&auml;llen und Versp&auml;tungen in beiden Richtungen.",
-      "text": "<p><strong>Betroffene Linie:&nbsp;</strong></p>\n\n<ul>\n\t<li><strong>RE 1 (Norddeich(Mole) - Bremen Hbf &ndash; Hannover Hbf):&nbsp;</strong>Der&nbsp;Zugverkehr zwischen Bremen Hbf und Oldenburg (Oldb) wird wieder aufgenommen. Es kommt weiterhin zu starken Einschr&auml;nkungen. Bitte informieren Sie sich vor Abfahrt.</li>\n</ul>\n\n<p>Der Busnotverkehr wird sukzessiv eingestellt.</p>\n\n<p>Es kommt zu einer Reisezeitverl&auml;ngerung von bis zu 30 Minuten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "headline": "Stellwerksstörung zwischen Bremen Hbf und Oldenburg (Oldb) beendet",
+      "summary": "Die Stellwerksst&ouml;rung zwischen Bremen Hbf und Oldenburg (Oldb) ist beendet. Bitte rechnen Sie in der Folge noch mit Versp&auml;tungen.&nbsp;",
+      "text": "<p><strong>Betroffene Linie:&nbsp;</strong></p>\n\n<ul>\n\t<li><strong>RE 1 (Norddeich(Mole) - Bremen Hbf &ndash; Hannover Hbf): </strong>Die Z&uuml;ge verkehren wieder planm&auml;&szlig;ig.</li>\n</ul>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
       "durationBegin": "26.12.2023",
       "durationEnd": "27.12.2023",
       "downloads": [],
@@ -158,7 +158,63 @@
         "HB",
         "NI"
       ],
-      "lastModified": "26.12.2023 19:05",
+      "lastModified": "27.12.2023 00:09",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "dfe6c17d-de61-4bd2-937e-95cd113e0a81",
+      "author": "REGIO_NI_HB",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Haltausfall in Vlotho am Mittwoch, den 27.12.2023",
+      "summary": "Aufgrund von notwendigen Reparaturarbeiten an der Strecke entf&auml;llt der Halt Vlotho am 27.12.2023 bis vsl. 13:00 Uhr.&nbsp;",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>RB 77 (B&uuml;nde &ndash; Hameln &ndash; Hildesheim):</strong> Die Z&uuml;ge verkehren ohne Halt zwischen Bad Oeyenhausen S&uuml;d und Rinteln. Der Halt Vlotho entf&auml;llt vsl. bis zum 27.12.2023 (13:00 Uhr).</li>\n</ul>\n\n<p>Bitte nutzen Sie die Busse des regionalen Nahverkehrs.</p>\n\n<p>Rechnen Sie mit einer Reisezeitverz&ouml;gerung von bis zu 60 Minuten.&nbsp;</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 05191 8030904.&nbsp;</p>\n\n<p>Folgen Sie auch der Start Niedersachen Mitte auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "26.12.2023",
+      "durationEnd": "27.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https ",
+          "label": "bahn.de/reiseauskunft ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/start_NI_mitte  ",
+          "label": "Twitter Start Niedersachsen Mitte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
+          "label": "Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lastModified": "26.12.2023 23:53",
       "expand": false,
       "topDisruption": false
     },
