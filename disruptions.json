@@ -331,31 +331,6 @@
       "topDisruption": false
     },
     {
-      "id": "1f0a4394-2428-454f-898f-89748c2b1656",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Bremen und Osnabrück",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Bremen und Osnabrück ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Verspätungen.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-/EC-/IC-Züge von Hamburg in Richtung NRW verspäten sich um etwa 15 Minuten.</li></ul><p>Züge der Gegenrichtung (von NRW in Richtung Hamburg) sind von der Störung nicht betroffen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis zum 27.12.2023 in die Nachmittagsstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "25.12.2023",
-      "durationEnd": "27.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lastModified": "27.12.2023 12:23",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -598,6 +573,55 @@
         "RP"
       ],
       "lastModified": "31.05.2023 09:32",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "214eb7bd-b3e2-4ff2-9423-772891fa5adf",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugausfälle zwischen Kaiserslautern und Pirmasens",
+      "summary": "Wegen erh&ouml;hter Erkrankung von Stellwerkspersonal wird der Verkehr zwischen Pirmasens und Kaiserslautern, am Donnerstag den 28.12.2023 in der Zeit von 6 Uhr bis 13 Uhr eingestellt.&nbsp;<br />\n&nbsp;",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RB 64 Pirmasens - Schopp - Kaiserslautern</strong></li>\n</ul>\n\n<p>Ersatzverker in Planung.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "28.12.2023",
+      "durationEnd": "28.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "RP"
+      ],
+      "lastModified": "27.12.2023 18:46",
       "expand": false,
       "topDisruption": false
     },
