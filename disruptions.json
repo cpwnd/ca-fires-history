@@ -339,8 +339,8 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "Beeinträchtigungen zwischen Bremen und Osnabrück",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Bremen und Osnabrück kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen bis zu 15 Min.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-/IC-/EC-Züge in Richtung Köln verspäten sich um etwa 15 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis 27.12.2023 (Mittagsstunden) erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Bremen und Osnabrück ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Verspätungen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-/EC-/IC-Züge von Hamburg in Richtung NRW verspäten sich um etwa 15 Minuten.</li></ul><p>Züge der Gegenrichtung (von NRW in Richtung Hamburg) sind von der Störung nicht betroffen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis zum 27.12.2023 in die Nachmittagsstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "25.12.2023",
       "durationEnd": "27.12.2023",
       "downloads": [],
@@ -352,7 +352,7 @@
         "HB",
         "NI"
       ],
-      "lastModified": "26.12.2023 17:40",
+      "lastModified": "27.12.2023 12:23",
       "expand": true,
       "topDisruption": false
     },
@@ -490,34 +490,11 @@
       "topDisruption": false
     },
     {
-      "id": "37bf20ff-e47d-4c9d-9f11-17e6f17fa367",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetterauswirkungen"
-      },
-      "headline": "Beeinträchtigungen aufgrund von Unwetterschäden zwischen Dortmund und Münster(Westf)",
-      "summary": "Aufgrund von Unwetterschäden im Raum Lünen kommt es aktuell zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Verspätungen von etwa 10 Minuten. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-, IC/EC-Züge auf dem Abschnitt zwischen Münster(Westf) und Dortmund</li></ul><p>Die Züge auf diesem Abschnitt über Hamm(Westf) sind davon nicht betroffen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "27.12.2023",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lastModified": "27.12.2023 09:55",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "a616af79-3ff8-446f-ad7b-41520fb7db75",
       "author": "REGIO_BW",
       "cause": {
-        "category": "accident",
-        "label": "Einschränkungen auf der Strecke"
+        "category": "technical_problem_vehicle",
+        "label": "Fahrzeugverfügbarkeit"
       },
       "headline": "Beeinträchtigungen bei der Schwarzwaldbahn zwischen Offenburg und Konstanz",
       "summary": "Die Gegenst&auml;nde, die sich zwischen Triberg und St. Georgen (Schwarzwald) im Gleisbereich befanden, wurden beseitigt.<br />\n<br />\nDer Zugverkehr wurde zwischen Offenburg und Konstanz wieder aufgenommen. Die Z&uuml;ge der Schwarzwaldbahn verkehren zwischen Offenburg und Konstanz nur im Zwei-Stunden-Takt. Zwischen Karlsruhe und Offenburg fahren die Z&uuml;ge st&uuml;ndlich.<br />\n<br />\nDen Fahrplan zwischen Offenburg und Konstanz finden Sie als Link weiter unten. Bitte pr&uuml;fen Sie fr&uuml;hzeitig vor Reisebeginn Ihre Fahrm&ouml;glichkeiten z.B. auf www.bahn.de<br />\n<br />\nDie Beeintr&auml;chtigung wird voraussichtlich noch bis mindestens 8. Januar 2024 andauern. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
@@ -538,8 +515,31 @@
       "states": [
         "BW"
       ],
-      "lastModified": "25.12.2023 07:13",
+      "lastModified": "27.12.2023 12:20",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "37bf20ff-e47d-4c9d-9f11-17e6f17fa367",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Beeinträchtigungen zwischen Dortmund und Münster(Westf)",
+      "summary": "Aufgrund von Unwetterschäden im Raum Lünen kommt es aktuell zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-/EC-/IC-Züge zwischen Dortmund und Münster(Westf) werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 15 Minuten.</li></ul><p>Züge zwischen Dortmund und Münster(Westf) mit planmäßigen Zwischenhalt in Hamm(Westf) sind davon nicht betroffen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lastModified": "27.12.2023 12:16",
+      "expand": true,
       "topDisruption": false
     },
     {
