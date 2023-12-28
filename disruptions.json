@@ -78,6 +78,62 @@
       "topDisruption": false
     },
     {
+      "id": "807a16fa-0f30-46c0-bd1d-981c356808bc",
+      "author": "REGIO_NI_HB",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen auf der Strecke zwischen Bremen Hbf und Oldenburg (Oldb) beendet",
+      "summary": "Reparatur eines Stellwerks in Delmenhorst beendet. Infolge ist die Streckensperrung zwischen Bremen Hbf und Oldenburg (Oldb) aufgehoben. Der Zugverkehr wird wieder aufgenommen.",
+      "text": "<p><strong>Betroffene Linie:&nbsp;</strong></p>\n\n<ul>\n\t<li><strong>RE 1 (Norddeich(Mole) - Bremen Hbf &ndash; Hannover Hbf): </strong>Streckensperrung aufgehoben. Der Zugverkehr wird wieder aufgenommen. Ersten durchfahrenden Z&uuml;ge: RE4414 ab Bremen Hbf um vsl. 12:53 Uhr in Richtung Norddeich Mole bzw. RE4419 ab Oldenburg(Oldb) um vsl. 12:35 Uhr in Richtung Hannover Hbf.</li>\n</ul>\n\n<p>Infolge kann es noch zu Versp&auml;tungen kommen.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "28.12.2023",
+      "durationEnd": "28.12.2023",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https ",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS ",
+          "label": "Twitter DB Regio Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lastModified": "28.12.2023 13:11",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "dfe6c17d-de61-4bd2-937e-95cd113e0a81",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -130,62 +186,6 @@
         "NI"
       ],
       "lastModified": "28.12.2023 09:29",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "807a16fa-0f30-46c0-bd1d-981c356808bc",
-      "author": "REGIO_NI_HB",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen auf der Strecke zwischen Bremen Hbf und Oldenburg (Oldb)",
-      "summary": "Aufgrund einer Reparatur eines Stellwerks in Delmenhorst ist der Streckenabschnitt zwischen Bremen Hbf und Oldenburg (Oldb) gesperrt. Es kommt zu Beeintr&auml;chtigungen im Regionalverkehr.",
-      "text": "<p><strong>Betroffene Linie:&nbsp;</strong></p>\n\n<ul>\n\t<li><strong>RE 1 (Norddeich(Mole) - Bremen Hbf &ndash; Hannover Hbf): </strong>Die Z&uuml;ge aus/in Richtung Norddeich(Mole) enden/beginnen vorzeitig in Oldenburg(Oldb). Die Z&uuml;ge aus/in Richtung Hannover Hbf enden/beginnen vorzeitig in Bremen Hbf. Ein Ersatzverkehr ist mit zwei Bussen der Firma FGS Reisen zwischen Oldenburg(Oldb) und Bremen Hbf im Pendel eingerichtet.</li>\n</ul>\n\n<p>Es kommt zu einer Reisezeitverl&auml;ngerung von bis zu 45 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "durationBegin": "28.12.2023",
-      "durationEnd": "28.12.2023",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https ",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_NDS ",
-          "label": "Twitter DB Regio Niedersachsen und Bremen ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lastModified": "28.12.2023 08:55",
       "expand": false,
       "topDisruption": false
     },
