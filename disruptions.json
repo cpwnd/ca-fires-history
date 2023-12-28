@@ -2,6 +2,31 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "a9c70564-b28a-41f1-80e4-8bfb06ec9013",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigung zwischen Mainz und Mannheim",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Osthofen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Haltausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge zwischen Mainz und Mannheim mit planmäßigen Halt in Worms Hbf werden umgeleitet. Der Halt Worms Hbf entfällt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.12.2023",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE",
+        "RP"
+      ],
+      "lastModified": "28.12.2023 09:43",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "54504902-f965-4e00-96b8-ccc9a53998d0",
       "author": "REGIO_MITTE",
       "cause": {
@@ -60,8 +85,8 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "Beeinträchtigungen zwischen Bremen und Leer(Ostfriesl.)",
-      "summary": "Aufgrund eines defekten Stellwerks ist die Strecke zwischen Bremen und Leer(Ostfriesl.) beeinträchtigt. Es kommt zu Umleitungen, Haltausfällen und Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Von 09:00 Uhr - 12:00 Uhr finden Reperaturarbeiten am Stellwerk statt. Folgende Züge (IC 2039, IC 2037, IC 2432 und IC 2434) werden über Rheine umgeleitet mit Haltausfall Nienburg, Verden, Bremen Hbf, Delmenhorst, Hude, Oldenburg, Bad Zwischenahn, Westerstede-Ocholt und Augustfehn. Ersatzhalt Osnabrück. Verspätung ca. 90 Minuten</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund eines defekten Stellwerks ist die Strecke zwischen Bremen und Leer(Ostfriesl.) beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Von 09:00 Uhr bis12:00 Uhr finden Reparaturarbeiten am Stellwerk statt. Folgende Züge (IC 2039, IC 2037, IC 2432 und IC 2434) werden über Rheine umgeleitet mit Haltausfall Nienburg, Verden, Bremen Hbf, Delmenhorst, Hude, Oldenburg, Bad Zwischenahn, Westerstede-Ocholt und Augustfehn. Ersatzhalt Osnabrück. Verspätung ca. 90 Minuten</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "26.12.2023",
       "durationEnd": "28.12.2023",
       "downloads": [],
@@ -73,7 +98,7 @@
         "HB",
         "NI"
       ],
-      "lastModified": "28.12.2023 04:16",
+      "lastModified": "28.12.2023 09:44",
       "expand": true,
       "topDisruption": false
     },
@@ -129,7 +154,7 @@
         "HB",
         "NI"
       ],
-      "lastModified": "28.12.2023 09:25",
+      "lastModified": "28.12.2023 09:29",
       "expand": false,
       "topDisruption": false
     },
