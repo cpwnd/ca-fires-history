@@ -85,8 +85,8 @@
         "category": "other_cause",
         "label": "Kurzfristige Erkrankung von Personal"
       },
-      "headline": "Beeinträchtigung in Ehringshausen",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Ehringshausen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Ausfällen.",
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Dortmund (über Siegen)",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles im Stellwerk in Ehringshausen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Zugausfällen.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Frankfurt(M) - Siegen - Dortmund (- Norddeich) fallen in beiden Fahrtrichtungen zwischen Frankfurt(M) und Siegen aus.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "01.01.2024",
       "downloads": [],
@@ -98,7 +98,32 @@
         "NW",
         "HE"
       ],
-      "lastModified": "01.01.2024 09:33",
+      "lastModified": "01.01.2024 10:01",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "cb4e0869-e1f8-4ce2-87c4-e3054d1ad2cf",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Aschaffenburg",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles im Stellwerk in Hanau ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Frankfurt(M) und Aschaffenburg/Würzburg werden in der Nacht 01./02.01.2024 von 19 Uhr bis 6 Uhr&nbsp;zwischen Frankfurt(M) und Aschaffenburg in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 20 Minuten. Der Halt Hanau Hbf entfällt.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Von/nach Hanau Hbf nutzen sie bitte die Regionalzüge und S-Bahnen zwischen Frankfurt(M) und Hanau bzw. Aschaffenburg und Hanau.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "29.12.2023",
+      "durationEnd": "02.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lastModified": "01.01.2024 09:50",
       "expand": true,
       "topDisruption": false
     },
@@ -124,31 +149,6 @@
         "RP"
       ],
       "lastModified": "01.01.2024 05:01",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "cb4e0869-e1f8-4ce2-87c4-e3054d1ad2cf",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Beeinträchtigung zwischen Aschaffenburg und Frankfurt(M)",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles im Stellwerk in Hanau kommt es in der Nacht 01.01./02.01. im Zeitraum zwischen 19 Uhr und 6 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Umleitungen mit Haltausfällen und Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge München - Frankfurt(M) - Köln - Essen werden zwischen Aschaffenburg und Frankfurt(M) umgeleitet und verspäten sich um etwa 20 Minuten. Der Halt in Hanau Hbf entfällt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "29.12.2023",
-      "durationEnd": "02.01.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "HE"
-      ],
-      "lastModified": "30.12.2023 22:27",
       "expand": true,
       "topDisruption": false
     },
