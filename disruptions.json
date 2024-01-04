@@ -2,6 +2,32 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "dd86ee1c-d2ab-4094-9bbf-4f96cbe63465",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Umleitungen und Teilausfälle",
+      "summary": "Weichenstörung bei der Einfädelung in den City Tunnel aus und in Richtung Süden",
+      "text": "<strong><strong>S 4 Markkleeberg-Gaschwitz - Leipzig Hbf - Eilenburg - Torgau</strong></strong><ul><li>S 4 endet und beginnt aus/in Richtung Eilenburg, Torgau und Falkenberg in <strong>Leipzig Hauptbahnhof oben</strong></li><li>Halte zwischen Leipzig Hauptbahnhof und Markkleeberg-Gaschwitz entfallen</li><li>Reisende in Richtung Connewitz, Markkleeberg und Gaschwitz nutzen bitte den Leipziger Stadtverkehr</li></ul><strong><strong>S 5/S 5x Halle Hbf - Leipzig/Halle Flughafen - Leipzig Hbf - Altenburg - Zwickau Hbf</strong></strong><ul><li>S 5(x) und S 6 <strong>halten in Leipzig Hauptbahnhof oben</strong></li><li>Züge werden zwischen Leipzig Hauptbahnhof und Böhlen umgeleitet</li><li>Zusatzhalt in Markkleeberg Mitte</li></ul>",
+      "durationBegin": "04.01.2024",
+      "durationEnd": "04.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "SN"
+      ],
+      "lastModified": "04.01.2024 14:21",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "ccee5fe9-17b8-4e25-97e6-6e230fa6f835",
       "author": "FERNVERKEHR_AG",
       "cause": {
