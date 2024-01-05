@@ -76,56 +76,6 @@
       "topDisruption": false
     },
     {
-      "id": "f6cbc284-d3de-4079-9402-fcfe66243f50",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Reparatur an der Strecke zwischen Pirmasens und Saarbrücken",
-      "summary": "Eine Reparatur an der Weiche verz&ouml;gert den Zugverkehr <strong>zw. Dellfeld und Zweibr&uuml;cken Hbf. </strong><br />\nIn der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen.<br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB68 Pirmasens - Zweibr&uuml;cken - Saarbr&uuml;cken</strong></li>\n</ul>\n\n<p>In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen. Es kann kurzfristig zu Zugausf&auml;llen kommen.</p>\n\n<p>Bitte beachten Sie die &Auml;nderungen bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Fahrzeit ein.<br />\nWir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "durationBegin": "03.01.2024",
-      "durationEnd": "03.01.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-App",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SL",
-        "RP"
-      ],
-      "lastModified": "03.01.2024 12:09",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "aa7ea4e4-d68c-461f-9aad-9ed1539b72d7",
       "author": "REGIO_SUEDOST",
       "cause": {
@@ -426,6 +376,29 @@
       ],
       "lastModified": "19.12.2023 17:31",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "3f18b40c-0ce3-49f3-ba9e-c270e20edaad",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Frankfurt (Main) und Mainz",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Frankfurt (Main) und Mainz kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet, der Halt Mainz Hbf entfällt. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge von Frankfurt (M) in Richtung Mainz.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Fern- und Nahverkehrszüge sowie S-Bahnen der Linie S8.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "RP"
+      ],
+      "lastModified": "05.01.2024 11:29",
+      "expand": true,
       "topDisruption": false
     },
     {
