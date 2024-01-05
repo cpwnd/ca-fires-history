@@ -2,6 +2,63 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "262a9e7b-f8f7-4764-990a-78e5eafea71b",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Fahrzeugverfügbarkeit"
+      },
+      "headline": "Fahrplananpassungen bis 11. Februar 2024",
+      "summary": "Wegen hohem Schadstand der Fahrzeuge auf dem Netz der LahnEifelBahn kommt es bei einigen<br />\nZ&uuml;gen zu einem reduziertem Sitzplatzangebot.<br />\nAus diesem Grund verkehren im Zeitraum vom 02.01. - 11.02.24 zus&auml;tzliche Busse<br />\nteilweise parallel bzw. zus&auml;tzlich zum Zug auf verschiedenen Streckenabschnitten, die Sie<br />\ndem Fahrplanauszug entnehmen k&ouml;nnen.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li>RB 23 Limburg(Lahn) - Nassau(Lahn) - Bad Ems - Koblenz</li>\n\t<li>RB 38 Andernach - Mayen_Ost - Kaisersesch</li>\n</ul>\n\n<p><strong>Folgende Fahrplananpassungen gelten seit 2. Januar:</strong></p>\n\n<p>Die zus&auml;tzlichen Busse 12604 und 92617 beginnen bzw. enden direkt am Schulzentrum<br />\nBad Ems West und fahren Bad Ems West Bahnhof nicht an.<br />\nAb 02.01.24 kommt es bei bestimmten Z&uuml;gen zu Teilausf&auml;llen zwischen Limburg &ndash; Koblenz<br />\nund Andernach &ndash; Kaisersesch.<br />\nDie Busse verkehren bereits ab dem 02.Januar 2024.<br />\nDie betroffenen Z&uuml;ge entfallen jedoch erst ab dem 08. Januar 2024.<br />\nmit Ausnahme 12690 und 12697, die ab 02. Januar 2024 entfallen.<br />\nEinzelheiten entnehmen Sie bitte dem beigef&uuml;gten Fahrplanauszug.</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "06.11.2023",
+      "durationEnd": "02.01.2024",
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:9336a5aa-a5e9-4d5a-aab1-4dd689761877/RB23_RB38_%20LEB%20K%C3%BCrzungen.pdf",
+          "label": "RB23_RB38_Fahrplan (PDF, 214 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (ehemals Twitter).",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lastModified": "05.01.2024 12:10",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "cb4e0869-e1f8-4ce2-87c4-e3054d1ad2cf",
       "author": "FERNVERKEHR_AG",
       "cause": {
