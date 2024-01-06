@@ -2,6 +2,31 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "a48b2bb4-1396-43ad-b178-e9faf9d4e95d",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Beeinträchtigungen zwischen Wolfsburg und Berlin",
+      "summary": "Aufgrund eines Polizeieinsatzes kommt es zwischen Wolfsburg und Berlin derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 60 Minuten. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC-Züge zwischen Wolfsburg und Berlin </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lastModified": "06.01.2024 17:17",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "262a9e7b-f8f7-4764-990a-78e5eafea71b",
       "author": "REGIO_MITTE",
       "cause": {
