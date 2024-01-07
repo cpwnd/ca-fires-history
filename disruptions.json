@@ -2,6 +2,45 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "75d53f7f-5675-41e5-b71a-f59a7dfef2c1",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik angekündigt",
+      "summary": "Der Zugverkehr wird im Zeitraum von Mittwoch, 10.01.2023 bis Freitag, 12.01.2023 deutschlandweit wegen eines Streiks der Gewerkschaft GDL beeinträchtigt sein. ",
+      "text": "<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.01.2024",
+      "durationEnd": "12.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "07.01.2024 19:20",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "262a9e7b-f8f7-4764-990a-78e5eafea71b",
       "author": "REGIO_MITTE",
       "cause": {
