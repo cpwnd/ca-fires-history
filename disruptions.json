@@ -1,5 +1,58 @@
 {
-  "topDisruptions": [],
+  "topDisruptions": [
+    {
+      "id": "596e514a-269d-4420-b9cf-cbb7a61248bf",
+      "author": "DEUTSCHE_BAHN_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streikauswirkungen"
+      },
+      "headline": "GDL-Streik angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB vom 10.01. ab 2 Uhr bis 12.01. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL hat Streikmaßnahmen für den Zeitraum von Mittwoch, 10.01.2024 ab 2 Uhr bis einschließlich Freitag, 12.01.2024 angekündigt. Dadurch kommt es in diesem Zeitraum zu massiven Beeinträchtigungen im Fern-, Regional- und S-Bahn Verkehr der Deutschen Bahn. \n\nDer Notfahrplan sichert nur ein sehr begrenztes Zugangebot im Fern-, Regional- und S-Bahn Verkehr der DB. Bitte sehen Sie von nicht notwendigen Reisen während des GDL-Streiks ab und verschieben Sie Ihre Reise auf einen anderen Zeitpunkt. ",
+      "text": "<p><strong>Regelung für betroffene Reisende:</strong></p><p>Alle Fahrgäste, die ihre für <strong>Mittwoch, 10.01.2024 bis Freitag, 12.01.2024</strong> geplante Reise aufgrund des Streiks der GDL verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.</p><p>Zudem haben Fahrgäste im Rahmen einer Sonderkulanz auch die Möglichkeit, ihre <strong>Reise vorzuverlegen und bereits am Montag, 08.01.2024 und Dienstag, 09.01.2024</strong> früher zu fahren.</p><p>Bitte informieren Sie sich nochmals 24 Stunden vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.01.2024",
+      "durationEnd": "12.01.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de/sonderkulanz",
+          "label": "Ausführliche Informationen zu Reisen während des GDL-Streiks",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de/fahrgastrechte",
+          "label": "Allgemeine Informationen zu den Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "07.01.2024 21:48",
+      "expand": true,
+      "topDisruption": true
+    }
+  ],
   "disruptions": [
     {
       "id": "262a9e7b-f8f7-4764-990a-78e5eafea71b",
@@ -240,6 +293,30 @@
       ],
       "lastModified": "28.12.2023 15:36",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "fb0c6f37-35b8-47a2-b62a-50502d6be1c2",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik der GDL",
+      "summary": " ",
+      "text": "<p>Die GDL hat für den Zeitraum vom <strong>10.01., 2 Uhr bis 12.01., 18 Uhr</strong> zu einem Streik aufgerufen. Es wird zu <strong>massiven Einschränkungen im S-Bahn-Verkehr</strong> kommen. Sowie wir nähere Informationen haben, werden wir sie an dieser Stelle veröffentlichen.</p><p><strong>Bitte nutzen Sie dort, wo möglich, auch U-Bahnen und Busse.</strong></p>",
+      "durationBegin": "10.01.2024",
+      "durationEnd": "12.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lastModified": "07.01.2024 21:46",
+      "expand": true,
       "topDisruption": false
     },
     {
