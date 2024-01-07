@@ -55,6 +55,32 @@
   ],
   "disruptions": [
     {
+      "id": "b6bb962d-b962-470f-ad88-29f995cf4e8c",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 10.01. ab 2 Uhr bis 12.01. bundesweit massiv beeinträchtigt",
+      "summary": "Aufgrund eines Streiks der GDL (Gewerkschaft Deutscher Lokomotivführer) wird es im Fern-, Regional- und S-Bahn-Verkehr der DB vom 10.01. ab 2 Uhr bis einschließlich 12.01. bundesweit zu Verspätungen und Zugausfällen kommen.",
+      "text": "<p>Die GDL hat Streikmaßnahmen im Personenverkehr angekündigt. Der Notfahrplan der DB sichert nur ein sehr begrenztes Zugangebot im Fern-, Regional- und S-Bahn-Verkehr der DB. Bitte sehen Sie von nicht notwendigen Reisen während des GDL-Streiks ab und verschieben Sie Ihre Reise auf einen anderen Zeitpunkt.&nbsp;</p>",
+      "durationBegin": "07.01.2024",
+      "durationEnd": "12.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "SN"
+      ],
+      "lastModified": "07.01.2024 22:19",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "262a9e7b-f8f7-4764-990a-78e5eafea71b",
       "author": "REGIO_MITTE",
       "cause": {
