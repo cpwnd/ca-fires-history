@@ -138,31 +138,6 @@
       "topDisruption": false
     },
     {
-      "id": "cb4e0869-e1f8-4ce2-87c4-e3054d1ad2cf",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Aschaffenburg",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalls im Stellwerk in Hanau ist der Fernverkehr der Deutschen Bahn in den Nächten ab 03./04.01.2024 bis 07./08.01.2024 beeinträchtigt. Es kommt zu Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge zwischen Frankfurt(M) und Aschaffenburg <strong>ohne Zwischenhalt in Hanau Hbf </strong>werden im Zeitraum von 20:00 Uhr bis 06:00 Uhr in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 20 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "02.01.2024",
-      "durationEnd": "08.01.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "HE"
-      ],
-      "lastModified": "04.01.2024 06:04",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
       "cause": {
@@ -504,62 +479,6 @@
         "RP"
       ],
       "lastModified": "31.05.2023 09:32",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "8b17f486-e4e8-4550-b2a8-c8913c636038",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Beeinträchtigungen auf der Linie RB 67- Kaiserslautern Hbf - Kusel",
-      "summary": "Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal, kommt es <strong>ab Montag den 18.11.2023 bis voraussichtlich den 07.01.2024&nbsp;</strong>auf den Linien RB 67 zu einzelnen Zugausf&auml;llen mit Ersatzverkehr.<br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB67&nbsp;Kaiserslautern Hbf - Kusel</strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr mit Bussen ist eingerichtet.</strong></p>\n\n<p><strong>Es verkehren Busse zwischen Kusel und Kaiserslautern Hbf.&nbsp;</strong></p>\n\n<p>Den dazugeh&ouml;rigen<strong> Ersatzfahrplan finden Sie weiter unten.</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "durationBegin": "18.11.2023",
-      "durationEnd": "22.01.2024",
-      "downloads": [
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:19070003-dda2-4f0a-9a95-c5d97f3497e6/RB_67_671_SKL-SKUS_07.01.24.pdf",
-          "label": "Ersatzfahrplan Kaiserslautern Hbf - Kusel (PDF, 88 KB)",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-App",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lastModified": "03.01.2024 12:09",
       "expand": false,
       "topDisruption": false
     },
