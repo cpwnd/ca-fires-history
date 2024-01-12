@@ -1030,6 +1030,53 @@
       "topDisruption": false
     },
     {
+      "id": "dd01e057-f426-41fe-99bd-c3cce5202ea8",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Reparatur am Zug zwischen Worms und Bingen(Rhein) Stadt",
+      "summary": "Eine Reparatur am Zug beeintr&auml;chtigt den Zugverkehr zwischen Bingen(Rhein) Stadt und Eppelsheim(Rheinhess).",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB 35 Worms - Alzey - Bingen(Rhein)</strong></li>\n</ul>\n\n<p>In der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen.</p>\n\n<p>Die RB-Z&uuml;ge enden und beginnen au&szlig;erplanm&auml;&szlig;ig in Eppelsheim(Rheinhess).</p>\n\n<p><strong>Wir haben f&uuml;r Sie einen Ersatzverkehr zwischen Eppelsheim(Rheinhess) und Bingen(Rhein) Stadt mit allen Unterwegshalten eingerichtet.</strong></p>\n\n<p>Bitte beachten Sie, dass die<strong> Busse ohne festen Fahrplan</strong> verkehren<strong> </strong>und eventuell nicht immer unmittelbar am Bahnhof halten k&ouml;nnen.</p>\n\n<p>Bitte beachten Sie die &Auml;nderungen bei Ihrer Reiseplanung und rechnen Sie auf jeden Fall mehr Fahrzeit ein.<br />\nWir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong>&nbsp;</strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der&nbsp;<strong>Streckenagent-App</strong>&nbsp;oder auf&nbsp;<strong>Twitter</strong>.</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "RP"
+      ],
+      "lastModified": "12.01.2024 08:52",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "4714116f-8939-4833-ac3c-8a8f66171f11",
       "author": "REGIO_BW",
       "cause": {
