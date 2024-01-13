@@ -1,58 +1,5 @@
 {
-  "topDisruptions": [
-    {
-      "id": "596e514a-269d-4420-b9cf-cbb7a61248bf",
-      "author": "DEUTSCHE_BAHN_AG",
-      "cause": {
-        "category": "strike",
-        "label": "Streikauswirkungen"
-      },
-      "headline": "GDL-Streik beendet",
-      "summary": "Der Fern-, Regional- und S-Bahn Verkehr der DB verkehrt wieder mit regulärem Zugangebot.",
-      "text": "<p><strong>Regelung für betroffene Reisende:</strong></p><p>Alle Fahrgäste, die ihre für <strong>Mittwoch, 10.01.2024 bis Freitag, 12.01.2024</strong> geplante Reise aufgrund des Streiks der GDL verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "10.01.2024",
-      "durationEnd": "12.01.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://bahn.de/sonderkulanz",
-          "label": "Ausführliche Informationen zu Reisen während des GDL-Streiks",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de/fahrgastrechte",
-          "label": "Allgemeine Informationen zu den Fahrgastrechten",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lastModified": "13.01.2024 09:43",
-      "expand": true,
-      "topDisruption": true
-    }
-  ],
+  "topDisruptions": [],
   "disruptions": [
     {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
