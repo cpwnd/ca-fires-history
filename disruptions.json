@@ -2,6 +2,31 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "0b949826-323c-487e-85ec-9753533a77c8",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Köln und Frankfurt (Main)",
+      "summary": "Aufgrund einer Reparatur an einer Weiche zwischen Siegburg und Montabaur kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen und Haltausfällen. Einzelne Züge werden umgeleitet.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Köln – Frankfurt (M)</li><li>ICE-Züge zwischen Köln – Wiesbaden</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Nachtstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lastModified": "14.01.2024 18:41",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
       "cause": {
