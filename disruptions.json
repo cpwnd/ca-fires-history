@@ -2,6 +2,81 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "58736ed3-e747-4c84-b864-3ae2ec464e80",
+      "author": "REGIO_NI_HB",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Fahrzeugverfügbarkeit"
+      },
+      "headline": "Eingeschränkter Fahrzeugbetrieb auf der RB 37 bis zum 04.02.2024",
+      "summary": "Aufgrund von erforderlichen Wartungs- und Instandhaltungsarbeiten an den Fahrzeugen wird Start Niedersachsen Mitte den Betrieb auf der Linie RB 37 (Bremen &ndash; Soltau &ndash; Uelzen) vor&uuml;bergehend einschr&auml;nken. Diese Ma&szlig;nahme wird vorrausichtlich bis zum 04.02.2024 andauern, wobei eine Verl&auml;ngerung nicht ausgeschlossen werden kann.",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>RB 37 (Bremen &ndash; Soltau &ndash; Uelzen)</strong>: Z&uuml;ge verkehren vereinzelt, es kommt zu Zugausf&auml;llen.</li>\n</ul>\n\n<p>Der Ersatzfahrplan befindet sich im Anhang.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 05191 8030904.</p>\n\n<p>Folgen Sie auch der Start Niedersachen Mitte auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "durationBegin": "15.01.2024",
+      "durationEnd": "04.02.2024",
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:8121fe34-66df-4e9d-8cd8-8c8fba8f20fd/RB37_Fahrplan_Mo-Fr_.pdf",
+          "label": "RB37_Fahrplan_Mo-Fr_.pdf (PDF, 53 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https",
+          "label": "bahn.de/reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Kundendialog Niedersachsen und Bremen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/start_NI_mitte",
+          "label": "X Start Niedersachsen Mitte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lastModified": "15.01.2024 11:15",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
       "cause": {
