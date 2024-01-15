@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "d872d54e-054a-420d-ab5a-68bb4b3797ef",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Beeinträchtigungen aufgrund von Winterwitterung im ICE Verkehr Stuttgart/Frankfurt(Main) - Paris",
+      "summary": "Aktuell kommt es aufgrund von Winterwitterung in Frankreich zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Stuttgart und Paris</li><li>ICE Züge zwischen Frankfurt(Main)/Mannheim und Paris</li></ul><p>Am 15.01.2024 entfallen:</p><ul><li>ICE 9557 Paris Est - Frankfurt (Main) Hbf</li><li>ICE 9555 Paris Est - Frankfurt (Main) Hbf</li><li>ICE 9550 Mannheim Hbf - Paris Est</li></ul><p>Am 16.01.2024 entfallen:</p><ul><li>ICE 9558 Frankfurt (Main) Hbf - Paris Est</li><li>ICE 9568 Frankfurt (Main) Hbf - Paris Est</li><li>ICE 9556 Frankfurt (Main) Hbf - Paris Est</li><li>ICE 9553 Paris Est - Mannheim Hbf</li><li>ICE 9563 Paris Est - Frankfurt (Main) Hbf</li><li>ICE 9557 Paris Est - Frankfurt (Main) Hbf</li><li>ICE 9555 Paris Est - Frankfurt (Main) Hbf</li><li>ICE 9550 Mannheim Hbf - Paris Est</li><li>ICE 9571 Paris Est - Stuttgart Hbf</li><li>ICE 9573 Paris Est - Stuttgart Hbf</li><li>ICE 9574 Stuttgart Hbf - Paris Est</li><li>ICE 9572 Stuttgart Hbf - Paris Est</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "15.01.2024 19:18",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "6ccc6ba6-df86-490b-b767-a7363671796f",
       "author": "FERNVERKEHR_AG",
       "cause": {
