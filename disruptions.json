@@ -1,5 +1,58 @@
 {
-  "topDisruptions": [],
+  "topDisruptions": [
+    {
+      "id": "5f780f40-a940-42a0-b471-f0a464fc567d",
+      "author": "DEUTSCHE_BAHN_AG",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Wintereinbruch angekündigt: Am Mittwoch deutschlandweit Auswirkungen auf Bahnverkehr erwartet",
+      "summary": "Der Deutsche Wetterdienst hat für Mittwoch, 17.01.2024 in großen Teilen Deutschlands einen Wintereinbruch mit starkem Schneefall angekündigt. Auswirkungen auf den Regional- und Fernverkehr der Deutschen Bahn sind nicht ausgeschlossen. ",
+      "text": "<p>Regelung für betroffene Reisende:</p><p>Alle Fahrgäste, die ihre am 17.01.2024&nbsp;geplante Reise aufgrund des&nbsp;Wintereinbruchs&nbsp;verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.&nbsp;</p><p>Daneben gelten selbstverständlich die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "17.01.2024",
+      "durationEnd": "18.01.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/info/sonderkulanz",
+          "label": "Ausführliche Informationen zu Reisen während des Wintereinbruchs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/fahrgastrechte",
+          "label": "Allgemeine Informationen zu Ihren Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "16.01.2024 14:44",
+      "expand": true,
+      "topDisruption": true
+    }
+  ],
   "disruptions": [
     {
       "id": "d872d54e-054a-420d-ab5a-68bb4b3797ef",
