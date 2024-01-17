@@ -1,58 +1,5 @@
 {
-  "topDisruptions": [
-    {
-      "id": "5f780f40-a940-42a0-b471-f0a464fc567d",
-      "author": "DEUTSCHE_BAHN_AG",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "Wintereinbruch: Am Mittwoch deutschlandweit Auswirkungen auf Bahnverkehr",
-      "summary": "Der aktuelle Wintereinbruch mit Schneefall und (Eis-)Regen führt zu Beeinträchtigungen im Zugverkehr der DB. Es kann zu Verspätungen und Ausfällen im Regional- und Fernverkehr kommen. Durch Glatteisbildung ist der Bus- und Schienenersatzverkehr in einigen Regionen stark eingeschränkt.\n\nVorsorglich wurde die Höchstgeschwindigkeit der ICE für heute auf 200 km/h begrenzt. Dadurch kann es bundesweit zu weiteren Beeinträchtigungen kommen.",
-      "text": "<p>Regelung für betroffene Reisende:</p><p>Alle Fahrgäste, die ihre am 17.01.2024&nbsp;geplante Reise aufgrund des&nbsp;Wintereinbruchs verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.&nbsp;</p><p>Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "17.01.2024",
-      "durationEnd": "18.01.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/info/sonderkulanz",
-          "label": "Ausführliche Informationen zu Reisen während des Wintereinbruchs",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/fahrgastrechte",
-          "label": "Allgemeine Informationen zu Ihren Fahrgastrechten",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lastModified": "17.01.2024 14:46",
-      "expand": true,
-      "topDisruption": true
-    }
-  ],
+  "topDisruptions": [],
   "disruptions": [
     {
       "id": "dcdd36e9-16af-4ba3-80a1-e37d996183cf",
@@ -139,8 +86,8 @@
         "category": "weather_storm",
         "label": "Schnee und Eis"
       },
-      "headline": "Wintereinbruch: Am Mittwoch deutschlandweit Auswirkungen auf Bahnverkehr",
-      "summary": "Der aktuelle Wintereinbruch mit Schneefall und (Eis-)Regen f&uuml;hrt zu Beeintr&auml;chtigungen im Zugverkehr der DB. Es kann zu Versp&auml;tungen und Ausf&auml;llen im Regional- und Fernverkehr kommen. Durch Glatteisbildung ist der Bus- und Schienenersatzverkehr in einigen Regionen stark eingeschr&auml;nkt.",
+      "headline": "Wintereinbruch: Am Mittwoch und Donnerstag deutschlandweit Auswirkungen auf Bahnverkehr",
+      "summary": "Der aktuelle Wintereinbruch mit Schneefall und (Eis-)Regen f&uuml;hrt zu Beeintr&auml;chtigungen im Zugverkehr der DB. Es kann zu Versp&auml;tungen und Ausf&auml;llen im Regional- und Fernverkehr kommen. Durch Glatteisbildung ist der Bus- und Schienenersatzverkehr in einigen Regionen stark eingeschr&auml;nkt.<br />\n<strong>Bitte rechnen Sie auch am Donnerstag, den 18.01.2024 mit massiven Folgeversp&auml;tungen und kurzfristigen Zugausf&auml;llen.</strong>",
       "text": "<p><u><strong>Betroffene Linien und Strecken:</strong></u></p>\n\n<ul>\n\t<li><strong>RE1&nbsp;Trier Hbf &lt;&gt; Kaiserslautern Hbf&nbsp;</strong><br />\n\tKein Halt zwischen Saarbr&uuml;cken Hbf und Konz,&nbsp;sowie kein Halt in Homburg(Saar) m&ouml;glich.<br />\n\t&nbsp;</li>\n\t<li><strong>S1 Homburg(Saar) &lt;&gt; Kaiserlautern Hbf</strong><br />\n\tS-Bahnen enden und beginnen vorzeitig in&nbsp;Landstuhl.<br />\n\tEs wurde ein <strong>Ersatzverkehr</strong> mit vier Bussen&nbsp;zwischen Landstuhl und Homburg(Saar) eingerichtet.<br />\n\t&nbsp;</li>\n\t<li><strong>RE2/RE4/RE14 Frankfurt Hbf &lt;&gt; Mainz Hbf&nbsp;</strong><br />\n\tZugverkehr zwischen Frankfurt Hbf und Mainz Hbf.<strong>&nbsp;</strong>Aufgrund der Witterung kein Ersatzverkehr m&ouml;glich.<br />\n\t&nbsp;</li>\n\t<li><strong>S6&nbsp;Mainz Hbf &lt;&gt; Worms Hbf</strong><br />\n\tZugverkehr zwischen Mainz Hbf und Worms Hbf eingestellt. S-Bahnen enden und beginnen vorzeitig in Worms Hbf.&nbsp;Aufgrund der Witterung kein Ersatzverkehr m&ouml;glich.</li>\n</ul>\n\n<p>Auf folgenden Linien wurde die H&ouml;chstgeschwingkeit reduziert. Es kann zu Versp&auml;tungen und kurzfristigen Zugausf&auml;llen kommen.</p>\n\n<ul>\n\t<li><strong>RB35 Worms Hbf &lt;&gt; Bad Kreuznach &lt;&gt; Bingen Stadt</strong></li>\n\t<li><strong>RB45 Neustadt(Weinstr.) &lt;&gt; Gr&uuml;nstadt &lt;&gt;&nbsp; </strong></li>\n\t<li><strong>RB46 Frankenthal &lt;&gt; Gr&uuml;nstadt &lt;&gt; Eiswoog</strong></li>\n\t<li><strong>RB51 Neustadt(Weinstr.) &lt;&gt; Landau(Pfalz) Hbf &lt;&gt; Karlsruhe Hbf</strong></li>\n\t<li><strong>RB52 W&ouml;rth(Rhein) &lt;&gt; Lauterbourg</strong></li>\n\t<li><strong>RB53 Neustadt (Weinstr.) &lt;&gt; Wissembourg</strong></li>\n\t<li><strong>RB54 Winden &lt;&gt; Bad Bergzabern</strong></li>\n\t<li><strong>RB55 Landau(Pfalz) &lt;&gt; Pirmasens Hbf</strong></li>\n\t<li><strong>RB62 Worms Hbf &lt;&gt; Biblis </strong></li>\n\t<li><strong>RB63 Worms Hbf &lt;&gt; Bensheim </strong></li>\n\t<li><strong>RB66 Kaiserslautern Hbf &lt;&gt; Lauterecken-Grumbach </strong></li>\n\t<li><strong>RB67 Kaiserslautern Hbf &lt;&gt; Altenglan &lt;&gt; Kusel </strong></li>\n\t<li><strong>RB68 Pirmasens Hbf &lt;&gt; Saarbr&uuml;cken Hbf</strong></li>\n\t<li><strong>RE6 Karlsruhe Hbf &lt;&gt; Kaiserslautern</strong><br />\n\t&nbsp;</li>\n\t<li><strong>RB23/RB38 Andernach &lt;&gt; Mayen Ost</strong><br />\n\tDie H&ouml;chstgeschwingkeit wurde reduziert. Es kann zu Versp&auml;tungen und kurzfristigen Zugausf&auml;llen kommen.<br />\n\t&nbsp;</li>\n\t<li><strong>RE60/RE68 Heidelberg Hbf/Mannheim Hbf/Schwetzingen &lt;&gt; Frankfurt(M) Hbf</strong><br />\n\t&nbsp;Der baustellenbedingte Ersatzverkehr wurde eingestellt.<br />\n\tSie k&ouml;nnen die Z&uuml;ge des Fernverkehrs (ICE und IC) zwischen Frankfurt(Main)Hbf und Mannheim Hbf auch mit Fahrkarten des Nahverkehrs nutzen.&nbsp;<br />\n\t&nbsp;</li>\n\t<li><strong>RB70/RB71 Homburg (Saar) &lt;&gt; Merzig&nbsp;</strong><br />\n\tZugverkehr wurde eingestellt.&nbsp;Aufgrund der Witterung kein Ersatzverkehr m&ouml;glich.<br />\n\t&nbsp;</li>\n\t<li><strong>RE70 Mannheim Hbf &lt;&gt; Frankfurt(M) Hbf</strong><br />\n\tDer baustellenbedingte Ersatzverkehr wurde eingestellt.<br />\n\tSie k&ouml;nnen die Z&uuml;ge des Fernverkehrs (ICE und IC) zwischen Frankfurt(Main)Hbf und Mannheim Hbf auch mit Fahrkarten des Nahverkehrs nutzen.&nbsp;<br />\n\t&nbsp;</li>\n\t<li><strong>RB77 Dillingen(Saar) &lt;&gt; Niedaltdorf</strong><br />\n\tKein Halt in Dillingen(Saar) m&ouml;glich. Z&uuml;ge enden und beginnen vorzeitig in Siersburg.<br />\n\t&nbsp;</li>\n\t<li><strong>RB82&nbsp;Trier &lt;&gt;&nbsp;Perl</strong><br />\n\tZugverkehr wurde eingestellt. Aufgrund der Witterung kein Ersatzverkehr m&ouml;glich.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "downloads": [],
       "links": [],
@@ -153,7 +100,32 @@
         "HE",
         "RP"
       ],
-      "lastModified": "17.01.2024 20:18",
+      "lastModified": "17.01.2024 22:02",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "ba7b70bb-99d8-4a3a-863b-ba1e7eafeda2",
+      "author": "REGIO_HE",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Schnee und Eis"
+      },
+      "headline": "Wintereinbruch: Am Mittwoch und Donnerstag kommt es zu Auswirkungen im Regionalverkehr der Kurhessenbahn",
+      "summary": "Der aktuelle Wintereinbruch mit Schneefall und (Eis-)Regen f&uuml;hrt zu Beeintr&auml;chtigungen im Zugverkehr der DB.<br />\nEs kann zu Versp&auml;tungen und Ausf&auml;llen im Regional-, S- und Fernverkehr kommen.<br />\n<br />\nDurch Glatteisbildung ist auch der Bus- und Schienenersatzverkehr in einigen Regionen stark eingeschr&auml;nkt.<br />\n<br />\n<u><strong>Betroffene Linien:</strong></u><br />\n<br />\n<strong>RB4: </strong>Korbach Hbf - Bad Arolsen - Wolfhagen - Zierenberg - Kassel-Wilhelmsh&ouml;he<br />\n<br />\n<strong>RB39 / RE39:</strong> Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen<br />\n<br />\n<strong>RB94: </strong>Marburg(Lahn) - Bad Laasphe (- Erndtebr&uuml;ck)<br />\n<br />\n<strong>RB97 / RE97:</strong> Marburg(Lahn) - Frankenberg(Eder) - Korbach Hbf - Brilon Stadt<br />\n<br />\n&nbsp;",
+      "text": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p><strong><u>► Mittwoch, 17.01.2024:</u></strong></p>\n\n<p><strong>RB39 / RE39:</strong><br />\nDer Ersatzverkehr zwischen Bad Wildungen und Wabern(Bz Kassel) ist bis Betriebsschluss eingestellt.</p>\n\n<p>&nbsp;</p>\n\n<p><strong><u>► Donnerstag, 18.01.2024:</u></strong></p>\n\n<p><strong>RB4:</strong><br />\nEs kann zu Ausf&auml;llen kommen.<br />\n&nbsp;</p>\n\n<p><strong>RB94:</strong><br />\nBis ca. 09:00 Uhr ist der Betrieb eingestellt.<br />\n&nbsp;</p>\n\n<p><strong>RB97 / RE97:</strong><br />\nBis ca. 09:00 Uhr ist der Betrieb eingestellt.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter bahn.de oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 244 457 10</p>\n",
+      "durationBegin": "17.01.2024",
+      "durationEnd": "18.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lastModified": "17.01.2024 21:51",
       "expand": false,
       "topDisruption": false
     },
@@ -178,31 +150,6 @@
         "BY"
       ],
       "lastModified": "17.01.2024 19:28",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "ba7b70bb-99d8-4a3a-863b-ba1e7eafeda2",
-      "author": "REGIO_HE",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Schnee und Eis"
-      },
-      "headline": "Wintereinbruch: Am Mittwoch kommt es zu Auswirkungen im Regionalverkehr der Kurhessenbahn",
-      "summary": "Der aktuelle Wintereinbruch mit Schneefall und (Eis-)Regen f&uuml;hrt zu Beeintr&auml;chtigungen im Zugverkehr der DB.<br />\nEs kann zu Versp&auml;tungen und Ausf&auml;llen im Regional-, S- und Fernverkehr kommen.<br />\n<br />\nDurch Glatteisbildung ist auch der Bus- und Schienenersatzverkehr in einigen Regionen stark eingeschr&auml;nkt.<br />\n<br />\n<u><strong>Betroffene Linien:</strong></u><br />\n<br />\n<strong>RB4: </strong>Korbach Hbf - Bad Arolsen - Wolfhagen - Zierenberg - Kassel-Wilhelmsh&ouml;he<br />\n<br />\n<strong>RB39 / RE39:</strong> Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen<br />\n<br />\n<strong>RB94: </strong>Marburg(Lahn) - Bad Laasphe (- Erndtebr&uuml;ck)<br />\n<br />\n<strong>RB97 / RE97:</strong> Marburg(Lahn) - Frankenberg(Eder) - Korbach Hbf - Brilon Stadt<br />\n<br />\n&nbsp;",
-      "text": "<p><u><strong>Es kommt zu folgenden Einschr&auml;nkungen:</strong></u></p>\n\n<p><strong><u>► Mittwoch, 17.01.2024:</u></strong></p>\n\n<p><strong>RB39 / RE39:</strong><br />\nDer Ersatzverkehr zwischen Bad Wildungen und Wabern(Bz Kassel) ist bis Betriebsschluss eingestellt.</p>\n\n<p>&nbsp;</p>\n\n<p><strong><u>► Donnerstag, 18.01.2024:</u></strong></p>\n\n<p><strong>RB4:</strong><br />\nEs kann zu Ausf&auml;llen kommen.<br />\n&nbsp;</p>\n\n<p><strong>RB94:</strong><br />\nBis ca. 09:00 Uhr ist der Betrieb eingestellt.<br />\n&nbsp;</p>\n\n<p><strong>RB97 / RE97:</strong><br />\nBis ca. 09:00 Uhr ist der Betrieb eingestellt.</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter bahn.de oder in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 244 457 10</p>\n",
-      "durationBegin": "17.01.2024",
-      "durationEnd": "18.01.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lastModified": "17.01.2024 18:14",
       "expand": false,
       "topDisruption": false
     },
@@ -498,7 +445,7 @@
       "states": [
         "HE"
       ],
-      "lastModified": "17.01.2024 18:11",
+      "lastModified": "17.01.2024 21:51",
       "expand": false,
       "topDisruption": false
     },
