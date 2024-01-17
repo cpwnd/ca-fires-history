@@ -7,8 +7,8 @@
         "category": "weather_winter",
         "label": "Witterungsbedingte Einschränkung"
       },
-      "headline": "Wintereinbruch angekündigt: Am Mittwoch deutschlandweit Auswirkungen auf Bahnverkehr erwartet",
-      "summary": "Der Deutsche Wetterdienst hat für Mittwoch, 17.01.2024 in großen Teilen Deutschlands einen Wintereinbruch mit starkem Schneefall angekündigt. Es kann zu Verspätungen und Zugausfällen im Regional- und Fernverkehr kommen. Vorsorglich wurde die Höchstgeschwindigkeit der ICE für heute auf 200 km/h begrenzt. Dadurch kann es bundesweit zu weiteren Beeinträchtigungen kommen.",
+      "headline": "Wintereinbruch: Am Mittwoch deutschlandweit Auswirkungen auf Bahnverkehr",
+      "summary": "Der aktuelle Wintereinbruch mit Schneefall und (Eis-)Regen führt zu Beeinträchtigungen im Zugverkehr der DB. Es kann zu Verspätungen und Ausfällen im Regional- und Fernverkehr kommen. Durch Glatteisbildung ist der Bus- und Schienenersatzverkehr in einigen Regionen stark eingeschränkt.\n\nVorsorglich wurde die Höchstgeschwindigkeit der ICE für heute auf 200 km/h begrenzt. Dadurch kann es bundesweit zu weiteren Beeinträchtigungen kommen.",
       "text": "<p>Regelung für betroffene Reisende:</p><p>Alle Fahrgäste, die ihre am 17.01.2024&nbsp;geplante Reise aufgrund des&nbsp;Wintereinbruchs verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.&nbsp;</p><p>Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "17.01.2024",
       "durationEnd": "18.01.2024",
@@ -48,7 +48,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "17.01.2024 10:31",
+      "lastModified": "17.01.2024 14:46",
       "expand": true,
       "topDisruption": true
     }
@@ -123,8 +123,8 @@
         "category": "weather_storm",
         "label": "Schnee und Eis"
       },
-      "headline": "Wintereinbruch angekündigt: Am Mittwoch deutschlandweit Auswirkungen auf Bahnverkehr erwartet",
-      "summary": "Wegen Eisregen und Gl&auml;tte wird der Zugverkehr bei der Westfrankenbahn auf den Linien RB84 (Miltenberg-Seckach) und RE87/RB88 (Aschaffenburg-Crailsheim) weitestgehend eingestellt. Ein Ersatzverkehr mit Bussen ist ebenfalls nicht m&ouml;glich. Die Dauer der Beeintr&auml;chtigung ist vsl. bis heute Nacht 2 Uhr.<br />\n<br />\nDer Zugverkehr auf den Linien RE80 (Heilbronn - Crailsheim), RB83 (Crailsheim - Heilbronn) und RB 56 (Sch&ouml;llkrippen - Hanau) ist weiterhin m&ouml;glich. Bitte Reiseverbindung pr&uuml;fen.",
+      "headline": "Wintereinbruch: Am Mittwoch deutschlandweit Auswirkungen auf Bahnverkehr",
+      "summary": "Der aktuelle Wintereinbruch mit Schneefall und (Eis-)Regen f&uuml;hrt zu Beeintr&auml;chtigungen im Zugverkehr der DB. Es kann zu Versp&auml;tungen und Ausf&auml;llen im Regional- und Fernverkehr kommen. Durch Glatteisbildung ist der Bus- und Schienenersatzverkehr in einigen Regionen stark eingeschr&auml;nkt.<br />\n<br />\nWegen Eisregen und Gl&auml;tte wird der Zugverkehr bei der Westfrankenbahn auf den Linien RB84 (Miltenberg-Seckach) und RE87/RB88 (Aschaffenburg-Crailsheim) weitestgehend eingestellt. Ein Ersatzverkehr mit Bussen ist ebenfalls nicht m&ouml;glich. Die Dauer der Beeintr&auml;chtigung ist vsl. bis heute Nacht 2 Uhr.<br />\n<br />\nDer Zugverkehr auf den Linien RE80 (Heilbronn - Crailsheim), RB83 (Crailsheim - Heilbronn) und RB 56 (Sch&ouml;llkrippen - Hanau) ist weiterhin m&ouml;glich. Bitte Reiseverbindung pr&uuml;fen.",
       "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RE87 / RB88&nbsp; Aschaffenburg - Crailsheim</strong></li>\n\t<li><strong>RB84 Miltenberg - Seckach</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
       "durationBegin": "17.01.2024",
       "downloads": [],
@@ -136,7 +136,7 @@
         "BW",
         "BY"
       ],
-      "lastModified": "17.01.2024 12:13",
+      "lastModified": "17.01.2024 14:58",
       "expand": false,
       "topDisruption": false
     },
@@ -247,29 +247,6 @@
       "topDisruption": false
     },
     {
-      "id": "8a98727f-93ab-47cd-8941-74f5b8a2e414",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Schnee und Eis"
-      },
-      "headline": "Bahnbetrieb zwischen Trier und Perl wird komplett eingestellt.",
-      "summary": "Die Regionalbahn RB82 zwischen Trier und Perl wird am 17.01.24 ab 13:00 eingestellt.",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB82&nbsp;</strong>Trier &ndash; Perl&nbsp; <strong>(Elbling-Express)</strong></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>Ersatzverkehr in Planung.</strong></p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SL",
-        "RP"
-      ],
-      "lastModified": "17.01.2024 13:35",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "214eb7bd-b3e2-4ff2-9423-772891fa5adf",
       "author": "REGIO_MITTE",
       "cause": {
@@ -278,7 +255,7 @@
       },
       "headline": "Zugausfälle zwischen Kaiserslautern und Pirmasens",
       "summary": "Wegen erh&ouml;hter Erkrankung von Stellwerkspersonal wird der Verkehr zwischen Pirmasens Nord und Schopp,&nbsp; am Mittwoch den, 17.01.2024 ab 13:00 Uhr bis 21:30 Uhr eingestellt.&nbsp;<br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RB 64 Pirmasens - Schopp - Kaiserslautern</strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr in Planung.</strong></p>\n\n<p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RB 64 Pirmasens - Schopp - Kaiserslautern</strong></li>\n</ul>\n\n<p>Wir haben einen Ersatzverkehr mit Bussen zwischen <strong>Pirmasens Hbf und Kaiserslautern</strong> Hbf f&uuml;r Sie eingerichtet..</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "durationBegin": "17.01.2024",
       "durationEnd": "17.01.2024",
       "downloads": [],
@@ -315,7 +292,30 @@
         "SL",
         "RP"
       ],
-      "lastModified": "17.01.2024 13:03",
+      "lastModified": "17.01.2024 14:49",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "8a98727f-93ab-47cd-8941-74f5b8a2e414",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Schnee und Eis"
+      },
+      "headline": "Bahnbetrieb zwischen Trier und Perl wird komplett eingestellt.",
+      "summary": "Die Regionalbahn RB82 zwischen Trier und Perl wird am 17.01.24 ab 13:00 eingestellt.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB82&nbsp;</strong>Trier &ndash; Perl&nbsp; <strong>(Elbling-Express)</strong></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>Ersatzverkehr in Planung.</strong></p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SL",
+        "RP"
+      ],
+      "lastModified": "17.01.2024 13:35",
       "expand": false,
       "topDisruption": false
     },
