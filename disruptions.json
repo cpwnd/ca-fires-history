@@ -55,6 +55,45 @@
   ],
   "disruptions": [
     {
+      "id": "dcdd36e9-16af-4ba3-80a1-e37d996183cf",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Frankfurt(M) - Mannheim und Frankfurt(M) - Mainz",
+      "summary": "Aktuell kommt es aufgrund von Winterwitterung zu massiven Beeinträchtigungen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Der Zugverkehr wurde auf den oben genannten Abschnitten komplett eingestellt</li><li>Durch Glatteisbildung ist der Bus- und Schienenersatzverkehr zwischen Frankfurt Flughafen und Mannheim am 17.01.2024 ebenfalls eingestellt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "17.01.2024",
+      "durationEnd": "17.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "17.01.2024 16:00",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "d872d54e-054a-420d-ab5a-68bb4b3797ef",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -93,6 +132,31 @@
       "topDisruption": false
     },
     {
+      "id": "8a98727f-93ab-47cd-8941-74f5b8a2e414",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Schnee und Eis"
+      },
+      "headline": "Wintereinbruch: Am Mittwoch deutschlandweit Auswirkungen auf Bahnverkehr",
+      "summary": "Der aktuelle Wintereinbruch mit Schneefall und (Eis-)Regen f&uuml;hrt zu Beeintr&auml;chtigungen im Zugverkehr der DB. Es kann zu Versp&auml;tungen und Ausf&auml;llen im Regional- und Fernverkehr kommen. Durch Glatteisbildung ist der Bus- und Schienenersatzverkehr in einigen Regionen stark eingeschr&auml;nkt.",
+      "text": "<p><u><strong>Betroffene Linien und Strecken:</strong></u></p>\n\n<ul>\n\t<li><strong>RE1&nbsp;Trier Hbf &lt;&gt; Kaiserslautern Hbf&nbsp;</strong><br />\n\tKein Halt zwischen Saarbr&uuml;cken Hbf und Konz,&nbsp;sowie kein Halt in Homburg(Saar) m&ouml;glich.<br />\n\t&nbsp;</li>\n\t<li><strong>S1 Homburg(Saar) &lt;&gt; Kaiserlautern Hbf</strong><br />\n\tS-Bahnen enden und beginnen vorzeitig in&nbsp;Landstuhl.&nbsp;Aufgrund der Witterung kein Ersatzverkehr m&ouml;glich.<br />\n\t&nbsp;</li>\n\t<li><strong>RE2/RE4/RE14 Frankfurt Hbf &lt;&gt; Mainz Hbf&nbsp;</strong><br />\n\tZugverkehr zwischen Frankfurt Hbf und Mainz Hbf.<strong>&nbsp;</strong>Aufgrund der Witterung kein Ersatzverkehr m&ouml;glich.<br />\n\t&nbsp;</li>\n\t<li><strong>S6&nbsp;Mainz Hbf &lt;&gt; Worms Hbf</strong><br />\n\tZugverkehr zwischen Mainz Hbf und Worms Hbf eingestellt. S-Bahnen enden und beginnen vorzeitig in Worms Hbf.&nbsp;Aufgrund der Witterung kein Ersatzverkehr m&ouml;glich.<br />\n\t&nbsp;</li>\n\t<li><strong>RB35/RB45/RB46/RB51/RB52/RB53/RB54/RB55/RB62/RB63RB64/RB66/RB67/RB68/RE6 gesamter Laufweg</strong><br />\n\tDie H&ouml;chstgeschwingkeit wurde reduziert. Es kann zu Versp&auml;tungen und kurzfristigen Zugausf&auml;llen kommen.<br />\n\t<strong>&nbsp;</strong></li>\n\t<li><strong>RB23/RB38 Andernach &lt;&gt; Mayen Ost</strong><br />\n\tDie H&ouml;chstgeschwingkeit wurde reduziert. Es kann zu Versp&auml;tungen und kurzfristigen Zugausf&auml;llen kommen.<br />\n\t&nbsp;</li>\n\t<li><strong>RE60/RE68 Heidelberg Hbf/Mannheim Hbf/Schwetzingen &lt;&gt; Frankfurt(M) Hbf</strong><br />\n\tZugverkehr wurde eingestellt.&nbsp;Aufgrund der Witterung kein Ersatzverkehr m&ouml;glich.<br />\n\t&nbsp;</li>\n\t<li><strong>RB70/RB71 Homburg (Saar) &lt;&gt; Merzig&nbsp;</strong><br />\n\tZugverkehr wurde eingestellt.&nbsp;Aufgrund der Witterung kein Ersatzverkehr m&ouml;glich.<br />\n\t&nbsp;</li>\n\t<li><strong>RE70 Mannheim Hbf &lt;&gt; Frankfurt(M) Hbf</strong><br />\n\tZugverkehr wurde eingestellt.&nbsp;Aufgrund der Witterung kein Ersatzverkehr m&ouml;glich. Auch der baustellenbedingte Ersatzverkehr kann nicht mehr bedient werden.<br />\n\t&nbsp;</li>\n\t<li><strong>RB77 Dillingen(Saar) &lt;&gt; Niedaltdorf</strong><br />\n\tKein Halt in Dillingen(Saar) m&ouml;glich. Z&uuml;ge enden und beginnen vorzeitig in Siersburg.<br />\n\t&nbsp;</li>\n\t<li><strong>RB82&nbsp;Trier &lt;&gt;&nbsp;Perl</strong><br />\n\tZugverkehr wurde eingestellt. Aufgrund der Witterung kein Ersatzverkehr m&ouml;glich.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "SL",
+        "HE",
+        "RP"
+      ],
+      "lastModified": "17.01.2024 16:12",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "6ccc6ba6-df86-490b-b767-a7363671796f",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -117,30 +181,6 @@
       "topDisruption": false
     },
     {
-      "id": "c5a1536c-d1f3-47e4-a2cf-f079a0b2a02d",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Schnee und Eis"
-      },
-      "headline": "Wintereinbruch: Am Mittwoch deutschlandweit Auswirkungen auf Bahnverkehr",
-      "summary": "Der aktuelle Wintereinbruch mit Schneefall und (Eis-)Regen f&uuml;hrt zu Beeintr&auml;chtigungen im Zugverkehr der DB. Es kann zu Versp&auml;tungen und Ausf&auml;llen im Regional- und Fernverkehr kommen. Durch Glatteisbildung ist der Bus- und Schienenersatzverkehr in einigen Regionen stark eingeschr&auml;nkt.<br />\n<br />\nWegen Eisregen und Gl&auml;tte wird der Zugverkehr bei der Westfrankenbahn auf den Linien RB84 (Miltenberg-Seckach) und RE87/RB88 (Aschaffenburg-Crailsheim) weitestgehend eingestellt. Ein Ersatzverkehr mit Bussen ist ebenfalls nicht m&ouml;glich. Die Dauer der Beeintr&auml;chtigung ist vsl. bis heute Nacht 2 Uhr.<br />\n<br />\nDer Zugverkehr auf den Linien RE80 (Heilbronn - Crailsheim), RB83 (Crailsheim - Heilbronn) und RB 56 (Sch&ouml;llkrippen - Hanau) ist weiterhin m&ouml;glich. Bitte Reiseverbindung pr&uuml;fen.",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RE87 / RB88&nbsp; Aschaffenburg - Crailsheim</strong></li>\n\t<li><strong>RB84 Miltenberg - Seckach</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
-      "durationBegin": "17.01.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lastModified": "17.01.2024 14:58",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "58736ed3-e747-4c84-b864-3ae2ec464e80",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -156,6 +196,12 @@
         {
           "href": "https://assets.static-bahn.de/dam/jcr:8121fe34-66df-4e9d-8cd8-8c8fba8f20fd/RB37_Fahrplan_Mo-Fr_.pdf",
           "label": "RB37_Fahrplan_Mo-Fr_.pdf (PDF, 53 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:9f46cb10-a2a7-4049-9620-37bc9b55dd76/RB37_Fahrplan_Sa-So.pdf",
+          "label": "RB37_Fahrplan_Sa-So (PDF, 88 KB)",
           "info": "",
           "openInNewTab": true
         }
@@ -193,7 +239,31 @@
         "HB",
         "NI"
       ],
-      "lastModified": "15.01.2024 11:54",
+      "lastModified": "17.01.2024 15:50",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "c5a1536c-d1f3-47e4-a2cf-f079a0b2a02d",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Schnee und Eis"
+      },
+      "headline": "Wintereinbruch: Am Mittwoch deutschlandweit Auswirkungen auf Bahnverkehr",
+      "summary": "Der aktuelle Wintereinbruch mit Schneefall und (Eis-)Regen f&uuml;hrt zu Beeintr&auml;chtigungen im Zugverkehr der DB. Es kann zu Versp&auml;tungen und Ausf&auml;llen im Regional- und Fernverkehr kommen. Durch Glatteisbildung ist der Bus- und Schienenersatzverkehr in einigen Regionen stark eingeschr&auml;nkt.<br />\n<br />\nWegen Eisregen und Gl&auml;tte wird der Zugverkehr bei der Westfrankenbahn auf den Linien RB84 (Miltenberg-Seckach) und RE87/RB88 (Aschaffenburg-Crailsheim) weitestgehend eingestellt. Ein Ersatzverkehr mit Bussen ist ebenfalls nicht m&ouml;glich. Die Dauer der Beeintr&auml;chtigung ist vsl. bis heute Nacht 2 Uhr.<br />\n<br />\nDer Zugverkehr auf den Linien RE80 (Heilbronn - Crailsheim), RB83 (Crailsheim - Heilbronn) und RB 56 (Sch&ouml;llkrippen - Hanau) ist weiterhin m&ouml;glich. Bitte Reiseverbindung pr&uuml;fen.",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RE87 / RB88&nbsp; Aschaffenburg - Crailsheim</strong></li>\n\t<li><strong>RB84 Miltenberg - Seckach</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.</p>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationBegin": "17.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lastModified": "17.01.2024 14:58",
       "expand": false,
       "topDisruption": false
     },
@@ -293,29 +363,6 @@
         "RP"
       ],
       "lastModified": "17.01.2024 14:49",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "8a98727f-93ab-47cd-8941-74f5b8a2e414",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Schnee und Eis"
-      },
-      "headline": "Bahnbetrieb zwischen Trier und Perl wird komplett eingestellt.",
-      "summary": "Die Regionalbahn RB82 zwischen Trier und Perl wird am 17.01.24 ab 13:00 eingestellt.",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB82&nbsp;</strong>Trier &ndash; Perl&nbsp; <strong>(Elbling-Express)</strong></li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>Ersatzverkehr in Planung.</strong></p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SL",
-        "RP"
-      ],
-      "lastModified": "17.01.2024 13:35",
       "expand": false,
       "topDisruption": false
     },
