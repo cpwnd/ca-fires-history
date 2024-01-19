@@ -369,30 +369,6 @@
       "topDisruption": false
     },
     {
-      "id": "d8a9a0b3-aef2-4480-a8e2-b9133e6ab1fd",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "accident",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Beeinträchtigungen im Raum Waldshut durch einen liegengebliebenen Zug",
-      "summary": "Der liegengebliebene Zug hat mittlerweile die Strecke ger&auml;umt und der Bahnhof Waldshut kann wieder angefahren werden.<br />\n<br />\nF&uuml;r den restlichen Tag (19. Januar) fallen dennoch alle Z&uuml;ge zwischen Waldshut und St&uuml;hlingen noch aus. Bis vorerst 18:00 Uhr haben wir einen Ersatzverkehr mit Bus eingerichtet. F&uuml;r alle sp&auml;teren Verbindungen warten wir noch auf die R&uuml;ckmeldung unserer Partnerbusunternehmen.<br />\n<br />\nBis sich auf den Linien IRE 3 und RB30 wieder alles normalisiert hat, kann es in der n&auml;chsten Zeit noch zu Versp&auml;tungen kommen.<br />\n<br />\nSobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li>IRE3 Singen - Basel Bad Bf</li>\n\t<li>RB30 Lauchringen - Basel Bad Bf</li>\n\t<li>RB37 Waldshut - St&uuml;hlingen</li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
-      "durationBegin": "19.01.2024",
-      "durationEnd": "19.01.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "19.01.2024 15:35",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "f8b60c95-c3bf-4e1d-a806-009229ea7a31",
       "author": "FERNVERKEHR_AG",
       "cause": {
@@ -497,6 +473,55 @@
         "RP"
       ],
       "lastModified": "31.05.2023 09:32",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "0adc7d31-97c8-449c-81c9-077197e0cc22",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Kein Zugverkehr zwischen Dillingen und Niedaltdorf",
+      "summary": "Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal fallen die Z&uuml;ge <strong>ab Samstag, 20.01.2023 von 05.30 Uhr bis ca. 14:00 Uhr zwischen Dillingen(Saar) und Niedaltdorf aus.</strong>&nbsp;",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB77 Dillingen - Niedaltdorf</strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr mit Bussen ist eingerichtet.</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "20.01.2024",
+      "durationEnd": "20.01.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SL"
+      ],
+      "lastModified": "19.01.2024 20:52",
       "expand": false,
       "topDisruption": false
     },
