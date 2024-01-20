@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "47a34cb4-8bde-4f30-817f-f77d28b5f7a5",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Recklinghausen und Münster(Westf)",
+      "summary": "Aufgrund von Vandalismusschäden zwischen Recklinghausen und Münster(Westf) kommt es im Fernverkehr der Deutschen Bahn zu Beeinträchtigungen. Dadurch kommt es zu Umleitungen und Haltaufällen in Recklinghausen\n.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Linie 35 (Norddeich Mole – Emden – Münster (W) – Köln – Koblenz)</li><li>ICE/IC-Linie 39 (Hamburg – Münster – Essen – Köln – Koblenz – Frankfurt (M) – Würzburg – Nürnberg – Passau)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis in die Abendstunden andauern..</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "20.01.2024 08:18",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "dadc7f73-1a6a-4268-a38c-2168bb8c2501",
       "author": "REGIO_HE",
       "cause": {
