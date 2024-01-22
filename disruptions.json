@@ -1,5 +1,52 @@
 {
-  "topDisruptions": [],
+  "topDisruptions": [
+    {
+      "id": "fd51e73c-7c59-43a2-84b3-974ad8fb86f1",
+      "author": "DEUTSCHE_BAHN_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streikauswirkungen"
+      },
+      "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 24.01. bis 29.01. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL hat Streikmaßnahmen für den Zeitraum von Mittwoch, 24.01.2024 bis inkl. Montag, 29.01.2024 angekündigt. Dadurch kommt es in diesem Zeitraum zu massiven Beeinträchtigungen im Fern-, Regional- und S-Bahn Verkehr der Deutschen Bahn. \n\nDer Notfahrplan sichert nur ein sehr begrenztes Zugangebot im Fern-, Regional- und S-Bahn Verkehr der DB. Wir bitten unsere Fahrgäste, sich 24 Stunden vor Fahrtantritt über ihre Verbindung zu informieren. Bei Reisen im Fernverkehr raten wir in jedem Fall einen Sitzplatz zu reservieren.",
+      "text": "<p><strong>Regelung für vom Streik betroffene Reisende:</strong></p><p>Alle Fahrgäste, die ihre für Mittwoch, 24.01.2024 bis Montag, 29.01.2024 geplante Reise aufgrund des Streiks der GDL verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.</p><p>Zudem haben Fahrgäste im Fernverkehr im Rahmen einer Sonderkulanz auch die Möglichkeit, ihre Reise vorzuverlegen und bereits am Montag, 22.01.2024 und Dienstag, 23.01.2024&nbsp;früher zu fahren.</p><p>Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><strong>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</strong>",
+      "durationBegin": "24.01.2024",
+      "durationEnd": "29.01.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de/fahrgastrechte",
+          "label": "Allgemeine Informationen zu den Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "22.01.2024 06:14",
+      "expand": true,
+      "topDisruption": true
+    }
+  ],
   "disruptions": [
     {
       "id": "dadc7f73-1a6a-4268-a38c-2168bb8c2501",
