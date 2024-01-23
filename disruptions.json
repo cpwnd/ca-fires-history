@@ -56,46 +56,6 @@
   ],
   "disruptions": [
     {
-      "id": "898dc8cb-0c5e-4e26-9e51-a28ed1178f24",
-      "disruptionId": "9aef1453-70ec-4fdb-92ac-528ef7d382a6",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Umgestürzter Baum auf der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Kassel-Wilhelmshöhe und Göttingen",
-      "summary": "Aufgrund von einem Baum in der Oberleitung ist die Strecke zwischen Kassel-Wilhelmshöhe und Göttingen derzeit gesperrt. Dadurch kommt es zu Beeinträchtigungen  im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Göttingen - Kassel-Wilhelmshöhe - Fulda werden umgeleitet. Der Halt Kassel-Wilhelmshöhe entfällt. Es kommt zu Verspätungen von etwa 10 Minuten.</li></ul><p>Ausnahme:</p><ul><li>ICE-Züge Ostseebad Binz – Hamburg – Hannover – Kassel-Wilhelmshöhe – Frankfurt (M) – Mannheim – Stuttgart werden zwischen Hannover und Kassel-Wilhelmshöhe umgeleitet. Der Halt Göttingen entfällt. Es kommt zu Verspätungen von etwa 50 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "22.01.2024",
-      "durationEnd": "22.01.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lastModified": "22.01.2024 15:20",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "d521811a-8631-40e2-8eab-9133aaf5535e",
       "author": "REGIO_MITTE",
       "cause": {
@@ -1233,6 +1193,7 @@
       "summary": "Aufgrund einer Reparatur an der Weiche zwischen Wuppertal und Köln kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen und Verspätungen.\n",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC Züge zwischen Wuppertal - Solingen - Köln werden umgeleitet. Der Halt Solingen Hbf entfällt. Ersatzhalt in Düsseldorf Hbf. Es kommt zu Verspätungen von etwa 20 Minuten.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Bitte benutzen sie die S-Bahnen zwischen Düsseldorf und Solingen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis Dienstag, 23.01.2024, Tagesende  erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "22.01.2024",
+      "durationEnd": "23.01.2024",
       "downloads": [],
       "links": [],
       "properties": [
@@ -1241,7 +1202,7 @@
       "states": [
         "NW"
       ],
-      "lastModified": "22.01.2024 14:37",
+      "lastModified": "23.01.2024 03:20",
       "expand": true,
       "topDisruption": false
     },
