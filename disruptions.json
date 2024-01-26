@@ -726,31 +726,6 @@
       "topDisruption": false
     },
     {
-      "id": "058c8ed1-5f8e-45a7-b605-20b6d744463a",
-      "disruptionId": "199f103e-0928-4839-b696-00f1da97ab1c",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Streik der GDL",
-      "summary": "Massive Einschränkungen im S-Bahn-Verkehr auf allen Linien.  ",
-      "text": "<p>Bis einschließlich Montag, 29.01. kommt es zu massiven Einschränkungen im S-Bahn-Verkehr. Alle Informationen zu den aktuellen Betriebszuständen erhalten Sie an dieser Stelle.</p><p>Auf folgenden Verbindungen fahren wir derzeit nach einem Notfahrplan:</p><p>S1:&nbsp;</p><p>Wedel &lt;&gt; Blankenese (20-Minuten-Takt)</p><p>Blankenese &lt;&gt; Ohlsdorf &lt;&gt; Airport (20-Minuten-Takt)</p><p>Ohlsdorf &lt;&gt; Poppenbüttel (20-Minuten-Takt)</p><p>S2:&nbsp;</p><p>Altona &lt;&gt; Aumühle (20-Minuten-Takt)</p><p>S3:&nbsp;</p><p>Pinneberg &lt;&gt; Neugraben (20-Minuten-Takt)</p><p>S5:&nbsp;</p><p>Neugraben &lt;&gt; Stade (60-Minuten-Takt)</p><p>Für Echtzeitinformationen nutzen Sie bitte die Verbindungssuche auf dieser Seite, die DB Navigator-App, www.hvv.de sowie die hvv-App. Aufgrund der unklaren Betriebssituation sind die Fahrzeiten nur kurzfristig abrufbar.</p><p><strong>Bitte nutzen Sie dort, wo möglich, auch U-Bahnen und Busse.</strong></p>",
-      "durationBegin": "22.01.2024",
-      "durationEnd": "29.01.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lastModified": "26.01.2024 17:02",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "60d71dff-2219-4cfa-a42f-efbddfc87516",
       "disruptionId": "873ef89c-f390-4e8c-bb16-61268a55917c",
       "author": "S_BAHN_HH",
@@ -758,7 +733,7 @@
         "category": "strike",
         "label": "Streikauswirkungen"
       },
-      "headline": "28.01.2024: Alternative Anfahrt zum Volksparkstadion und in die Innenstadt zur Demonstration",
+      "headline": "28.01.2024: Alternative Anfahrt zum HSV-Spiel im Volksparkstadion und in die Innenstadt zur Demonstration",
       "summary": "S-Bahn Verkehr durch den GDL-Streik stark eingeschränkt.",
       "text": "<p>Durch den Streik der GDL ist der S-Bahn Verkehr stark eingeschränkt. Die S-Bahnen fahren voraussichtlich nur alle 20 Minuten. Es kann jedoch situationsbedingt zu Ausfällen kommen. Bitte nutzen Sie die folgenden Alternativen:</p><p>&nbsp;</p><p>An- und Rückfahrt Volksparkstadion:</p><p>Nutzen Sie zur Anfahrt zum Stadion aus Richtung Hbf die U2 von Hauptbahnhof Nord in Richtung Niendorf Nord bis Hagenbecks Tierpark. Für die Rückfahrt nutzen Sie ab Hagenbecks Tierpark in Richtung Hauptbahnhof ebenfalls die U2 in Richtung Rauhes Haus (Billstedt). Zwischen Hagenbecks Tierpark und dem Volksparkstadion fahren Shuttlebusse.&nbsp;</p><p>Hinweis:</p><p>Es finden Parallelveranstaltungen in der Barclays Arena statt, planen Sie daher für die An- und Abreise ausreichend Zeit ein. Die Shuttlebusse zwischen Stellingen und Othmarschen zum Volksparkstadion fahren nur mit eingeschränkter Kapazität.</p><p>&nbsp;</p><p>An- und Rückfahrt Innenstadt:</p><p>Den Veranstaltungsort sowie die Innenstadt erreichen Sie aus Richtung Hauptbahnhof mit der U3 von Hauptbahnhof Süd in Richtung Schlump -Barmbek bis Rödingsmarkt oder St. Pauli sowie mit der U2 von Hauptbahnhof Nord in Richtung Niendorf Nord bis Gänsemarkt oder Messehallen. Für die Rückfahrt Richtung Hauptbahnhof&nbsp;nutzen Sie ebenfalls die U3 in Richtung Hauptbahnhof Süd – Barmbek oder Wandsbek-Gartenstadt sowie die U2 in Richtung Rauhes Haus (Billstedt).</p><p>&nbsp;</p><p>Die betriebliche Situation kann sich auf allen S-Bahn-Linien kurzfristig ändern. Für Echtzeitinformationen nutzen Sie bitte die Verbindungssuche auf dieser Seite, die DB Navigator-App,&nbsp;www.hvv.de sowie die hvv-App. Aufgrund der unklaren Betriebssituation sind die Fahrzeiten nur kurzfristig abrufbar. Aktuelle Informationen zum GDL-Streik mit möglichen Einschränkungen erhalten Sie ebenfalls auf dieser Seite.</p>",
       "durationBegin": "26.01.2024",
@@ -771,8 +746,33 @@
       "states": [
         "HH"
       ],
-      "lastModified": "26.01.2024 17:01",
+      "lastModified": "26.01.2024 18:46",
       "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "058c8ed1-5f8e-45a7-b605-20b6d744463a",
+      "disruptionId": "199f103e-0928-4839-b696-00f1da97ab1c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik der GDL",
+      "summary": "Massive Einschränkungen im S-Bahn-Verkehr auf allen Linien.  ",
+      "text": "<p>Bis einschließlich Montag, 29.01. kommt es zu massiven Einschränkungen im S-Bahn-Verkehr. Alle Informationen zu den aktuellen Betriebszuständen erhalten Sie an dieser Stelle.</p><p>Auf folgenden Verbindungen fahren wir derzeit nach einem Notfahrplan:</p><p>S1:&nbsp;</p><p>Wedel &lt;&gt; Blankenese (20-Minuten-Takt)</p><p>Blankenese &lt;&gt; Ohlsdorf &lt;&gt; Airport (20-Minuten-Takt)</p><p>Ohlsdorf &lt;&gt; Poppenbüttel derzeit keine S-Bahn-Fahrten möglich. Bitte auf die Buslinien 174 und 179 ausweichen.</p><p>S2:&nbsp;</p><p>Altona &lt;&gt; Aumühle (20-Minuten-Takt)</p><p>S3:&nbsp;</p><p>Pinneberg &lt;&gt; Neugraben (20-Minuten-Takt)</p><p>S5:&nbsp;</p><p>Neugraben &lt;&gt; Stade (60-Minuten-Takt)</p><p>Für Echtzeitinformationen nutzen Sie bitte die Verbindungssuche auf dieser Seite, die DB Navigator-App, www.hvv.de sowie die hvv-App. Aufgrund der unklaren Betriebssituation sind die Fahrzeiten nur kurzfristig abrufbar.</p><p><strong>Bitte nutzen Sie dort, wo möglich, auch U-Bahnen und Busse.</strong></p>",
+      "durationBegin": "22.01.2024",
+      "durationEnd": "29.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lastModified": "26.01.2024 18:46",
+      "expand": false,
       "topDisruption": false
     },
     {
