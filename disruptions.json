@@ -108,6 +108,33 @@
       "topDisruption": false
     },
     {
+      "id": "058c8ed1-5f8e-45a7-b605-20b6d744463a",
+      "disruptionId": "199f103e-0928-4839-b696-00f1da97ab1c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Informationen zum Streik und Notfahrplan",
+      "summary": "  ",
+      "text": "<p><strong>Wichtige Information:</strong></p><p>Der Streik der GDL endet vorzeitig am Montag, 29.01. um 2 Uhr.</p><p>Am Montag kommt es voraussichtlich noch zu Beeinträchtigungen.</p><p>Weitere Infos dazu folgen.</p><p>Bis Sonntagabend (Betriebsende) kommt es zu noch massiven Einschränkungen im S-Bahn-Verkehr auf allen Linien.</p><p>______________________________________________________________________________________________</p><p><strong>Auf folgenden Verbindungen fahren wir in der Nacht von Samstag auf Sonntag unregelmäßig:</strong></p><p><strong>Linie S1 (abweichend über Sternschanze und Dammtor):&nbsp;</strong></p><p>Wedel &lt;&gt; Blankenese (30-Minuten-Takt)</p><p>Blankenese &lt;&gt; Ohlsdorf &lt;&gt; Airport (20-Minuten-Takt)</p><p>Ohlsdorf &lt;&gt; Poppenbüttel (Ersatzverkehr mit Busen)</p><p><strong>Linie S2:&nbsp;</strong></p><p>Hauptbahnhof &lt;&gt; Aumühle (20-Minuten-Takt)</p><p><strong>Linie S3:&nbsp;</strong></p><p>Pinneberg &lt;&gt; Neugraben (30-Minuten-Takt)</p><p><strong>Linie S5:</strong>&nbsp;</p><p>Neugraben &lt;&gt; Stade (120-Minuten-Takt)</p><p>Für Echtzeitinformationen nutzen Sie bitte die Verbindungssuche auf dieser Seite, die DB Navigator-App, www.hvv.de sowie die hvv-App. Aufgrund der unklaren Betriebssituation sind die Fahrzeiten nur kurzfristig abrufbar.</p><p><strong>Bitte nutzen Sie dort wo möglich, auch U-Bahnen und Busse.</strong></p>",
+      "durationBegin": "22.01.2024",
+      "durationEnd": "29.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lastModified": "27.01.2024 22:06",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "6c8bf856-b239-4172-a569-17c4d72d3609",
       "disruptionId": "ae1e8ac6-cb17-4803-8e90-87bb6a08bf72",
       "author": "REGIO_SUEDOST",
@@ -776,31 +803,6 @@
         "HE"
       ],
       "lastModified": "27.01.2024 19:51",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "058c8ed1-5f8e-45a7-b605-20b6d744463a",
-      "disruptionId": "199f103e-0928-4839-b696-00f1da97ab1c",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Informationen zum Streik und Notfahrplan",
-      "summary": "  ",
-      "text": "<p><strong>Wichtige Information:</strong></p><p>Der Streik der GDL endet vorzeitig am Montag, 29.01. um 2 Uhr. </p><p>Am Montag kommt es voraussichtlich noch zu Beeinträchtigungen. </p><p>Weitere Infos dazu folgen.</p><p>Bis Sonntagabend (Betriebsende) kommt es zu noch massiven Einschränkungen im S-Bahn-Verkehr auf allen Linien.</p><p>______________________________________________________________________________________________</p><p><strong>Auf folgenden Verbindungen fahren wir derzeit nach einem Notfahrplan:</strong></p><p><strong>Linie S1:&nbsp;</strong></p><p><strong>Wedel &lt;&gt; Blankenese:</strong>\t\t\t\t\t\t\t</p><p>Die S-Bahnen fahren auf ihrem normalen Weg, <strong>alle 20 Minuten</strong>.</p><p><strong>Blankenese &lt;&gt; Ohlsdorf &lt;&gt; Airport: </strong></p><p>Die S-Bahnen fahren abweichend über Sternschanze und Dammtor,<strong> alle 20 Minuten</strong>.</p><p><strong>Ohlsdorf &lt;&gt; Poppenbüttel:</strong></p><p>Hier fahren derzeit keine S-Bahnen. Ein <strong>Ersatzverkehr mit Bussen</strong> ist eingerichtet.</p><p><strong>Linie S2:&nbsp;</strong></p><p><strong>Hauptbahnhof &lt;&gt; Aumühle:</strong></p><p>Die S-Bahnen fahren nur zwischen Hauptbahnhof und Aumühle, <strong>alle 20 Minuten</strong>.</p><p><strong>Linie S3:&nbsp;</strong></p><p><strong>Pinneberg &lt;&gt; Neugraben:</strong></p><p>Die S-Bahnen fahren auf ihrem normalen Weg, <strong>alle 40 Minuten</strong>.</p><p><strong>Linie S5:</strong>&nbsp;</p><p><strong>Neugraben &lt;&gt; Stade:</strong></p><p>Die S-Bahnen fahren nur zwischen Neugraben und Stade, <strong>alle 60 Minuten</strong>.</p><p>Für Echtzeitinformationen nutzen Sie bitte die Verbindungssuche auf dieser Seite, die DB Navigator-App, www.hvv.de sowie die hvv-App. Aufgrund der unklaren Betriebssituation sind die Fahrzeiten nur kurzfristig abrufbar.</p><p><strong>Bitte nutzen Sie dort wo möglich, auch U-Bahnen und Busse.</strong></p>",
-      "durationBegin": "22.01.2024",
-      "durationEnd": "29.01.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lastModified": "27.01.2024 18:58",
       "expand": false,
       "topDisruption": false
     },
