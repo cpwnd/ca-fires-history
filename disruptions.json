@@ -108,6 +108,33 @@
       "topDisruption": false
     },
     {
+      "id": "058c8ed1-5f8e-45a7-b605-20b6d744463a",
+      "disruptionId": "199f103e-0928-4839-b696-00f1da97ab1c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Informationen zum Streik und Notfahrplan",
+      "summary": "  ",
+      "text": "<p><strong>Wichtige Information:</strong></p><p>Der Streik der GDL endet vorzeitig am Montag, 29.01. um 2 Uhr.</p><p>Am Montag kommt es voraussichtlich noch zu Beeinträchtigungen.</p><p>Weitere Infos dazu folgen.</p><p>Bis Sonntagabend (Betriebsende) kommt es zu noch massiven Einschränkungen im S-Bahn-Verkehr auf allen Linien.</p><p>______________________________________________________________________________________________</p><p><strong>Auf folgenden Verbindungen fahren wir aktuell nach einem Notfahrplan:</strong></p><p><strong>Linie S1 (abweichend über Sternschanze und Dammtor):&nbsp;</strong></p><p>Wedel &lt;&gt; Blankenese (20-Minuten-Takt)</p><p>Blankenese &lt;&gt; Ohlsdorf &lt;&gt; Airport (20-Minuten-Takt)</p><p>Ohlsdorf &lt;&gt; Poppenbüttel (Ersatzverkehr mit Bussen)</p><p><strong>Linie S2:&nbsp;</strong></p><p>Hauptbahnhof &lt;&gt; Aumühle (20-Minuten-Takt)</p><p><strong>Linie S3:&nbsp;</strong></p><p>Pinneberg &lt;&gt; Neugraben (20-Minuten-Takt)</p><p><strong>Linie S5:</strong>&nbsp;</p><p>Neugraben &lt;&gt; Stade (60-Minuten-Takt)</p><p>Die S5 fährt wieder durch bis Stade.</p><p>Für Echtzeitinformationen nutzen Sie bitte die Verbindungssuche auf dieser Seite, die DB Navigator-App, www.hvv.de sowie die hvv-App. Aufgrund der unklaren Betriebssituation sind die Fahrzeiten nur kurzfristig abrufbar.</p><p><strong>Bitte nutzen Sie dort wo möglich, auch U-Bahnen und Busse.</strong></p>",
+      "durationBegin": "22.01.2024",
+      "durationEnd": "29.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lastModified": "28.01.2024 09:46",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "037fd80c-5dfc-4348-a9e6-719940b6c347",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -184,33 +211,6 @@
       "topDisruption": false
     },
     {
-      "id": "058c8ed1-5f8e-45a7-b605-20b6d744463a",
-      "disruptionId": "199f103e-0928-4839-b696-00f1da97ab1c",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Informationen zum Streik und Notfahrplan",
-      "summary": "  ",
-      "text": "<p><strong>Wichtige Information:</strong></p><p>Der Streik der GDL endet vorzeitig am Montag, 29.01. um 2 Uhr.</p><p>Am Montag kommt es voraussichtlich noch zu Beeinträchtigungen.</p><p>Weitere Infos dazu folgen.</p><p>Bis Sonntagabend (Betriebsende) kommt es zu noch massiven Einschränkungen im S-Bahn-Verkehr auf allen Linien.</p><p>______________________________________________________________________________________________</p><p><strong>Auf folgenden Verbindungen fahren wir aktuell nach einem Notfahrplan:</strong></p><p><strong>Linie S1 (abweichend über Sternschanze und Dammtor):&nbsp;</strong></p><p>Wedel &lt;&gt; Blankenese (20-Minuten-Takt)</p><p>Blankenese &lt;&gt; Ohlsdorf &lt;&gt; Airport (20-Minuten-Takt)</p><p>Ohlsdorf &lt;&gt; Poppenbüttel (Ersatzverkehr mit Bussen)</p><p><strong>Linie S2:&nbsp;</strong></p><p>Hauptbahnhof &lt;&gt; Aumühle (20-Minuten-Takt)</p><p><strong>Linie S3:&nbsp;</strong></p><p>Pinneberg &lt;&gt; Neugraben (20-Minuten-Takt)</p><p><strong>Linie S5:</strong>&nbsp;</p><p>Neugraben &lt;&gt; Buxtehude (60-Minuten-Takt)</p><p>Buxtehude &lt;&gt; Stade derzeit sind zw. Buxtehude und Stade keine S-Bahn-Fahrten möglich.</p><p>Für Echtzeitinformationen nutzen Sie bitte die Verbindungssuche auf dieser Seite, die DB Navigator-App, www.hvv.de sowie die hvv-App. Aufgrund der unklaren Betriebssituation sind die Fahrzeiten nur kurzfristig abrufbar.</p><p><strong>Bitte nutzen Sie dort wo möglich, auch U-Bahnen und Busse.</strong></p>",
-      "durationBegin": "22.01.2024",
-      "durationEnd": "29.01.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lastModified": "28.01.2024 07:20",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "6c8bf856-b239-4172-a569-17c4d72d3609",
       "disruptionId": "ae1e8ac6-cb17-4803-8e90-87bb6a08bf72",
       "author": "REGIO_SUEDOST",
@@ -277,6 +277,54 @@
         "SN"
       ],
       "lastModified": "27.01.2024 17:43",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "e8cafe1f-f0af-4f12-871d-baa3d7c677e4",
+      "author": "REGIO_HE",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik wird verkürzt: Der Notfahrplan der Kurhessenbahn gilt noch bis einschließlich Sonntag, 28.01.",
+      "summary": "Der GDL-Streik wird vorzeitig zum Montag, 29.01., 2 Uhr beendet.<br />\nDer Notfahrplan im Fern-, Regional- und S-Bahn-Verkehr der DB gilt noch bis einschlie&szlig;lich Sonntag, 28.01.<br />\nAm Montag, 29.01. kommt es zu Beeintr&auml;chtigungen.<br />\n<br />\n&nbsp;",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<p><strong>RB4: </strong>Korbach Hbf - Bad Arolsen - Wolfhagen - Zierenberg - Kassel-Wilhelmsh&ouml;he</p>\n\n<p><strong>RB38: </strong>Kassel Hbf - Kassel-Wilhelmsh&ouml;he - Ederm&uuml;nde-Grifte - Wabern(Bz Kassel) - Borken(Hess) - Zimmersrode - Treysa</p>\n\n<p><strong>RB39 / RE39:</strong> Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</p>\n\n<p><strong>RB94: </strong>Marburg(Lahn) - Bad Laasphe (- Erndtebr&uuml;ck)</p>\n\n<p><strong>RB97 / RE97:</strong> Marburg(Lahn) - Frankenberg(Eder) - Korbach Hbf - Brilon Stadt<br />\n&nbsp;</p>\n\n<p><strong>Bitte beachten Sie zu den Einschr&auml;nkungen die unten stehenden Anh&auml;nge.&nbsp;</strong></p>\n\n<p><strong>Beachten Sie bitte, dass es weiterhin zu kurzfristigen Teil- und Zugausf&auml;llen kommen kann.</strong><br />\n&nbsp;</p>\n\n<p>Da der Streik ausschlie&szlig;lich die Z&uuml;ge der Deutschen Bahn betrifft, k&ouml;nnen Sie voraussichtlich die Z&uuml;ge anderer Verkehrsunternehmen nutzen, die auf den selben, bzw. alternativen Strecken, verkehren.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Sonderhotline</strong></p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die aktuelle Verkehrslage und die Auswirkungen des Streiks der GDL auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer <strong>08000-996633</strong>.</p>\n\n<p>Beachten Sie, dass es gerade zu Sto&szlig;zeiten aufgrund der Vielzahl von Anrufen zu l&auml;ngeren Wartezeiten und Verz&ouml;gerungen kommen kann - wir bitten hierf&uuml;r um Verst&auml;ndnis.</p>\n\n<p>Bitte informieren Sie sich nochmals&nbsp;24 Stunden sowie kurz vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder unter der kostenfreien Nummer <strong>08000-996633.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich dar&uuml;ber hinaus kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter&nbsp;bahn.de&nbsp;oder www.rmv.de sowie&nbsp;in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 24 44 57 10</p>\n",
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:29c2c7f0-4b59-464d-b4ec-51eab4720596/Streikfahrplan-RB4-28.01.2024.pdf",
+          "label": "RB4 - Fahrplan vom 28.01.2024 (PDF, 200 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:2f08601f-2085-40f6-9c72-abdeb75b4660/Streikfahrplan-RB39-27.28.01.2024.pdf",
+          "label": "RB39 / RE39 - Fahrplan vom 28.01.2024 (PDF, 274 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:9c5a002b-8d1c-4062-9fe2-9d8ccbe03a18/Streikfahrplan-RB94-28.01.2024.pdf",
+          "label": "RB94 - Fahrplan vom 28.01.2024 (PDF, 266 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:252b8612-f86c-4314-9730-9390da178ff2/Streikfahrplan-RB97-28.01.2024.pdf",
+          "label": "RB97 / RE97 - Fahrplan vom 28.01.2024 (PDF, 229 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lastModified": "28.01.2024 09:32",
       "expand": false,
       "topDisruption": false
     },
@@ -461,60 +509,6 @@
       ],
       "lastModified": "28.01.2024 08:33",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "e8cafe1f-f0af-4f12-871d-baa3d7c677e4",
-      "author": "REGIO_HE",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik wird verkürzt: Der Notfahrplan der Kurhessenbahn gilt noch bis einschließlich Sonntag, 28.01.",
-      "summary": "Der GDL-Streik wird vorzeitig zum Montag, 29.01., 2 Uhr beendet.<br />\nDer Notfahrplan im Fern-, Regional- und S-Bahn-Verkehr der DB gilt noch bis einschlie&szlig;lich Sonntag, 28.01.<br />\nAm Montag, 29.01. kommt es zu Beeintr&auml;chtigungen.<br />\n<br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<p><strong>RB4: </strong>Korbach Hbf - Bad Arolsen - Wolfhagen - Zierenberg - Kassel-Wilhelmsh&ouml;he</p>\n\n<p><strong>RB38: </strong>Kassel Hbf - Kassel-Wilhelmsh&ouml;he - Ederm&uuml;nde-Grifte - Wabern(Bz Kassel) - Borken(Hess) - Zimmersrode - Treysa</p>\n\n<p><strong>RB39 / RE39:</strong> Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</p>\n\n<p><strong>RB94: </strong>Marburg(Lahn) - Bad Laasphe (- Erndtebr&uuml;ck)</p>\n\n<p><strong>RB97 / RE97:</strong> Marburg(Lahn) - Frankenberg(Eder) - Korbach Hbf - Brilon Stadt<br />\n&nbsp;</p>\n\n<p><strong>Bitte beachten Sie zu den Einschr&auml;nkungen die unten stehenden Anh&auml;nge.&nbsp;</strong></p>\n\n<p><strong>Beachten Sie bitte, dass es weiterhin zu kurzfristigen Teil- und Zugausf&auml;llen kommen kann.</strong><br />\n&nbsp;</p>\n\n<p>Da der Streik ausschlie&szlig;lich die Z&uuml;ge der Deutschen Bahn betrifft, k&ouml;nnen Sie voraussichtlich die Z&uuml;ge anderer Verkehrsunternehmen nutzen, die auf den selben, bzw. alternativen Strecken, verkehren.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Sonderhotline</strong></p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die aktuelle Verkehrslage und die Auswirkungen des Streiks der GDL auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer <strong>08000-996633</strong>.</p>\n\n<p>Beachten Sie, dass es gerade zu Sto&szlig;zeiten aufgrund der Vielzahl von Anrufen zu l&auml;ngeren Wartezeiten und Verz&ouml;gerungen kommen kann - wir bitten hierf&uuml;r um Verst&auml;ndnis.</p>\n\n<p>Bitte informieren Sie sich nochmals&nbsp;24 Stunden sowie kurz vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder unter der kostenfreien Nummer <strong>08000-996633.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich dar&uuml;ber hinaus kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter&nbsp;bahn.de&nbsp;oder www.rmv.de sowie&nbsp;in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 24 44 57 10</p>\n",
-      "downloads": [
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:e5080312-dcf4-42c6-a477-d0cc4ada93a9/Streikfahrplan-RB4-24.01.2024.pdf",
-          "label": "RB4 - Fahrplan vom 24.01. bis zum 29.01.2024 (PDF, 205 KB)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:ae7f3c3f-f643-49ca-959d-5089b066300f/Streikfahrplan-RB38-24.01.2024.pdf",
-          "label": "RB38 - Fahrplan vom 24.01. bis zum 29.01.2024 (PDF, 192 KB)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:0bc646ec-421f-40dc-ac67-92b03876b313/Streikfahrplan-RB39-24.01.2024.pdf",
-          "label": "RB39 / RE39 - Fahrplan vom 24.01. bis zum 29.01.2024 (PDF, 200 KB)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:3fa1a1aa-e9db-4f07-a4a9-5f36508fe986/Streikfahrplan-RB94-24.01.2024.pdf",
-          "label": "RB94 - Fahrplan vom 24.01. bis zum 29.01.2024 (PDF, 271 KB)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:021006c0-14ba-4dfb-9031-392be4e4d9a5/Streikfahrplan-RB97-24.01.2024.pdf",
-          "label": "RB97 / RE97 - Fahrplan vom 24.01. bis zum 29.01.2024 (PDF, 228 KB)",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lastModified": "27.01.2024 15:55",
-      "expand": false,
       "topDisruption": false
     },
     {
