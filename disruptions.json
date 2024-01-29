@@ -714,38 +714,6 @@
       "topDisruption": false
     },
     {
-      "id": "a359e0f3-9673-44cc-808c-52faf14f90bf",
-      "disruptionId": "b0e02b1c-0ae7-482c-93c6-868324345a55",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "S-Bahn Stuttgart: GDL Streik vorzeitig beendet",
-      "summary": "GDL-Streik wird verkürzt: Der Notfahrplan der DB Verkehre gilt noch bis einschließlich Sonntag, 28.01. S-Bahn Stuttgart plant, am Montag mit dem regulären Fahrplan zu starten.",
-      "text": "<p>Der GDL-Streik wird vorzeitig zum 29. Januar, 2. Uhr beendet. <strong>Die S-Bahn Stuttgart plant, am Montag mit dem regulären Fahrplan zu starten</strong>. Die DB bittet Fahrgäste Abweichungen einzuplanen, da mit Hochdruck noch Fahrzeuge und Mitarbeitende neu disponiert werden müssen.</p><p><strong>Wir bitten Fahrgäste, sich am Montag rechtzeitig vor Fahrtantritt noch einmal in den digitalen Auskunftsmedien der DB zu informieren und die geänderten Linienverläufe im Zuge der neuen Bauphase zum Ausbau des Digitalen Knotens Stuttgarts zu beachten.</strong></p><p>Darüber hinaus hat die DB eine&nbsp;<strong>kostenlose Streikhotline unter 08000 99 66 33</strong> eingerichtet.&nbsp;</p>",
-      "durationBegin": "24.01.2024",
-      "durationEnd": "29.01.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/aktuelles/Streik-der-GDL-vom-24-bis-29-Januar-Blog-12626014#12626014",
-          "label": "Infoblog auf der Homepage der S-Bahn Stuttgart",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "29.01.2024 08:08",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "7922cf30-5d4a-48a3-b9b0-8463eb522e87",
       "author": "REGIO_HE",
       "cause": {
@@ -1202,6 +1170,30 @@
       ],
       "lastModified": "09.12.2023 12:38",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "39ad410a-fa74-4df4-87ee-34d6a8c61c71",
+      "disruptionId": "629c3e31-4b19-4f64-a4a6-747862f27a3b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Mainz und Koblenz",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Mainz und Koblenz kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Umleitungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE und IC/EC Züge zwischen Mainz Hbf und Koblenz Hbf</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "29.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "RP"
+      ],
+      "lastModified": "29.01.2024 12:18",
+      "expand": true,
       "topDisruption": false
     },
     {
