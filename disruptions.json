@@ -1,59 +1,5 @@
 {
-  "topDisruptions": [
-    {
-      "id": "fd51e73c-7c59-43a2-84b3-974ad8fb86f1",
-      "disruptionId": "cbb8b9ac-3c4f-406b-98fa-a16fa28826d4",
-      "author": "DEUTSCHE_BAHN_AG",
-      "cause": {
-        "category": "strike",
-        "label": "Streikauswirkungen"
-      },
-      "headline": "GDL-Streik vorzeitig beendet: Am Montag, 29.01. kommt es noch zu Beeinträchtigungen im Regionalverkehr und vereinzelt auch im S-Bahn- und Fernverkehr der DB. ",
-      "summary": "Am Montag, 29.01. kommt es noch zu Beeinträchtigungen im Regionalverkehr und vereinzelt auch im S-Bahn- und Fernverkehr der DB. ",
-      "text": "<p><strong>Regelung für vom Streik betroffene Reisende:</strong></p><p><strong>Alle für Montag den 29.01.24</strong> gekauften&nbsp;Tickets und Sitzplatzreservierungen im Fernverkehr behalten ihre Gültigkeit. Es kann im Verlauf des Montags noch zu vereinzelten Einschränkungen im Angebot des Fernverkehrs kommen. Bitte überprüfen Sie&nbsp;Ihre geplante Zugverbindung vor Fahrtantritt auf bahn.de und/oder im DB Navigator.&nbsp;&nbsp;</p><p>&nbsp;Weiterhin gilt für Ihre bereits geplanten Reisen:&nbsp;</p><p>Alle Fahrgäste, die ihre für Mittwoch, 24.01.2024 bis Montag, 29.01.2024 geplante Reise aufgrund des Streiks der GDL verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort, auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.&nbsp;</p><p>&nbsp;Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.</p><p><strong>Sonderhotline</strong></p><p>Wenn Sie sich telefonisch über die aktuelle Verkehrslage und die Auswirkungen des GDL-Streiks auf den Bahnverkehr informieren möchten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verfügung. Die kostenfreie Hotline erreichen Sie unter der Nummer <strong>08000-996633</strong>.</p><p>Bitte beachten Sie, dass es gerade zu Stoßzeiten aufgrund der Vielzahl von Anrufen zu längeren Wartezeiten und Verzögerungen kommen kann - wir bitten hierfür um Verständnis.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder unter der kostenfreien Nummer 08000-996633.</p>",
-      "durationBegin": "24.01.2024",
-      "durationEnd": "29.01.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://bahn.de/sonderkulanz",
-          "label": "Ausführliche Informationen zu Reisen während des GDL-Streiks",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de/fahrgastrechte",
-          "label": "Allgemeine Informationen zu den Fahrgastrechten",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lastModified": "29.01.2024 11:25",
-      "expand": true,
-      "topDisruption": true
-    }
-  ],
+  "topDisruptions": [],
   "disruptions": [
     {
       "id": "6c8bf856-b239-4172-a569-17c4d72d3609",
@@ -120,109 +66,6 @@
       ],
       "lastModified": "29.01.2024 05:03",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "056d4a61-684b-4d20-9672-06efadcd0432",
-      "author": "REGIO_HE",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik vorzeitig beendet - Kurhessenbahn",
-      "summary": "<strong>Am Montag, 29.01. kommt es noch zu Beeintr&auml;chtigungen im Regionalverkehr und vereinzelt auch im S-Bahn- und Fernverkehr der DB.</strong><br />\n<br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<p><strong>RB4: </strong>Korbach Hbf - Bad Arolsen - Wolfhagen - Zierenberg - Kassel-Wilhelmsh&ouml;he</p>\n\n<p><strong>RB38: </strong>Kassel Hbf - Kassel-Wilhelmsh&ouml;he - Ederm&uuml;nde-Grifte - Wabern(Bz Kassel) - Borken(Hess) - Zimmersrode - Treysa</p>\n\n<p><strong>RB39 / RE39:</strong> Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</p>\n\n<p><strong>RB94: </strong>Marburg(Lahn) - Bad Laasphe (- Erndtebr&uuml;ck)</p>\n\n<p><strong>RB97 / RE97:</strong> Marburg(Lahn) - Frankenberg(Eder) - Korbach Hbf - Brilon Stadt</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Beachten Sie bitte, dass es weiterhin zu kurzfristigen Teil- und Zugausf&auml;llen kommen kann.</strong><br />\n&nbsp;</p>\n\n<p>Da der Streik ausschlie&szlig;lich die Z&uuml;ge der Deutschen Bahn betrifft, k&ouml;nnen Sie voraussichtlich die Z&uuml;ge anderer Verkehrsunternehmen nutzen, die auf den selben, bzw. alternativen Strecken, verkehren.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Sonderhotline</strong></p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die aktuelle Verkehrslage und die Auswirkungen des Streiks der GDL auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer <strong>08000-996633</strong>.</p>\n\n<p>Beachten Sie, dass es gerade zu Sto&szlig;zeiten aufgrund der Vielzahl von Anrufen zu l&auml;ngeren Wartezeiten und Verz&ouml;gerungen kommen kann - wir bitten hierf&uuml;r um Verst&auml;ndnis.</p>\n\n<p>Bitte informieren Sie sich nochmals&nbsp;24 Stunden sowie kurz vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder unter der kostenfreien Nummer <strong>08000-996633.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich dar&uuml;ber hinaus kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter&nbsp;bahn.de&nbsp;oder www.rmv.de sowie&nbsp;in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 24 44 57 10</p>\n",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lastModified": "29.01.2024 05:48",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "0384c8c0-b071-48c5-a65d-b1de40742121",
-      "author": "REGIO_NI_HB",
-      "cause": {
-        "category": "strike",
-        "label": "Streikauswirkungen"
-      },
-      "headline": "GDL-Streik vorzeitig beendet: Am Montag, 29.01. kommt es noch zu Beeinträchtigungen im Regionalverkehr in  Niedersachsen und Bremen",
-      "summary": "Am Montag, 29.01., kommt es noch zu Beeintr&auml;chtigungen im Regionalverkehr in Niedersachsen und Bremen.",
-      "text": "<p>Wir planen am Montag, den 29.01., den planm&auml;&szlig;igen Zugverkehr wieder aufzunehmen. Infolge des GDL-Streiks kann es jedoch zu kurzfristigen Zugausf&auml;llen bzw. Teilausf&auml;llen kommen. Bitte pr&uuml;fen Sie Ihre Reiseverbindung unmittelbar vor Reiseantritt unter bahn.de oder in der App DB Navigator.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder unter der kostenfreien Streikhotline unter der Rufnummer 08000 99 66 33.&nbsp;Die Sonderhotline ist bis zum 29.01., 18 Uhr, geschaltet.</p>\n\n<p>Folgen Sie der DB Regio Niedersachen/ Bremen auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
-      "durationBegin": "21.01.2024",
-      "durationEnd": "30.01.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https",
-          "label": "bahn.de/reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_NDS",
-          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/start_unterelbe ",
-          "label": "X Start Unterelbe (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/info/sonderkulanz",
-          "label": "bahn.de/sonderkulanz",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://start-ni-mitte.de/gdl-streik-fern-regional-und-s-bahn-verkehr-der-db-vom-10-01-ab-2-uhr-bis-12-01-bundesweit-massiv-beeintraechtigt/#single-post-title",
-          "label": "Internetseite Start Niedersachsen Mitte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.start-unterelbe.de/",
-          "label": "Internetseite Start Unterelbe",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lastModified": "29.01.2024 00:33",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -371,7 +214,7 @@
         "BW",
         "BY"
       ],
-      "lastModified": "28.01.2024 23:56",
+      "lastModified": "29.01.2024 18:10",
       "expand": false,
       "topDisruption": false
     },
@@ -531,6 +374,28 @@
       "topDisruption": false
     },
     {
+      "id": "d9add6a4-77a1-401e-8e42-4966f87fc089",
+      "author": "REGIO_HE",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik vorzeitig beendet - DB Regio in Hessen",
+      "summary": "<strong>Am Montag, 29.01. kommt es noch zu Beeintr&auml;chtigungen im Regionalverkehr und vereinzelt auch im S-Bahn- und Fernverkehr der DB.</strong><br />\n&nbsp;",
+      "text": "<p><strong><u>Betroffene Linien:</u></strong></p>\n\n<p><strong>RE5:</strong>&nbsp;Frankfurt(Main)Hbf - Hanau Hbf - W&auml;chtersbach - Fulda - Bad Hersfeld (-Bebra)</p>\n\n<p><strong>RE16:</strong>&nbsp;Frankfurt(Main)Hbf - Friedrichsdorf(Taunus) - Friedberg(Hess)</p>\n\n<p><strong>RE20 / RB22</strong>: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)&nbsp;</p>\n\n<p><strong>RE30:</strong> Frankfurt(Main)Hbf - Gie&szlig;en - Marburg(Lahn) - Treysa - Kassel Hbf</p>\n\n<p><strong>RB34: </strong>(Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</p>\n\n<p><strong>RB48:</strong> Frankfurt(Main)Hbf - Friedberg(Hess) - Nidda</p>\n\n<p><strong>RE50:</strong> Frankfurt(Main)Hbf - Hanau Hbf - W&auml;chtersbach - Fulda</p>\n\n<p><strong>RB51:</strong> Frankfurt(Main)Hbf - Hanau Hbf - W&auml;chtersbach (- Bad Soden-Salm&uuml;nster)&nbsp; &nbsp;</p>\n\n<p><strong>RE60:</strong>&nbsp;Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Mannheim Hbf</p>\n\n<p><strong>RB61</strong>: (Frankfurt(Main) Hbf -) Dreieich-Buchschlag - R&ouml;dermark-Ober Roden (- Dieburg)</p>\n\n<p><strong>RB67: </strong>Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Schwetzingen (- Hockenheim)</p>\n\n<p><strong>RB68:</strong> Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Heidelberg Hbf (- Wiesloch-Walldorf)</p>\n\n<p><strong>RE70:</strong>&nbsp;Frankfurt(Main) Hbf - Riedstadt-Goddelau - Biblis - Mannheim Hbf</p>\n\n<p>&nbsp;</p>\n\n<p><strong><u>Es kommt am noch zu folgenden Einschr&auml;nkungen:</u></strong></p>\n\n<p><strong>RE70:</strong> Der Verkehr der Linie wird eingestellt.</p>\n\n<ul>\n\t<li><em><u>► Ersatzverkehr:</u></em><br />\n\tDer Regionalverkehr der&nbsp;RE70 wird bis einschlie&szlig;lich Montag, 29.01.2024 durch Busse ersetzt.<br />\n\tDiese verkehren auf den Strecken und im Takt der bisherigen Ersatzbuslinien RE70 und halten an den seit Januar bekannten Ersatzhaltestellen.<br />\n\tDie Busse verkehren jeweils im Halbstundentakt mit Abfahrt in Frankfurt Hbf, sowie&nbsp;Mannheim-Luzenberg zu Minuten 00 und 30.</li>\n\t<li><u><em>► Unsere Empfehlung:</em></u><br />\n\tNutzen Sie auch die S7 zwischen Frankfurt(Main)Hbf und Riedstadt-Goddelau.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>Beachten Sie bitte, dass es weiterhin zu kurzfristigen Teil- und Zugausf&auml;llen kommen kann.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><strong>Sonderhotline</strong></p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die aktuelle Verkehrslage und die Auswirkungen des Streiks der GDL auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer <strong>08000-996633</strong>.</p>\n\n<p>Beachten Sie, dass es gerade zu Sto&szlig;zeiten aufgrund der Vielzahl von Anrufen zu l&auml;ngeren Wartezeiten und Verz&ouml;gerungen kommen kann - wir bitten hierf&uuml;r um Verst&auml;ndnis.</p>\n\n<p>Bitte informieren Sie sich nochmals 24 Stunden&nbsp;sowie kurz vor Reiseantritt vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder unter der kostenfreien Nummer <strong>08000-996633.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich dar&uuml;ber hinaus kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter&nbsp;bahn.de&nbsp;oder www.rmv.de sowie&nbsp;in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 24 44 57 10</p>\n",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lastModified": "29.01.2024 18:12",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "433f0198-797c-4b01-b7df-edeac4a85263",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -664,109 +529,6 @@
       "topDisruption": false
     },
     {
-      "id": "7922cf30-5d4a-48a3-b9b0-8463eb522e87",
-      "author": "REGIO_HE",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik vorzeitig beendet - S-Bahn Rhein-Main",
-      "summary": "<strong>Am Montag, 29.01. kommt es noch zu Beeintr&auml;chtigungen im Regionalverkehr und vereinzelt auch im S-Bahn- und Fernverkehr der DB.</strong><br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffenen Linien:</strong></u></p>\n\n<p><strong>S1:&nbsp;</strong>Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - R&ouml;dermark-Ober Roden</p>\n\n<p><strong>S2:&nbsp;</strong>Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof&nbsp;&nbsp;</p>\n\n<p><strong>S3:&nbsp;</strong>Bad Soden(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)S&uuml;d - Langen(Hess) - Darmstadt Hbf.&nbsp;</p>\n\n<p><strong>S4:&nbsp;</strong>Kronberg(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main) S&uuml;d - Langen(Hess)</p>\n\n<p><strong>S5:&nbsp;</strong>Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf(tief) - Frankfurt(Main)S&uuml;d</p>\n\n<p><strong>S6:&nbsp;</strong>Friedberg(Hess) - Gro&szlig; Karben - Bad Vilbel</p>\n\n<p><strong>S7</strong>: Riedstadt-Goddelau - Gro&szlig; Gerau-Dornberg - Frankfurt am Main- Stadion - Frankfurt(Main)Hbf&nbsp;</p>\n\n<p><strong>S8</strong>:&nbsp;Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</p>\n\n<p><strong>S9:&nbsp;</strong>Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf</p>\n\n<p>&nbsp;</p>\n\n<p><strong><u>Es kommt am&nbsp;noch zu folgenden Einschr&auml;nkungen:</u></strong></p>\n\n<p><strong>- S1:</strong> Die Z&uuml;ge verkehren im 30-Minuten-Takt.</p>\n\n<p><strong>- S2:&nbsp;</strong>Die Z&uuml;ge verkehren im 30-Minuten-Takt.</p>\n\n<p>&nbsp;</p>\n\n<p><strong>Beachten Sie bitte, dass es weiterhin zu kurzfristigen Teil- und Zugausf&auml;llen kommen kann.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><strong>Der Ersatzverkehr auf der Linie S6 ist vom Streik nicht betroffen und verkehrt planm&auml;&szlig;ig!</strong></p>\n\n<p>&nbsp;</p>\n\n<p><strong>Sonderhotline</strong></p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die aktuelle Verkehrslage und die Auswirkungen des Streiks der GDL auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer <strong>08000-996633</strong>.</p>\n\n<p>Beachten Sie, dass es gerade zu Sto&szlig;zeiten aufgrund der Vielzahl von Anrufen zu l&auml;ngeren Wartezeiten und Verz&ouml;gerungen kommen kann - wir bitten hierf&uuml;r um Verst&auml;ndnis.</p>\n\n<p>Bitte informieren Sie sich nochmals 24 Stunden vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder unter der kostenfreien Nummer <strong>08000-996633.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich dar&uuml;ber hinaus kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter&nbsp;bahn.de&nbsp;oder www.rmv.de sowie&nbsp;in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 24 44 57 10</p>\n",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lastModified": "29.01.2024 06:47",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "d9add6a4-77a1-401e-8e42-4966f87fc089",
-      "author": "REGIO_HE",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik vorzeitig beendet - DB Regio in Hessen",
-      "summary": "<strong>Am Montag, 29.01. kommt es noch zu Beeintr&auml;chtigungen im Regionalverkehr und vereinzelt auch im S-Bahn- und Fernverkehr der DB.</strong><br />\n&nbsp;",
-      "text": "<p><strong><u>Betroffene Linien:</u></strong></p>\n\n<p><strong>RE5:</strong>&nbsp;Frankfurt(Main)Hbf - Hanau Hbf - W&auml;chtersbach - Fulda - Bad Hersfeld (-Bebra)</p>\n\n<p><strong>RE16:</strong>&nbsp;Frankfurt(Main)Hbf - Friedrichsdorf(Taunus) - Friedberg(Hess)</p>\n\n<p><strong>RE20 / RB22</strong>: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)&nbsp;</p>\n\n<p><strong>RE30:</strong> Frankfurt(Main)Hbf - Gie&szlig;en - Marburg(Lahn) - Treysa - Kassel Hbf</p>\n\n<p><strong>RB34: </strong>(Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</p>\n\n<p><strong>RB48:</strong> Frankfurt(Main)Hbf - Friedberg(Hess) - Nidda</p>\n\n<p><strong>RE50:</strong> Frankfurt(Main)Hbf - Hanau Hbf - W&auml;chtersbach - Fulda</p>\n\n<p><strong>RB51:</strong> Frankfurt(Main)Hbf - Hanau Hbf - W&auml;chtersbach (- Bad Soden-Salm&uuml;nster)&nbsp; &nbsp;</p>\n\n<p><strong>RE60:</strong>&nbsp;Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Mannheim Hbf</p>\n\n<p><strong>RB61</strong>: (Frankfurt(Main) Hbf -) Dreieich-Buchschlag - R&ouml;dermark-Ober Roden (- Dieburg)</p>\n\n<p><strong>RB67: </strong>Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Schwetzingen (- Hockenheim)</p>\n\n<p><strong>RB68:</strong> Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Heidelberg Hbf (- Wiesloch-Walldorf)</p>\n\n<p><strong>RE70:</strong>&nbsp;Frankfurt(Main) Hbf - Riedstadt-Goddelau - Biblis - Mannheim Hbf</p>\n\n<p>&nbsp;</p>\n\n<p><strong><u>Es kommt am noch zu folgenden Einschr&auml;nkungen:</u></strong></p>\n\n<p><strong>RE70:</strong> Der Verkehr der Linie wird eingestellt.</p>\n\n<ul>\n\t<li><em><u>► Ersatzverkehr:</u></em><br />\n\tDer Regionalverkehr der&nbsp;RE70 wird bis einschlie&szlig;lich Montag, 29.01.2024 durch Busse ersetzt.<br />\n\tDiese verkehren auf den Strecken und im Takt der bisherigen Ersatzbuslinien RE70 und halten an den seit Januar bekannten Ersatzhaltestellen.<br />\n\tDie Busse verkehren jeweils im Halbstundentakt mit Abfahrt in Frankfurt Hbf, sowie&nbsp;Mannheim-Luzenberg zu Minuten 00 und 30.</li>\n\t<li><u><em>► Unsere Empfehlung:</em></u><br />\n\tNutzen Sie auch die S7 zwischen Frankfurt(Main)Hbf und Riedstadt-Goddelau.</li>\n</ul>\n\n<p>&nbsp;</p>\n\n<p><strong>Beachten Sie bitte, dass es weiterhin zu kurzfristigen Teil- und Zugausf&auml;llen kommen kann.</strong></p>\n\n<p>&nbsp;</p>\n\n<p><strong>Sonderhotline</strong></p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die aktuelle Verkehrslage und die Auswirkungen des Streiks der GDL auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer <strong>08000-996633</strong>.</p>\n\n<p>Beachten Sie, dass es gerade zu Sto&szlig;zeiten aufgrund der Vielzahl von Anrufen zu l&auml;ngeren Wartezeiten und Verz&ouml;gerungen kommen kann - wir bitten hierf&uuml;r um Verst&auml;ndnis.</p>\n\n<p>Bitte informieren Sie sich nochmals 24 Stunden&nbsp;sowie kurz vor Reiseantritt vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder unter der kostenfreien Nummer <strong>08000-996633.</strong></p>\n\n<p>&nbsp;</p>\n\n<p>Informieren Sie sich dar&uuml;ber hinaus kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter&nbsp;bahn.de&nbsp;oder www.rmv.de sowie&nbsp;in der Navigator- und der Streckenagenten-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 24 44 57 10</p>\n",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lastModified": "29.01.2024 06:46",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "0970ea8d-1f2e-4787-bdc0-a02ed9c87eaa",
-      "author": "REGIO_SH",
-      "cause": {
-        "category": "strike",
-        "label": "Streikauswirkungen"
-      },
-      "headline": "GDL-Streik vorzeitig beendet: Am Montag, 29.01. kommt es noch zu Beeinträchtigungen im Regionalverkehr in Schleswig-Holstein ",
-      "summary": "Am Montag, 29.01., kommt es noch zu Beeintr&auml;chtigungen im Regionalverkehr in Schleswig-Holstein.",
-      "text": "<p>Wir planen am Montag, den 29.01. den planm&auml;&szlig;iger Zugverkehr wieder aufzunehmen. Infolge des GDL-Streiks kann es jedoch noch zu kurzfristigen Zugausf&auml;llen bzw. Teilausf&auml;llen kommen.&nbsp;Bitte pr&uuml;fen Sie Ihre Reiseverbindung unmittelbar vor Reiseantritt unter bahn.de oder in der App DB Navigator.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder unter der kostenfreien Streikhotline unter der Rufnummer 08000 99 66 33. Die Sonderhotline ist bis zum 29.01., 18 Uhr, geschaltet.</p>\n\n<p>Folgen Sie der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https",
-          "label": "bahn.de/reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH",
-          "label": "X DB Regio Schleswig-Holstein (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/info/sonderkulanz",
-          "label": "bahn.de/sonderkulanz",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SH"
-      ],
-      "lastModified": "29.01.2024 00:34",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "b2559637-b29b-49f6-9d12-e8f8669ea7ee",
       "disruptionId": "77fca811-22f1-49cc-a791-4c23a2c53b2f",
       "author": "REGIO_BY",
@@ -897,7 +659,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "28.01.2024 23:56",
+      "lastModified": "29.01.2024 18:09",
       "expand": false,
       "topDisruption": false
     },
