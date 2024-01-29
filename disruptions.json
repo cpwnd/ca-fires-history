@@ -123,56 +123,6 @@
       "topDisruption": false
     },
     {
-      "id": "3adf0231-2192-44aa-8bbb-105fe1f37657",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik vorzeitig beendet - DB Regio Mitte ",
-      "summary": "<strong>Am Montag, 29.01. kommt es noch zu Beeintr&auml;chtigungen im Regionalverkehr und vereinzelt auch im S-Bahn- und Fernverkehr der DB.</strong><br />\n&nbsp;",
-      "text": "<p><strong>Sonderhotline</strong></p>\n\n<p>Wenn Sie sich telefonisch &uuml;ber die aktuelle Verkehrslage und die Auswirkungen des Streiks der GDL auf den Bahnverkehr informieren m&ouml;chten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verf&uuml;gung. Die kostenfreie Hotline erreichen Sie unter der Nummer&nbsp;<strong>08000-996633</strong>.</p>\n\n<p>Bitte beachten Sie, dass es gerade zu Sto&szlig;zeiten aufgrund der Vielzahl von Anrufen zu l&auml;ngeren Wartezeiten und Verz&ouml;gerungen kommen kann - wir bitten hierf&uuml;r um Verst&auml;ndnis.</p>\n\n<p>Bitte informieren Sie sich nochmals vor Reiseantritt &uuml;ber Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder unter der kostenfreien Nummer&nbsp;<strong>08000-996633</strong>.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "durationEnd": "29.01.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-App",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "SL",
-        "RP"
-      ],
-      "lastModified": "29.01.2024 07:35",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "056d4a61-684b-4d20-9672-06efadcd0432",
       "author": "REGIO_HE",
       "cause": {
@@ -475,6 +425,31 @@
       ],
       "lastModified": "19.12.2023 17:31",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "b4f76430-9e51-410f-b10c-f1f5d44c7d9a",
+      "disruptionId": "36989af8-78c5-4b22-99af-7fd58faa77b6",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Bremen und Osnabrück",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Bremen und Osnabrück kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch um etwa 15 - 25 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE und IC/EC Züge der Relation Hamburg - Münster(W)</li><li>ICE Züge der Relation Hamburg - Dortmund</li><li>IC Züge der Relation Emden - Münster(W)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "29.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI"
+      ],
+      "lastModified": "29.01.2024 12:55",
+      "expand": true,
       "topDisruption": false
     },
     {
