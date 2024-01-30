@@ -2,6 +2,56 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "7307f248-2507-4dc8-9fd7-0e998f6d68ff",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Limburg(Lahn) und Gießen",
+      "summary": "Wegen erh&ouml;hter Erkrankung von Stellwerkspersonal wird der Verkehr zwischen Limburg(Lahn) und Gie&szlig;en, ab Montag den 29.01.2024 bis 04.02.2024, jeweils ab 13:30 Uhr eingestellt.<br />\nIn der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.&nbsp;",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RE 25 Koblenz Hbf - Limburg(Lahn) - Gie&szlig;en</strong></li>\n</ul>\n\n<p>Wir haben einen Ersatzverkehr mit Bussen zwischen Limburg(Lahn) und Gie&szlig;en f&uuml;r Sie eingerichtet.&nbsp;</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "29.01.2024",
+      "durationEnd": "04.02.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lastModified": "30.01.2024 09:05",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "58736ed3-e747-4c84-b864-3ae2ec464e80",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -309,54 +359,6 @@
         "RP"
       ],
       "lastModified": "31.05.2023 09:32",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "c608058a-6fc2-4b18-9601-ddde90a6db36",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Erdrutsch"
-      },
-      "headline": " Erdrutsch zwischen Altenglan und Kusel schränkt den Zugverkehr erheblich ein.",
-      "summary": "Ein<strong> Erdrutsch zwischen Altenglan und Kusel schr&auml;nkt den Zugverkehr erheblich ein.</strong><br />\nDie Strecke ist derzeit leider gesperrt. Zur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.<br />\n<br />\nDie voraussichtliche Dauer der St&ouml;rung ist bis zum 24.01.24.<br />\n&nbsp;",
-      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>RB 67 Kaiserslautern - Altenglan - Kusel</strong></li>\n</ul>\n\n<p>Die Z&uuml;ge aus Richtung<strong> Kusel&nbsp;enden und beginnen in Altenglan.</strong></p>\n\n<p><strong>Ein Ersatzverkehr mit Bussen von Kusel nach Altenglan ist eingerichtet.&nbsp;</strong></p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n\n<p>Region Mitte</p>\n",
-      "durationEnd": "24.01.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-App ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lastModified": "23.01.2024 20:33",
       "expand": false,
       "topDisruption": false
     },
@@ -711,53 +713,6 @@
         "BY"
       ],
       "lastModified": "12.06.2023 14:25",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "7307f248-2507-4dc8-9fd7-0e998f6d68ff",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Limburg(Lahn) und Gießen",
-      "summary": "Wegen erh&ouml;hter Erkrankung von Stellwerkspersonal wird der Verkehr zwischen Limburg(Lahn) und Gie&szlig;en, ab Montag den 29.01.2024 bis 04.02.2024, jeweils ab 13:30 Uhr eingestellt.<br />\nIn der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.&nbsp;",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RE 25 Koblenz Hbf - Limburg(Lahn) - Gie&szlig;en</strong></li>\n</ul>\n\n<p>Wir haben einen Ersatzverkehr mit Bussen zwischen Limburg(Lahn) und Gie&szlig;en f&uuml;r Sie eingerichtet.&nbsp;</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "durationBegin": "29.01.2024",
-      "durationEnd": "04.02.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-App",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [],
-      "lastModified": "29.01.2024 21:40",
       "expand": false,
       "topDisruption": false
     }
