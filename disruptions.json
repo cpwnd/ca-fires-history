@@ -216,6 +216,31 @@
       "topDisruption": false
     },
     {
+      "id": "6c9113ba-9769-47d7-a7e8-77f2d5b2ccfd",
+      "disruptionId": "dc9e758e-c0ca-44ef-88ed-a6cf8b9a99a3",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Kassel und Göttingen",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Kassel und Göttingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch um etwa 30 Minuten..",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Züge zwischen Göttingen und Kassel</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.01.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NI",
+        "HE"
+      ],
+      "lastModified": "30.01.2024 18:42",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
