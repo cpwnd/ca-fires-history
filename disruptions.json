@@ -30,6 +30,55 @@
       "topDisruption": false
     },
     {
+      "id": "36f72f65-b002-4896-b138-0a9128fe970e",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Reparatur an der Oberleitung in Mannheim Hbf, kein Zugfahrten möglich",
+      "summary": "Eine Reparatur an der Oberleitung im <strong>Raum Mannheim Hbf verz&ouml;gert den Bahnverkehr.</strong> Zur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.<br />\n<br />\nIn der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>S1&nbsp;</strong>Homburg(Saar) &ndash; Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Osterburken &nbsp;</li>\n\t<li><strong>S2&nbsp;</strong>Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Mosbach</li>\n\t<li><strong>S3&nbsp;</strong>Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Karlsruhe</li>\n\t<li><strong>S4&nbsp;</strong>Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Bruchsal</li>\n\t<li><strong>S6&nbsp;</strong>Bensheim &ndash; Mannheim &ndash; Frankenthal &ndash; Worms &ndash; Mainz</li>\n\t<li><strong>S8&nbsp;</strong><em>Mannheim &ndash; Mannheim-Waldhof -&nbsp; Lampertheim &ndash; Biblis</em></li>\n\t<li><strong>S9&nbsp;</strong>Karlsruhe &ndash; Graben-Neudorf &ndash; Hockenheim &ndash; Mannheim &ndash; Biblis &ndash; Gro&szlig; Rohrheim</li>\n\t<li><strong>S39&nbsp;</strong>Mannheim-Waldhof &ndash; Mannheim Hbf <em>(&ndash; Karlsruhe)</em></li>\n\t<li><strong>RE1&nbsp;</strong>Koblenz / Luxembourg &ndash; Trier &ndash; Saarbr&uuml;cken &ndash; Kaiserslautern &ndash; Mannheim&nbsp;<strong><em>S&uuml;dwest-Express</em></strong><strong><em> </em></strong><strong><em>/ DeLux-Express</em></strong></li>\n\t<li><strong>RE9</strong> Ludwigshafen &ndash; Mannheim &ndash; Schwetzingen &ndash; Hockenheim &ndash; Graben-Neudorf &ndash; Karlsruhe</li>\n\t<li><strong>RE14&nbsp;</strong>Frankfurt/Main &ndash; Mainz &ndash; Ludwigshafen &ndash; Mannheim</li>\n\t<li><strong>RE60&nbsp;</strong>Mannheim &ndash; Weinheim &ndash; Bensheim &ndash; Darmstadt &ndash; Frankfurt (<strong><em>Main-Neckar-Bahn)</em></strong></li>\n\t<li><strong>RE70&nbsp;</strong>Mannheim &ndash; Biblis &ndash; Frankfurt (Riedbahn)</li>\n\t<li><strong>RB67/68&nbsp;</strong>Schwetzingen/WieslochW. &ndash; NeuEdingen/Friedrichsf.&ndash; Bensheim &ndash; Darmstadt &ndash; Frankfurt&nbsp;<strong><em>(Main-Neckar / Ried)</em></strong></li>\n</ul>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "HE",
+        "RP"
+      ],
+      "lastModified": "01.02.2024 16:21",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
       "cause": {
