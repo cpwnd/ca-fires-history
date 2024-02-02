@@ -2,6 +2,45 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "4714663d-4187-4f96-bb2d-7389d0c56ec8",
+      "disruptionId": "573ba8d8-4104-4c6b-9a83-532dbc507b76",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Beeinträchtigung durch Vandalismus"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln und Frankfurt (Main)",
+      "summary": "Aufgrund von Vandalismusschäden ist die Strecke zwischen Siegburg/Bonn und Frankfurt (M) Flughafen derzeit beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen im Fernverkehr der Deutschen Bahn. Einzelne Züge fallen aus.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge auf der Schnellfahrstrecke Köln – Frankfurt Flughafen werden umgeleitet. Die Halte Köln/Bonn Flughafen, Siegburg/Bonn, Montabaur und Limburg Süd entfallen. Die Züge verspäten sich um etwa 90 Minuten.</li></ul><p>Die Behebung der Störung soll vsl. bis in die heutigen Nachmittagsstunden erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "02.02.2024 03:52",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "1ed24753-01f1-4205-b8c2-a073a7d9f0c4",
       "disruptionId": "bc26075e-70cc-452b-b626-5e36133685b0",
       "author": "FERNVERKEHR_AG",
@@ -11,7 +50,7 @@
       },
       "headline": "Beeinträchtigungen zwischen Hamburg  und Büchen",
       "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Hamburg  und Büchen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch um etwa 10 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>EC, IC und ICE Züge Hamburg - Berlin</li></ul><p>Unser Personal vor Ort arbeitet an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Vormittagsstunden am 02.02.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>EC, IC und ICE Züge Hamburg - Berlin</li></ul><p>Unser Personal vor Ort arbeitet an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Mittagsstunden am Freitag, 02.02.2024, erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "31.01.2024",
       "durationEnd": "02.02.2024",
       "downloads": [],
@@ -25,7 +64,7 @@
         "BE",
         "NI"
       ],
-      "lastModified": "01.02.2024 17:41",
+      "lastModified": "02.02.2024 04:08",
       "expand": true,
       "topDisruption": false
     },
