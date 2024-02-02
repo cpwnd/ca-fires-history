@@ -443,14 +443,21 @@
       "durationBegin": "02.02.2024",
       "durationEnd": "08.06.2024",
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Aktuelle Betriebslage DB Regio Bayern ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
       "states": [
         "BY"
       ],
-      "lastModified": "02.02.2024 16:19",
+      "lastModified": "02.02.2024 16:40",
       "expand": false,
       "topDisruption": false
     },
