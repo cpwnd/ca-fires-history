@@ -1,17 +1,16 @@
 {
-  "topDisruptions": [],
-  "disruptions": [
+  "topDisruptions": [
     {
       "id": "4714663d-4187-4f96-bb2d-7389d0c56ec8",
       "disruptionId": "573ba8d8-4104-4c6b-9a83-532dbc507b76",
-      "author": "FERNVERKEHR_AG",
+      "author": "DEUTSCHE_BAHN_AG",
       "cause": {
         "category": "other_cause",
         "label": "Beeinträchtigung durch Vandalismus"
       },
-      "headline": "Beeinträchtigungen zwischen Köln und Frankfurt (Main)",
-      "summary": "Aufgrund von Vandalismusschäden ist die Strecke zwischen Siegburg/Bonn und Frankfurt (M) Flughafen derzeit beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen im Fernverkehr der Deutschen Bahn. Einzelne Züge fallen aus.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge auf der Schnellfahrstrecke Köln – Frankfurt Flughafen werden umgeleitet. Die Halte Köln/Bonn Flughafen, Siegburg/Bonn, Montabaur und Limburg Süd entfallen. Die Züge verspäten sich um etwa 90 Minuten.</li></ul><p>Die Behebung der Störung soll vsl. bis in die heutigen Nachmittagsstunden erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Störung auf der Strecke Köln – Frankfurt (Main)",
+      "summary": "Aufgrund von Vandalismusschäden zwischen Köln und Frankfurt (Main) kommt es im Fernverkehr der Deutschen Bahn zu Beeinträchtigungen. Dadurch kommt es zu Verspätungen und Haltausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge auf der Schnellfahrstrecke Köln – Frankfurt Flughafen werden umgeleitet. Die Züge verspäten sich um etwa 90 Minuten. Die Halte Köln/Bonn Flughafen, Siegburg/Bonn, Montabaur und Limburg Süd entfallen. Ersatzweise halten die Züge in Bonn Hbf und Koblenz Hbf. Weiterhin kommt es zu Zugausfällen</li></ul><p>Die Behebung der Störung soll vsl. bis in die heutigen Nachmittagsstunden erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "02.02.2024",
       "downloads": [],
       "links": [],
@@ -36,10 +35,12 @@
         "SH",
         "TH"
       ],
-      "lastModified": "02.02.2024 03:52",
+      "lastModified": "02.02.2024 06:30",
       "expand": true,
-      "topDisruption": false
-    },
+      "topDisruption": true
+    }
+  ],
+  "disruptions": [
     {
       "id": "1ed24753-01f1-4205-b8c2-a073a7d9f0c4",
       "disruptionId": "bc26075e-70cc-452b-b626-5e36133685b0",
