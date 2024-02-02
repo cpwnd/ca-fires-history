@@ -430,6 +430,31 @@
       "topDisruption": false
     },
     {
+      "id": "24c6041c-de30-4a69-acab-4e245c41a8e3",
+      "disruptionId": "cf248ac1-13b2-49d7-840e-73bd4cb4c77f",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Zugausfälle im Dieselnetz Allgäu",
+      "summary": "Aufgrund von längeren Reparaturen an den Fahrzeugen und dem Mangel an Fachkräften in den Werkstätten gibt es vorübergehend Ausfälle und Schwächungen bei einigen Zugverbindungen. Diese Situation wird voraussichtlich bis zum 08.06.2023 anhalten, wobei eine Verlängerung nicht ausgeschlossen ist.",
+      "text": "<p><strong>RE 7 Nürnberg – Lindau</strong>: Ausfall der Züge zwischen Nürnberg – Augsburg - nutzen Sie dafür alternativ die Züge der RE-Linie RE 16</p><p><strong>RE 79 Kempten – Buchloe – Augsburg</strong>: Ausfall von einzelnen Zügen - nutzen Sie dafür alternativ zwischen Kempten – Buchloe – Augsburg die Züge der RE-Linien RE 7, RE 70 und RB 77</p><p><strong>RB 94 Kempten – Hergatz</strong>: Ausfall von einzelnen Zügen - nutzen Sie dafür alternativ zwischen Kempten und Hergatz die Züge der RE-Linien RE 7 und RE 70</p><p><strong>RE 75 Ulm – Oberstdorf</strong>: Schwächung von einzelnen Zügen an Werktagen zwischen Ulm – Kempten</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Verbindung in der Reiseauskunft unter bahn.de oder in der App DB Navigator. Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
+      "durationBegin": "02.02.2024",
+      "durationEnd": "08.06.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lastModified": "02.02.2024 16:00",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "51de0e27-fd97-45fe-8f81-c14496872800",
       "author": "REGIO_MITTE",
       "cause": {
@@ -494,6 +519,12 @@
           "label": "Ersatzfahrplan RB77 10.12.2023 - 14.04.2024 Hameln - Elze (PDF, 37 KB)",
           "info": "",
           "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:4ed1498c-a2e6-4752-b536-10589d47ad58/SEV-Fahrplan_RB77_gueltig-am-05.-07.-08.-09.-11.-22.02.2024.pdf",
+          "label": "Ersatzfahrplan RB 77 05.02-22.02.2024 Hameln-Elze (PDF, 111 KB)",
+          "info": "",
+          "openInNewTab": true
         }
       ],
       "links": [
@@ -528,7 +559,7 @@
       "states": [
         "NI"
       ],
-      "lastModified": "02.02.2024 15:32",
+      "lastModified": "02.02.2024 16:01",
       "expand": true,
       "topDisruption": false
     },
@@ -597,31 +628,6 @@
       ],
       "lastModified": "09.12.2023 12:38",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "31460fd7-d342-4515-959b-828021906589",
-      "disruptionId": "e1570d16-7f4a-4de0-96b4-a3e2869443ed",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
-      },
-      "headline": "Beeinträchtigungen zwischen Ingolstadt und München",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Ingolstadt und München kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Nürnberg – Ingolstadt – München verspäten sich um etwa <strong>30 Minuten</strong>.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Abendstunden am Freitag, 02.02.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "01.02.2024",
-      "durationEnd": "02.02.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lastModified": "02.02.2024 04:23",
-      "expand": true,
       "topDisruption": false
     },
     {
