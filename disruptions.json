@@ -196,6 +196,45 @@
       "topDisruption": false
     },
     {
+      "id": "166c58a4-57f4-49af-85fb-7c1a6977c607",
+      "disruptionId": "f5591c0b-cf9d-4484-bcb5-be6312b91e90_TrafficReport",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Fahrplaneinschränkungen auf der S-Bahn-Linie S 9",
+      "summary": "Aufgrund von Personalengpässen kommt es bis vsl. zum 29. März 2024 zu Fahrplaneinschränkungen auf der S-Bahn-Linie S 9.",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 9 Eilenburg - Delitzsch ob Bahnhof - Halle (Saale) Hbf</li></ul><p>In dem oben benannten Zeitraum kommt es bei vereinzelten Zügen ganztägig zu Fahrplaneinschränkungen. Davon sind die Verstärkerzüge der S 9 betroffen, welche durch Busse ersetzt werden.</p><p>Die betroffenen Fahrten sowie die Fahrzeiten des Ersatzverkehres entnehmen Sie bitte den Dateianhängen.</p><p>Bitte beachten Sie, dass der Ersatzverkehr in Delitzsch am&nbsp;<strong>unteren Bahnhof</strong>&nbsp;hält.</p><p>Aufgrund des planmäßigen SEV der S9 Verstärker Mo-Fr / sowie bei Ausfall der S9 sind Fahrgäste zwischen Eilenburg und Halle berechtigt* auf Alternativrouten mit dem Ziel Halle, Eilenburg bzw. Delitzsch mit den Zügen der S-Bahn Mitteldeutschland zu fahren:</p><p>*MDV Fahrscheine mit den zusammenhängenden ZONEN 167/164/165&nbsp;und 165/163/224/210 oder gesamt 167/164/165/163/224/210 bzw. Streckenfahrscheine mit dem Ziel Eilenburg/Halle via Delitzsch werden wie folgt anerkannt:</p><ul><li>S4 Eilenburg-Leipzig Hbf</li><li>S3 Leipzig Hbf-Halle Hbf</li><li>S5/X Leipzig-Halle Hbf</li><li>S2 Bitterfeld-Leipzig Hbf</li><li>RE13 Bitterfeld-Leipzig Hbf</li><li>S8 Bitterfeld-Halle Hbf</li><li>Und zurück</li></ul><p>Auskünfte mit Weg Beschreibungen zu den Haltestellen finden Sie unter https://www.bahnhof.de/</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "02.10.2023",
+      "durationEnd": "29.03.2024",
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2024-02-06/50cec2b6-1260-4df1-9d66-92122029889bFahrplan%2BHalle%2B-%2BEilenburg.pdf",
+          "label": "Fahrplan Halle - Eilenburg.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2024-02-06/8e5cb967-3826-4335-b2ab-f3dc929a3e2cFahrplan%2BEilenburg%2B-%2BHalle.pdf",
+          "label": "Fahrplan Eilenburg - Halle.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "SN"
+      ],
+      "lastModified": "06.02.2024 10:24",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -509,44 +548,6 @@
         "MV"
       ],
       "lastModified": "05.02.2024 13:56",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "166c58a4-57f4-49af-85fb-7c1a6977c607",
-      "disruptionId": "f5591c0b-cf9d-4484-bcb5-be6312b91e90_TrafficReport",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Fahrplaneinschränkungen auf der S-Bahn-Linie S 9",
-      "summary": "Aufgrund von Personalengpässen kommt es bis vsl. zum 29. März 2024 zu Fahrplaneinschränkungen auf der S-Bahn-Linie S 9.",
-      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 9 Eilenburg - Delitzsch ob Bahnhof - Halle (Saale) Hbf</li></ul><p>In dem oben benannten Zeitraum kommt es bei vereinzelten Zügen ganztägig zu Fahrplaneinschränkungen. Davon sind die Verstärkerzüge der S 9 betroffen, welche durch Busse ersetzt werden.</p><p>Die betroffenen Fahrten sowie die Fahrzeiten des Ersatzverkehres entnehmen Sie bitte den Dateianhängen.</p><p>Bitte beachten Sie, dass der Ersatzverkehr in Delitzsch am&nbsp;<strong>unteren Bahnhof</strong>&nbsp;hält.</p><p>Aufgrund des planmäßigen SEV der S9 Verstärker Mo-Fr / sowie bei Ausfall der S9 sind Fahrgäste zwischen Eilenburg und Halle berechtigt* auf Alternativrouten mit dem Ziel Halle, Eilenburg bzw. Delitzsch mit den Zügen der S-Bahn Mitteldeutschland zu fahren:</p><p>*MDV Fahrscheine mit den zusammenhängenden ZONEN 167/164/165&nbsp;und 165/163/224/210 oder gesamt 167/164/165/163/224/210 bzw. Streckenfahrscheine mit dem Ziel Eilenburg/Halle via Delitzsch werden wie folgt anerkannt:</p><ul><li>S4 Eilenburg-Leipzig Hbf</li><li>S3 Leipzig Hbf-Halle Hbf</li><li>S5/X Leipzig-Halle Hbf</li><li>S2 Bitterfeld-Leipzig Hbf</li><li>RE13 Bitterfeld-Leipzig Hbf</li><li>S8 Bitterfeld-Halle Hbf</li><li>Und zurück</li></ul><p>Auskünfte mit Weg Beschreibungen zu den Haltestellen finden Sie unter https://www.bahnhof.de/</p><p>Zudem empfehlen wir Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "02.10.2023",
-      "durationEnd": "29.03.2024",
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2023-12-13/2a86332a-8e73-4157-b798-566b42851209Fahrplan%2BHalle%2B-%2BEilenburg.pdf",
-          "label": "Fahrplan Halle - Eilenburg.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2023-12-13/12dab074-fadf-4950-a61e-db39d553ed99Fahrplan%2BEilenburg%2B-%2BHalle.pdf",
-          "label": "Fahrplan Eilenburg - Halle.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lastModified": "19.12.2023 17:31",
       "expand": false,
       "topDisruption": false
     },
