@@ -2,6 +2,35 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "a8a9b479-72a7-40b1-95c7-5ae1a8c68601",
+      "disruptionId": "447be0ba-cd60-4475-88b9-7f7e9a6a2afd",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Mainz und Mannheim",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Mainz und Mannheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen, Verspätungen und Ausfällen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><p>Es kommt zu Zugausfällen bei ICE/IC/EC Zügen:</p><ul><li>Hamburg - Frankfurt - Mannheim - Stuttgart</li><li>Frankfurt (M) – Stuttgart – München – Salzburg – Klagenfurt</li><li>Dortmund – Köln Messe/Deutz – Frankfurt (M) Flugh – Mannheim – Stuttgart – München</li><li>Frankfurt (M) – Mannheim – Saarbrücken – Paris Est</li><li>Frankfurt (M) – Mannheim – Strasbourg – Marseille</li><li>Frankfurt (M) – Mannheim – Basel SBB – Milano</li></ul><p>Es kommt zu Umleitungen bei folgenden ICE/IC/EC Zügen:</p><ul><li>Dortmund&nbsp;– Köln – Koblenz – Stuttgart – Lindau, Halt Worms Hbf entfällt.</li><li>Stuttgart – Mannheim – Koblenz - Köln – Dortmund – Hannover – Magdeburg – Leipzig – Dresden, Halt Worms Hbf entfällt.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.02.2024",
+      "durationEnd": "06.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lastModified": "06.02.2024 14:16",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
       "cause": {
