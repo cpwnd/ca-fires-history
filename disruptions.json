@@ -324,31 +324,6 @@
       "topDisruption": false
     },
     {
-      "id": "cf833db8-21cd-4748-89a6-27d14b67bd36",
-      "disruptionId": "78849dd3-0e45-43fe-b373-0eb59ea5af26",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "S1/S3: Züge werden zw. Altona und Hauptbahnhof aktuell via Dammtor, Sternschanze umgeleitet.",
-      "summary": " ",
-      "text": "<p>Wegen eines Feuerwehreinsatzes fahren die S1 und S3 aktuell zwischen Altona und Hauptbahnhof über Dammtor, Sternschanze und Holstenstraße. Weichen Sie wenn möglich auf die U1 und U3 sowie die Linienbusse aus. </p>",
-      "durationBegin": "07.02.2024",
-      "durationEnd": "07.02.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lastModified": "07.02.2024 15:02",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
       "disruptionId": "1d1f957c-04e2-4ea1-a7c8-436c7e3024fb_TrafficReport",
       "author": "REGIO_SUEDOST",
@@ -480,6 +455,31 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "e66eed79-06bd-49e4-8035-5c7048dabb6f",
+      "disruptionId": "cf0fcf34-49ea-4fdf-8cec-c1bd7014375e",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Ausfallender Frühzug S 4 Eilenburg Ost - Markkleeberg-Gaschwitz",
+      "summary": "",
+      "text": "<p><strong>(Teil-) Ausfall einzelner S 4</strong></p><ul><li>37401, ab 04:30 Uhr ab Eilenburg Ost <strong>fällt leider aus</strong></li><li>37404, ab Markkleeberg-Gaschwitz <strong>beginnt 05:48 Uhr in Leipzig Hbf</strong></li></ul><p>﻿Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p><p><strong>﻿</strong></p>",
+      "durationBegin": "06.02.2024",
+      "durationEnd": "02.04.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "07.02.2024 15:43",
+      "expand": true,
       "topDisruption": false
     },
     {
