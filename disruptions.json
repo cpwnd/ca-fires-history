@@ -120,36 +120,6 @@
       "topDisruption": false
     },
     {
-      "id": "a54cd5d3-e68a-4edb-bdb5-883e909a843d",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Notarzteinsatz zw. Osterburken und Seckach -beendet",
-      "text": "<p><u><strong>Betroffene Strecke:&nbsp;</strong></u></p>\n\n<ul>\n\t<li><strong>RB84 Walld&uuml;rn - Seckach&nbsp;- Osterburken</strong></li>\n</ul>\n\n<p>Der Notarzteinsatz auf der Strecke zwischen Osterburken und Seckach ist beendet. Die Streckensperrung ist aufgehoben. Die Z&uuml;ge fahren auf dem Streckenabschnitt wieder ohne Einschr&auml;nkungen.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<strong>Streckenagent-APP</strong>&nbsp;immer dabei!</p>\n",
-      "durationBegin": "08.02.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-APP",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lastModified": "08.02.2024 12:42",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "d13fb107-5c5a-48e8-9b34-0391e820c189",
       "disruptionId": "5a74f9fc-8701-4e92-bb66-47075732241d_TrafficReport",
       "author": "REGIO_SUEDOST",
@@ -582,6 +552,31 @@
       ],
       "lastModified": "09.12.2023 12:38",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "3359750f-353f-4550-bc0c-318b1895992c",
+      "disruptionId": "470214df-276b-42c1-8172-fa0de56042ac",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Aschaffenburg",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Hanau kommt es vom 09.02.2024 bis 11.02.2024 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE 729 wird umgeleitet erhält eine Verspätung von vsl. 20 Minuten</li><li>ICE 821 wird umgeleitet erhält eine Verspätung von vsl. 20 Minuten</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970</p>",
+      "durationBegin": "08.02.2024",
+      "durationEnd": "12.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lastModified": "08.02.2024 13:08",
+      "expand": true,
       "topDisruption": false
     },
     {
