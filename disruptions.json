@@ -2,6 +2,31 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "35a4c206-e563-4b67-94f2-9c9aa7901e4b",
+      "disruptionId": "60e1b60e-00ef-40fa-967d-ebf2bf49f345",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Schnee und Eis"
+      },
+      "headline": "Beeinträchtigungen aufgrund von Winterwitterung zwischen Deutschland und Dänemark",
+      "summary": "Aktuell kommt es aufgrund von Winterwitterung in Dänemark zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen im internationalen Zugverkehr zwischen Deutschland und Dänemark. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle EC-Züge zwischen Hamburg und Kopenhagen fallen auf dem gesamten Abschnitt aus</li></ul><p>Zwischen <strong>Hamburg und Flensburg</strong> nutzen Sie die verbleibenden Regionalzüge der Linie RE 6.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "09.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lastModified": "09.02.2024 14:04",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
       "cause": {
