@@ -2,6 +2,32 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "684cc222-f4c8-4ea0-bb19-83096a656b11",
+      "disruptionId": "591d44a3-fb43-42c4-8ea2-28b5799c0b23",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Hannover und Magdeburg",
+      "summary": "Aufgrund von Bauarbeiten bei Braunschweig kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Haltausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Hannover und Magdeburg werden in beiden Fahrtrichtungen umgeleitet. Der Halt Braunschweig Hbf entfällt.</li><li>IC-Züge zwischen Hannover und Magdeburg werden in beiden Fahrtrichtungen umgeleitet. Die Halte Peine, Braunschweig Hbf und Helmstedt entfallen. Einzelne Züge halten zusätzlich in Wolfsburg Hbf.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: //Reisealternative.</p><ul><li>Reisende von/nach Peine und Braunschweig nutzen bitte den Halt Hannover Hbf und zwischen Hannover Hbf und Peine bzw. Braunschweig Hbf die Regionalzüge.</li><li>Reisende von/nach Helmstedt nutzen bitte den Halt Magdeburg Hbf und zwischen Magdeburg Hbf und Helmstedt die Regionalzüge.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "12.02.2024",
+      "durationEnd": "13.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "NI"
+      ],
+      "lastModified": "11.02.2024 21:08",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
       "cause": {
