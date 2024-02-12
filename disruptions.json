@@ -2,6 +2,35 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "ecdcf9bb-f770-4426-b53d-7147188ad23b",
+      "disruptionId": "545d1e55-5485-4ae2-9be0-301116837938",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Mannheim",
+      "summary": "Aufgrund von Vandalismusschäden bei Mannheim-Waldhof ist die Strecke zwischen Frankfurt(M) und Mannheim beeinträchtigt. Es kommt es zu Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Frankfurt(M) Hbf bzw. Frankfurt(M) Flughafen und Mannheim werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 20 Minuten.</li><li>Einzelne ICE-Züge der Relation NRW - Mannheim - Stuttgart - München fallen aus.</li></ul><p>Die Behebung der Störung soll vsl. bis in die Mittagsstunden am heutigen Montag erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "12.02.2024",
+      "durationEnd": "12.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lastModified": "12.02.2024 03:29",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "684cc222-f4c8-4ea0-bb19-83096a656b11",
       "disruptionId": "591d44a3-fb43-42c4-8ea2-28b5799c0b23",
       "author": "FERNVERKEHR_AG",
