@@ -541,7 +541,7 @@
       },
       "headline": "Einschränkungen auf der S3 zwischen Halle (Saale) Hauptbahnhof und Halle-Nietleben",
       "summary": "Aufgrund von Personalengpässen müssen leider mehrere Fahrten der S-Bahn Linie S3  ausfallen.",
-      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle (Saale) Hauptbahnhof - Halle Nietleben aus:</strong></p><p><strong>Ab Halle (Saale) Hbf</strong></p><p>37376, Abfahrt 23:51 Uhr</p><p>37378, Abfahrt 01:01 Uhr</p><p><strong>Ab Halle Südstadt</strong></p><p>37307, Abfahrt 04:37 Uhr</p><p>37309, Abfahrt 05:07 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle (Saale) Hauptbahnhof - Halle-Nietleben aus:</strong></p><p><strong>Ab Halle (Saale) Hbf</strong></p><p>37376, Abfahrt 23:51 Uhr</p><p>37378, Abfahrt 01:01 Uhr</p><p><strong>Ab </strong><strong>Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr</p><p>37309, Abfahrt 05:56 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Alternativ können Sie Busse und Straßenbahnen der HAVAG Öffentlicher Nahverkehr in Halle (Saale) | SWH. HAVAG nutzen. Die Haltestellen Halle Rosengarten, Halle-Silberhöhe und Halle Südstadt erreichen Sie mit der S-Bahnlinie 7.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
       "durationBegin": "30.05.2023",
       "durationEnd": "01.05.2024",
       "downloads": [],
@@ -552,7 +552,7 @@
       "states": [
         "ST"
       ],
-      "lastModified": "07.02.2024 11:47",
+      "lastModified": "13.02.2024 17:40",
       "expand": false,
       "topDisruption": false
     },
@@ -671,6 +671,35 @@
         "BY"
       ],
       "lastModified": "02.02.2024 17:13",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "76c83366-520c-4ccf-8d73-53c483e14dc8",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Reparatur an der Oberleitung zwischen Friedrichshafen Stadt und Lindau-Insel",
+      "summary": "Die Z&uuml;ge aus Richtung Friedrichshafen Stadt enden/beginnen in Kressbronn. Zwischen Kressbronn und Lindau-Reutin haben wir einen Ersatzverkehr mit Bus eingerichtet. Bitte pr&uuml;fen Sie auch die Reiseverbindung &uuml;ber Friedrichshafen-Aulendorf-Memmingen-Lindau .",
+      "text": "<p>Betroffene Linien:</p>\n\n<ul>\n\t<li>IRE 3: Ulm Hbf - Friedrichshafen Stadt - Lindau-Reutin</li>\n\t<li>RB 93: Friedrichshafen Stadt - Kressbronn - Lindau Insel</li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-APP",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "13.02.2024 17:44",
       "expand": false,
       "topDisruption": false
     },
