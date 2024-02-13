@@ -124,8 +124,8 @@
         "category": "technical_problem_railway_section",
         "label": "Streckensperrung"
       },
-      "headline": "Streckensperrung zwischen Bremen Hbf und Bremerhaven-Lehe am 13.02.2024 bis vsl. 14 Uhr",
-      "summary": "Aufgrund einer Streckensperrung zwischen Bremen Hbf und Bremerhaven-Lehe ist derzeit kein Zugverkehr bis vsl. 14 Uhr m&ouml;glich.&nbsp;",
+      "headline": "Streckensperrung zwischen Bremen Hbf und Bremerhaven-Lehe am 13.02.2024 bis vsl. 17 Uhr",
+      "summary": "Aufgrund einer Streckensperrung zwischen Bremen Hbf und Bremerhaven-Lehe ist derzeit kein Zugverkehr bis vsl. 17 Uhr m&ouml;glich.&nbsp;",
       "text": "<p><strong><u>Betroffene Linien:</u>&nbsp;&nbsp;</strong></p>\n\n<ul>\n\t<li>\n\t<p><strong>RE 8 (Bremerhaven-Lehe &ndash; Hannover Hbf):</strong> Die Z&uuml;ge der Linie RE 8 aus/in Richtung Hannover Hbf beginnen und enden in Bremen Hbf. Ein Ersatzverkehr mit jeweils zwei Bussen der Firma&nbsp;Reisedienst v. Rahden und der Firma FGS-Reisen&nbsp;f&auml;hrt zwischen Bremen Hbf und Bremerhaven-Lehe im Pendel.</p>\n\t</li>\n\t<li>\n\t<p><strong>RE 9 (Osnabr&uuml;ck Hbf &ndash; (Bremen Hbf) &ndash; Bremerhaven-Lehe):</strong> Die Z&uuml;ge der Linie RE 9&nbsp;aus/in Richtung Osnabr&uuml;ck Hbf beginnen und enden in Bremen Hbf.&nbsp;Ein Ersatzverkehr mit jeweils zwei Bussen der Firma&nbsp;Reisedienst v. Rahden und der Firma FGS-Reisen&nbsp;f&auml;hrt zwischen Bremen Hbf und Bremerhaven-Lehe im Pendel.</p>\n\t</li>\n</ul>\n\n<p>Rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 60 Minuten.&nbsp;</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de. &nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;bahn.de, in der&nbsp;App DB Navigator&nbsp;oder beim regionalen Kundendialog unter 0511 45901645. &nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf&nbsp;X&nbsp;(ehemals&nbsp;Twitter).  &nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf&nbsp;bahn.de/fahrgastrechte. &nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld. &nbsp;</p>\n",
       "durationBegin": "13.02.2024",
       "durationEnd": "13.02.2024",
@@ -175,7 +175,7 @@
         "HB",
         "NI"
       ],
-      "lastModified": "13.02.2024 11:24",
+      "lastModified": "13.02.2024 12:20",
       "expand": false,
       "topDisruption": false
     },
@@ -529,6 +529,31 @@
       ],
       "lastModified": "28.12.2023 15:36",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "6f9bde02-40c1-4d75-b7de-71741d08b43a",
+      "disruptionId": "23e40275-0701-4e2e-9e1e-2921519b8a36",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen Hannover Hbf",
+      "summary": "Aufgrund von einer Entgleisung ist der Bahnhof Hannover Hbf (Gleis 9) derzeit gesperrt. Dadurch kommt es zu Umleitungen und Haltausfälle im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge von Köln/Düsseldorf – Hannover – Berlin und Gegenrichtung erhalten geringfügige Verspätung. </li><li>IC 143 und IC 146 verkehren mit Haltausfall Hannover Hbf, Ersatzhalt in Wunstorf Reisendenumstieg</li><li>Züge Norddeich Mole – Emden – Bremen – Hannover – Magdeburg – Leipzig warten die Streckenfreigabe ab und erhalten  geringfügige Verspätung. </li></ul><p>Die Behebung der Störung soll vsl. bis 14:00 Uhr erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "13.02.2024",
+      "durationEnd": "13.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NI"
+      ],
+      "lastModified": "13.02.2024 12:24",
+      "expand": true,
       "topDisruption": false
     },
     {
