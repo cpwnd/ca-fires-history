@@ -541,18 +541,25 @@
       },
       "headline": "Einschränkungen auf der S3 zwischen Halle (Saale) Hauptbahnhof und Halle-Nietleben",
       "summary": "Aufgrund von Personalengpässen müssen leider mehrere Fahrten der S-Bahn Linie S3  ausfallen.",
-      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle (Saale) Hauptbahnhof - Halle-Nietleben aus:</strong></p><p><strong>Ab Halle (Saale) Hbf</strong></p><p>37376, Abfahrt 23:51 Uhr</p><p>37378, Abfahrt 01:01 Uhr</p><p><strong>Ab </strong><strong>Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr</p><p>37309, Abfahrt 05:56 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Alternativ können Sie Busse und Straßenbahnen der HAVAG Öffentlicher Nahverkehr in Halle (Saale) | SWH. HAVAG nutzen. Die Haltestellen Halle Rosengarten, Halle-Silberhöhe und Halle Südstadt erreichen Sie mit der S-Bahnlinie 7.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle (Saale) Hauptbahnhof - Halle-Nietleben aus:</strong></p><p><strong>Ab Halle (Saale) Hbf</strong></p><p>37376, Abfahrt 23:51 Uhr</p><p>37378, Abfahrt 01:01 Uhr</p><p><strong>Ab Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr</p><p>37309, Abfahrt 05:56 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Alternativ können Sie Busse und Straßenbahnen der HAVAG nutzen. Die Haltestellen Halle Rosengarten, Halle-Silberhöhe und Halle Südstadt erreichen Sie auch mit der S7.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
       "durationBegin": "30.05.2023",
       "durationEnd": "01.05.2024",
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://havag.com/",
+          "label": " Öffentlicher Nahverkehr in Halle (Saale) | SWH. HAVAG",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
       "states": [
         "ST"
       ],
-      "lastModified": "13.02.2024 17:40",
+      "lastModified": "13.02.2024 22:21",
       "expand": false,
       "topDisruption": false
     },
