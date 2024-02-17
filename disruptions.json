@@ -9,9 +9,9 @@
         "category": "police_activity",
         "label": "Polizeieinsatz"
       },
-      "headline": "Sperrung Wuppertal Hbf: Beeinträchtigungen zwischen Hagen, Wuppertal und Solingen",
-      "summary": "Aufgrund eines Polizeieinsatzes ist der Bahnhof Wuppertal Hbf aktuell gesperrt. Wuppertal Hbf kann daher im Moment von Zügen des Fernverkehrs der Deutschen Bahn nicht angefahren werden. Die betroffenen Züge werden umgeleitet und verspäten sich um circa 10 Minuten. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle über Wuppertal, Hagen oder Solingen verkehrenden ICE- und IC-Züge. Diese Züge werden umgeleitet und verspäten sich um ca. 10 Minuten. Dabei entfallen die Halte Wuppertal, Solingen und Hagen. Für den Reisendenumstieg werden bei den umgeleiteten Zügen Ersatzhalte in Essen und/oder Düsseldorf eingerichtet.   </li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Polizeieinsatz in Wuppertal: Beeinträchtigungen zwischen Köln und Dortmund",
+      "summary": "Aufgrund eines Polizeieinsatzes ist der Bahnhof Wuppertal Hbf aktuell gesperrt. Wuppertal Hbf kann daher im Moment von Zügen des Fernverkehrs der Deutschen Bahn nicht angefahren werden. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>EC/IC/ICE-Züge mit planmäßigem Halt in Solingen Hbf, Wuppertal Hbf bzw. Hagen Hbf werden <strong>umgeleitet</strong> und verspäten sich um etwa <strong>15 Minuten</strong>. Die Halte in Solingen Hbf, Wuppertal Hbf und Hagen Hbf <strong>entfallen</strong>.</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "17.02.2024",
       "durationEnd": "17.02.2024",
       "downloads": [],
@@ -37,7 +37,7 @@
         "SH",
         "TH"
       ],
-      "lastModified": "17.02.2024 18:09",
+      "lastModified": "17.02.2024 18:34",
       "expand": true,
       "topDisruption": false
     },
@@ -66,32 +66,6 @@
         "RP"
       ],
       "lastModified": "15.02.2024 18:50",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "43a9a578-999f-4ef4-bb2e-6a8432221c74",
-      "disruptionId": "7c91f115-45ed-47c1-b9c5-e52c39731a2c",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Beeinträchtigung in Harburg (Schwaben)",
-      "summary": "Aufgrund einer kurzfristigen Krankmeldung ist das Stellwerk in Harburg (Schwaben) nicht besetzt. Es kommt derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Betroffen sind ICE 517, ICE 613 und ICE 615</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "17.02.2024",
-      "durationEnd": "18.02.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lastModified": "17.02.2024 16:13",
       "expand": true,
       "topDisruption": false
     },
@@ -333,6 +307,32 @@
       ],
       "lastModified": "09.02.2024 12:16",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "43a9a578-999f-4ef4-bb2e-6a8432221c74",
+      "disruptionId": "7c91f115-45ed-47c1-b9c5-e52c39731a2c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigungen zwischen Stuttgart und Augsburg",
+      "summary": "Aufgrund einer kurzfristigen Krankmeldung des Stellwerkspersonals kommt es zwischen Stuttgart und Augsburg zu Beeinträchtigungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>EC/IC/ICE-Züge zwischen Stuttgart und Augsburg werden umgeleitet und verspäten sich um zusätzlich etwa <strong>30 Minuten</strong>.</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "17.02.2024",
+      "durationEnd": "17.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lastModified": "17.02.2024 18:38",
+      "expand": true,
       "topDisruption": false
     },
     {
