@@ -2,6 +2,33 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "4ccf6bd0-ccf6-4afc-960f-f2abdc2f7b7e",
+      "disruptionId": "d2cbdb81-5483-490d-8c7b-0e5827145dea",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Beeinträchtigungen in Blankenheim (Sangerhausen)",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Blankenheim (Sangerhausen) auf der Strecke zwischen Halle(Saale) und Kassel kommt es am 20./21.02.2024 sowie 21./22.02.2024 jeweils zwischen 20:00 Uhr und 06:00 Uhr zu Beeinträchtigungen und Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong>Betroffen sind folgende Züge im Fernverkehr:</strong><ul><li>ICE 697 Berlin - Frankfurt(M)</li><li>ICE 699 Hamburg - München</li><li>ICE 775 Berlin - Karlsruhe</li></ul><p>Die betriebliche Störung wird vsl. bis 22.02.2024 um 06:00 Uhr anhalten. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>﻿Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.02.2024",
+      "durationEnd": "22.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "SN"
+      ],
+      "lastModified": "20.02.2024 18:15",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
       "cause": {
