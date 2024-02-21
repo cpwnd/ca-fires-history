@@ -2,59 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "03a08ed5-2956-4650-ba16-bd75e88892a5",
-      "disruptionId": "bffda184-0bc0-47b7-a07c-f2fc948fb70d",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Aschaffenburg und Frankfurt(M)",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Aschaffenburg und Frankfurt(M)  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen, Verspätungen und Haltausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge Frankfurt - Würzburg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Späten Nachmittagsstunden andauern. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "21.02.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "NW",
-        "HE"
-      ],
-      "lastModified": "21.02.2024 10:59",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "4ccf6bd0-ccf6-4afc-960f-f2abdc2f7b7e",
-      "disruptionId": "d2cbdb81-5483-490d-8c7b-0e5827145dea",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Beeinträchtigungen in Blankenheim (Sangerhausen)",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Blankenheim (Sangerhausen) auf der Strecke zwischen Halle(Saale) und Kassel kommt es am 20./21.02.2024 sowie 21./22.02.2024 jeweils zwischen 20:00 Uhr und 06:00 Uhr zu Beeinträchtigungen und Verspätungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong>Betroffen sind folgende Züge im Fernverkehr:</strong><ul><li>ICE 697 Berlin - Frankfurt(M)</li><li>ICE 699 Hamburg - München</li><li>ICE 775 Berlin - Karlsruhe</li></ul><p>Die betriebliche Störung wird vsl. bis 22.02.2024 um 06:00 Uhr anhalten. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>﻿Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "20.02.2024",
-      "durationEnd": "22.02.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "ST",
-        "TH",
-        "SN"
-      ],
-      "lastModified": "20.02.2024 18:15",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
       "cause": {
