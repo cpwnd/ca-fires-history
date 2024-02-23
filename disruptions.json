@@ -41,6 +41,31 @@
       "topDisruption": false
     },
     {
+      "id": "0e971cd5-4b47-4226-b2f6-5562866a6dbf",
+      "disruptionId": "c885f003-d1a8-478e-af58-2f87093c402d",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Siegen",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Dillenburg und Siegen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen zwischen Frankfurt(M) und Siegen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge (Dortmund/Münster – Siegen – Frankfurt (M)) fallen auf dem Abschnitt Frankfurt(M) und Siegen aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Zwischen Frankfurt(M) und Wetzlar bzw. Dillenburg nutzen Sie die Nahverkehrszüge der Linien RE 99 und RB 40.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lastModified": "23.02.2024 16:14",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "58736ed3-e747-4c84-b864-3ae2ec464e80",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -107,31 +132,6 @@
       ],
       "lastModified": "23.02.2024 15:11",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "0e971cd5-4b47-4226-b2f6-5562866a6dbf",
-      "disruptionId": "c885f003-d1a8-478e-af58-2f87093c402d",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Siegen",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Dillenburg und Siegen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen zwischen Frankfurt(M) und Siegen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge (Dortmund/Münster – Siegen – Frankfurt (M)) fällt auf dem Abschnitt Frankfurt(M) und Siegen aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Zwischen Frankfurt(M) und Wetzlar bzw. Dillenburg nutzen Sie die Nahverkehrszüge der Linien RE 99 und RB 40.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "23.02.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lastModified": "23.02.2024 14:51",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -420,30 +420,6 @@
       ],
       "lastModified": "28.12.2023 15:36",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "c898727b-7810-43d6-9c81-45d70f34d9ca",
-      "disruptionId": "a0edc45f-3a84-4004-8e34-2a2360529bb0",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Beeinträchtigungen zwischen Basel und Freiburg(Breisgau)",
-      "summary": "Aufgrund von einem defekten Zug bei Heitersheim ist die Strecke zwischen Basel und Freiburg(Breisgau) zwischenzeitlich nur eingleisig befahrbar. Dadurch kommt es zu Verspätungen im Fernverkehr der Deutschen Bahn. Einzelne Züge fallen auf dem Abschnitt zwischen Karlsruhe und Basel aus.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/ECE-, IC/EC-Züge auf dem Abschnitt zwischen Karlsruhe - Freiburg(Breisgau) - Basel</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "23.02.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "23.02.2024 14:44",
-      "expand": true,
       "topDisruption": false
     },
     {
