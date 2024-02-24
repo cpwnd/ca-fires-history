@@ -2,32 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "0e971cd5-4b47-4226-b2f6-5562866a6dbf",
-      "disruptionId": "c885f003-d1a8-478e-af58-2f87093c402d",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Siegen",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Dillenburg und Siegen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen zwischen Frankfurt(M) und Siegen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge (Dortmund/Münster – Siegen – Frankfurt (M)) fallen auf dem Abschnitt Frankfurt(M) und Siegen aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Zwischen Frankfurt(M) und Wetzlar bzw. Dillenburg nutzen Sie die Nahverkehrszüge der Linien RE 99 und RB 40.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "23.02.2024",
-      "durationEnd": "23.02.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lastModified": "23.02.2024 21:49",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "58736ed3-e747-4c84-b864-3ae2ec464e80",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -321,6 +295,31 @@
       ],
       "lastModified": "09.02.2024 12:16",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "86f3e8ae-8e69-4d51-8a77-1523fbfe63be",
+      "disruptionId": "503b4a2e-41fb-43f2-afcd-ea791dcdf340",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Mannheim und Kaiserslautern",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Mannheim und Kaiserlautern kommt es derzeit zu Beeinträchtigungen mit Verspätungen von ca. 5 Minuten im Fernverkehr der Deutschen Bahn. ",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-/TGV-Züge der Relation Mannheim - Saarbrücken - Paris und Gegenrichtung</li><li>ICE-/EC-Züge der Relation Mannheim - Saarbrücken und Gegenrichtung</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "SL",
+        "RP"
+      ],
+      "lastModified": "24.02.2024 04:40",
+      "expand": true,
       "topDisruption": false
     },
     {
