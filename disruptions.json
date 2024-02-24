@@ -2,6 +2,45 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "64dd1679-fecf-4d58-b5ad-998745b2af53",
+      "disruptionId": "dccfa1e6-6b97-4f08-b277-2de8fd7416d9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Göttingen und Kassel",
+      "summary": "Aufgrund von Bauarbeiten zwischen Eichenberg und Kassel kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Der Streckenabschnitt ist nur eingleisig befahrbar. Dadurch kommt es zu Verspätungen und Zugausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC-Züge zwischen Kassel und Göttingen verspäten sich um etwa 30 Minuten.</li><li>ICE-Züge (Hamburg – Hannover – Gießen – Frankfurt (M)) fallen aus</li><li>ICE-Züge (Stralsund – Rostock – Hamburg – Kassel – Frankfurt) fallen auf dem Abschnitt zwischen Hannover und Frankfurt(M) aus</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "24.02.2024 07:15",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "58736ed3-e747-4c84-b864-3ae2ec464e80",
       "author": "REGIO_NI_HB",
       "cause": {
