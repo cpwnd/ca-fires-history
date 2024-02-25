@@ -41,6 +41,33 @@
       "topDisruption": false
     },
     {
+      "id": "ba9d5689-613e-4aa5-a471-174abc744fdf",
+      "disruptionId": "6a6c3609-7468-43ae-bd67-fe01707dd4f3",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Wolfsburg und Hannover",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Wolfsburg und Hannover kommt es derzeit zu Beeinträchtigungen mit Verspätungen von bis zu 10 Minuten im Fernverkehr der Deutschen Bahn.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE- und IC-Züge der Relation Berlin - Wolfsburg - Hannover und Gegenrichtung</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "25.02.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lastModified": "25.02.2024 04:53",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "58736ed3-e747-4c84-b864-3ae2ec464e80",
       "author": "REGIO_NI_HB",
       "cause": {
