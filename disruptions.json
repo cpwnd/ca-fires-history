@@ -2,6 +2,61 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Zugausfälle bei der Westfrankenbahn",
+      "summary": "Aufgrund von Personalengp&auml;ssen beim Fahrpersonal und in den Stellwerken kommt es auf der Madonnenlandbahn, Tauberbahn und Kahlgrundbahn bis zum 24. Juli 2024 zu Zugausf&auml;llen mit Ersatzverkehr.<br />\n<br />\nDie Fahrpl&auml;ne der Ersatzverkehre finden Sie weiter unten.",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u><br />\n<strong>RB 84 Miltenberg - Walld&uuml;rn - Seckach&nbsp;</strong></p>\n\n<p><strong>RB 88 Wertheim - Lauda - Crailsheim</strong></p>\n\n<p><strong>RB 56 Sch&ouml;llkrippen - Kahl - Hanau</strong></p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung insbesondere aufgrund der l&auml;ngeren Fahrzeiten der Busse mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "durationEnd": "24.07.2024",
+      "downloads": [
+        {
+          "href": "https://www.westfrankenbahn.de/fahrplan/sev-haltestellen",
+          "label": "Übersicht aller Ersatz-Haltestellen bei der Westfrankenbahn:",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:ec9d095e-dacd-44ae-8a2c-7adb2c2c3b93/Tauberbahn_Ersatzverkehr%20bis%20%2024.%20Juli%202024.pdf",
+          "label": "Tauberbahn Ersatzverkehr bis 24. Juli (PDF, 200 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:65b95adf-5b67-46e7-a33c-10f4175155c3/Kahlgrundbahn_Ersatzverkehr%208.%20Januar%20bis%20%2024.%20Juli%202024.pdf",
+          "label": "Kahlgrundbahn Ersatzverkehr bis 24. Juli (PDF, 197 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:50c2be6c-354d-4afb-b72c-254921d57844/Tauberbahn_einzelner%20Ersatzverkehr%20an%20Sonntagen.pdf",
+          "label": "Tauberbahn Ersatzverkehr an einzelnen Sonntagen (PDF, 222 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:1c3dc3fc-f305-4afe-b9c2-6b63e83b81cb/Madonnenland_Ersatzverkehr%208.%20Januar%20bis%20%2024.%20Juli%202024.pdf",
+          "label": "Madonnenlandbahn Ersatzverkehr bis 24. Juli (PDF, 229 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lastModified": "27.02.2024 14:24",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "58736ed3-e747-4c84-b864-3ae2ec464e80",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -67,61 +122,6 @@
         "NI"
       ],
       "lastModified": "23.02.2024 15:11",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Zugausfälle bei der Westfrankenbahn",
-      "summary": "Aufgrund von Personalengp&auml;ssen beim Fahrpersonal und in den Stellwerken kommt es auf der Madonnenlandbahn, Tauberbahn und Kahlgrundbahn bis zum 24. Juli 2024 zu Zugausf&auml;llen mit Ersatzverkehr.<br />\n<br />\nDie Fahrpl&auml;ne der Ersatzverkehre finden Sie weiter unten.",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u><br />\n<strong>RB 84 Miltenberg - Walld&uuml;rn - Seckach&nbsp;</strong></p>\n\n<p><strong>RB 88 Wertheim - Lauda - Crailsheim</strong></p>\n\n<p><strong>RB 56 Sch&ouml;llkrippen - Kahl - Hanau</strong></p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung insbesondere aufgrund der l&auml;ngeren Fahrzeiten der Busse mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
-      "durationEnd": "24.07.2024",
-      "downloads": [
-        {
-          "href": "https://www.westfrankenbahn.de/fahrplan/sev-haltestellen",
-          "label": "Übersicht aller Ersatz-Haltestellen bei der Westfrankenbahn:",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:ec9d095e-dacd-44ae-8a2c-7adb2c2c3b93/Tauberbahn_Ersatzverkehr%20bis%20%2024.%20Juli%202024.pdf",
-          "label": "Tauberbahn Ersatzverkehr bis 24. Juli (PDF, 200 KB)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:65b95adf-5b67-46e7-a33c-10f4175155c3/Kahlgrundbahn_Ersatzverkehr%208.%20Januar%20bis%20%2024.%20Juli%202024.pdf",
-          "label": "Kahlgrundbahn Ersatzverkehr bis 24. Juli (PDF, 197 KB)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:e65b2c62-d80d-42f5-b91f-c65fbbd8da48/Tauberbahn_einzelner%20Ersatzverkehr%20an%20Sonntagen.pdf",
-          "label": "Tauberbahn Ersatzverkehr an einzelnen Sonntagen (PDF, 222 KB)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:1c3dc3fc-f305-4afe-b9c2-6b63e83b81cb/Madonnenland_Ersatzverkehr%208.%20Januar%20bis%20%2024.%20Juli%202024.pdf",
-          "label": "Madonnenlandbahn Ersatzverkehr bis 24. Juli (PDF, 229 KB)",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lastModified": "20.02.2024 07:26",
       "expand": false,
       "topDisruption": false
     },
