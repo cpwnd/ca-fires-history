@@ -1,6 +1,153 @@
 {
-  "topDisruptions": [],
+  "topDisruptions": [
+    {
+      "id": "fad48c9a-af85-4385-bc6e-34df0f2aa4f6",
+      "disruptionId": "2a562c25-b5f1-4ed9-abee-7e26be92ef84",
+      "author": "DEUTSCHE_BAHN_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 07.03. bis 08.03. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB vom 07.03. bis 08.03. bundesweit zum Streik aufgerufen. Während des Streiks bietet die DB ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr an. Wir empfehlen, im Fernverkehr einen Sitzplatz zu reservieren. \nDas Grundangebot ist über die Fahrplanauskunft auf bahn.de und im DB Navigator abrufbar. Die DB bittet die Reisenden, sich 24 Stunden vor Fahrtantritt zu informieren, ob ihre Verbindung verfügbar ist.",
+      "text": "<strong><strong>Regelung für vom Streik betroffene Reisende:</strong></strong><p>Alle Fahrgäste, die bis einschließlich&nbsp;04.03.2024 ein Ticket für eine Reise im Zeitraum vom&nbsp;07.03.2024 bis&nbsp;08.03.2024 gekauft haben und diese aufgrund&nbsp;des GDL-Streiks verschieben möchten, können ihr&nbsp;Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.</p><p>Zudem haben Fahrgäste im Rahmen einer Sonderkulanz auch die Möglichkeit, ihre Reise vorzuverlegen und ab sofort zu fahren.</p><p>Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "07.03.2024",
+      "durationEnd": "08.03.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de/fahrgastrechte",
+          "label": "Allgemeine Informationen zu den Fahrgastrechten",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/info/sonderkulanz",
+          "label": "Ausführliche Informationen zu Reisen während des GDL-Streiks",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "04.03.2024 12:40",
+      "expand": true,
+      "topDisruption": true
+    }
+  ],
   "disruptions": [
+    {
+      "id": "84630aca-c63b-4f5e-a9f5-50175dab9a28",
+      "disruptionId": "abd1a7a0-6afc-4508-93e7-e80012b0fb03",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik: Fern-, Regional-, S-Bahn-Verkehr der DB vom 07.03. Früh- bis inkl. 08.03 bundesweit massiv beeinträchtigt\n",
+      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB wird vom 7. März, bis 8. März, bundesweit wegen eines Streiks der GDL massiv beeinträchtigt sein. ",
+      "text": "<p>Der Regionalverkehr der DB Regio Südost wird massiv beeinträchtigt sein. Wir versuchen ein Mindestfahrplanangebot aufrechtzuerhalten. Trotzdem können wir in dieser Situation nicht garantieren, dass alle Reisenden an Ihr Ziel kommen. Wenn möglich, verschieben Sie bitte geplante Reisen.</p><p>Das Mindestfahrplanangebot sowie die letzten durchfahrenden Züge am Donnerstag, den 6. März 2024, finden Sie im Laufe des Mittwochs in unseren digitalen Reiseauskunftsmedien unter bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent. Über eine gegebenenfalls mögliche Durchführung einzelner Fahrten werden wir kurzfristig situativ informieren.&nbsp;&nbsp;</p><p>Wir möchten Sie an dieser Stelle zur Vollständigkeit darauf hinweisen, dass auch wir mit unserem Mindestfahrplanangebot von weiteren Streik-Maßnahmen, wie beispielweise auf einem Stellwerk, betroffen sein können. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft oder in der App DB Navigator.</p><p>Für Kunden, die sich über die aktuelle Verkehrslage und Auswirkungen des GDL-Streiks auf den Bahnverkehr informieren möchten, wurde eine kostenfreie Hotline eingerichtet. Die Nummer lautet 08000-996633</p>",
+      "durationBegin": "07.03.2024",
+      "durationEnd": "08.03.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "SN"
+      ],
+      "lastModified": "04.03.2024 12:44",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "7d03f314-39b1-4172-ad2f-6c2f0ac69c92",
+      "author": "REGIO_NI_HB",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB vom 07.03.2024 bis 08.03.2024 bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivf&uuml;hrer) hat ihre Mitglieder in den Betrieben der DB vom 07.03. bis 08.03. bundesweit zum Streik aufgerufen. W&auml;hrend des Streiks bietet die DB ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr an. Das Grundangebot ist &uuml;ber die Fahrplanauskunft auf bahn.de und im DB Navigator abrufbar. Die DB bittet die Reisenden, sich 24 Stunden vor Fahrtantritt zu informieren, ob ihre Verbindung verf&uuml;gbar ist.<br />\n<br />\nDas Grundangebot der DB sichert nur ein sehr begrenztes Zugangebot im Fern-, Regional- und S-Bahn-Verkehr der DB. Bitte sehen Sie von nicht notwendigen Reisen w&auml;hrend des GDL-Streiks ab und verschieben Sie Ihre Reise auf einen anderen Zeitpunkt.",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 1 (Norddeich (Mole) &ndash; Bremen Hbf &ndash; Hannover Hbf): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RE 5 (Cuxhaven &ndash; Hamburg Hbf):&nbsp;Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RE 8 (Bremerhaven-Lehe &ndash; Hannover Hbf):&nbsp;Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.&nbsp;</li>\n\t<li>RE 9 (Osnabr&uuml;ck Hbf &ndash; (Bremen Hbf) &ndash; Bremerhaven-Lehe): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RB 37 (Bremen &ndash; Soltau &ndash; Uelzen): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor. &nbsp;</li>\n\t<li>RB 38 (Hannover &ndash; Soltau &ndash; Buchholz &ndash; (Hamburg-Harburg)): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RB 40 (Braunschweig Hbf &ndash; Helmstedt): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RB 44 / RB 48 (Braunschweig &ndash; Salzgitter-Lebenstedt):Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RB 45 (Braunschweig Hbf &ndash; Sch&ouml;ppenstedt): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RB 46 (Braunschweig Hbf &ndash; Herzberg (Harz): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RE 62&nbsp;(Rheine &ndash; Osnabr&uuml;ck &ndash; L&ouml;hne): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RB 77 (B&uuml;nde &ndash; Hameln &ndash; Hildesheim): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.&nbsp;</li>\n\t<li>RB 79 (Hildesheim &ndash; Bodenburg): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.&nbsp;</li>\n\t<li>RB 80 / 81 (G&ouml;ttingen/Bodenfelde &ndash; Nordhausen): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RB 82 (G&ouml;ttingen &ndash; Kreiensen &ndash; Bad Harzburg): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RB 86 (Einbeck Mitte &ndash; G&ouml;ttingen): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n</ul>\n\n<p>Das Grundangebot sowie die letzten durchfahrenden Z&uuml;ge am Donnerstag, den 07.03., versuchen wir Ihnen schnellstm&ouml;glich in unseren digitalen Reiseauskunftsmedien und bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent zur Verf&uuml;gung zu stellen. &Uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir Sie kurzfristig informieren.</p>\n\n<p>Wir versuchen einen Ersatzverkehr mit Bussen einzurichten, k&ouml;nnen dies aufgrund der Kurzfristigkeit derzeit nicht garantieren.&nbsp;</p>\n\n<p>Wir m&ouml;chten Sie an dieser Stelle zur Vollst&auml;ndigkeit darauf hinweisen, dass auch wir mit unserem Grundangebot von weiteren Streik-Ma&szlig;nahmen, wie beispielweise auf einem Stellwerk, betroffen sein k&ouml;nnen. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder unter der kostenfreien Streikhotline vsl. heute ab 18 Uhr unter der Rufnummer 08000 99 66 33.</p>\n\n<p>Folgen Sie der DB Regio Niedersachen/ Bremen auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "http://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://start-ni-mitte.de/gdl-streik-fern-regional-und-s-bahn-verkehr-der-db-vom-10-01-ab-2-uhr-bis-12-01-bundesweit-massiv-beeintraechtigt/#single-post-title",
+          "label": "Internetseite Start Niedersachsen Mitte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lastModified": "04.03.2024 12:43",
+      "expand": true,
+      "topDisruption": false
+    },
     {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
@@ -252,40 +399,45 @@
       "topDisruption": false
     },
     {
-      "id": "bf63dcba-3a94-414e-a227-68626c0fb733",
-      "author": "REGIO_MITTE",
+      "id": "59a979d9-86ed-42e5-a962-46db3da07103",
+      "author": "REGIO_SH",
       "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
+        "category": "strike",
+        "label": "Streik"
       },
-      "headline": "Zugausfälle im Raum Meckesheim",
-      "summary": "Wegen erh&ouml;hter Erkrankung von Stellwerkspersonal zwischen Meckesheim - Aglasterhausen/ Sinsheim(Elsenz), kommt es am Sonntag den 03.03.2024 von 05:00 Uhr bis 15:00 Uhr sowie von 23:00 Uhr bis Montagmorgen 04:00 Uhr zu Zugausf&auml;llen.",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>S5</strong>&nbsp; &nbsp;Heidelberg &ndash; Neckargem&uuml;nd &ndash; Sinsheim &ndash; Eppingen&nbsp;</li>\n\t<li><strong>S51&nbsp;</strong>Heidelberg &ndash; Meckesheim &ndash; Aglasterhausen<strong>&nbsp;</strong></li>\n</ul>\n\n<p><strong>Wir haben einen Ersatzverkehr mit Bussen f&uuml;r Sie eingerichtet.</strong>&nbsp;</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "durationBegin": "03.03.2024",
-      "durationEnd": "04.03.2024",
+      "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 07.03.2024 bis 08.03.2024 bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivf&uuml;hrer) hat ihre Mitglieder in den Betrieben der DB vom 07.03. bis 08.03. bundesweit zum Streik aufgerufen. W&auml;hrend des Streiks bietet die DB ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr an. Das Grundangebot ist &uuml;ber die Fahrplanauskunft auf bahn.de und im DB Navigator abrufbar. Die DB bittet die Reisenden, sich 24 Stunden vor Fahrtantritt zu informieren, ob ihre Verbindung verf&uuml;gbar ist.<br />\n<br />\nDas Grundangebot der DB sichert nur ein sehr begrenztes Zugangebot im Fern-, Regional- und S-Bahn-Verkehr der DB. Bitte sehen Sie von nicht notwendigen Reisen w&auml;hrend des GDL-Streiks ab und verschieben Sie Ihre Reise auf einen anderen Zeitpunkt.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RB 62 (Heide(Holst) &ndash; Itzehoe): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RE 7 / RE 70 (Flensburg/Kiel Hbf &ndash; Hamburg Hbf): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RE 8 / RE 80 (L&uuml;beck Hbf &ndash; Hamburg Hbf): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RB 81 (Bad Oldesloe &ndash; Hamburg Hbf): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>RB 85 (L&uuml;beck Hbf &ndash; Neustadt(Holst): Derzeit liegen uns noch keine vollst&auml;ndigen Informationen vor.</li>\n\t<li>X85 (Puttgarden &ndash; L&uuml;beck Hbf): Der Bus X 85 ist nicht von den Streikma&szlig;nahmen der GDL betroffen. Es kann jedoch zu Auswirkungen durch die Streikma&szlig;nahmen von Ver.di kommen.&nbsp;</li>\n</ul>\n\n<p>Das Grundangebot sowie die letzten durchfahrenden Z&uuml;ge am Donnerstag, den 07.03., versuchen wir Ihnen schnellstm&ouml;glich in unseren digitalen Reiseauskunftsmedien und bahn.de/reiseauskunft sowie in den Apps DB Navigator und DB Streckenagent zur Verf&uuml;gung zu stellen. &Uuml;ber eine gegebenenfalls m&ouml;gliche Durchf&uuml;hrung einzelner Fahrten werden wir Sie kurzfristig informieren.</p>\n\n<p>Wir versuchen einen Ersatzverkehr mit Bussen einzurichten, k&ouml;nnen dies aufgrund der Kurzfristigkeit derzeit nicht garantieren.&nbsp;</p>\n\n<p>Wir m&ouml;chten Sie an dieser Stelle zur Vollst&auml;ndigkeit darauf hinweisen, dass auch wir mit unserem Grundangebot von weiteren Streik-Ma&szlig;nahmen, wie beispielweise auf einem Stellwerk, betroffen sein k&ouml;nnen. Sobald uns weitere Informationen vorliegen, werden wir diese Meldung aktualisieren.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder unter der kostenfreien Streikhotline vsl. heute ab 18 Uhr unter der Rufnummer 08000 99 66 33.</p>\n\n<p>Folgen Sie der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "04.03.2024",
       "downloads": [],
       "links": [
         {
-          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:",
-          "label": "Reiseauskunft ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-App",
+          "href": "http://bahn.de",
+          "label": "bahn.de",
           "info": "",
           "openInNewTab": true
         },
         {
           "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH",
+          "label": "X DB Regio Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
           "info": "",
           "openInNewTab": true
         }
@@ -294,10 +446,10 @@
         "REGIONAL"
       ],
       "states": [
-        "BW"
+        "SH"
       ],
-      "lastModified": "02.03.2024 15:59",
-      "expand": false,
+      "lastModified": "04.03.2024 12:42",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -419,6 +571,127 @@
         "RP"
       ],
       "lastModified": "31.05.2023 09:32",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "22832e86-8ac1-4dca-8f13-29c6475de5a4",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.3. bis 8.3. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivf&uuml;hrer) hat ihre Mitglieder in den Betrieben der DB vom 7.3. bis zum 8.3. bundesweit zum Streik im Personenverkehr aufgerufen. W&auml;hrend des Streiks bietet die DB ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr an. Wir empfehlen, im Fernverkehr einen Sitzplatz zu reservieren. Das Grundangebot ist &uuml;ber die Fahrplanauskunft auf bahn.de und im DB Navigator abrufbar. Die DB bittet die Reisenden, sich 24 Stunden vor Fahrtantritt zu informieren, ob ihre Verbindung verf&uuml;gbar ist.<br />\n<br />\nDetails zum Grundangebot der DB Regio Baden-W&uuml;rttemberg entnehmen sie bitte in den betroffenen Linien. Die Zeiten der noch verkehrenden Z&uuml;ge finden Sie in den Fahrpl&auml;nen im Anhang.<br />\n<br />\n<strong><u>Bitte beachten Sie:</u></strong>&nbsp;In dieser Situation kann es bei dem Grundangebot noch zu kurzfristigen &Auml;nderungen und Zugausf&auml;llen kommen. Ebenso werden wir versuchen das geplante Konzept w&auml;hrend dem Streik zu erweitern falls weitere Ressourcen an Fahrzeugen und Personal zur Verf&uuml;gung stehen.",
+      "text": "<p><strong>Betroffene Linien und Konzept zum Grundangebot: (einzelne &Auml;nderungen noch m&ouml;glich)</strong></p>\n\n<ul>\n\t<li>IRE3: Ulm - Lindau / Friedrichshafen - Basel Bad Bf&nbsp;<strong>&nbsp;Zwischen Ulm&lt;&gt;Biberach auch die Z&uuml;ge der RS21 nutzen. (Einzelne Zugverbindungen)</strong></li>\n\t<li>IRE6: Stuttgart - T&uuml;bingen - Aulendorf /Rottenburg(Neckar) <strong>(kein Zugverkehr zwischen Stuttgart&lt;&gt;Sigmaringen bitte Z&uuml;ge der SWEG nutzen, einzelne Zugverbindungen Sigmaringen &lt;&gt;&nbsp;Aulendorf und 2-Stunden Takt RB 74 T&uuml;bingen&lt;&gt;Rottenburg)</strong></li>\n\t<li>IRE50: Aalen - Ulm<strong> (kein Grundangebot &gt; bitte Z&uuml;ge der&nbsp;SWEG nutzen)</strong></li>\n\t<li>IRE200: Wendlingen - Ulm <strong>(2-Stunden-Takt)</strong></li>\n\t<li>RE2: Karlsruhe - Konstanz<strong> (einzelne Zugverbindungen)</strong></li>\n\t<li>RE4: Stuttgart - Konstanz <strong>(kein Grundangebot)</strong></li>\n\t<li>RE5: Stuttgart - Friedrichshaf<strong>en (einzelne Zugverbindungen Stuttgart&lt;&gt;Ulm. Wenn m&ouml;glich auch Z&uuml;ge der Go-Ahead GmbH nutzen.&nbsp; Zwischen Ulm&lt;&gt;Biberach auch die Z&uuml;ge der RS 2/21 nutzen.)</strong></li>\n\t<li>RE7: Karlsruhe - Basel (<strong>Einzelne Zugverbindungen, auch Z&uuml;ge der Linien RE2 (Karlsruhe&lt;&gt;Offenburg), Linie RB26 (Offenburg&lt;&gt;Freiburg) und RB27 (Freiburg&lt;&gt;Basel) nutzen.)&nbsp;</strong></li>\n\t<li>RE14a/b: Stuttgart - B&ouml;blingen&nbsp;<strong>(2-Stunden-Takt)</strong></li>\n\t<li>RE55: Donaueschingen - Ulm <strong>(einzelne Zugverbindungen)</strong></li>\n\t<li>MEX 19 / 90: Stuttgart - Schw&auml;bisch Hall-Hessental - Crailsheim <strong>(2-Stunde-Takt Stuttgart-Schw&auml;bisch Hall-Hessental&nbsp;&gt;&nbsp;wenn m&ouml;glich auch auf Z&uuml;ge der Go Ahead GmbH&nbsp;ausweichen)</strong></li>\n\t<li>RB26: Offenburg - Freiburg(Breisgau) <strong>(3-Stunden-Takt)</strong></li>\n\t<li>RB27: Freiburg(Breisgau) -Basel Bad Bf /Neuenburg(Baden)&nbsp;<strong>(3-Stunden-Takt Freiburg&lt;&gt;Basel, Kein Grundangebot M&uuml;llheim(Baden)&lt;&gt;Neuenburg(Baden))&nbsp;</strong></li>\n\t<li>RB28: M&uuml;llheim(Baden) - Mulhouse Ville<strong> (kein Grundangebot)</strong></li>\n\t<li>RB30: Basel Bad Bf - Lauchringen <strong>(3-Stunden-Takt)</strong></li>\n\t<li>RB31: Radolfzell - Friedrichshafen <strong>(Stunden-Takt)</strong></li>\n\t<li>RB37: Waldshut -St&uuml;hlingen<strong> (kein Grundangebot)</strong></li>\n\t<li>RB42: Donaueschingen - Triberg/Rottweil <strong>(kein Grundangebot. Z&uuml;ge der Linie RE2 und SWEG nutzen)</strong></li>\n\t<li>RB53: Aulendorf - Leutkirch /Wangen(Allg&auml;u) <strong>(einzelne Zugverbindungen)</strong></li>\n\t<li>RB63: Bad Urach - Herrenberg<strong> (einzelne Zugverbindung Bad Urach&lt;&gt;T&uuml;bingen, 1.5 Stunden-Takt T&uuml;bingen&lt;&gt;Herrenberg)</strong></li>\n\t<li>RB74: Pforzheim - Horb - T&uuml;bingen <strong>(Pforzheim&lt;&gt;Horb einzelne Zugverbindungen, Horb &lt;&gt; T&uuml;bingen guter 2-Stunden-Takt)</strong></li>\n\t<li>RB93:<strong> </strong>Friedrichshafen - Lindau<strong> (Z&uuml;ge der Linie IRE3 nutzen)</strong></li>\n\t<li>S1 / S10 / S11: Breisach / Endingen - Freiburg - Seebrugg / Villingen(Schwarzw)<strong> (kein Grundangebot Neustadt(Schwarzw)&lt;&gt;Villingen(Schwarzw)), Kein Grundangebot Endingen a.K. &lt;&gt;Gottenheim, einzelne Zugverbindungen Breisach -Freiburg(Breisgau) - Neustadt(Schwarz))</strong></li>\n\t<li>S61: Radolfzell - Stockach<strong>&nbsp;(einzelne Zugverbindungen)</strong></li>\n\t<li>RS2 / RS21: Ulm - Biberach(Ri&szlig;)<strong> (2-Stunden-Takt)</strong></li>\n</ul>\n\n<p>Immer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen&nbsp;<strong>Streckenagent-APP</strong>&nbsp;immer dabei!</p>\n",
+      "durationBegin": "07.03.2024",
+      "durationEnd": "08.03.2024",
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:5ae7589a-73bb-499b-b2c6-464f324230f6/IRE3_Singen-Lindau_Streik24.pdf",
+          "label": "IRE3_Singen-Lindau_Streik24.pdf (PDF, 387 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:c1a16f87-299c-434e-9d2a-07db76562dba/IRE3_Ulm-Friedrichshafen_Streik24.pdf",
+          "label": "IRE3_Ulm-Friedrichshafen_Streik24.pdf (PDF, 460 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:8b0c0d26-c74f-433c-8567-0d1e75d9286a/IRE6_Aulendorf-Sigmaringen_Streik24.pdf",
+          "label": "IRE6_Aulendorf-Sigmaringen_Streik24.pdf (PDF, 369 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:edb21e00-867f-4e8f-b24a-e78b1b2b3848/IRE200_Ulm-Wendlingen_Streik24.pdf",
+          "label": "IRE200_Ulm-Wendlingen_Streik24.pdf (PDF, 364 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:e27605ed-e4c4-4957-9a09-a0b5bc86731e/RE2_Offenburg-Konstanz_Streik24.pdf",
+          "label": "RE2_Offenburg-Konstanz_Streik24.pdf (PDF, 450 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:81bfe1f7-9e4b-41a2-b178-6fde07fe4aa0/RE5_Stuttgart-Ulm_Streik24.pdf",
+          "label": "RE5_Stuttgart-Ulm_Streik24.pdf (PDF, 376 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:c08cfdef-6191-4511-8eec-5c4220ccdcb8/RE7_Karlsruhe-Offenburg-Freiburg-Basel_Streik24.pdf",
+          "label": "RE7_Karlsruhe-Offenburg-Freiburg-Basel_Streik24.pdf (PDF, 451 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:4357ff08-e788-47e2-a4bb-853990d411b1/RE14_Stuttgart-B%C3%B6blingen_Streik24.pdf",
+          "label": "RE14_Stuttgart-Böblingen_Streik24.pdf (PDF, 430 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:92b761a4-27ba-4cfa-9bc8-7e27fd13e034/RE55_Ulm-Donaueschingen_Streik24.pdf",
+          "label": "RE55_Ulm-Donaueschingen_Streik24.pdf (PDF, 373 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:bce6dd9b-932f-4d9f-a612-4b3e09f54e90/MEX90_Stuttgart-Crailsheim_Streik24.pdf",
+          "label": "MEX90_Stuttgart-Crailsheim_Streik24.pdf (PDF, 491 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:5db6c9bd-2c41-4c0a-b707-7ff67ccf7d48/RB30_Basel-Singen_Streik24.pdf",
+          "label": "RB30_Basel-Singen_Streik24.pdf (PDF, 523 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:660db331-d18e-4422-85ca-0d74f286639c/RB53_Aulendorf-Ki%C3%9Flegg_Streik24.pdf",
+          "label": "RB53_Aulendorf-Kißlegg_Streik24.pdf (PDF, 378 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:633540f0-44d1-4476-8af2-9f26535b482a/RB63_Herrenberg-Bad%20Urach_Streik24.pdf",
+          "label": "RB63_Herrenberg-Bad Urach_Streik24.pdf (PDF, 405 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:3b5986df-564f-4014-9282-71484db210c1/RB74_Pforzheim-T%C3%BCbingen_Streik24.pdf",
+          "label": "RB74_Pforzheim-Tübingen_Streik24.pdf (PDF, 386 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:aefd4e74-5d65-4b75-a658-2d302053df5c/.KBS_727_Breisach-Freiburg-Neustadt_Stand%20190126.pdf",
+          "label": ".KBS_727_Breisach-Freiburg-Neustadt_Stand 190126.pdf (PDF, 380 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:81dccca3-1338-4d96-915b-0cd293bcaeea/S61_Radolfzell-Stockach_Streik24.pdf",
+          "label": "S61_Radolfzell-Stockach_Streik24.pdf (PDF, 374 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "04.03.2024 12:28",
       "expand": false,
       "topDisruption": false
     },
