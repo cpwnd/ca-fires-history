@@ -510,6 +510,38 @@
       "topDisruption": false
     },
     {
+      "id": "804cb505-057e-4064-881d-5faa3b974c64",
+      "disruptionId": "648ac31d-5afe-43ed-bb75-a90cfeb88780",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik angekündigt",
+      "summary": "Der Fern-, Regional- und S-Bahn-Verkehr der DB werden vom 07.03. bis einschließlich 08.03. bundesweit wegen eines Streiks der GDL massiv beeinträchtigt sein.",
+      "text": "<p>Bitte sehen Sie von nicht notwendigen Reisen während des GDL-Streiks ab und verschieben Sie Ihre Reise auf einen anderen Zeitpunkt.</p><p>Während des Streiks bietet die DB ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr an. Das Grundangebot ist über die Fahrplanauskunft auf bahn.de und im DB Navigator abrufbar. Die DB bittet die Reisenden, sich 24 Stunden vor Fahrtantritt zu informieren, ob ihre Verbindung verfügbar ist.</p>",
+      "durationBegin": "04.03.2024",
+      "durationEnd": "08.03.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Aktuelle Betriebslage DB Regio Bayern ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lastModified": "04.03.2024 17:48",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "59a979d9-86ed-42e5-a962-46db3da07103",
       "author": "REGIO_SH",
       "cause": {
@@ -608,38 +640,6 @@
       ],
       "lastModified": "04.03.2024 17:20",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "804cb505-057e-4064-881d-5faa3b974c64",
-      "disruptionId": "648ac31d-5afe-43ed-bb75-a90cfeb88780",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik angekündigt",
-      "summary": "der Fern-, Regional- und S-Bahn-Verkehr der DB werden vom 07.03. bis einschließlich 08.03. bundesweit wegen eines Streiks der GDL massiv beeinträchtigt sein.",
-      "text": "<p>Bitte sehen Sie von nicht notwendigen Reisen während des GDL-Streiks ab und verschieben Sie Ihre Reise auf einen anderen Zeitpunkt.</p><p>Während des Streiks bietet die DB ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr an. Das Grundangebot ist über die Fahrplanauskunft auf bahn.de und im DB Navigator abrufbar. Die DB bittet die Reisenden, sich 24 Stunden vor Fahrtantritt zu informieren, ob ihre Verbindung verfügbar ist.</p>",
-      "durationBegin": "04.03.2024",
-      "durationEnd": "08.03.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
-          "label": "Aktuelle Betriebslage DB Regio Bayern ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lastModified": "04.03.2024 17:18",
-      "expand": true,
       "topDisruption": false
     },
     {
