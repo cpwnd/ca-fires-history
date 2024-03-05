@@ -853,6 +853,31 @@
       "topDisruption": false
     },
     {
+      "id": "e66eed79-06bd-49e4-8035-5c7048dabb6f",
+      "disruptionId": "cf0fcf34-49ea-4fdf-8cec-c1bd7014375e",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Ausfallender Frühzug S 4 Eilenburg Ost - Markkleeberg-Gaschwitz",
+      "summary": "Auf der Linie S 4 kommt es bei folgenden Frühzügen zu Teilausfällen.",
+      "text": "<ul><li>37401, fällt ab 04:30 Uhr ab Eilenburg Ost leider aus</li><li>37404, fällt ab Markkleeberg-Gaschwitz aus und beginnt 05:48 Uhr in Leipzig Hbf</li></ul><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "06.02.2024",
+      "durationEnd": "02.04.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lastModified": "05.03.2024 08:59",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "22832e86-8ac1-4dca-8f13-29c6475de5a4",
       "author": "REGIO_BW",
       "cause": {
@@ -997,31 +1022,6 @@
       ],
       "lastModified": "29.02.2024 10:34",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "e66eed79-06bd-49e4-8035-5c7048dabb6f",
-      "disruptionId": "cf0fcf34-49ea-4fdf-8cec-c1bd7014375e",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Ausfallender Frühzug S 4 Eilenburg Ost - Markkleeberg-Gaschwitz",
-      "summary": "",
-      "text": "<p><strong>(Teil-) Ausfall einzelner S 4</strong></p><ul><li>37401, ab 04:30 Uhr ab Eilenburg Ost <strong>fällt leider aus</strong></li><li>37404, ab Markkleeberg-Gaschwitz <strong>beginnt 05:48 Uhr in Leipzig Hbf</strong></li></ul><p>﻿Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p><p><strong>﻿</strong></p>",
-      "durationBegin": "06.02.2024",
-      "durationEnd": "02.04.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lastModified": "07.02.2024 15:43",
-      "expand": true,
       "topDisruption": false
     },
     {
