@@ -710,6 +710,44 @@
       "topDisruption": false
     },
     {
+      "id": "c2e2d80d-443c-4d1d-8db1-1f6f9f880132",
+      "disruptionId": "81dba8cf-b5eb-4e24-bb29-0e652061dadc",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.3. bis 8.3. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB vom 07.03. bis 08.03. bundesweit zum Streik aufgerufen. Während des Streiks bietet die DB ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr an. Wir empfehlen, im Fernverkehr einen Sitzplatz zu reservieren. Das Grundangebot ist über die Fahrplanauskunft auf bahn.de und im DB Navigator abrufbar. Die DB bittet die Reisenden, sich 24 Stunden vor Fahrtantritt zu informieren, ob ihre Verbindung verfügbar ist.",
+      "text": "<p>Die Züge der S-Bahn Stuttgart fahren in einem massiv eingeschränkten Fahrplan. Auf der nachfragestärksten Linie S1 sollen die S-Bahnen in einem stündlichen Grundangebot fahren.</p><p>Die Züge der <strong>S1</strong> verkehren zwischen Kirchheim (Teck) und Stuttgart-Vaihingen. Auf dem südlichen Streckenabschnitt soll am Donnerstag (bis etwa 20 Uhr) und am Freitag zwischen Stuttgart Schwabstraße und Ehningen jeweils über Stuttgart-Zuffenhausen ebenfalls jede Stunde ein Zug der <strong>S60 </strong>fahren. Zwischen Stuttgart-Vaihingen und Herrenberg ersetzen aktuell Busse die Züge wegen des Ausbaus für den Digitalen Knoten Stuttgart (DKS) im Bereich Stuttgart-Vaihingen sowie der Erneuerung des Würmtalviadukts in Ehningen. Die Busse der <strong>Linie S1E </strong>fahren planmäßig.</p><p>Die geplanten Abfahrten bei den Zügen der S1 sind jeweils zur Minute .20 in Kirchheim (Teck) und zur Minute .40 in Stuttgart-Vaihingen, sowie bei den S-Bahnen der S60 jeweils zur Minute .27 ab Stuttgart Schwabstraße und in der Gegenrichtung zur Minute .55 ab Ehningen.</p><p>Am Freitagnachmittag fährt die S-Bahn das Zugangebot auf den Linien S2 bis S6 schrittweise wieder hoch, sobald die abgestellten Züge aus den Außenanlagen starten können. Aufgrund des Streiks beginnen die Triebfahrzeugführer:innen ihre Schichten überwiegend abweichend von ihrer ursprünglich geplanten Tour. Ab etwa 16 Uhr sollen die S-Bahnen auf allen Linien im Halbstundentakt fahren. Wir bitten unsere Fahrgäste auch nach Streikende, die Verbindungen in den elektronischen Fahrplanmedien zu überprüfen, da es streikbedingt noch zu weiteren Zugausfällen kommen kann. Besucher:innen des Spiels der Fußball-Bundesliga zwischen dem<strong> VfB Stuttgart und Union Berlin</strong>, die mit der S-Bahn an- und abreisen, empfehlen wir, frühzeitig loszufahren und auch mehr Zeit für die Rückfahrt einzuplanen. Die S-Bahn plant, dass die Züge der <strong>S1 über Neckarpark bis 19 Uhr im 15-Minuten-Takt </strong>fahren. Nach Spielschluss soll ab Neckarpark auch <strong>jeweils zusätzlich eine S-Bahn-Sonderfahrt</strong> sowohl in Richtung Wendlingen (Neckar) als auch in Richtung Stuttgart-Vaihingen starten.</p><p><strong>Regelung für vom Streik betroffene Reisende:</strong></p><p>Alle Fahrgäste, die bis einschließlich&nbsp;04.03.2024 ein Ticket für eine Reise im Zeitraum vom&nbsp;07.03.2024 bis&nbsp;08.03.2024 gekauft haben und diese aufgrund&nbsp;des GDL-Streiks verschieben möchten, können ihr&nbsp;Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.</p><p>Zudem haben Fahrgäste im Rahmen einer Sonderkulanz auch die Möglichkeit, ihre Reise vorzuverlegen und ab sofort zu fahren.</p><p>Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.03.2024",
+      "durationEnd": "08.03.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/info/sonderkulanz",
+          "label": "Informationen zur Reisen während des GDL-Streiks",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de/fahrgastrechte",
+          "label": "Allgemeine Informationen für die Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "07.03.2024 14:06",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "4ddd7dcd-e8e9-47dc-bc61-134db26ed19b",
       "author": "S_BAHN_RM",
       "cause": {
@@ -1113,44 +1151,6 @@
       ],
       "lastModified": "07.03.2024 03:56",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "c2e2d80d-443c-4d1d-8db1-1f6f9f880132",
-      "disruptionId": "81dba8cf-b5eb-4e24-bb29-0e652061dadc",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik: Fern-, Regional- und S-Bahn-Verkehr der DB vom 7.3. bis 8.3. bundesweit massiv beeinträchtigt",
-      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB vom 07.03. bis 08.03. bundesweit zum Streik aufgerufen. Während des Streiks bietet die DB ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr an. Wir empfehlen, im Fernverkehr einen Sitzplatz zu reservieren. Das Grundangebot ist über die Fahrplanauskunft auf bahn.de und im DB Navigator abrufbar. Die DB bittet die Reisenden, sich 24 Stunden vor Fahrtantritt zu informieren, ob ihre Verbindung verfügbar ist.",
-      "text": "<p>Die Züge der S-Bahn Stuttgart fahren in einem massiv eingeschränkten Fahrplan. Auf der nachfragestärksten Linie S1 sollen die S-Bahnen in einem stündlichen Grundangebot fahren. </p><p>Die Züge der <strong>S1</strong> verkehren zwischen Kirchheim (Teck) und Stuttgart-Vaihingen. Auf dem südlichen Streckenabschnitt soll am Donnerstag (bis etwa 20 Uhr) und am Freitag zwischen Stuttgart Schwabstraße und Ehningen jeweils über Stuttgart-Zuffenhausen ebenfalls jede Stunde ein Zug der <strong>S60 </strong>fahren. Zwischen Stuttgart-Vaihingen und Herrenberg ersetzen aktuell Busse die Züge wegen des Ausbaus für den Digitalen Knoten Stuttgart (DKS) im Bereich Stuttgart-Vaihingen sowie der Erneuerung des Würmtalviadukts in Ehningen. Die Busse der <strong>Linie S1E </strong>fahren planmäßig.</p><p>Die geplanten Abfahrten bei den Zügen der S1 sind jeweils zur Minute .20 in Kirchheim (Teck) und zur Minute .40 in Stuttgart-Vaihingen, sowie bei den S-Bahnen der S60 jeweils zur Minute .27 ab Stuttgart Schwabstraße und in der Gegenrichtung zur Minute .55 ab Ehningen.</p><p>Die S-Bahn plant am Freitag nach Streikende ab etwa 15.00 Uhr auf allen Linien wieder das Zugangebot zum planmäßigen 15-Minuten-Takt hochzufahren. Es kann streikbedingt noch zu einzelnen Abweichungen kommen.</p><p><strong>Regelung für vom Streik betroffene Reisende:</strong></p><p>Alle Fahrgäste, die bis einschließlich&nbsp;04.03.2024 ein Ticket für eine Reise im Zeitraum vom&nbsp;07.03.2024 bis&nbsp;08.03.2024 gekauft haben und diese aufgrund&nbsp;des GDL-Streiks verschieben möchten, können ihr&nbsp;Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben. Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden.</p><p>Zudem haben Fahrgäste im Rahmen einer Sonderkulanz auch die Möglichkeit, ihre Reise vorzuverlegen und ab sofort zu fahren.</p><p>Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "04.03.2024",
-      "durationEnd": "08.03.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/info/sonderkulanz",
-          "label": "Informationen zur Reisen während des GDL-Streiks",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de/fahrgastrechte",
-          "label": "Allgemeine Informationen für die Fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "07.03.2024 02:01",
-      "expand": true,
       "topDisruption": false
     },
     {
