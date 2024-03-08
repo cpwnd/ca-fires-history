@@ -746,6 +746,38 @@
       "topDisruption": false
     },
     {
+      "id": "eefbce72-ef1d-49f2-a626-e3a481fafd2e",
+      "disruptionId": "3da9d356-eecb-4919-82e7-21f142349503",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik",
+      "summary": "Fern-, Regional- und S-Bahn-Verkehr der DB vom 07.03. bis 08.03. bundesweit massiv beeinträchtigt",
+      "text": "<p>Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB vom 07.03. bis 08.03. bundesweit zum Streik aufgerufen. Während des Streiks bietet die DB ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr an.</p><p>Das Grundangebot ist über die Fahrplanauskunft auf bahn.de und im DB Navigator abrufbar. Bitte beachten Sie, dass es auch beim Grundangebot jederzeit zu kurzfristigen Fahrplanänderungen kommen kann.</p><p>Nach dem Streikende kommt es im Regional- und S-Bahnverkehr in der Region Bayern noch bis Tagesende zu massiven Beeinträchtigungen.</p><p>Wenn Sie sich telefonisch über die aktuelle Verkehrslage und die Auswirkungen des Streiks der GDL auf den Bahnverkehr informieren möchten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verfügung. </p><p>Die kostenfreie Hotline erreichen Sie unter der Nummer 08000-996633.</p>",
+      "durationBegin": "07.03.2024",
+      "durationEnd": "08.03.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Aktuelle Betriebslage DB Regio Bayern ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lastModified": "08.03.2024 11:28",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "798c706b-31cc-4521-97ee-fca53be0b40e",
       "author": "REGIO_SH",
       "cause": {
@@ -981,38 +1013,6 @@
       ],
       "lastModified": "08.03.2024 06:22",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "eefbce72-ef1d-49f2-a626-e3a481fafd2e",
-      "disruptionId": "3da9d356-eecb-4919-82e7-21f142349503",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik",
-      "summary": "Fern-, Regional- und S-Bahn-Verkehr der DB vom 07.03. bis 08.03. bundesweit massiv beeinträchtigt",
-      "text": "<p>Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB vom 07.03. bis 08.03. bundesweit zum Streik aufgerufen. Während des Streiks bietet die DB ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr an.</p><p>Das Grundangebot ist über die Fahrplanauskunft auf bahn.de und im DB Navigator abrufbar. Bitte beachten Sie, dass es auch beim Grundangebot jederzeit zu kurzfristigen Fahrplanänderungen kommen kann.</p><p>Nach dem Streikende kommt es im Regional- und S-Bahnverkehr in der Region Bayern noch bis Tagesende zu massiven Beeinträchtigungen.</p><p>Wenn Sie sich telefonisch über die aktuelle Verkehrslage und die Auswirkungen des Streiks der GDL auf den Bahnverkehr informieren möchten, stehen Ihnen unsere Servicemitarbeiter gerne zur Verfügung. Die kostenfreie Hotline erreichen Sie unter der Nummer 08000-996633.</p>",
-      "durationBegin": "07.03.2024",
-      "durationEnd": "08.03.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
-          "label": "Aktuelle Betriebslage DB Regio Bayern ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lastModified": "07.03.2024 19:10",
-      "expand": true,
       "topDisruption": false
     },
     {
