@@ -2,6 +2,61 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "41b4f18b-6836-412c-a534-d3122dc95ff5",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustellenbedingter Ersatzverkehr in Hofheim(Ried)",
+      "summary": "<strong>Aufgrund einer Baustelle k&ouml;nnen die Ersatzverkehrbusse den Halt Hofheim(Ried) nicht direkt anfahren.</strong><br />\nDie Ersatzhaltestelle ist:<strong> Lampertheim-Rosengarten Niebelungenstra&szlig;e</strong>.<br />\nUm den geplanten Ersatzverkehr weiterhin zu erreichen, haben wir f&uuml;r Sie einen zus&auml;tzlichen Bus zw. Rosengarten, Niebelungenstr. und Hofheim(Ried) eingerichet.<br />\nWegen technischer Einschr&auml;nkungen kann die neue Busverbindung vor&uuml;bergehen nicht in den Online-Auskunftsmedien angezeigt werden.<br />\n<br />\nDen neuen Ersatzfahrplan finden Sie weiter unten.",
+      "text": "<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:5c4ce213-6d53-4bb6-8abf-dbead391f842/Ersatzverkehr%20Bensheim%20-%20Hofheim%20(Worms)%20-%20Bensheim.pdf",
+          "label": "Ersatzverkehr Bensheim - Hofheim (Worms) - Bensheim.pdf (PDF, 680 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "HE"
+      ],
+      "lastModified": "10.03.2024 16:59",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "58736ed3-e747-4c84-b864-3ae2ec464e80",
       "author": "REGIO_NI_HB",
       "cause": {
