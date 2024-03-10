@@ -11,9 +11,9 @@
       },
       "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB am Dienstag, 12.03. bundesweit massiv beeinträchtigt",
       "summary": "Die GDL hat zu Streikmaßnahmen am Dienstag, 12.03.2024 aufgerufen. Während des Streiks wird die DB erneut ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr realisieren.",
-      "text": "<p>Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht. Darüber hinaus wird die DB heute im Laufe des Abends eine kostenlose Sonderhotline unter 08000 99 66 33 einrichten.&nbsp;</p><strong><strong>Gültigkeit der Tickets</strong></strong><p>Alle Fahrgäste, die bis einschließlich 10.03.2024 ein Ticket für eine Reise 12.03.2024 gekauft haben und diese aufgrund des GDL-Streiks verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben.&nbsp;&nbsp;Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden. Zudem haben Fahrgäste (im Fernverkehr) im Rahmen einer Sonderkulanz auch die Möglichkeit, ihre Reise vorzuverlegen und bereits am Montag, 11.03.2024 früher zu fahren.&nbsp;&nbsp;</p><p>Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "11.03.2024",
-      "durationEnd": "13.03.2024",
+      "text": "<p>Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht. Darüber hinaus hat die DB eine kostenlose Sonderhotline unter 08000 99 66 33 eingerichtet.&nbsp;</p><strong><strong>Gültigkeit der Tickets</strong></strong><p>Alle Fahrgäste, die bis einschließlich 10.03.2024 ein Ticket für eine Reise 12.03.2024 gekauft haben und diese aufgrund des GDL-Streiks verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben.&nbsp;&nbsp;Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden. Zudem haben Fahrgäste (im Fernverkehr) im Rahmen einer Sonderkulanz auch die Möglichkeit, ihre Reise vorzuverlegen und bereits am Montag, 11.03.2024 früher zu fahren.&nbsp;&nbsp;</p><p>Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator oder telefonisch bei der Sonderhotline unter 08000 99 66 33.</p>",
+      "durationBegin": "12.03.2024",
+      "durationEnd": "12.03.2024",
       "downloads": [],
       "links": [
         {
@@ -50,8 +50,35 @@
         "SH",
         "TH"
       ],
-      "lastModified": "10.03.2024 21:39",
+      "lastModified": "10.03.2024 21:58",
       "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "cbef8807-2b90-4d3b-b730-38f7635bcab3",
+      "disruptionId": "ad57c878-3a4f-47f3-a31e-7530041427a3",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB 12.03. - 13.03. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB 12.03. bis 13.03. 2 Uhr bundesweit kurzfristig zum Streik aufgerufen. ",
+      "text": "<p>Während des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht. Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verfügbar ist.</p>",
+      "durationBegin": "12.03.2024",
+      "durationEnd": "13.03.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "TH",
+        "SN"
+      ],
+      "lastModified": "10.03.2024 22:12",
+      "expand": false,
       "topDisruption": false
     },
     {
@@ -356,6 +383,48 @@
       "topDisruption": false
     },
     {
+      "id": "b6077280-45ed-4eb2-81bc-dc2adc8891bf",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "strike",
+        "label": "Streikauswirkungen"
+      },
+      "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB 12.03. - 13.03. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivf&uuml;hrer) hat ihre Mitglieder in den Betrieben der DB 12.03. bis 13.03. 2 Uhr bundesweit kurzfristig zum Streik aufgerufen. W&auml;hrend des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator ver&ouml;ffentlicht. Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verf&uuml;gbar ist.",
+      "text": "<p><strong>Informationen zu den Kulanzregelungen und der kostenlosen Sonderhotline entnehmen Sie bitte der &uuml;bergeordneten Meldung.</strong></p>\n\n<p>Die Reiseauskunft wird st&auml;ndig aktualisiert. Bitte informieren Sie sich daher unmittelbar vor Reiseantritt noch einmal &uuml;ber die <strong>tats&auml;chlichen Fahrzeiten der Z&uuml;ge und Busse</strong>&nbsp;in der Reiseauskunft auf bahn.de bzw. vbb.de, im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "Reiseauskunft bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.vbb.de/fahrinformation/vbb-apps/vbb-app-bus-bahn/",
+          "label": "VBB-App \"Bus&Bahn\"",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lastModified": "10.03.2024 22:03",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -414,6 +483,98 @@
       ],
       "lastModified": "28.12.2023 15:36",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "c97fe120-f8a9-458b-836c-3f0d21b1b40a",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "strike",
+        "label": "Streikauswirkungen"
+      },
+      "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB 12.3. - 13.3. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivf&uuml;hrer) hat ihre Mitglieder in den Betrieben der DB 12.3. bis 13.3. 2 Uhr bundesweit kurzfristig zum Streik aufgerufen. W&auml;hrend des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator ver&ouml;ffentlicht. Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verf&uuml;gbar ist.",
+      "text": "<p><strong>Informationen zu den Kulanzregelungen und der kostenlosen Sonderhotline entnehmen Sie bitte der &uuml;bergeordneten Meldung.</strong></p>\n\n<p>Die Reiseauskunft wird st&auml;ndig aktualisiert. Bitte informieren Sie sich daher unmittelbar vor Reiseantritt noch einmal &uuml;ber die <strong>tats&auml;chlichen Fahrzeiten der Z&uuml;ge und Busse</strong> in der Reiseauskunft unter bahn.de oder im&nbsp;DB Navigator.</p>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "Reiseauskunft bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "MV"
+      ],
+      "lastModified": "10.03.2024 22:11",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "6b73fe3e-dc4f-4148-a084-61ec8c649816",
+      "disruptionId": "4dd0de1b-facd-4426-b909-c7ab83dea154",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB 12.3. - 13.3. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB 12.03. 2 Uhr bis 13.03. 2 Uhr bundesweit kurzfristig zum Streik aufgerufen. ",
+      "text": "<p>Während des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht. Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verfügbar ist.</p>",
+      "durationBegin": "10.03.2024",
+      "durationEnd": "13.03.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Aktuelle Betriebslage DB Regio Bayern ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lastModified": "10.03.2024 22:06",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "f15783e8-f54b-4710-8356-12a2e8d41b90",
+      "disruptionId": "970df24e-9cf4-4b35-9ba0-9d74de3256f7",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB 12.3. - 13.3. bundesweit massiv beeinträchtigt",
+      "summary": "GDL-Streik kurzfristig angekündigt. Massive Beeinträchtigungen erwartet.",
+      "text": "<p>Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB 12.03. bis 13.03. 2 Uhr bundesweit kurzfristig zum Streik aufgerufen. </p><p>Während des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht. </p><p>Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verfügbar ist.</p><p>Weitere Informationen folgen</p>",
+      "durationBegin": "12.03.2024",
+      "durationEnd": "13.03.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "10.03.2024 22:02",
+      "expand": true,
       "topDisruption": false
     },
     {
