@@ -2,6 +2,59 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "8e75f98b-a7a0-4d50-ab62-47b0150f750b",
+      "disruptionId": "9941c989-b597-4ec0-ba34-620398fd0e87",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "strike",
+        "label": "Streikauswirkungen"
+      },
+      "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB am Dienstag, 12.03. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL hat zu Streikmaßnahmen am Dienstag, 12.03.2024 aufgerufen. Während des Streiks wird die DB erneut ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr realisieren.",
+      "text": "<p>Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht. Darüber hinaus wird die DB heute im Laufe des Abends eine kostenlose Sonderhotline unter 08000 99 66 33 einrichten.&nbsp;</p><strong><strong>Gültigkeit der Tickets</strong></strong><p>Alle Fahrgäste, die bis einschließlich 10.03.2024 ein Ticket für eine Reise 12.03.2024 gekauft haben und diese aufgrund des GDL-Streiks verschieben möchten, können ihr Ticket zu einem späteren Zeitpunkt nutzen. Die Zugbindung ist aufgehoben.&nbsp;&nbsp;Das Ticket gilt dabei für die Fahrt zum ursprünglichen Zielort auch mit einer geänderten Streckenführung. Sitzplatzreservierungen können kostenfrei storniert werden. Zudem haben Fahrgäste (im Fernverkehr) im Rahmen einer Sonderkulanz auch die Möglichkeit, ihre Reise vorzuverlegen und bereits am Montag, 11.03.2024 früher zu fahren.&nbsp;&nbsp;</p><p>Daneben gelten die weiteren tariflichen bzw. gesetzlichen Fahrgastrechte, sodass z. B. auch eine Ticketerstattung unter den entsprechenden Voraussetzungen möglich ist.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "11.03.2024",
+      "durationEnd": "13.03.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/info/sonderkulanz",
+          "label": "Sonderkulanz",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lastModified": "10.03.2024 21:39",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "41b4f18b-6836-412c-a534-d3122dc95ff5",
       "author": "REGIO_MITTE",
       "cause": {
