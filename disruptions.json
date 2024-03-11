@@ -532,7 +532,7 @@
       "author": "REGIO_NORDOST",
       "cause": {
         "category": "strike",
-        "label": "Streikauswirkungen"
+        "label": "Streik"
       },
       "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB am Dienstag, 12.03. bundesweit massiv beeinträchtigt",
       "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivf&uuml;hrer) hat ihre Mitglieder in den Betrieben der DB am Dienstag, 12.03. bundesweit kurzfristig zum Streik aufgerufen. W&auml;hrend des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator ver&ouml;ffentlicht. Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verf&uuml;gbar ist.<br />\n<br />\n<strong>Im Verlauf des 11.3. (Montag), werden wir hier an dieser Stelle &uuml;ber das geplante Grundangebot von DB Regio informieren.&nbsp;</strong>",
@@ -565,7 +565,7 @@
         "BB",
         "BE"
       ],
-      "lastModified": "10.03.2024 22:19",
+      "lastModified": "11.03.2024 11:20",
       "expand": false,
       "topDisruption": false
     },
@@ -643,7 +643,20 @@
       "text": "<p>Während des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht. Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verfügbar ist.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator oder telefonisch bei der Sonderhotline unter 08000 99 66 33.</p>",
       "durationBegin": "10.03.2024",
       "durationEnd": "13.03.2024",
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2024-03-11/c4f39a63-abdb-43cf-a295-89bfdaae4ca3949_Traunstein-Traunreut_Streik_120324.pdf",
+          "label": "949_Traunstein-Traunreut_Streik_120324.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2024-03-11/019a3adb-bdf8-44fb-865f-d4d37d5de0d7959_Traunstein-Waging_Streik_120324.pdf",
+          "label": "959_Traunstein-Waging_Streik_120324.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [
         {
           "href": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
@@ -658,8 +671,43 @@
       "states": [
         "BY"
       ],
-      "lastModified": "11.03.2024 11:16",
+      "lastModified": "11.03.2024 11:31",
       "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "c97fe120-f8a9-458b-836c-3f0d21b1b40a",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB am Dienstag, 12.03. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivf&uuml;hrer) hat ihre Mitglieder in den Betrieben der DB am Dienstag, 12.03. bundesweit kurzfristig zum Streik aufgerufen. W&auml;hrend des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator ver&ouml;ffentlicht. Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verf&uuml;gbar ist.<br />\n<br />\n<strong>Im Verlauf des 11.3. (Montag), werden wir hier an dieser Stelle &uuml;ber das geplante Grundangebot von DB Regio informieren.&nbsp;</strong>",
+      "text": "<p><strong>Informationen zu den Kulanzregelungen und der kostenlosen Sonderhotline entnehmen Sie bitte der &uuml;bergeordneten Meldung.</strong></p>\n\n<p>Die Reiseauskunft wird st&auml;ndig aktualisiert. Bitte informieren Sie sich daher unmittelbar vor Reiseantritt noch einmal &uuml;ber die <strong>tats&auml;chlichen Fahrzeiten der Z&uuml;ge und Busse</strong> in der Reiseauskunft unter bahn.de oder im&nbsp;DB Navigator.</p>\n",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "Reiseauskunft bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "MV"
+      ],
+      "lastModified": "11.03.2024 11:20",
+      "expand": false,
       "topDisruption": false
     },
     {
@@ -899,41 +947,6 @@
         "HE"
       ],
       "lastModified": "10.03.2024 22:45",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "c97fe120-f8a9-458b-836c-3f0d21b1b40a",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "strike",
-        "label": "Streikauswirkungen"
-      },
-      "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB am Dienstag, 12.03. bundesweit massiv beeinträchtigt",
-      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivf&uuml;hrer) hat ihre Mitglieder in den Betrieben der DB am Dienstag, 12.03. bundesweit kurzfristig zum Streik aufgerufen. W&auml;hrend des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator ver&ouml;ffentlicht. Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verf&uuml;gbar ist.<br />\n<br />\n<strong>Im Verlauf des 11.3. (Montag), werden wir hier an dieser Stelle &uuml;ber das geplante Grundangebot von DB Regio informieren.&nbsp;</strong>",
-      "text": "<p><strong>Informationen zu den Kulanzregelungen und der kostenlosen Sonderhotline entnehmen Sie bitte der &uuml;bergeordneten Meldung.</strong></p>\n\n<p>Die Reiseauskunft wird st&auml;ndig aktualisiert. Bitte informieren Sie sich daher unmittelbar vor Reiseantritt noch einmal &uuml;ber die <strong>tats&auml;chlichen Fahrzeiten der Z&uuml;ge und Busse</strong> in der Reiseauskunft unter bahn.de oder im&nbsp;DB Navigator.</p>\n",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "Reiseauskunft bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "MV"
-      ],
-      "lastModified": "10.03.2024 22:20",
       "expand": false,
       "topDisruption": false
     },
