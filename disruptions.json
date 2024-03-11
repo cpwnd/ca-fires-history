@@ -227,32 +227,6 @@
       "topDisruption": false
     },
     {
-      "id": "6521cf5a-3c63-4750-b6f8-5cb272f86d43",
-      "disruptionId": "03ea3de8-f1f3-4788-805f-da8f4805e643",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Aschaffenburg",
-      "summary": "Aufgrund von Bauarbeiten zwischen Frankfurt(M) und Aschaffenburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Haltausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Frankfurt(M) und Würzburg</li><li>ICE Züge zwischen Frankfurt(M) Flughafen Fernbf und Würzburg</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "11.03.2024",
-      "durationEnd": "11.03.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "HE"
-      ],
-      "lastModified": "10.03.2024 22:52",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "41b4f18b-6836-412c-a534-d3122dc95ff5",
       "author": "REGIO_MITTE",
       "cause": {
@@ -657,6 +631,38 @@
       "topDisruption": false
     },
     {
+      "id": "8f639fc6-27de-43c2-84e4-4afbf9035ec3",
+      "disruptionId": "e3f767c5-ec74-43cc-a555-c72ebe187522",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Südostbayernbahn\nGDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB am Dienstag, 12.03. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB am Dienstag, 12.03. bundesweit kurzfristig zum Streik aufgerufen.",
+      "text": "<p>Während des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht. Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verfügbar ist.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator oder telefonisch bei der Sonderhotline unter 08000 99 66 33.</p>",
+      "durationBegin": "10.03.2024",
+      "durationEnd": "13.03.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
+          "label": "Aktuelle Betriebslage Südostbayernbahn",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lastModified": "11.03.2024 11:16",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "6b73fe3e-dc4f-4148-a084-61ec8c649816",
       "disruptionId": "4dd0de1b-facd-4426-b909-c7ab83dea154",
       "author": "REGIO_BY",
@@ -672,6 +678,18 @@
       "downloads": [],
       "links": [
         {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/info/sonderkulanz",
+          "label": "Sonderkulanz ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
           "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
           "label": "Aktuelle Betriebslage DB Regio Bayern ",
           "info": "",
@@ -684,7 +702,45 @@
       "states": [
         "BY"
       ],
-      "lastModified": "11.03.2024 10:01",
+      "lastModified": "11.03.2024 11:09",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "f15783e8-f54b-4710-8356-12a2e8d41b90",
+      "disruptionId": "970df24e-9cf4-4b35-9ba0-9d74de3256f7",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB 12.03. bundesweit massiv beeinträchtigt",
+      "summary": "GDL-Streik kurzfristig angekündigt. \nDie Züge der S-Bahn Stuttgart fahren in einem massiv eingeschränkten Fahrplan. Auf der nachfragestärksten Linie S1 sollen die S-Bahnen in einem stündlichen Grundangebot fahren. Die Züge der S1 verkehren zwischen Kirchheim (Teck) und Stuttgart-Vaihingen.\n\nAuf dem südlichen Streckenabschnitt verkehrt die Linie S60 bis etwa 20 Uhr zwischen Stuttgart Schwabstraße und Ehningen jeweils über Stuttgart-Zuffenhausen ebenfalls stündlich.",
+      "text": "<p>Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB 12.03. kurzfristig zum Streik aufgerufen.</p><p>Während des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht.</p><p>Die Züge der S-Bahn Stuttgart fahren in einem massiv eingeschränkten Fahrplan. Auf der nachfragestärksten&nbsp;Linie S1&nbsp;sollen die S-Bahnen in einem&nbsp;<strong>stündlichen Grundangebot</strong>&nbsp;fahren. Die<strong> Züge der S1</strong> verkehren zwischen Kirchheim (Teck) und Stuttgart-Vaihingen.</p><p>Auf dem südlichen Streckenabschnitt verkehrt&nbsp;die Linie S60&nbsp;bis etwa 20 Uhr zwischen Stuttgart Schwabstraße und Ehningen jeweils über Stuttgart-Zuffenhausen ebenfalls<strong>&nbsp;stündlich</strong>.</p><p>Zwischen Stuttgart-Vaihingen und Herrenberg ersetzen aktuell Busse die Züge wegen des Ausbaus für den Digitalen Knoten Stuttgart (DKS) im Bereich Stuttgart-Vaihingen sowie der Erneuerung des Würmtalviadukts in Ehningen. Die&nbsp;<strong>Busse der Linie S1E fahren planmäßig.</strong></p><p>Die geplanten Abfahrten bei den Zügen der S1 sind jeweils zur Minute .20 in Kirchheim (Teck) und zur Minute .40 in Stuttgart-Vaihingen, sowie bei den S-Bahnen der S60 jeweils zur Minute .27 ab Stuttgart Schwabstraße und in der Gegenrichtung zur Minute .55 ab Ehningen.</p><p>Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verfügbar ist.</p>",
+      "durationBegin": "12.03.2024",
+      "durationEnd": "13.03.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/info/sonderkulanz",
+          "label": "Sonderkulanz",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lastModified": "11.03.2024 11:04",
       "expand": true,
       "topDisruption": false
     },
@@ -752,38 +808,6 @@
         "SH"
       ],
       "lastModified": "11.03.2024 09:54",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "8f639fc6-27de-43c2-84e4-4afbf9035ec3",
-      "disruptionId": "e3f767c5-ec74-43cc-a555-c72ebe187522",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Südostbayernbahn\nGDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB am Dienstag, 12.03. bundesweit massiv beeinträchtigt",
-      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB am Dienstag, 12.03. bundesweit kurzfristig zum Streik aufgerufen.",
-      "text": "<p>Während des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht. Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verfügbar ist.&nbsp;</p>",
-      "durationBegin": "10.03.2024",
-      "durationEnd": "13.03.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.suedostbayernbahn.de/fahrplan/newsticker",
-          "label": "Aktuelle Betriebslage Südostbayernbahn",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lastModified": "11.03.2024 09:10",
       "expand": true,
       "topDisruption": false
     },
@@ -876,31 +900,6 @@
       ],
       "lastModified": "10.03.2024 22:45",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "f15783e8-f54b-4710-8356-12a2e8d41b90",
-      "disruptionId": "970df24e-9cf4-4b35-9ba0-9d74de3256f7",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB 12.03. bundesweit massiv beeinträchtigt",
-      "summary": "GDL-Streik kurzfristig angekündigt. Massive Beeinträchtigungen erwartet.",
-      "text": "<p>Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB 12.03. kurzfristig zum Streik aufgerufen.</p><p>Während des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot wird schrittweise in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht.</p><p>Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verfügbar ist.</p><p>Weitere Informationen folgen</p>",
-      "durationBegin": "12.03.2024",
-      "durationEnd": "13.03.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lastModified": "10.03.2024 22:21",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -1104,8 +1103,8 @@
           "openInNewTab": true
         },
         {
-          "href": "https://assets.static-bahn.de/dam/jcr:aa6b401c-4e76-4b69-9897-4c0ce8d0846c/RE7_Karlsruhe-Offenburg-Freiburg-Basel_Streik24%20(1).pdf",
-          "label": "RE7: Karlsruhe-Offenburg-Freiburg(Breisgau)-Basel (PDF, 538 KB)",
+          "href": "https://assets.static-bahn.de/dam/jcr:ff92d7ba-d17c-4b8f-804a-478c09b7f6f9/RE7_Karlsruhe-Offenburg-Freiburg-Basel_Streik24_2.pdf",
+          "label": "RE7: Karlsruhe-Offenburg-Freiburg(Breisgau)-Basel (PDF, 387 KB)",
           "info": "",
           "openInNewTab": true
         },
@@ -1165,7 +1164,7 @@
       "states": [
         "BW"
       ],
-      "lastModified": "11.03.2024 09:08",
+      "lastModified": "11.03.2024 10:45",
       "expand": false,
       "topDisruption": false
     },
