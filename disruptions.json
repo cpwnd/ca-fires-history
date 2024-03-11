@@ -731,6 +731,50 @@
       "topDisruption": false
     },
     {
+      "id": "6b73fe3e-dc4f-4148-a084-61ec8c649816",
+      "disruptionId": "4dd0de1b-facd-4426-b909-c7ab83dea154",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB am Dienstag, 12.03. bundesweit massiv beeinträchtigt",
+      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB am Dienstag, 12.03. bundesweit kurzfristig zum Streik aufgerufen.",
+      "text": "<p>Das Grundangebot der DB Regio Bayern für Dienstag, 12. März kann ab sofort in der Fahrplanauskunft abgerufen werden. Bitte beachten Sie, dass es auch beim Grundangebot jederzeit zu kurzfristigen Fahrplanänderungen kommen kann.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator oder telefonisch bei der Sonderhotline unter 08000 99 66 33.</p>",
+      "durationBegin": "10.03.2024",
+      "durationEnd": "13.03.2024",
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/info/sonderkulanz",
+          "label": "Sonderkulanz ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Aktuelle Betriebslage DB Regio Bayern ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lastModified": "11.03.2024 21:35",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "43632144-81d1-41a1-8f99-c0890f1b7db6",
       "author": "REGIO_HE",
       "cause": {
@@ -1094,50 +1138,6 @@
         "BW"
       ],
       "lastModified": "11.03.2024 13:01",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "6b73fe3e-dc4f-4148-a084-61ec8c649816",
-      "disruptionId": "4dd0de1b-facd-4426-b909-c7ab83dea154",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB am Dienstag, 12.03. bundesweit massiv beeinträchtigt",
-      "summary": "Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB am Dienstag, 12.03. bundesweit kurzfristig zum Streik aufgerufen.",
-      "text": "<p>Das Grundangebot der DB Regio Bayern für Dienstag, 12. März kann ab sofort in der Fahrplanauskunft abgerufen werden. Bitte beachten Sie, dass es auch beim Grundangebot jederzeit zu kurzfristigen Fahrplanänderungen kommen kann.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator oder telefonisch bei der Sonderhotline unter 08000 99 66 33.</p>",
-      "durationBegin": "10.03.2024",
-      "durationEnd": "13.03.2024",
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
-          "label": "Fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/info/sonderkulanz",
-          "label": "Sonderkulanz ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
-          "label": "Aktuelle Betriebslage DB Regio Bayern ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lastModified": "11.03.2024 11:09",
       "expand": true,
       "topDisruption": false
     },
