@@ -806,6 +806,31 @@
       "topDisruption": false
     },
     {
+      "id": "74d1ceca-3973-4a6f-a4eb-88aa7a7921de",
+      "disruptionId": "f5660ebb-c45f-4487-a211-660e78563d99",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik der GDL",
+      "summary": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB am Dienstag, 12.03. bundesweit massiv beeinträchtigt",
+      "text": "<p>Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB am Dienstag, 12.03. bundesweit kurzfristig zum Streik aufgerufen. Während des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot ist in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht. Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verfügbar ist.</p><p> Darüber hinaus hat die DB eine kostenlose Sonderhotline unter 08000 99 66 33 eingerichtet.</p><p> Am Mittwoch, 13.03. fährt die DB das normale Zugangebot.</p>",
+      "durationBegin": "12.03.2024",
+      "durationEnd": "13.03.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lastModified": "12.03.2024 19:49",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "900f4e92-c79a-4fe7-a21b-b7cc7f3201a9",
       "disruptionId": "e8513cfc-6126-4d7c-8bd8-68035cac29d7",
       "author": "REGIO_BY",
@@ -1188,31 +1213,6 @@
         "SH"
       ],
       "lastModified": "12.03.2024 19:01",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "74d1ceca-3973-4a6f-a4eb-88aa7a7921de",
-      "disruptionId": "f5660ebb-c45f-4487-a211-660e78563d99",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "strike",
-        "label": "Streik"
-      },
-      "headline": "Streik der GDL",
-      "summary": "GDL-Streik kurzfristig angekündigt: Fern-, Regional- und S-Bahn-Verkehr der DB am Dienstag, 12.03. bundesweit massiv beeinträchtigt",
-      "text": "<p>Die GDL (Gewerkschaft Deutscher Lokomotivführer) hat ihre Mitglieder in den Betrieben der DB am Dienstag, 12.03. bundesweit kurzfristig zum Streik aufgerufen. Während des Streiks versucht die DB, bundesweit ein Grundangebot im Fern-, Regional- und S-Bahn-Verkehr zu realisieren. Das Grundangebot ist in der Fahrplanauskunft auf bahn.de und im DB Navigator veröffentlicht. Die DB bittet die Reisenden, sich wenige Stunden vor Fahrtantritt auf bahn.de oder im DB Navigator zu informieren, ob ihre Verbindung verfügbar ist.</p><p> Darüber hinaus hat die DB eine kostenlose Sonderhotline unter 08000 99 66 33 eingerichtet.&nbsp;</p>",
-      "durationBegin": "12.03.2024",
-      "durationEnd": "13.03.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lastModified": "12.03.2024 17:11",
       "expand": true,
       "topDisruption": false
     },
@@ -1751,20 +1751,8 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.s-bahn-muenchen.de/fahren/betriebslage",
-          "label": "Betriebslage",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
           "href": "http://twitter.com/streckenagent_M",
           "label": "X (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.s-bahn-muenchen.de/service/muenchen-navigator-app",
-          "label": "München Navigator",
           "info": "",
           "openInNewTab": true
         }
