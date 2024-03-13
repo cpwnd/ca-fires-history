@@ -2,6 +2,34 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "d08b9292-5408-4e7a-aff0-b81ec82d4ce1",
+      "disruptionId": "4a6b0f26-b1fd-42ba-b638-c9c8a02d9c1e",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Almelo und Hengelo",
+      "summary": "Die Strecke zwischen Almelo und Hengelo ist am 17.03.2024 zwischen 00:00 Uhr und 17:00 Uhr gesperrt. Dadurch kommt es zu Fahrtausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Berlin und Amsterdam</li><li>Es entfallen: IC 242, IC 141, IC 240, IC 143, IC 148, IC 145, IC 146, IC 147, IC 144 und IC 149</li><li>Es verkehren: IC 140, IC 142, IC 241 und IC 243</li></ul><p>Die Behebung der Störung soll vsl. bis 17:00 Uhr erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "17.03.2024",
+      "durationEnd": "17.03.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lastModified": "13.03.2024 20:58",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5d38fb0a-3473-4b9e-a0da-499b0d9726ba",
       "disruptionId": "dfba191f-2e50-427c-9896-9aeba1454f04",
       "author": "FERNVERKEHR_AG",
