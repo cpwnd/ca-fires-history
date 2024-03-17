@@ -30,6 +30,33 @@
       "topDisruption": false
     },
     {
+      "id": "326cb109-e3fa-46ee-bdeb-c7005e28a9da",
+      "disruptionId": "a87e128b-3906-4097-b91f-e0be6ab7aa11",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Beeinträchtigungen im internationalen Verkehr Berlin - Hannover - Amsterdam aufgrund eingeschränkter Fahrzeugverfügbarkeit",
+      "summary": "Aufgrund verlängerter Werkstattaufenthalte stehen aktuell leider nicht genügend Fahrzeuge für den Verkehr der IC-Züge zwischen Berlin, Hannover und Amsterdam über Bad Bentheim zur Verfügung. Es kommt deshalb zu Ausfällen von Zügen.",
+      "text": "<strong>Folgende Verbindungen können am Montag, 18.03.2024 verkehren:</strong><ul><li>IC 140 Berlin Ostbahnhof - Hannover - Amsterdam Centraal</li><li>IC 141 Amsterdam Centraal - Hannover - Berlin Ostbahnhof</li><li>IC 142 Berlin Ostbahnhof - Hannover - Amsterdam Centraal</li><li>IC 143 Amsterdam Centraal - Hannover - Berlin Ostbahnhof</li><li>IC 240 Berlin Ostbahnhof - Hannover - Amsterdam Centraal</li><li>IC 241 Amsterdam Centraal - Hannover - Berlin Ostbahnhof</li></ul><p>Die übrigen IC-Verbindungen der Relation Berlin - Hannover - Amsterdam fallen leider in beide Fahrtrichtungen aus.</p><p><strong>Wir empfehlen Ihnen folgende Reisealternativen:</strong></p><p>Nutzen Sie bitte die ICE-Züge Berlin - Hannover - Düsseldorf bis nach Duisburg Hbf und ab dort die ICE-Züge Köln - Duisburg - Amsterdam.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "18.03.2024",
+      "durationEnd": "18.03.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "NI"
+      ],
+      "lastModified": "17.03.2024 14:53",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "90a56675-c451-419a-b43b-993eb26f469b",
       "disruptionId": "423005e4-3690-4b6e-b76f-8352ee360141",
       "author": "FERNVERKEHR_AG",
