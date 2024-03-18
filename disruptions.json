@@ -56,32 +56,6 @@
       "topDisruption": false
     },
     {
-      "id": "5d38fb0a-3473-4b9e-a0da-499b0d9726ba",
-      "disruptionId": "dfba191f-2e50-427c-9896-9aeba1454f04",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Beeinträchtigung zwischen Dillenburg und Wetzlar",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalls in Sinn kommt es in den Nächten ab 15./16.03. bis einschl. 17./18.03. jeweils von 20:00 Uhr bis 06:00 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>in den Nächten 15./16.03. und 16./17.03. fallen IC 2222 und 2323 jeweils zwischen Frankfurt(M) und Siegen aus.</li><li>in der Nacht 17./18.03. fallen IC 2325, IC 2224, IC 2222 und IC 2221 jeweils zwischen Frankfurt(M) und Siegen aus.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "12.03.2024",
-      "durationEnd": "18.03.2024",
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lastModified": "17.03.2024 07:16",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
       "cause": {
@@ -389,6 +363,30 @@
         "SN"
       ],
       "lastModified": "09.02.2024 12:32",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "cdd67908-c21a-4157-ad50-83dec92d850f",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Haltausfall der Linie RE6 in Berlin-Charlottenburg",
+      "text": "<p>Wegen einer Reparatur an der Weiche enden und beginnen alle Z&uuml;ge der Linie RE6&nbsp; bis Betriebsschluss am 18. M&auml;rz 2024 in &nbsp;Berlin-Spandau. Der Halt Berlin-Charlottenburg entf&auml;llt. Nutzen Sie bitte zwischen Berlin-Spandau und Berlin-Charlottenburg die S-Bahnlinie S3 oder S9 als Ersatz.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "durationBegin": "18.03.2024",
+      "durationEnd": "18.03.2024",
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lastModified": "18.03.2024 07:19",
       "expand": false,
       "topDisruption": false
     },
