@@ -532,40 +532,6 @@
       "topDisruption": false
     },
     {
-      "id": "fa86f6a2-e8cd-40a9-b97f-4aa6f26b8156",
-      "disruptionId": "6a867c55-83b7-4955-8755-5e495fe236dd",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Münster(Westf) und Rheine",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Münster(Westf) und Rheine kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zur Umleitung von Zügen und Verspätungen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC-Züge, die zwischen Münster(Westf) und Rheine verkehren, werden umgeleitet und verspäten sich um etwa 30 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die späten Nachmittagsstunden am heutigen 25.03.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "25.03.2024",
-      "durationEnd": "25.03.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "IC/EC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "25.03.2024 14:06",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -1001,38 +967,6 @@
       ],
       "lastModified": "27.02.2024 01:34",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "26804bc9-7e49-4377-a6da-25ef4d849cde",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Reparatur an einem Stellwerk in Unterreichenbach beendet",
-      "summary": "Die Strecke zwischen Pforzheim Hbf und Bad Liebenzell&nbsp;ist wieder befahrbar, der Ersatzverkehr mit Bus endet. Bitte rechnen Sie in der Folge noch mit Versp&auml;tungen und Teilausf&auml;llen.",
-      "text": "<p>Betroffene Linie:&nbsp;</p>\n\n<ul>\n\t<li>RB74 Pforzheim Hbf - Nagold</li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.</p>\n",
-      "durationBegin": "25.03.2024",
-      "durationEnd": "25.03.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB/RE",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "25.03.2024 17:19",
-      "expand": false,
       "topDisruption": false
     },
     {
