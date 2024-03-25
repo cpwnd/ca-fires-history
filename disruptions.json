@@ -25,6 +25,13 @@
         "HE",
         "RP"
       ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
       "lastModified": "15.03.2024 17:17",
       "expand": true,
       "topDisruption": false
@@ -81,6 +88,13 @@
         "BW",
         "HE"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "18.03.2024 09:35",
       "expand": false,
       "topDisruption": false
@@ -136,6 +150,13 @@
       "states": [
         "BW",
         "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
       ],
       "lastModified": "15.03.2024 15:55",
       "expand": false,
@@ -207,6 +228,13 @@
         "HB",
         "NI"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "04.03.2024 14:22",
       "expand": false,
       "topDisruption": false
@@ -219,7 +247,7 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Kein Zugverkehr im Raum Völklingen Hbf.",
-      "summary": "Zur Zeit sind keine Zugfahrten im Raum V&ouml;lklingen Hbf m&ouml;glich.<br />\nIn der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.",
+      "summary": "Zur Zeit sind Zugfahrten im Raum V&ouml;lklingen Hbf nur eingeschr&auml;nkt m&ouml;glich.&nbsp;<br />\n<br />\nVon Trier bis Saarbr&uuml;cken, Sperrung aufgehoben und ohne Einschr&auml;nkung befahrbar.<br />\n<br />\nIn der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\n&nbsp;",
       "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong><em>RE1&nbsp; Mannheim -&nbsp;Kaiserslautern -&nbsp;Saarbr&uuml;cken -&nbsp;Trier -&nbsp;Koblenz</em></strong><br />\n\tDie Z&uuml;ge verkehren zwischen Koblenz Hbf und Trier Hbf sowie zwischen Saarbr&uuml;cken Hbf und Mannheim Hbf.&nbsp;<br />\n\tWir haben einen Ersatzverkehr mit <strong>4</strong>&nbsp;<strong>Bussen zwischen Trier Hbf und Saarbr&uuml;cken Hbf</strong> f&uuml;r Sie eingerichtet.<br />\n\t&nbsp;</li>\n\t<li><em><strong>RB70 Merzig(Saar) - Saarbr&uuml;cken Hbf</strong></em><br />\n\tDie Z&uuml;ge der Linie RB 70 werden vorzeitig zwischen Saarbr&uuml;cken und Merzig gewendet.<br />\n\tBitte nutzen Sie die <strong>Z&uuml;ge und Ersatzbusse der Linien RE1 und RB71.</strong><br />\n\t.</li>\n\t<li><strong><em>RB71 Homburg(Saar) -&nbsp;Merzig(Saar) -&nbsp;Trier</em></strong><br />\n\tDie Z&uuml;ge&nbsp;aus Richtung Trier Hbf enden und beginnen in Bous(Saar). Aus Richtung Homburg(Saar)Hbf enden und beginnen die Z&uuml;ge&nbsp;in V&ouml;lklingen.<br />\n\tWir haben einen Ersatzverkehr mit<strong>&nbsp;7&nbsp;Bussen zwischen Bous(Saar) und V&ouml;lklingen</strong> f&uuml;r Sie eingerichtet<br />\n\t<br />\n\t<strong>Dauer der Beeintr&auml;chtigung bis vsl. 26.03.24</strong></li>\n</ul>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "images": [],
       "downloads": [],
@@ -256,7 +284,14 @@
         "SL",
         "RP"
       ],
-      "lastModified": "25.03.2024 06:41",
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.03.2024 09:21",
       "expand": false,
       "topDisruption": false
     },
@@ -314,6 +349,13 @@
         "HE",
         "RP"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "04.03.2024 16:39",
       "expand": false,
       "topDisruption": false
@@ -341,6 +383,13 @@
         "ST",
         "SN"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "09.02.2024 12:32",
       "expand": false,
       "topDisruption": false
@@ -366,6 +415,13 @@
       "states": [
         "BB",
         "BE"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
       ],
       "lastModified": "25.03.2024 05:10",
       "expand": false,
@@ -407,6 +463,13 @@
         "ST",
         "SN"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "09.02.2024 12:16",
       "expand": false,
       "topDisruption": false
@@ -444,6 +507,13 @@
         "BB",
         "BE"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "20.11.2023 12:19",
       "expand": false,
       "topDisruption": false
@@ -469,6 +539,13 @@
       ],
       "states": [
         "ST"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
       ],
       "lastModified": "28.12.2023 15:36",
       "expand": false,
@@ -507,6 +584,13 @@
       "states": [
         "BW"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "20.03.2024 15:38",
       "expand": false,
       "topDisruption": false
@@ -539,6 +623,13 @@
       ],
       "states": [
         "ST"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
       ],
       "lastModified": "13.02.2024 22:21",
       "expand": false,
@@ -573,6 +664,13 @@
       "states": [
         "SN"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "26.01.2024 11:09",
       "expand": false,
       "topDisruption": false
@@ -602,6 +700,13 @@
       ],
       "states": [
         "RP"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
@@ -653,6 +758,13 @@
       "states": [
         "SL"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "17.03.2024 08:55",
       "expand": false,
       "topDisruption": false
@@ -678,6 +790,13 @@
       ],
       "states": [
         "SN"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
       ],
       "lastModified": "05.03.2024 08:59",
       "expand": false,
@@ -711,6 +830,13 @@
       ],
       "states": [
         "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
       ],
       "lastModified": "29.02.2024 10:34",
       "expand": false,
@@ -775,6 +901,13 @@
       "states": [
         "NI"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "27.02.2024 01:34",
       "expand": true,
       "topDisruption": false
@@ -804,6 +937,13 @@
       ],
       "states": [
         "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
       ],
       "lastModified": "09.12.2023 12:38",
       "expand": false,
@@ -843,6 +983,13 @@
       "states": [
         "BW"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "19.12.2023 17:31",
       "expand": false,
       "topDisruption": false
@@ -878,6 +1025,13 @@
       ],
       "states": [
         "NW"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
       ],
       "lastModified": "03.11.2023 12:22",
       "expand": false,
@@ -951,6 +1105,13 @@
       "states": [
         "BY"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "09.08.2023 17:59",
       "expand": false,
       "topDisruption": false
@@ -993,6 +1154,13 @@
       "states": [
         "BY"
       ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
       "lastModified": "05.08.2023 05:30",
       "expand": false,
       "topDisruption": false
@@ -1022,6 +1190,13 @@
       ],
       "states": [
         "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
       ],
       "lastModified": "12.06.2023 14:25",
       "expand": false,
