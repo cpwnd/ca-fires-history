@@ -2,53 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "f56fb264-efdf-42e5-9993-a59fad3d09aa",
-      "disruptionId": "0ee7d4ec-4e31-4a3c-a2e7-153be953fbd0",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "unknown_cause",
-        "label": "Unbekannte Ursache"
-      },
-      "headline": "//Auswirkung aufgrund //Ursache",
-      "summary": "[Bitte erfassen]",
-      "text": "<strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong><ul><li>[Verbindung 1]</li><li>...</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "26.03.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "IC/EC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "26.03.2024 20:26",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "90a56675-c451-419a-b43b-993eb26f469b",
       "disruptionId": "423005e4-3690-4b6e-b76f-8352ee360141",
       "author": "FERNVERKEHR_AG",
