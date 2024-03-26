@@ -94,6 +94,62 @@
       "topDisruption": false
     },
     {
+      "id": "ae3b2e01-5c5d-4726-9dd5-e7b81184c7a0",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Beeinträchtigungen zw. Winden (Pfalz) und Wörth(Rhein)",
+      "summary": "Wegen eines kurzfristen Personalausfalles bei Stellwerkspersonal wird der Zugverkehr im Raum Kandel eingestellt.<br />\nBis auf Weiteres sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RE6 -&nbsp;Karlsruhe &ndash; Landau &ndash; Neustadt &ndash; Kaiserslautern</strong><br />\n\tDie Z&uuml;ge der Linie RE6 entfallen.<br />\n\t&nbsp;</li>\n\t<li><strong>RB51</strong>&nbsp; -&nbsp; <strong>Neustadt &ndash; Landau &ndash; Winden &ndash; W&ouml;rth &ndash; Karlsruhe</strong><br />\n\tDie RB-Z&uuml;ge&nbsp;enden und beginnen je nach Verf&uuml;gbarkeit der Gleise in Winden(Pfalz) oder W&ouml;rth(Rhein)</li>\n</ul>\n\n<p><strong>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</strong></p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich: Aktuelle Informationen gibt es kostenlos in der <strong>Streckenagent-App</strong> oder auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
+          "label": "Streckenagent-App",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.03.2024 15:46",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "41b4f18b-6836-412c-a534-d3122dc95ff5",
       "author": "REGIO_MITTE",
       "cause": {
