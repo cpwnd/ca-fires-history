@@ -443,6 +443,48 @@
       "topDisruption": false
     },
     {
+      "id": "6b2022a7-310b-446e-b7a3-33ad15e3335f",
+      "disruptionId": "6e0dba15-5190-4c53-b9dc-3e1225b490e2",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Frankfurt(Main) und Mannheim",
+      "summary": "Aufgrund eines Feuerwehreinsatzes in Gleisnähe ist die Strecke zwischen Frankfurt(Main) und Mannheim derzeit gesperrt. Einzelne Züge im Fernverkehr der Deutschen Bahn müssen umgeleitet werden und verspäten sich dadurch um etwa 20 Minuten. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-, TGV- und IC-Züge, die zwischen Frankfurt(Main)Hbf bzw. Flughafen und Mannheim verkehren</li></ul><p>Die Streckensperrung dauert vsl. bis in die Abendstunden am heutigen Donnerstag, 28.03.2024 an.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.03.2024",
+      "durationEnd": "28.03.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-03-28/fc3f5c5f-b11c-4d08-933a-f17b989fbb0a14.7.1.2%2BSperrung%2BMannheim%2B-%2BBiblis.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-03-28/fc3f5c5f-b11c-4d08-933a-f17b989fbb0a14.7.1.2%2BSperrung%2BMannheim%2B-%2BBiblis.png",
+          "info": "",
+          "alt": "14.7.1.2 Sperrung Mannheim - Biblis.png",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.03.2024 18:17",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
