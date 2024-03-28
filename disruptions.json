@@ -37,6 +37,41 @@
       "topDisruption": false
     },
     {
+      "id": "7ead44ba-5b02-4a69-8661-d141d62e66b9",
+      "disruptionId": "f578d6fb-8987-4f15-81b8-07e42bd1cb3c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Mannheim und Frankfurt(M)",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Mannheim und Frankfurt(M) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle ICE/EC/IC-Züge in Fahrtrichtung von Mannheim Hbf nach Frankfurt(M) Hbf bzw. Frankfurt(M) Flughafen verspäten sich um etwa 15 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung dauert vsl. bis heute in die Nachmittagsstunden. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.03.2024",
+      "durationEnd": "28.03.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.03.2024 10:33",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "0ba7647c-3943-4b90-982c-bdd62651f240",
       "author": "REGIO_MITTE",
       "cause": {
