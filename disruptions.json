@@ -2,64 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "dffbbe4a-4119-423d-9942-f04f58645997",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "Feuerwehreinsatz zwischen Mannheim-Waldhof und Lampertheim",
-      "summary": "Zur Zeit sind<strong> keine Zugfahrten im Raum Mannheim-Waldhof m&ouml;glich.</strong><br />\nIn der Folge kommt es jetzt zu Umleitungen ohne Halt, Versp&auml;tungen und Teilausf&auml;llen.<br />\nDauer der<strong> Sperrung</strong> voraussichtlich<strong> bis Betriebsschluss</strong>.",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>S 9 Karlsruhe Hbf - Graben-Neudorf - Schwetzingen - Mannheim Hbf - Gro&szlig; Rohrheim</strong><br />\n\tDie S-Bahn f&auml;llt zwischen Mannheim Hbf und Gro&szlig;-Rohrheim aus.<br />\n\t&nbsp;</li>\n\t<li><strong>RE 70 Mannheim Hbf - Biblis - Frankfurt(Main)&nbsp;Hbf&nbsp;</strong><br />\n\tZ&uuml;ge aus Richtung Frankfurt(Main)Hbf enden/beginnen&nbsp;vorzeitig in Lampertheim und fallen&nbsp;zwischen Lampertheim und Mannheim aus.</li>\n</ul>\n\n<p><strong>Vereinzelne Z&uuml;ge werden ohne Halt zwischen Mannheim Hbf und Biblis ohne Halt umgeleitet.&nbsp;</strong><br />\nIn der Folge kann es auf <strong>allen betroffenen Linien zu Versp&auml;tungen und weiteren Teilausf&auml;llen</strong> kommen.</p>\n\n<p>Wir haben f&uuml;r Sie einen <strong>Ersatzverkehr mit 8 Bussen zwischen Mannheim Hbf und Biblis </strong>eingerichtet. Alle Unterwegshalte werden angefahren.</p>\n\n<p>Empfehlung f&uuml;r Fahrg&auml;ste nach <strong>Mannheim-Handelshafen, Mannheim-Neckarstadt, Mannheim-Luzenberg</strong>&nbsp;und <strong>Mannheim-Waldhof</strong>: Nutzen Sie auch die&nbsp;<strong>Stra&szlig;enbahn.</strong></p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns unter @regio.mitte auf <strong>X</strong> (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-App",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB/RE",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "28.03.2024 19:43",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "90a56675-c451-419a-b43b-993eb26f469b",
       "disruptionId": "423005e4-3690-4b6e-b76f-8352ee360141",
       "author": "FERNVERKEHR_AG",
@@ -498,47 +440,6 @@
       ],
       "lastModified": "09.02.2024 12:16",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "6b2022a7-310b-446e-b7a3-33ad15e3335f",
-      "disruptionId": "6e0dba15-5190-4c53-b9dc-3e1225b490e2",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "Streckensperrung zwischen Frankfurt(Main) und Mannheim",
-      "summary": "Aufgrund eines Feuerwehreinsatzes in Gleisnähe ist die Strecke zwischen Frankfurt(Main) und Mannheim derzeit gesperrt. Einzelne Züge im Fernverkehr der Deutschen Bahn müssen umgeleitet werden und verspäten sich dadurch um etwa 20 Minuten. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-, TGV- und IC-Züge, die zwischen Frankfurt(Main)Hbf bzw. Flughafen und Mannheim verkehren</li></ul><p>Die Streckensperrung dauert vsl. bis in die Abendstunden am heutigen Donnerstag, 28.03.2024 an.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "28.03.2024",
-      "durationEnd": "28.03.2024",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-03-28/22518be1-d76c-4530-a2d7-4ae76114ca2a14.7.1.2%2BSperrung%2BMannheim%2B-%2BBiblis.png",
-          "label": "14.7.1.2 Sperrung Mannheim - Biblis.png",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "IC/EC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "28.03.2024 18:27",
-      "expand": true,
       "topDisruption": false
     },
     {
