@@ -2,63 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "0ba7647c-3943-4b90-982c-bdd62651f240",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Zugverkehr zwischen Cochem(Mosel) und Bullay(DB) eingleisig.",
-      "summary": "Eine Reparatur an der Strecke verz&ouml;gert den Zugverkehr zwischen Cochem(Mosel) und Bullay(DB). Der Streckenabschnitt ist nur eingleisig befahrbar.<br />\n<strong>Die Z&uuml;ge aus Richtung Koblenz k&ouml;nnen nicht in Cochem(Mosel) halten.</strong><br />\nIn der Folge kommt es jetzt zu Umleitungen, Versp&auml;tungen und Teilausf&auml;llen.<br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RE1/RE11 Koblenz / Luxembourg &ndash; Trier &ndash; Saarbr&uuml;cken &ndash; Kaiserslautern &ndash; Mannheim&nbsp;</strong></li>\n\t<li><strong>RB81&nbsp;Koblenz &ndash; Cochem &ndash; Bullay &ndash; Wittlich &ndash; Trier</strong><br />\n\tErsatzverkehr zwischen Klotten und Cochem(Mosel) eingerichtet.</li>\n\t<li><strong>RB82&nbsp;Trier &ndash; Perl</strong></li>\n</ul>\n\n<p><strong>Information f&uuml;r Fahrg&auml;ste nach Cochem(Mosel):</strong><br />\n<strong>RE1: </strong>Fahren&nbsp;Sie bitte bis Bullay(DB) und nutzen dort die Z&uuml;ge in Gegenrichtung (Koblenz).<br />\n<strong>RB81:</strong>&nbsp;Steigen Sie bitte in Klotten aus und nutzen dort den eingerichteten Ersatzverkehr nach Cochem(Mosel)</p>\n\n<p><strong>Information f&uuml;r Fahrg&auml;ste ab Cochem(Mosel)&nbsp;</strong>in Richtung Trier:<br />\nNutzen Sie bitte den eingerichteten Ersatzverkehr nach Klotten und steigen dort in die Regionalbahn um.</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/streckenagent-app",
-          "label": "Streckenagent-App",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "SL",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB/RE",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "26.03.2024 16:36",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "41b4f18b-6836-412c-a534-d3122dc95ff5",
       "author": "REGIO_MITTE",
       "cause": {
