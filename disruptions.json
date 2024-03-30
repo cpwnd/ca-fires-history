@@ -811,6 +811,39 @@
       "topDisruption": false
     },
     {
+      "id": "ac49a652-00b0-4b52-b077-8d2b084943fd",
+      "disruptionId": "a9a0e836-a874-4bc8-8e5b-ed701d569d5c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen München, Rosenheim und Salzburg",
+      "summary": "Aufgrund von Bauarbeiten zwischen München, Rosenheim und Salzburg kommt es von Samstag, den 30.03.2024, 09:00 Uhr bis Sonntag, den 31.03.2024, 06:00 Uhr zu Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle RJX-, ICE-, EC- und IC-Züge sowie die Züge des Nachtreiseverkehrs, die zwischen München und Salzburg verkehren, verspäten sich um etwa 15 Minuten.</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.03.2024",
+      "durationEnd": "31.03.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.03.2024 09:01",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "disruptionId": "e6146ea6-b009-4114-b108-0b15cafb611d_TrafficReport",
       "author": "S_BAHN_S",
