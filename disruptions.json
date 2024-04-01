@@ -496,6 +496,46 @@
       "topDisruption": false
     },
     {
+      "id": "19f51f5f-b810-413f-a0f9-980878dca0b0",
+      "disruptionId": "8997af75-6a00-4de1-b540-3177dad774b5",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RE 2 Regensburg Hbf - Hof Hbf:",
+      "summary": "Eingeschränkte Fahrzeugverfügbarkeit / Zugausfälle ",
+      "text": "<p>aufgrund eingeschränkter Fahrzeugverfügbarkeit entfallen am Dienstag den, 02.04.2024 in den Morgen- und Abendstunden folgende Fahrten der Linie RE 2.</p><p>&nbsp;</p><p><strong>Richtung Hof Hbf </strong></p><ul><li>RE 4850 Regensburg Hbf&nbsp;(Abfahrt: 05:14 Uhr) – Hof Hbf&nbsp;(Ankunft: 07:20 Uhr)&nbsp;</li><li>RE 4854 Regensburg&nbsp;Hbf&nbsp;(Abfahrt: 09:20 Uhr) – Hof Hbf&nbsp;(Ankunft: 11:20 Uhr)</li><li>RE 4856 Regensburg&nbsp;Hbf&nbsp;(Abfahrt: 11:20 Uhr) – Hof Hbf (Ankunft 13:20 Uhr)&nbsp;</li><li>RE 4860 Regensburg&nbsp;Hbf&nbsp;(Abfahrt: 15:20 Uhr) - Hof&nbsp;Hbf&nbsp;(Ankunft: 17:20 Uhr)&nbsp;</li><li>RE 4862 Regensburg&nbsp;Hbf&nbsp;(Abfahrt: 17:20 Uhr) - Hof&nbsp;Hbf&nbsp;(Ankunft: 19:20 Uhr)</li><li>RE 4868 Regensburg&nbsp;Hbf&nbsp;(Abfahrt: 23:22 Uhr) – Schwandorf:&nbsp;(Ankunft 23:55 Uhr)</li></ul><p>&nbsp;</p><p>&nbsp;</p><p><strong>Richtung Regensburg Hbf</strong></p><ul><li>RE 4857 Hof&nbsp;Hbf&nbsp;(Abfahrt: 06:40 Uhr) – Regensburg Hbf&nbsp;(Ankunft: 08:38 Uhr)&nbsp;</li><li>RE 4859 Hof&nbsp;Hbf&nbsp;(Abfahrt: 08:40 Uhr) – Regensburg Hbf&nbsp;(Ankunft: 10:38 Uhr)</li><li>RE 4863 Hof&nbsp;Hbf&nbsp;(Abfahrt: 12:40 Uhr) - Regensburg&nbsp;Hbf:&nbsp;(Ankunft 14:38 Uhr)&nbsp;</li><li>RE 4865 Hof&nbsp;Hbf&nbsp;(Abfahrt: 14:40 Uhr) – Regensburg Hbf:&nbsp;(Ankunft 16:38 Uhr)&nbsp;</li><li>RE 4869 Hof&nbsp;Hbf&nbsp;(Abfahrt: 18:40 Uhr) – Regensburg Hbf:&nbsp;(Ankunft 20:38 Uhr)&nbsp;</li><li>RE 4871 Hof&nbsp;Hbf&nbsp;(Abfahrt: 20:40 Uhr) – Regensburg Hbf:&nbsp;(Ankunft 22:38 Uhr)&nbsp;</li></ul><p>Bitte überprüfen Sie Ihre Verbindung vor der Reise.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie unter&nbsp;www.bahn.de/ris&nbsp;</p>",
+      "durationBegin": "01.04.2024",
+      "durationEnd": "03.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Aktuelle Betriebslage DB Regio",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "02.04.2024 00:19",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "24c6041c-de30-4a69-acab-4e245c41a8e3",
       "disruptionId": "cf248ac1-13b2-49d7-840e-73bd4cb4c77f",
       "author": "REGIO_BY",
