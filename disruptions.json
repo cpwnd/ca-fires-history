@@ -304,6 +304,38 @@
       "topDisruption": false
     },
     {
+      "id": "613aec3b-fd41-439e-9750-68e90c39f6a0",
+      "disruptionId": "fe28a320-05e5-41ea-bb28-cfbbf17db587",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen im Raum Hannover",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung im Raum Hannover Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/ICE-Züge mit planmäßigem Halt in Hannover Hbf verspäten sich um zusätzlich etwa 40 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "01.04.2024 12:36",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c76689a0-3095-46d0-b372-8051cc4943eb",
       "author": "REGIO_BW",
       "cause": {
