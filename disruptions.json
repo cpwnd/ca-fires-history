@@ -2,40 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "f696f001-a0c7-4421-a8f4-79c5c4ae7c57",
-      "disruptionId": "369c9afd-08c8-45ab-b7a6-3f6e1d74458c",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Beeinträchtigung in Hanau",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Hanau kommt es vom 31.03.2024 um 18:00 Uhr bis zum 01.04.2024 um 06:00 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Aschaffenburg und Frankfurt werden umgeleitet und erhalten ca. 20 Min Verspätung.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "31.03.2024",
-      "durationEnd": "01.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "IC/EC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "30.03.2024 20:53",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "41b4f18b-6836-412c-a534-d3122dc95ff5",
       "author": "REGIO_MITTE",
       "cause": {
@@ -422,8 +388,8 @@
         "category": "technical_problem_railway_section",
         "label": "Defektes Stellwerk"
       },
-      "headline": "Zwischen München Flughafen Besucherpark und München Flughafen Terminal sind wegen einem defekten Stellwerk aktuell keine Zugfahrten möglich. Die S-Bahnen verkehren ab Neufahrn(b Freising) ausschließlich nach Freising.",
-      "summary": "Wir haben einen Ersatzverkehr mit Taxi zwischen Neufahrn und München Flughafen Terminal für Sie eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter SEV Beschilderung.",
+      "headline": "S 1 Neufahrn - Flughafen München: Defektes Stellwerk",
+      "summary": "Zwischen München Flughafen Besucherpark und München Flughafen Terminal sind wegen einem defekten Stellwerk aktuell keine Zugfahrten möglich. Die S-Bahnen verkehren ab Neufahrn(b Freising) ausschließlich nach Freising.\n\nWir haben einen Ersatzverkehr mit Taxi zwischen Neufahrn und München Flughafen Terminal für Sie eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter SEV Beschilderung.",
       "text": "<p>Bitte rechnen Sie auf der Linie in beide Richtungen mit Verzögerungen. Zugausfälle sind kurzfristig möglich.</p>",
       "durationBegin": "01.04.2024",
       "durationEnd": "01.04.2024",
@@ -449,7 +415,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.04.2024 04:36",
+      "lastModified": "01.04.2024 06:01",
       "expand": true,
       "topDisruption": false
     },
