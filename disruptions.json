@@ -306,15 +306,48 @@
       "topDisruption": false
     },
     {
+      "id": "941e77f6-e585-49a2-aa95-5960c369dae0",
+      "disruptionId": "1c197be8-e7d2-4263-9387-3fb978ef1421",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen im Raum Stuttgart",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung bei Vaihingen (Enz) ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt es zu Zug- und Haltausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Stuttgart Hbf ist für ICE/TGV/IC-Züge von bzw. nach Karlsruhe, Mannheim, Heidelberg nicht anfahrbar. Ersatzhalt in Esslingen.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Zwischen Stuttgart Hbf und Esslingen nutzen Sie bitte die Nahverkehrszüge und S-Bahnen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis bis heute in die Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.04.2024",
+      "durationEnd": "03.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "02.04.2024 18:08",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "6ca520cb-d4a7-4e1e-a63b-875530ef07a5",
       "author": "REGIO_SH",
       "cause": {
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "Beeinträchtigung auf der Strecke zwischen Elmshorn und Tornesch",
-      "summary": "Aufgrund von Baurbeiten auf dem Streckenabschnitt zwischen Elmshorn und Tornesch kommt es zu Beeintr&auml;chtigen im Regionalverkehr der Deutschen Bahn.",
-      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona):</strong>&nbsp; Die Z&uuml;ge enden und beginnen in Elmshorn.&nbsp;Reisende nutzen die S-Bahn der Linie 2 zwischen Hamburg-Altona und&nbsp;Hamburg Hbf und fahren von und nach Elmshorn mit der RE 70 weiter.&nbsp;Ein Ersatzverkehr mit Bus der Nordbahn ist zwischen Elmshorn und Pinneberg eingerichtet. Bitte nutzen Sie von und bis Pinneberg&nbsp;die S-Bahn der Linie 3.</li>\n\t<li><strong>RE 70&nbsp;(Kiel Hbf &ndash; Hamburg Hbf):</strong>&nbsp; Die Z&uuml;ge versp&auml;ten sich um bis zu 50 Minuten.</li>\n</ul>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 60 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "headline": "Streckensperrung zwischen Elmshorn und Tornesch aufgehoben",
+      "summary": "Streckensperrung zwischen Elmshorn und Tornesch ist beendet.&nbsp;Der Zugverkehr wird wieder aufgenommen. Bitte rechnen Sie noch mit Versp&auml;tungen und Zugausf&auml;llen bis sich der Zugverkehr stabilisiert hat.&nbsp;",
+      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li><strong>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona):</strong>&nbsp; Zugverkehr zwischen Elmshorn und Tornesch wieder aufgenommen.&nbsp;</li>\n\t<li><strong>RE 70&nbsp;(Kiel Hbf &ndash; Hamburg Hbf):</strong>&nbsp;Zugverkehr zwischen Elmshorn und Tornesch wieder aufgenommen.&nbsp;</li>\n</ul>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
       "durationBegin": "02.04.2024",
       "durationEnd": "02.04.2024",
       "images": [],
@@ -364,7 +397,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "02.04.2024 16:57",
+      "lastModified": "02.04.2024 18:04",
       "expand": false,
       "topDisruption": false
     },
