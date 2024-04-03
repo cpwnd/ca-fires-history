@@ -2,6 +2,54 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "3e56f0cf-95bd-407e-951e-564cf42f12f7",
+      "disruptionId": "71aa9442-f781-4577-bb7c-436d4d3c4fff",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in Köln",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe kommt es in Köln zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Hohenzollernbrücke zwischen Köln Hbf und Köln Messe/Deutz ist für Zugfahrten gesperrt.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge mit Halt in Köln Hbf und/oder Köln Messe/Deutz werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten. Der Halt Köln Messe/Deutz entfällt.</li></ul><p>Die Störung wird vrsl. noch bis in die frühen Abendstunden andauern. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.04.2024",
+      "durationEnd": "03.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "03.04.2024 16:37",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "1664a8f7-1605-4459-9f68-9092709a3d35",
       "author": "REGIO_MITTE",
       "cause": {
@@ -192,8 +240,8 @@
         "label": "Kurzfristige Erkrankung von Personal"
       },
       "headline": "Fahrtausfälle zwischen Frankfurt(M) und Siegen",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Wetzlar und Dutenhofen kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Vom 04.04.2024 um 13:00 Uhr bis 05.04. um 06:00 Uhr und vom 05.04. um 20:00 Uhr bis 06.04.2024 um 06:00 Uhr kommt es zwischen Frankfurt(M) und Siegen zu Zugausfällen. Diese sind in die Auskunftsmedien eingepflegt und ersichtlich.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Wetzlar und Dutenhofen kommt es zu Fahrtausfällen zwischen Frankfurt(M) und Siegen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Zeiten:</strong></strong><ul><li>In der Nacht 04./05.04.2024 von 23:00 Uhr bis 06:00 Uhr.</li><li>In der Nacht 05./06.04.2024 von 23:00 Uhr bis 06:00 Uhr.</li><li>In der Nacht 06./07.04.2024 von 20:00 Uhr bis 06:00 Uhr.</li></ul><p>Die Fahrtausfälle sind in die Auskunftsmedien eingepflegt und ersichtlich.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "04.04.2024",
       "durationEnd": "06.04.2024",
       "images": [],
@@ -213,7 +261,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "03.04.2024 14:46",
+      "lastModified": "03.04.2024 16:46",
       "expand": true,
       "topDisruption": false
     },
@@ -394,39 +442,6 @@
       ],
       "lastModified": "03.04.2024 10:38",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "3e56f0cf-95bd-407e-951e-564cf42f12f7",
-      "disruptionId": "71aa9442-f781-4577-bb7c-436d4d3c4fff",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "police_activity",
-        "label": "Entschärfung einer Fliegerbombe"
-      },
-      "headline": "Entschärfung einer Weltkriegsbombe in Köln",
-      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe kommt es in zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Hohenzollernbrücke zwischen Köln Hbf und Köln Messe/Deutz ist für Zugfahrten gesperrt.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge mit Halt in Köln Hbf und/oder Köln Messe/Deutz werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten. Der Halt Köln Messe/Deutz entfällt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "03.04.2024",
-      "durationEnd": "03.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "IC/EC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "03.04.2024 16:16",
-      "expand": true,
       "topDisruption": false
     },
     {
