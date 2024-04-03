@@ -690,6 +690,38 @@
       "topDisruption": false
     },
     {
+      "id": "9fbaa43a-f208-45ac-985d-6a65bb8f077a",
+      "disruptionId": "fb36d4ee-8167-41fa-8a63-90b92ab0c6ea",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Arnhem und Oberhausen",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Arnhem und Oberhausen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich um etwa 70 Minuten. Die Halte Arnhem Centraal, Oberhausen, Duisburg, Düsseldorf und Köln Messe/Deutz entfallen. Ersatzhalte werden in Viersen und Köln Hbf eingerichtet.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Amsterdam – Köln – Frankfurt (–Basel)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "03.04.2024 11:19",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "disruptionId": "e6146ea6-b009-4114-b108-0b15cafb611d_TrafficReport",
       "author": "S_BAHN_S",
