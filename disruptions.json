@@ -2,6 +2,40 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "c5f3af5e-9412-4636-8998-de8d0a6915bc",
+      "disruptionId": "62b16045-4838-4be7-a35f-7f6e8f7fd732",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Heidelberg",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Weinheim (Bergstr.) ist Fernverkehr der Deutschen Bahn zwischen Frankfurt(M) und Heidelberg beeinträchtigt.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge zwischen Frankfurt(M) und Heidelberg mit planmäßigen Halt in Darmstadt werden heute in beiden Fahrtrichtungen zwischen 13:00 Uhr und 20:00 Uhr umgeleitet. Die Halte Darmstadt Hbf, Bensheim und Weinheim (Bergstr.) Hbf entfallen.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.04.2024",
+      "durationEnd": "03.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "03.04.2024 13:09",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "41b4f18b-6836-412c-a534-d3122dc95ff5",
       "author": "REGIO_MITTE",
       "cause": {
@@ -304,6 +338,39 @@
       ],
       "lastModified": "03.04.2024 10:38",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "3e56f0cf-95bd-407e-951e-564cf42f12f7",
+      "disruptionId": "71aa9442-f781-4577-bb7c-436d4d3c4fff",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in Köln",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe kommt es in zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Hohenzollernbrücke zwischen Köln Hbf und Köln Messe/Deutz wird ab ca. 14:00 Uhr für Zugfahrten gesperrt.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge mit Halt in Köln Hbf und/oder Köln Messe/Deutz werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten. Der Halt Köln Messe/Deutz entfällt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.04.2024",
+      "durationEnd": "03.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "03.04.2024 13:01",
+      "expand": true,
       "topDisruption": false
     },
     {
