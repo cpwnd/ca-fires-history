@@ -640,6 +640,38 @@
       "topDisruption": false
     },
     {
+      "id": "703830e5-9ac8-49b9-83ef-f76a0183c292",
+      "disruptionId": "9962f184-5582-41b0-88d8-86538603f519",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Nürnberg und Regensburg",
+      "summary": "Aufgrund eines Notarzteinsatzes ist die Strecke zwischen Nürnberg und Regensburg derzeit gesperrt. Einzelne Züge im Fernverkehr der Deutschen Bahn müssen umgeleitet werden und verspäten sich dadurch um etwa ca. 60 - 90 Minuten. Züge, die nicht umgeleitet werden können, warten die Dauer der Streckensperrung an geeigneten Bahnhöfen ab.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge zwischen Nürnberg und Regensburg werden über Ingolstadt umgeleitet. Verspätung 60 - 90 Minuten. Bitte Prüfen sie vor Fahrtantritt ihre Reiseverbindung.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: //Reisealternative. Der Einsatz wird mindestens bis //Prognose andauern. Bitte rechnen Sie mit einem erhöhten Reisendenaufkommen, insbesondere nach Einsatzende.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Die nächste Aktualisierung dieser Meldung erfolgt spätestens am //AktualisierungszeitpunktMeldung.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.04.2024 20:27",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "disruptionId": "e6146ea6-b009-4114-b108-0b15cafb611d_TrafficReport",
       "author": "S_BAHN_S",
