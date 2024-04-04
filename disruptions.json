@@ -241,6 +241,36 @@
       "topDisruption": false
     },
     {
+      "id": "d81b8f1b-7710-488c-b8fe-c63320fc32be",
+      "author": "REGIO_HE",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Zugausfälle mit Ersatzverkehr auf den S-Bahn-Linien S2, S8 und S9 beendet",
+      "summary": "Am Donnerstag, 04.04. f&auml;hrt die DB im S-Bahn-Rhein-Main-Verkehr das normale Zugangebot.",
+      "text": "<p><u><strong>Es gibt keine Einschr&auml;nkungen mehr.</strong></u></p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle&nbsp;<br />\nBetriebslage unter bahn.de oder in der Navigator- und der&nbsp;<br />\nStreckenagenten-App.&nbsp;<br />\nAchten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;<br />\nund Z&uuml;gen.&nbsp;<br />\n&nbsp;<br />\nTelefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;<br />\n069 244 457 10.</p>\n",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "04.04.2024 05:59",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "c76689a0-3095-46d0-b372-8051cc4943eb",
       "author": "REGIO_BW",
       "cause": {
@@ -398,6 +428,39 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "5b1c55dd-8163-4528-a826-19d89411955f",
+      "disruptionId": "9c0e70c8-47dc-44f1-a316-b5ad3021d8e1",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 46: Ausfall RB 27202 zwischen Pocking und Mühldorf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 46: Der RB 27202 entfällt heute ersatzlos zwischen Pocking (ab 05:30 Uhr) und Mühldorf (an 06:28 Uhr) wegen eine Technische Störung am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "04.04.2024",
+      "durationEnd": "04.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "04.04.2024 05:53",
+      "expand": true,
       "topDisruption": false
     },
     {
