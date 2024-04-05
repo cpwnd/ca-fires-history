@@ -327,9 +327,9 @@
         "category": "police_activity",
         "label": "Polizeieinsatz"
       },
-      "headline": "Aktuell starke Einschränkungen im Innenstadtbereich.",
+      "headline": "Beendet: Aktuell starke Einschränkungen im Innenstadtbereich.",
       "summary": "  ",
-      "text": "<p>Aktuell starke Einschränkungen im Innenstadtbereich. Strecke zwischen Altona - Landungsbrücken - Hauptbahnhof ist gesperrt, alle Züge fahren über Holstenstraße und Dammtor. Aktuell fahren:</p><p>S1:</p><p>Airport - Ohlsdorf - Hauptbahnhof</p><p>Poppenbüttel - Ohlsdorf</p><p>Wedel - Ottensen</p><p>Aus in Richtung Poppenbüttel muss in Ohlsdorf umgestiegen werden.</p><p>S2:</p><p>Altona - Aumühle</p><p>S3:</p><p>Pinneberg - Neugraben über Dammtor ohne Halt in Altona</p><p>S5:</p><p>Elbgaustraße - Stade</p><p>Grund: Polizeieinsatz.</p>",
+      "text": "<p>Der Polizeieinsatz wurde beendet, der reguläre Zugverkehr wurde wieder aufgenommen. Zwischen Poppenbüttel und Innenstadt muss aktuell noch in Ohlsdorf umgestiegen werden.</p>",
       "durationBegin": "05.04.2024",
       "durationEnd": "05.04.2024",
       "images": [],
@@ -348,41 +348,8 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "05.04.2024 18:45",
+      "lastModified": "05.04.2024 19:02",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "c9e4d946-cf31-475e-80a8-0278dc352832",
-      "disruptionId": "e7c26ed3-0e55-4331-a22c-92f099925d2f",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Aktuelle Einschränkungen RB 113 Leipzig - Geithain",
-      "summary": "Ein Notarzteinsatz auf der Strecke beeinträchtigt den Bahnverkehr zwischen Leipzig-Liebertwolkwitz und Leipzig Hbf. Der Streckenabschnitt ist für den Bahnverkehr gesperrt. Voraussichtliche Dauer der Störung bis ca. 19:00 Uhr.",
-      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RB 113 Leipzig Hbf - Bad Lausick - Geithain</li></ul><p>Die Züge aus Richtung Geithain enden und beginnen in Leipzig-Liebertwolkwitz. Wir haben für Sie einen Ersatzverkehr mit Bus zwischen Leipzig Hbf und Geithain eingerichtet.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 323 000 11 (zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "05.04.2024",
-      "durationEnd": "05.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RB/RE",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.04.2024 17:11",
-      "expand": false,
       "topDisruption": false
     },
     {
