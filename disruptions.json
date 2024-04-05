@@ -2,42 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "09e7da6f-e4d0-4cbc-9ca5-5e4f3cca75b8",
-      "disruptionId": "fb7cc1ed-a684-495c-98c4-ad76d07e4693",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Beeinträchtigung in Hanau",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Hanau kommt es zu Umleitungen zwischen Frankfurt(M) und Aschaffenburg im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr vom 04./05.04.2024 von 22:00 Uhr bis 06:00 Uhr:</strong></strong><ul><li>ICE 522, ICE 520, ICE 20, ICE 697 Umleitungen über Darmstadt-Kranichstein mit Haltausfall in Hanau und vsl. 25 Min Verspätung</li><li>ICE 887, ICE 775 Umleitungen über Main Weser Bahn mit Haltausfall Hanau und ohne Zusatzverspätung</li><li>ICE 1021 verkehrt auf dem Regelweg</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "04.04.2024",
-      "durationEnd": "05.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "NW",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "IC/EC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "04.04.2024 22:01",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
       "author": "REGIO_BW",
       "cause": {
