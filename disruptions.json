@@ -320,6 +320,39 @@
       "topDisruption": false
     },
     {
+      "id": "c9e4d946-cf31-475e-80a8-0278dc352832",
+      "disruptionId": "e7c26ed3-0e55-4331-a22c-92f099925d2f",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Aktuelle Einschränkungen RB 113 Leipzig - Geithain",
+      "summary": "Ein Notarzteinsatz auf der Strecke beeinträchtigt den Bahnverkehr zwischen Leipzig-Liebertwolkwitz und Leipzig Hbf. Der Streckenabschnitt ist für den Bahnverkehr gesperrt. Voraussichtliche Dauer der Störung bis ca. 18:00 Uhr.",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RB 113 Leipzig Hbf - Bad Lausick - Geithain</li></ul><p>Die Züge aus Richtung Geithain enden und beginnen in Leipzig-Liebertwolkwitz. Wir arbeiten an der Einrichtung eines Ersatzverkehrs zwischen Leipzig Hbf und Geithain, warten aber noch auf die Bestätigung unserer Partner. Weitere Informationen folgen.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 323 000 11 (zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "05.04.2024",
+      "durationEnd": "05.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.04.2024 15:37",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "30d14c05-623b-4dcb-94c9-8fd33991c7c7",
       "disruptionId": "243b6069-26b4-46cc-9a71-5b9106e5b3a0_TrafficReport",
       "author": "REGIO_SUEDOST",
