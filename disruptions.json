@@ -311,35 +311,35 @@
       "topDisruption": false
     },
     {
-      "id": "89142593-0809-43fd-9317-08c29a72c7b0",
-      "disruptionId": "49fe0f86-2894-4c0c-be7c-1af23967ebe1",
-      "author": "S_BAHN_HH",
+      "id": "388c3ac7-4ec6-47ec-893b-abc9f5f1f63e",
+      "disruptionId": "95e5c410-1dd3-45af-8bc9-2975637ee110",
+      "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
       },
-      "headline": "Beendet: Verspätungen und Ausfälle auf allen Linien",
-      "summary": " ",
-      "text": "<p>Der Polizeieinsatz am Hauptbahnhof ist beendet, alle Linien fahren wieder regulär. Es sind noch einzelne Verspätungen möglich.</p>",
+      "headline": "Beeinträchtigungen zwischen München und Ingolstadt",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen München und Ingolstadt ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Verspätungen von bis zu 20 Minuten. Einzelne Züge werden auch umgeleitet und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen München und Nürnberg auf direktem Weg.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis heute in die Abendstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "07.04.2024",
       "durationEnd": "07.04.2024",
       "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "LONG_DISTANCE"
       ],
       "states": [
-        "HH"
+        "BY"
       ],
       "lines": [
         {
-          "name": "RB/RE",
+          "name": "IC/EC",
           "filterName": "",
-          "property": "REGIONAL"
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "07.04.2024 14:38",
+      "lastModified": "07.04.2024 15:16",
       "expand": true,
       "topDisruption": false
     },
