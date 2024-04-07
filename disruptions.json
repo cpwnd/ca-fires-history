@@ -243,6 +243,39 @@
       "topDisruption": false
     },
     {
+      "id": "390e236a-ea1f-44e7-a9c9-6658b306094d",
+      "disruptionId": "16b24fd0-7716-4341-918f-0d42915c867f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung im Raum Stuttgart ",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Stuttgart Hbf und Bad Cannstatt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen von etwa 10 Minuten.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-/NJ-Züge zwischen Stuttgart – Ulm –München</li><li>IC-/RJ-Züge zwischen Stuttgart – Ulm – Oberstdorf / Lindau</li><li>IC-Züge zwischen Stuttgart – Tübingen</li><li>IC-Züge zwischen Stuttgart – Aalen – Nürnberg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis Dienstag, 09.04.2024, bis in die Morgenstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "07.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "07.04.2024 05:15",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
