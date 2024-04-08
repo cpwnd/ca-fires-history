@@ -329,9 +329,9 @@
         "category": "police_activity",
         "label": "Behördliche Maßnahme"
       },
-      "headline": "S3/S5: Aktuell keine Züge zwischen Wilhelmsburg und Stade",
+      "headline": "Beendet: S3/S5: Aktuell keine Züge zwischen Wilhelmsburg und Stade",
       "summary": " ",
-      "text": "<p>Aktuell fahren keine S-Bahnen zwischen Wilhelmsburg und Stade. Der Grund ist ein Feuerwehreinsatz. Informationen zum Ersatzverkehr und möglichen Fahrtalternativen:</p><p><strong>Wilhelmsburg - Harburg - Neugraben</strong></p><p>Ersatzverkehr mit Taxis, bitte auch wenn möglich auf Linienbusse ausweichen.</p><p><strong>Hauptbahnhof - Harburg</strong></p><p>Bitte auf ICE/IC/EC/RE ausweichen. Fernzüge (ICE/IC/EC) sind für Fahrkarten des Nahverkehrs und des hvv freigegeben.</p><p><strong>Harburg - Stade</strong></p><p>Die RE5 (Hamburg - Buxtehude - Stade - Cuxhaven) hält zwischen Neugraben - Buxtehude - Stade auf allen Unterwegsbahnhöfen.</p>",
+      "text": "<p>Der Feuerwehreinsatz wurde beendet, die S3 und S5 fahren wieder regulär bis Neugraben und Stade durch. Es ist kein Umstieg auf Busse und Taxis mehr notwendig.</p>",
       "durationBegin": "08.04.2024",
       "durationEnd": "08.04.2024",
       "images": [],
@@ -350,40 +350,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "08.04.2024 12:19",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "8ad94961-b89f-403d-bb12-4935eb625c74",
-      "disruptionId": "5c8bc69d-26ce-4483-8efb-3045316e5e42",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Streckensperrung zwischen Mellrichstadt und Grimmenthal",
-      "summary": "Aufgrund von Vandalismusschäden ist das Stellwerk Mellrichstadt derzeit nicht einsatzbereit und der Zugverkehr zwischen Mellrichstadt und Grimmenthal ist unterbrochen.",
-      "text": "<p>Ein Schienenersatzverkehr zwischen Suhl und Mellrichstadt ist eingerichtet. Es kommt zu Fahrzeitverlängerungen und Anschlussverluste sind wahrscheinlich.</p>",
-      "durationBegin": "08.04.2024",
-      "durationEnd": "08.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "RB/RE",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "08.04.2024 11:44",
+      "lastModified": "08.04.2024 12:58",
       "expand": true,
       "topDisruption": false
     },
@@ -624,7 +591,7 @@
       },
       "headline": "Beeinträchtigungen zwischen Köln, Wuppertal und Dortmund/Hamm(W)",
       "summary": "Aufgrund einer Reparatur der Oberleitung bei Wuppertal ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge zwischen Köln und Dortmund bzw. Hamm(W) mit Zwischenhalt in Wuppertal werden in beiden Fahrtrichtungen umgeleitet. Die Halte Solingen Hbf, Wuppertal Hbf und Hagen Hbf entfallen. Ersatzhalte in Düsseldorf Hbf und Bochum Hbf.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge zwischen Köln und Dortmund bzw. Hamm(W) mit Zwischenhalt in Wuppertal werden in beiden Fahrtrichtungen umgeleitet. Die Halte Solingen Hbf, Wuppertal Hbf und Hagen Hbf entfallen. Ersatzhalte in Düsseldorf Hbf und Bochum Hbf.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die späten Abendstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "08.04.2024",
       "durationEnd": "08.04.2024",
       "images": [],
@@ -643,7 +610,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "08.04.2024 09:59",
+      "lastModified": "08.04.2024 12:58",
       "expand": true,
       "topDisruption": false
     },
