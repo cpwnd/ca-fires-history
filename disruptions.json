@@ -2,53 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "23a574b0-1dba-48b4-8d2e-d8a4b720cb65",
-      "disruptionId": "18d0bfd4-fa91-4bac-9014-6f1dbfea2586",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamburg und Berlin",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Hamburg und Berlin kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich um etwa 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-/EC-Züge zwischen Hamburg (– Büchen) – Berlin.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Morgenstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "08.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "IC/EC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "08.04.2024 05:34",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "cad10265-d03f-46e1-810e-ae523c24fbf6",
       "author": "REGIO_MITTE",
       "cause": {
@@ -414,6 +367,39 @@
       "topDisruption": false
     },
     {
+      "id": "8ad94961-b89f-403d-bb12-4935eb625c74",
+      "disruptionId": "5c8bc69d-26ce-4483-8efb-3045316e5e42",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Mellrichstadt und Grimmenthal",
+      "summary": "Aufgrund von Vandalismusschäden ist das Stellwerk Mellrichstadt derzeit nicht einsatzbereit und der Zugverkehr zwischen Mellrichstadt und Grimmenthal ist unterbrochen.",
+      "text": "<p>Der Schienenersatzverkehr zwischen Suhl und Grimmenthal wird bis Mellrichstadt verlängert. Es kommt zu Fahrzeitverlängerungen und Anschlussverluste sind wahrscheinlich.</p>",
+      "durationBegin": "08.04.2024",
+      "durationEnd": "08.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.04.2024 10:00",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "30d14c05-623b-4dcb-94c9-8fd33991c7c7",
       "disruptionId": "243b6069-26b4-46cc-9a71-5b9106e5b3a0_TrafficReport",
       "author": "REGIO_SUEDOST",
@@ -637,6 +623,39 @@
         }
       ],
       "lastModified": "27.02.2024 01:34",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "858af142-5fe7-4226-9578-e627967fca1f",
+      "disruptionId": "d32f6845-2436-4ebc-a377-efea46f6e9ba",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln, Wuppertal und Dortmund/Hamm(W)",
+      "summary": "Aufgrund einer Reparatur der Oberleitung bei Wuppertal ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge zwischen Köln und Dortmund bzw. Hamm(W) mit Zwischenhalt in Wuppertal werden in beiden Fahrtrichtungen umgeleitet. Die Halte Solingen Hbf, Wuppertal Hbf und Hagen Hbf entfallen. Ersatzhalte in Düsseldorf Hbf und Bochum Hbf.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "08.04.2024",
+      "durationEnd": "08.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "08.04.2024 09:59",
       "expand": true,
       "topDisruption": false
     },
