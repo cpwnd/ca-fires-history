@@ -330,9 +330,9 @@
         "category": "police_activity",
         "label": "Polizeieinsatz"
       },
-      "headline": "S5: Aktuell keine Züge zwischen Buxtehude und Stade",
+      "headline": "S5: Beendet: Aktuell keine Züge zwischen Buxtehude und Stade",
       "summary": " ",
-      "text": "<p>Aktuell fahren keine Züge zwischen Buxtehude und Stade, auch die RE5 (Cuxhaven - Hamburg) ist betroffen. Der Grund ist ein Polizeieinsatz.</p>",
+      "text": "<p>Der Polizeieinsatz zwischen Buxtehude und Stade wurde beendet, die Züge fahren wieder. Es sind noch Folgeverspätungen möglich.</p>",
       "durationBegin": "09.04.2024",
       "durationEnd": "09.04.2024",
       "images": [],
@@ -351,7 +351,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "09.04.2024 08:41",
+      "lastModified": "09.04.2024 09:11",
       "expand": true,
       "topDisruption": false
     },
@@ -502,6 +502,39 @@
         }
       ],
       "lastModified": "31.05.2023 09:32",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "5e156bd5-9d7a-4590-ae96-ab5588ac6031",
+      "disruptionId": "bcf4f096-7c24-48da-ae78-1827fc5413d7",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Ausfälle der S-Bahnlinie S 10",
+      "summary": "Ausfälle einzelner Fahrten durch Personalengpässe",
+      "text": "<p><strong>Ab Miltitzer Allee</strong> in Richtung Leipzig Hauptbahnhof fallen diese Fahrten aus:</p><ul><li>ab 7:05 Uhr</li><li>ab 8:35 Uhr</li><li>ab 10:05 Uhr</li><li>ab 11:35 Uhr</li><li>ab 13:05 Uhr</li><li>ab 14:35 Uhr</li><li>ab 16:05 Uhr</li><li>ab 17:35 Uhr</li></ul><p><strong>Ab Leipzig Hauptbahhof</strong> in Richtung Leipzig Miltitzer Allee fallen diese Fahrten aus:</p><ul><li>ab 6:28 Uhr</li><li>ab 7:58 Uhr</li><li>ab 9:28 Uhr</li><li>ab 10:58 Uhr</li><li>ab 12:28 Uhr</li><li>ab13:58 Uhr</li><li>ab 15:28 Uhr</li><li>ab 16:58 Uhr</li><li>ab18:28 Uhr</li></ul><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder telefonisch unter 0391 55757975 (zum Ortstarif) zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "09.04.2024",
+      "durationEnd": "30.08.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.04.2024 09:14",
       "expand": false,
       "topDisruption": false
     },
