@@ -390,6 +390,59 @@
       "topDisruption": false
     },
     {
+      "id": "9939e40d-1c6c-4827-9771-ddc9ab7077ea",
+      "disruptionId": "ed3720fc-d2a3-449b-bad1-35418a4f59e5",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S4: Bauarbeiten zwischen Benningen und Backnang (9.4.-11.4.)",
+      "summary": "9. April bis 11. April - in den Nächten",
+      "text": "<p><strong>In der Nacht 9./10. April&nbsp;(jeweils 21:30 Uhr bis ca. 1:30 Uhr)</strong></p><ul><li>Die&nbsp;Linie S4&nbsp;verkehrt in beiden Richtungen&nbsp;jeweils in den Abschnitten S-Schwabstraße - Benningen&nbsp;und&nbsp;Marbach - Backnang.</li><li>Die Züge Richtung S-Schwabstraße fahren in Benningen mit 12 Minuten Verspätung ab. Bitte berücksichtigen Sie dies bei eventuellen Anschlussverbindungen.</li><li>Zwischen Benningen und Marbach wird ein Ersatzverkehr mit Bussen eingerichtet.</li><li>Bitte beachten Sie, dass in Marbach aufgrund der längeren Fahrtzeiten der Busse nicht immer ein Anschluss auf eine Linie S4 nach Backnang besteht.&nbsp;Wählen Sie daher gegebenenfalls eine frühere S-Bahn- Verbindung.</li></ul><p><strong>Am 10. April&nbsp;(3:30 Uhr bis 4:00 Uhr)</strong></p><ul><li>Die&nbsp;Linie S4 Richtung S-Schwabstraße&nbsp;mit planmäßiger Abfahrt in Marbach um 3:55 Uhr verkehrt erst ab Benningen.</li><li>Zwischen Marbach und Benningen wird ein Ersatzverkehr mit Bussen&nbsp;eingerichtet, dieser&nbsp;fährt in Marbach bereits um 3:40 Uhr ab.&nbsp;</li></ul><p>I<strong>n der Nacht 10./11. April&nbsp;(22:00 Uhr bis ca. 1:00 Uhr)</strong></p><ul><li>Die&nbsp;Linie S4&nbsp;verkehrt in beiden Richtungen&nbsp;nur zwischen S-Schwabstraße und Marbach.</li><li>Zwischen Marbach und Backnang wird ein Ersatzverkehr mit Bussen eingerichtet.</li><li>Bitte beachten Sie die längeren Fahrtzeiten der Busse und wählen Sie ggf. eine frühere S-Bahn- Verbindung.&nbsp;</li></ul><p>Bitte berücksichtigen Sie diese Abweichungen bei Ihrer Reiseplanung und informieren Sie sich vorab über Ihre Reiseverbindungen.</p>",
+      "durationBegin": "09.04.2024",
+      "durationEnd": "11.04.2024",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-04-09/971f207c-6e3c-430f-9cc5-aea9d2e32566S4.pdf",
+          "label": "S4.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/Betriebslage-Baustellen-/baustellen/S4-Bauarbeiten-zwischen-Benningen-und-Backnang-9-4-11-4--12756236#?",
+          "label": "Webseite",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.04.2024 18:44",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "82ed6609-4ff6-4985-bdd7-27fa03971646",
       "disruptionId": "422fd211-6d15-403b-a05b-44d0676733e3",
       "author": "S_BAHN_S",
