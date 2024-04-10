@@ -2,6 +2,40 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "1a99d6fb-dbd6-42a9-ba8b-c042595f350e",
+      "disruptionId": "0bb84ab9-0793-4b3a-9e05-0490c0bf7135",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Berlin und Rostock",
+      "summary": "Aufgrund einer Streckensperrung ist die Strecke zwischen Berlin und Rostock derzeit unterbrochen. Züge des Fernverkehrs werden umgeleitet und erhalten etwa 20 Minuten Verspätung. Die Halte Berlin Gesundbrunnen, Oranienburg, Neustrelitz und Waren entfallen.  ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Berlin und Rostock</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "10.04.2024 18:46",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "cad10265-d03f-46e1-810e-ae523c24fbf6",
       "author": "REGIO_MITTE",
       "cause": {
