@@ -186,6 +186,40 @@
       "topDisruption": false
     },
     {
+      "id": "a72e7d34-9d5b-4dca-b750-4fe613e4dc86",
+      "disruptionId": "6792084d-2309-4100-a9d6-0430866c94e1",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Fahrtausfälle zwischen Frankfurt(M) und Siegen",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles im Stellwerk Dutenhofen kommt es zu Fahrtausfällen zwischen Frankfurt(M) und Siegen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Züge:</strong></strong><ul><li>In der Nacht 11./12.04.2024 fallen IC 2222 und IC 2323 jeweils zwischen Frankfurt(M) und Siegen aus.</li></ul><p>Die Fahrtausfälle sind in den Auskunftsmedien eingepflegt und ersichtlich.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "11.04.0204",
+      "durationEnd": "12.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "IC/EC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "10.04.2024 12:22",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "f8551265-25d5-4a78-9b3d-44db0a8ebd2e",
       "disruptionId": "5a74f9fc-8701-4e92-bb66-47075732241d_TrafficReport",
       "author": "REGIO_SUEDOST",
@@ -216,40 +250,6 @@
         }
       ],
       "lastModified": "10.04.2024 08:52",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "a72e7d34-9d5b-4dca-b750-4fe613e4dc86",
-      "disruptionId": "6792084d-2309-4100-a9d6-0430866c94e1",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Fahrtausfälle zwischen Frankfurt(M) und Siegen",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles im Stellwerk Dutenhofen kommt es zu Fahrtausfällen zwischen Frankfurt(M) und Siegen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Züge:</strong></strong><ul><li>In der Nacht 11./12.04.2024 fallen IC 2222 und IC 2323 jeweils zwischen Frankfurt(M) und Siegen aus.</li></ul><p>Die Fahrtausfälle sind in die Auskunftsmedien eingepflegt und ersichtlich.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "11.04.0204",
-      "durationEnd": "12.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "IC/EC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "09.04.2024 09:34",
       "expand": false,
       "topDisruption": false
     },
@@ -614,7 +614,7 @@
         "label": "Kurzfristiger Personalausfall"
       },
       "headline": "Personalausfälle bei der SNCF. Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
-      "text": "<p><strong>Betroffene Strecke:</strong></p>\n\n<p><strong>RB 28 M&uuml;llheim(Baden) - Mulhouse Ville</strong></p>\n\n<p>Kein Zugverkehr zwischen M&uuml;llheim(Baden) und Mulhouse Ville. Grund: Fehlendes Personal. Ersatzverkehr mit Bussen zwischen M&uuml;llheim(Baden) und Mulhouse Ville ist eingerichtet.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "text": "<p><strong>Betroffene Strecke:</strong></p>\n\n<p><strong>RB 28 M&uuml;llheim(Baden) - Mulhouse Ville</strong></p>\n\n<p>Kein Zugverkehr zwischen M&uuml;llheim(Baden) und Mulhouse Ville. Grund: Fehlendes Personal bei der SNCF. Ein Ersatzverkehr mit Bussen zwischen M&uuml;llheim(Baden) und Mulhouse Ville ist eingerichtet.</p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
       "durationEnd": "31.12.2024",
       "images": [],
       "downloads": [],
@@ -632,7 +632,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "10.04.2024 12:03",
+      "lastModified": "10.04.2024 12:20",
       "expand": false,
       "topDisruption": false
     },
