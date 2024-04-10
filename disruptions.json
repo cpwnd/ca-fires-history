@@ -2,40 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "23169de6-1952-4660-90a9-cb4af6b7e3b3",
-      "disruptionId": "1699a08c-9fac-463c-b8d0-3c9bdf1c0d45",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Darmstadt und Heidelberg",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Darmstadt und Heidelberg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Haltausfällen in Darmstadt, Bensheim, Heppenheim und Weinheim.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-/EC-Züge, die zwischen Darmstadt und Heidelberg verkehren.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in den Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "10.04.2024",
-      "durationEnd": "10.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "IC/EC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "10.04.2024 17:42",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "cad10265-d03f-46e1-810e-ae523c24fbf6",
       "author": "REGIO_MITTE",
       "cause": {
