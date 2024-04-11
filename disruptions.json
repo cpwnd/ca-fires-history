@@ -2,6 +2,53 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "773cbcff-3966-4697-bac7-8009857fc668",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Erhebliche Beeinträchtigungen zwischen Oranienburg und Berlin",
+      "summary": "<strong>Aufgrund eines Bahnbetriebsunfalls gibt es erhebliche Beeintr&auml;chtigungen bis Montag (abend) auf den Linien RE5, RB20 und RB32.</strong>",
+      "text": "<p>Die Z&uuml;ge der <strong>RE5</strong>&nbsp;(Rostock Hbf - Berlin S&uuml;dkreuz) entfallen zwischen Oranienburg und Berlin S&uuml;dkreuz in beide Richtungen.&nbsp;Ein Ersatzverkehr mit Bussen zwischen Oranienburg und Berlin Gesundbrunnen ist eingerichtet.</p>\n\n<p>Die Z&uuml;ge der <strong>RB20</strong>&nbsp;(Oranienburg - Potsdam Griebnitzsee) entfallen zwischen Oranienburg und Hohen Neuendorf West in beide Richtungen. Reisende benutzen als Ersatz die Busse des Schienenersatzverkehrs der S-Bahn von Oranienburg nach Berlin Frohnau.</p>\n\n<p>Die Z&uuml;ge der <strong>RB32</strong>&nbsp;(Oranienburg - Sch&ouml;nefeld (bei Berlin)) entfallen zwischen Oranienburg und Berlin-Lichtenberg in beide Richtungen. Reisende benutzen als Ersatz die Z&uuml;ge der Berliner S-Bahn.</p>\n\n<p><strong>Alternative Reisem&ouml;glichkeit:</strong>&nbsp;</p>\n\n<p>Reisende mit direkt Ziel Rostock/Berlin nutzen bitte die umgeleiteten Z&uuml;ge des Fernverkehrs.&nbsp;</p>\n\n<p>Bitte informieren Sie ich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "durationBegin": "11.04.2024",
+      "durationEnd": "15.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "Reiseauskunft bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.04.2024 12:17",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "1a99d6fb-dbd6-42a9-ba8b-c042595f350e",
       "disruptionId": "0bb84ab9-0793-4b3a-9e05-0490c0bf7135",
       "author": "FERNVERKEHR_AG",
@@ -41,52 +88,6 @@
       ],
       "lastModified": "11.04.2024 10:20",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "773cbcff-3966-4697-bac7-8009857fc668",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Oranienburg und Berlin",
-      "summary": "<strong>Aufgrund einer Streckensperrung gibt es Beeintr&auml;chtigungen auf den Linien RE 5, RB 20 und RB 32.</strong>",
-      "text": "<p>Die Z&uuml;ge der <strong>RE 5</strong> entfallen zwischen Oranienburg und Berlin S&uuml;dkreuz in beide Richtungen.&nbsp;Ein Ersatzverkehr mit Bussen zwischen Oranienburg und Berlin Gesundbrunnen ist eingerichtet.</p>\n\n<p>Die Z&uuml;ge der <strong>RB 20</strong> entfallen zwischen Oranienburg und Hohen Neuendorf West in beide Richtungen. Reisende benutzen als Ersatz die Busse des Schienenersatzverkehrs der S-Bahn von Oranienburg nach Berlin Frohnau.</p>\n\n<p>Die Z&uuml;ge der <strong>RB 32</strong> entfallen zwischen Oranienburg und Berlin-Lichtenberg in beide Richtungen. Reisende benutzen als Ersatz die Z&uuml;ge der Berliner S-Bahn.</p>\n\n<p>Bitte informieren Sie ich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de/reiseauskunft, im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
-      "durationBegin": "11.04.2024",
-      "durationEnd": "11.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "Reiseauskunft bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE"
-      ],
-      "lines": [
-        {
-          "name": "RB/RE",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "11.04.2024 08:12",
-      "expand": false,
       "topDisruption": false
     },
     {
