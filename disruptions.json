@@ -881,6 +881,57 @@
       "topDisruption": false
     },
     {
+      "id": "89d35072-06b2-432a-bcd8-f3007b613a68",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Kurzfristige Verlängerung der Baumaßnahmen zwischen Frankfurt(O) und Cottbus",
+      "summary": "Aufgrund der kurzfristigen Verl&auml;ngerung der Bauma&szlig;nahme zwischen Frankfurt(O) und Cottbus kommt es zu Zugausf&auml;llen auf den Linien RE10 und RB43.",
+      "text": "<p>Vsl. fallen alle Z&uuml;ge der beiden Linien (RE10 und RB43) am 13. / 14. / 15.04. zwischen Frankfurt(O) und Cottbus aus. Ein Busnotverkehr wird vorbereitet.&nbsp;</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt noch einmal &uuml;ber die&nbsp;<strong>tats&auml;chlichen Fahrzeiten der Z&uuml;ge und Busse</strong>&nbsp;in der Reiseauskunft auf bahn.de bzw. vbb.de, in der App DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "durationBegin": "12.04.2024",
+      "durationEnd": "15.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "Reiseauskunft bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.vbb.de/fahrinformation/vbb-apps/vbb-app-bus-bahn/",
+          "label": "VBB-App \"Bus&Bahn\"",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB"
+      ],
+      "lines": [
+        {
+          "name": "RB/RE",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.04.2024 10:27",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "disruptionId": "e6146ea6-b009-4114-b108-0b15cafb611d_TrafficReport",
       "author": "S_BAHN_S",
