@@ -116,49 +116,6 @@
       "topDisruption": false
     },
     {
-      "id": "1a99d6fb-dbd6-42a9-ba8b-c042595f350e",
-      "disruptionId": "0bb84ab9-0793-4b3a-9e05-0490c0bf7135",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen zwischen Berlin und Rostock",
-      "summary": "Aufgrund einer Streckensperrung bei Birkenwerder ist der Fernverkehr der Deutschen Bahn zwischen Berlin und Rostock beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle IC-Züge zwischen Berlin und Rostock werden in beiden Fahrtrichtungen zwischen Berlin Hbf und Rostock Hbf ohne Zwischenhalt umgeleitet und verspäten sich dadurch um etwa 15 Minuten. Die Halte Berlin Gesundbrunnen, Oranienburg, Neustrelitz Hbf und Waren(Müritz) entfallen.</li></ul><p><strong>Reisealternative:</strong></p><ul><li>Zwischen <strong>Rostock </strong>und <strong>Oranienburg </strong>verkehren die Regionalzüge der Linie RE 5 mit Zwischenhalten in <strong>Waren(Müritz)</strong> und <strong>Neustrelitz</strong>.</li><li><strong>Berlin Gesundbrunnen</strong> erreichen Sie mit den verbleibenden Fernverkehrszügen sowie den Regional- und S-Bahnen von <strong>Berlin Hbf.</strong></li></ul><p>Die Behebung der Störung soll vsl. bis in die Morgenstunden am Mittwoch, 16.04.2024, erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "10.04.2024",
-      "durationEnd": "16.04.2024",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-04-15/f6a1261c-ff1e-4630-9fd3-0e1886f15f90reisendenkarte_20240410-214642.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-04-15/f6a1261c-ff1e-4630-9fd3-0e1886f15f90reisendenkarte_20240410-214642.png",
-          "info": "",
-          "alt": "Reisendenkarte",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "15.04.2024 21:21",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -1045,65 +1002,6 @@
       ],
       "lastModified": "27.03.2024 14:15",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "a12a85fd-9d62-4648-8844-5f6298d2d048",
-      "disruptionId": "478c1254-d19b-4037-825d-2cf006cac24c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "Stammstrecke: Verspätungen / ärzliche Versorgung eines Fahrgastes",
-      "summary": "Stammstrecke: Verspätungen / ärzliche Versorgung eines Fahrgastes",
-      "text": "<p>Auf der Stammstrecke kommt es in Richtung Ostbahnhof aufgrund einer ärztlichen Versorgung eines Fahrgastes zu Verspätung von bis zu 15 Minuten.</p>",
-      "durationBegin": "15.04.2024",
-      "durationEnd": "15.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.04.2024 21:46",
-      "expand": true,
       "topDisruption": false
     },
     {
