@@ -1048,6 +1048,65 @@
       "topDisruption": false
     },
     {
+      "id": "a12a85fd-9d62-4648-8844-5f6298d2d048",
+      "disruptionId": "478c1254-d19b-4037-825d-2cf006cac24c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke: Verspätungen / ärzliche Versorgung eines Fahrgastes",
+      "summary": "Stammstrecke: Verspätungen / ärzliche Versorgung eines Fahrgastes",
+      "text": "<p>Auf der Stammstrecke kommt es in Richtung Ostbahnhof aufgrund einer ärztlichen Versorgung eines Fahrgastes zu Verspätung von bis zu 15 Minuten.</p>",
+      "durationBegin": "15.04.2024",
+      "durationEnd": "15.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.04.2024 21:46",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "disruptionId": "e6146ea6-b009-4114-b108-0b15cafb611d_TrafficReport",
       "author": "S_BAHN_S",
