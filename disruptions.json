@@ -458,6 +458,39 @@
       "topDisruption": false
     },
     {
+      "id": "1501e23f-6a31-433a-aa5d-ec14abb3d04d",
+      "disruptionId": "72da64bd-101d-4c68-9450-a355ae3d2ffe",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Mannheim und Frankfurt(M)",
+      "summary": "Aufgrund der Reparatur an einer Weiche zwischen Mannheim und Frankfurt(M) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Bei einzelnen Zügen kommt es zu Verspätungen von vsl. 15 Minuten.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge auf der Relation Mannheim - Frankfurt(M) und Gegenrichtung</li><li>TGV-/ECE-Züge auf der Relation Mannheim - Frankfurt(M) und Gegenrichtung</li><li>NJ-Züge auf der Relation Mannheim - Frankfurt(M) und Gegenrichtung</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis 17.04.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "15.04.2024 15:06",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "89d35072-06b2-432a-bcd8-f3007b613a68",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -466,7 +499,7 @@
       },
       "headline": "Kurzfristige Verlängerung der Baumaßnahmen zwischen Frankfurt(Oder) und Cottbus Hbf",
       "summary": "Aufgrund der kurzfristigen Verl&auml;ngerung der Bauma&szlig;nahme zwischen Frankfurt(Oder) und Cottbus Hbf kommt es zu Zugausf&auml;llen auf den Linien RE10, RB43 und RB92.",
-      "text": "<p>Alle Z&uuml;ge der Linien (RE10 und RB43) fallen vom 12. April (22 Uhr) bis 17. April Betriebsende zwischen Frankfurt(Oder) und Cottbus Hbf in beide Richtungen aus. Ein Busnotverkehr ist eingerichtet.&nbsp;</p>\n\n<p>Die Z&uuml;ge der Linie RB92 (Zielona G&oacute;ra- Cottbus Hbf) fallen zwischen Cottbus Hbf und Guben in beide Richtungen aus.</p>\n\n<p>Zwischen Guben und Cottbus Hbf steht Ihnen alternativ die Buslinie 877 zur Verf&uuml;gung. Auf dieser Linie gelten VBB-Fahrscheine sowie das Deutschlandticket und Brandenburg-Berlin-Ticket</p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt noch einmal &uuml;ber die&nbsp;<strong>tats&auml;chlichen Fahrzeiten der Z&uuml;ge und Busse</strong>&nbsp;in der Reiseauskunft auf bahn.de bzw. vbb.de, in der App DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "text": "<p><strong>Alle Z&uuml;ge der Linien (RE10 und RB43) fallen vom 12. April (22 Uhr) bis 16. April Betriebsende zwischen Frankfurt(Oder) und Cottbus Hbf in beide Richtungen aus. </strong>Ein Busnotverkehr ist eingerichtet.&nbsp;</p>\n\n<p>Die Z&uuml;ge der Linie RB92 (Zielona G&oacute;ra- Cottbus Hbf) fallen zwischen Cottbus Hbf und Guben in beide Richtungen aus.</p>\n\n<p>Zwischen Guben und Cottbus Hbf steht Ihnen alternativ die Buslinie 877 zur Verf&uuml;gung. Auf dieser Linie gelten VBB-Fahrscheine sowie das Deutschlandticket und Brandenburg-Berlin-Ticket.</p>\n\n<p><strong>Die Beeintr&auml;chtigungen auf dem Streckenabschnitt Guben - Cottbus Hbf werden &uuml;ber den 16.04. hinaus bestehen bleiben. </strong>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt noch einmal &uuml;ber die&nbsp;<strong>tats&auml;chlichen Fahrzeiten der Z&uuml;ge und Busse</strong>&nbsp;in der Reiseauskunft auf bahn.de bzw. vbb.de, in der App DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
       "durationBegin": "12.04.2024",
       "durationEnd": "16.04.2024",
       "images": [],
@@ -512,7 +545,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "13.04.2024 09:44",
+      "lastModified": "15.04.2024 15:17",
       "expand": false,
       "topDisruption": false
     },
