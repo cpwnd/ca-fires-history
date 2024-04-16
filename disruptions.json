@@ -2,40 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "f4d15478-c280-4664-8a71-f4b24c9459d3",
-      "disruptionId": "04a44513-1f10-43e4-b4bd-bbe6ae4b271b",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen zwischen Mannheim und Mainz",
-      "summary": "Aufgrund von einer Streckensperrung in Worms Hbf ist die Strecke zwischen Mannheim und Mainz derzeit nicht befahrbar. Dadurch kommt es zu Umleitungen und Verspätungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC/EC-Züge zwischen Mannheim und Mainz werden umgeleitet und verspäten sich um etwa 10 Minuten. Der Halt Worms Hbf entfällt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "16.04.2024",
-      "durationEnd": "16.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "16.04.2024 19:37",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "1c2281af-540f-418c-8985-9cba6831e394",
       "author": "REGIO_MITTE",
       "cause": {
@@ -44,7 +10,7 @@
       },
       "headline": "Beeinträchtigungen in Worms Hbf ",
       "summary": "Die Sperrung des Bahnhofs in Worms Hbf wurde teilweise aufgehoben.&nbsp;Verf&uuml;gbarkeit der Gleise derzeit eingeschr&auml;nkt.",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RB35 Worms - Alzey - Bingen</strong></li>\n\t<li><strong>RB62 Worms - Biblis</strong></li>\n\t<li><strong>RB63 Worms - Bensheim</strong></li>\n\t<li><strong>S6 Mannheim - Worms - Mainz</strong></li>\n\t<li><strong>RE4 Karlsruhe - Worms - Mainz&nbsp;</strong></li>\n\t<li><strong>RE14 Mannheim - Worms - Mainz - Frankfurt</strong></li>\n</ul>\n\n<p>RB35: Z&uuml;ge aus Richtung Bingen enden/beginnen in Worms. Ersatzverkehr mit einem Bus ist eingerichtet.</p>\n\n<p>RB62 / RB63: Die Z&uuml;ge fallen bis Betriebsschluss aus. Ersatzverkehr mit jeweils einem Bus ist eingerichtet.</p>\n\n<p>S6 / RE4 / RE14: Z&uuml;ge verkehren auf dem Regelweg. Folgeversp&auml;tungen und kurzfristige Fahrtausf&auml;lle m&ouml;glich. Ersatzverkehr mit Bussen zwischen Osthofen und Ludwigshafen noch im Einsatz.</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RB35 Worms - Alzey - Bingen</strong></li>\n\t<li><strong>RB62 Worms - Biblis</strong></li>\n\t<li><strong>RB63 Worms - Bensheim</strong></li>\n\t<li><strong>S6 Mannheim - Worms - Mainz</strong></li>\n\t<li><strong>RE4 Karlsruhe - Worms - Mainz&nbsp;</strong></li>\n\t<li><strong>RE14 Mannheim - Worms - Mainz - Frankfurt</strong></li>\n</ul>\n\n<p>RB35: Z&uuml;ge aus Richtung Bingen enden/beginnen in Worms. Ersatzverkehr mit einem Bus ist eingerichtet.</p>\n\n<p>RB62 / RB63: Die Z&uuml;ge fallen bis Betriebsschluss aus. Ersatzverkehr mit jeweils einem Bus ist eingerichtet.</p>\n\n<p>S6 / RE4 / RE14: Z&uuml;ge verkehren auf dem Regelweg. Folgeversp&auml;tungen und kurzfristige Fahrtausf&auml;lle m&ouml;glich.</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "images": [],
       "downloads": [],
       "links": [
@@ -81,8 +47,42 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.04.2024 14:18",
+      "lastModified": "16.04.2024 20:33",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "f4d15478-c280-4664-8a71-f4b24c9459d3",
+      "disruptionId": "04a44513-1f10-43e4-b4bd-bbe6ae4b271b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Mannheim und Mainz",
+      "summary": "Aufgrund von einer Streckensperrung in Worms Hbf ist die Strecke zwischen Mannheim und Mainz derzeit nicht befahrbar. Dadurch kommt es zu Umleitungen und Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC/EC-Züge zwischen Mannheim und Mainz werden umgeleitet und verspäten sich um etwa 10 Minuten. Der Halt Worms Hbf entfällt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "16.04.2024",
+      "durationEnd": "16.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "16.04.2024 19:37",
+      "expand": true,
       "topDisruption": false
     },
     {
