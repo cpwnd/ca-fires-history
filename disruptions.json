@@ -10,8 +10,8 @@
         "label": "Unwetter"
       },
       "headline": "Unwetterauswirkungen in der Mitte Deutschlands",
-      "summary": "Aktuell kommt es in der Mitte Deutschlands aufgrund von Unwetterauswirkungen zu Einschränkungen im Fernverkehr der Deutschen Bahn. Einzelne Strecken sind gesperrt und es kommt zu Umleitungen mit Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge auf dem Abschnitt zwischen Hanau und Gießen werden umgeleitet. Es kommt zu Verspätungen von etwa 15 Minuten. Der Halt in Frankfurt(M) West entfällt.</li><li>ICE-Züge auf dem Abschnitt Erfurt und Nürnberg verspäten sich aktuell um etwa 15 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aktuell kommt es in der Mitte Deutschlands aufgrund von Unwetterauswirkungen zu Einschränkungen im Fernverkehr der Deutschen Bahn. Einzelne Strecken sind eingeschränkt befahrbar.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li><strong>ICE- und IC-Züge </strong>auf dem Abschnitt zwischen <strong>Hanau und Gießen</strong> werden umgeleitet. Es kommt zu Verspätungen von etwa 15 Minuten. Der Halt in Frankfurt(M) West entfällt.</li><li><strong>ICE-Züge</strong> auf dem Abschnitt<strong> Erfurt und Nürnberg</strong> verspäten sich aktuell um etwa 15 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "15.04.2024",
       "durationEnd": "15.04.2024",
       "images": [],
@@ -45,7 +45,40 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "16.04.2024 09:38",
+      "lastModified": "16.04.2024 10:42",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "f4d15478-c280-4664-8a71-f4b24c9459d3",
+      "disruptionId": "04a44513-1f10-43e4-b4bd-bbe6ae4b271b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Mannheim und Mainz",
+      "summary": "Aufgrund von einer Streckensperrung in Worms Hbf ist die Strecke zwischen Mannheim und Mainz derzeit nicht befahrbar. Dadurch kommt es zu Umleitungen und Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC/EC-Züge zwischen Mannheim und Mainz werden umgeleitet und verspäten sich um etwa 10 Minuten. Der Halt Worms Hbf entfällt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "16.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "16.04.2024 10:39",
       "expand": true,
       "topDisruption": false
     },
@@ -58,7 +91,7 @@
       },
       "headline": "Bahnhof Worms Hbf gesperrt",
       "summary": "Der Bahnhof Worms ist derzeit gesperrt. Keine Zugfahrten m&ouml;glich.",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RB35 Worms - Alzey - Bingen</strong></li>\n\t<li><strong>RB62 Worms - Biblis</strong></li>\n\t<li><strong>RB63 Worms - Bensheim</strong></li>\n\t<li><strong>S6 Mannheim - Worms - Mainz</strong></li>\n\t<li><strong>RE4 Karlsruhe - Worms - Mainz&nbsp;</strong></li>\n\t<li><strong>RE14 Mannheim - Worms - Mainz</strong></li>\n</ul>\n\n<p>RB35: Z&uuml;ge aus Richtung Bingen enden/beginnen in Worms. Ersatzverkehr mit einem Bus ist eingerichtet.</p>\n\n<p>RB62 / RB63: Die Z&uuml;ge fallen aus. Ersatzverkehr mit jeweils einem Bus ist eingerichtet.</p>\n\n<p>S6: Z&uuml;ge aus Mainz enden/beginnen in Osthofen und Z&uuml;ge aus Mannheim enden/beginnen nach M&ouml;glichkeit in Ludwigshafen Hbf. Ersatzverkehr ist mit Bussen zwischen Osthofen und Ludwigshafen eingerichtet. Kurzfristge Zugausf&auml;lle m&ouml;glich.</p>\n\n<p>RE4/14: Z&uuml;ge werden nach M&ouml;glichkeit zw. Ludwigshafen/Mannheim und Mainz umgeleitet. Kurzfristige Zugausf&auml;lle m&ouml;glich.</p>\n\n<p>&nbsp;</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>RB35 Worms - Alzey - Bingen</strong></li>\n\t<li><strong>RB62 Worms - Biblis</strong></li>\n\t<li><strong>RB63 Worms - Bensheim</strong></li>\n\t<li><strong>S6 Mannheim - Worms - Mainz</strong></li>\n\t<li><strong>RE4 Karlsruhe - Worms - Mainz&nbsp;</strong></li>\n\t<li><strong>RE14 Mannheim - Worms - Mainz</strong></li>\n</ul>\n\n<p>RB35: Z&uuml;ge aus Richtung Bingen enden/beginnen in Worms. Ersatzverkehr mit einem Bus ist eingerichtet.</p>\n\n<p>RB62 / RB63: Die Z&uuml;ge fallen aus. Ersatzverkehr mit jeweils einem Bus ist eingerichtet.</p>\n\n<p>S6: Z&uuml;ge aus Mainz enden/beginnen in Osthofen und Z&uuml;ge aus Mannheim enden/beginnen nach M&ouml;glichkeit in Ludwigshafen Hbf. Ersatzverkehr ist mit Bussen zwischen Osthofen und Ludwigshafen eingerichtet. Kurzfristge Zugausf&auml;lle m&ouml;glich.</p>\n\n<p>RE4/14: Z&uuml;ge werden nach M&ouml;glichkeit zw. Ludwigshafen/Mannheim und Mainz umgeleitet. Kurzfristige Zugausf&auml;lle m&ouml;glich.</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "images": [],
       "downloads": [],
       "links": [
@@ -95,7 +128,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "16.04.2024 10:21",
+      "lastModified": "16.04.2024 10:34",
       "expand": false,
       "topDisruption": false
     },
@@ -419,7 +452,7 @@
       },
       "headline": "Beeinträchtigung zwischen Mannheim und Frankfurt(M)",
       "summary": "Aufgrund der Reparatur an einer Weiche zwischen Mannheim und Frankfurt(M) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Bei einzelnen Zügen kommt es zu Verspätungen von vsl. 15 Minuten.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge auf der Relation Mannheim - Frankfurt(M) und Gegenrichtung</li><li>TGV-/ECE-Züge auf der Relation Mannheim - Frankfurt(M) und Gegenrichtung</li><li>NJ-Züge auf der Relation Mannheim - Frankfurt(M) und Gegenrichtung</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis 17.04.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/TGV- und IC/EC-Züge auf dem Abschnitt zwischen Frankfurt(M) und Mannheim</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis 17.04.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "15.04.2024",
       "images": [],
       "downloads": [],
@@ -438,7 +471,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "15.04.2024 15:40",
+      "lastModified": "16.04.2024 10:46",
       "expand": true,
       "topDisruption": false
     },
