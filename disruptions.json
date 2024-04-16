@@ -2,18 +2,17 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "8e1ca838-e81f-4e8a-ad7c-7dcf5899205a",
-      "disruptionId": "aed160a0-4e77-4c6a-90bb-fc44622c520c",
+      "id": "54b0ec33-ea11-408b-8d7f-03f1169e1a7b",
+      "disruptionId": "144dd5bb-0cdd-4505-813c-0f4cef45ed07",
       "author": "FERNVERKEHR_AG",
       "cause": {
         "category": "weather_storm",
-        "label": "Unwetter"
+        "label": "Unwetterauswirkungen"
       },
-      "headline": "Unwetterauswirkungen in der Mitte Deutschlands",
-      "summary": "Aktuell kommt es in der Mitte Deutschlands aufgrund von Unwetterauswirkungen zu Einschränkungen im Fernverkehr der Deutschen Bahn. Einzelne Strecken sind eingeschränkt befahrbar.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li><strong>ICE- und IC-Züge </strong>auf dem Abschnitt zwischen <strong>Hanau und Gießen</strong> werden umgeleitet. Es kommt zu Verspätungen von etwa 15 Minuten. Der Halt in Frankfurt(M) West entfällt.</li><li><strong>ICE-Züge</strong> auf dem Abschnitt<strong> Erfurt und Nürnberg</strong> verspäten sich aktuell um etwa 15 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigungen aufgrund Unwetterauswirkungen zwischen Erfurt und Nürnberg",
+      "summary": "Aktuell kommt es zwischen Erfurt und Nürnberg aufgrund des Unwetters zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Strecke ist Abschnittsweise nur eingleisig befahrbar. Dadurch kommt es zu Verspätungen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge auf dem Abschnitt zwischen Erfurt und Nürnberg verspäten sich um etwa 15 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "15.04.2024",
-      "durationEnd": "15.04.2024",
       "images": [],
       "downloads": [],
       "links": [],
@@ -21,22 +20,8 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
+        "TH",
+        "BY"
       ],
       "lines": [
         {
@@ -45,7 +30,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "16.04.2024 10:42",
+      "lastModified": "16.04.2024 11:00",
       "expand": true,
       "topDisruption": false
     },
@@ -612,6 +597,38 @@
       "topDisruption": false
     },
     {
+      "id": "71120a5b-1579-4f26-a548-cd682ee51932",
+      "disruptionId": "abb5547d-9d84-4925-b5eb-c5cc4caafec9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Beeinträchtigungen aufgrund Unwetterauswirkungen zwischen Friedberg(Hessen) und Frankfurt(M)",
+      "summary": "Aktuell kommt es zwischen Friedberg(Hessen) und Frankfurt(M) aufgrund des Unwetters zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Verspätungen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC-Züge auf dem Abschnitt zwischen Gießen und Frankfurt(M) werden umgeleitet und verspäten sich um etwa 15 Minuten. Der Halt in Frankfurt(M) West entfällt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "16.04.2024 10:56",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "8b098de0-371a-4234-9163-3b96e568a3d9",
       "author": "REGIO_MITTE",
       "cause": {
@@ -874,6 +891,75 @@
         }
       ],
       "lastModified": "31.05.2023 09:32",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "652b374e-9f5e-4e83-bb3e-3c4703796fd0",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Streckenstörung zwischen Elmshorn und Hamburg Hbf",
+      "summary": "Aufgrund einer Streckenst&ouml;rung zwischen Elmshorn und Hamburg Hbf kommt es aktuell zu Versp&auml;tungen und Teilausf&auml;llen bis vsl 20:00 Uhr.",
+      "text": "<p><u>Betroffene Linien:</u>&nbsp;</p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Die Z&uuml;ge der Linie RE 6 beginnen / enden in Pinneberg. Reisende nutzen in Richtung Hamburg Hbf die S-Bahn.</li>\n\t<li>RE 7/RE 70 (Flensburg/Kiel Hbf &ndash; Hamburg Hbf):&nbsp;Die Z&uuml;ge der Linie RE 7&nbsp;beginnen / enden in Elmshorn. Reisende nutzen in Richtung Hamburg Hbf die Nordbahn. Die Z&uuml;ge der Linie RE 70 fahren bis Hamburg Hbf.</li>\n</ul>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "15.04.2024",
+      "durationEnd": "17.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt  ",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH ",
+          "label": "Twitter DB Regio Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
+          "label": "Fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de ",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.04.2024 11:13",
       "expand": false,
       "topDisruption": false
     },
