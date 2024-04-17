@@ -11,12 +11,12 @@
       },
       "headline": "Beeinträchtigung zwischen Hannover und Kassel",
       "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hannover und Kassel  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen, Umleitungen und Verspätungen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge zwischen Frankfurt(M) – Kassel – Göttingen – Hannover werden umgeleitet und verspäten sich um etwa 50 Minuten. Der Halt Göttingen entfällt.</li><li>Einzelne ICE-Züge zwischen Würzburg – Kassel – Göttingen – Hannover – Hamburg fallen zwischen Kassel und Hamburg aus.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die frühen Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge zwischen Frankfurt(M) – Kassel – Göttingen – Hannover werden umgeleitet und verspäten sich um etwa 50 Minuten. Der Halt Göttingen entfällt.</li><li>Einzelne ICE-Züge zwischen Würzburg – Kassel – Göttingen – Hannover – Hamburg fallen zwischen Kassel und Hamburg aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><p>Nutzen Sie zwischen Hannover Hbf und Göttingen bitte die Nahverkehrszüge der Linie ME RE 2.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die frühen Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "17.04.2024",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-04-17/4bfa6a1d-a1f9-484b-a980-e352590240dereisendenkarte_20240417-093753.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-04-17/4bfa6a1d-a1f9-484b-a980-e352590240dereisendenkarte_20240417-093753.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-04-17/90f4d447-7b5a-445b-a7f9-90a0fe36aa6dreisendenkarte_20240417-093753.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-04-17/90f4d447-7b5a-445b-a7f9-90a0fe36aa6dreisendenkarte_20240417-093753.png",
           "info": "",
           "alt": "Reisendenkarte",
           "openInNewTab": true
@@ -39,8 +39,48 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "17.04.2024 09:44",
+      "lastModified": "17.04.2024 10:02",
       "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "64667798-93a7-4c8a-ba82-6cb3f187769d",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Zugausfälle zwischen Kleinwallstadt und Aschaffenburg",
+      "summary": "Aufgrund von Personalengp&auml;ssen im Stellwerk Aschaffenburg kommt es voraussichtlich bis Freitag, den 19. Aprill auf dem Streckenabschnitt zwischen Kleinwallstadt und Aschaffenburg zu einzelnen Zugausf&auml;llen.<br />\n<br />\nF&uuml;r die ausfallenden Z&uuml;ge haben wir einen Ersatzverkehr mit Bus f&uuml;r Sie eingerichtet. Den Fahrplan finden Sie weiter unten als Anhang.",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li>Miltenberg - Kleinwallstadt - Aschaffenburg</li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n&nbsp;</p>\n",
+      "durationBegin": "16.04.2024",
+      "durationEnd": "19.04.2024",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:22d9a946-dcb5-4114-831c-8e86b2ab2658/Aschaffenburg_Kleinwallstadt_16042024_19042024.pdf",
+          "label": "Fahrplan des Ersatzverkehrs zwischen Kleinwallstadt und Aschaffenburg (PDF, 197 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.04.2024 10:10",
+      "expand": false,
       "topDisruption": false
     },
     {
@@ -799,64 +839,6 @@
         }
       ],
       "lastModified": "27.03.2024 14:15",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "89d35072-06b2-432a-bcd8-f3007b613a68",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Verlängerung der Baumaßnahmen zwischen Frankfurt(Oder) und Cottbus Hbf",
-      "summary": "Aufgrund der Verl&auml;ngerung der Bauma&szlig;nahmen zwischen Frankfurt(Oder) und Cottbus Hbf kommt es zu Zugausf&auml;llen auf den Linien RE10, RB43 und RB92.",
-      "text": "<p><strong>Alle Z&uuml;ge der Linien RE10 und RB43 fallen vom 12. April (22 Uhr) bis 17. April (3 Uhr) zwischen Frankfurt(Oder) und Cottbus Hbf in beide Richtungen aus. </strong>Ein Busnotverkehr ist eingerichtet.&nbsp;</p>\n\n<p>Zwischen Guben und Cottbus Hbf steht Ihnen alternativ die Buslinie 877 zur Verf&uuml;gung. Auf dieser Linie gelten VBB-Fahrscheine sowie das Deutschlandticket und Brandenburg-Berlin-Ticket.</p>\n\n<p><strong>Die Beeintr&auml;chtigungen auf dem Streckenabschnitt Guben - Cottbus Hbf werden &uuml;ber den 16.04. hinaus bestehen bleiben.&nbsp;</strong>Ab 17.04. bis einschlie&szlig;lich 02.05. fallen die Z&uuml;ge der Linien RE10 und RB43 zwischen Guben und Cottbus Hbf aus und werden durch Busse ersetzt. Zwischen Frankfurt(Oder) und Guben verkehren die Z&uuml;ge planm&auml;&szlig;ig.&nbsp;Die Z&uuml;ge der Linie RB92 (Zielona G&oacute;ra - Cottbus Hbf) fallen zwischen Guben und Cottbus Hbf&nbsp;aus.</p>\n\n<p>Detaillierte Informationen zu dieser Bauma&szlig;nahme finden Sie unter bahn.de/brandenburg (Linien RE10 und RB43).</p>\n\n<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt noch einmal &uuml;ber die&nbsp;<strong>tats&auml;chlichen Fahrzeiten der Z&uuml;ge und Busse</strong>&nbsp;in der Reiseauskunft auf bahn.de bzw. vbb.de, in der App DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n\n<p>&nbsp;</p>\n",
-      "durationBegin": "12.04.2024",
-      "durationEnd": "17.04.2024",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:bda0923e-227b-446d-b593-d29a23a463e4/Ersatzfahrplan%20Neu.pdf",
-          "label": "Ersatzverkehr RE10/RB43 (PDF, 201 KB)",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "Reiseauskunft bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.vbb.de/fahrinformation/vbb-apps/vbb-app-bus-bahn/",
-          "label": "VBB-App \"Bus&Bahn\"",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "16.04.2024 13:52",
       "expand": false,
       "topDisruption": false
     },
