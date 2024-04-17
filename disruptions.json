@@ -770,6 +770,69 @@
       "topDisruption": false
     },
     {
+      "id": "652b374e-9f5e-4e83-bb3e-3c4703796fd0",
+      "author": "REGIO_SH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Streckenstörung zwischen Niebüll und Morsum",
+      "summary": "Aufgrund eines defekten Stellwerks im Raum Morsum kommt es aktuell zu Versp&auml;tungen und Teilausf&auml;llen bis vsl 12:00 Uhr.",
+      "text": "<p><u>Betroffene Linie:</u>&nbsp;</p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Die Z&uuml;ge der Linie RE 6 beginnen/enden in Nieb&uuml;ll.&nbsp;Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Best&auml;tigung unserer Partner.</li>\n</ul>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 60 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>F&uuml;r die entstehende Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "17.04.2024",
+      "durationEnd": "17.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt  ",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH ",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.04.2024 03:18",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "f053bd1b-a100-4dba-8f62-2d3e6ab80927",
       "author": "REGIO_BW",
       "cause": {
