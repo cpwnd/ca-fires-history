@@ -689,6 +689,89 @@
       "topDisruption": false
     },
     {
+      "id": "eaa51f7b-9ab1-40b5-9aba-c09f3900178e",
+      "disruptionId": "52643b1d-3d9d-43f3-a33d-4237a1f31cde",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Weichenarbeiten in Bad Cannstatt",
+      "summary": "Ersatzverkehr auf den Linien S1, S2, S3",
+      "text": "<p><strong>S1 Richtung Plochingen/Kirchheim:</strong></p><ul><li>Die <strong>Halte Neckarpark und Stuttgart-Obertürkheim entfallen</strong>.</li><li>Die S1 Richtung Plochingen/Kirchheim <strong>fährt </strong>in <strong>Bad Cannstatt </strong>abweichend <strong>von Gleis 8 </strong>und in <strong>Stuttgart-Untertürkheim abweichend von Gleis 4 ab.</strong></li></ul><p><strong>S1 Richtung Herrenberg:</strong></p><ul><li>Die Linie S1 verkehrt <strong>ohne Einschränkungen</strong>.</li></ul><p><strong>S2 Richtung Schorndorf:</strong></p><ul><li>Die <strong>Halte Bad Cannstatt, Nürnberger Straße und Sommerrain entfallen.</strong></li></ul><p><strong> S2 Richtung Filderstadt:</strong></p><ul><li>Die Linie S2 verkehrt <strong>ohne Einschränkungen</strong>.</li></ul><p><strong>S3 Tagsüber: 11.05. </strong>und <strong>12.05.24, </strong>jeweils von 07:00 Uhr bis 23:00 Uhr</p><ul><li><strong>Die Linie S3 entfällt zwischen Waiblingen und Flughafen/Messe in beiden Richtungen.</strong></li></ul><p><strong>S3 In den Nachtstunden: 10./11.05. </strong>sowie <strong>11./12.05.24</strong>, jeweils zwischen 23:00 Uhr und 07:00 Uhr sowie<strong> 12./13.05. </strong>ab 23:00 Uhr</p><p><strong> S3 Richtung Waiblingen:</strong></p><ul><li>Die <strong>Halte Bad Cannstatt, Nürnberger Straße und Sommerrain entfallen.&nbsp;</strong></li></ul><p><strong>S3 Richtung Flughafen/Messe:</strong></p><ul><li>Die Linie S3 verkehrt <strong>ohne Einschränkungen</strong>.</li></ul><p><strong>Es verkehrt folgender Ersatzverkehr mit Bussen:</strong></p><ul><li><strong>S1E Neckarpark – Untertürkheim </strong>im 30-Minuten-Takt, zeitweise in den Nachtstunden bis Esslingen (N) verlängert. Die Züge der S1 Richtung Herrenberg halten regulär in Obertürkheim und Neckarpark. Diese können ebenfalls alternativ genutzt werden.</li><li><strong>S2E </strong>Stuttgart Hbf (Arnulf-Klett-Platz) – Bad Cannstatt - Waiblingen im 30-Minuten-Takt und ohne Halt in Sommerrain. Bitte nutzen sie alternativ auch die Stadtbahnlinien bzw. Busse (Linie 54 und 58) der SSB.</li></ul><p>&nbsp;</p><p>Bitte beachten Sie die längeren Fahrzeiten der Busse und wählen Sie gegebenenfalls eine frühere Busverbindung.</p>",
+      "durationBegin": "10.05.2024",
+      "durationEnd": "13.05.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-04-18/3b252010-803f-4120-aae0-cc34b786b509reisendenkarte_20240418-142950.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-04-18/3b252010-803f-4120-aae0-cc34b786b509reisendenkarte_20240418-142950.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.04.2024 14:29:50",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-04-18/c4f28a3c-021f-4f19-bbf0-9d2c0725d6b9Fahrplan%2BErsatzverkehr%2BS1E%2BNeckarpark-Esslingen.pdf",
+          "label": "Fahrplan Ersatzverkehr S1E Neckarpark-Esslingen.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-04-18/2f2ad0ee-c058-49c2-aa05-3663758ad7d6Bauinfo_S1-3_10.5.%2B-%2B13.5.pdf",
+          "label": "Bauinfo_S1-3_10.5. - 13.5.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-04-18/8f8fddcd-fc31-40d6-ab64-5bd4c59ccfdbFahrplan%2BErsatzverkehr%2BS2E%2BStuttgart%2BHbf-Waiblingen.pdf",
+          "label": "Fahrplan Ersatzverkehr S2E Stuttgart Hbf-Waiblingen.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/Betriebslage-Baustellen-/baustellen/S1-S3-Weichenarbeiten-im-Bahnhof-Bad-Cannstatt-10-5-13-5--12826808#",
+          "label": "S-Bahn-Stuttgart.de/baustellen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.04.2024 14:51",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "disruptionId": "e6146ea6-b009-4114-b108-0b15cafb611d_TrafficReport",
       "author": "S_BAHN_S",
