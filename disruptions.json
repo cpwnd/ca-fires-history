@@ -429,6 +429,46 @@
       "topDisruption": false
     },
     {
+      "id": "7d068048-834e-45cc-9eb9-e054ad964529",
+      "disruptionId": "30f778b1-ad87-40fa-8cde-9cffa2441c10_TrafficReport",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Fahrplanänderungen im Raum Dresden",
+      "summary": "Zur Stabilisierung des Verkehrsangebotes im Bereich Dresden treten ab 16. Oktober 2023 mehrere Änderungen in Kraft.",
+      "text": "<p><strong>Linie S 1 </strong>Meißen Triebischtal – Pirna – Bad Schandau/Schöna:</p><p>Entfall der Takt-Verdichterfahrten zwischen Meißen-Triebischtal und Pirna in der Hauptverkehrszeit Montag bis Freitag</p><p><strong>Linie S 2</strong> Dresden Flughafen - Dresden Hbf - Pirna:</p><p>Entfall zwei Zugpaare Abends und ein Zugpaar früh Morgens von Montag bis Freitag</p><p>Samstags, Sonntags und Feiertags verkehrt die S 2 im 1-Stunden-Takt und nur im Abschnitt Dresden Hbf – Dresden Flughafen</p><p><strong>Linie S 3 </strong>Dresden Hbf – Tharandt (- Freiberg):</p><p>Entfall der Takt-Verdichterfahrten zwischen Dresden Hbf – Tharandt in der Hauptverkehrszeit Montag bis Freitag</p><p><strong>VVO-Dieselnetz</strong></p><p><strong>Linie S 8 </strong>Dresden Hbf - Radeberg - Kamenz:</p><p>Entfall der Takt-Verdichterfahrten in der Nachmittags-Hauptverkehrszeit Montag bis Freitag</p><p>Die Züge des Grundtaktes S 8 werden in der Nachmittags-Hauptverkehrszeit auf drei Triebwagen verstärkt.</p><p><strong>Ab 11. Dezember 2023 </strong>Montag – Freitag (außer Feiertag) verkehren als Ersatz für ausfallende Verstärkerfahrten der S8 am Nachmittag bis auf Weiteres zusätzliche Ersatzbusse:</p><p>– Expressbus Radeberg ‹› Kamenz ohne Halt in Klein- und Großröhrsdorf&nbsp;</p><p>– Ersatzbus Radeberg ‹› Großröhrsdorf mit Halt in Kleinröhrsdorf&nbsp;</p><p><strong>Linie RB 33 </strong>Dresden-Neustadt - Königsbrück:</p><p>Mit Ausnahme folgender Fahrten im Tagesanlauf und -auslauf verkehren die Züge nur im Abschnitt Dresden-Neustadt – Ottendorf-Okrilla Süd:</p><ul><li>Königsbrück ab 4.44 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Montags – Freitags, außer Feiertags)</li><li>Königsbrück ab 6.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Samstags, Sonntags und Feiertags)</li><li>Königsbrück ab 22.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt</li><li>Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</li><li>Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</li></ul><p>Zwischen Ottendorf-Okrilla Süd und Königsbrück wird ein Ersatzverkehr mit Bus eingerichtet.</p><p><strong>﻿Linie RB 71 </strong>Pirna - Sebnitz:</p><p>Mit Ausnahme folgender Fahrten verkehren die Züge nur im Abschnitt Pirna – Neustadt(Sachs):</p><ul><li>Sebnitz(Sachs) ab 13.43 Uhr verkehrt durchgehend als Zug bis Pirna</li><li>Sebnitz(Sachs) ab 11.43 Uhr wird durchgehend bis Pirna durch einen Bus ersetzt</li><li>Pirna ab 11.11 Uhr verkehrt durchgehend als Zug bis Sebnitz(Sachs)</li><li>Pirna ab 13.11 Uhr wird durchgehend bis Sebnitz(Sachs) durch einen Bus ersetzt</li></ul><p>Zwischen Neustadt(Sachs) und Sebnitz(Sachs) wird ein Ersatzverkehr mit Bus eingerichtet.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
+      "durationBegin": "06.10.2023",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2024-04-18/570cca62-a1bb-4779-860f-fc229c3673edExpress-SEV%2BS8%2BKamenz%2B-%2BRadeberg.pdf",
+          "label": "Express-SEV S8 Kamenz - Radeberg.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.04.2024 11:57",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "30d14c05-623b-4dcb-94c9-8fd33991c7c7",
       "disruptionId": "243b6069-26b4-46cc-9a71-5b9106e5b3a0_TrafficReport",
       "author": "REGIO_SUEDOST",
@@ -438,7 +478,7 @@
       },
       "headline": "Einschränkungen auf der S3 zwischen Halle (Saale) Hauptbahnhof und Halle-Nietleben",
       "summary": "Aufgrund von Personalengpässen müssen leider mehrere Fahrten der S-Bahn Linie S3  ausfallen.",
-      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle (Saale) Hauptbahnhof - Halle-Nietleben aus:</strong></p><p><strong>Ab Halle (Saale) Hbf</strong></p><p>37376, Abfahrt 23:51 Uhr</p><p>37378, Abfahrt 01:01 Uhr</p><p><strong>Ab Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr</p><p>37309, Abfahrt 05:56 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder in der DB Streckenagent App zu informieren.</p><p>Alternativ können Sie Busse und Straßenbahnen der HAVAG nutzen. Die Haltestellen Halle Rosengarten, Halle-Silberhöhe und Halle Südstadt erreichen Sie auch mit der S7.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "text": "<strong><strong>Betroffene Linie</strong></strong><ul><li>S 3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf(tief) - Wurzen - Oschatz</li></ul><p><strong>Folgende Züge fallen zwischen Halle (Saale) Hauptbahnhof - Halle-Nietleben aus:</strong></p><p><strong>Ab Halle (Saale) Hbf</strong></p><p>37376, Abfahrt 23:51 Uhr</p><p>37378, Abfahrt 01:01 Uhr</p><p><strong>Ab Halle-Nietleben</strong></p><p>37307, Abfahrt 04:26 Uhr</p><p>37309, Abfahrt 05:56 Uhr</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p><p>Alternativ können Sie Busse und Straßenbahnen der HAVAG nutzen. Die Haltestellen Halle Rosengarten, Halle-Silberhöhe und Halle Südstadt erreichen Sie auch mit der S7.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
       "durationBegin": "30.05.2023",
       "durationEnd": "01.05.2024",
       "images": [],
@@ -464,47 +504,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "13.02.2024 22:21",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "7d068048-834e-45cc-9eb9-e054ad964529",
-      "disruptionId": "30f778b1-ad87-40fa-8cde-9cffa2441c10_TrafficReport",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Fahrplanänderungen im Raum Dresden",
-      "summary": "Zur Stabilisierung des Verkehrsangebotes im Bereich Dresden treten ab 16. Oktober 2023 mehrere Änderungen in Kraft.",
-      "text": "<p><strong>Linie S 1 </strong>Meißen Triebischtal – Pirna – Bad Schandau/Schöna:</p><p>Entfall der Takt-Verdichterfahrten zwischen Meißen-Triebischtal und Pirna in der Hauptverkehrszeit Montag bis Freitag</p><p><strong>Linie S 2</strong> Dresden Flughafen - Dresden Hbf - Pirna:</p><p>Entfall zwei Zugpaare Abends und ein Zugpaar früh Morgens von Montag bis Freitag</p><p>Samstags, Sonntags und Feiertags verkehrt die S 2 im 1-Stunden-Takt und nur im Abschnitt Dresden Hbf – Dresden Flughafen</p><p><strong>Linie S 3 </strong>Dresden Hbf – Tharandt (- Freiberg):</p><p>Entfall der Takt-Verdichterfahrten zwischen Dresden Hbf – Tharandt in der Hauptverkehrszeit Montag bis Freitag</p><p><strong>VVO-Dieselnetz</strong></p><p><strong>Linie S 8 </strong>Dresden Hbf - Radeberg - Kamenz:</p><p>Entfall der Takt-Verdichterfahrten in der Nachmittags-Hauptverkehrszeit Montag bis Freitag</p><p>Die Züge des Grundtaktes S 8 werden in der Nachmittags-Hauptverkehrszeit auf drei Triebwagen verstärkt.</p><p><strong>Ab 11. Dezember 2023 </strong>Montag – Freitag (außer Feiertag) verkehren als Ersatz für ausfallende Verstärkerfahrten der S8 am Nachmittag bis auf Weiteres zusätzliche Ersatzbusse:</p><p>– Expressbus Radeberg ‹› Kamenz ohne Halt in Klein- und Großröhrsdorf&nbsp;</p><p>– Ersatzbus Radeberg ‹› Großröhrsdorf mit Halt in Kleinröhrsdorf&nbsp;</p><p><strong>Linie RB 33 </strong>Dresden-Neustadt - Königsbrück:</p><p>Mit Ausnahme folgender Fahrten im Tagesanlauf und -auslauf verkehren die Züge nur im Abschnitt Dresden-Neustadt – Ottendorf-Okrilla Süd:</p><ul><li>Königsbrück ab 4.44 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Montags – Freitags, außer Feiertags)</li><li>Königsbrück ab 6.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Samstags, Sonntags und Feiertags)</li><li>Königsbrück ab 22.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt</li><li>Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</li><li>Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</li></ul><p>Zwischen Ottendorf-Okrilla Süd und Königsbrück wird ein Ersatzverkehr mit Bus eingerichtet.</p><p><strong>﻿Linie RB 71 </strong>Pirna - Sebnitz:</p><p>Mit Ausnahme folgender Fahrten verkehren die Züge nur im Abschnitt Pirna – Neustadt(Sachs):</p><ul><li>Sebnitz(Sachs) ab 13.43 Uhr verkehrt durchgehend als Zug bis Pirna</li><li>Sebnitz(Sachs) ab 11.43 Uhr wird durchgehend bis Pirna durch einen Bus ersetzt</li><li>Pirna ab 11.11 Uhr verkehrt durchgehend als Zug bis Sebnitz(Sachs)</li><li>Pirna ab 13.11 Uhr wird durchgehend bis Sebnitz(Sachs) durch einen Bus ersetzt</li></ul><p>Zwischen Neustadt(Sachs) und Sebnitz(Sachs) wird ein Ersatzverkehr mit Bus eingerichtet.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, im DB Streckenagent oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
-      "durationBegin": "06.10.2023",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2024-01-26/c03c7450-eaa8-4e55-bf5d-4d91d9d6bf70Express-SEV%2BS8%2BKamenz%2B-%2BRadeberg.pdf",
-          "label": "Express-SEV S8 Kamenz - Radeberg.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "26.01.2024 11:09",
+      "lastModified": "18.04.2024 11:52",
       "expand": false,
       "topDisruption": false
     },
@@ -546,6 +546,39 @@
       "topDisruption": false
     },
     {
+      "id": "5e156bd5-9d7a-4590-ae96-ab5588ac6031",
+      "disruptionId": "bcf4f096-7c24-48da-ae78-1827fc5413d7",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Ausfälle der S-Bahnlinie S 10",
+      "summary": "Ausfälle einzelner Fahrten durch Personalengpässe",
+      "text": "<p><strong>Ab Miltitzer Allee</strong> in Richtung Leipzig Hauptbahnhof fallen diese Fahrten aus:</p><ul><li>ab 7:05 Uhr</li><li>ab 8:35 Uhr</li><li>ab 10:05 Uhr</li><li>ab 11:35 Uhr</li><li>ab 13:05 Uhr</li><li>ab 14:35 Uhr</li><li>ab 16:05 Uhr</li><li>ab 17:35 Uhr</li></ul><p><strong>Ab Leipzig Hauptbahhof</strong> in Richtung Leipzig Miltitzer Allee fallen diese Fahrten aus:</p><ul><li>ab 6:28 Uhr</li><li>ab 7:58 Uhr</li><li>ab 9:28 Uhr</li><li>ab 10:58 Uhr</li><li>ab 12:28 Uhr</li><li>ab13:58 Uhr</li><li>ab 15:28 Uhr</li><li>ab 16:58 Uhr</li><li>ab18:28 Uhr</li></ul><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren. Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
+      "durationBegin": "09.04.2024",
+      "durationEnd": "30.08.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.04.2024 11:53",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "f053bd1b-a100-4dba-8f62-2d3e6ab80927",
       "author": "REGIO_BW",
       "cause": {
@@ -579,39 +612,6 @@
         }
       ],
       "lastModified": "10.04.2024 15:29",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "5e156bd5-9d7a-4590-ae96-ab5588ac6031",
-      "disruptionId": "bcf4f096-7c24-48da-ae78-1827fc5413d7",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Ausfälle der S-Bahnlinie S 10",
-      "summary": "Ausfälle einzelner Fahrten durch Personalengpässe",
-      "text": "<p><strong>Ab Miltitzer Allee</strong> in Richtung Leipzig Hauptbahnhof fallen diese Fahrten aus:</p><ul><li>ab 7:05 Uhr</li><li>ab 8:35 Uhr</li><li>ab 10:05 Uhr</li><li>ab 11:35 Uhr</li><li>ab 13:05 Uhr</li><li>ab 14:35 Uhr</li><li>ab 16:05 Uhr</li><li>ab 17:35 Uhr</li></ul><p><strong>Ab Leipzig Hauptbahhof</strong> in Richtung Leipzig Miltitzer Allee fallen diese Fahrten aus:</p><ul><li>ab 6:28 Uhr</li><li>ab 7:58 Uhr</li><li>ab 9:28 Uhr</li><li>ab 10:58 Uhr</li><li>ab 12:28 Uhr</li><li>ab13:58 Uhr</li><li>ab 15:28 Uhr</li><li>ab 16:58 Uhr</li><li>ab18:28 Uhr</li></ul><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator, DB Streckenagent oder telefonisch unter 0391 55757975 (zum Ortstarif) zu informieren.</p><p>Weitere Informationen erhalten Sie auch bei der Kundenhotline der S-Bahn Mitteldeutschland unter 0341 266 966 22 (zum Ortstarif).</p>",
-      "durationBegin": "09.04.2024",
-      "durationEnd": "30.08.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "09.04.2024 09:14",
       "expand": false,
       "topDisruption": false
     },
