@@ -2,6 +2,57 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "64667798-93a7-4c8a-ba82-6cb3f187769d",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Zugausfälle bei der Westfrankenbahn zwischen Kleinwallstadt und Aschaffenburg",
+      "summary": "Aufgrund von Personalengp&auml;ssen im Stellwerk Aschaffenburg kommt es bis Freitag, den 19. April und von Montag bis Freitag, den 22. bis 30. April auf dem Streckenabschnitt zwischen Kleinwallstadt und Aschaffenburg zu Zugausf&auml;llen.<br />\n<br />\nF&uuml;r die ausfallenden Z&uuml;ge haben wir einen Ersatzverkehr mit Bus f&uuml;r Sie eingerichtet. Den Fahrplan finden Sie weiter unten als Anhang.",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li>Miltenberg - Kleinwallstadt - Aschaffenburg</li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n&nbsp;</p>\n",
+      "durationBegin": "16.04.2024",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:22d9a946-dcb5-4114-831c-8e86b2ab2658/Aschaffenburg_Kleinwallstadt_16042024_19042024.pdf",
+          "label": "Fahrplan des Ersatzverkehrs zwischen Kleinwallstadt und Aschaffenburg (PDF, 197 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:0b3c91e1-7ef2-4c88-8764-a61248a5e8b4/Maintalbahn_RE-Ausf%C3%A4lle%2022.%20-%2030.04.2024_Ersatzverkehr%20Bus.pdf",
+          "label": "Maintalbahn_RE-Ausfälle 22. - 30.04.2024_Ersatzverkehr Bus.pdf (PDF, 240 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:02525956-480e-49dc-a23b-35b323e19aa3/Maintalbahn_RE-Ausf%C3%A4lle%2022.%20%2030.04.2024_Gesamtansicht.pdf",
+          "label": "Maintalbahn_RE-Ausfälle 22.  30.04.2024_Gesamtansicht.pdf (PDF, 118 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "19.04.2024 14:41",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "a7e3ef52-063a-454d-ba19-a742d0d448e8",
       "disruptionId": "d0d9ea3e-ae9b-4170-b054-e49451c34705",
       "author": "FERNVERKEHR_AG",
@@ -33,46 +84,6 @@
       ],
       "lastModified": "19.04.2024 10:39",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "64667798-93a7-4c8a-ba82-6cb3f187769d",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Zugausfälle bei der Westfrankenbahn zwischen Kleinwallstadt und Aschaffenburg",
-      "summary": "Aufgrund von Personalengp&auml;ssen im Stellwerk Aschaffenburg kommt es voraussichtlich bis Freitag, den 19. April auf dem Streckenabschnitt zwischen Kleinwallstadt und Aschaffenburg zu einzelnen Zugausf&auml;llen.<br />\n<br />\nF&uuml;r die ausfallenden Z&uuml;ge haben wir einen Ersatzverkehr mit Bus f&uuml;r Sie eingerichtet. Den Fahrplan finden Sie weiter unten als Anhang.",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li>Miltenberg - Kleinwallstadt - Aschaffenburg</li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n&nbsp;</p>\n",
-      "durationBegin": "16.04.2024",
-      "durationEnd": "19.04.2024",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:22d9a946-dcb5-4114-831c-8e86b2ab2658/Aschaffenburg_Kleinwallstadt_16042024_19042024.pdf",
-          "label": "Fahrplan des Ersatzverkehrs zwischen Kleinwallstadt und Aschaffenburg (PDF, 197 KB)",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.04.2024 11:51",
-      "expand": false,
       "topDisruption": false
     },
     {
