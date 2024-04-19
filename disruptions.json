@@ -2,16 +2,16 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "b9ecc3bb-89b6-4680-8c90-77c0fe0eac6d",
-      "disruptionId": "9690517a-b309-46f3-b6d6-ddb23997823e",
+      "id": "a7e3ef52-063a-454d-ba19-a742d0d448e8",
+      "disruptionId": "d0d9ea3e-ae9b-4170-b054-e49451c34705",
       "author": "FERNVERKEHR_AG",
       "cause": {
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "Beeinträchtigungen zwischen Kassel und Göttingen",
-      "summary": "Aufgrund von Bauarbeiten zwischen Kassel und Göttingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitung und Verspätungen bis zu 50 Minuten",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge des Fernverkehrs werden zwischen Kassel und Göttingen und Gegenrichtung umgeleitet. Es kann der Halt Göttingen Entfallen.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Beeinträchtigungen zwischen Würzburg und Nürnberg",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Würzburg und Nürnberg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch um etwa 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge des Fernverkehres zwischen Würzburg und Nürnberg und Gegenrichtung erhalten eine Verspätung bis zu 20 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "19.04.2024",
       "durationEnd": "19.04.2024",
       "images": [],
@@ -21,7 +21,7 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "NI",
+        "BY",
         "HE"
       ],
       "lines": [
@@ -31,7 +31,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "19.04.2024 08:22",
+      "lastModified": "19.04.2024 10:39",
       "expand": true,
       "topDisruption": false
     },
