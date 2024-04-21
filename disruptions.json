@@ -2,41 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "453cd7b0-8fd3-419f-ae54-0c57c22dc0ca",
-      "disruptionId": "71c55dba-4586-4e6f-82a0-192ca94afc65",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamburg und Berlin bzw. Schwerin",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Hamburg und Büchen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Haltausfällen und Verspätungen. Einzelne Züge fallen aus.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle ICE- und IC/EC-Züge auf dem Abschnitt zwischen Berlin und Hamburg werden umgeleitet und halten nicht in Büchen, Ludwigslust und Wittenberge. Die Züge verspäten sich um etwa 60 Minuten. Einzelne Züge fallen zwischen Berlin und Hamburg aus.</li><li>Alle ICE-Züge auf dem Abschnitt zwischen Hamburg - Schwerin - Ostseeküste fallen aus.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "21.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "MV",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "21.04.2024 14:32",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "fba8a798-b305-49bc-9b03-afa92fb6aed5",
       "disruptionId": "3a2e5be2-0eb4-42a3-9797-0f22ece6904a",
       "author": "FERNVERKEHR_AG",
