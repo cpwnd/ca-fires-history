@@ -2,6 +2,40 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "fba8a798-b305-49bc-9b03-afa92fb6aed5",
+      "disruptionId": "3a2e5be2-0eb4-42a3-9797-0f22ece6904a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Kassel und Hamm(Westf)",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Altenbeken und Kassel  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Köln - Hamm(Westf) - Altenbeken - Kassel - Erfurt - Gera fallen zwischen Köln und Kassel aus. Die Züge verkehren nur zwischen Kassel und Gera.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Zwischen Köln und Kassel nutzen Sie bitte die Zugverbindungen mit Umstieg über Hannover oder Frankfurt(M).</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die heutigen Abendstunden, 21.04.2024, erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "21.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "21.04.2024 09:15",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "06847874-4cbe-4c78-aa60-bdb95dd24203",
       "disruptionId": "ac1fba1b-8ed4-437a-a26c-ce8668b2b3b4",
       "author": "FERNVERKEHR_AG",
