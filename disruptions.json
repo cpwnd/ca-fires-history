@@ -2,6 +2,39 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "06847874-4cbe-4c78-aa60-bdb95dd24203",
+      "disruptionId": "ac1fba1b-8ed4-437a-a26c-ce8668b2b3b4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Fulda und Eisenach",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Fulda und Bad Hersfeld  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Haltausfällen und Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge Wiesbaden - Frankfurt(M) - Leipzig - Dresden werden auf dem Abschnitt zwischen Fulda und Eisenach umgeleitet und verspäten sich dadurch um etwa 40 Minuten. Der Halt in Bad Hersfeld entfällt.</li><li>Alle ICE-Züge Frankfurt(M) - Erfurt - Berlin werden auf dem Abschnitt zwischen Frankfurt(M) und Erfurt umgeleitet und verspäten sich um etwa 50 Minuten. Die Halte in Fulda und Eisenach entfallen.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "21.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "21.04.2024 08:02",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "ff69773a-a7cd-4a9d-819b-167ea07cf5fb",
       "disruptionId": "d51eb8eb-3d03-44a6-815a-a45fe9f40b0f",
       "author": "FERNVERKEHR_AG",
@@ -31,39 +64,6 @@
         }
       ],
       "lastModified": "21.04.2024 07:15",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "06847874-4cbe-4c78-aa60-bdb95dd24203",
-      "disruptionId": "ac1fba1b-8ed4-437a-a26c-ce8668b2b3b4",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Fulda und Eisenach",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Fulda und Bad Hersfeld  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Haltausfällen und Verspätungen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC-Züge auf dem Abschnitt zwischen Fulda und Eisenach werden umgeleitet und verspäten sich dadurch um etwa 40 Minuten. Der Halt in Bad Hersfeld entfällt.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "21.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "TH",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "21.04.2024 07:00",
       "expand": true,
       "topDisruption": false
     },
