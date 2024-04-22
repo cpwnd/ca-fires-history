@@ -480,6 +480,75 @@
       "topDisruption": false
     },
     {
+      "id": "fe277e71-8b14-45ca-8c84-2275c531202a",
+      "author": "REGIO_SH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Stellwerksausfall zwischen Husum und Itzehoe ist behoben",
+      "summary": "Der Stellwerksausfall zwischen Husum und Itzehoe ist behoben. Der Zugverkehr wird wieder aufgenommen. Bitte rechnen Sie noch mit Versp&auml;tungen und Zugausf&auml;llen bis sich der Zugverkehr stabilisiert hat. ",
+      "text": "<p><u>Betroffene Linien:</u>&nbsp;</p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Die Z&uuml;ge verkehren zwischen Heide(Holst.) und Husum noch mit verringerter Geschwindigkeit. Es kann zu Versp&auml;tungen kommen.</li>\n\t<li>RB 62 (Heide(Holst.) &ndash; Itzehoe): Die Z&uuml;ge verkehren zwischen St. Michaelisdonn und Heide(Holst.) noch mit verringerter Geschwindigkeit. Es kann zu Versp&auml;tungen kommen.</li>\n</ul>\n\n<p>Der Ersatzverkehr mit Bussen wird in K&uuml;rze eingestellt.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "21.04.2024",
+      "durationEnd": "22.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt  ",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH ",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": " https://www.bahn.de/service/buchung/fahrgastrechte ",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de ",
+          "label": "Lageplan des Ersatzverkehrs ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.04.2024 18:32",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "72643e0c-ed59-4184-b76d-e4d54fefe20b",
       "author": "REGIO_BW",
       "cause": {
@@ -548,75 +617,6 @@
         }
       ],
       "lastModified": "22.04.2024 14:39",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "daac77e2-0802-4edc-8cc3-326c870f8dfb",
-      "author": "REGIO_SH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Stellwerksausfall zwischen Husum und Itzehoe",
-      "summary": "Aufgrund eines Stellwerksausfalls zwischen Husum und Itzehoe kommt es aktuell zu Versp&auml;tungen von bis zu 70 Minuten und Teilausf&auml;llen.",
-      "text": "<p><u>Betroffene Linien:</u>&nbsp;</p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Die Z&uuml;ge beginnen/enden in Husum. Es verkehrt ein Ersatzverkehr mit&nbsp;Bus der Fa. Grunert ab Husum. Ab 12:30 Uhr verkehren vier&nbsp;Busse der Fa. Engine im Pendel zwischen Itzehoe und Husum. Ab Itzehoe nutzen Sie bitte die Nordbahn nach Pinneberg und ab Pinneberg die S-Bahn in Richtung Hamburg-Altona.</li>\n\t<li>RB 62 (Heide(Holst) &ndash; Itzehoe): Die Z&uuml;ge beginnen/enden in St Michaelisdonn. Ein Ersatzverkehr mit&nbsp;Bus ist eingerichtet durch Fa. Engine. Diese verkehren ab 12:30 Uhr im Pendel zwischen Itzehoe und Husum. Ab Itzehoe nutzen Sie bitte die Nordbahn nach Pinneberg und ab Pinneberg die S-Bahn in Richtung Hamburg-Altona.</li>\n</ul>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "durationBegin": "22.04.2024",
-      "durationEnd": "22.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt  ",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH ",
-          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": " https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de ",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "22.04.2024 11:52",
       "expand": false,
       "topDisruption": false
     },
