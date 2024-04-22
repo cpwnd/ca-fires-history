@@ -480,6 +480,46 @@
       "topDisruption": false
     },
     {
+      "id": "7d068048-834e-45cc-9eb9-e054ad964529",
+      "disruptionId": "30f778b1-ad87-40fa-8cde-9cffa2441c10_TrafficReport",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Fahrplanänderungen im Raum Dresden",
+      "summary": "Zur Stabilisierung des Verkehrsangebotes gilt in den Netzen:\n–\tS-Bahn Dresden\n–\tVVO-Dieselnetz\nein veränderter Fahrplan mit teilweisen Ersatzverkehr mit Bussen. ",
+      "text": "<p><strong>S1&nbsp;Meißen Triebischtal – Bad Schandau/Schöna</strong></p><p><strong> </strong>Entfall der Verdichterfahrten Meißen-Triebischtal - Pirna in der Hauptverkehrszeit Montag bis Freitag ohne Ersatz</p><p><strong>S2&nbsp;Dresden Flughafen – Pirna</strong></p><p><strong> </strong>Entfall eines Zugpaares früh morgens (mit Ersatz durch Bus) und spät abends (ohne Ersatz) von Montag bis Freitag.</p><p>Neu ab 6. Mai 2024: Wiederaufnahme zweier S2-Fahrten am Abend (Mo-Fr)</p><p>–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S 32772 Dresden Hbf, ab 21.48 Uhr – Dresden Flughafen, an 22.09 Uhr</p><p>–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S 32773 Dresden Flughafen, ab 22.18 Uhr – Dresden Hbf, an 22.38 Uhr</p><p>Wochenende und Feiertage: 1-Stunden-Takt Dresden Hbf - Dresden Flughafen</p><p><strong>S3&nbsp;Dresden Hbf – Tharandt (– Freiberg)</strong></p><p><strong> </strong>Entfall der Verdichterfahrten Dresden Hbf – Tharandt in der Hauptverkehrszeit Montag bis Freitag ohne Ersatz</p><p><strong>VVO-Dieselnetz</strong></p><p><strong>S8&nbsp;Dresden Hbf – Kamenz</strong></p><p>Ersatz der Verdichterfahrten in der Nachmittags-Hauptverkehrszeit durch Busse (Montag bis Freitag)</p><p>–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Radeberg - Kamenz (Expressbus: ohne Halt in Klein- und Großröhrsdorf)</p><p>–&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ersatzbus Radeberg - Großröhrsdorf (mit Halt in Kleinröhrsdorf)</p><p>Die Züge des Grundtaktes S8 werden in der Nachmittags-Hauptverkehrszeit auf drei Triebwagen verstärkt.</p><p><strong>RB33&nbsp;Dresden-Neustadt – Königsbrück</strong></p><p>Ersatzverkehr mit Bussen Ottendorf-Okrilla Süd - Königsbrück – mit Ausnahme folgender Fahrten im Tagesanlauf und -auslauf:</p><p>–&nbsp;&nbsp;&nbsp;&nbsp;Königsbrück ab 4.44 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur montags – freitags, außer feiertags)</p><p>–&nbsp;&nbsp;&nbsp;&nbsp;Königsbrück ab 6.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur samstags, sonntags und feiertags)</p><p>–&nbsp;&nbsp;&nbsp;&nbsp;Königsbrück ab 22.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt</p><p>–&nbsp;&nbsp;&nbsp;&nbsp;Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p>–&nbsp;&nbsp;&nbsp;&nbsp;Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</p><p><strong>Linie RB 71 </strong>Pirna - Sebnitz:</p><p>Mit Ausnahme folgender Fahrten verkehren die Züge nur im Abschnitt Pirna – Neustadt(Sachs):</p><ul><li>Sebnitz(Sachs) ab 13.43 Uhr verkehrt durchgehend als Zug bis Pirna</li><li>Sebnitz(Sachs) ab 11.43 Uhr wird durchgehend bis Pirna durch einen Bus ersetzt</li><li>Pirna ab 11.11 Uhr verkehrt durchgehend als Zug bis Sebnitz(Sachs)</li><li>Pirna ab 13.11 Uhr wird durchgehend bis Sebnitz(Sachs) durch einen Bus ersetzt</li></ul><p>Zwischen Neustadt(Sachs) und Sebnitz(Sachs) wird ein Ersatzverkehr mit Bus eingerichtet.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
+      "durationBegin": "06.10.2023",
+      "durationEnd": "07.12.2024",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2024-04-22/807ce2b4-8e78-40c2-b96c-00914c791db6Express-SEV%2BS8%2BKamenz%2B-%2BRadeberg.pdf",
+          "label": "Express-SEV S8 Kamenz - Radeberg.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.04.2024 14:39",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "72643e0c-ed59-4184-b76d-e4d54fefe20b",
       "author": "REGIO_BW",
       "cause": {
@@ -654,46 +694,6 @@
         }
       ],
       "lastModified": "18.04.2024 19:13",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "7d068048-834e-45cc-9eb9-e054ad964529",
-      "disruptionId": "30f778b1-ad87-40fa-8cde-9cffa2441c10_TrafficReport",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Fahrplanänderungen im Raum Dresden",
-      "summary": "Zur Stabilisierung des Verkehrsangebotes im Bereich Dresden treten ab 16. Oktober 2023 mehrere Änderungen in Kraft.",
-      "text": "<p><strong>Linie S 1 </strong>Meißen Triebischtal – Pirna – Bad Schandau/Schöna:</p><p>Entfall der Takt-Verdichterfahrten zwischen Meißen-Triebischtal und Pirna in der Hauptverkehrszeit Montag bis Freitag</p><p><strong>Linie S 2</strong> Dresden Flughafen - Dresden Hbf - Pirna:</p><p>Entfall zwei Zugpaare Abends und ein Zugpaar früh Morgens von Montag bis Freitag</p><p>Samstags, Sonntags und Feiertags verkehrt die S 2 im 1-Stunden-Takt und nur im Abschnitt Dresden Hbf – Dresden Flughafen</p><p><strong>Linie S 3 </strong>Dresden Hbf – Tharandt (- Freiberg):</p><p>Entfall der Takt-Verdichterfahrten zwischen Dresden Hbf – Tharandt in der Hauptverkehrszeit Montag bis Freitag</p><p><strong>VVO-Dieselnetz</strong></p><p><strong>Linie S 8 </strong>Dresden Hbf - Radeberg - Kamenz:</p><p>Entfall der Takt-Verdichterfahrten in der Nachmittags-Hauptverkehrszeit Montag bis Freitag</p><p>Die Züge des Grundtaktes S 8 werden in der Nachmittags-Hauptverkehrszeit auf drei Triebwagen verstärkt.</p><p><strong>Ab 11. Dezember 2023 </strong>Montag – Freitag (außer Feiertag) verkehren als Ersatz für ausfallende Verstärkerfahrten der S8 am Nachmittag bis auf Weiteres zusätzliche Ersatzbusse:</p><p>– Expressbus Radeberg ‹› Kamenz ohne Halt in Klein- und Großröhrsdorf&nbsp;</p><p>– Ersatzbus Radeberg ‹› Großröhrsdorf mit Halt in Kleinröhrsdorf&nbsp;</p><p><strong>Linie RB 33 </strong>Dresden-Neustadt - Königsbrück:</p><p>Mit Ausnahme folgender Fahrten im Tagesanlauf und -auslauf verkehren die Züge nur im Abschnitt Dresden-Neustadt – Ottendorf-Okrilla Süd:</p><ul><li>Königsbrück ab 4.44 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Montags – Freitags, außer Feiertags)</li><li>Königsbrück ab 6.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt (Zug verkehrt nur Samstags, Sonntags und Feiertags)</li><li>Königsbrück ab 22.53 Uhr verkehrt durchgehend als Zug bis Dresden-Neustadt</li><li>Dresden-Neustadt ab 21.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</li><li>Dresden-Neustadt ab 23.48 Uhr verkehrt durchgehend bis Königsbrück als Zug</li></ul><p>Zwischen Ottendorf-Okrilla Süd und Königsbrück wird ein Ersatzverkehr mit Bus eingerichtet.</p><p><strong>﻿Linie RB 71 </strong>Pirna - Sebnitz:</p><p>Mit Ausnahme folgender Fahrten verkehren die Züge nur im Abschnitt Pirna – Neustadt(Sachs):</p><ul><li>Sebnitz(Sachs) ab 13.43 Uhr verkehrt durchgehend als Zug bis Pirna</li><li>Sebnitz(Sachs) ab 11.43 Uhr wird durchgehend bis Pirna durch einen Bus ersetzt</li><li>Pirna ab 11.11 Uhr verkehrt durchgehend als Zug bis Sebnitz(Sachs)</li><li>Pirna ab 13.11 Uhr wird durchgehend bis Sebnitz(Sachs) durch einen Bus ersetzt</li></ul><p>Zwischen Neustadt(Sachs) und Sebnitz(Sachs) wird ein Ersatzverkehr mit Bus eingerichtet.</p><p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
-      "durationBegin": "06.10.2023",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2024-04-18/570cca62-a1bb-4779-860f-fc229c3673edExpress-SEV%2BS8%2BKamenz%2B-%2BRadeberg.pdf",
-          "label": "Express-SEV S8 Kamenz - Radeberg.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "18.04.2024 11:57",
       "expand": false,
       "topDisruption": false
     },
