@@ -2,6 +2,39 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "bb75b873-a3fd-4043-b0d9-7cef25ff7af5",
+      "disruptionId": "201ba67b-ddde-4140-aba4-7601ef8909a2",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg und Westerland(Sylt) bzw. Dagebüll",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Itzehoe und Husum kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle IC-Züge zwischen Hamburg und Westerland(Sylt) bzw. Dagebüll fallen aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Zwischen <strong>Hamburg und Itzehoe</strong> nutzen Sie die verbleibenden Regionalzüge der Linie RE 60 und RE 6.</li><li>Zwischen <strong>Westerland(Sylt) und Husum</strong> nutzen Sie die verbleibenden Regionalzüge der Linie RE 6.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis in die heutigen Abendstunden, 22.04.2024, erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.04.2024 10:33",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "64667798-93a7-4c8a-ba82-6cb3f187769d",
       "author": "REGIO_BW",
       "cause": {
@@ -454,7 +487,7 @@
         "label": "Einschränkungen auf der Strecke"
       },
       "headline": "Zugausfälle im Raum Eutingen im Gäu",
-      "summary": "Eine Reparatur an der Oberleitung im Raum Eutingen im G&auml;u st&ouml;rt den Bahnverkehr nach einen Verkehrsunfall mit einem PKW gestern Abend. Die Strecke zwischen Horb und Bondorf ist eingleisig befahrbar. Zwischen Herrenberg und Horb sind daher weiterhin Versp&auml;tungen und Zugausf&auml;lle m&ouml;glich.<br />\n<br />\nF&uuml;r die ausfallenden Z&uuml;ge haben wir f&uuml;r heute einen Ersatzverkehr mit 2 Bussen im Pendelverkehr zwischen Herrenberg und Eutingen im G&auml;u mit Zwischenhalt in G&auml;ufelden, Bondorf und Ergenzingen f&uuml;r Sie eingerichtet. Die Busse beginnen ihre Fahrten ab Herrenberg um 10:30 Uhr und Eutingen im G&auml;u ab 11 Uhr und enden gegen 22 Uhr.&nbsp;Weitere Fahrten beginnen in Eutingen immer zur vollen Stunde und ab Herrenberg zur Minute 30.<br />\n<br />\nDauer der Beeintr&auml;chtigung bis vsl. 23.04.24, 03:00 Uhr.<br />\n<br />\nSobald uns n&auml;here Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "summary": "Eine Reparatur an der Oberleitung im Raum Eutingen im G&auml;u st&ouml;rt den Bahnverkehr nach einen Verkehrsunfall mit einem PKW gestern Abend. Die Strecke zwischen Horb und Bondorf ist eingleisig befahrbar. Zwischen Herrenberg und Horb sind daher weiterhin Versp&auml;tungen und Zugausf&auml;lle m&ouml;glich.<br />\n<br />\nF&uuml;r die ausfallenden Z&uuml;ge haben wir f&uuml;r heute einen Ersatzverkehr mit 2 Bussen im Pendelverkehr zwischen Herrenberg und Eutingen im G&auml;u mit Zwischenhalt in G&auml;ufelden, Bondorf und Ergenzingen f&uuml;r Sie eingerichtet. Die Busse beginnen ihre Fahrten ab Herrenberg um 10:30 Uhr und Eutingen im G&auml;u ab 11 Uhr. Weitere Fahrten beginnen in Eutingen immer zur vollen Stunde und ab Herrenberg zur Minute 30. Der Ersatzverkehr endet gegen 22 Uhr.<br />\n<br />\nDauer der Beeintr&auml;chtigung bis vsl. 23.04.24, 03:00 Uhr.<br />\n<br />\nSobald uns n&auml;here Informationen vorliegen, wird diese Meldung aktualisiert.",
       "text": "<p><strong><u>Betroffene Linien:</u></strong></p>\n\n<ul>\n\t<li><strong>RE 14a Stuttgart - Herrenberg - Eutingen - Horb</strong></li>\n\t<li><strong>RE 14b Eutingen - Freudenstadt</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n&nbsp;</p>\n",
       "durationBegin": "21.04.2024",
       "images": [],
@@ -473,7 +506,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "22.04.2024 10:21",
+      "lastModified": "22.04.2024 10:27",
       "expand": false,
       "topDisruption": false
     },
