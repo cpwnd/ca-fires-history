@@ -414,6 +414,70 @@
       "topDisruption": false
     },
     {
+      "id": "36843da9-cda9-4d13-a7ed-bd102084049f",
+      "disruptionId": "8ff8ed33-5773-4ca9-8bea-d50ebf59b72a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Stuttgart und Singen(Hohentwiel)",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Stuttgart und Singen(Hohentwiel) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen und Teilausfällen von Zügen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Zürich</li><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Konstanz</li></ul><p><strong>Die Züge des Fernverkehrs fahren nur zwischen Horb und Zürich bzw. Konstanz. Angeboten wird dabei ein Zweistunden-Takt in beide Fahrtrichtungen. Zwischen Stuttgart und Horb verkehren keine Züge des Fernverkehrs.</strong></p><p><strong>Wir empfehlen Ihnen folgende Reisealternative:</strong> Nutzen Sie zwischen Stuttgart Hbf und Herrenberg bitte die Züge der S-Bahnlinie S1; diese verkehren alle 15 Minuten. Zwischen Herrenberg und Horb ist ein Schienenersatzverkehr mit Bussen eingerichtet.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die späten Abendstunden am heutigen 22.04.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.04.2024",
+      "durationEnd": "22.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.04.2024 04:57",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "72643e0c-ed59-4184-b76d-e4d54fefe20b",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Zugausfälle im Raum Eutingen im Gäu",
+      "summary": "Nach einem Verkehrsunfall mit einem PKW am gestrigen Abend muss in Eutingen die Oberleitung repariert werden.<br />\n<br />\nDie Strecke zwischen Horb und Bondorf ist nur eingleisig befahrbar. Daher sind sowohl zwischen Herrenberg und Horb als auch zwischen Hochdorf(b Horb) und Eutingen heute Morgen (22. April 2024) noch Zugausf&auml;lle m&ouml;glich.<br />\n<br />\nMomentan haben wir leider keine Information zur Dauer der Beeintr&auml;chtigung.&nbsp;<br />\n<br />\nSobald uns n&auml;here Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li>RE 14a Stuttgart - Herrenberg - Eutingen - Horb</li>\n\t<li>RE 14b Eutingen - Freudenstadt</li>\n\t<li>RB 74 Eutingen - Nagold - Pforzheim</li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.<br />\n&nbsp;</p>\n",
+      "durationBegin": "21.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.04.2024 05:13",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "4feba185-90ae-41bf-9299-78d4de9f0cf5",
       "author": "REGIO_NORD",
       "cause": {
