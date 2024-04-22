@@ -363,6 +363,39 @@
       "topDisruption": false
     },
     {
+      "id": "36843da9-cda9-4d13-a7ed-bd102084049f",
+      "disruptionId": "8ff8ed33-5773-4ca9-8bea-d50ebf59b72a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Stuttgart und Singen(Hohentwiel)",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Stuttgart und Singen(Hohentwiel) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen und Teilausfällen von Zügen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Zürich</li><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Konstanz</li></ul><p><strong>Die Züge des Fernverkehrs fahren nur zwischen Horb und Singen(Hohentwiel) bzw. Konstanz. Angeboten wird dabei ein Zweistunden-Takt in beide Fahrtrichtungen. Zwischen Stuttgart und Horb sowie zwischen Singen(Hohentwiel) und Zürich verkehren keine Züge des Fernverkehrs.</strong></p><p><strong>Wir empfehlen Ihnen folgende Reisealternative:</strong> Nutzen Sie zwischen Stuttgart Hbf und Herrenberg bitte die Züge der S-Bahnlinie S1; diese verkehren alle 15 Minuten. Zwischen Herrenberg und Horb ist ein Schienenersatzverkehr mit Bussen eingerichtet.Zwischen Stuttgart und Zürich nutzen Sie bitte auch die Zugverbindungen mit Umstieg in Karlsruhe über Basel.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die späten Abendstunden am heutigen 22.04.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.04.2024",
+      "durationEnd": "22.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.04.2024 09:36",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "4aeea9d9-0ffe-4c13-ac0b-31a199b03603",
       "author": "REGIO_MITTE",
       "cause": {
@@ -411,39 +444,6 @@
       ],
       "lastModified": "22.04.2024 07:01",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "36843da9-cda9-4d13-a7ed-bd102084049f",
-      "disruptionId": "8ff8ed33-5773-4ca9-8bea-d50ebf59b72a",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Stuttgart und Singen(Hohentwiel)",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Stuttgart und Singen(Hohentwiel) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen und Teilausfällen von Zügen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Zürich</li><li>IC-Züge Stuttgart - Singen(Hohentwiel) - Konstanz</li></ul><p><strong>Die Züge des Fernverkehrs fahren nur zwischen Horb und Zürich bzw. Konstanz. Angeboten wird dabei ein Zweistunden-Takt in beide Fahrtrichtungen. Zwischen Stuttgart und Horb verkehren keine Züge des Fernverkehrs.</strong></p><p><strong>Wir empfehlen Ihnen folgende Reisealternative:</strong> Nutzen Sie zwischen Stuttgart Hbf und Herrenberg bitte die Züge der S-Bahnlinie S1; diese verkehren alle 15 Minuten. Zwischen Herrenberg und Horb ist ein Schienenersatzverkehr mit Bussen eingerichtet.Zwischen Stuttgart und Zürich nutzen Sie bitte auch die Zugverbindungen mit Umstieg in Karlsruhe über Basel.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die späten Abendstunden am heutigen 22.04.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "22.04.2024",
-      "durationEnd": "22.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "22.04.2024 06:49",
-      "expand": true,
       "topDisruption": false
     },
     {
