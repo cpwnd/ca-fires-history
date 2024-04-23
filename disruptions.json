@@ -2,6 +2,41 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "8bbc929b-f853-4c49-abf6-6fa59d6bf808",
+      "disruptionId": "72dccbe7-f029-4f58-93bb-49575da21c57",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg und Hannover bzw. Bremen",
+      "summary": "Aufgrund eines defekten Stellwerkes in Hamburg-Harburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Zugausfällen.",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle ICE- und IC-Züge auf dem Abschnitt zwischen Bremen und Hamburg. Es kommt zu Verspätungen und Zugausfällen im Abschnitt zwischen NRW und Hamburg.</li><li>Alle ICE-Züge auf dem Abschnitt zwischen Hamburg und Hannover. Es kommt zu Verspätungen und Zugausfällen im Abschnitt zwischen Hannover und Hamburg.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "NW",
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.04.2024 11:36",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "64667798-93a7-4c8a-ba82-6cb3f187769d",
       "author": "REGIO_BW",
       "cause": {
