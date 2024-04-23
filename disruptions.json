@@ -2,39 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "bb75b873-a3fd-4043-b0d9-7cef25ff7af5",
-      "disruptionId": "201ba67b-ddde-4140-aba4-7601ef8909a2",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamburg und Westerland(Sylt) bzw. Dagebüll",
-      "summary": "Aufgrund eines defekten Stellwerkes zwischen Itzehoe und Husum kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle IC-Züge zwischen Hamburg und Westerland(Sylt) bzw. Dagebüll fallen aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Zwischen <strong>Hamburg und Itzehoe</strong> nutzen Sie die verbleibenden Regionalzüge der Linie RE 60 und RE 6.</li><li>Zwischen <strong>Westerland(Sylt) und Husum</strong> nutzen Sie die verbleibenden Regionalzüge der Linie RE 6.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Die Behebung der Störung soll vsl. bis in die heutigen Abendstunden, 22.04.2024, erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "22.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "22.04.2024 10:33",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "64667798-93a7-4c8a-ba82-6cb3f187769d",
       "author": "REGIO_BW",
       "cause": {
