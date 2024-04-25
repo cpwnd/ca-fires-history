@@ -397,6 +397,38 @@
       "topDisruption": false
     },
     {
+      "id": "5ea7c133-85c7-4b1b-a52b-843e57be9356",
+      "disruptionId": "21f38236-8eed-41ab-aa85-f1e37d9b76b9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Frankfurt(Main) und Würzburg",
+      "summary": "Aufgrund von Bauarbeiten zwischen Frankfurt(Main) und Würzburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Haltausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Frankfurt(Main) und Würzburg werden umgeleitet und verspäten sich um etwa 45 Minuten. Der Halt in Aschaffenburg Hbf kann entfallen.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "25.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "25.04.2024 05:25",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "4aeea9d9-0ffe-4c13-ac0b-31a199b03603",
       "author": "REGIO_MITTE",
       "cause": {
