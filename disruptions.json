@@ -682,18 +682,10 @@
       "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>﻿RB 28 Müllheim(Baden) - Mulhouse Ville</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "25.04.2024",
       "durationEnd": "31.12.2024",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-04-25/ee7ebdd4-82cf-467a-a0ff-59d32eef0514reisendenkarte_20240425-131836.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-04-25/ee7ebdd4-82cf-467a-a0ff-59d32eef0514reisendenkarte_20240425-131836.png",
-          "info": "",
-          "alt": "Reisendenkarte 25.04.2024 13:18:36",
-          "openInNewTab": true
-        }
-      ],
+      "images": [],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-04-25/404a707b-9e4a-4734-9009-bfc184d6bf17Ersatzfahrplan%2BM%25C3%25BCllheim%2B-%2BMulhouse%2BVille%2B2024%2B%25281%2529.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-04-25/3b91ee00-daf4-46db-9875-e1a204272f6eErsatzfahrplan%2BM%25C3%25BCllheim%2B-%2BMulhouse%2BVille%2B2024%2B%25281%2529.pdf",
           "label": "Ersatzfahrplan Müllheim - Mulhouse Ville 2024 (1).pdf",
           "info": "",
           "openInNewTab": true
@@ -718,7 +710,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "25.04.2024 13:22",
+      "lastModified": "25.04.2024 13:31",
       "expand": true,
       "topDisruption": false
     },
@@ -837,43 +829,6 @@
         }
       ],
       "lastModified": "18.04.2024 12:27",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "f053bd1b-a100-4dba-8f62-2d3e6ab80927",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Kein Zugverkehr zwischen Müllheim(Baden) und Mulhouse Ville",
-      "text": "<p>Grund: Fehlendes Personal bei der SNCF. Ein Ersatzverkehr mit Bussen zwischen M&uuml;llheim(Baden) und Mulhouse Ville ist eingerichtet. Den Fahrplan finden Sie hier im Anhang.</p>\n\n<p><strong>Betroffene Strecke:</strong></p>\n\n<ul>\n\t<li><strong>RB 28 M&uuml;llheim(Baden) - Mulhouse Ville</strong></li>\n</ul>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der St&ouml;rung mehr Reisezeit ein.</p>\n",
-      "durationEnd": "31.12.2024",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:c4b86f13-20f3-41f2-9249-c374b2584f11/Ersatzfahrplan%20M%C3%BCllheim%20-%20Mulhouse%20Ville%202024.pdf",
-          "label": "Ersatzfahrplan (PDF, 819 KB)",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.04.2024 15:29",
       "expand": false,
       "topDisruption": false
     },
