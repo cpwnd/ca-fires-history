@@ -119,50 +119,53 @@
       "topDisruption": false
     },
     {
-      "id": "5cbde9a2-9223-46e5-84dc-f4150694c8f3",
+      "id": "8ee08799-5b92-4770-ac55-643095b8040f",
+      "disruptionId": "fcc71f6b-8121-4246-86ab-6459dfc0d7f8",
       "author": "REGIO_BW",
       "cause": {
         "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
+        "label": "Kurzfristige Erkrankung von Personal"
       },
       "headline": "Zugausfälle bei der Westfrankenbahn",
-      "summary": "Aufgrund von Personalengp&auml;ssen beim Fahrpersonal und in den Stellwerken kommt es auf der Madonnenlandbahn, Tauberbahn und Kahlgrundbahn bis zum 24. Juli 2024 zu Zugausf&auml;llen mit Ersatzverkehr.<br />\n<br />\nDie Fahrpl&auml;ne der Ersatzverkehre finden Sie weiter unten.",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u><br />\n<strong>RB 84 Miltenberg - Walld&uuml;rn - Seckach&nbsp;</strong></p>\n\n<p><strong>RB 88 Wertheim - Lauda - Crailsheim</strong></p>\n\n<p><strong>RB 56 Sch&ouml;llkrippen - Kahl - Hanau</strong></p>\n\n<p>Bitte ber&uuml;cksichtigen Sie die &Auml;nderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie f&uuml;r die Dauer der Beeintr&auml;chtigung insbesondere aufgrund der l&auml;ngeren Fahrzeiten der Busse mehr Reisezeit ein.<br />\n<br />\nImmer sofort informiert &uuml;ber St&ouml;rungen, Ersatzverkehr und Alternativrouten. Denn Ihren mobilen Zugbegleiter haben Sie mit der neuen <strong>Streckenagent-APP</strong> immer dabei!</p>\n",
+      "summary": "Aufgrund von Personalengpässen beim Fahrpersonal und in den Stellwerken kommt es auf der Madonnenlandbahn, Tauberbahn und Kahlgrundbahn bis zum 24. Juli 2024 zu Zugausfällen mit Ersatzverkehr.\n\nDie Fahrpläne der Ersatzverkehre finden Sie weiter unten.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RB 84 Miltenberg - Walldürn - Seckach&nbsp;</strong></li><li><strong>RB 88 Wertheim - Lauda - Crailsheim</strong></li><li><strong>RB 56 Schöllkrippen - Kahl - Hanau</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "15.11.2023",
       "durationEnd": "24.07.2024",
       "images": [],
       "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-04-25/2bcb9c7e-d0a4-4bf6-a1d6-b3cca7bc71d9Madonnenland_Ersatzverkehr%2B8.%2BJanuar%2Bbis%2B%2B24.%2BJuli%2B2024.pdf",
+          "label": "Madonnenland_Ersatzverkehr 8. Januar bis  24. Juli 2024.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-04-25/9418bf05-5de7-4169-966e-2ad05eaa9ba7Tauberbahn_Ersatzverkehr%2Bbis%2B%2B24.%2BJuli%2B2024.pdf",
+          "label": "Tauberbahn_Ersatzverkehr bis  24. Juli 2024.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-04-25/daf22217-5122-47c1-b121-98e4bce45dfaKahlgrundbahn_Ersatzverkehr%2B8.%2BJanuar%2Bbis%2B%2B24.%2BJuli%2B2024%2B%25281%2529.pdf",
+          "label": "Kahlgrundbahn_Ersatzverkehr 8. Januar bis  24. Juli 2024 (1).pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-04-25/e58e816f-380b-4db4-969c-e92c5f45cac8Tauberbahn_einzelner%2BErsatzverkehr%2Ban%2BSonntagen.pdf",
+          "label": "Tauberbahn_einzelner Ersatzverkehr an Sonntagen.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
         {
           "href": "https://www.westfrankenbahn.de/fahrplan/sev-haltestellen",
           "label": "Übersicht aller Ersatz-Haltestellen bei der Westfrankenbahn:",
           "info": "",
           "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:ec9d095e-dacd-44ae-8a2c-7adb2c2c3b93/Tauberbahn_Ersatzverkehr%20bis%20%2024.%20Juli%202024.pdf",
-          "label": "Tauberbahn Ersatzverkehr bis 24. Juli (PDF, 200 KB)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:65b95adf-5b67-46e7-a33c-10f4175155c3/Kahlgrundbahn_Ersatzverkehr%208.%20Januar%20bis%20%2024.%20Juli%202024.pdf",
-          "label": "Kahlgrundbahn Ersatzverkehr bis 24. Juli (PDF, 197 KB)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:50c2be6c-354d-4afb-b72c-254921d57844/Tauberbahn_einzelner%20Ersatzverkehr%20an%20Sonntagen.pdf",
-          "label": "Tauberbahn Ersatzverkehr an einzelnen Sonntagen (PDF, 222 KB)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:1c3dc3fc-f305-4afe-b9c2-6b63e83b81cb/Madonnenland_Ersatzverkehr%208.%20Januar%20bis%20%2024.%20Juli%202024.pdf",
-          "label": "Madonnenlandbahn Ersatzverkehr bis 24. Juli (PDF, 229 KB)",
-          "info": "",
-          "openInNewTab": true
         }
       ],
-      "links": [],
       "properties": [
         "REGIONAL"
       ],
@@ -177,8 +180,8 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "15.03.2024 15:55",
-      "expand": false,
+      "lastModified": "25.04.2024 14:30",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -403,57 +406,6 @@
         }
       ],
       "lastModified": "18.04.2024 13:07",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "4aeea9d9-0ffe-4c13-ac0b-31a199b03603",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Erdrutsch"
-      },
-      "headline": "Erdrutsch zwischen Meckesheim und Neckargemünd schränkt den Zugverkehr erheblich ein",
-      "summary": "Die Reparatur- und Reinigungsarbeiten nach dem Erdrutsch sind Beendet.<br />\n<br />\nDie Z&uuml;ge fahren erst ab dem, 25.04.2024 wieder auf der geplanten Strecke mit allen geplanten Halten.<br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffene Linien:</strong></u></p>\n\n<ul>\n\t<li><strong>S5&nbsp;</strong>Heidelberg &ndash; Neckargem&uuml;nd &ndash; Sinsheim &ndash; Eppingen</li>\n\t<li><strong>S51&nbsp;</strong>Heidelberg &ndash; Meckesheim &ndash; Aglasterhausen</li>\n</ul>\n\n<p>Die Z&uuml;ge entfallen auf dem Streckenabschnitt zw. Heidelberg Hbf und Meckesheim. Es kann kurzfristig zu Zugausf&auml;llen kommen.&nbsp;</p>\n\n<p>Z&uuml;ge der Linie S51 verkehren nur zwischen Aglasterhausen - Meckesheim.&nbsp;</p>\n\n<p>Z&uuml;ge der Linie S5 verkehr im Abschnitt Meckesheim - Eppingen und vereinzelt nach Bad Rappenau.&nbsp;</p>\n\n<p><strong>Ersatzverkehr mit Bussen zw. Meckesheim und Neckargem&uuml;nd / Heidelberg bleibt eingerichtet.</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "durationBegin": "20.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "24.04.2024 18:04",
       "expand": false,
       "topDisruption": false
     },
@@ -712,58 +664,6 @@
       ],
       "lastModified": "25.04.2024 13:56",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "d4f1b55d-6f0c-47d2-a9c7-d7c578a71afd",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Erhöhten Krankenstands beim Fahrpersonal",
-      "summary": "Wegen eines erh&ouml;hten Krankenstands beim Fahrpersonal, wird der Betrieb&nbsp;<strong>am Mittwoch den 24.04.24 ab 14:00 Uhr&nbsp;bis Betriebsschluss&nbsp;</strong>auf den Linien RB 77 eingestellt.",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB77&nbsp;</strong>Dillingen - Niedaltdorf <strong><em>(Nied-Bahn)</em></strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr ist eingerichtet.&nbsp;Fa. Nikolaus Kirsch mit einem Niederflurbus.</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "durationBegin": "24.04.2024",
-      "durationEnd": "24.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "SL"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "23.04.2024 21:39",
-      "expand": false,
       "topDisruption": false
     },
     {
