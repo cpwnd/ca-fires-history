@@ -2,6 +2,40 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "1be86137-b5dd-418a-b175-976d09f0aa7b",
+      "disruptionId": "c8b5f275-9563-4634-98a2-49221d57b2a8",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Beeinträchtigung in Hanau",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Hanau kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Frankfurt(M) und Fulda</li><li>ICE Züge zwischen Frankfurt(M) und Aschaffenburg bzw. Würzburg</li><li>NJ Züge zwischen Frankfurt(M) und Nürnberg bzw. Leipzig</li></ul><p>Diese Züge werden in den folgenden Zeiträumen umgeleitet und werden bis zu 20 Minuten verspätet.</p><p><strong>Betroffene Zeiträume:</strong></p><ul><li>25.04. 20 Uhr bis 26.04. 6 Uhr</li><li>26.04. 21 Uhr bis 28.04. 6 Uhr</li><li>28.04. 18 Uhr bis 29.04. 6 Uhr</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "25.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "25.04.2024 18:32",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "8f559791-aba3-4c2b-9f31-7d0d563c8137",
       "disruptionId": "fb1c2a69-680e-4161-b771-8d065fce5bab",
       "author": "FERNVERKEHR_AG",
