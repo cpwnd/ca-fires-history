@@ -37,6 +37,40 @@
       "topDisruption": false
     },
     {
+      "id": "26e1b6a4-c4e8-41ac-a799-d61c3dfd0f97",
+      "disruptionId": "e15e9194-8bb5-43db-b6a4-59cefb3363b3",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Aufräumarbeiten am Hauptbahnhof",
+      "summary": "Auch weiterhin kann der Hauptbahnhof von der S-Bahn nicht angefahren werden.",
+      "text": "<p>Unsere S-Bahnen fahren aktuell auf folgenden Verbindungen:</p><p><strong>S1: </strong>Zwischen Altona und Blankenese / Wedel, sowie zwischen Wandsbeker Chaussee und Airport. Zwischen Ohlsdorf und Poppenbüttel den SEV nutzen <strong>(Bauarbeiten)</strong>.</p><p><strong>S2: </strong>Zwischen Berliner Tor und Bergedorf / Aumühle</p><p><strong>S3: </strong>Zwischen Pinneberg und Altona, sowie Hammerbrook und Neugraben</p><p><strong>S5: </strong>Zwischen Neugraben und Buxtehude / Stade</p><p><strong>Bitte auch, wenn möglich, U-Bahnen und Busse nutzen.</strong></p><p>Wir ergänzen diese Informationen, sobald uns neue Informationen vorliegen.</p>",
+      "durationBegin": "26.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "27.04.2024 01:13",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "1be86137-b5dd-418a-b175-976d09f0aa7b",
       "disruptionId": "c8b5f275-9563-4634-98a2-49221d57b2a8",
       "author": "FERNVERKEHR_AG",
@@ -552,38 +586,6 @@
       ],
       "lastModified": "18.04.2024 13:07",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "26e1b6a4-c4e8-41ac-a799-d61c3dfd0f97",
-      "disruptionId": "e15e9194-8bb5-43db-b6a4-59cefb3363b3",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Aufräumarbeiten am Hauptbahnhof",
-      "summary": "Auch weiterhin kann der Hauptbahnhof von der S-Bahn nicht angefahren werden.",
-      "text": "<p>Unsere S-Bahnen fahren aktuell auf folgenden Verbindungen:</p><p><strong>S1: </strong>Zwischen Altona und Blankenese / Wedel, sowie zwischen Wandsbeker Chaussee und Airport / Poppenbüttel</p><p><strong>S2: </strong>Zwischen Berliner Tor und Bergedorf / Aumühle</p><p><strong>S3: </strong>Zwischen Pinneberg und Altona, sowie Hammerbrook und Neugraben</p><p><strong>S5: </strong>Zwischen Neugraben und Buxtehude / Stade</p><p><strong>Bitte auch, wenn möglich, U-Bahnen und Busse nutzen.</strong></p><p>Wir ergänzen diese Informationen, sobald uns neue Informationen vorliegen.</p>",
-      "durationBegin": "26.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "26.04.2024 22:09",
-      "expand": true,
       "topDisruption": false
     },
     {
