@@ -805,6 +805,39 @@
       "topDisruption": false
     },
     {
+      "id": "d510fb49-7815-4b66-a569-0396bd632eec",
+      "disruptionId": "e1b7535c-9182-4a99-aab2-c9da60a68185",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Streik im regionalen Nahverkehr in Sachsen",
+      "summary": "Ausfälle einiger unserer SEV-Leistungen",
+      "text": "<p><strong>S 1 Dresden</strong></p><p>Auf Grund des angekündigten Streiks bei den regionalen Busunternehmen kommt es im Zeitraum Sonnabend, 27.04. bis einschließlich Montag, 29.04. zu Einschränkungen im Schienenersatzverkehr zwischen Meißen Triebischtal und Radebeul Ost. Ein Großteil der Fahrten des Ersatzverkehrs fällt aus.</p><p> Bitte beachten Sie auch, dass auch die Elbfähren Schöna, Schmilka, Bad Schandau, Königstein und Wehlen von den Streikmaßnahmen betroffen sind.</p><p><strong>RE 50</strong></p><p>Auf Grund des angekündigten Streiks bei den regionalen Busunternehmen kommt es im Zeitraum Sonnabend, 27.04. bis einschließlich Montag, 29.04. zu Einschränkungen im Schienenersatzverkehr zwischen Nünchritz und Coswig. Ein Großteil der Fahrten im des Ersatzverkehrs fällt aus.</p><p> Bitte beachten Sie, dass die Züge der RE 50 zwischen Nünchritz und Dresden-Neustadt umgeleitet werden und nur Reisende mit den Start- oder Zielbahnhöfen Priestewitz, Niederau, Weinböhla und Coswig betroffen sind.</p><p><strong>RB 71</strong></p><p>Auf Grund des angekündigten Streiks bei den regionalen Busunternehmen kommt es ab Sonnabend, 27.04. zu Einschränkungen im Schienenersatzverkehr zwischen Sebnitz (Sachs) und Neustadt (Sachs) bzw. Pirna. Die Fahrten im Ersatzverkehr fallen aus.</p><p><strong>RB 72</strong></p><p>Auf Grund des angekündigten Streiks bei den regionalen Busunternehmen kommt es ab Montag, 29.04. zu Einschränkungen im Schienenersatzverkehr zwischen Heidenau und Glashütte. Die Fahrten im Ersatzverkehr zwischen 7.15 Uhr und 17.15 Uhr fallen aus.﻿</p>",
+      "durationBegin": "26.04.2024",
+      "durationEnd": "29.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.04.2024 21:07",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "5722fc2c-b511-483f-a381-9ee3f0c8d348",
       "disruptionId": "96968659-b815-4c2a-8111-977490bf264e",
       "author": "REGIO_BW",
