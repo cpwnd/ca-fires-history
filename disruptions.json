@@ -36,6 +36,40 @@
       "topDisruption": false
     },
     {
+      "id": "c02d1a2a-44ec-4a6a-9adb-bfb9c286d969",
+      "disruptionId": "8a96718a-f716-4e2b-85dd-88b9f2ad3fe6",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigungen zwischen Hanau und Würzburg",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Aschaffenburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge zwischen Frankfurt(M) bzw. Hanau und Würzburg werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 40 Minuten. Der Halt Aschaffenburg Hbf entfällt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.04.2024",
+      "durationEnd": "26.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "26.04.2024 06:58",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
