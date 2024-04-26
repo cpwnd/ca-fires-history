@@ -2,6 +2,46 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "f81f39b4-8755-4f7c-b97a-5abb2545b556",
+      "disruptionId": "f8c0e027-4cf9-4637-96c0-b20242a74440",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Beeinträchtigungen in Hamburg Hbf ",
+      "summary": "Aufgrund von Polizeilichen Ermittlungen können die Züge des Fernverkehrs der Deutschen Bahn vorübergehend Hamburg Hbf nicht anfahren. Es kann zu Ausfällen und Verspätungen kommen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/ICE-Züge Hamburg - Hannover - Fulda - Frankfurt (M)/Süddeutschland fallen aus.</li><li>ICE-Züge in bzw. aus Richtung Berlin werden umgeleitet, die Halte in Kiel, Neumünster/Hamburg-Altona, Hamburg Dammtor und Hamburg Hbf entfallen. Ersatzhalt in&nbsp;Hamburg-Bergedorf, Büchen, Ludwigslust und Wittenberge.</li><li>ICE-Züge Kiel/Hamburg - NRW - Frankfurt (M) - Mannheim - Basel werden umgeleltet. Die Halte in Hamburg Dammtor und Hamburg Hbf entfallen.</li><li>EC-Züge Hamburg– Berlin – Dresden – Prag fallen zwischen Hamburg-Altona und Berlin Hbf (tief) aus.</li><li>ICE-Züge in bzw. aus Richtung Kassel werden umgeleitet, die Halte Hamburg-Altona, Hamburg Dammtor und Hamburg Hbf entfallen. Ersatzhalt: Hamburg-Harburg</li><li>ICE-Züge Kiel/Hamburg/Bremen – Hannover – Kassel-Wilhelmshöhe – Würzburg – München beginnen und enden in Hannover Hbf.</li><li>IC/ICE-Züge Stralsund - Hamburg – Hannover – Kassel-Wilhelmshöhe – Frankfurt (M) – Karlsruhe halten nicht in Hamburg Hbf.</li><li>IC-Züge in bzw. aus Richtung NRW werden umgeleitet, die Halte Hamburg-Altona, Hamburg Dammtor und Hamburg Hbf entfallen.</li><li>Die internationalen Verbindungen von/nach Dänemark halten nicht in Hamburg Hbf und Hamburg Dammtor. Ersatzhalt: Hamburg-Altona</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "HH",
+        "ST",
+        "BE",
+        "SH",
+        "MV",
+        "HB",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "26.04.2024 16:29",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5ece0948-2601-488f-999d-8be232001446",
       "disruptionId": "9cb22ee7-b798-4508-b59e-2e9f0352dbba",
       "author": "FERNVERKEHR_AG",
