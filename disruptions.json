@@ -182,6 +182,40 @@
       "topDisruption": false
     },
     {
+      "id": "78ae969b-f642-4d1b-b2ed-491703bb60c1",
+      "disruptionId": "91e14ef3-42e5-444c-b892-7f492062777d",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Lohr(M) und Gemünden(M)",
+      "summary": "Aufgrund von Bauarbeiten zwischen Lohr(M) und Gemünden(M) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von bis zu 30 Min.",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>NJ Züge zwischen Nürnberg und Frankfurt(M)</li><li>NJ Züge zwischen Leipzig und Frankfurt(M)</li><li>NJ Züge zwischen Mannheim/Mainz und Berlin</li><li>ICE Züge zwischen Fulda und Frankfurt(M)</li><li>ICE Züge zwischen Würzburg und Frankfurt(M)</li></ul><p>&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.04.2024",
+      "durationEnd": "28.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "27.04.2024 10:36",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
