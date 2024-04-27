@@ -52,6 +52,7 @@
       "downloads": [],
       "links": [],
       "properties": [
+        "SBAHN",
         "REGIONAL"
       ],
       "states": [
@@ -64,9 +65,29 @@
           "name": "RE/RB",
           "filterName": "",
           "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "27.04.2024 06:28",
+      "lastModified": "27.04.2024 07:53",
       "expand": true,
       "topDisruption": false
     },
