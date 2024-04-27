@@ -37,62 +37,6 @@
       "topDisruption": false
     },
     {
-      "id": "cdebc39d-c8d6-4822-9774-441d814af5df",
-      "disruptionId": "0c829515-2941-4d5a-aa35-7440725318e7",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Aufräumarbeiten am Hauptbahnhof",
-      "summary": "Auch weiterhin kann der Hauptbahnhof von der S-Bahn nicht angefahren werden.",
-      "text": "<p>Unsere S-Bahnen fahren aktuell auf folgenden Verbindungen:</p><p><strong>S1:</strong>&nbsp;Zwischen Stadthausbrücke und Blankenese / Wedel sowie zwischen Berliner Tor und Airport. Zwischen Ohlsdorf und Poppenbüttel den SEV nutzen (Bauarbeiten).</p><p><strong>S2:</strong>&nbsp;Zwischen Berliner Tor und Bergedorf / Aumühle sowie zwischen <strong>Altona und Sternschanze (Messe)</strong></p><p><strong>S3:</strong>&nbsp;Zwischen Pinneberg und Altona, sowie Hammerbrook und Neugraben</p><p><strong>S5:</strong>&nbsp;Zwischen Neugraben und Buxtehude / Stade</p><p><strong>Zwischen Hauptbahnhof und Harburg dürfen ab sofort die Züge des Fernverkehrs mitbenutzt werden.</strong></p><p><strong>Bitte auch, wenn möglich, U-Bahnen und Busse nutzen. Aus und in Richtung Harburg / Neugraben bitte zwischen Elbbrücken und Jungfernstieg / Hauptbahnhof auf die U4 Richtung Burgstraße ausweichen.</strong></p><p>Wir ergänzen diese Informationen, sobald uns neue Informationen vorliegen.</p>",
-      "durationBegin": "27.04.2024",
-      "durationEnd": "28.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.04.2024 21:32",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "1be86137-b5dd-418a-b175-976d09f0aa7b",
       "disruptionId": "c8b5f275-9563-4634-98a2-49221d57b2a8",
       "author": "FERNVERKEHR_AG",
