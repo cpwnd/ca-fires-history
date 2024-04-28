@@ -986,6 +986,38 @@
       "topDisruption": false
     },
     {
+      "id": "d84cbd53-9a87-4133-a9a3-785634233d05",
+      "disruptionId": "e4a4e402-523f-4343-a496-d0900b07d26c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen in Köln",
+      "summary": "Aufgrund von Bauarbeiten in Köln kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen einzelner in Köln beginnender Züge.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC- Züge von Köln nach Berlin</li><li>ICE-/IC- Züge von Köln nach Ostfriesland</li><li>ICE-/IC- Züge von Köln nach München</li><li>IC-Züge von Köln nach Gera</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.04.2024 10:27",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "disruptionId": "e6146ea6-b009-4114-b108-0b15cafb611d_TrafficReport",
       "author": "S_BAHN_S",
