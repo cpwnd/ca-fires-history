@@ -2,42 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "5ece0948-2601-488f-999d-8be232001446",
-      "disruptionId": "9cb22ee7-b798-4508-b59e-2e9f0352dbba",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen zwischen Strasbourg / Saarbrücken und Paris",
-      "summary": "In Frankreich kommt es derzeit zu Beeinträchtigungen wegen einer Oberleitungsstörung. Dadurch ist bis auf Weiteres mit Verspätungen und Ausfällen im grenzüberschreitenden Fernverkehr zwischen Deutschland und Frankreich zu rechnen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/TGV-Züge zwischen Stuttgart und Paris</li><li>ICE/TGV-Züge zwischen Frankfurt und Paris</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "26.04.2024",
-      "durationEnd": "28.04.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "SL",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "28.04.2024 09:09",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
