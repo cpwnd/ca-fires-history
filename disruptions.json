@@ -624,6 +624,39 @@
       "topDisruption": false
     },
     {
+      "id": "e6be5580-1ed4-45b3-ab00-f872703838a6",
+      "disruptionId": "27f03543-4e83-41d9-92e8-ff343975d3a6",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 59: Ausfall RB 27654 zwischen Waging und Traunstein",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 59: Die RB 27654 entfällt heute ersatzlos zwischen Waging (ab 08:15 Uhr) und Traunstein (an 08:34 Uhr) wegen einer technischer Störung am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "29.04.2024",
+      "durationEnd": "29.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.04.2024 07:54",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "670eb51d-da4e-492d-86b6-2b1f13066cb6",
       "disruptionId": "bfd40cf0-d79a-4c3c-a564-e25a4d8b0efa",
       "author": "SUEDOSTBAYERNBAHN",
