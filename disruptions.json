@@ -2,6 +2,39 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "a2f426de-2de6-4d7a-9f2d-2692a4402f6b",
+      "disruptionId": "fd3d51c9-0fc2-4198-b596-45872368fe57",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Würzburg und Frankfurt(M)",
+      "summary": "Aufgrund von einer Oberleitungsstörung ist die Strecke zwischen Würzburg und  Frankfurt(M) derzeit gesperrt. Dadurch kommt es zu Verspätungen und Haltausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge zwischen Würzburg und Frankfurt(M) und Gegenrichtung werden über Fulda umgeleitet. Verspätung ca. 40 Minuten. </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.04.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.04.2024 22:23",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
