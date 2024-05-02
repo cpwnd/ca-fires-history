@@ -643,6 +643,39 @@
       "topDisruption": false
     },
     {
+      "id": "14649b83-4e0f-496a-a353-8a2030ac8c6d",
+      "disruptionId": "bc5e93be-4085-439b-b999-7bdf430f6177",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 44: Ausfall RB 27128 zwischen Rosenheim und Mühldorf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 44: Die RB 27128 entfällt heute ersatzlos zwischen Rosenheim (ab 14:34 Uhr) und Mühldorf (an 15:30 Uhr) wegen einer technischen Störung am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "02.05.2024",
+      "durationEnd": "02.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "02.05.2024 13:31",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "37b7efbe-326a-4347-abcb-58313c7a3111",
       "disruptionId": "ac48609a-3398-40a8-8365-a5effbf1d2be",
       "author": "SUEDOSTBAYERNBAHN",
