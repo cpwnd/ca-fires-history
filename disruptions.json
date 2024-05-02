@@ -333,13 +333,14 @@
       "disruptionId": "5b3f9782-3fb4-48e2-9dac-87a1440f878c",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
       },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Würzburg bzw. Fulda",
-      "summary": "Aufgrund einer Unterbesetzung des Stellwerks Hanau kommt es in den Nächten zwischen 20:00 Uhr und 06:00 Uhr derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Umleitungen und Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne Züge zwischen Frankfurt(M) und Würzburg werden über Darmstadt-Kranichstein umgeleitet und verspäten sich um etwa 20 Minuten.</li><li>Einzelne Züge zwischen Frankfurt(M) und Fulda werden über Darmstadt-Kranichstein umgeleitet und verspäten sich um etwa 40 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "01.05.2024",
+      "headline": "Verspätungen zwischen Frankfurt(M) und Würzburg bzw. Fulda",
+      "summary": "Aufgrund einer Unterbesetzung des Stellwerks Hanau kommt es in den Nächten ab 03./04.05.2024 bis einschl. 07./08.05.2024 jeweils zwischen 20:00 Uhr und 06:00 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen.",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Einzelne ICE-Züge beider Fahrtrichtungen zwischen Frankfurt(M) und Würzburg werden umgeleitet und verspäten sich um etwa 20 Minuten.</li><li>Einzelne ICE-Züge beider Fahrtrichtungen zwischen Frankfurt(M) und Fulda werden umgeleitet und verspäten sich um etwa 20 Minuten.</li></ul><p>ICE/IC-Züge mit planmäßigen Halt in Hanau Hbf werden nicht umgeleitet.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.05.2024",
+      "durationEnd": "08.05.2024",
       "images": [],
       "downloads": [],
       "links": [],
@@ -357,7 +358,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "02.05.2024 07:06",
+      "lastModified": "02.05.2024 18:00",
       "expand": true,
       "topDisruption": false
     },
@@ -643,16 +644,16 @@
       "topDisruption": false
     },
     {
-      "id": "7aefe9af-254f-4ec8-90a7-1e15976de508",
-      "disruptionId": "7710ad60-edf2-4b60-bb06-77c4c52f0231",
+      "id": "ffced8e8-a850-4a28-aba9-f4431a64cf34",
+      "disruptionId": "d6ba120d-c487-49c8-bd69-420b145a738d",
       "author": "SUEDOSTBAYERNBAHN",
       "cause": {
         "category": "accident",
         "label": "Unfall an einem Bahnübergang"
       },
-      "headline": "RB 32 : Ausfall RB 27631 zwischen Bogen und Straubing",
+      "headline": "RB 32: Ausfall RB 27633 zwischen Straubing und Neufahrn/Niederbay",
       "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 32 : Die RB 27631 entfällt heute ersatzlos zwischen Bogen (ab 17:04 Uhr) und Straubing (an 17:20 Uhr) wegen eines Bahnübergangsunfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "text": "<p>RB 32: Die RB 27633 entfällt heute  ersatzlos zwischen Straubing (ab 18:27 Uhr) und Neufahrn/Niederbay (an 19:07 Uhr) wegen eines Bahnübergangsunfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
       "durationBegin": "02.05.2024",
       "durationEnd": "02.05.2024",
       "images": [],
@@ -671,7 +672,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "02.05.2024 16:22",
+      "lastModified": "02.05.2024 18:18",
       "expand": true,
       "topDisruption": false
     },
