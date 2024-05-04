@@ -608,6 +608,39 @@
       "topDisruption": false
     },
     {
+      "id": "ab236782-a739-49b3-bea5-83aef249cfa6",
+      "disruptionId": "b1516020-ede8-4eb3-beb7-b4d74be6fcf1",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 32: Ausfall RB 27607 zwischen Neufahrn/Niederbay und Landshut Hbf ",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 32: Die RB 27607 entfällt heute ersatzlos zwischen Neufahrn/Niederbay (ab 8:05 Uhr) und Landshut Hbf  (an 8:24 Uhr) wegen einer Reparatur aum Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "04.05.2024",
+      "durationEnd": "04.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "04.05.2024 08:18",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "ee1a4dd1-d5e1-4900-ba0e-3e8216d13d55",
       "disruptionId": "e136e76a-f619-4edc-b4e9-710786c8efeb",
       "author": "SUEDOSTBAYERNBAHN",
@@ -670,39 +703,6 @@
         }
       ],
       "lastModified": "04.05.2024 06:54",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "1ba8e4ae-b79a-4c20-9639-b172d324df7e",
-      "disruptionId": "004f2e7f-d3a2-489f-982a-0f157daa22cf",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 49: Ausfall RB 27445 zwischen Traunreut und Traunstein",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 49: Die RB 27445 entfällt heute ersatzlos zwischen Traunreut (ab 7:16 Uhr) und Traunstein (an 7:40 Uhr) wegen einer Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "04.05.2024",
-      "durationEnd": "04.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "04.05.2024 06:45",
       "expand": true,
       "topDisruption": false
     },
@@ -835,39 +835,6 @@
         }
       ],
       "lastModified": "03.05.2024 10:31",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "4116a7ec-e496-4def-86bb-127b1cc0819a",
-      "disruptionId": "d1477cf2-2f79-4e09-ad99-6df383de5d62",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 49: Ausfall RB 27448 zwischen Traunstein und Traunreut",
-      "summary": "Ein Ersatzverkehr ist eingerichtet",
-      "text": "<p>RB 49: Die RB 27448 entfällt am Samstag, den 04.05.24 zwischen Traunstein (ab 07:00 Uhr) und Traunreut (an 07.26 Uhr) wegen einer technischen Störung am Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
-      "durationBegin": "04.05.2024",
-      "durationEnd": "04.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "03.05.2024 10:08",
       "expand": true,
       "topDisruption": false
     },
