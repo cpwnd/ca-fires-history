@@ -608,6 +608,39 @@
       "topDisruption": false
     },
     {
+      "id": "815f291f-98d8-4e57-a244-18fc806c8872",
+      "disruptionId": "94606bc4-2740-4685-b106-c92472edf4b6",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Zugausfälle Tübingen - Metzingen",
+      "summary": "Aufgrund  einer Technischen Störung an einem Signal kommt es voraussichtlich bis ca. 15:00 Uhr auf den Zügen der Linie RB 63 Ulm zu Teilausfällen. Kein Ersatzverkehr mit Bussen eingerichtet.\n\n",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>Herrenberg - Metzingen</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "04.05.2024",
+      "durationEnd": "04.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "04.05.2024 14:21",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "d89336fe-dc67-4e85-a409-2b5e71007c47",
       "author": "REGIO_MITTE",
       "cause": {
