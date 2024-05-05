@@ -641,6 +641,72 @@
       "topDisruption": false
     },
     {
+      "id": "c911fe14-ee5e-4a30-9617-6fc82b51b8e6",
+      "disruptionId": "3413de40-5009-4d69-b717-68fe97de1915",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 49: Ausfall RB 27474 zwischen Hörpolding und Traunreut",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 49: Die RB 27474 entfällt heute ersatzlos zwischen Hörpolding (ab 18:45 Uhr) und Traunreut (an 18:49 Uhr) wegen einer technischen Störung am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 19:15",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "5b009381-2420-43b1-aa9a-8602cab9a900",
+      "disruptionId": "63fd25dd-6d1b-4d71-8927-cb7f5c6ed22e",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Verspätungen und Zugausfälle zwischen Offenburg und Haslach",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung bei Biberach(Baden) musste die Strecke zwischen Haslach und Offenburg gesperrt werden. Es kommt zu Zugausfällen.\n\nEin Ersatzverkehr mit Bussen ist zwischen Haslach und Offenburg mit Zwischenhalten in Gengenbach und Biberach(Baden) eingerichtet.\n\nDie Störung dauert voraussichtlich noch bis am Sonntagabend um ca. 20 Uhr an. Das Störungsende können wir leider nicht mehr kommunizieren. Bitte rechnen Sie aber auch nach 20 Uhr noch mit Verspätungen und einzelnen Zugausfällen bis sich der Zugverkehr wieder vollständig normalisiert hat.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 2 (Karlsruhe - Offenburg - Konstanz)</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 18:55",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "eebfae8a-fcb0-4b14-843e-bcc3223c9cc6",
       "disruptionId": "fba83f8e-4d6c-442b-a97c-164d0566a824",
       "author": "SUEDOSTBAYERNBAHN",
@@ -769,39 +835,6 @@
         }
       ],
       "lastModified": "05.05.2024 16:46",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "5b009381-2420-43b1-aa9a-8602cab9a900",
-      "disruptionId": "63fd25dd-6d1b-4d71-8927-cb7f5c6ed22e",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Verspätungen und Zugausfälle zwischen Offenburg und Haslach",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung bei Biberach(Baden) musste die Strecke zwischen Haslach und Offenburg gesperrt werden. Es kommt zu Zugausfällen.\n\nEin Ersatzverkehr mit Bussen ist zwischen Haslach und Offenburg mit Zwischenhalten in Gengenbach und Biberach(Baden) eingerichtet.\n\nDie Störung dauert voraussichtlich noch bis im Laufe des Sonntagabends an. Sobald es Neuigkeiten gibt, wird diese Meldung aktualisiert.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 2 (Karlsruhe - Offenburg - Konstanz)</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.05.2024 15:55",
       "expand": true,
       "topDisruption": false
     },
