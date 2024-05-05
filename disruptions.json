@@ -385,6 +385,44 @@
       "topDisruption": false
     },
     {
+      "id": "22c1d8b7-d3a0-44c3-8771-eab3109d14c9",
+      "disruptionId": "cb019edd-2138-4fd1-8fe3-a359e988e9ae",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 44: Verzögerungen zwischen Vilsbiburg und Geisenhausen",
+      "summary": "Zwischen Vilsbiburg und Geisenhausen kommt es zu Verzögerungen. Grund hierfür: technische Störung am Zug",
+      "text": "<p>RB 44: Auf der Strecke zwischen Vilsbiburg und Geisenhausen kommt es derzeit zu Verzögerungen von ca. 45 Minuten Minuten wegen einer technische Störung am Zug.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 44",
+          "filterName": "RB 44",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 45",
+          "filterName": "RB 45",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 14:00",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "715c4894-566e-409e-b87e-9e34436e3c5e",
       "author": "REGIO_MITTE",
       "cause": {
@@ -608,6 +646,72 @@
       "topDisruption": false
     },
     {
+      "id": "686c9631-a29f-44b3-8689-c85c674dc1d9",
+      "disruptionId": "9c3c622d-1f5c-4a77-b09c-cbe37a8174f0",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "RB 46: Ausfall RB 27236 zwischen Passau und Mühldorf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 46: Die RB 27236 entfällt heute ersatzlos zwischen Passau (ab 17:06 Uhr) und Mühldorf (an 19:23 Uhr) wegen einer technischen Störung an einem anderen Zug . Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 14:33",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "fa4a257d-ee87-418d-a8f8-0cd5541ea35b",
+      "disruptionId": "f798186b-34d7-4567-bc4a-41385768da5f",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "RB 46: Ausfall RB 27231 zwischen Mühldorf und Passau",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 46: Die RB 27231 entfällt heute ersatzlos zwischen Mühldorf (ab 14:34 Uhr) und Passau (an 16:55 Uhr) wegen einer technischen Störung an einem anderen Zug . Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 14:22",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "e642e2db-c0ff-478e-ad90-8cfe2d7a4b31",
       "author": "REGIO_SH",
       "cause": {
@@ -616,9 +720,9 @@
       },
       "headline": "Streckenstörung zwischen Bargteheide und Ahrensburg-Gartenholz behoben",
       "summary": "Die Streckenst&ouml;rung zwischen Bargteheide und Ahrensburg-Gartenholz ist behoben. In Folge kommt es noch zu Versp&auml;tungen und Ausf&auml;llen.",
-      "text": "<p><u>Betroffene Linien:</u></p>\n\n<ul>\n\t<li>RE 8 (L&uuml;beck Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren wieder nach Plan.</li>\n\t<li>RE 80 (L&uuml;beck Hbf &ndash; Ahrensburg &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren wieder nach Plan.</li>\n\t<li>RB 81 (Bad Oldesloe &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren wieder nach Plan.</li>\n</ul>\n\n<p>Der Ersatzverkehr mit Bus wird in K&uuml;rze eingestellt.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "text": "<p><u>Betroffene Linien:</u></p>\n\n<ul>\n\t<li>RE 8 (L&uuml;beck Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren wieder auf dem Regelweg.</li>\n\t<li>RE 80 (L&uuml;beck Hbf &ndash; Ahrensburg &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren wieder auf dem Regelweg.</li>\n\t<li>RB 81 (Bad Oldesloe &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren wieder auf dem Regelweg.</li>\n</ul>\n\n<p>Der Ersatzverkehr mit Bus wird in K&uuml;rze eingestellt.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "durationBegin": "05.05.2024",
-      "durationEnd": "06.05.2024",
+      "durationEnd": "05.05.2024",
       "images": [],
       "downloads": [],
       "links": [
@@ -672,7 +776,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "05.05.2024 13:47",
+      "lastModified": "05.05.2024 13:51",
       "expand": false,
       "topDisruption": false
     },
@@ -739,39 +843,6 @@
         }
       ],
       "lastModified": "04.05.2024 17:57",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "c8dfc83c-1cdb-49c1-b2a4-8f43b879df34",
-      "disruptionId": "5690c851-83e7-407a-913d-0640284ee5f7",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 49: Ausfall RB 27465 zwischen Traunreut und Traunstein",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 49: Die RB 27465 entfällt am Sonntag, den 05.05.24 ersatzlos zwischen Traunreut (ab 12:55 Uhr) und Traunstein (an 13:18 Uhr) wegen einer technischen Störung am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "04.05.2024 17:41",
       "expand": true,
       "topDisruption": false
     },
