@@ -385,44 +385,6 @@
       "topDisruption": false
     },
     {
-      "id": "22c1d8b7-d3a0-44c3-8771-eab3109d14c9",
-      "disruptionId": "cb019edd-2138-4fd1-8fe3-a359e988e9ae",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 44: Verzögerungen zwischen Vilsbiburg und Geisenhausen",
-      "summary": "Zwischen Vilsbiburg und Geisenhausen kommt es zu Verzögerungen. Grund hierfür: technische Störung am Zug",
-      "text": "<p>RB 44: Auf der Strecke zwischen Vilsbiburg und Geisenhausen kommt es derzeit zu Verzögerungen von ca. 45 Minuten Minuten wegen einer technische Störung am Zug.</p>",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 44",
-          "filterName": "RB 44",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 45",
-          "filterName": "RB 45",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.05.2024 14:00",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "715c4894-566e-409e-b87e-9e34436e3c5e",
       "author": "REGIO_MITTE",
       "cause": {
@@ -653,7 +615,7 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Verspätungen und Zugausfälle Haslach - Offenburg",
+      "headline": "Verspätungen und Zugausfälle zwischen Offenburg und Haslach",
       "summary": "Aufgrund einer Reparatur an der Oberleitung bei Biberach(Baden) musste die Strecke zwischen Haslach und Offenburg gesperrt werden. Es kommt zu Zugausfällen.\n\nEin Ersatzverkehr mit Bussen ist zwischen Haslach und Offenburg eingerichtet.\n\nMomentan liegen uns noch keine Informationen zur Dauer der Störung vor. Sobald es Neuigkeiten gibt, wird diese Meldung aktualisiert.",
       "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 2 (Karlsruhe - Offenburg - Konstanz)</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "05.05.2024",
@@ -674,7 +636,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "05.05.2024 14:52",
+      "lastModified": "05.05.2024 14:59",
       "expand": true,
       "topDisruption": false
     },
