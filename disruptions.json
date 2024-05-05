@@ -608,6 +608,105 @@
       "topDisruption": false
     },
     {
+      "id": "68acd548-69a6-495c-a52d-02602b469d6a",
+      "disruptionId": "c44bab0f-6e05-4f48-97a2-b0dc16bdf91f",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "RB 48: Ausfall RB 27365 zwischen Grafing Bhf und Wasserburg",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 48: Die RB 27365 entfällt heute ersatzlos zwischen Grafing Bhf (ab 17:11 Uhr) und Wasserburg (an 17:47 Uhr) wegen eines Personalausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 16:02",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "5b009381-2420-43b1-aa9a-8602cab9a900",
+      "disruptionId": "63fd25dd-6d1b-4d71-8927-cb7f5c6ed22e",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Verspätungen und Zugausfälle zwischen Offenburg und Haslach",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung bei Biberach(Baden) musste die Strecke zwischen Haslach und Offenburg gesperrt werden. Es kommt zu Zugausfällen.\n\nEin Ersatzverkehr mit Bussen ist zwischen Haslach und Offenburg mit Zwischenhalten in Gengenbach und Biberach(Baden) eingerichtet.\n\nDie Störung dauert voraussichtlich noch bis im Laufe des Sonntagabends an. Sobald es Neuigkeiten gibt, wird diese Meldung aktualisiert.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 2 (Karlsruhe - Offenburg - Konstanz)</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 15:55",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "23c3f496-3063-4f7b-a3fb-981a0b3dd202",
+      "disruptionId": "b4db4d62-25c7-478e-8f77-ae806adacb55",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "RB 48: Ausfall RB 27366 zwischen Wasserburg und Grafing Bhf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 48: Die RB 27366 entfällt heute ersatzlos zwischen Wasserburg (ab 16:12 Uhr) und Grafing Bhf (an 16:49 Uhr) wegen eines Personalausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 15:54",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5e023313-2e4d-4203-9564-6709a41d43a1",
       "disruptionId": "4c372450-82ae-4d75-8673-00d78196b4b4",
       "author": "SUEDOSTBAYERNBAHN",
@@ -637,72 +736,6 @@
         }
       ],
       "lastModified": "05.05.2024 15:44",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "fcf0af20-600c-4b04-91d5-63807f5771ff",
-      "disruptionId": "ac922bde-94dc-4cb0-9356-a3a323cfa987",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "RB 45: Ausfall RB 27985 zwischen Freilassing und Salzburg Hbf",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 45: Die RB 27985 entfällt heute ersatzlos zwischen Freilassing (ab 15:46 Uhr) und Salzburg Hbf (an 15:55 Uhr) wegen einer Reparatur an einem Signal. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.05.2024 15:32",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "5b009381-2420-43b1-aa9a-8602cab9a900",
-      "disruptionId": "63fd25dd-6d1b-4d71-8927-cb7f5c6ed22e",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Verspätungen und Zugausfälle zwischen Offenburg und Haslach",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung bei Biberach(Baden) musste die Strecke zwischen Haslach und Offenburg gesperrt werden. Es kommt zu Zugausfällen.\n\nEin Ersatzverkehr mit Bussen ist zwischen Haslach und Offenburg eingerichtet.\n\nMomentan liegen uns noch keine Informationen zur Dauer der Störung vor. Sobald es Neuigkeiten gibt, wird diese Meldung aktualisiert.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 2 (Karlsruhe - Offenburg - Konstanz)</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.05.2024 14:59",
       "expand": true,
       "topDisruption": false
     },
@@ -770,75 +803,6 @@
       ],
       "lastModified": "05.05.2024 14:22",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "e642e2db-c0ff-478e-ad90-8cfe2d7a4b31",
-      "author": "REGIO_SH",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Streckenstörung zwischen Bargteheide und Ahrensburg-Gartenholz behoben",
-      "summary": "Die Streckenst&ouml;rung zwischen Bargteheide und Ahrensburg-Gartenholz ist behoben. In Folge kommt es noch zu Versp&auml;tungen und Ausf&auml;llen.",
-      "text": "<p><u>Betroffene Linien:</u></p>\n\n<ul>\n\t<li>RE 8 (L&uuml;beck Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren wieder auf dem Regelweg.</li>\n\t<li>RE 80 (L&uuml;beck Hbf &ndash; Ahrensburg &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren wieder auf dem Regelweg.</li>\n\t<li>RB 81 (Bad Oldesloe &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren wieder auf dem Regelweg.</li>\n</ul>\n\n<p>Der Ersatzverkehr mit Bus wird in K&uuml;rze eingestellt.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt  ",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH ",
-          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de ",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.05.2024 13:51",
-      "expand": false,
       "topDisruption": false
     },
     {
