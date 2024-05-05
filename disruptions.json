@@ -608,6 +608,72 @@
       "topDisruption": false
     },
     {
+      "id": "992a8794-8afe-4c33-af1a-ca6259d8fe9a",
+      "disruptionId": "9a906564-5341-49a4-9ba7-0f71e096cef0",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "RB 49: Ausfall RB 27505 zwischen Traunreut und Traunstein",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>RB 49: Die RB 27505 entfällt heute zwischen Traunreut (ab 22:55 Uhr) und Traunstein (an 23:18 Uhr) wegen einer technischen Störung an einem anderen Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 49",
+          "filterName": "RB 49",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 21:59",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "48639992-f77f-4e62-a454-306ac1cc8667",
+      "disruptionId": "2b6b5fdc-1b72-4952-b615-715b0ca611d8",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "RB 47: Ausfall RB 27439 zwischen Hörpolding und Traunreut",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>RB 47: Die RB 27439 entfällt heute zwischen Hörpolding (ab 22:45 Uhr) und Traunreut (an 22:49 Uhr) wegen einer technischen Störung an einem anderen Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 47",
+          "filterName": "RB 47",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 21:51",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "9ad03bf9-cff4-43a6-b76c-2e1dcb180148",
       "disruptionId": "8955507d-5500-42a9-985c-b49af0ac655f",
       "author": "SUEDOSTBAYERNBAHN",
@@ -637,39 +703,6 @@
         }
       ],
       "lastModified": "05.05.2024 21:13",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "f635acc8-48db-4552-aa30-b41a917d78e5",
-      "disruptionId": "70d1102c-2c6a-4beb-b062-aaad6c9fafa8",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 49: Ausfall RB 27480 zwischen Traunstein und Traunreut",
-      "summary": "Ein Ersatzverkehr ist eingerichtet",
-      "text": "<p>RB 49: Die RB 27480 entfällt heute zwischen Traunstein (ab 21:20 Uhr) und Traunreut (an 21:42 Uhr) wegen einer technischen Störung am Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.05.2024 21:07",
       "expand": true,
       "topDisruption": false
     },
