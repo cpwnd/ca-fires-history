@@ -608,6 +608,39 @@
       "topDisruption": false
     },
     {
+      "id": "9ad03bf9-cff4-43a6-b76c-2e1dcb180148",
+      "disruptionId": "8955507d-5500-42a9-985c-b49af0ac655f",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 49: Ausfall RB 27503 zwischen Traunreut und Traunstein",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>RB 49: Die RB 27503 entfällt heute zwischen Traunreut (ab 21:48 Uhr) und Traunstein (an 22.11 Uhr) wegen einer technischen Störung am Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 21:13",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "f635acc8-48db-4552-aa30-b41a917d78e5",
       "disruptionId": "70d1102c-2c6a-4beb-b062-aaad6c9fafa8",
       "author": "SUEDOSTBAYERNBAHN",
