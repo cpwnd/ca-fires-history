@@ -641,39 +641,6 @@
       "topDisruption": false
     },
     {
-      "id": "48639992-f77f-4e62-a454-306ac1cc8667",
-      "disruptionId": "2b6b5fdc-1b72-4952-b615-715b0ca611d8",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Behobener technischer Defekt einem anderen Zug"
-      },
-      "headline": "RB 47: Ausfall RB 27439 zwischen Hörpolding und Traunreut",
-      "summary": "Ein Ersatzverkehr ist eingerichtet",
-      "text": "<p>RB 47: Die RB 27439 entfällt heute zwischen Hörpolding (ab 22:45 Uhr) und Traunreut (an 22:49 Uhr) wegen einer technischen Störung an einem anderen Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 47",
-          "filterName": "RB 47",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.05.2024 21:51",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "5b009381-2420-43b1-aa9a-8602cab9a900",
       "disruptionId": "63fd25dd-6d1b-4d71-8927-cb7f5c6ed22e",
       "author": "REGIO_BW",
@@ -736,39 +703,6 @@
         }
       ],
       "lastModified": "05.05.2024 17:27",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "5775694b-b889-4651-ba06-4954e01dcac9",
-      "disruptionId": "df81eec9-6fd2-49f4-a303-9a8aaefd6747",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "RB 48: Ausfall RB 27384 zwischen Wasserburg und Grafing Bhf",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 48: Die RB 27384 entfällt heute ersatzlos zwischen Wasserburg (ab 22:10 Uhr) und Grafing Bhf (an 22:48 Uhr) wegen eines Personalausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.05.2024 17:19",
       "expand": true,
       "topDisruption": false
     },
