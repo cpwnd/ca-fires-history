@@ -608,6 +608,72 @@
       "topDisruption": false
     },
     {
+      "id": "5e023313-2e4d-4203-9564-6709a41d43a1",
+      "disruptionId": "4c372450-82ae-4d75-8673-00d78196b4b4",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "RB 45: Ausfall RB 27984 zwischen Salzburg Hbf und Freilassing",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 45: Die RB 27984 entfällt heute ersatzlos zwischen Salzburg Hbf (ab 16:08 Uhr) und Freilassing (an 16:18 Uhr) wegen einer Reparatur an einem Signal. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 15:44",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "fcf0af20-600c-4b04-91d5-63807f5771ff",
+      "disruptionId": "ac922bde-94dc-4cb0-9356-a3a323cfa987",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "RB 45: Ausfall RB 27985 zwischen Freilassing und Salzburg Hbf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 45: Die RB 27985 entfällt heute ersatzlos zwischen Freilassing (ab 15:46 Uhr) und Salzburg Hbf (an 15:55 Uhr) wegen einer Reparatur an einem Signal. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 15:32",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5b009381-2420-43b1-aa9a-8602cab9a900",
       "disruptionId": "63fd25dd-6d1b-4d71-8927-cb7f5c6ed22e",
       "author": "REGIO_BW",
