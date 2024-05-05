@@ -385,6 +385,39 @@
       "topDisruption": false
     },
     {
+      "id": "19ce8c9f-8f43-418d-99fa-c6bd7028956f",
+      "disruptionId": "07b142eb-0529-4dd6-8815-fb5247d1ba20",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 47: Ausfall RB 27428 zwischen Hörpolding und Mühldorf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 47: Die RB 27428 entfällt heute ersatzlos zwischen Hörpolding (ab 18:42 Uhr) und Mühldorf (an 19:26 Uhr) wegen einer technischer Störung am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 47",
+          "filterName": "RB 47",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 19:22",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "25427fdc-a478-4b15-bdac-43b7582f1275",
       "disruptionId": "126aa7fb-4a10-47c8-a25e-1bdabaffcb68",
       "author": "SUEDOSTBAYERNBAHN",
