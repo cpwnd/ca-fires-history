@@ -608,6 +608,39 @@
       "topDisruption": false
     },
     {
+      "id": "4ed6d0ff-6ef9-4817-8f0b-33f65f718fa3",
+      "disruptionId": "952727ec-5e90-4eb6-840f-90568e7f19fd",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "RB 48: Ausfall RB 27378 zwischen Wasserburg und Grafing Bhf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 48: Die RB 27378 entfällt heute ersatzlos zwischen Wasserburg (ab 19:12 Uhr) und Grafing Bhf (an 19:48 Uhr) wegen eines Personalausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 16:46",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "68acd548-69a6-495c-a52d-02602b469d6a",
       "disruptionId": "c44bab0f-6e05-4f48-97a2-b0dc16bdf91f",
       "author": "SUEDOSTBAYERNBAHN",
@@ -703,39 +736,6 @@
         }
       ],
       "lastModified": "05.05.2024 15:54",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "5e023313-2e4d-4203-9564-6709a41d43a1",
-      "disruptionId": "4c372450-82ae-4d75-8673-00d78196b4b4",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "RB 45: Ausfall RB 27984 zwischen Salzburg Hbf und Freilassing",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 45: Die RB 27984 entfällt heute ersatzlos zwischen Salzburg Hbf (ab 16:08 Uhr) und Freilassing (an 16:18 Uhr) wegen einer Reparatur an einem Signal. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.05.2024 15:44",
       "expand": true,
       "topDisruption": false
     },
