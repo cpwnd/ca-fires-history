@@ -641,6 +641,39 @@
       "topDisruption": false
     },
     {
+      "id": "64f2ba3f-e180-4913-b92d-2b277bc28e31",
+      "disruptionId": "596e5c6e-78e0-4c48-a386-0dc13db020a4",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 49: Ausfall RB 27497 zwischen Traunreut und Traunstein",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>RB 49: Die RB 27497 entfällt heute zwischen Traunreut (ab 20:36 Uhr) und Traunstein (an 20:59 Uhr) wegen einer technischer Störung am Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "05.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.05.2024 19:58",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "da14d600-7bce-48f9-9ac9-ac3a4b2cee95",
       "disruptionId": "8eba7d91-c936-4333-9636-54df1576bd2c",
       "author": "SUEDOSTBAYERNBAHN",
@@ -670,39 +703,6 @@
         }
       ],
       "lastModified": "05.05.2024 19:49",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "bf5e6371-0f02-4536-8b62-f6f8f0d530b2",
-      "disruptionId": "c4301197-ce42-4b79-8d9e-23cd1ad5f076",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 49: Ausfall RB 27476 zwischen Traunstein und Traunreut",
-      "summary": "Ein Ersatzverkehr ist eingerichtet",
-      "text": "<p>RB 49: Die RB 27476 entfällt heute zwischen Traunstein (ab 19:20 Uhr) und Traunreut (an 19:42 Uhr) wegen einer technische Störung am Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.05.2024 19:42",
       "expand": true,
       "topDisruption": false
     },
@@ -835,39 +835,6 @@
         }
       ],
       "lastModified": "05.05.2024 17:19",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "4ed6d0ff-6ef9-4817-8f0b-33f65f718fa3",
-      "disruptionId": "952727ec-5e90-4eb6-840f-90568e7f19fd",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "RB 48: Ausfall RB 27378 zwischen Wasserburg und Grafing Bhf",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 48: Die RB 27378 entfällt heute ersatzlos zwischen Wasserburg (ab 19:12 Uhr) und Grafing Bhf (an 19:48 Uhr) wegen eines Personalausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "05.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.05.2024 16:46",
       "expand": true,
       "topDisruption": false
     },
