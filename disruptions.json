@@ -766,6 +766,73 @@
       "topDisruption": false
     },
     {
+      "id": "6e69dda8-b5d6-43b0-a4dc-a96492eaa327",
+      "disruptionId": "bda89538-0a7a-471f-b40d-cc04e3b155b0",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "RB 46: Ausfall RB 27233 zwischen Mühldorf und Pfarrkirchen",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 46: die RB 27233 entfällt heute ersatzlos zwischen Mühldorf (ab 15:36 Uhr) und Pfarrkirchen (an 16:25 Uhr) wegen einer Streckensperrung. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "06.05.2024",
+      "durationEnd": "06.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.05.2024 16:49",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "a0416175-b8e9-4714-a010-3551283410d9",
+      "disruptionId": "db15dc08-f267-4084-818a-95fcc18f0759",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S7 Wolfratshausen - Icking: Reparatur an der Strecke",
+      "summary": "Derzeit sind zwischen Ebenhausen-Schäftlarn und Wolfratshausen keine S-Bahn-Fahrten möglich.",
+      "text": "<p>Die S-Bahnen aus München beginnen/enden in Ebenhausen-Schäftlarn ab dort besteht ein Ersatzverkehr bis/ab Wolfratshausen.</p><p>Bitte nutzen Sie nur die Taxis (Großraumtaxis) mit speziell gekennzeichneter „SEV“ Beschilderung.</p><p>Aktuell rechnen wir mit der Störungsbehebung nicht vor 17:00 des heutigen Tages.</p><p>Zusätzlich kann es im weiteren Streckenverlauf der S 7 zu Verspätungen kommen.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke in diesem Bereich.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "06.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.05.2024 16:49",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c7f7674a-5ea6-4260-ae9e-2077cb0bbb4a",
       "disruptionId": "c547c1d8-6166-4d06-a324-6a3538202595",
       "author": "SUEDOSTBAYERNBAHN",
@@ -861,40 +928,6 @@
         }
       ],
       "lastModified": "06.05.2024 15:52",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "a0416175-b8e9-4714-a010-3551283410d9",
-      "disruptionId": "db15dc08-f267-4084-818a-95fcc18f0759",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S7 Wolfratshausen - Icking: Reparatur an der Strecke",
-      "summary": "Derzeit sind zwischen Ebenhausen-Schäftlarn und Wolfratshausen keine S-Bahn-Fahrten möglich.",
-      "text": "<p>Die S-Bahnen aus München beginnen/enden in Ebenhausen-Schäftlarn ab dort haben wir einen Ersatzverkehr beginnend um ca. 15:20 bis/ab Wolfratshausen für Sie bestellt.</p><p>Bitte nutzen Sie nur die speziell gekennzeichneten Fahrzeuge.</p><p>Aktuell rechnen wir mit der Störungsbehebung nicht vor 17:00 des heutigen Tages.</p><p>Zusätzlich kann es im weiteren Streckenverlauf der S 7 zu Verspätungen kommen.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke in diesem Bereich.</p>",
-      "durationBegin": "05.05.2024",
-      "durationEnd": "06.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.05.2024 15:28",
       "expand": true,
       "topDisruption": false
     },
