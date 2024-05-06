@@ -482,7 +482,7 @@
       },
       "headline": "Streckensperrung zwischen Neumünster und Rendsburg",
       "summary": "Aufgrund einer Streckensperrung zwischen Neum&uuml;nster und Rendsburg ist der Zugverkehr beeintr&auml;chtigt.",
-      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li>RE 7&nbsp;(Flensburg&nbsp;&ndash; Hamburg Hbf): Die Z&uuml;ge verkehren zwischen Flensburg und Rendsburg sowie zwischen Neum&uuml;nster und Hamburg Hbf zu den planm&auml;&szlig;igen Abfahrtszeiten. Ein Buspendelverkehr ist zwischen Rendsburg und Neum&uuml;nster eingerichtet. Es verkehren 4 Busse der Firma Bisschoff und der Firma Wriedt-Reisen.&nbsp; &nbsp; &nbsp; &nbsp; 4 weitere Busse best&auml;tigt. 1x Bischof Reisen ab 16:30 Uhr ab Rendsburg und ab 15 Uhr in Neum&uuml;nster 1x Busunternehmen Niederflur und 2x Schmidt Bus Reisen</li>\n</ul>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von vsl. bis zu 45 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li>RE 7&nbsp;(Flensburg&nbsp;&ndash; Hamburg Hbf): Die Z&uuml;ge verkehren zwischen Flensburg und Rendsburg sowie zwischen Neum&uuml;nster und Hamburg Hbf zu den planm&auml;&szlig;igen Abfahrtszeiten. Ein Buspendelverkehr ist zwischen Rendsburg und Neum&uuml;nster eingerichtet. Es verkehren 4 Busse der Firma Bisschoff und der Firma Wriedt-Reisen.&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>\n</ul>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von vsl. bis zu 45 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
       "durationBegin": "06.05.2024",
       "durationEnd": "06.05.2024",
       "images": [],
@@ -538,7 +538,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "06.05.2024 15:35",
+      "lastModified": "06.05.2024 16:07",
       "expand": false,
       "topDisruption": false
     },
@@ -763,6 +763,72 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "3e71dea4-92cc-43f5-b476-690d7967e801",
+      "disruptionId": "d5721d69-87e8-4ce8-9ff3-3a143a06e6dd",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "RB 45: Ausfall RB 27127 zwischen Landshut (Bay.) Hbf und Mühldorf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 45: Die RB 27127 entfällt heute ersatzlos zwischen Landshut (Bay.) Hbf (ab 16:38 Uhr) und Mühldorf (an 17:28 Uhr) wegen einer Streckensperrung. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "06.05.2024",
+      "durationEnd": "06.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.05.2024 16:08",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "ec28b441-72e2-4129-9d8d-c24e5d180972",
+      "disruptionId": "7a1354c5-ff4c-410a-9dcd-a243124a5ed4",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
+      },
+      "headline": "RE 4: Ausfall RE 27001 zwischen München Hbf und Simbach",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RE 4: Der RE 27001 entfällt heute ersatzlos zwischen München Hbf (ab 15:21 Uhr) und Simbach (an 17:08 Uhr) wegen einer Streckenstörung. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "06.05.2024",
+      "durationEnd": "06.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.05.2024 15:52",
+      "expand": true,
       "topDisruption": false
     },
     {
