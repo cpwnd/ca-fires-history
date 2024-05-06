@@ -766,6 +766,106 @@
       "topDisruption": false
     },
     {
+      "id": "de5f800d-0fe8-4cff-9d12-221b91569250",
+      "disruptionId": "2bcf21a4-9a52-4693-92a3-98295034d8a9",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "RB 44: Ausfall RB 27128 zwischen Mühldorf und Landshut (Bay.) Hbf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 44: Die RB 27128 entfällt heute ersatzlos zwischen Mühldorf (ab 15:32 Uhr) und Landshut (Bay.) Hbf (an 16:20 Uhr) wegen einer Streckensperrung. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "06.05.2024",
+      "durationEnd": "06.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.05.2024 15:18",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "a0416175-b8e9-4714-a010-3551283410d9",
+      "disruptionId": "db15dc08-f267-4084-818a-95fcc18f0759",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S7 Wolfratshausen - Icking: Reparatur an der Strecke",
+      "summary": "Derzeit sind zwischen Ebenhausen-Schäftlarn und Wolfratshausen keine S-Bahn-Fahrten möglich.",
+      "text": "<p>Die S-Bahnen aus München beginnen/enden in Ebenhausen-Schäftlarn ab dort haben wir einen Ersatzverkehr beginnend um ca. 15:20 bis/ab Wolfratshausen für Sie bestellt.</p><p>Bitte nutzen Sie nur die speziell gekennzeichneten Fahrzeuge.</p><p>Aktuell rechnen wir mit der Störungsbehebung nicht vor 17:00 des heutigen Tages.</p><p>Zusätzlich kann es im weiteren Streckenverlauf der S 7 zu Verspätungen kommen.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke in diesem Bereich.</p>",
+      "durationBegin": "05.05.2024",
+      "durationEnd": "06.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "06.05.2024 15:18",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "1494a1be-501b-4c69-8587-d534069cd390",
+      "disruptionId": "5a7f1a0d-e04a-4fbf-9411-99e958b63dd4",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "RB 44: Ausfall RB 27128 zwischen Wasserburg (Inn) Bahnhof und Mühldorf",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>RB 44: Die RB 27128 entfällt heute zwischen Wasserburg (Inn) Bahnhof (ab 15:00 Uhr) und Mühldorf (an 15:30 Uhr) wegen einer Streckensperrung. Ein Ersatzverkehr ist eingerichtet.</p>",
+      "durationBegin": "06.05.2024",
+      "durationEnd": "06.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.05.2024 15:01",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "d89336fe-dc67-4e85-a409-2b5e71007c47",
       "author": "REGIO_MITTE",
       "cause": {
