@@ -726,6 +726,39 @@
       "topDisruption": false
     },
     {
+      "id": "1e3315d7-4ac8-44e9-ae83-4a00d344dcc2",
+      "disruptionId": "4a5fd59a-2bc6-46ef-8a1c-a18e4233b8ed",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "RB 48: Ausfall RB 27377 zwischen Grafing Bahnhof und Wasserburg (Inn) Bahnhof",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 48: die RB 27377 entfällt heute ersatzlos zwischen Grafing Bahnhof (ab 21:11 Uhr) und Wasserburg (Inn) Bahnhof (an 21:46 Uhr) wegen einer Unwetterstörung. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "06.05.2024",
+      "durationEnd": "06.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.05.2024 21:56",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "b86c39fc-0b16-4c5a-97df-7e583c8616a0",
       "disruptionId": "28f23eb6-c2c8-4a5d-aa25-e703bc0cdef5",
       "author": "SUEDOSTBAYERNBAHN",
