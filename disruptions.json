@@ -2,40 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "d966cadc-b946-42ed-a7d0-a97c4ffcb8dd",
-      "disruptionId": "b9c77f52-595a-4c69-9174-a6e5678a3e59",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "Streckensperrung zwischen Neumünster und Schleswig",
-      "summary": "Aufgrund eines Feuerwehreinsatzes in Gleisnähe ist die Strecke zwischen Neumünster und Schleswig derzeit gesperrt. Ersatzverkehr ist zwischen Neumünster und Padborg st eingerichtet. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>EC Linie Hamburg - Padborg - Koebenhavn</li><li>IC Linie Flensburg - Hamburg - Berlin</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.05.2024",
-      "durationEnd": "06.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "06.05.2024 13:32",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -474,15 +440,15 @@
       "topDisruption": false
     },
     {
-      "id": "aaabdcb9-8ef7-4611-9ebd-64ea67ce4888",
+      "id": "5baf1d92-9912-4a99-8c94-63b5eefd472a",
       "author": "REGIO_NORD",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Beschädigung einer Brücke"
       },
-      "headline": "Streckensperrung zwischen Neumünster und Rendsburg",
-      "summary": "Aufgrund einer Streckensperrung zwischen Neum&uuml;nster und Rendsburg ist der Zugverkehr beeintr&auml;chtigt.",
-      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li>RE 7&nbsp;(Flensburg&nbsp;&ndash; Hamburg Hbf): Die Z&uuml;ge verkehren zwischen Flensburg und Rendsburg sowie zwischen Neum&uuml;nster und Hamburg Hbf zu den planm&auml;&szlig;igen Abfahrtszeiten. Ein Buspendelverkehr ist zwischen Rendsburg und Neum&uuml;nster eingerichtet. Es verkehren 4 Busse der Firma Bisschoff und der Firma Wriedt-Reisen.&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>\n</ul>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von vsl. bis zu 45 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "headline": "Beeinträchtiigungne zwischen Neumünster und Rendsburg beendet.",
+      "summary": "Die Streckensperrung zwischen Rendsburg und Neum&uuml;mdster ist aufgehoben. Es kann im Regionalverkehr in Schlesweig-Holgstein vereinzelt zu Versp&auml;tungen und Zugausf&auml;llen kommen.",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li>RE 7&nbsp;(Flensburg&nbsp;&ndash; Hamburg Hbf): Die Sperrung ist aufgehoben. bitte rechnen Sie noch mit Versp&auml;tungen und Zugausf&auml;llen bis sich der Zugverkehr stabilisiert hat. Der&nbsp;erste durchfahrende Zug ab Hamburg Hbf ist RE 11182 Abfahrt um&nbsp;20:43 Uhr. Der erste durchfahrende Zug ab Flensburg Hbf ist RE 11189 Abfahrt um 21:15 Uhr.&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;</li>\n</ul>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
       "durationBegin": "06.05.2024",
       "durationEnd": "06.05.2024",
       "images": [],
@@ -538,7 +504,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "06.05.2024 19:24",
+      "lastModified": "06.05.2024 20:40",
       "expand": false,
       "topDisruption": false
     },
@@ -861,39 +827,6 @@
         }
       ],
       "lastModified": "06.05.2024 19:00",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "0638fc97-8267-4bba-bf0a-8e601701d847",
-      "disruptionId": "3bd2fe47-1b6b-4932-8525-40097d4317bb",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
-      },
-      "headline": "RB 48: Ausfall RB 27371 zwischen München Ost und Grafing Bahnhof",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 48: Die RB 27371 entfällt heute ersatzlos zwischen München Ost (ab 18:55 Uhr) und Grafing Bahnhof (an 19:12 Uhr) wegen der eingeschränkten Gleisverfügbarkeit. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "06.05.2024",
-      "durationEnd": "06.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "06.05.2024 18:05",
       "expand": true,
       "topDisruption": false
     },
