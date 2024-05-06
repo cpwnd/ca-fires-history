@@ -726,6 +726,72 @@
       "topDisruption": false
     },
     {
+      "id": "b7dc700d-48ee-4f1f-9391-1830bfa0a67a",
+      "disruptionId": "d2b698bc-7166-423c-b66b-06d773fdd686",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "RB 46: Ausfall RB 27209 zwischen Pfarrkirchen und Pocking",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>RB 46: Die RB 27209 entfällt 07.05.24 zwischen Pfarrkirchen (ab 06:22 Uhr) und Pocking (an 06:53 Uhr) wegen einer Streckensperrung. Ein Ersatzverkehr ist eingerichtet.</p>",
+      "durationBegin": "06.05.2024",
+      "durationEnd": "07.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.05.2024 23:13",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "b776c170-6675-4936-8f93-2a544fc2845e",
+      "disruptionId": "2ec04b46-364c-4c88-ac4c-4c5d367d0050",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "RB 46: Ausfall RB 27205 zwischen Pfarrkirchen und Pocking",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>Wegen einer Streckensperrung entfällt die RB 27205 zwischen Pfarrkirchen (ab 06:22 Uhr) und Pocking (an 06:18 Uhr. Reisende nutzen bitte den Ersatzbus.</p>",
+      "durationBegin": "06.05.2024",
+      "durationEnd": "07.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.05.2024 23:01",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "858050f7-9b41-4838-bb07-9412f147abce",
       "disruptionId": "8543f5e1-4c41-45b3-be96-6f296064e5bb",
       "author": "SUEDOSTBAYERNBAHN",
