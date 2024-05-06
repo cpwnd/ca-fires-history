@@ -766,6 +766,39 @@
       "topDisruption": false
     },
     {
+      "id": "a040202e-c197-41bb-be3f-f198e78ee1f8",
+      "disruptionId": "52582a77-e3e6-4112-b78e-1fcfa7db45b2",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "RB 46: Ausfall RB alle zwischen Pfarrkirchen und Pocking",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>Wegen einer Streckensperrung ist der Zugverkehr zwischen Pfarrkirchen und Pocking bis heute Betriebsschluss eingestellt. Es ist Ersatzverkehr mit Bus eingerichtet. Züge aus Mühldorf wenden in Pfarrkirchen, Züge aus Passau Hbf wenden in Pocking.</p>",
+      "durationBegin": "06.05.2024",
+      "durationEnd": "07.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 46",
+          "filterName": "RB 46",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.05.2024 19:00",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "0638fc97-8267-4bba-bf0a-8e601701d847",
       "disruptionId": "3bd2fe47-1b6b-4932-8525-40097d4317bb",
       "author": "SUEDOSTBAYERNBAHN",
@@ -795,39 +828,6 @@
         }
       ],
       "lastModified": "06.05.2024 18:05",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "e052ffb7-998b-4ecc-8728-f9fdf89a9652",
-      "disruptionId": "1cf34bff-0415-4313-ac15-7679c7b66d3c",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
-      },
-      "headline": "RB 48: Ausfall RB 27367 zwischen München Ost und Grafing Bahnhof",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 48: Die RB 27367 entfällt heute ersatzlos zwischen München Ost (ab 17:53 Uhr) und Grafing Bahnhof (an 18:11 Uhr) wegen der eingeschränkten Gleisverfügbarkeit. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "06.05.2024",
-      "durationEnd": "06.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "06.05.2024 17:54",
       "expand": true,
       "topDisruption": false
     },
