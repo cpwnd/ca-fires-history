@@ -2,6 +2,40 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "d966cadc-b946-42ed-a7d0-a97c4ffcb8dd",
+      "disruptionId": "b9c77f52-595a-4c69-9174-a6e5678a3e59",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Neumünster und Schleswig",
+      "summary": "Aufgrund eines Feuerwehreinsatzes in Gleisnähe ist die Strecke zwischen Neumünster und Schleswig derzeit gesperrt. Ersatzverkehr ist zwischen Neumünster und Padborg st eingerichtet. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>EC Linie Hamburg - Padborg - Koebenhavn</li><li>IC Linie Flensburg - Hamburg - Berlin</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.05.2024",
+      "durationEnd": "06.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.05.2024 13:32",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -443,12 +477,12 @@
       "id": "aaabdcb9-8ef7-4611-9ebd-64ea67ce4888",
       "author": "REGIO_NORD",
       "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
+        "category": "technical_problem_railway_section",
+        "label": "Beschädigung einer Brücke"
       },
-      "headline": "Feuerwehreinsatz auf der Strecke zwischen Neumünster und Rendsburg",
-      "summary": "Aufgrund eines Feuerwehreinsatzes auf der Strecke zwischen Neum&uuml;nster und Rendsburg ist der Zugverkehr beeintr&auml;chtigt.",
-      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li>RE 7&nbsp;(Flensburg&nbsp;&ndash; Hamburg Hbf): Die Z&uuml;ge verkehren zwischen Flensburg und Rendsburg sowie zwischen Neum&uuml;nster und Hamburg Hbf zu den planm&auml;&szlig;igen Abfahrtszeiten. Ein Buspendelverkehr ist zwischen Rendsburg und Neum&uuml;nster eingerichtet.</li>\n</ul>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von vsl. bis zu 45 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "headline": "Streckensperrung zwischen Neumünster und Rendsburg",
+      "summary": "Aufgrund einer Streckensperrung zwischen Neum&uuml;nster und Rendsburg ist der Zugverkehr beeintr&auml;chtigt.",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li>RE 7&nbsp;(Flensburg&nbsp;&ndash; Hamburg Hbf): Die Z&uuml;ge verkehren zwischen Flensburg und Rendsburg sowie zwischen Neum&uuml;nster und Hamburg Hbf zu den planm&auml;&szlig;igen Abfahrtszeiten. Ein Buspendelverkehr ist zwischen Rendsburg und Neum&uuml;nster eingerichtet. Es verkehren 4 Busse der Firma Bisschoff und der Firma Wriedt-Reisen.</li>\n</ul>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von vsl. bis zu 45 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
       "durationBegin": "06.05.2024",
       "durationEnd": "06.05.2024",
       "images": [],
@@ -504,7 +538,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "06.05.2024 13:06",
+      "lastModified": "06.05.2024 13:35",
       "expand": false,
       "topDisruption": false
     },
