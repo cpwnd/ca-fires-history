@@ -766,6 +766,39 @@
       "topDisruption": false
     },
     {
+      "id": "2a78ab10-59b5-4673-8aa8-c5d46484b0e3",
+      "disruptionId": "80d45942-2a1d-4729-b17f-37ebd737e683",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "RB 40: Verzögerungen zwischen Mühldorf und Markt Schwaben",
+      "summary": "Zwischen Mühldorf und Markt Schwaben kommt es zu Verzögerungen. Grund hierfür: eingeschränten Gleisverfügbarkeit",
+      "text": "<p>RB 40: Auf der Strecke zwischen Mühldorf und Markt Schwaben kommt es derzeit zu Verzögerungen von ca. 20 Minuten wegen der eingeschränten Gleisverfügbarkeit.</p>",
+      "durationBegin": "06.05.2024",
+      "durationEnd": "06.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.05.2024 17:37",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "8e16dac5-2d63-4806-8ae1-37383312f789",
       "disruptionId": "88bb67ee-4e99-4a6a-94a0-773dfa4def16",
       "author": "SUEDOSTBAYERNBAHN",
