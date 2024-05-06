@@ -766,6 +766,39 @@
       "topDisruption": false
     },
     {
+      "id": "c7f7674a-5ea6-4260-ae9e-2077cb0bbb4a",
+      "disruptionId": "c547c1d8-6166-4d06-a324-6a3538202595",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
+      },
+      "headline": "RB 48: Ausfall RB 27366 zwischen Grafing Bahnhof und München Ost",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 48: Die RB 27366 entfällt heute ersatzlos zwischen Grafing Bahnhof (ab 16:52 Uhr) und München Ost (an 17:14 Uhr) wegen einer eingeschränten Gleisverfügbarkeit. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "06.05.2024",
+      "durationEnd": "06.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.05.2024 16:22",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "3e71dea4-92cc-43f5-b476-690d7967e801",
       "disruptionId": "d5721d69-87e8-4ce8-9ff3-3a143a06e6dd",
       "author": "SUEDOSTBAYERNBAHN",
@@ -895,39 +928,6 @@
         }
       ],
       "lastModified": "06.05.2024 15:18",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "1494a1be-501b-4c69-8587-d534069cd390",
-      "disruptionId": "5a7f1a0d-e04a-4fbf-9411-99e958b63dd4",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "RB 44: Ausfall RB 27128 zwischen Wasserburg (Inn) Bahnhof und Mühldorf",
-      "summary": "Ein Ersatzverkehr ist eingerichtet",
-      "text": "<p>RB 44: Die RB 27128 entfällt heute zwischen Wasserburg (Inn) Bahnhof (ab 15:00 Uhr) und Mühldorf (an 15:30 Uhr) wegen einer Streckensperrung. Ein Ersatzverkehr ist eingerichtet.</p>",
-      "durationBegin": "06.05.2024",
-      "durationEnd": "06.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "06.05.2024 15:01",
       "expand": true,
       "topDisruption": false
     },
