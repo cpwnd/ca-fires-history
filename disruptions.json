@@ -2,40 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "4657f8dc-94a8-4598-83e5-352b2428d9e5",
-      "disruptionId": "80755123-565a-4442-91e5-e367473b16fb",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Siegburg/Bonn und Montabauer",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Siegburg/Bonn und Montabauer kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Fernverkehrszüge verspäten sich dadurch um etwa 5 - 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge Köln - Frankfurt(M)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "07.05.2024",
-      "durationEnd": "08.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "07.05.2024 18:42",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "76452317-d2a2-4bc4-b1f2-de889d0e0cfd",
       "author": "REGIO_MITTE",
       "cause": {
