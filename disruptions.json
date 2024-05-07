@@ -736,6 +736,69 @@
       "topDisruption": false
     },
     {
+      "id": "f26757c8-fa5e-4f6a-aea0-e63d4a1b5a6e",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in Osnabrück",
+      "summary": "Aufgrund der Entsch&auml;rfung einer Weltkriegsbombe am Dienstag, den 07.05.2024 kommt es ab 12:00 Uhr in Osnabr&uuml;ck zu Beeintr&auml;chtigungen im Regionalverkehr der Deutschen Bahn.",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>RE 62 (L&ouml;hne(Westf) - Osnabr&uuml;ck Hbf - Rheine):&nbsp;</strong>Die Z&uuml;ge fallen aus. Reisende zwischen L&ouml;hne(Westf) und Rheine nutzen&nbsp;die Z&uuml;ge der Westfalenbahn und der Eurobahn.</li>\n</ul>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+      "durationBegin": "07.05.2024",
+      "durationEnd": "07.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "http://bahn.de",
+          "label": "Reiseauskunft ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
+          "label": "Fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS  ",
+          "label": "Twitter DB Regio Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "07.05.2024 10:20",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "92a122fd-cb72-421e-bd63-1f4545fb2dd9",
       "disruptionId": "747beb84-ba16-472b-865c-1110ca422ded",
       "author": "SUEDOSTBAYERNBAHN",
