@@ -794,48 +794,15 @@
       "topDisruption": false
     },
     {
-      "id": "222913a8-bffd-4d6f-a1cd-8818354515ca",
-      "disruptionId": "847773d1-9c87-4261-b0a6-6d811416c51b",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Verzögerung im Betriebsablauf"
-      },
-      "headline": "RB 45: Ausfall RB 27231 zwischen Mühldorf und Neumarkt St Veit",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 45: Die RB 27231 entfällt heute ersatzlos zwischen Mühldorf (ab 14:34 Uhr) und Neumarkt St Veit (an 14:48 Uhr) wegen eine Betriebsstabilisierung. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "07.05.2024",
-      "durationEnd": "07.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "07.05.2024 13:58",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "f26757c8-fa5e-4f6a-aea0-e63d4a1b5a6e",
+      "id": "e28001d5-5856-4e74-8c39-a6b31dff4c34",
       "author": "REGIO_NORD",
       "cause": {
         "category": "police_activity",
         "label": "Entschärfung einer Fliegerbombe"
       },
-      "headline": "Entschärfung einer Weltkriegsbombe in Osnabrück",
-      "summary": "Aufgrund der Entsch&auml;rfung einer Weltkriegsbombe am Dienstag, den 07.05.2024, kommt es ab 12:00 Uhr in Osnabr&uuml;ck zu Beeintr&auml;chtigungen im Regionalverkehr der Deutschen Bahn.",
-      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>RE 62 (L&ouml;hne(Westf) - Osnabr&uuml;ck Hbf - Rheine):&nbsp;</strong>Die Z&uuml;ge verkehren&nbsp;zwischen L&ouml;hne(Westf) und Osnabr&uuml;ck Hbf. Zwischen Osnabr&uuml;ck Hbf und Rheine ist ein Ersatzverkehr mit Bus eingerichtet. Jeweils st&uuml;ndlich f&auml;hrt ein Bus zu den Abfahrtszeiten der Linie RE 62 und zu den Zeiten der Westfalenbahn.</li>\n</ul>\n\n<p>Rechnen Sie mit einer Reisezeitverl&auml;ngerung von vsl. bis zu 45 Minuten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
+      "headline": "Entschärfung einer Weltkriegsbombe in Osnabrück ist beendet",
+      "summary": "Die Streckensperrung aufgrund der Entsch&auml;rfung einer Weltkriegsbombe am Dienstag, den 07.05.2024 im Bereich Osnabr&uuml;ck ist aufgehoben. Der Ersatzverkehr wird eingestellt.",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>RE 62 (L&ouml;hne(Westf) - Osnabr&uuml;ck Hbf - Rheine): Der erste durchfahrender Zug ab L&ouml;hne RE 11510 Abfahrt um 15:18 Uhr. Der erste durchfahrender Zug ab Rheine RE 11511 Abfahrt um 15:39 Uhr.</strong></li>\n</ul>\n\n<p>Bitte rechnen Sie noch mit Versp&auml;tungen und Zugausf&auml;llen bis sich der Zugverkehr wieder stabilisiert hat.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n\n<p>&nbsp;</p>\n",
       "durationBegin": "07.05.2024",
       "durationEnd": "07.05.2024",
       "images": [],
@@ -870,12 +837,6 @@
           "label": "Twitter DB Regio Niedersachsen und Bremen ",
           "info": "",
           "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de ",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
         }
       ],
       "properties": [
@@ -891,41 +852,8 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "07.05.2024 12:54",
+      "lastModified": "07.05.2024 15:09",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "92a122fd-cb72-421e-bd63-1f4545fb2dd9",
-      "disruptionId": "747beb84-ba16-472b-865c-1110ca422ded",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "RB 46: Ausfall RB 27210 zwischen Pocking und Pfarrkirchen",
-      "summary": "Ein Ersatzverkehr ist eingerichtet",
-      "text": "<p>RB 46: Die  RB 27210 entfällt 07.05.24 zwischen Pocking (ab 08:00 Uhr) und Pfarrkirchen (an 08:28  Uhr) wegen einer Streckensperrung. Ein Ersatzverkehr ist eingerichtet.</p>",
-      "durationBegin": "06.05.2024",
-      "durationEnd": "07.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "06.05.2024 23:57",
-      "expand": true,
       "topDisruption": false
     },
     {
