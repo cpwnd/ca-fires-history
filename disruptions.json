@@ -137,6 +137,47 @@
       "topDisruption": false
     },
     {
+      "id": "0f539a30-8411-4b6f-abc8-cb2ab5f833d2",
+      "disruptionId": "d8c09a2b-c081-44b6-86b4-92cd6f36af1a",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugausfälle bei der Westfrankenbahn",
+      "summary": "Aufgrund von Personalengpässen im Stellwerk Aschaffenburg kommt es ab 13. bis 17. Mai, außer 15. Mai,  auf dem Streckenabschnitt zwischen Kleinwallstadt und Aschaffenburg zu Zugausfällen.\n\nFür die ausfallenden Züge haben wir einen Ersatzverkehr mit Bus für Sie eingerichtet. Den Fahrplan finden Sie weiter unten als Anhang.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RB88 / RE87 Miltenberg - Kleinwallstadt - Aschaffenburg</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "13.05.2024",
+      "durationEnd": "17.05.2024",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-08/070f2d30-e6a5-492d-90fa-cc2c9f502a95Maintalbahn_RE-Ausf%25C3%25A4lle%2B13.-17.5.%2Bau%25C3%259Fer%2B15.5..pdf",
+          "label": "Maintalbahn_RE-Ausfälle 13.-17.5. außer 15.5..pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.05.2024 18:26",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "8ee08799-5b92-4770-ac55-643095b8040f",
       "disruptionId": "fcc71f6b-8121-4246-86ab-6459dfc0d7f8",
       "author": "REGIO_BW",
@@ -755,46 +796,6 @@
       "topDisruption": false
     },
     {
-      "id": "0f539a30-8411-4b6f-abc8-cb2ab5f833d2",
-      "disruptionId": "d8c09a2b-c081-44b6-86b4-92cd6f36af1a",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugausfälle bei der Westfrankenbahn",
-      "summary": "Aufgrund von Personalengpässen im Stellwerk Aschaffenburg kommt es ab 13. bis 17. Mai, außer 15. Mai,  auf dem Streckenabschnitt zwischen Kleinwallstadt und Aschaffenburg zu Zugausfällen.\n\nFür die ausfallenden Züge haben wir einen Ersatzverkehr mit Bus für Sie eingerichtet. Den Fahrplan finden Sie weiter unten als Anhang.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RB88 / RE87 Miltenberg - Kleinwallstadt - Aschaffenburg</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "13.05.2024",
-      "durationEnd": "17.05.2024",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-08/65fbb5d0-5756-48a4-adc7-d50984b2c99eMaintalbahn_RE-Ausf%25C3%25A4lle%2B13.-17.5.%2Bau%25C3%259Fer%2B15.5..pdf",
-          "label": "Maintalbahn_RE-Ausfälle 13.-17.5. außer 15.5..pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "08.05.2024 17:21",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "d4f1b55d-6f0c-47d2-a9c7-d7c578a71afd",
       "author": "REGIO_MITTE",
       "cause": {
@@ -1073,47 +1074,6 @@
       ],
       "lastModified": "27.03.2024 14:15",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "031f65a1-e242-4756-847f-9dacdcf3baf1",
-      "disruptionId": "c7967b08-4b38-4f14-826b-47521171158c",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Hauptbahnhof (tief): Verspätungen und einzelne Fahrtausfälle nach Personen im Gleis.",
-      "summary": "Die S-Bahnen der Linien S1, S2, S3, S4, S5, S6 und S60 werden nach gemeldeten Personen im Gleis von Schwabstraße nach Hauptbahnhof (tief) ausgebremst. Die Strecke wurde soeben wieder freigegeben. Es kommt aktuell auf allen Linien zu einzelnen Fahrtabweichungen. Bitte achten Sie auf Lautsprecheransagen und Anzeigen an den Bahnstiegen und aktualisieren Ihre Reiseverbindung.",
-      "text": "<p> </p>",
-      "durationBegin": "08.05.2024",
-      "durationEnd": "08.05.2024",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-05-08/bbb83c8e-fc41-4515-bffd-6ff7553a37ddreisendenkarte_20240508-163222.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-05-08/bbb83c8e-fc41-4515-bffd-6ff7553a37ddreisendenkarte_20240508-163222.png",
-          "info": "",
-          "alt": "Reisendenkarte 08.05.2024 16:32:22",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "08.05.2024 16:34",
-      "expand": true,
       "topDisruption": false
     },
     {
