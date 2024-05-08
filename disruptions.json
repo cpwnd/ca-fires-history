@@ -836,13 +836,20 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "SBAHN",
+        "REGIONAL"
       ],
       "states": [
         "HE"
       ],
-      "lines": [],
-      "lastModified": "07.05.2024 17:50",
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.05.2024 09:32",
       "expand": false,
       "topDisruption": false
     },
