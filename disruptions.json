@@ -376,7 +376,7 @@
       },
       "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Würzburg bzw. Fulda",
       "summary": "Aufgrund einer Unterbesetzung des Stellwerks Hanau kommt es bis einschließlich 12.05.2024 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Zugausfällen und Umleitungen mit Verspätungen.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Einzelne ICE-Züge der Verbindung Frankfurt(M) - Erfurt - Leipzig - Dresden fallen aus</li><li>ICE- und IC-Züge Hamburg - Münster - Köln - Koblenz - Frankfurt(M) - Würzburg - Passau fallen zwischen Frankfurt(M) und Passau aus</li><li>Einzelne ICE-Züge Dortmund – Köln – Frankfurt (M) – Würzburg – Nürnberg – Passau – Wien werden zwischen Mainz und Würzburg umgeleitet. Die Halte in Frankfurt(M) Flughafen, Frankfurt(M) Hbf und Hanau entfallen. Ersatzweise halten die Züge in Aschaffenburg. Die Züge verspäten sich um etwa 20 Minuten.</li></ul><p>Die Ausfälle und Umleitungen sind bereits in den Auskunftsmedien veröffentlicht.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Einzelne ICE-Züge der Verbindung Frankfurt(M) - Erfurt - Leipzig - Dresden fallen aus</li><li>ICE- und IC-Züge Hamburg - Münster - Köln - Koblenz - Frankfurt(M) - Würzburg - Passau fallen zwischen Frankfurt(M) und Passau aus</li><li>Einzelne ICE-Züge Dortmund - Köln - Frankfurt (M) - Würzburg - Nürnberg - Passau - Wien werden zwischen Mainz und Würzburg umgeleitet. Die Halte in Frankfurt(M) Flughafen, Frankfurt(M) Hbf und Hanau entfallen. Ersatzweise halten die Züge in Aschaffenburg. Die Züge verspäten sich um etwa 20 Minuten.</li></ul><p>Die Ausfälle und Umleitungen sind bereits in den Auskunftsmedien veröffentlicht.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "03.05.2024",
       "durationEnd": "12.05.2024",
       "images": [],
@@ -396,7 +396,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "08.05.2024 00:03",
+      "lastModified": "08.05.2024 05:54",
       "expand": true,
       "topDisruption": false
     },
@@ -475,6 +475,72 @@
       ],
       "lastModified": "18.04.2024 13:07",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "c37e4a6d-7a1d-4d42-bc98-cddabfce4a67",
+      "disruptionId": "0ef794e8-1833-44f2-9fdc-3978280d7928",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "RB 44:  Verminderte Sitzplatzkapazität bei RB 27307",
+      "summary": "RB 44:  Verminderte Sitzplatzkapazität",
+      "text": "<p>Die RB 27307 von Mühldorf (ab 7:29 Uhr) nach Rosenheim (an 8:25 Uhr) verkehrt //'Tag mit einer verringerten Anzahl an Sitzplätzen.</p><p>Bitte verstauen Sie ihr Gepäck (bereits beim Einstieg) über oder unter dem Sitz und geben Sie somit Sitzplätze für Mitreisende frei.&nbsp;</p><p>Eine Fahrradmitnahme können wir nicht garantieren.</p>",
+      "durationBegin": "08.05.2024",
+      "durationEnd": "08.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.05.2024 06:15",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "2f6a8d36-66f9-44d9-893d-8162e95034cd",
+      "disruptionId": "6f4c1874-e3e5-4a2b-b063-c81f26e1efad",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "RB 40 :  Verminderte Sitzplatzkapazität bei RB 27011",
+      "summary": "RB 40 :  Verminderte Sitzplatzkapazität",
+      "text": "<p>Die RB 27011 von München Hbf (ab 6:05 Uhr) nach Mühldorf (an 7:21 Uhr) verkehrt //'Tag mit einer verringerten Anzahl an Sitzplätzen.</p><p>Bitte verstauen Sie ihr Gepäck (bereits beim Einstieg) über oder unter dem Sitz und geben Sie somit Sitzplätze für Mitreisende frei.&nbsp;</p><p>Eine Fahrradmitnahme können wir nicht garantieren.</p>",
+      "durationBegin": "08.05.2024",
+      "durationEnd": "08.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.05.2024 06:05",
+      "expand": true,
       "topDisruption": false
     },
     {
@@ -782,6 +848,39 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "e270d12b-f344-4a28-9a6d-d8f2dd939326",
+      "disruptionId": "7acc86ba-4e77-4350-b866-8a9e12aa5cb2",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 40: Ausfall RB 27016 zwischen Mühldorf und München Ost",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 40: Die RB 27016 entfällt heute ersatzlos zwischen Mühldorf (ab 5:57  Uhr) und München Ost (an 7:03 Uhr) wegen eines Fahrzeugausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "08.05.2024",
+      "durationEnd": "08.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.05.2024 05:54",
+      "expand": true,
       "topDisruption": false
     },
     {
