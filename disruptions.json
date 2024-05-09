@@ -863,6 +863,72 @@
       "topDisruption": false
     },
     {
+      "id": "1e259acb-cd09-409f-8eb3-118b6d6e548a",
+      "disruptionId": "186b4061-22cb-4ca2-b3c3-52d926d89154",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "RB 46 : Ausfall RB 27211 zwischen Neumarkt St. Veit und Passau Hbf ",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 46 : Die RB 27211 entfällt morgen den 10.05.2024 ersatzlos zwischen Neumarkt St. Veit (ab 6:49 Uhr) und Passau Hbf  (an 8:52 Uhr) wegen eines Personalausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "10.05.2024",
+      "durationEnd": "10.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.05.2024 22:42",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "af504022-650b-4d6c-bb15-7d4a65bc441e",
+      "disruptionId": "41200593-9375-42f0-9e4e-1f3bd298fb48",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "RB 45: Ausfall RB 27103 zwischen Landshut Hbf und Neumarkt St. Veit",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 45: Die RB 27103 entfällt morgen den 10.05.2024 ersatzlos zwischen Landshut Hbf (ab 05:17 Uhr) und Neumarkt St. Veit (an 06:10 Uhr) wegen eines Persoanlausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "10.05.2024",
+      "durationEnd": "10.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.05.2024 22:35",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "3933e630-61a4-4beb-aa8b-1140aad386e5",
       "disruptionId": "12bb608e-01b9-4d37-941a-ad116dbec753",
       "author": "SUEDOSTBAYERNBAHN",
@@ -925,39 +991,6 @@
         }
       ],
       "lastModified": "09.05.2024 21:40",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "c5adc216-4d22-490a-b470-996ba47cfccd",
-      "disruptionId": "7f042571-1db6-4d6d-869d-e970adf47171",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
-      },
-      "headline": "RB 49 : Ausfall RB 27480 zwischen Traunstein und Traunreut",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 49 : Die RB 27480 entfällt heute ersatzlos zwischen Traunstein (ab 21:20 Uhr) und Traunreut (an 21:42 Uhr) wegen einer Behördlicher Maßnahmen. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "09.05.2024",
-      "durationEnd": "09.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "09.05.2024 21:31",
       "expand": true,
       "topDisruption": false
     },
