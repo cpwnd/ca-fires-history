@@ -863,6 +863,39 @@
       "topDisruption": false
     },
     {
+      "id": "fd7a961a-c47c-4e5c-a172-7b2ae55596b0",
+      "disruptionId": "9f58ef1c-ca73-4e41-b713-580dd67ac2cb",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "RB 46: Ausfall RB 27218 zwischen Passau Hbf  und Mühldorf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 46: Die RB 27218 entfällt morgen den 10.05.2024 ersatzlos zwischen Passau Hbf  (ab 10:02 Uhr) und Mühldorf (an 12:20 Uhr) wegen eines Personalausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "10.05.2024",
+      "durationEnd": "10.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.05.2024 22:48",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "1e259acb-cd09-409f-8eb3-118b6d6e548a",
       "disruptionId": "186b4061-22cb-4ca2-b3c3-52d926d89154",
       "author": "SUEDOSTBAYERNBAHN",
@@ -958,39 +991,6 @@
         }
       ],
       "lastModified": "09.05.2024 22:23",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "cb7d9f5b-06ae-4f64-91a5-4121707ac511",
-      "disruptionId": "eb6b67c2-a18f-4376-a400-a1cde10df487",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
-      },
-      "headline": "RB 49 : Ausfall RB  27503 zwischen Traunreut und Traunstein",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 49 : Die RB  27503 entfällt heute ersatzlos zwischen Traunreut (ab 21:48 Uhr) und Traunstein (an 22:11 Uhr) wegen einer behördlicher Maßnahme. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "09.05.2024",
-      "durationEnd": "09.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "09.05.2024 21:40",
       "expand": true,
       "topDisruption": false
     },
