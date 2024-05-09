@@ -2,53 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "f56f2062-cf04-430b-a762-3c46e9cf8ffe",
-      "disruptionId": "a174ac65-e32a-4d17-8e30-e1045a046949",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Streckensperrung zwischen Bielefeld und Hamm (Westfalen)",
-      "summary": "Aufgrund eines Notarzteinsatzes ist die Strecke zwischen Bielefeld und Hamm (Westfalen) derzeit gesperrt. Die Züge werden umgeleitet. Die Halte in Gütersloh, Bielefeld und Herford entfallen, Ersatzhalt in Osnabrück. Die Züge verspäten sich um etwa 60 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge auf der Strecke Hamm (W) – Bielefeld – Minden – Hannover</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><p>Gütersloh, Bielefeld und Herford erreichen Sie mit Nahverkehrsverbindungen von Hannover bzw. Minden.</p><p>Bitte rechnen Sie mit einem erhöhten Reisendenaufkommen, insbesondere nach Einsatzende.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "09.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "09.05.2024 17:07",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "0697a097-6450-4c11-b18d-7e7463143e75",
       "disruptionId": "11d1e56c-8626-45f2-a59d-2c04f7b64402",
       "author": "FERNVERKEHR_AG",
