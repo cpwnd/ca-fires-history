@@ -1060,39 +1060,6 @@
       "topDisruption": false
     },
     {
-      "id": "fd7a961a-c47c-4e5c-a172-7b2ae55596b0",
-      "disruptionId": "9f58ef1c-ca73-4e41-b713-580dd67ac2cb",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "RB 46: Ausfall RB 27218 zwischen Passau Hbf  und Mühldorf",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 46: Die RB 27218 entfällt morgen den 10.05.2024 ersatzlos zwischen Passau Hbf  (ab 10:02 Uhr) und Mühldorf (an 12:20 Uhr) wegen eines Personalausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "10.05.2024",
-      "durationEnd": "10.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "09.05.2024 22:48",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "d4f1b55d-6f0c-47d2-a9c7-d7c578a71afd",
       "author": "REGIO_MITTE",
       "cause": {
@@ -1489,95 +1456,22 @@
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.05.2024 12:43",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "83c5a8ab-d226-4dac-b7e6-2de2b7213337",
-      "disruptionId": "3394799b-a42c-462a-b845-e1f6bef3f1e3",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "unknown_cause",
-        "label": "Unbekannte Ursache"
-      },
-      "headline": "S5: Testmeldung für unsere neuen Fahrgastinformationsmedien",
-      "summary": " ",
-      "text": "<p>S5: Dies ist eine Testmeldung für unsere neuen Fahrgastinformationsmedien</p>",
-      "durationBegin": "10.05.2024",
-      "durationEnd": "10.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.05.2024 12:32",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "6b9d4e8d-4a00-44df-a282-d6a1fa6183aa",
-      "disruptionId": "4b751230-63b9-4a13-a090-3f70e19e5b87",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "unknown_cause",
-        "label": "Unbekannte Ursache"
-      },
-      "headline": "S3: Testmeldung für unsere neuen Fahrgastinformationsmedien",
-      "summary": " ",
-      "text": "<p>S3: Dies ist eine Testmeldung für unsere neuen Fahrgastinformationsmedien </p>",
-      "durationBegin": "10.05.2024",
-      "durationEnd": "10.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
           "name": "S 1",
           "filterName": "S 1 Hamburg",
           "property": "SBAHN"
         },
         {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
           "name": "S 3",
           "filterName": "S 3 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.05.2024 12:14",
+      "lastModified": "10.05.2024 13:05",
       "expand": true,
       "topDisruption": false
     },
