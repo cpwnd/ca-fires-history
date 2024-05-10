@@ -1293,6 +1293,45 @@
       "topDisruption": false
     },
     {
+      "id": "91110196-565b-4b11-9854-bf7992d8a0a8",
+      "author": "REGIO_HE",
+      "cause": {
+        "category": "technical_problem_it",
+        "label": "IT-Störung"
+      },
+      "headline": "Fehlerhafte Darstellung der Reiseverbindungen in den Reiseauskünfte bei den Linien RE5, RE50 und RB51.",
+      "summary": "<br />\n<strong>Betroffene Linien:&nbsp; &nbsp;</strong><br />\n<br />\n<strong>- RE5:&nbsp;&nbsp;</strong>Frankfurt(Main) Hbf - Hanau Hbf - W&auml;chtersbach - Fulda- Bad Hersfeld -&nbsp; (- Bebra)<br />\n- <strong>RE 50: </strong>Frankfurt(Main) Hbf - Hanau Hbf - W&auml;chtersbach - Fulda<br />\n-<strong> RB 51:&nbsp;</strong>Frankfurt(Main) Hbf - Hanau Hbf - W&auml;chtersbach (- Bad Soden-Salm&uuml;nster)",
+      "text": "<p>&nbsp;</p>\n\n<p>Aufgrund eines Systemfehlers werden die Verbindungen der Linien RE50, RB51 und RE5 in den Reiseausk&uuml;nften nicht korrekt dargestellt.Bitte beachten Sie das anh&auml;ngende Plakat und informieren Sie sich auch auf https://bauinfos.deutschebahn.com/hessen.</p>\n\n<p>Bitte informieren Sich sich kurz voe der Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter bahn.de oder www.rmv.de sowie in der Navigator-App. Achten Sie auch auf die Ansagen und Anzeigen an dne Stionen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p>\n\n<p>026 24 44 57 10</p>\n",
+      "durationBegin": "10.05.2024",
+      "durationEnd": "17.05.2024",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:1461e0dc-1bc1-45c6-871a-7638b1a4a258/Plakat_V01_ZvF_50765_Teil%201_10.05.-17.05.2024.pdf",
+          "label": "Plakat zur Baumaßnahme für die Linien RE5, RB50 und RE51 bis 17.05.2024 (PDF, 529 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.05.2024 16:36",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
       "author": "REGIO_NW",
       "cause": {
