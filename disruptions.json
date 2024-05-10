@@ -1465,6 +1465,45 @@
       "topDisruption": false
     },
     {
+      "id": "6b9d4e8d-4a00-44df-a282-d6a1fa6183aa",
+      "disruptionId": "4b751230-63b9-4a13-a090-3f70e19e5b87",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "unknown_cause",
+        "label": "Unbekannte Ursache"
+      },
+      "headline": "S3: Testmeldung für unsere neuen Fahrgastinformationsmedien",
+      "summary": " ",
+      "text": "<p>S3: Dies ist eine Testmeldung für unsere neuen Fahrgastinformationsmedien </p>",
+      "durationBegin": "10.05.2024",
+      "durationEnd": "10.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.05.2024 12:14",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
       "author": "REGIO_NW",
       "cause": {
