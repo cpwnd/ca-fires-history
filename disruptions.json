@@ -2,40 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "0697a097-6450-4c11-b18d-7e7463143e75",
-      "disruptionId": "11d1e56c-8626-45f2-a59d-2c04f7b64402",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigung zwischen Berlin und Hannover bzw. Braunschweig",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Berlin und Hannover bzw. Braunschweig kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet. Die Halte Wolfsburg und Stendal entfallen, Ersatzhalt in Magdeburg. Die Züge verspäten sich um etwa 60 Minuten.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge zwischen Hannover bzw. Braunschweig – Wolfsburg – Stendal – Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "09.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "09.05.2024 17:58",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "76452317-d2a2-4bc4-b1f2-de889d0e0cfd",
       "author": "REGIO_MITTE",
       "cause": {
@@ -925,39 +891,6 @@
         }
       ],
       "lastModified": "09.05.2024 22:35",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "3933e630-61a4-4beb-aa8b-1140aad386e5",
-      "disruptionId": "12bb608e-01b9-4d37-941a-ad116dbec753",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "RB 45: Ausfall RB 27100 zwischen Mühldorf und Landshut Hbf",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 45: Die RB 27100 entfällt morgen den 10.05.2024 ersatzlos zwischen Mühldorf (ab 04:02 Uhr) und Landshut Hbf (an 04:50 Uhr) wegen eines Personalausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "10.05.2024",
-      "durationEnd": "10.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "09.05.2024 22:23",
       "expand": true,
       "topDisruption": false
     },
