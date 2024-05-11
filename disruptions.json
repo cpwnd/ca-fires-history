@@ -653,6 +653,39 @@
       "topDisruption": false
     },
     {
+      "id": "98bb24c9-b6b8-4326-938d-3554be4c8675",
+      "disruptionId": "1c38ce15-cc3c-41cc-8b02-78f07657c0e7",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "RB 49: Ausfall RB 27489 zwischen Traunreut und Hörpolding",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 49: Die RB 27489 entfällt heute ersatzlos zwischen Traunreut (ab 18:36 Uhr) und Hörpolding (an 18:40 Uhr) wegen einer Reparatur an einem Signal. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "11.05.2024",
+      "durationEnd": "11.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.05.2024 18:35",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "0729565c-941d-4063-8a61-1a1b77315deb",
       "disruptionId": "f0a0cc1c-520f-4531-97d9-c0f1811e6323",
       "author": "SUEDOSTBAYERNBAHN",
@@ -715,39 +748,6 @@
         }
       ],
       "lastModified": "11.05.2024 17:47",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "e0d672b4-2e32-4ca5-b1d9-162ffd62155a",
-      "disruptionId": "c0797add-70bc-4770-a758-d237da242133",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 44: Ausfall RB 27132 zwischen Wasserburg(Inn) Bahnhof und Mühldorf",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 44: Die RB 27132 entfällt heute ersatzlos zwischen Wasserburg(Inn) Bahnhof (ab 17:00 Uhr) und Mühldorf (an 17:30 Uhr) wegen einer  Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "11.05.2024",
-      "durationEnd": "11.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "11.05.2024 17:38",
       "expand": true,
       "topDisruption": false
     },
