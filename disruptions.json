@@ -653,6 +653,72 @@
       "topDisruption": false
     },
     {
+      "id": "aad8c279-8ed6-4e58-b116-b167fe89dce2",
+      "disruptionId": "7a31ea5f-5573-476e-9f4c-14a98d8603ba",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 49: Ausfall RB 27465 zwischen Traunreut und Traunstein",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 49: Die RB 27465 entfällt 12.05.24 ersatzlos zwischen Traunreut (ab 12:55 Uhr) und Traunstein (an 13:18 Uhr) wegen einer technischen Störung. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "11.05.2024",
+      "durationEnd": "12.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.05.2024 19:15",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "c0a60bfe-da58-4707-ae51-b53cbeac97cc",
+      "disruptionId": "6b011a63-1b29-4c44-80a0-6a7d6fb37cee",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 49: Ausfall RB 27462 zwischen Hörpolding und Traunreut",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 49: Die RB 27462 entfällt 12.05.24 ersatzlos zwischen Hörpolding (ab 12:45 Uhr) und Traunreut (an 12:49 Uhr) wegen einem Fahrzeugmangel. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "11.05.2024",
+      "durationEnd": "12.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.05.2024 19:05",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "98bb24c9-b6b8-4326-938d-3554be4c8675",
       "disruptionId": "1c38ce15-cc3c-41cc-8b02-78f07657c0e7",
       "author": "SUEDOSTBAYERNBAHN",
@@ -715,39 +781,6 @@
         }
       ],
       "lastModified": "11.05.2024 18:25",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "c3b32600-9f78-4cd0-98f7-d92966342c9b",
-      "disruptionId": "c0517cca-970b-4d84-b015-0d43492c36a4",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 44: Ausfall RB 27319 zwischen Mühldorf (Oberbay.) und Rosenheim",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 44: Die RB 27319 entfällt heute ersatzlos zwischen Mühldorf (Oberbay.) (ab 17:32 Uhr) und Rosenheim (an 18:25 Uhr) wegen einer Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "11.05.2024",
-      "durationEnd": "11.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "11.05.2024 17:47",
       "expand": true,
       "topDisruption": false
     },
