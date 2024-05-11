@@ -653,6 +653,39 @@
       "topDisruption": false
     },
     {
+      "id": "c3b32600-9f78-4cd0-98f7-d92966342c9b",
+      "disruptionId": "c0517cca-970b-4d84-b015-0d43492c36a4",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 44: Ausfall RB 27319 zwischen Mühldorf (Oberbay.) und Rosenheim",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 44: Die RB 27319 entfällt heute ersatzlos zwischen Mühldorf (Oberbay.) (ab 17:32 Uhr) und Rosenheim (an 18:25 Uhr) wegen einer Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "11.05.2024",
+      "durationEnd": "11.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.05.2024 17:47",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "e0d672b4-2e32-4ca5-b1d9-162ffd62155a",
       "disruptionId": "c0797add-70bc-4770-a758-d237da242133",
       "author": "SUEDOSTBAYERNBAHN",
