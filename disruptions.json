@@ -653,6 +653,39 @@
       "topDisruption": false
     },
     {
+      "id": "e0d672b4-2e32-4ca5-b1d9-162ffd62155a",
+      "disruptionId": "c0797add-70bc-4770-a758-d237da242133",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 44: Ausfall RB 27132 zwischen Wasserburg(Inn) Bahnhof und Mühldorf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 44: Die RB 27132 entfällt heute ersatzlos zwischen Wasserburg(Inn) Bahnhof (ab 17:00 Uhr) und Mühldorf (an 17:30 Uhr) wegen einer  Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "11.05.2024",
+      "durationEnd": "11.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.05.2024 17:38",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "a7f6b3c2-9b90-4103-bac2-12b31536b847",
       "disruptionId": "b74f8d84-133a-4e36-95b5-0cadba73e648",
       "author": "SUEDOSTBAYERNBAHN",
