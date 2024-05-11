@@ -653,6 +653,105 @@
       "topDisruption": false
     },
     {
+      "id": "fdbd26a3-b042-48ec-8846-9df939f67290",
+      "disruptionId": "eff79a49-2494-459b-a437-8d4d438ef3fe",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "RB 49: Ausfall RB 27462 zwischen Hörpolding und Traunreut",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 49: Die RB 27462 entfällt 12.05.24 ersatzlos zwischen Hörpolding (ab 12:45 Uhr) und Traunreut (an 12:49 Uhr) wegen einem Fahrzeugmangel. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "11.05.2024",
+      "durationEnd": "12.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.05.2024 20:12",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "60536817-13b0-4119-8b62-4a1664512375",
+      "disruptionId": "864dca24-0700-4287-95f3-0e6210ce7ef8",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 49: Ausfall RB 27465 zwischen Traunreut und Traunstein",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 49: Die RB 27465 entfällt morgen ersatzlos zwischen Traunreut (ab 12:55 Uhr) und Traunstein (an 13:18 Uhr) wegen einer technischen Störung. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "11.05.2024",
+      "durationEnd": "12.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.05.2024 20:06",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "f1cc5a33-df0c-4a0d-a1c4-3ed079d7fa14",
+      "disruptionId": "a7eeb0b6-6826-4fce-b576-e19d7f05b01d",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "49: Ausfall RB 27462 zwischen Hörpolding und Traunreut",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>49: Die  RB 27462 entfällt morgen ersatzlos zwischen Hörpolding (ab 12:45 Uhr) und Traunreut (an 12:49 Uhr) wegen einem Fahrzeugmangel. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "11.05.2024",
+      "durationEnd": "12.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "11.05.2024 19:55",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "aad8c279-8ed6-4e58-b116-b167fe89dce2",
       "disruptionId": "7a31ea5f-5573-476e-9f4c-14a98d8603ba",
       "author": "SUEDOSTBAYERNBAHN",
@@ -715,39 +814,6 @@
         }
       ],
       "lastModified": "11.05.2024 19:05",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "98bb24c9-b6b8-4326-938d-3554be4c8675",
-      "disruptionId": "1c38ce15-cc3c-41cc-8b02-78f07657c0e7",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "RB 49: Ausfall RB 27489 zwischen Traunreut und Hörpolding",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 49: Die RB 27489 entfällt heute ersatzlos zwischen Traunreut (ab 18:36 Uhr) und Hörpolding (an 18:40 Uhr) wegen einer Reparatur an einem Signal. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "11.05.2024",
-      "durationEnd": "11.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "11.05.2024 18:35",
       "expand": true,
       "topDisruption": false
     },
