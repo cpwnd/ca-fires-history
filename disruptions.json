@@ -653,39 +653,6 @@
       "topDisruption": false
     },
     {
-      "id": "fdbd26a3-b042-48ec-8846-9df939f67290",
-      "disruptionId": "eff79a49-2494-459b-a437-8d4d438ef3fe",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Behobener technischer Defekt einem anderen Zug"
-      },
-      "headline": "RB 49: Ausfall RB 27462 zwischen Hörpolding und Traunreut",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 49: Die RB 27462 entfällt 12.05.24 ersatzlos zwischen Hörpolding (ab 12:45 Uhr) und Traunreut (an 12:49 Uhr) wegen einem Fahrzeugmangel. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "11.05.2024",
-      "durationEnd": "12.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "11.05.2024 20:12",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "60536817-13b0-4119-8b62-4a1664512375",
       "disruptionId": "864dca24-0700-4287-95f3-0e6210ce7ef8",
       "author": "SUEDOSTBAYERNBAHN",
@@ -880,39 +847,6 @@
         }
       ],
       "lastModified": "10.05.2024 11:28",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "0431a9ee-7156-4387-8f7a-809d0de66830",
-      "disruptionId": "96e80717-0226-4605-9a7c-515bb59e8695",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "RB 32: Ausfall RB 27634 zwischen Landshut (Bay) Hbf und Straubing",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 32: Die RB 27634 entfällt morgen ersatzlos zwischen Landshut (Bay) Hbf (ab 19:23 Uhr) und Straubing (an 20:33 Uhr) wegen eines Personalausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "11.05.2024",
-      "durationEnd": "11.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.05.2024 11:19",
       "expand": true,
       "topDisruption": false
     },
