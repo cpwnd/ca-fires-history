@@ -337,40 +337,6 @@
       "topDisruption": false
     },
     {
-      "id": "be028718-0eb0-489e-9e64-3f6d1b1725f0",
-      "disruptionId": "5b3f9782-3fb4-48e2-9dac-87a1440f878c",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Würzburg bzw. Fulda",
-      "summary": "Aufgrund einer Unterbesetzung des Stellwerks Hanau kommt es bis einschließlich 12.05.2024 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Zugausfällen und Umleitungen mit Verspätungen.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Einzelne ICE-Züge der Verbindung Frankfurt(Main) - Erfurt - Leipzig - Dresden fallen aus.</li><li>Einzelne ICE- und IC-Züge Hamburg - Münster - Köln - Koblenz - Frankfurt(Main) - Würzburg - Passau fallen zwischen Frankfurt(M) und Passau aus.</li><li>Einzelne ICE-Züge Dortmund - Köln - Frankfurt (Main) - Würzburg - Nürnberg - Passau - Wien werden zwischen Mainz und Würzburg umgeleitet. Die Halte in Frankfurt(Main)Flughafen, Frankfurt(Main) Hbf und Hanau entfallen. Ersatzweise halten die Züge in Aschaffenburg. Die Züge verspäten sich um etwa 20 Minuten.</li></ul><p>Die Ausfälle und Umleitungen sind bereits in den Auskunftsmedien veröffentlicht.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "03.05.2024",
-      "durationEnd": "12.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "11.05.2024 05:44",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
