@@ -481,75 +481,6 @@
       "topDisruption": false
     },
     {
-      "id": "92ce7a75-cb73-43d4-bdc0-50e47e698807",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Reparatur an der Strecke zwischen Itzehoe und St. Michaelisdonn ist beendet",
-      "summary": "Die Reparatur an der Strecke zwischen Itzehoe und St. Michaelisdonn ist beendet. Die Z&uuml;ge verkehren auf dem Regelweg. Der Ersatzverkehr mit Bussen endet in K&uuml;rze. Infolge der Streckensperrung kann es vereinzelt noch zu Versp&auml;tungen und Zugausf&auml;llen kommen. Pr&uuml;fen Sie bitte Ihre Reiseverbindung.",
-      "text": "<p><strong>Betroffene Linie:&nbsp;</strong></p>\n\n<ul>\n\t<li>RE 6 (Westerland/Sylt) - Hamburg-Altona): &nbsp;</li>\n</ul>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 043153440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "durationBegin": "13.05.2024",
-      "durationEnd": "13.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/",
-          "label": "Reiseauskunft ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt  ",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH ",
-          "label": "X DB Regio Schleswig-Holstein (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "Fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de ",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "13.05.2024 15:59",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "eb619875-e18b-40da-a907-3197a3b446b5",
       "disruptionId": "53e8cd3e-81ac-4ff9-906e-c5cafe29e70d",
       "author": "FERNVERKEHR_AG",
@@ -784,39 +715,6 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "4b06ce6f-b8ec-4823-9ef3-e77c5e485e64",
-      "disruptionId": "fe1f6969-700e-46cf-b18a-3681ff3a217a",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "RB 32: Ausfall RB 27626 zwischen Neufahrn/Niederbay und Straubing",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 32: Die RB 27626 entfällt heute ersatzlos zwischen Neufahrn/Niederbay (ab 15:49 Uhr) und Straubing (an 16:33 Uhr) wegen einer Reparatur an der Strecke. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "13.05.2024",
-      "durationEnd": "13.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "13.05.2024 14:44",
-      "expand": true,
       "topDisruption": false
     },
     {
