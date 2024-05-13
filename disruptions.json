@@ -481,38 +481,6 @@
       "topDisruption": false
     },
     {
-      "id": "eb619875-e18b-40da-a907-3197a3b446b5",
-      "disruptionId": "53e8cd3e-81ac-4ff9-906e-c5cafe29e70d",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Recklinghausen und Münster",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Münster und Recklinghausen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 15 Minuten Verspätung. Der Verkehrshalt Recklinghausen kann Entfallen. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge zwischen Münster und Recklinghausen werden umgeleitet.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "13.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "13.05.2024 12:03",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "cbe7a1e8-cae5-4f4a-a510-d8c606d73aef",
       "author": "REGIO_NORD",
       "cause": {
@@ -521,7 +489,7 @@
       },
       "headline": "Beeinträchtigung zwischen Itzehoe und St. Michaelisdonn",
       "summary": "Eine Reparatur an der Strecke beeintr&auml;chtigt den Regionalverkehr zwischen Itzehoe und St. Michaelisdonn.",
-      "text": "<p><strong>Betroffene Linie:&nbsp;</strong></p>\n\n<ul>\n\t<li>RE 6 (Wsterland/Sylt) - Hamburg-Altona): Z&uuml;ge verkehren zwischen Hamburg-Altona und Itzehoe sowie&nbsp;zwischen St. Michaelisdonn und Westerland(Sylt). Zwischen Itzehoe und St. Michaelisdonn ist ein&nbsp;Buspendelverkehr&nbsp;eingerichtet. Es verkehren vier Busse der Firma Omnibusbetrieb Schwarz und zwei Busse der Firma Baltic Shuttle.</li>\n</ul>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von vsl. bis zu 45 Minuten.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 043153440500 oder 051918030904.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "text": "<p><strong>Betroffene Linie:&nbsp;</strong></p>\n\n<ul>\n\t<li>RE 6 (Wsterland/Sylt) - Hamburg-Altona): Z&uuml;ge verkehren zwischen Hamburg-Altona und Itzehoe sowie&nbsp;zwischen St. Michaelisdonn und Westerland(Sylt). Zwischen Itzehoe und St. Michaelisdonn ist ein&nbsp;Buspendelverkehr&nbsp;eingerichtet. Es verkehren vier Busse der Firma Omnibusbetrieb Schwarz und vier&nbsp;Busse der Firma Baltic Shuttle.</li>\n</ul>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von vsl. bis zu 45 Minuten.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 043153440500 oder 051918030904.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
       "durationBegin": "13.05.2024",
       "durationEnd": "13.05.2024",
       "images": [],
@@ -577,8 +545,40 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "13.05.2024 11:17",
+      "lastModified": "13.05.2024 12:40",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "eb619875-e18b-40da-a907-3197a3b446b5",
+      "disruptionId": "53e8cd3e-81ac-4ff9-906e-c5cafe29e70d",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Recklinghausen und Münster",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Münster und Recklinghausen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 15 Minuten Verspätung. Der Verkehrshalt Recklinghausen kann Entfallen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge zwischen Münster und Recklinghausen werden umgeleitet.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "13.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "13.05.2024 12:03",
+      "expand": true,
       "topDisruption": false
     },
     {
