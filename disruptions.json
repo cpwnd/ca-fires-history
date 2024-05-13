@@ -910,6 +910,49 @@
       "topDisruption": false
     },
     {
+      "id": "03cefca2-966e-4552-8b64-6efe1a425fc4",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Meldungen der S-Bahn München",
+      "summary": "​​​​​Meldungen &uuml;ber die&nbsp;<strong>aktuelle Betriebslage der S-Bahn M&uuml;nchen</strong>&nbsp;finden Sie auf folgenden Kan&auml;len",
+      "text": "<p>und im <strong>M&uuml;nchen Navigator</strong>.</p>\n",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-muenchen.de/fahren/betriebslage",
+          "label": "Betriebslage",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "http://twitter.com/streckenagent_M",
+          "label": "X (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.s-bahn-muenchen.de/service/muenchen-navigator-app",
+          "label": "München Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [],
+      "lastModified": "13.05.2024 19:16",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "91110196-565b-4b11-9854-bf7992d8a0a8",
       "author": "REGIO_HE",
       "cause": {
@@ -1067,55 +1110,6 @@
         }
       ],
       "lastModified": "09.08.2023 17:59",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "03cefca2-966e-4552-8b64-6efe1a425fc4",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Meldungen der S-Bahn München",
-      "summary": "​​​​​Meldungen &uuml;ber die&nbsp;<strong>aktuelle Betriebslage der S-Bahn M&uuml;nchen</strong>&nbsp;finden Sie auf folgenden Kan&auml;len",
-      "text": "<p>und im <strong>M&uuml;nchen Navigator</strong>.</p>\n",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/fahren/betriebslage",
-          "label": "Betriebslage",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "http://twitter.com/streckenagent_M",
-          "label": "X (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.s-bahn-muenchen.de/service/muenchen-navigator-app",
-          "label": "München Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.08.2023 05:30",
       "expand": false,
       "topDisruption": false
     },
