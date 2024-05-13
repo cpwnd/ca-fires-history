@@ -787,6 +787,72 @@
       "topDisruption": false
     },
     {
+      "id": "2bfa2426-8fb7-4ed6-8afc-4f309a55295c",
+      "disruptionId": "aca62565-33b8-4826-a9f6-b6b407e34d48",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 32: Ausfall RB 27625 zwischen Straubing und Neufahrn/Niederbay",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 32: Die RB 27625 entfällt heute ersatzlos zwischen Straubing (ab 14:27 Uhr) und Neufahrn/Niederbay (an 15:07 Uhr) wegen einer Reparatur Strecke. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "13.05.2024",
+      "durationEnd": "13.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.05.2024 14:45",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "4b06ce6f-b8ec-4823-9ef3-e77c5e485e64",
+      "disruptionId": "fe1f6969-700e-46cf-b18a-3681ff3a217a",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 32: Ausfall RB 27626 zwischen Neufahrn/Niederbay und Straubing",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 32: Die RB 27626 entfällt heute ersatzlos zwischen Neufahrn/Niederbay (ab 15:49 Uhr) und Straubing (an 16:33 Uhr) wegen einer Reparatur an der Strecke. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "13.05.2024",
+      "durationEnd": "13.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.05.2024 14:44",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "e95a63e2-4adf-4ec3-929b-981bfe568eb0",
       "author": "S_BAHN_RM",
       "cause": {
