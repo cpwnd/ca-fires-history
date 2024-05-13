@@ -602,6 +602,39 @@
       "topDisruption": false
     },
     {
+      "id": "b6adcbb4-de4d-43a8-9264-fd1e212f7996",
+      "disruptionId": "18aec8ac-81bc-494b-b544-648ff90d029c",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "//BetroffeneLinie: Ausfall //Gattung1 //Zugnummer1 zwischen //Bahnhof1 und //Bahnhof2",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>Aufgrund von verlängerten Bauarbeiten fallen morgen den 14.05.24 alle Züge zwischen München Hbf und München Ost aus.</p>",
+      "durationBegin": "13.05.2024",
+      "durationEnd": "15.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.05.2024 22:47",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "e95a63e2-4adf-4ec3-929b-981bfe568eb0",
       "author": "S_BAHN_RM",
       "cause": {
