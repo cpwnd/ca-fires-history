@@ -2,6 +2,39 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "023b7754-25c1-4e9a-aff0-f177673601d7",
+      "disruptionId": "8eed4f51-bb8a-460a-8fd9-25d87f30e702",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg und Westerland",
+      "summary": "Aufgrund von einem Gleislagefehler ist die Strecke zwischen Itzehoe und Heide derzeit gesperrt. Dadurch kommt es zu Umleitungen und Zug Ausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne Züge zwischen Hamburg und Westerland werden über Jübek-Neumünster umgeleitet die Halte Heide und Itzehoe entfallen.  </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "13.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "13.05.2024 12:22",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "76452317-d2a2-4bc4-b1f2-de889d0e0cfd",
       "author": "REGIO_MITTE",
       "cause": {
