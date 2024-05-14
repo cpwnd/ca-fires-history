@@ -2,40 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "023b7754-25c1-4e9a-aff0-f177673601d7",
-      "disruptionId": "8eed4f51-bb8a-460a-8fd9-25d87f30e702",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamburg und Westerland",
-      "summary": "Aufgrund von einem Gleislagefehler ist die Strecke zwischen Itzehoe und Heide derzeit gesperrt. Dadurch kommt es zu Umleitungen und Zug Ausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne Züge zwischen Hamburg und Westerland werden über Jübek-Neumünster umgeleitet die Halte Heide und Itzehoe entfallen.  </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "13.05.2024",
-      "durationEnd": "13.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "13.05.2024 21:04",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -330,7 +296,6 @@
       "summary": "Aufgrund von Bauarbeiten zwischen Weinheim(Bergstr) und Heidelberg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Haltausfällen von Zügen.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge werden zwischen Frankfurt(Main)Hbf und Heidelberg Hbf umgeleitet. Die Halte in Darmstadt Hbf, Bensheim, Heppenheim(Bergstr) und Weinheim(Bergstr)Hbf entfallen.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Darmstadt, Bensheim, Heppenheim(Bergstr) und Weinheim(Bergstr) erreichen Sie ab Frankfurt(Main)Hbf mit den Zügen des Regionalverkehrs.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "13.05.2024",
-      "durationEnd": "13.05.2024",
       "images": [],
       "downloads": [],
       "links": [],
@@ -348,7 +313,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "13.05.2024 05:51",
+      "lastModified": "14.05.2024 02:06",
       "expand": true,
       "topDisruption": false
     },
