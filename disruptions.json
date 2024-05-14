@@ -567,6 +567,39 @@
       "topDisruption": false
     },
     {
+      "id": "09d095e8-6942-4f8b-8eac-1ecb59acb6d6",
+      "disruptionId": "d75f933b-6468-405a-94e2-28fbb6815958",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 45: Ausfall RB 27100 zwischen Mühldorf  und Landshut Hbf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 45: Die  RB 27100 entfällt morgen den 15.05.24 ersatzlos zwischen Mühldorf  (ab 04:02 Uhr) und Landshut Hbf (an 04:50 Uhr) wegen einer Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "15.05.2024",
+      "durationEnd": "15.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "14.05.2024 14:34",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "b6adcbb4-de4d-43a8-9264-fd1e212f7996",
       "disruptionId": "18aec8ac-81bc-494b-b544-648ff90d029c",
       "author": "SUEDOSTBAYERNBAHN",
