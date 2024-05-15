@@ -534,6 +534,72 @@
       "topDisruption": false
     },
     {
+      "id": "d6d743d4-05c9-4371-b7b9-d8554bf35ddf",
+      "disruptionId": "9478c248-151d-4830-ae89-727dc9fcf0a2",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "RB 40: Ausfall RB 27059 zwischen München Hbf und München Ost",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 40: Die RB 27059 entfällt heute ersatzlos zwischen München Hbf (ab 18:31 Uhr) und München Ost (an 18:39 Uhr) wegen  Bauarbeiten. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "15.05.2024",
+      "durationEnd": "15.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.05.2024 08:10",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "f96eef99-ce61-424f-afa9-5f1433aa065e",
+      "disruptionId": "2eabae92-f053-45d5-94b3-ed6ba9872a2d",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "RB 40: Ausfall RB 27050 zwischen München Ost und München Hbf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 40: Die RB 27050 entfällt heute ersatzlos zwischen München Ost (ab 17:45 Uhr) und München Hbf (an 17:55 Uhr) wegen  Bauarbeiten. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "15.05.2024",
+      "durationEnd": "15.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.05.2024 07:53",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "6ba1cc27-c29f-47cf-bf99-ff39855ac9be",
       "disruptionId": "fa093a67-1a9a-4189-9682-cb8454ad4a42",
       "author": "SUEDOSTBAYERNBAHN",
@@ -728,72 +794,6 @@
         }
       ],
       "lastModified": "15.05.2024 06:18",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "4e09ddfb-7c2c-4b2b-9668-a7706a272de0",
-      "disruptionId": "84464477-04c1-498e-b37f-9c64ab665274",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "RB 40: Ausfall RB 27015 zwischen München Hbf  und München Ost",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 40: Die  RB 27015 entfällt morgen den 15.05.24 ersatzlos zwischen München Hbf  (ab 07:07 Uhr) und München Ost (an 07:15 Uhr) wegen von Bauarbeiten. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "15.05.2024",
-      "durationEnd": "15.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "14.05.2024 17:28",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "b850945a-5872-4dc7-b160-563568083f78",
-      "disruptionId": "dbe70d49-3d2c-464c-9ccb-38dd2be125f5",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "RB 40: Ausfall RB 27336 zwischen München Ost und München Hbf",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 40: Die RB 27336 entfällt morgen den 15.05.24 ersatzlos zwischen München Ost (ab 07:29 Uhr) und München Hbf (an 07.37 Uhr) wegen von Bauarbeiten. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "15.05.2024",
-      "durationEnd": "15.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "14.05.2024 17:08",
       "expand": true,
       "topDisruption": false
     },
