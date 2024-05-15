@@ -534,6 +534,39 @@
       "topDisruption": false
     },
     {
+      "id": "c6dea42c-cedb-4cdb-9de4-03bbdb156ed4",
+      "disruptionId": "c764871f-c160-400c-a3e0-8e024e40a1d4",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "RB 40: Ausfall RB 27036 zwischen München Ost und München Hbf",
+      "summary": "Ersatzloser Ausfall",
+      "text": "<p>RB 40: Die RB 27036 entfällt heute ersatzlos zwischen München Ost (ab 11:27 Uhr) und München Hbf (an 11:37 Uhr) wegen  Bauarbeiten. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "15.05.2024",
+      "durationEnd": "15.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.05.2024 06:18",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "4e09ddfb-7c2c-4b2b-9668-a7706a272de0",
       "disruptionId": "84464477-04c1-498e-b37f-9c64ab665274",
       "author": "SUEDOSTBAYERNBAHN",
@@ -629,39 +662,6 @@
         }
       ],
       "lastModified": "14.05.2024 17:08",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "992520d0-0d1c-409c-b30a-109bd1474276",
-      "disruptionId": "ba998c4f-da4c-4cf3-ba36-ffa6ca4057b7",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "RB 40 : Ausfall RB 27510 zwischen München Hbf und München Ost ",
-      "summary": "Ersatzloser Ausfall",
-      "text": "<p>RB 40 : Die  RB 27510 entfällt morgen den 15.05.24 ersatzlos zwischen München Hbf (ab 05:25 Uhr) und München Ost  (an 05:34 Uhr) wegen von Bauarbeiten. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "15.05.2024",
-      "durationEnd": "15.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "14.05.2024 17:01",
       "expand": true,
       "topDisruption": false
     },
