@@ -591,6 +591,39 @@
       "topDisruption": false
     },
     {
+      "id": "9fd3935d-c738-4c12-b5f2-fbf6d767fcf1",
+      "disruptionId": "2dd0756f-2e3b-467f-816a-1835476d3bbc",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "RB 40: Ausfall RB 40  zwischen München Hbf und München Ost",
+      "summary": "Ausfall",
+      "text": "<p>Aufgrund von verlängerten Bauarbeiten in München fahren nur vereinzelte Züge bis München Hbf, viele Züge wenden bereits in München Ost. Bitte informieren sie sich vor Reiseantritt unter: https://www.bahn.de</p>",
+      "durationBegin": "16.05.2024",
+      "durationEnd": "16.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.05.2024 00:01",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5722fc2c-b511-483f-a381-9ee3f0c8d348",
       "disruptionId": "96968659-b815-4c2a-8111-977490bf264e",
       "author": "REGIO_BW",
