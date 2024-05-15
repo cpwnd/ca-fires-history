@@ -285,6 +285,39 @@
       "topDisruption": false
     },
     {
+      "id": "67794063-fd39-400c-8d26-c8520487e2c2",
+      "disruptionId": "a5ec576e-7981-4062-b59b-299119e1077b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Bremen und Hannover",
+      "summary": "Aufgrund einer Oberleitungsstörung zwischen Bremen und Hannover kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Folge sind Zug- bzw. Haltausfälle sowie Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge Oldenburg(Oldb) – Bremen – Hannover – Berlin / Stuttgart / München fallen zwischen Oldeburg(Oldb) / Bremen und Hannover aus.</li><li>IC-Züge Norddeich Mole – Emden – Bremen – Hannover – Magdeburg – Leipzig – Dresden werden zwischen Bremen und Hannover umgeleitet und verspäten sich um etwa 90 Minuten. Die Halte Verden (Aller) und Nienburg (Weser) entfallen.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "15.05.2024 14:50",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
