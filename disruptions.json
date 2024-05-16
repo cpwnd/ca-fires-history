@@ -2,42 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "106bed78-31b0-4e03-b990-77ff127ec173",
-      "disruptionId": "76ee7a1a-b04c-4283-84d3-a60bbf5b8bc1",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Hamburg und Berlin",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hamburg und Berlin  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Strecke ist derzeit nur eingleisig befahrbar. Einzelne Züge werden umgeleitet und verspäten sich um etwa 90 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge zwischen Hamburg – Berlin.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "16.05.2024",
-      "durationEnd": "17.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "BE",
-        "SH",
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "16.05.2024 19:15",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -391,40 +355,6 @@
       "topDisruption": false
     },
     {
-      "id": "1a20a49a-feab-4044-be66-52e569036ee5",
-      "disruptionId": "f6a68e9d-9f2c-468a-a6e8-8b3069c40771",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Umgestürzter Baum auf der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Kiel / Flensburg / Padborg und Hamburg",
-      "summary": "Ein Baum auf der Strecke beeinträchtigt derzeit den Fernverkehr der Deutschen Bahn zwischen Kiel / Flensburg / Padborg und Hamburg. Es kommt zu Teilausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Kiel – Hamburg – Hannover – Frankfurt(M) – Zürich</li><li>EC-Züge Hamburg – Schleswig – Kopenhagen</li><li>EC-Züge Flensburg / Kiel – Hamburg – Berlin – Dresden – Prag</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Reisende aus/in Richtung Kiel nutzen bitte den Nahverkehr über Kiel Hbf - Lübeck Hbf - Hamburg Hbf.</li><li>Reisende aus/in Richtung Neumünster nutzen bitte den Nahverkehr über Neumünster - Bad Segeberg - Bad Oldesloe - Hamburg Hbf bzw. über Neumünster - Bad Bramstedt - Hamburg Hbf.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von etwa 90 Minuten.</p><p>Die Behebung der Störung soll vsl. bis in die späten Abendstunden erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "16.05.2024",
-      "durationEnd": "17.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "16.05.2024 19:12",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -671,39 +601,6 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "9fd3935d-c738-4c12-b5f2-fbf6d767fcf1",
-      "disruptionId": "2dd0756f-2e3b-467f-816a-1835476d3bbc",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "RB 40: Ausfall RB 40  zwischen München Hbf und München Ost",
-      "summary": "Ausfall",
-      "text": "<p>Aufgrund von verlängerten Bauarbeiten in München fahren nur vereinzelte Züge bis München Hbf, viele Züge wenden bereits in München Ost. Bitte informieren sie sich vor Reiseantritt unter: https://www.bahn.de</p>",
-      "durationBegin": "16.05.2024",
-      "durationEnd": "16.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "16.05.2024 00:01",
-      "expand": true,
       "topDisruption": false
     },
     {
