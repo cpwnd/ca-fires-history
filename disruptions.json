@@ -591,6 +591,58 @@
       "topDisruption": false
     },
     {
+      "id": "39569086-cdea-4c44-af23-c803153e996e",
+      "disruptionId": "072d3a51-870b-454f-9a75-08c95c868b1a",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Kornwestheim<->Untertürkheim: Fahrtausfälle aufgrund Andere Störung",
+      "summary": "Die Fahrten der Linie RB11 entfallen am 16.05.2024.",
+      "text": "<p>Aufgrund von Krankmeldungen können wir kurzfristig die Schichten für die Fahrten der RB11 S-Untertürkheim &lt;-&gt; Kornwestheim nicht besetzen.</p><p>Die Fahrten fallen heute leider aus. Wir bitten das zu entschuldigen.</p><p>&nbsp;</p><p>&nbsp;</p><p><strong>Alternative Fahrmöglichkeiten </strong></p><p><strong>&nbsp;</strong></p><p><strong>Von und nach Stuttgart-Untertürkheim </strong></p><p>Mit der Linie S1 und Umstieg in Stuttgart Hauptbahnhof auf die S4 oder S5.</p><p>&nbsp;</p><p><strong>Von und nach Stuttgart Ebitzweg</strong></p><p>Mit der Stadtbahnlinie U13 (Haltestelle Ebitzweg)</p><p>&nbsp;</p><p><strong>Von und nach Stuttgart-Münster</strong></p><p>Mit der Stadtbahnlinie U12 (Haltestelle Bottroper Str,)</p><p>&nbsp;</p><p><strong>Von und nach Stuttgart-Zazenhausen</strong></p><p>Mit der Stadtbahnlinie U7</p><p>&nbsp;</p><p><strong>Von und nach Kornwestheim</strong></p><p>Mit den Linien S4 und S5 und Umstieg in Stuttgart Hauptbahnhof auf die S1</p><p>Bitte nutzen Sie die elektronische Fahrplanauskunft und planen ggf. mehr Zeit für ihre Fahrt ein.</p>",
+      "durationBegin": "16.05.2024",
+      "durationEnd": "16.05.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-05-16/c53fa4e7-4032-4ed5-b641-a374602d8e56reisendenkarte_20240516-045724.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-05-16/c53fa4e7-4032-4ed5-b641-a374602d8e56reisendenkarte_20240516-045724.png",
+          "info": "",
+          "alt": "Reisendenkarte 16.05.2024 04:57:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 11",
+          "filterName": "RB 11 Stuttgart",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.05.2024 05:19",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "9fd3935d-c738-4c12-b5f2-fbf6d767fcf1",
       "disruptionId": "2dd0756f-2e3b-467f-816a-1835476d3bbc",
       "author": "SUEDOSTBAYERNBAHN",
