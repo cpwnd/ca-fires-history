@@ -2,42 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "880f659d-3292-4d64-b89c-f7019350a1f7",
-      "disruptionId": "62a50286-bec3-446e-b939-d71f2cda326b",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Hochwasser"
-      },
-      "headline": "Beeinträchtigungen zwischen Mannheim und Paris aufgrund Hochwasser in Frankreich",
-      "summary": "Aktuell kommt es auf der Strecke zwischen Saarbrücken und Forbach zu Einschränkungen im Fernverkehr der Deutschen Bahn. In Folge des starken Regens in diesem Abschnitt ist die Strecke aktuell leider gesperrt. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/TGV-Züge zwischen Frankfurt am Main bzw. Mannheim und Paris. Diese Züge werden umgeleitet. Dabei entfallen die Halte Kaiserslautern und Saarbrücken. Verspätungen sind durch die Umleitung nicht zu erwarten.</li><li>Der ICE 9555 am 17.05.2024 und der ICE 9586 am 18.05.2024 müssen aufgrund der Störung leider entfallen.</li></ul><p>Nach aktuellem Stand wird die Störung bis in die Vormittagsstunden des 18.05.2024 andauern. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "17.05.2024",
-      "durationEnd": "18.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "SL",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "17.05.2024 21:34",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "eb540adb-9df1-4f82-83f0-fd8a7b9d9f71",
       "author": "REGIO_MITTE",
       "cause": {
@@ -431,14 +395,14 @@
         "label": "Unwetterauswirkungen"
       },
       "headline": "Beeinträchtigungen durch Unwetterschäden auf der Strecke zwischen Offenburg und Karlsruhe ",
-      "summary": "Unwetterschäden beeinträchtigen den Bahnverkehr im Raum Baden-Baden. Die Strecke ist leider zwischen Rastatt und Achern gesperrt. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Züge aus Richtung Karlsruhe beginnen/enden in Rastatt. Züge aus Richtung Offenburg beginnen/enden in Achern. Ab ca. 22:30 Uhr haben wir einen Ersatzverkehr mit Bus zwischen Rastatt und Appenweier für Sie eingerichtet. Aktuell wird geprüft, ob die Strecke heute Abend noch eingeschränkt befahren werden kann. Genaue Informationen zur Dauer der Sperrung liegen leider noch nicht vor. Bitte prüfen Sie Ihre Reiseverbindung",
+      "summary": "Unwetterschäden beeinträchtigen den Bahnverkehr im Raum Baden-Baden. Die Streckensperrung zwischen Rastatt und Achern besteht nicht mehr und der Zugverkehr konnte wieder aufgenommen werden. Es kommt noch zu Verspätungen bis sich die Betriebslage normalisiert hat. Ersatzverkehr mit Bus zwischen Rastatt und Appenweier wird in Kürze wieder eingestellt. Am morgigen Tag, ist mit regulärem Zugverkehr zu rechnen. Bitte prüfen Sie Ihre Reiseverbindung.",
       "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 2 (Karlsruhe - Konstanz)</li><li>RE 7 (Karlsruhe  - Basel)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "17.05.2024",
       "durationEnd": "18.05.2024",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-17/3da64808-d049-4d86-b7a7-d8528f2e67f5reisendenkarte_20240517-214359.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-17/3da64808-d049-4d86-b7a7-d8528f2e67f5reisendenkarte_20240517-214359.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-17/c1d489d0-bc9a-4563-8068-fa9568993732reisendenkarte_20240517-214359.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-17/c1d489d0-bc9a-4563-8068-fa9568993732reisendenkarte_20240517-214359.png",
           "info": "",
           "alt": "Reisendenkarte 17.05.2024 21:43:59",
           "openInNewTab": true
@@ -464,7 +428,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "17.05.2024 22:19",
+      "lastModified": "17.05.2024 23:30",
       "expand": true,
       "topDisruption": false
     },
