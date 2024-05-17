@@ -2,6 +2,42 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "880f659d-3292-4d64-b89c-f7019350a1f7",
+      "disruptionId": "62a50286-bec3-446e-b939-d71f2cda326b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Hochwasser"
+      },
+      "headline": "Beeinträchtigungen zwischen Frankfurt bzw. Mannheim und Paris aufgrund Hochwasser in Frankreich",
+      "summary": "Aktuell kommt es auf der Strecke zwischen Saarbrücken und Forbach zu Einschränkungen im Fernverkehr der Deutschen Bahn. In Folge des starken Regens in diesem Abschnitt ist die Strecke aktuell leider gesperrt. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/TGV-Züge zwischen Frankfurt am Main bzw. Mannheim und Paris. Diese Züge werden umgeleitet. Dabei entfallen die Halte Kaiserslautern und Saarbrücken. Verspätungen sind durch die Umleitung nicht zu erwarten.</li><li>Der ICE 9555 am 17.05.2024 und der ICE 9586 am 18.05.2024 müssen aufgrund der Störung leider entfallen.</li></ul><p>Reisende aus Kaiserslautern und Saarbrücken können via Mannheim Hbf die Züge nach Paris erreichen.</p><p>Nach aktuellem Stand wird die Störung bis in die Vormittagsstunden des 18.05.2024 andauern. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "17.05.2024",
+      "durationEnd": "18.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "SL",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "17.05.2024 18:16",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "527bd559-26ce-4a60-b7aa-2507bb57c8a1",
       "disruptionId": "c0b17596-49ce-42b4-a2c5-58834b5827b4",
       "author": "FERNVERKEHR_AG",
