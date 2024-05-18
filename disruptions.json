@@ -917,6 +917,53 @@
       "topDisruption": false
     },
     {
+      "id": "c7f48959-524e-463f-82cb-758b9ac9cfd1",
+      "disruptionId": "d3c25afa-2dfc-48a3-a816-542de427f743",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Fahrtabweichungen Linie S2 und S3",
+      "summary": "Defekt am Signal in Fellbach",
+      "text": "<p>Aktuell kommt es auf den Linien S2 und S3 zwischen Waiblingen in Richtung Bad Cannstatt zu Fahrtabweichungen und einzelnen Haltausfällen in Sommerrain und Nürnberger Straße. Fahrgäste mit Ziel Sommerrain und Nürnberger Straße steigen bitte in Fellbach um. Bitte beachten Sie, dass es hier zu Verspätungen kommt. Grund hierfür ist ein Defekt an einem Signal in Sommerrain. Achten Sie daher auf die Durchsagen und Anzeigen am Bahnsteig und prüfen Sie Ihre Fahrt rechtzeitig online.</p>",
+      "durationBegin": "18.05.2024",
+      "durationEnd": "18.05.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-05-18/55ecd94f-977c-411d-9393-a5a68cede075reisendenkarte_20240518-162903.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-05-18/55ecd94f-977c-411d-9393-a5a68cede075reisendenkarte_20240518-162903.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.05.2024 16:29:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.05.2024 18:51",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "bb1c997b-9878-4dbb-b691-012fd6783189",
       "disruptionId": "665108d6-7ab9-4b16-b403-00ac177e66da",
       "author": "S_BAHN_S",
@@ -961,53 +1008,6 @@
         }
       ],
       "lastModified": "18.05.2024 17:42",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "c7f48959-524e-463f-82cb-758b9ac9cfd1",
-      "disruptionId": "d3c25afa-2dfc-48a3-a816-542de427f743",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Fahrtabweichungen Linie S2 und S3",
-      "summary": "Defekt am Signal in Fellbach",
-      "text": "<p>Aktuell kommt es auf den Linien S2 und S3 zwischen Waiblingen in Richtung Bad Cannstatt zu Fahrtabweichungen und einzelnen Haltausfällen in Sommerrain und Nürnberger Straße. Fahrgäste mit Ziel Sommerrain und Nürnberger Straße steigen bitte in Fellbach um. Bitte beachten Sie, dass es hier zu Verspätungen kommt. Grund hierfür ist ein Defekt an einem Signal in Sommerrain. Achten Sie daher auf die Durchsagen und Anzeigen am Bahnsteig und prüfen Sie Ihre Fahrt rechtzeitig online.</p>",
-      "durationBegin": "18.05.2024",
-      "durationEnd": "18.05.2024",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-05-18/8d911f71-bcb6-4c54-bf75-acb7a1171fdbreisendenkarte_20240518-162903.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-05-18/8d911f71-bcb6-4c54-bf75-acb7a1171fdbreisendenkarte_20240518-162903.png",
-          "info": "",
-          "alt": "Reisendenkarte 18.05.2024 16:29:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.05.2024 17:16",
       "expand": true,
       "topDisruption": false
     },
