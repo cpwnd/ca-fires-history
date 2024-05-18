@@ -592,6 +592,69 @@
       "topDisruption": false
     },
     {
+      "id": "0bbf89e1-b2cd-4f8e-80a4-ac8daaaa5765",
+      "author": "REGIO_NI_HB",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Stellwerkstörung zwischen Nordhausen und Walkenried",
+      "summary": "Aufgrund einer Stellwerkst&ouml;rung kommt es zu Versp&auml;tungen und Teilausf&auml;llen vsl. bis in den fr&uuml;hen Nachmittag.",
+      "text": "<ul>\n\t<li>RB 80/81 (G&ouml;ttingen/Bodenfelde &ndash; Nordhausen): &nbsp;Es kommt zu Versp&auml;tungen und Teilausf&auml;llen.</li>\n</ul>\n\n<p>Ersatzverkehr mit Bus der Firma Stepo Reisen ist zwischen Nordhausen und Walkenried im Pendel eingerichtet.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X ehemals Twitter.&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "18.05.2024",
+      "durationEnd": "18.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": " https://www.bahn.de",
+          "label": "DB Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt  ",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS  ",
+          "label": " X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
+          "label": " bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de ",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.05.2024 09:13",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "5722fc2c-b511-483f-a381-9ee3f0c8d348",
       "disruptionId": "96968659-b815-4c2a-8111-977490bf264e",
       "author": "REGIO_BW",
