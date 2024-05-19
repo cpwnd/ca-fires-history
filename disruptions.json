@@ -2,6 +2,42 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "5ef58690-09dc-461c-a3df-40821ca3e688",
+      "disruptionId": "69f881cf-699c-4b4d-916a-7f4ecd110f62",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen aufgrund Blitzeinschlag ins Stellwerk in Marl (Lippe) (Recklinghausen - Münster(Westf)",
+      "summary": "Aktuell kommt es in Marl (Lippe) (Recklinghausen - Münster(Westf) aufgrund eines Unwetters zu Beeinträchtigungen im Verkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge (Berlin - Hannover - Köln)</li><li>Züge (Münster(Westf) - Köln - Mannheim - Stuttgart - Ulm) </li><li>Züge (Norddeich Mole - Emden -  Münster - Köln - Koblenz) </li><li>Züge (Hamburg – Münster – Essen – Köln – Frankfurt (M) - Nürnberg – Passau/München)</li><li>Züge (Münster (Westf) – Essen<strong> </strong>– Köln – Mannheim – Stuttgart – München)&nbsp;</li><li>Züge (Norddeich Mole – Duisburg – Köln – Mannheim – Stuttgart – München)&nbsp;</li><li>Züge (Dortmund – Münster (Westf) – Hannover – Magdeburg – Leipzig – Dresden)&nbsp;</li></ul><p>﻿Es kommt zu Umleitungen mit Haltausfall des Verkehrshalts Recklinghausen Hbf, Gelsenkirchen Hbf und Oberhausen Hbf und Wanne Eickel Hbf</p><p>Zusatzverspätung 15 Min</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "19.05.2024",
+      "durationEnd": "19.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "19.05.2024 16:39",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "eb540adb-9df1-4f82-83f0-fd8a7b9d9f71",
       "author": "REGIO_MITTE",
       "cause": {
@@ -340,40 +376,6 @@
       ],
       "lastModified": "08.04.2024 12:17",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "34ed0708-45ed-4eb3-b908-00551804e99b",
-      "disruptionId": "9c02de49-5fa3-4c65-936f-63066fcf75e5",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Beeinträchtigung in Walldorf zwischen Frankfurt(Main) und Mannheim",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Walldorf zwischen Frankfurt(Main) und Mannheim kommt es am Sonntag, 19.05.2024 bis 10:30 Uhr sowie in der Nacht Sonntag/Montag, 19./20.05.2024 von 20:30 Uhr bis 06:00 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-, TGV-, EC-, IC- und RJ-Züge werden zwischen Frankfurt(Main)Hbf bzw. Frankfurt Flughafen Fernbf und Mannheim Hbf umgeleitet und verspäten sich um etwa 30 Minuten.</li><li>ICE-Züge Kiel - Hamburg - Kassel - Frankfurt(Main) - Mannheim - Stuttgart werden zwischen Frankfurt(Main)Hbf und Mannheim Hbf umgeleitet und verspäten sich um etwa 30 Minuten. Der Halt in Frankfurt Flughafen Fernbf entfällt.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "19.05.2024",
-      "durationEnd": "20.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "19.05.2024 05:34",
-      "expand": true,
       "topDisruption": false
     },
     {
