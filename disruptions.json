@@ -387,6 +387,40 @@
       "topDisruption": false
     },
     {
+      "id": "0f59ab85-4476-49ac-807c-c742ee0d56ef",
+      "disruptionId": "4b757e26-79c1-448e-a308-a709f944a685",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "S5: Aktuell keine Züge zwischen Buxtehude und Stade",
+      "summary": " ",
+      "text": "<p>Aktuell fahren keine Züge zwischen Buxtehude und Stade. Der Grund ist ein umgestürzter Baum auf der Strecke. Ein Ersatzverkehr mit Taxis ist eingerichtet.</p>",
+      "durationBegin": "20.05.2024",
+      "durationEnd": "20.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.05.2024 07:12",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "9aa4e405-2c8f-4ba5-a55e-38f207eb8da0",
       "disruptionId": "1d1f957c-04e2-4ea1-a7c8-436c7e3024fb_TrafficReport",
       "author": "REGIO_SUEDOST",
