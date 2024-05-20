@@ -882,6 +882,55 @@
       "topDisruption": false
     },
     {
+      "id": "94ca4777-8923-4dcc-868f-cedf9c8661a4",
+      "disruptionId": "0aad196e-6088-4912-9d21-4e42e69eccc9",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Haltausfälle auf der Linie S5",
+      "summary": "Samstag, 1. Juni (3:30 Uhr) bis Dienstag, 4. Juni (4:00 Uhr) wegen Bauarbeiten zwischen Ludwigsburg und Bietigheim-Bissingen.",
+      "text": "<p>Haltausfälle auf der Linie S5 von Samstag, 1. Juni (3:30 Uhr) bis Dienstag, 4. Juni (4:00 Uhr) wegen Bauarbeiten zwischen Ludwigsburg und Bietigheim-Bissingen. Die Züge der Linie S5 verkehren nur zwischen S-Schwabstraße und Ludwigsburg. Es wird ein Ersatzverkehr mit Bussen zwischen Ludwigsburg und Bietigheim mit Halt in Tamm und Asperg eingerichtet. Wählen Sie aufgrund der längeren Fahrtzeiten der Busse gegebenenfalls eine frühere Verbindung. Bitte beachten Sie, dass auch die Züge des Regionalverkehrs von der Baumaßnahme zwischen Ludwigsburg und Bietigheim betroffen sind. Berücksichtigen Sie diese Abweichungen bei Ihrer Reiseplanung und informieren Sie sich vorab über Ihre Reiseverbindungen.</p>",
+      "durationBegin": "18.05.2024",
+      "durationEnd": "04.06.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-05-20/3dd9718f-3551-45de-bc46-f9e72ceceaf3reisendenkarte_20240518-141516.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-05-20/3dd9718f-3551-45de-bc46-f9e72ceceaf3reisendenkarte_20240518-141516.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.05.2024 14:15:16",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-05-20/c49fd91e-c272-4aac-844a-200bf8cae347Bauinfo_S5_1.-4.6..pdf",
+          "label": "Bauinfo_S5_1.-4.6..pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.05.2024 04:01",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "bb1c997b-9878-4dbb-b691-012fd6783189",
       "disruptionId": "665108d6-7ab9-4b16-b403-00ac177e66da",
       "author": "S_BAHN_S",
