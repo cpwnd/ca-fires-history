@@ -137,6 +137,39 @@
       "topDisruption": false
     },
     {
+      "id": "cea00e87-4177-4d6a-97ae-eae6935d4833",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Fahrzeugverfügbarkeit"
+      },
+      "headline": "Beeinträchtigungen auf der Linie RE 62 zwischen Löhne(Westf) und Rheine",
+      "summary": "Aufgrund von unvorhergesehenen notwendigen Fahrzeugreparaturen kommt es im Streckenverlauf der Linie RE 62 zu Beeintr&auml;chtigungen.",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li><strong>RE&nbsp;62&nbsp;(L&ouml;hne(Westf)&nbsp;&ndash; Osnabr&uuml;ck Hbf&nbsp;&ndash; Rheine)</strong>: Die Z&uuml;ge verkehren zwischen L&ouml;hne(Westf) und Osnabr&uuml;ck Hbf. Die Zugfahrten zwischen Osnabr&uuml;ck Hbf und Rheine entfallen. Am 20.05.2024 ist ein Ersatzverkehr mit Bussen zwischen Osnabr&uuml;ck Hbf und Rheine eingerichtet. Nutzen Sie bitte&nbsp;auch die Z&uuml;ge der RB61 (eurobahn) und&nbsp;der RE60 (WestfalenBahn) zwischen Osnabr&uuml;ck Hbf und Rheine.</li>\n</ul>\n\n<p>Es kommt zu einer Reisezeitverl&auml;ngerung von bis zu 30 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X ehemals Twitter.&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "20.05.2024",
+      "durationEnd": "21.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "20.05.2024 10:19",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "0f539a30-8411-4b6f-abc8-cb2ab5f833d2",
       "disruptionId": "d8c09a2b-c081-44b6-86b4-92cd6f36af1a",
       "author": "REGIO_BW",
@@ -384,6 +417,39 @@
       ],
       "lastModified": "20.11.2023 12:19",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "2ff9ca56-b4a8-4fe4-89f0-0fc6cf442aab",
+      "disruptionId": "87f1b2f1-d197-4322-a7fe-0ac8c565238f",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "S1: Aktuell keine Züge zum Flughafen",
+      "summary": " ",
+      "text": "<p>Aktuell fahren keine Züge zum Flughafen. Grund; Technische Störung an der Strecke. Bitte die folgenden Busverbindungen nutzen: 392 Ohlsdorf (S1)--&gt; Airport; 292 Langenhorn Markt (U1) --&gt; Airport; X95 Niendorf Nord (U2) --&gt; Airport. Es fahren auch Ersatzbusse. </p>",
+      "durationBegin": "20.05.2024",
+      "durationEnd": "20.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "20.05.2024 10:17",
+      "expand": true,
       "topDisruption": false
     },
     {
