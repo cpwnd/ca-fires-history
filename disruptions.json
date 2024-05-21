@@ -137,6 +137,70 @@
       "topDisruption": false
     },
     {
+      "id": "0bbf89e1-b2cd-4f8e-80a4-ac8daaaa5765",
+      "author": "REGIO_NI_HB",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Stellwerkstörung zwischen Nordhausen und Walkenried",
+      "summary": "Aufgrund einer Stellwerkst&ouml;rung kommt es vsl. bis einschlie&szlig;lich Mittwoch, den 22.05.2024, zu Versp&auml;tungen und Teilausf&auml;llen.<br />\n&nbsp;",
+      "text": "<ul>\n\t<li>RB 80/81 (G&ouml;ttingen/Bodenfelde &ndash; Nordhausen):&nbsp; Es kommt zu Teilausf&auml;llen zwischen Nordhausen und Walkenried. Ersatzverkehr ist mit zwei Bussen im Pendel zwischen Nordhausen und Walkenried eingerichtet.&nbsp;Die Abfahrt in Walkenried erfolgt dabei st&uuml;ndlich zur Minute 55 und in Nordhausen st&uuml;ndlich zur Minute 39.&nbsp;Bitte beachten Sie, dass es infolge von Stra&szlig;ensperrungen zu l&auml;ngeren Fahrzeiten der Busse kommen kann.</li>\n</ul>\n\n<p>Es kommt zu einer Reisezeitverl&auml;ngerung von bis zu 60 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X ehemals Twitter.&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "durationBegin": "18.05.2024",
+      "durationEnd": "22.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": " https://www.bahn.de",
+          "label": "DB Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt  ",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS  ",
+          "label": " X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
+          "label": " bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de ",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.05.2024 13:50",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "cea00e87-4177-4d6a-97ae-eae6935d4833",
       "author": "REGIO_NORD",
       "cause": {
@@ -679,69 +743,6 @@
         }
       ],
       "lastModified": "31.05.2023 09:32",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "0bbf89e1-b2cd-4f8e-80a4-ac8daaaa5765",
-      "author": "REGIO_NI_HB",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Stellwerkstörung zwischen Nordhausen und Walkenried",
-      "summary": "Aufgrund einer Stellwerkst&ouml;rung kommt es vsl. bis einschlie&szlig;lich Dienstag , den 21.05.2024, zu Versp&auml;tungen und Teilausf&auml;llen.<br />\n&nbsp;",
-      "text": "<ul>\n\t<li>RB 80/81 (G&ouml;ttingen/Bodenfelde &ndash; Nordhausen):&nbsp; Es kommt zu Teilausf&auml;llen zwischen Nordhausen und Walkenried. Ersatzverkehr ist mit zwei Bussen im Pendel zwischen Nordhausen und Walkenried eingerichtet.&nbsp;Die Abfahrt in Walkenried erfolgt dabei st&uuml;ndlich zur Minute 55 und in Nordhausen st&uuml;ndlich zur Minute 39.&nbsp;Bitte beachten Sie, dass es infolge von Stra&szlig;ensperrungen zu l&auml;ngeren Fahrzeiten der Busse kommen kann.</li>\n</ul>\n\n<p>Es kommt zu einer Reisezeitverl&auml;ngerung von bis zu 60 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de/reiseauskunft, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X ehemals Twitter.&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "durationBegin": "18.05.2024",
-      "durationEnd": "21.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": " https://www.bahn.de",
-          "label": "DB Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt  ",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_NDS  ",
-          "label": " X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
-          "label": " bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de ",
-          "label": "Lageplan des Ersatzverkehrs",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "21.05.2024 13:14",
       "expand": false,
       "topDisruption": false
     },
