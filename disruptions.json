@@ -2,42 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "200369b9-70b4-493a-87ba-2962e0d20427",
-      "disruptionId": "807cf21a-a358-4f35-9ab2-2217fdd5b006",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Personalausfall in Hanau",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Hanau kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Fernverkehrszüge werden umgeleitet. Der Halt in Hanau kann entfallen.",
-      "text": "<strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong><ul><li>ICE-Züge Frankfurt/M - Kassel-Wilhelmshöhe - Hannover - Hamburg</li><li>NJ-Züge Frankfurt/M - Hamburg</li><li>NJ-Züge Frankfurt/M - Nürnberg</li></ul><p>Die betriebliche Störung wird vsl. bis 06:00 Uhr am 21.05.2024 andauern. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>﻿Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "20.05.2024",
-      "durationEnd": "21.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "20.05.2024 17:08",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "eb540adb-9df1-4f82-83f0-fd8a7b9d9f71",
       "author": "REGIO_MITTE",
       "cause": {
