@@ -752,6 +752,39 @@
       "topDisruption": false
     },
     {
+      "id": "d03a5cae-40fb-45d1-81c5-5e815d7eaecd",
+      "disruptionId": "91489759-2552-4895-ab75-e96adc759426",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "RB 42: Ausfall RB 27167 zwischen Kastl und Burghausen",
+      "summary": "Ersatzloser Ausfall ",
+      "text": "<p>RB 42: Die RB 27167 entfällt heute ersatzlos zwischen Kastl (ab 09:05 Uhr) und Burghausen (an 9:21 Uhr) wegen einer technischen Störung an einem anderen Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "21.05.2024",
+      "durationEnd": "21.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.05.2024 09:22",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "0bbf89e1-b2cd-4f8e-80a4-ac8daaaa5765",
       "author": "REGIO_NI_HB",
       "cause": {
