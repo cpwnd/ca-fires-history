@@ -2,6 +2,42 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "febd6bf8-290d-4a32-ac74-66598860e579",
+      "disruptionId": "e640709f-5085-46de-8785-9b46b754ce6c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe zwischen Bremen und Osnabrück",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe kommt es aktuell zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen umgeleitet werden und verspäten sich dadurch um etwa 20 - 40 Minuten. \nAußerdem kommt es zu Haltausfällen in Bremen Hbf, Osnabrück Hbf und Münster(Westf) Hbf.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-, EC- und IC-Züge, die zwischen Hamburg, Bremen und Osnabrück verkehren.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li><strong>Bremen Hbf </strong>erreichen Sie ab Hamburg mit den Zügen des Regionalverkehrs sowie ab Hannover mit den Zügen des Regional- und Fernverkehrs.</li><li><strong>Osnabrück Hbf </strong>erreichen Sie ab Hannover Hbf mit den Zügen des Regional- und Fernverkehrs sowie ab Münster(Westf)Hbf mit den Zügen des Regionalverkehrs.</li><li><strong>Münster(Westf)Hbf</strong> erreichen Sie ab Hamm(Westf)Hbf sowie ab Dortmund Hbf mit den Zügen des Regionalverkehrs</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.05.2024",
+      "durationEnd": "22.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "NW",
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.05.2024 16:46",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "eb540adb-9df1-4f82-83f0-fd8a7b9d9f71",
       "author": "REGIO_MITTE",
       "cause": {
