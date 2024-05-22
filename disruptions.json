@@ -460,39 +460,6 @@
       "topDisruption": false
     },
     {
-      "id": "56129915-3efe-4a96-8776-24d441370491",
-      "disruptionId": "c20f0b83-b01e-4248-882a-3827084d2843",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung in Bremen Hbf",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung in Bremen Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Ausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge Oldenburg (Oldb) – Bremen – Hannover – Berlin / Stuttgart / München fallen zwischen Oldenburg (Oldb) und Hannover aus.</li><li>IC-Züge Hannover - Norddeich Mole werden in Richtung Bremen/Norddeich Mole via Rotenburg(W)umgeleitet. Die Züge verspäten sich um etwa 35 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Vormittagsstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "22.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "22.05.2024 07:24",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "eb8605ff-11be-430e-aa89-960ee28e29a0",
       "disruptionId": "b27ea3a1-4ce0-4f6b-9e3f-7df61949bfc0",
       "author": "FERNVERKEHR_AG",
@@ -583,15 +550,8 @@
       "durationBegin": "22.05.2024",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-22/f2a36fba-b39b-449c-b924-b8af95b629b5reisendenkarte_20240522-092003.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-22/f2a36fba-b39b-449c-b924-b8af95b629b5reisendenkarte_20240522-092003.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.05.2024 09:20:03",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-22/c36c2f00-e01d-4fe1-af26-7c336ca90e09reisendenkarte_20240522-092615.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-22/c36c2f00-e01d-4fe1-af26-7c336ca90e09reisendenkarte_20240522-092615.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-22/1daa284b-fd46-4cc9-92c1-d5b718ca61e3reisendenkarte_20240522-092615.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-22/1daa284b-fd46-4cc9-92c1-d5b718ca61e3reisendenkarte_20240522-092615.png",
           "info": "",
           "alt": "Reisendenkarte 22.05.2024 09:26:15",
           "openInNewTab": true
@@ -627,7 +587,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "22.05.2024 09:48",
+      "lastModified": "22.05.2024 09:53",
       "expand": true,
       "topDisruption": false
     },
