@@ -54,6 +54,40 @@
       "topDisruption": false
     },
     {
+      "id": "b0d9b426-7f3a-41cc-8471-800c15dc9044",
+      "disruptionId": "02afe76b-74fa-4a8c-b827-3204fa3814fb",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Mannheim und Mainz",
+      "summary": "Aufgrund Stellwerk (Ludwigshafen) unterbesetzt ist die Strecke zwischen Mannheim und Mainz derzeit nur eingeschränkt befahrbar. Dadurch kommt es zu Umleitungen und Haltausfällen Worms im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge zwischen Mannheim und Mainz werden Teilweise umgeleitet. Es kann der Halt Worms Ausfallen. </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.05.2024",
+      "durationEnd": "25.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.05.2024 09:22",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "f1698aa0-7dfe-4230-bb45-4d90f31f8adf",
       "disruptionId": "34c382e2-c99f-4485-85f9-7ccd96fc79aa",
       "author": "FERNVERKEHR_AG",
