@@ -54,6 +54,40 @@
       "topDisruption": false
     },
     {
+      "id": "f1698aa0-7dfe-4230-bb45-4d90f31f8adf",
+      "disruptionId": "34c382e2-c99f-4485-85f9-7ccd96fc79aa",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Aschaffenburg/Fulda",
+      "summary": "Hanau Südseite Stellwerk unterbesetzt. Betroffen ist die Strecke zwischen Frankfurt(M) und Aschaffenburg/Fulda einzelne Züge des Fernverkehrs werden umgeleitet. Dadurch kommt es zu Verspätungen  von bis zu 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Auf der Strecke zwischen Frankfurt(M) und Aschaffenburg/Fulda kommt es vereinzelt zu Umleitungen im Fernverkehr der Deutschenbahn. Es kann bis zu 20 Minuten Verspätung geben. </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.05.2024",
+      "durationEnd": "27.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.05.2024 09:05",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -675,6 +709,39 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "ff39bc9a-63a5-4224-aba4-970326ec45ec",
+      "disruptionId": "d6f04f24-4655-44d7-9dfa-443f3afc34b3",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 49: Ausfall RB 27454 zwischen Traunstein und Traunreut",
+      "summary": "Ersatzloser Ausfall ",
+      "text": "<p>RB 49: Die RB 27454 entfällt heute ersatzlos zwischen Traunstein (ab 08:47 Uhr) und Traunreut (an 09:10 Uhr) wegen einer technischen Störung am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "23.05.2024",
+      "durationEnd": "23.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "23.05.2024 08:51",
+      "expand": true,
       "topDisruption": false
     },
     {
