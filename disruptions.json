@@ -746,6 +746,39 @@
       "topDisruption": false
     },
     {
+      "id": "e62d56c1-6e38-4161-bc87-ba8ae6b8327a",
+      "disruptionId": "65812d17-035b-4d33-9835-fc7cda922d26",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 40 / RE 4: Ausfall  RE 27000 zwischen Mühldorf und München Hbf",
+      "summary": "Ersatzloser Ausfall ",
+      "text": "<p>RB 40 / RE 4: Der  RE 27000 entfällt heute ersatzlos zwischen Mühldorf (ab 05:46 Uhr) und München Hbf (an 06:50 Uhr) wegen einer technischen Störung am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "24.05.2024",
+      "durationEnd": "24.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.05.2024 06:15",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5722fc2c-b511-483f-a381-9ee3f0c8d348",
       "disruptionId": "96968659-b815-4c2a-8111-977490bf264e",
       "author": "REGIO_BW",
