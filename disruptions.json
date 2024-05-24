@@ -471,7 +471,7 @@
         "label": "Bauarbeiten"
       },
       "headline": "Kurzfristige Bauarbeiten zwischen Ludwigshafen Hbf und Ludwigshafen Mitte",
-      "summary": "Bauarbeiten von <strong>Ludwigshafen(Rh)Hbf in Richtung Ludwigshafen(Rhein) Mitte.</strong><br />\nDie Z&uuml;ge<strong> halten nicht in Ludwigshafen(Rh)Hbf und Ludwigshafen(Rhein) Mitte.</strong><br />\nBeeintr&auml;chtigungen bis ca. 15:30 Uhr.<br />\n&nbsp;",
+      "summary": "Bauarbeiten von <strong>Ludwigshafen(Rh)Hbf in Richtung Mannheim Hbf.</strong><br />\nDie Z&uuml;ge<strong> halten nicht in Ludwigshafen(Rh)Hbf und Ludwigshafen(Rhein) Mitte.</strong><br />\nBeeintr&auml;chtigungen bis ca. 15:30 Uhr.<br />\n&nbsp;",
       "text": "<p><u><strong>Betroffene Linien</strong></u><u><strong>:</strong></u></p>\n\n<ul>\n\t<li><strong>S1</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homburg(Saar) &ndash; Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Osterburken</li>\n\t<li><strong>S2</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Mosbach</li>\n\t<li><strong>S3</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Karlsruhe</li>\n\t<li><strong>S33</strong>&nbsp; &nbsp; &nbsp; &nbsp; Germersheim &ndash; Graben-Neudorf &ndash; Bruchsal</li>\n\t<li><strong>S4</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Bruchsal</li>\n\t<li><strong>S6</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Bensheim &ndash; Mannheim &ndash; Frankenthal &ndash; Worms &ndash; Mainz <strong>(verkehrt planm&auml;&szlig;ig mit allen&nbsp;Halten)</strong></li>\n</ul>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "images": [],
       "downloads": [],
@@ -510,7 +510,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.05.2024 09:16",
+      "lastModified": "24.05.2024 09:21",
       "expand": false,
       "topDisruption": false
     },
@@ -794,6 +794,39 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "59be3852-ce92-474b-a228-62054285676e",
+      "disruptionId": "b956e537-2419-4a6c-b24c-01d95e94fa14",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "RB 49: Ausfall RB 27451 zwischen Traunreut und Hörpolding",
+      "summary": "Ersatzloser Ausfall ",
+      "text": "<p>RB 49: Die RB 27451 entfällt heute ersatzlos zwischen Traunreut (ab 09:16 Uhr) und Hörpolding (an 09:20 Uhr) wegen einer Reparatur an einem Signal. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "24.05.2024",
+      "durationEnd": "24.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.05.2024 09:24",
+      "expand": true,
       "topDisruption": false
     },
     {
