@@ -2,41 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "2c0b6f51-0d82-4284-a585-72e0d607842b",
-      "disruptionId": "a3ebb114-0f1e-4a11-aa59-ef204fcdff32",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Beeinträchtigungen zwischen Kassel-Wilhelmshöhe und Fulda",
-      "summary": "Aufgrund von Bauarbeiten zwischen Kassel-Wilhelmshöhe und Fulda kommt es derzeit zu Beeinträchtigungen und Verspätungen von bis zu 30 Minuten im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC-Züge zwischen Kassel-Wilhelmshöhe und Fulda</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "26.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "TH",
-        "BY",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "26.05.2024 12:04",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "da494258-13f1-4e4b-b4d8-e02a8ed52d86",
       "author": "REGIO_MITTE",
       "cause": {
