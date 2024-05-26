@@ -2,6 +2,41 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "2c0b6f51-0d82-4284-a585-72e0d607842b",
+      "disruptionId": "a3ebb114-0f1e-4a11-aa59-ef204fcdff32",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Kassel-Wilhelmshöhe und Fulda",
+      "summary": "Aufgrund von Bauarbeiten zwischen Kassel-Wilhelmshöhe und Fulda kommt es derzeit zu Beeinträchtigungen und Verspätungen von bis zu 30 Minuten im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC-Züge zwischen Kassel-Wilhelmshöhe und Fulda</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "BY",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "26.05.2024 12:04",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "b0d9b426-7f3a-41cc-8471-800c15dc9044",
       "disruptionId": "02afe76b-74fa-4a8c-b827-3204fa3814fb",
       "author": "FERNVERKEHR_AG",
@@ -229,8 +264,8 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Aschaffenburg/Fulda",
-      "summary": "Aufgrund eines unterbesetzten Stellwerks in Hanau ist die Strecke zwischen Frankfurt(M) und Aschaffenburg/Fulda nur eingeschränkt befahrbar. Einzelne Züge des Fernverkehrs werden umgeleitet. Dadurch kommt es zu Verspätungen von bis zu 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Auf der Strecke zwischen Frankfurt(M) und Aschaffenburg/Fulda kommt es vereinzelt zu Umleitungen im Fernverkehr der Deutschenbahn. Es kann bis zu 20 Minuten Verspätung geben. </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund eines unterbesetzten Stellwerks in Hanau ist die Strecke zwischen Frankfurt(M) und Aschaffenburg/Fulda nur eingeschränkt befahrbar. Einzelne Züge des Fernverkehrs werden umgeleitet. Es können Verspätungen von bis zu 20 Minuten entstehen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC-Züge zwischen Frankfurt(M) und Aschaffenburg bzw. Frankfurt(M) und Fulda.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "23.05.2024",
       "durationEnd": "27.05.2024",
       "images": [],
@@ -250,7 +285,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "23.05.2024 09:59",
+      "lastModified": "26.05.2024 12:12",
       "expand": true,
       "topDisruption": false
     },
