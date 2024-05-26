@@ -37,6 +37,59 @@
       "topDisruption": false
     },
     {
+      "id": "da494258-13f1-4e4b-b4d8-e02a8ed52d86",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Erhöhter Krankenstandes beim Stellwerkspersonal ",
+      "summary": "Wegen eines <strong>erh&ouml;hten Krankenstandes beim Stellwerkspersonal kommt es ab dem 27.05.2024 zu Einschr&auml;nkungen im Raum Ludwigshafen(Rhein) Hbf. </strong><br />\n<br />\nIn der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\nSobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "text": "<p><u><strong>Betroffene Linien</strong></u><u><strong>:</strong></u></p>\n\n<p><strong>S1</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Homburg(Saar) &ndash; Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Osterburken</p>\n\n<p><strong>S2</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Mosbach</p>\n\n<p><strong>S3</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Karlsruhe</p>\n\n<p><strong>S33</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Germersheim &ndash; Graben-Neudorf &ndash; Bruchsal</p>\n\n<p><strong>S4</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Bruchsal</p>\n\n<p><strong>S44</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>(Karlsruhe &ndash; W&ouml;rth &ndash; Germersheim) (Homburg / Kaiserslautern / Neustadt)</em> &ndash; Ludwigshafen &ndash; LU BASF Nord <strong><em>(BASF-Werksbahn)</em></strong></p>\n\n<p><strong>S6</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bensheim &ndash; Mannheim &ndash; Frankenthal &ndash; Worms &ndash; Mainz</p>\n\n<p><strong>RE1/</strong><strong>RE11</strong> &nbsp; Koblenz / Luxembourg &ndash; Trier &ndash; Saarbr&uuml;cken &ndash; Kaiserslautern &ndash; Mannheim</p>\n\n<p><strong><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; S&uuml;dwest-Express</em></strong><strong><em> </em></strong><strong><em>/ DeLux-Express</em></strong></p>\n\n<p><strong>RE4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>(Frankfurt/Main) &ndash; Mainz &ndash; Ludwigshafen &ndash; Karlsruhe</p>\n\n<p><strong>RE14&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </strong>Frankfurt/Main &ndash; Mainz &ndash; Ludwigshafen &ndash; Mannheim</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "27.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.05.2024 14:39",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "b0d9b426-7f3a-41cc-8471-800c15dc9044",
       "disruptionId": "02afe76b-74fa-4a8c-b827-3204fa3814fb",
       "author": "FERNVERKEHR_AG",
@@ -116,57 +169,6 @@
       ],
       "lastModified": "24.05.2024 11:06",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "5ad88cf7-e929-4d0e-aa63-580fc26dd4c2",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Kein Zugverkehr zwischen Weinheim(Bergstr) und Fürth(Odenw)",
-      "summary": "Wegen erh&ouml;hter Erkrankung von Fahrpersonal wird der Verkehr<strong> zw. Weinheim(Bergstr)Hbf und F&uuml;rth(Odenwald), am Samstag den 25.05.2024, ab 14:30 Uhr bis Betriebsschluss auf ein Ersatzverkehr umgestellt.</strong><br />\n&nbsp;",
-      "text": "<p><strong>Betroffene Linie:&nbsp;</strong></p>\n\n<ul>\n\t<li><strong>RB69 Weinheim(Bergstr) - Rimbach - F&uuml;rth(Odenw)</strong></li>\n</ul>\n\n<p>Wir haben einen <strong>Ersatzverkehr</strong> mit insgesamt 4 Gelenkbussen <strong>zwischen Weinheim(Bergstr) und F&uuml;rth(Odenw)</strong> f&uuml;r Sie eingerichtet, der alle Unterwegshalte anf&auml;hrt. Firma Rhenic &uuml;bernimmt die Fahrten.&nbsp;</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "durationBegin": "25.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "Twitter",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "25.05.2024 14:58",
-      "expand": false,
       "topDisruption": false
     },
     {
