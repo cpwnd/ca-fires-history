@@ -517,39 +517,6 @@
       "topDisruption": false
     },
     {
-      "id": "d75a40c0-a673-40d3-b5f0-58561e307fb4",
-      "disruptionId": "a1cd77a2-c4f5-4dc8-8f34-728e3be5d0a2",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Hannover und Bremen",
-      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Hannover und Bremen kommt es derzeit zu Verspätungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr</strong></p><ul><li>Alle ICE- und IC-Züge zwischen Hannover und Bremen verspäten sich zusätzlich um 30 Minuten</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "27.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "27.05.2024 09:04",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "eb8605ff-11be-430e-aa89-960ee28e29a0",
       "disruptionId": "b27ea3a1-4ce0-4f6b-9e3f-7df61949bfc0",
       "author": "FERNVERKEHR_AG",
@@ -903,39 +870,6 @@
         }
       ],
       "lastModified": "27.05.2024 09:24",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "1d52a67c-0a8e-4726-8d21-bc63936af629",
-      "disruptionId": "902f735e-58c3-4b19-b04b-37fb1a8185e7",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "RB 32: Ausfall RB 27611 zwischen Straubing und Neufahrn/Niederbayern",
-      "summary": "Ersatzloser Ausfall ",
-      "text": "<p>RB 32: Die RB 27611 entfällt heute ersatzlos zwischen Straubing (ab 08:27 Uhr) und Neufahrn/Niederbayern (an 09:07 Uhr) wegen einer technischen Störung an der Strecke. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "27.05.2024",
-      "durationEnd": "27.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "27.05.2024 09:07",
       "expand": true,
       "topDisruption": false
     },
