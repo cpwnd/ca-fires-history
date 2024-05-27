@@ -55,40 +55,6 @@
       "topDisruption": false
     },
     {
-      "id": "b0d9b426-7f3a-41cc-8471-800c15dc9044",
-      "disruptionId": "02afe76b-74fa-4a8c-b827-3204fa3814fb",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Mannheim und Mainz",
-      "summary": "Aufgrund eines unterbesetzten Stellwerks in Ludwigshafen ist die Strecke zwischen Mannheim und Mainz derzeit nur eingeschränkt befahrbar. Dadurch kommt es zu Umleitungen und Haltausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge zwischen Mannheim und Mainz werden teilweise umgeleitet. Es kann der Halt Worms ausfallen.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "23.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "25.05.2024 06:16",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "0f539a30-8411-4b6f-abc8-cb2ab5f833d2",
       "disruptionId": "d8c09a2b-c081-44b6-86b4-92cd6f36af1a",
       "author": "REGIO_BW",
@@ -263,6 +229,40 @@
       ],
       "lastModified": "15.04.2024 11:58",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "3e5af5ec-bd72-444b-af97-861abed4a609",
+      "disruptionId": "070e94f7-fff8-49d4-a59c-96dea60f6c18",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigung zwischen Siegen und Wetzlar",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Haiger kommt es derzeit zu Zugausfällen von Dortmund/Münster(Westf) nach Frankfurt(M) über Siegen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle IC-Züge von Dortmund/Münster(Westf.) nach Frankfurt(M) über Siegen</li></ul><p>Die Ausfälle sind in den elektronischen Auskunftsmedien der Deutschen Bahn veröffentlicht. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.05.2024",
+      "durationEnd": "27.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "27.05.2024 13:26",
+      "expand": true,
       "topDisruption": false
     },
     {
