@@ -492,7 +492,7 @@
       },
       "headline": "Beeinträchtigungen in der Schweiz zwischen Rorschach und St. Gallen ",
       "summary": "Aufgrund eines Hangrutsches in Gleisnähe zwischen Rorschach und St. Gallen (Schweiz) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge werden umgeleitet, der Halt in St. Gallen entfällt.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ECE-Züge München - Lindau - Zürich</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Für Reisende mit dem Ziel St. Gallen ist zwischen Rorschach und St. Gallen ein Schienenersatzverkehr eingerichtet. Die Behebung der Störung soll vsl. bis 02.06.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ECE-Züge München - Lindau - Zürich</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Für Reisende mit dem Ziel St. Gallen ist zwischen Rorschach und St. Gallen ein Schienenersatzverkehr eingerichtet. Die Behebung der Störung soll vsl. bis 09.06.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "20.05.2024",
       "images": [],
       "downloads": [],
@@ -511,7 +511,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "20.05.2024 11:13",
+      "lastModified": "27.05.2024 11:06",
       "expand": true,
       "topDisruption": false
     },
@@ -807,26 +807,33 @@
       "topDisruption": false
     },
     {
-      "id": "3d1ed4b3-5f56-4c87-b1e8-1cc6df1cc23f",
-      "disruptionId": "1ebbd2af-f9a9-49f3-8ff4-ea4ef9b57c3f",
-      "author": "SUEDOSTBAYERNBAHN",
+      "id": "459e521d-bd22-4bbb-a302-5847470d4a71",
+      "disruptionId": "5c0ec917-86ba-4f10-bc43-389479cbc017",
+      "author": "REGIO_BW",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
       },
-      "headline": "RB 32: Ausfall RB RB 27614 zwischen Neufahrn/Niederbayern und Straubing",
-      "summary": "Ersatzloser Ausfall ",
-      "text": "<p>RB 32: Die RB RB 27614 entfällt heute ersatzlos zwischen Neufahrn/Niederbayern (ab 09:49 Uhr) und Straubing (an 10:33 Uhr) wegen einer technischen Störung an der Strecke. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "27.05.2024",
-      "durationEnd": "27.05.2024",
+      "headline": "Zugausfälle bei der Westfrankenbahn",
+      "summary": "Aufgrund von Personalengpässen auf den den Stellwerken kommt es auf der Tauberbahn an vereinzelen Sonn- und Feiertagen zu Zugausfällen mit Ersatzverkehr.\n\nDen Fahrplan zum Ersatzverkehr finden Sie weiter unten.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE87 / RB88 Aschaffenburg - Crailsheim</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "30.05.2024",
+      "durationEnd": "20.10.2024",
       "images": [],
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-27/bbc931da-5d7d-47dd-9d57-9a6595ca73a5Tauberbahn_Ersatzverkehr%2Ban%2Beinzelnen%2BSonn-%2Bund%2BFeiertagen.pdf",
+          "label": "Tauberbahn_Ersatzverkehr an einzelnen Sonn- und Feiertagen.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [],
       "properties": [
         "REGIONAL"
       ],
       "states": [
-        "BY"
+        "BW"
       ],
       "lines": [
         {
@@ -835,7 +842,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "27.05.2024 09:24",
+      "lastModified": "27.05.2024 11:17",
       "expand": true,
       "topDisruption": false
     },
