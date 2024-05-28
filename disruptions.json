@@ -127,6 +127,72 @@
       "topDisruption": false
     },
     {
+      "id": "8ee08799-5b92-4770-ac55-643095b8040f",
+      "disruptionId": "fcc71f6b-8121-4246-86ab-6459dfc0d7f8",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugausfälle bei der Westfrankenbahn",
+      "summary": "Aufgrund von Personalengpässen beim Fahrpersonal und in den Stellwerken kommt es auf der Madonnenlandbahn, Tauberbahn und Kahlgrundbahn bis zum 24. Juli 2024 zu Zugausfällen mit Ersatzverkehr.\n\nDie Fahrpläne der Ersatzverkehre finden Sie weiter unten.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RB 84 Miltenberg - Walldürn - Seckach&nbsp;</strong></li><li><strong>RB 88 Wertheim - Lauda - Crailsheim</strong></li><li><strong>RB 56 Schöllkrippen - Kahl - Hanau</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "15.11.2023",
+      "durationEnd": "24.07.2024",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-28/715347cf-3821-4baa-adb1-74ca3ae6db9aTauberbahn_Ersatzverkehr%2Ban%2Beinzelnen%2BSonn-%2Bund%2BFeiertagen_aktualisiert.pdf",
+          "label": "Tauberbahn Ersatzverkehr an einzelnen Sonn- und Feiertagen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-28/4347c12e-ca14-46c6-8af7-4bd623565e1dMadonnenland_Ersatzverkehr%2B8.%2BJanuar%2Bbis%2B%2B24.%2BJuli%2B2024.pdf",
+          "label": "Madonnenland_Ersatzverkehr 8. Januar bis  24. Juli 2024.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-28/25f30f5f-500e-411a-96a2-491056469488Kahlgrundbahn_Ersatzverkehr%2B8.%2BJanuar%2Bbis%2B%2B24.%2BJuli%2B2024%2B%25281%2529.pdf",
+          "label": "Kahlgrundbahn_Ersatzverkehr 8. Januar bis  24. Juli 2024 (1).pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-28/ff0277c9-8857-459e-b8d5-73cbd25570d4Tauberbahn_Ersatzverkehr%2Bbis%2B%2B24.%2BJuli%2B2024.pdf",
+          "label": "Tauberbahn_Ersatzverkehr bis  24. Juli 2024.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.westfrankenbahn.de/fahrplan/sev-haltestellen",
+          "label": "Übersicht aller Ersatz-Haltestellen bei der Westfrankenbahn:",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "28.05.2024 14:20",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "760c90da-3436-4da6-8db0-c4a9d994b9fe",
       "author": "REGIO_NORD",
       "cause": {
@@ -182,72 +248,6 @@
       ],
       "lastModified": "27.05.2024 20:17",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "8ee08799-5b92-4770-ac55-643095b8040f",
-      "disruptionId": "fcc71f6b-8121-4246-86ab-6459dfc0d7f8",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugausfälle bei der Westfrankenbahn",
-      "summary": "Aufgrund von Personalengpässen beim Fahrpersonal und in den Stellwerken kommt es auf der Madonnenlandbahn, Tauberbahn und Kahlgrundbahn bis zum 24. Juli 2024 zu Zugausfällen mit Ersatzverkehr.\n\nDie Fahrpläne der Ersatzverkehre finden Sie weiter unten.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RB 84 Miltenberg - Walldürn - Seckach&nbsp;</strong></li><li><strong>RB 88 Wertheim - Lauda - Crailsheim</strong></li><li><strong>RB 56 Schöllkrippen - Kahl - Hanau</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "15.11.2023",
-      "durationEnd": "24.07.2024",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-07/c10bf940-1638-4f16-a58b-78e396c90309Madonnenland_Ersatzverkehr%2B8.%2BJanuar%2Bbis%2B%2B24.%2BJuli%2B2024.pdf",
-          "label": "Madonnenland_Ersatzverkehr 8. Januar bis  24. Juli 2024.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-07/0d31e507-28dd-401a-bfe1-b934fda556bfKahlgrundbahn_Ersatzverkehr%2B8.%2BJanuar%2Bbis%2B%2B24.%2BJuli%2B2024%2B%25281%2529.pdf",
-          "label": "Kahlgrundbahn_Ersatzverkehr 8. Januar bis  24. Juli 2024 (1).pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-07/0fd7a4de-5f8e-4e37-858c-31e9f03cb258Tauberbahn_Ersatzverkehr%2Bbis%2B%2B24.%2BJuli%2B2024.pdf",
-          "label": "Tauberbahn_Ersatzverkehr bis  24. Juli 2024.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-07/f07eda04-6f4b-4847-90ff-8050319129adTauberbahn_einzelner%2BErsatzverkehr%2Ban%2BSonntagen_%2528Mai-Oktober%2529.pdf",
-          "label": "Tauberbahn_einzelner Ersatzverkehr an Sonntagen_(Mai-Oktober).pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.westfrankenbahn.de/fahrplan/sev-haltestellen",
-          "label": "Übersicht aller Ersatz-Haltestellen bei der Westfrankenbahn:",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "07.05.2024 13:58",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -504,7 +504,7 @@
       },
       "headline": "Beeinträchtigungen im Raum Ludwigshafen(Rhein) Hbf ",
       "summary": "Ab Dienstag, den 28.05.2024 kommt es weiterhin zu Einschr&auml;nkungen im Raum Ludwigshafen(Rhein) Hbf. Grund: erh&ouml;hte Erkrankung von Stellwerkspersonal",
-      "text": "<p><u><strong>Betroffene Linien</strong></u><u><strong>:</strong></u></p>\n\n<p><strong>S1 Homburg(Saar) &ndash; Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Osterburken </strong>(Die Z&uuml;ge enden/beginnen jeweils in Neustadt und Heidelberg)</p>\n\n<p><strong>S2 Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Mosbach</strong>&nbsp;(Regelbetrieb)</p>\n\n<p><strong>S3 Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Karlsruhe&nbsp;</strong>(Regelbetrieb)</p>\n\n<p><strong>S33 Germersheim &ndash; Graben-Neudorf &ndash; Bruchsal</strong> (Regelbetrieb)</p>\n\n<p><strong>S4 Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Bruchsal </strong>(entf&auml;llt im Abschnitt Heidelberg Hbf -&gt; Germersheim)</p>\n\n<p><strong>S44&nbsp;<em>(Karlsruhe &ndash; W&ouml;rth &ndash; Germersheim) (Homburg / Kaiserslautern / Neustadt)</em> &ndash; Ludwigshafen &ndash; LU BASF Nord <em>(BASF-Werksbahn) </em>(</strong>Z&uuml;ge mit Start-/Zielbahnhof Ludwigshafen Hbf Richtung BASF entfallen.)</p>\n\n<p><strong>S6 Bensheim &ndash; Mannheim &ndash; Frankenthal &ndash; Worms &ndash; Mainz&nbsp;</strong>(Z&uuml;ge mit Start-/Zielbahnhof Mannheim Hbf enden/beginnen in Worms. Z&uuml;ge bis Bensheim verkehren auf dem Regelweg.)</p>\n\n<p><strong>RE1/RE11 &nbsp; Koblenz / Luxembourg &ndash; Trier &ndash; Saarbr&uuml;cken &ndash; Kaiserslautern &ndash; Mannheim&nbsp;</strong>(Regelbetrieb)</p>\n\n<p><strong>RE4 (Frankfurt/Main) &ndash; Mainz &ndash; Ludwigshafen &ndash; Karlsruhe</strong> (Regelbetrieb)</p>\n\n<p><strong>RE14 Frankfurt/Main &ndash; Mainz &ndash; Ludwigshafen &ndash; Mannheim </strong>(Regelbetrieb)</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "text": "<p><u><strong>Betroffene Linien</strong></u><u><strong>:</strong></u></p>\n\n<p><strong>S1 Homburg(Saar) &ndash; Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Osterburken </strong>(Die Z&uuml;ge enden/beginnen jeweils in Neustadt und Heidelberg)</p>\n\n<p><strong>S2 Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Mosbach</strong>&nbsp;(Regelbetrieb)</p>\n\n<p><strong>S3 Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Karlsruhe&nbsp;</strong>(Regelbetrieb)</p>\n\n<p><strong>S33 Germersheim &ndash; Graben-Neudorf &ndash; Bruchsal</strong> (Regelbetrieb)</p>\n\n<p><strong>S4 Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Bruchsal </strong>(entf&auml;llt zwischen Heidelberg Hbf und Germersheim)</p>\n\n<p><strong>S44&nbsp;<em>(Karlsruhe &ndash; W&ouml;rth &ndash; Germersheim) (Homburg / Kaiserslautern / Neustadt)</em> &ndash; Ludwigshafen &ndash; LU BASF Nord <em>(BASF-Werksbahn) </em>(</strong>Z&uuml;ge mit Start-/Zielbahnhof Ludwigshafen Hbf Richtung BASF entfallen.)</p>\n\n<p><strong>S6 Bensheim &ndash; Mannheim &ndash; Frankenthal &ndash; Worms &ndash; Mainz&nbsp;</strong>(Z&uuml;ge mit Start-/Zielbahnhof Mannheim Hbf enden/beginnen in Worms. Z&uuml;ge bis Bensheim verkehren auf dem Regelweg.)</p>\n\n<p><strong>RE1/RE11 &nbsp; Koblenz / Luxembourg &ndash; Trier &ndash; Saarbr&uuml;cken &ndash; Kaiserslautern &ndash; Mannheim&nbsp;</strong>(Regelbetrieb)</p>\n\n<p><strong>RE4 (Frankfurt/Main) &ndash; Mainz &ndash; Ludwigshafen &ndash; Karlsruhe</strong> (Regelbetrieb)</p>\n\n<p><strong>RE14 Frankfurt/Main &ndash; Mainz &ndash; Ludwigshafen &ndash; Mannheim </strong>(Regelbetrieb)</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "durationBegin": "27.05.2024",
       "images": [],
       "downloads": [],
@@ -542,7 +542,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.05.2024 08:08",
+      "lastModified": "28.05.2024 14:07",
       "expand": false,
       "topDisruption": false
     },
@@ -734,7 +734,7 @@
       "images": [],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-28/1aaf79e3-cd8d-4628-890b-eef71d268bc7Tauberbahn_Ersatzverkehr%2Ban%2Beinzelnen%2BSonn-%2Bund%2BFeiertagen_aktualisiert.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-05-28/42a83681-90a4-4956-84fc-ef1f18f199e7Tauberbahn_Ersatzverkehr%2Ban%2Beinzelnen%2BSonn-%2Bund%2BFeiertagen_aktualisiert.pdf",
           "label": "Tauberbahn_Ersatzverkehr an einzelnen Sonn- und Feiertagen_aktualisiert.pdf",
           "info": "",
           "openInNewTab": true
@@ -754,7 +754,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.05.2024 13:44",
+      "lastModified": "28.05.2024 13:53",
       "expand": true,
       "topDisruption": false
     },
