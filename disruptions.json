@@ -2,6 +2,53 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "56cc41db-0d15-4a67-a509-6f02d755374e",
+      "disruptionId": "49c8ec0a-f838-49d2-aa3b-36246d9cd96c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln und Frankfurt (Main)",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Köln und Frankfurt (Main) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 60 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge auf der Schnellfahrstrecke Köln – Frankfurt (M).</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "29.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "29.05.2024 15:00",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "0f539a30-8411-4b6f-abc8-cb2ab5f833d2",
       "disruptionId": "d8c09a2b-c081-44b6-86b4-92cd6f36af1a",
       "author": "REGIO_BW",
@@ -52,7 +99,7 @@
       },
       "headline": "Oberleitungsstörung zwischen Bad Oldesloe und Bargteheide",
       "summary": "Aufgrund eines Baumes in der Oberleitung zwischen Bad Oldesloe und Bargteheide ist der Zugverkehr stark beeintr&auml;chtigt.",
-      "text": "<p><u>Betroffene Linien:</u></p>\n\n<ul>\n\t<li>RE 8 (L&uuml;beck Hbf &ndash; Hamburg Hbf): Z&uuml;ge verkehren zwischen Hamburg Hbf und&nbsp;Ahrensburg und zwischen Bad Oldesloe und L&uuml;beck Hbf.</li>\n\t<li>RE 80 (L&uuml;beck Hbf &ndash; Ahrensburg &ndash; Hamburg Hbf):&nbsp;Z&uuml;ge verkehren zwischen Hamburg Hbf und&nbsp;Ahrensburg und zwischen Bad Oldesloe und L&uuml;beck Hbf.</li>\n</ul>\n\n<p>Ersatzverkehr mit Bussen ist eingerichtet zwischen Ahrensburg und Bad Oldesloe. Es verkehren 11 Busse der Firma Engine Unit, sowie ein Bus der Firma City Bus Hamburg Haidri.</p>\n\n<p>Es kommt zu Reisezeitverl&auml;ngerungen von bis zu 45 Minuten.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "text": "<p><u>Betroffene Linien:</u></p>\n\n<ul>\n\t<li>RE 8 (L&uuml;beck Hbf &ndash; Hamburg Hbf): Z&uuml;ge verkehren zwischen Hamburg Hbf und&nbsp;Ahrensburg und zwischen Bad Oldesloe und L&uuml;beck Hbf.</li>\n\t<li>RE 80 (L&uuml;beck Hbf &ndash; Ahrensburg &ndash; Hamburg Hbf):&nbsp;Z&uuml;ge verkehren zwischen Hamburg Hbf und&nbsp;Ahrensburg und zwischen Bad Oldesloe und L&uuml;beck Hbf.</li>\n\t<li>RB 81 (Bad Oldesloe &ndash; Hamburg Hbf): Z&uuml;ge verkehren zwischen Hamburg Hbf und Bargteheide.</li>\n</ul>\n\n<p>Ersatzverkehr mit Bussen ist eingerichtet zwischen Bargteheide und Bad Oldesloe. Es verkehren 11 Busse der Firma Engine Unit, sowie ein Bus der Firma City Bus Hamburg Haidri.</p>\n\n<p>Es kommt zu Reisezeitverl&auml;ngerungen von bis zu 45 Minuten.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
       "durationBegin": "29.05.2024",
       "durationEnd": "29.05.2024",
       "images": [],
@@ -103,7 +150,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "29.05.2024 14:50",
+      "lastModified": "29.05.2024 15:18",
       "expand": false,
       "topDisruption": false
     },
