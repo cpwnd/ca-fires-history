@@ -44,6 +44,70 @@
       "topDisruption": false
     },
     {
+      "id": "84b90b64-506c-4e35-b9d0-2b483e0a2702",
+      "author": "REGIO_SH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Oberleitungsstörung zwischen Bad Oldesloe und Bargteheide",
+      "summary": "Aufgrund eines Baumes in der Oberleitung zwischen Bad Oldesloe und Bargteheide ist der Zugverkehr stark beeintr&auml;chtigt.",
+      "text": "<p><u>Betroffene Linien:</u></p>\n\n<ul>\n\t<li>RE 8 (L&uuml;beck Hbf &ndash; Hamburg Hbf): Z&uuml;ge verkehren zwischen Hamburg Hbf und&nbsp;Ahrensburg und zwischen Bad Oldesloe und L&uuml;beck Hbf.</li>\n\t<li>RE 80 (L&uuml;beck Hbf &ndash; Ahrensburg &ndash; Hamburg Hbf):&nbsp;Z&uuml;ge verkehren zwischen Hamburg Hbf und&nbsp;Ahrensburg und zwischen Bad Oldesloe und L&uuml;beck Hbf.</li>\n</ul>\n\n<p>Ersatzverkehr mit Bussen ist eingerichtet zwischen Ahrensburg und Bad Oldesloe. Es verkehren 11 Busse der Firma Engine Unit, sowie ein Bus der Firma City Bus Hamburg Haidri.</p>\n\n<p>Es kommt zu Reisezeitverl&auml;ngerungen von bis zu 45 Minuten.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "durationBegin": "29.05.2024",
+      "durationEnd": "29.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt ",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de  ",
+          "label": "Lageplan des Ersatzverkehrs ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.05.2024 14:50",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -1075,8 +1139,8 @@
         "label": "Kurzfristiger Personalausfall"
       },
       "headline": "Beeinträchtigung in Hanau",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles bei einem Stellwerk in Hanau kommt es bis zum 31.05.2024 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen von etwa 20 Minuten zwischen Frankfurt (M) und Fulda / Aschaffenburg.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p><strong>Mittwoch, 29.05.2024:</strong></p><ul><li>ICE 729 Köln – München</li><li>ICE 592 München – Erfurt</li><li>ICE 1120\tMünchen – Düsseldorf</li><li>ICE 526 München – Dortmund</li><li>ICE 695 Berlin – Stuttgart</li><li>ICE 524 München – Dortmund</li><li>ICE 697 Berlin – Frankfurt</li></ul><p><strong>Donnerstag, 30.05.2024:</strong></p><ul><li>ICE 729 Köln – München</li><li>ICE 592 München – Erfurt</li><li>ICE 1120\tMünchen – Düsseldorf</li><li>ICE 526 München – Dortmund</li><li>ICE 1554\tDresden – Frankfurt</li><li>ICE 695 Berlin – Stuttgart</li><li>ICE 524 München – Dortmund</li><li>ICE 697 Berlin – Frankfurt</li></ul><p><strong>Freitag, 31.05.2024:</strong></p><ul><li>ICE 729 Köln – München</li><li>ICE 592 München – Erfurt</li><li>ICE 1120\tMünchen – Düsseldorf</li><li>ICE 526 München – Dortmund</li><li>ICE 1554\tDresden – Frankfurt</li><li>ICE 695 Berlin – Stuttgart</li><li>ICE 524 München – Dortmund</li><li>ICE 697 Berlin – Frankfurt</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles bei einem Stellwerk in Hanau kommt es bis zum 31.05.2024 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich um etwa 20 Minuten zwischen Frankfurt (M) und Fulda / Aschaffenburg.",
+      "text": "<p><strong>Betroffene Züge am Mittwoch, 29.05.2024:</strong></p><ul><li>ICE 729 Köln – München</li><li>ICE 592 München – Erfurt</li><li>ICE 1120\tMünchen – Düsseldorf</li><li>ICE 526 München – Dortmund</li><li>ICE 695 Berlin – Stuttgart</li><li>ICE 524 München – Dortmund</li><li>ICE 697 Berlin – Frankfurt</li></ul><p><strong>Betroffene Züge am </strong><strong>Donnerstag, 30.05.2024:</strong></p><ul><li>ICE 729 Köln – München</li><li>ICE 592 München – Erfurt</li><li>ICE 1120\tMünchen – Düsseldorf</li><li>ICE 526 München – Dortmund</li><li>ICE 1554\tDresden – Frankfurt</li><li>ICE 695 Berlin – Stuttgart</li><li>ICE 524 München – Dortmund</li><li>ICE 697 Berlin – Frankfurt</li></ul><p><strong>Betroffene Züge am </strong><strong>Freitag, 31.05.2024:</strong></p><ul><li>ICE 729 Köln – München</li><li>ICE 592 München – Erfurt</li><li>ICE 1120\tMünchen – Düsseldorf</li><li>ICE 526 München – Dortmund</li><li>ICE 1554\tDresden – Frankfurt</li><li>ICE 695 Berlin – Stuttgart</li><li>ICE 524 München – Dortmund</li><li>ICE 697 Berlin – Frankfurt</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "29.05.2024",
       "images": [],
       "downloads": [],
@@ -1094,7 +1158,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "29.05.2024 13:49",
+      "lastModified": "29.05.2024 14:34",
       "expand": true,
       "topDisruption": false
     },
