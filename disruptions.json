@@ -2,53 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "56cc41db-0d15-4a67-a509-6f02d755374e",
-      "disruptionId": "49c8ec0a-f838-49d2-aa3b-36246d9cd96c",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Köln und Frankfurt (Main)",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Köln und Frankfurt (Main) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen und Zugausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge Köln – Siegburg/Bonn – Montabaur – Limburg Süd – Frankfurt (M) fallen aus.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "29.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "29.05.2024 15:31",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "0f539a30-8411-4b6f-abc8-cb2ab5f833d2",
       "disruptionId": "d8c09a2b-c081-44b6-86b4-92cd6f36af1a",
       "author": "REGIO_BW",
