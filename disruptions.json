@@ -127,6 +127,39 @@
       "topDisruption": false
     },
     {
+      "id": "b3e8da53-7d3b-4dba-bf76-efcf51a9cbc4",
+      "disruptionId": "92d09b9d-96f4-40b7-98b6-e2dd2515b022",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Umgestürzter Baum auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Frankfurt (Main) und Siegen",
+      "summary": "Ein Baum auf der Strecke beeinträchtigt derzeit den Fernverkehr der Deutschen Bahn zwischen Frankfurt (Main) und Siegen. Es kommt zu Zugausfällen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen (Münster (W) –) Dortmund – Siegen – Frankfurt (M) fallen aus.</li></ul><p>Die Behebung der Störung soll vsl. bis Tagesende erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.05.2024 13:21",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "760c90da-3436-4da6-8db0-c4a9d994b9fe",
       "author": "REGIO_NORD",
       "cause": {
