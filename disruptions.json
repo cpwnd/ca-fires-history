@@ -44,6 +44,40 @@
       "topDisruption": false
     },
     {
+      "id": "0ad79f2d-eca0-450a-b326-53248d997610",
+      "disruptionId": "0893588b-d675-47d1-a4b7-14329343879a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg und Hannover",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Hamburg und Hannover kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge (Kiel –) Hamburg – Hannover – Süddeutschland / Schweiz</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis Tagesende erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.05.2024 15:15",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -155,7 +189,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "30.05.2024 13:21",
+      "lastModified": "30.05.2024 15:16",
       "expand": true,
       "topDisruption": false
     },
