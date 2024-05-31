@@ -79,73 +79,6 @@
       "topDisruption": false
     },
     {
-      "id": "0ad79f2d-eca0-450a-b326-53248d997610",
-      "disruptionId": "0893588b-d675-47d1-a4b7-14329343879a",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamburg und Hannover",
-      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Hamburg und Hannover kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge, die keine Halte zwischen Hannover und Hamburg haben, werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge (Kiel –) Hamburg – Hannover – Süddeutschland / Schweiz</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Abendstunden am Freitag, 31.05.2024, erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "30.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "31.05.2024 10:54",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "d7f397fd-e773-4ff4-99c7-c08811224b15",
-      "disruptionId": "7b4d8a6a-aab0-412f-a110-9c99ebb4d5b4",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen zwischen Siegen und Frankfurt ",
-      "summary": "Aufgrund einer Oberleitungsstörung ist die Strecke zwischen Siegen und Frankfurt derzeit gesperrt. Dadurch kommt es zu Ausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Dortmund - Siegen - Frankfurt</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "31.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "31.05.2024 09:21",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -385,6 +318,39 @@
       ],
       "lastModified": "08.04.2024 12:17",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "0ad79f2d-eca0-450a-b326-53248d997610",
+      "disruptionId": "0893588b-d675-47d1-a4b7-14329343879a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg und Hannover",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Celle und Uelzen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-, IC- und NJ-Züge auf dem Abschnitt zwischen Hannover und Hamburg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "31.05.2024 12:48",
+      "expand": true,
       "topDisruption": false
     },
     {
