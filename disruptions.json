@@ -2,6 +2,41 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "eeb845a0-af31-4628-bf5b-a39770621445",
+      "disruptionId": "42a5d651-2d91-4a82-ab57-f4d167ce15f8",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Dresden und Prag (Tschechien)",
+      "summary": "Aufgrund von Bergungsarbeiten nach einem Unfall ist die Strecke zwischen Bad Schandau und Děčín derzeit gesperrt. Dadurch kommt es zu Ausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle EC/RJ/NJ-Züge der Relation Berlin/Dresden - Tschechien fallen zwischen Dresden und Děčín aus. Einzelne Züge fallen ab Berlin aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><p>Zwischen Dresden und Děčín ist ein Busnotverkehr in Arbeit. Über die Kapazität und Fahrzeiten kann derzeit keine Aussage getroffen werden. Wir bitten Sie daher, wenn möglich, ihre Reise zwischen Berlin/Dresden und Tschechien auf die Mittags- oder Nachmittagsstunden des heutigen Tages zu verschieben.</p><p>Die Behebung der Störung soll vsl. bis in die späten Vormittagsstunden erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "31.05.2024",
+      "durationEnd": "31.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "31.05.2024 04:14",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "0f539a30-8411-4b6f-abc8-cb2ab5f833d2",
       "disruptionId": "d8c09a2b-c081-44b6-86b4-92cd6f36af1a",
       "author": "REGIO_BW",
