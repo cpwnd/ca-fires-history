@@ -113,6 +113,39 @@
       "topDisruption": false
     },
     {
+      "id": "d7f397fd-e773-4ff4-99c7-c08811224b15",
+      "disruptionId": "7b4d8a6a-aab0-412f-a110-9c99ebb4d5b4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Siegen und Frankfurt ",
+      "summary": "Aufgrund einer Oberleitungsstörung ist die Strecke zwischen Siegen und Frankfurt derzeit gesperrt. Dadurch kommt es zu Ausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Dortmund - Siegen - Frankfurt</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "31.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "31.05.2024 09:21",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
