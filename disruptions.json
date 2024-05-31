@@ -506,6 +506,74 @@
       "topDisruption": false
     },
     {
+      "id": "d5760338-abd7-4c5f-8e7e-6c77f356cc3c",
+      "disruptionId": "a7111ee8-5958-45da-beac-fbb3e081de7b",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetter"
+      },
+      "headline": "Hochwasserlage Südbayern ",
+      "summary": "Unwetterauswirkungen / Kein Zugbetrieb / Beeinträchtigungen",
+      "text": "<p><strong>Aufgrund von Hochwasser sind am Freitag, den 01. Juni 2024, zwischen Immenstadt und Kempten (Allgäu) und Kempten - Memmingen keine Zugfahrten möglich. </strong>Dauer: aktuell keine Prognose möglich!</p><p><strong>Kempten - Immenstadt</strong></p><ul><li>Die Linien RE76 und RE17 verkehren nur zwischen Oberstdorf und Immenstadt, sowie zwischen Kempten und Augsburg, bzw. München.</li><li>Die Linien RE70 und RE7 verkehren nur zwischen Lindau-Reutin und Immenstadt, sowie zwischen Kempten und Augsburg, bzw. München.</li><li>Die Linie RE 75 entfällt zwischen Oberstdorf und Kempten.</li></ul><p><strong>Kempten - Memmingen </strong></p><ul><li>Züge der Illertalbahn verkehren nur zwischen Ulm und Memmingen.</li><li>Die Züge der RE75 fallen zwischen Kempten und Ulm aus.</li><li>Die Züge der RS7 verkehren zwischen Memmingen und Ulm.</li></ul><p><strong>Immenstadt - Lindau </strong></p><ul><li>Aufgrund eines Hangrutsches ist zwischen Hergatz und Lindau aktuell nur ein eingleisiger Betrieb möglich. Hier kommt es aktuell zu Verspätungen von bis zu 20 Minuten.</li></ul><p><strong>Aktuell arbeiten wir daran, schnellstmöglich einen Schienenersatzverkehr für Sie einzurichten. Wir werden Sie informieren, sobald dieser den Betrieb aufnimmt.&nbsp;&nbsp;</strong></p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. Wir empfehlen Ihnen nach Möglichkeit Ihre Reise in den oben genannten Bereichen zu verschieben.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie unter&nbsp;www.bahn.de/ris&nbsp;</p>",
+      "durationBegin": "01.06.2024",
+      "durationEnd": "03.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 94",
+          "filterName": "RB 94",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 17",
+          "filterName": "RE 17",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 32",
+          "filterName": "RE 32",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 70",
+          "filterName": "RE 70",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 75",
+          "filterName": "RE 75",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 76",
+          "filterName": "RE 76",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 79",
+          "filterName": "RE 79",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "01.06.2024 00:24",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "1b294b60-4c1c-4f66-bb4d-8577ff5b19a0",
       "disruptionId": "f8f8d8a2-a44f-4713-a4b2-34d6728404eb",
       "author": "REGIO_BW",
