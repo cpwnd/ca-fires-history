@@ -86,6 +86,40 @@
       "topDisruption": false
     },
     {
+      "id": "3160d8e5-38a0-4462-b8fc-5e718d5e9102",
+      "disruptionId": "8485d67c-8317-40bc-9c39-0afe5304fe17",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Beeinträchtigung zwischen Frankfurt(M) und Aschaffenburg",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles im Stellwerk Großkrotzenburg kommt es in der Nacht von Samstag, 01.06.2024, ab 18 Uhr auf Sonntag, 02.06.2024, bis 06 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-, IC- und NJ-Züge werden zwischen Frankfurt(M) und Aschaffenburg umgeleitet. Die Züge verspäten sich um etwa 20 Minuten. Der Halt in Hanau Hbf muss entfallen.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.06.2024",
+      "durationEnd": "02.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "31.05.2024 18:12",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -328,6 +362,40 @@
       "topDisruption": false
     },
     {
+      "id": "dffc5465-ae66-477b-83ca-c51f411b60f9",
+      "disruptionId": "f1e63807-f7f0-408e-b4a5-43ef2e73e505",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Beeinträchtigung in Hanau",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles im Stellwerk Hanau kommt es bis Samstag, 01.06.2024, zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen.",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge zwischen Frankfurt (M) und Fulda bzw. Aschaffenburg werden umgeleitet und verspäten sich um etwa 20 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "29.05.2024",
+      "durationEnd": "01.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "31.05.2024 18:13",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "0ad79f2d-eca0-450a-b326-53248d997610",
       "disruptionId": "0893588b-d675-47d1-a4b7-14329343879a",
       "author": "FERNVERKEHR_AG",
@@ -361,40 +429,6 @@
       "topDisruption": false
     },
     {
-      "id": "dffc5465-ae66-477b-83ca-c51f411b60f9",
-      "disruptionId": "f1e63807-f7f0-408e-b4a5-43ef2e73e505",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Beeinträchtigung in Hanau",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles bei einem Stellwerk in Hanau kommt es bis Freitag, 31.05.2024, zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge zwischen Frankfurt (M) und Fulda bzw. Aschaffenburg werden umgeleitet und verspäten sich um etwa 20 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "29.05.2024",
-      "durationEnd": "31.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "30.05.2024 17:23",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "eb8605ff-11be-430e-aa89-960ee28e29a0",
       "disruptionId": "b27ea3a1-4ce0-4f6b-9e3f-7df61949bfc0",
       "author": "FERNVERKEHR_AG",
@@ -404,7 +438,7 @@
       },
       "headline": "Beeinträchtigungen in der Schweiz zwischen Rorschach und St. Gallen ",
       "summary": "Aufgrund eines Hangrutsches in Gleisnähe zwischen Rorschach und St. Gallen (Schweiz) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge werden umgeleitet, der Halt in St. Gallen entfällt.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ECE-Züge München - Lindau - Zürich</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Für Reisende mit dem Ziel St. Gallen ist zwischen Rorschach und St. Gallen ein Schienenersatzverkehr eingerichtet. Die Behebung der Störung soll vsl. bis 09.06.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ECE-Züge München - Lindau - Zürich</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Für Reisende mit dem Ziel St. Gallen ist zwischen Rorschach und St. Gallen ein Schienenersatzverkehr eingerichtet.</p><p>Die Behebung der Störung soll vsl. bis 09.06.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "20.05.2024",
       "images": [],
       "downloads": [],
@@ -423,7 +457,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "27.05.2024 11:06",
+      "lastModified": "31.05.2024 18:14",
       "expand": true,
       "topDisruption": false
     },
