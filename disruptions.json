@@ -748,15 +748,16 @@
         "category": "police_activity",
         "label": "Polizeieinsatz"
       },
-      "headline": "Stuttgart Hbf <->  Stuttgart Vaihingen: Massive Beeinträchtigung aufgrund Polizei Einsatz",
-      "summary": "Beeinträchtigungen auf allen S-Bahn Linien",
-      "text": "<p><strong>Derzeit ist der Stuttgarter Hauptbahnhof einschließlich der Stammstrecke Stuttgart Hbf Tief - S-Vaihingen für den Zugverkehr gesperrt. Grund ist eine polizeiliche Anordnung. Es kommt zu Beeinträchtigungen auf allen S-Bahn-Linien. Bitte informieren Sie sich vor Fahrtantritt über Ihre Verbindung in der elektronischen Fahrplanauskunft. Über die Dauer der Sperrung liegen noch keine Informationen vor.</strong></p>",
+      "headline": "Beendet: Stuttgart Hbf <->  Stuttgart Vaihingen: Massive Beeinträchtigung aufgrund Polizei Einsatz",
+      "summary": "Vorübergehend kommt es auf allen S-Bahn Linien noch zu Verspätungen",
+      "text": "<p><strong>Die Sperrung des Stuttgarter Hauptbahnhofs wegen einer Bombendrohung ist wieder aufgehoben. Bitte beachten Sie, dass es aufgrund des entstandenen Rückstaus noch einige Zeit dauern wird, bis alle S-Bahnen wieder planmäßig verkehren.</strong></p>",
       "durationBegin": "02.06.2024",
       "durationEnd": "02.06.2024",
       "images": [],
       "downloads": [],
       "links": [],
       "properties": [
+        "SBAHN",
         "REGIONAL"
       ],
       "states": [
@@ -764,12 +765,37 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Stuttgart",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "02.06.2024 00:44",
+      "lastModified": "02.06.2024 01:44",
       "expand": true,
       "topDisruption": false
     },
