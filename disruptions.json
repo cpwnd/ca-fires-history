@@ -738,6 +738,39 @@
       "topDisruption": false
     },
     {
+      "id": "b3fa3f6d-4095-426e-ad87-208920fe7efc",
+      "disruptionId": "8da591ba-64dc-42e3-8df7-5e111b15d8d8",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Stuttgart Hbf <->  Stuttgart Vaihingen: Massive Beeinträchtigung aufgrund Polizei Einsatz",
+      "summary": "Beeinträchtigungen auf allen S-Bahn Linien",
+      "text": "<p><strong>Derzeit ist der Stuttgarter Hauptbahnhof einschließlich der Stammstrecke Stuttgart Hbf Tief - S-Vaihingen für den Zugverkehr gesperrt. Grund ist eine polizeiliche Anordnung. Es kommt zu Beeinträchtigungen auf allen S-Bahn-Linien. Bitte informieren Sie sich vor Fahrtantritt über Ihre Verbindung in der elektronischen Fahrplanauskunft. Über die Dauer der Sperrung liegen noch keine Informationen vor.</strong></p>",
+      "durationBegin": "02.06.2024",
+      "durationEnd": "02.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "02.06.2024 00:44",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "da494258-13f1-4e4b-b4d8-e02a8ed52d86",
       "author": "REGIO_MITTE",
       "cause": {
