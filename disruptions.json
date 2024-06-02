@@ -647,6 +647,395 @@
       "topDisruption": false
     },
     {
+      "id": "1c471cf8-23b3-4fa1-ac4e-56473c92fc7f",
+      "disruptionId": "f0fa2820-fe2d-46af-94d8-8869c64fec87",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetter"
+      },
+      "headline": "Bayern",
+      "summary": "Unwetter: Witterungsbedingte Beeinträchtigungen",
+      "text": "<p>In Bayern kommt es zu massiven Einschränkungen und Ausfällen im Regionalverkehr durch die witterungsbedingten Auswirkungen mit vereinzelten Streckensperrungen.</p><p>Von Reisen wird aufgrund der derzeitigen Witterungslage abgeraten.</p><p>Bitte informieren Sie sich regelmäßig auf bahn.de oder im DB Navigator über Ihre Verbindung.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie unter&nbsp;www.bahn.de/ris&nbsp;</p>",
+      "durationBegin": "02.06.2024",
+      "durationEnd": "03.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 11",
+          "filterName": "RB 11 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 12",
+          "filterName": "RB 12 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 16",
+          "filterName": "RB 16",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 21",
+          "filterName": "RB 21 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 25",
+          "filterName": "RB 25",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 30",
+          "filterName": "RB 30 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 31",
+          "filterName": "RB 31 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 33",
+          "filterName": "RB 33",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 53",
+          "filterName": "RB 53",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 6",
+          "filterName": "RB 6",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 60",
+          "filterName": "RB 60",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 61",
+          "filterName": "RB 61 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 62",
+          "filterName": "RB 62 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 63",
+          "filterName": "RB 63",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 65",
+          "filterName": "RB 65",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 66",
+          "filterName": "RB 66",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 73",
+          "filterName": "RB 73",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 74",
+          "filterName": "RB 74",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 78",
+          "filterName": "RB 78",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 79",
+          "filterName": "RB 79",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 80",
+          "filterName": "RB 80",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 81",
+          "filterName": "RB 81 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 82",
+          "filterName": "RB 82 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 85",
+          "filterName": "RB 85",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 91",
+          "filterName": "RB 91 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 94",
+          "filterName": "RB 94",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB RE10",
+          "filterName": "RB RE10",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 10",
+          "filterName": "RE 10",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14",
+          "filterName": "RE 14",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 16",
+          "filterName": "RE 16",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 17",
+          "filterName": "RE 17",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 19",
+          "filterName": "RE 19",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 22",
+          "filterName": "RE 22",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 28",
+          "filterName": "RE 28",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 31",
+          "filterName": "RE 31",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 32",
+          "filterName": "RE 32",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 33",
+          "filterName": "RE 33",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 35",
+          "filterName": "RE 35",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 38",
+          "filterName": "RE 38",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 40",
+          "filterName": "RE 40",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 41",
+          "filterName": "RE 41",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 43",
+          "filterName": "RE 43",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 47",
+          "filterName": "RE 47",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 54",
+          "filterName": "RE 54",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 60",
+          "filterName": "RE 60",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 61",
+          "filterName": "RE 61",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 70",
+          "filterName": "RE 70",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 71",
+          "filterName": "RE 71",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 73",
+          "filterName": "RE 73",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 75",
+          "filterName": "RE 75",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 75",
+          "filterName": "RE 75",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 76",
+          "filterName": "RE 76",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 79",
+          "filterName": "RE 79",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE S4",
+          "filterName": "RE S4 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "02.06.2024 14:43",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "da494258-13f1-4e4b-b4d8-e02a8ed52d86",
       "author": "REGIO_MITTE",
       "cause": {
