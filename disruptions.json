@@ -64,40 +64,6 @@
   ],
   "disruptions": [
     {
-      "id": "67bfba13-7b7f-4083-8783-c269ad20e105",
-      "disruptionId": "794d27e8-be03-47d1-b28f-3c87f1c2955b",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Frankfurt/Main Flughafen und Siegburg/Bonn",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Frankfurt/Main Flughafen und Siegburg/Bonn kommt es derzeit zu einzelnen Umleitungen mit Verspätungen bis zu 80 Minuten im Fernverkehr der Deutschen Bahn. Die Halte in Limburg(Lahn) Süd, Montabaur und Siegburg/Bonn können entfallen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge über die Schnellfahrstrecke Frankfurt/Main - Frankfurt/Main Flughafen - Siegburg/Bonn - Köln</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden des 03.06.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "03.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "03.06.2024 11:23",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
