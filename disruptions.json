@@ -64,57 +64,6 @@
   ],
   "disruptions": [
     {
-      "id": "f8237fc9-fc0e-4665-a577-69d7d05fd72c",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Beeinträchtigung durch Vandalismus"
-      },
-      "headline": "Beeinträchtigung durch Vandalismus zwischen Ludwigshafen(Rh)Hbf und Schifferstadt",
-      "summary": "Beeintr&auml;chtigung durch Vandalismus<strong> zwischen Ludwigshafen(Rh)Hbf und Schifferstadt.</strong><br />\n<br />\nIn der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\n&nbsp;",
-      "text": "<p><u><strong>Betroffene Linien</strong></u><u><strong>:</strong></u></p>\n\n<p><strong>S1 Homburg(Saar) &ndash; Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Osterburken:&nbsp;</strong>Die Z&uuml;ge enden/beginnen jeweils in&nbsp;Heidelberg Hbf und in Neustadt(Weinstr)Hbf</p>\n\n<p><strong>S2 Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Mosbach (Beginnen und enden in Ludwigshafen und Neustadt(Weinstr)Hbf:&nbsp;</strong>Die Z&uuml;ge enden/beginnen jeweils in&nbsp;Heidelberg Hbf und in Neustadt(Weinstr)Hbf</p>\n\n<p><strong>S3 Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Karlsruhe:</strong>&nbsp;Die Z&uuml;ge verkehren planm&auml;&szlig;ig.</p>\n\n<p><strong>S4 Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Bruchsal:</strong>&nbsp;Die Z&uuml;ge verkehren planm&auml;&szlig;ig.</p>\n\n<p><strong>RE4 (Frankfurt/Main) &ndash; Mainz &ndash; Ludwigshafen &ndash; Karlsruhe:&nbsp;</strong>Die Z&uuml;ge aus Richtung Mainz enden/beginnen in Worms Hbf.</p>\n\n<p><strong>RE1/</strong><strong>RE11</strong>&nbsp;<strong>Koblenz / Luxembourg &ndash; Trier &ndash; Saarbr&uuml;cken &ndash; Kaiserslautern &ndash; Mannheim:<em>&nbsp;</em></strong>Die Z&uuml;ge enden/beginnen in Neustadt(Weinstr)Hbf.</p>\n\n<p><strong>Wir Empfehlen: Nutzen Sie die S3/S4 bis Schifferstadt, dort haben wir einen Ersatzverkehr mit Bussen zwischen Schifferstadt und Neustadt(Weinstr)Hbf f&uuml;r Sie eingerichtet. ​​​​</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB_Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "02.06.2024 14:01",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -702,6 +651,57 @@
       "topDisruption": false
     },
     {
+      "id": "da494258-13f1-4e4b-b4d8-e02a8ed52d86",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigungen im Raum Ludwigshafen(Rhein) Hbf ",
+      "summary": "Ab Dienstag, den 28.05.2024 kommt es weiterhin zu Einschr&auml;nkungen im Raum Ludwigshafen(Rhein) Hbf. Grund: Vandalismussch&auml;den und weiterhin erh&ouml;hte Erkrankung von Stellwerkspersonal",
+      "text": "<p><u><strong>Betroffene Linien</strong></u><u><strong>:</strong></u></p>\n\n<p><strong>S1 Homburg(Saar) &ndash; Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Osterburken </strong>(Die Z&uuml;ge enden/beginnen jeweils in Neustadt und Heidelberg)</p>\n\n<p><strong>S2 Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Mosbach</strong>&nbsp;(Regelbetrieb)</p>\n\n<p><strong>S3 Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Karlsruhe&nbsp;</strong>(Regelbetrieb)</p>\n\n<p><strong>S33 Germersheim &ndash; Graben-Neudorf &ndash; Bruchsal</strong> (Regelbetrieb)</p>\n\n<p><strong>S4 Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Bruchsal </strong>(entf&auml;llt zwischen Heidelberg Hbf und Germersheim)</p>\n\n<p><strong>S44&nbsp;<em>(Karlsruhe &ndash; W&ouml;rth &ndash; Germersheim) (Homburg / Kaiserslautern / Neustadt)</em> &ndash; Ludwigshafen &ndash; LU BASF Nord <em>(BASF-Werksbahn) </em>(</strong>entf&auml;llt, Ersatzverkehr zwischen Ludwigshafen Hbf und Ludwigshafen BASF ist eingerichtet.)</p>\n\n<p><strong>S6 Bensheim &ndash; Mannheim &ndash; Frankenthal &ndash; Worms &ndash; Mainz&nbsp;</strong>(Z&uuml;ge mit Start-/Zielbahnhof Mannheim Hbf enden/beginnen in Worms. Z&uuml;ge bis Bensheim verkehren auf dem Regelweg.)</p>\n\n<p><strong>RE1/RE11 &nbsp; Koblenz / Luxembourg &ndash; Trier &ndash; Saarbr&uuml;cken &ndash; Kaiserslautern &ndash; Mannheim&nbsp;</strong>(Regelbetrieb)</p>\n\n<p><strong>RE4 (Frankfurt/Main) &ndash; Mainz &ndash; Ludwigshafen &ndash; Karlsruhe</strong> (Die Z&uuml;ge enden/beginnen jeweils in Germersheim (ggf. Speyer) und Worms &ndash; Versp&auml;tungen und weitere Ausf&auml;lle m&ouml;glich.)</p>\n\n<p><strong>RE14 Frankfurt/Main &ndash; Mainz &ndash; Ludwigshafen &ndash; Mannheim </strong>(Regelbetrieb vorgesehen &ndash; Versp&auml;tungen und Ausf&auml;lle m&ouml;glich)</p>\n\n<p>Es kann zu weiteren Ausf&auml;llen im gesamten Netz der S-Bahn Rhein-Neckar sowie im Regionalverkehr im Gro&szlig;raum Ludwigshafen kommen.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "27.05.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.06.2024 02:53",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "1c471cf8-23b3-4fa1-ac4e-56473c92fc7f",
       "disruptionId": "f0fa2820-fe2d-46af-94d8-8869c64fec87",
       "author": "REGIO_BY",
@@ -1091,57 +1091,6 @@
       "topDisruption": false
     },
     {
-      "id": "da494258-13f1-4e4b-b4d8-e02a8ed52d86",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Beeinträchtigungen im Raum Ludwigshafen(Rhein) Hbf ",
-      "summary": "Ab Dienstag, den 28.05.2024 kommt es weiterhin zu Einschr&auml;nkungen im Raum Ludwigshafen(Rhein) Hbf. Grund: erh&ouml;hte Erkrankung von Stellwerkspersonal",
-      "text": "<p><u><strong>Betroffene Linien</strong></u><u><strong>:</strong></u></p>\n\n<p><strong>S1 Homburg(Saar) &ndash; Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Osterburken </strong>(Die Z&uuml;ge enden/beginnen jeweils in Neustadt und Heidelberg)</p>\n\n<p><strong>S2 Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Mosbach</strong>&nbsp;(Regelbetrieb)</p>\n\n<p><strong>S3 Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Karlsruhe&nbsp;</strong>(Regelbetrieb)</p>\n\n<p><strong>S33 Germersheim &ndash; Graben-Neudorf &ndash; Bruchsal</strong> (Regelbetrieb)</p>\n\n<p><strong>S4 Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Bruchsal </strong>(entf&auml;llt zwischen Heidelberg Hbf und Germersheim)</p>\n\n<p><strong>S44&nbsp;<em>(Karlsruhe &ndash; W&ouml;rth &ndash; Germersheim) (Homburg / Kaiserslautern / Neustadt)</em> &ndash; Ludwigshafen &ndash; LU BASF Nord <em>(BASF-Werksbahn) </em>(</strong>Z&uuml;ge mit Start-/Zielbahnhof Ludwigshafen Hbf Richtung BASF entfallen.)</p>\n\n<p><strong>S6 Bensheim &ndash; Mannheim &ndash; Frankenthal &ndash; Worms &ndash; Mainz&nbsp;</strong>(Z&uuml;ge mit Start-/Zielbahnhof Mannheim Hbf enden/beginnen in Worms. Z&uuml;ge bis Bensheim verkehren auf dem Regelweg.)</p>\n\n<p><strong>RE1/RE11 &nbsp; Koblenz / Luxembourg &ndash; Trier &ndash; Saarbr&uuml;cken &ndash; Kaiserslautern &ndash; Mannheim&nbsp;</strong>(Regelbetrieb)</p>\n\n<p><strong>RE4 (Frankfurt/Main) &ndash; Mainz &ndash; Ludwigshafen &ndash; Karlsruhe</strong> (Regelbetrieb)</p>\n\n<p><strong>RE14 Frankfurt/Main &ndash; Mainz &ndash; Ludwigshafen &ndash; Mannheim </strong>(Regelbetrieb)</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "durationBegin": "27.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "28.05.2024 14:08",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "cf1cf9e3-7f7d-4e9e-bf71-f5389398126d",
       "disruptionId": "e4679e0d-fa62-4e71-b15b-a7f2b172eb2b",
       "author": "S_BAHN_S",
@@ -1151,13 +1100,13 @@
       },
       "headline": "Unwetter",
       "summary": ".",
-      "text": "<p><strong>Witterungsbedingte Beeinträchtigung auf der Linie S2</strong></p><p>Die Strecke zwischen Waiblingen und Schorndorf wurde für den Zugverkehr gesperrt.</p><p>Die Linie S2 verkehrt nur zwischen Waiblingen und Filderstadt.</p><p><strong>Unwetterschäden: </strong></p><p><strong>DB Fernverkehr kann München von Norden und Westen nicht anfahren.</strong></p><p><strong>Auch der Nahverkehr ist in Bayern stark beeinträchtigt. Von Reisen nach Süddeutschland wird abgeraten.</strong></p><p>Aufgrund von Unwetterschäden kommt es in Süddeutschland zu Zugausfällen im Fernverkehr, auch der Nahverkehr ist in Bayern stark beeinträchtigt.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<p><strong>Witterungsbedingte Beeinträchtigung auf der Linie S2</strong></p><p>Die Strecke zwischen Waiblingen und Schorndorf wurde für den Zugverkehr gesperrt.</p><p>Die Linie S2 verkehrt nur zwischen Waiblingen und Filderstadt.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p><p><strong>Zusätzlicher Hinweis: </strong></p><p>Infolge von Unwetterschäden, kann DB Fernverkehr München von Norden und Westen nicht anfahren.</p><p>Auch der Nahverkehr ist in Bayern stark beeinträchtigt. Von Reisen nach Süddeutschland wird abgeraten.</p><p>Aufgrund von Unwetterschäden kommt es in Süddeutschland zu Zugausfällen im Fernverkehr, auch der Nahverkehr ist in Bayern stark beeinträchtigt.</p>",
       "durationBegin": "03.06.2024",
       "durationEnd": "03.06.2024",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-06-03/b17b2573-a8c8-40a0-a8ba-3af6d93b3fedreisendenkarte_20240603-011534.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-06-03/b17b2573-a8c8-40a0-a8ba-3af6d93b3fedreisendenkarte_20240603-011534.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-06-03/8b92fbb7-c5b9-4622-a8fb-c203ed7f4b52reisendenkarte_20240603-011534.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-06-03/8b92fbb7-c5b9-4622-a8fb-c203ed7f4b52reisendenkarte_20240603-011534.png",
           "info": "",
           "alt": "Reisendenkarte 03.06.2024 01:15:34",
           "openInNewTab": true
@@ -1179,7 +1128,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "03.06.2024 01:31",
+      "lastModified": "03.06.2024 02:19",
       "expand": true,
       "topDisruption": false
     },
@@ -1720,45 +1669,6 @@
       ],
       "lastModified": "31.05.2024 16:40",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "83ec34d7-56d9-49c1-b967-cfc4816781b9",
-      "author": "REGIO_HE",
-      "cause": {
-        "category": "additional_service",
-        "label": "Service"
-      },
-      "headline": "Änderungen im Fahrplan zum Hessentag in Fritzlar",
-      "summary": "Zum Hessentag in Fritzlar kommt es zu umfangreichen &Auml;nderungen auf einzelnen Linien der Kurhessenbahn.<br />\n<br />\n<u><strong>Betroffene Linien:</strong></u><br />\n<br />\n<strong>RB38:&nbsp;</strong><br />\n<em>Kassel Hbf - Kassel-Wilhelmsh&ouml;he - Ederm&uuml;nde-Grifte - Wabern(Bz Kassel) - Borken(Hess) - Zimmersrode - Treysa</em><br />\n<br />\n<strong>RE39 / RB39:&nbsp;</strong><br />\n<em>Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</em><br />\n&nbsp;",
-      "text": "<p><br />\n<u><strong>Es kommt zu folgenden &Auml;nderungen:</strong></u></p>\n\n<p><strong>► RB38:</strong><br />\nWir haben f&uuml;r Sie zus&auml;tzliche Zugfahrten zwischen <em>Wabern(Bz Kassel) - Treysa - Kirchhain(Bz Kassel)</em> eingerichtet.</p>\n\n<p><strong>► RE39 / RB39:</strong><br />\nEs verkehren mehr Zugfahrten&nbsp;mit zus&auml;tzlich erh&ouml;ter Sitzplatzkapazit&auml;t&nbsp;f&uuml;r Sie zwischen <em>Kassel - Wabern(Bz Kassel) - Fritzlar</em>.<br />\n<br />\nAus Sicherheitsgr&uuml;nden k&ouml;nnen die Z&uuml;ge nicht in <em>Zennern </em>halten.<br />\nZwischen <em>Fritzlar -&nbsp;Bad Wildungen </em>ist kein Zugverkehr m&ouml;glich.<br />\n&nbsp;</p>\n\n<p><u><strong>Unsere Empfehlungen:</strong></u></p>\n\n<p><strong>► Zwischen Bad Wildungen und Fritzlar:</strong><br />\nNutzen Sie das erweiterte Angebot der&nbsp;<u>Buslinie 500</u>.</p>\n\n<p><strong>► Von/nach Zennern:</strong><br />\nNutzen Sie die <u>Buslinie 400 / 450</u> zwischen den Haltestellen <em>Abzw. Bahnhof, Fritzlar - Zennern Bahnhof, Wabern - Bahnhof, Wabern</em>.<br />\n<br />\n&nbsp;</p>\n\n<p><em><strong>Die Fahrplan&auml;nderungen sind in die Online - Fahrplanausk&uuml;nfte eingearbeitet.</strong></em></p>\n\n<p>&nbsp;</p>\n\n<p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt &uuml;ber die aktuelle Betriebslage unter bahn.de oder in der DB Navigator-App. Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen und Z&uuml;gen.</p>\n\n<p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:<br />\n069 244 457 10</p>\n",
-      "durationBegin": "24.05.2024",
-      "durationEnd": "02.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.nvv.de/hessentag",
-          "label": "Weitere Informationen auf der Seite des Nordhessischen Verkehrsverbundes (NVV)",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "21.05.2024 16:45",
-      "expand": false,
       "topDisruption": false
     },
     {
