@@ -978,6 +978,47 @@
       "topDisruption": false
     },
     {
+      "id": "cf1cf9e3-7f7d-4e9e-bf71-f5389398126d",
+      "disruptionId": "e4679e0d-fa62-4e71-b15b-a7f2b172eb2b",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Unwetternachwirkungen",
+      "summary": ".",
+      "text": "<p><strong>Unwetternachwirkungen auf der Linie S2 zwischen Schorndorf und Waiblingen</strong></p><ul><li>Die Strecke zwischen Waiblingen und Schorndorf wurde nach einem durch Hochwasser ausgelösten Erdrutsch bei Winterbach wieder für den Zugverkehr freigegeben.</li><li>Die Linie S2 verkehrt wegen einer noch witterungsbedingten Langsamfahrstelle bis auf weiteres nur im 30-Minuten-Takt.</li></ul><p>Bitte berücksichtigen Sie dies bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Beeinträchtigung mehr Reisezeit ein.</p><p><strong>Zusätzlicher Hinweis:</strong></p><p>Infolge von Unwetterschäden, kann DB Fernverkehr München von Norden und Westen nicht anfahren.</p><p>Auch der Nahverkehr ist in Bayern stark beeinträchtigt. Von Reisen nach Süddeutschland wird abgeraten.</p><p>Aufgrund von Unwetterschäden kommt es in Süddeutschland zu Zugausfällen im Fernverkehr, auch der Nahverkehr ist in Bayern stark beeinträchtigt.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "03.06.2024",
+      "durationEnd": "04.06.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-06-03/9206dba9-f364-43ba-9814-e13946a95aa0reisendenkarte_20240603-011534.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-06-03/9206dba9-f364-43ba-9814-e13946a95aa0reisendenkarte_20240603-011534.png",
+          "info": "",
+          "alt": "Reisendenkarte 03.06.2024 01:15:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.06.2024 23:08",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "f27659eb-4d1a-416d-a86e-babc7a1c536b",
       "disruptionId": "957bc762-4d38-43d6-9204-45f9c3bb31ed",
       "author": "REGIO_BW",
@@ -1007,48 +1048,6 @@
         }
       ],
       "lastModified": "03.06.2024 19:07",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "cf1cf9e3-7f7d-4e9e-bf71-f5389398126d",
-      "disruptionId": "e4679e0d-fa62-4e71-b15b-a7f2b172eb2b",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetterauswirkungen"
-      },
-      "headline": "Unwetterschäden",
-      "summary": ".",
-      "text": "<p><strong>Nachwirkungen</strong> <strong>wegen Unwetter auf der Linie S2 zwischen Schorndorf und Waiblingen</strong></p><ul><li>Die Strecke zwischen Waiblingen und Schorndorf, wurde nach einem durch Hochwasser ausgelösten Erdrutsch bei Winterbach wieder für den Zugverkehr freigegeben.</li><li>Die Linie S2 verkehrt wegen einer noch witterungsbedingten Langsamfahrstelle bis auf weiteres nur im 30-Minuten-Takt.</li><li> Die S-Bahnen der Linie S2 können in Grunbach wieder regulär halten. </li></ul><p>Bitte berücksichtigen Sie dies bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Beeinträchtigung mehr Reisezeit ein.</p><p><strong>Zusätzlicher Hinweis:</strong></p><p>Infolge von Unwetterschäden, kann DB Fernverkehr München von Norden und Westen nicht anfahren.</p><p>Auch der Nahverkehr ist in Bayern stark beeinträchtigt. Von Reisen nach Süddeutschland wird abgeraten.</p><p>Aufgrund von Unwetterschäden kommt es in Süddeutschland zu Zugausfällen im Fernverkehr, auch der Nahverkehr ist in Bayern stark beeinträchtigt.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "03.06.2024",
-      "durationEnd": "03.06.2024",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-06-03/6fbc80ef-ae7d-44d2-9641-92395c058496reisendenkarte_20240603-011534.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-06-03/6fbc80ef-ae7d-44d2-9641-92395c058496reisendenkarte_20240603-011534.png",
-          "info": "",
-          "alt": "Reisendenkarte 03.06.2024 01:15:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "03.06.2024 18:20",
       "expand": true,
       "topDisruption": false
     },
