@@ -978,6 +978,39 @@
       "topDisruption": false
     },
     {
+      "id": "f27659eb-4d1a-416d-a86e-babc7a1c536b",
+      "disruptionId": "957bc762-4d38-43d6-9204-45f9c3bb31ed",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Unwetterschäden: Nahverkehr in Baden-Württemberg beeinträchtigt",
+      "summary": "Aufgrund von Unwetterschäden kommt es in Baden-Württemberg zu Zugausfällen.",
+      "text": "<p><strong>Es kommt aktuell zu Ausfällen auf folgenden Strecken: </strong></p><p><strong>IRE3 / RS21 / RE5</strong> (Ulm - Laupheim West) Hochwasser beeinträchtigt den Bahnverkehr zwischen Erbach(Württ) und Laupheim West. Die Strecke ist momentan nur eingeschränkt befahrbar, es kann zu Verspätungen und evt. auch zu einzelnen Zugausfällen kommen. Busse können den Bahnhof Laupheim West derzeit nicht anfahren, ein Umstieg auf Züge nach Laupheim Stadt ist möglich.</p><p><strong>RE5</strong> (Stuttgart - Ulm - Friedrichshafen Stadt): Aufgrund von Unwetterauswirkungen ist die Strecke leider zwischen Uhingen und Göppingen und zwischen Eislingen(Fils) und Süßen gesperrt.&nbsp;Ersatzverkehr mit Bus kann leider nicht eingerichtet werden. Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</p><p><strong>RB26 / RB27</strong> (Offenburg - Freiburg(Breisgau): Die Unterführung in Teningen - Mundingen ist derzeit überflutet. Bis zur Behebung des Problems, dürfen keine Züge mehr am Haltepunkt Teningen - Mundingen halten. Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</p><p><strong>Zusätzlicher Hinweis:</strong></p><p>Infolge von Unwetterschäden, kann DB Fernverkehr München von Norden und Westen nicht anfahren.</p><p>Auch der Nahverkehr ist in Bayern stark beeinträchtigt. Von Reisen nach Süddeutschland wird abgeraten.</p><p>Aufgrund von Unwetterschäden kommt es in Süddeutschland zu Zugausfällen im Fernverkehr, auch der Nahverkehr ist in Bayern stark beeinträchtigt.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.<strong>﻿</strong></p>",
+      "durationBegin": "03.06.2024",
+      "durationEnd": "03.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.06.2024 08:42",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "cf1cf9e3-7f7d-4e9e-bf71-f5389398126d",
       "disruptionId": "e4679e0d-fa62-4e71-b15b-a7f2b172eb2b",
       "author": "S_BAHN_S",
@@ -1016,39 +1049,6 @@
         }
       ],
       "lastModified": "03.06.2024 07:32",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "f27659eb-4d1a-416d-a86e-babc7a1c536b",
-      "disruptionId": "957bc762-4d38-43d6-9204-45f9c3bb31ed",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetterauswirkungen"
-      },
-      "headline": "Unwetterschäden: Nahverkehr in Baden-Württemberg beeinträchtigt",
-      "summary": "Aufgrund von Unwetterschäden kommt es in Baden-Württemberg zu Zugausfällen.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>IRE 3</strong> (Ulm - Lindau-Reutin)</li><li><strong>RE 5</strong> (Stuttgart - Friedrichshafen Stadt)</li><li><strong>RS21</strong> (Ulm - Biberach(Riß) Süd)</li><li><strong>RB 26/ 27</strong> (Offenburg - Freiburg(Breisgau)</li><li><strong>RB 83</strong> (Schwäbsich Hall-Hessental - Heilbronn)</li></ul><p><strong>Zusätzlicher Hinweis:</strong></p><p>Infolge von Unwetterschäden, kann DB Fernverkehr München von Norden und Westen nicht anfahren.</p><p>Auch der Nahverkehr ist in Bayern stark beeinträchtigt. Von Reisen nach Süddeutschland wird abgeraten.</p><p>Aufgrund von Unwetterschäden kommt es in Süddeutschland zu Zugausfällen im Fernverkehr, auch der Nahverkehr ist in Bayern stark beeinträchtigt.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.<strong>﻿</strong></p>",
-      "durationBegin": "03.06.2024",
-      "durationEnd": "03.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "03.06.2024 07:22",
       "expand": true,
       "topDisruption": false
     },
@@ -1304,6 +1304,38 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "425f6527-c985-463a-b312-31d9b6a09c99",
+      "disruptionId": "a05e3923-9ea2-42af-b2fa-1da9c59c12bd",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Beeinträchtigungen zwischen Schwäbisch Hall-Hessental und Schwäbisch Hall",
+      "summary": "Die Strecke ist zwischen Schwäbisch Hall-Hessental und Schwäbisch Hall gesperrt. Grund: Witterungsbedingte Einflüsse. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Ein Ersatzverkehr kann leider nicht eingerichtet werden. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RB83 / RE80: Heilbronn - Crailsheim</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.<strong>﻿</strong></p>",
+      "durationBegin": "03.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.06.2024 08:41",
+      "expand": true,
       "topDisruption": false
     },
     {
