@@ -64,6 +64,39 @@
   ],
   "disruptions": [
     {
+      "id": "5d09ffc8-3de3-4f4e-a768-abc87547032e",
+      "disruptionId": "0dbb7f68-dd58-4efa-8794-e6bb18b0b3fb",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Hagenow Land und Schwerin",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hagenow Land und Schwerin  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätung von etwa 30 Minuten.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und IC-Züge auf dem Abschnitt zwischen Hamburg und Schwerin.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Nachmittagsstunden andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.06.2024 10:27",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
