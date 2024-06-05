@@ -11,7 +11,7 @@
       },
       "headline": "Nach Abzug des Tiefdruckgebietes Radha noch Beeinträchtigungen in Bayern",
       "summary": "Einige Strecken in Bayern aufgrund Unwetterschäden weiter nicht befahrbar. Es kommt zu Zugausfällen, Haltausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die Strecke Nürnberg - Donauwörth - Augsburg - München ist zwischen Donauwörth und Augsburg gesperrt. ICE-Züge zwischen Nürnberg und München mit planmäßigen Halt in Donauwörth und Augsburg werden in beiden Fahrtrichtungen umgeleitet. Die Halte Donauwörth, Augsburg Hbf und München-Pasing entfallen. Die IC-Züge 2082 und 2083 fallen aus.</li><li>Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Die ECE-Züge München - Zürich fallen in beiden Fahrtrichtungen zwischen München und Lindau aus.</li><li>Die Strecke Ulm - Augsburg ist nur eingeschränkt befahrbar. Es kommt zu Teilausfällen zwischen Stuttgart und München. Verbleibende Züge verspäten sich im Streckenabschnitt um zusätzlich etwa 45 Minuten.</li><li>Die Strecke Ulm - Memmingen - Kempten (- Oberstdorf) ist gesperrt. Die IC-Züge 2084 und 2085 fallen aus. Die IC-Züge 2012 und IC 2013 verkehren nur zwischen Dortmund und Mannheim.</li><li>Die Strecke Nürnberg - Würzburg ist gesperrt. Die ICE-Züge werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 25 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die Strecke Nürnberg - Donauwörth - Augsburg - München ist zwischen Donauwörth und Augsburg gesperrt. ICE-Züge zwischen Nürnberg und München mit planmäßigen Halt in Donauwörth und Augsburg werden in beiden Fahrtrichtungen umgeleitet. Die Halte Donauwörth, Augsburg Hbf und München-Pasing entfallen. Die IC-Züge 2082 und 2083 fallen aus.</li><li>Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Die ECE-Züge München - Zürich fallen in beiden Fahrtrichtungen zwischen München und Lindau aus.</li><li>Die Strecke Ulm - Augsburg ist nur eingeschränkt befahrbar. Die Züge verspäten sich im Streckenabschnitt um zusätzlich etwa 45 Minuten.</li><li>Die Strecke Ulm - Memmingen - Kempten (- Oberstdorf) ist gesperrt. Die IC-Züge 2084 und 2085 fallen aus. Die IC-Züge 2012 und IC 2013 verkehren nur zwischen Dortmund und Mannheim.</li><li>Die Strecke Nürnberg - Würzburg ist gesperrt. Die ICE-Züge werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 25 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "05.06.2024",
       "images": [],
       "downloads": [],
@@ -30,7 +30,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "05.06.2024 09:55",
+      "lastModified": "05.06.2024 12:32",
       "expand": true,
       "topDisruption": false
     },
@@ -498,6 +498,395 @@
         }
       ],
       "lastModified": "04.06.2024 17:26",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "1c471cf8-23b3-4fa1-ac4e-56473c92fc7f",
+      "disruptionId": "f0fa2820-fe2d-46af-94d8-8869c64fec87",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetter"
+      },
+      "headline": "Bayern",
+      "summary": "Unwetterschäden: Witterungsbedingte Beeinträchtigungen",
+      "text": "<p>In Bayern kommt es zu massiven Einschränkungen und Ausfällen im Regionalverkehr durch die witterungsbedingten Auswirkungen mit vereinzelten Streckensperrungen.</p><p>Von Reisen wird aufgrund der derzeitigen Witterungslage abgeraten.</p><p>Bitte informieren Sie sich regelmäßig auf bahn.de oder im DB Navigator über Ihre Verbindung.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie unter&nbsp;www.bahn.de/ris&nbsp;</p>",
+      "durationBegin": "02.06.2024",
+      "durationEnd": "06.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 11",
+          "filterName": "RB 11 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 12",
+          "filterName": "RB 12 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 16",
+          "filterName": "RB 16",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 21",
+          "filterName": "RB 21 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 25",
+          "filterName": "RB 25",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 30",
+          "filterName": "RB 30 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 31",
+          "filterName": "RB 31 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 33",
+          "filterName": "RB 33",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 53",
+          "filterName": "RB 53",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 6",
+          "filterName": "RB 6",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 60",
+          "filterName": "RB 60",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 61",
+          "filterName": "RB 61 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 62",
+          "filterName": "RB 62 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 63",
+          "filterName": "RB 63",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 65",
+          "filterName": "RB 65",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 66",
+          "filterName": "RB 66",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 73",
+          "filterName": "RB 73",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 74",
+          "filterName": "RB 74",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 78",
+          "filterName": "RB 78",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 79",
+          "filterName": "RB 79",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 80",
+          "filterName": "RB 80",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 81",
+          "filterName": "RB 81 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 82",
+          "filterName": "RB 82 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 85",
+          "filterName": "RB 85",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 91",
+          "filterName": "RB 91 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 94",
+          "filterName": "RB 94",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB RE10",
+          "filterName": "RB RE10",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 10",
+          "filterName": "RE 10",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14",
+          "filterName": "RE 14",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 16",
+          "filterName": "RE 16",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 17",
+          "filterName": "RE 17",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 19",
+          "filterName": "RE 19",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 22",
+          "filterName": "RE 22",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 28",
+          "filterName": "RE 28",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 31",
+          "filterName": "RE 31",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 32",
+          "filterName": "RE 32",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 33",
+          "filterName": "RE 33",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 35",
+          "filterName": "RE 35",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 38",
+          "filterName": "RE 38",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 40",
+          "filterName": "RE 40",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 41",
+          "filterName": "RE 41",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 43",
+          "filterName": "RE 43",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 47",
+          "filterName": "RE 47",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 54",
+          "filterName": "RE 54",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 60",
+          "filterName": "RE 60",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 61",
+          "filterName": "RE 61",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 70",
+          "filterName": "RE 70",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 71",
+          "filterName": "RE 71",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 73",
+          "filterName": "RE 73",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 75",
+          "filterName": "RE 75",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 75",
+          "filterName": "RE 75",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 76",
+          "filterName": "RE 76",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 79",
+          "filterName": "RE 79",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE S4",
+          "filterName": "RE S4 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.06.2024 15:49",
       "expand": true,
       "topDisruption": false
     },
