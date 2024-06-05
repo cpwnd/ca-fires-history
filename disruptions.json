@@ -11,7 +11,7 @@
       },
       "headline": "Nach Abzug des Tiefdruckgebietes Radha noch Beeinträchtigungen in Bayern",
       "summary": "Einige Strecken in Bayern aufgrund Unwetterschäden weiter nicht befahrbar. Es kommt zu Zugausfällen, Haltausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Die ECE-Züge München - Zürich fallen in beiden Fahrtrichtungen zwischen München und Lindau aus.</li><li>Die Strecke Nürnberg - Würzburg ist gesperrt. Die ICE-Züge werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 25 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Die ECE-Züge München - Zürich fallen in beiden Fahrtrichtungen zwischen München und St. Margrethen aus.</li><li>Die Strecke Nürnberg - Würzburg ist gesperrt. Die ICE-Züge werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 25 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "05.06.2024",
       "images": [],
       "downloads": [],
@@ -30,7 +30,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "05.06.2024 16:12",
+      "lastModified": "05.06.2024 17:12",
       "expand": true,
       "topDisruption": false
     },
@@ -1144,6 +1144,43 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "3fe74590-91b6-49ca-a3e0-98b3ce1fd95a",
+      "disruptionId": "95868a42-de97-4f45-9bea-a51266009bc3",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Stellwerksstörung Metzingen",
+      "summary": "Ein defektes Stellwerk im Raum Metzingen(Württ) beeinträchtigt den Zugverkehr. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Genaue Informationen zur Dauer der Störung liegen leider noch nicht vor. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>IRE6: Stuttgart - Tübingen - Aulendorf /Rottenburg(Neckar)</li><li>RB63: Bad Urach - Herrenberg<strong>&nbsp;﻿</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "05.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "IRE 6",
+          "filterName": "IRE 6",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 63",
+          "filterName": "RB 63",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.06.2024 17:19",
+      "expand": true,
       "topDisruption": false
     },
     {
