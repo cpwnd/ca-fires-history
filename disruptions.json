@@ -2,6 +2,39 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "f31ce0a8-c82d-4101-928d-deccacba3701",
+      "disruptionId": "80c2a631-5bb0-42ba-a07e-e4e6eb8922fd",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Nach Abzug des Tiefdruckgebietes Radha noch Beeinträchtigungen in Bayern",
+      "summary": "Einige Strecken in Bayern aufgrund Unwetterschäden weiter nicht befahrbar. Es kommt zu Zugausfällen, Haltausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die Strecke Stuttgart - Ulm - Augsburg - München ist noch zwischen Ulm und Augsburg gesperrt. In den Morgenstunden am heutigen Mittwoch nimmt der Fernverkehr den Verkehr wieder auf.</li><li>Die Strecke Nürnberg - Donauwörth - Augsburg - München ist zwischen Donauwörth und Augsburg gesperrt. ICE-Züge zwischen Nürnberg und München mit planmäßigen Halt in Donauwörth und Augsburg werden in beiden Fahrtrichtungen umgeleitet. Die Halte Donauwörth, Augsburg Hbf und München-Pasing entfallen. Die IC-Züge 2082 und 2083 fallen aus.</li><li>Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Die ECE-Züge München - Zürich fallen in beiden Fahrtrichtungen zwischen München und Lindau aus.</li><li>Die Strecke Ulm - Memmingen - Kempten (- Oberstdorf) ist gesperrt. Die IC-Züge 2084 und 2085 fallen aus. Die IC-Züge 2012 und IC 2013 verkehren nur zwischen Dortmund und Mannheim.</li><li>Die Strecke Nürnberg - Würzburg ist gesperrt. Die ICE-Züge werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 25 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.06.2024 02:17",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "7c31d890-616e-4c08-aa33-e37a124f5e5d",
       "author": "REGIO_NI_HB",
       "cause": {
@@ -252,8 +285,8 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Beeinträchtigungen zwischen Hamburg und Hannover",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Celle und Uelzen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 40 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-, IC- und NJ-Züge auf dem Abschnitt zwischen Hannover und Hamburg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Celle und Uelzen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge zwischen Hamburg und Hannover mit planmäßigen Halt in Lüneburg, Uelzen und Celle verspäten sich in beiden Fahrtrichtungen um etwa 20 Minuten.</li><li>Alle ICE-Züge zwischen Hamburg und Hannover ohne planmäßigen Zwischenhalt werden umgeleitet und verspäten sich um etwa 30 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "30.05.2024",
       "images": [],
       "downloads": [],
@@ -272,7 +305,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "04.06.2024 08:37",
+      "lastModified": "05.06.2024 02:15",
       "expand": true,
       "topDisruption": false
     },
