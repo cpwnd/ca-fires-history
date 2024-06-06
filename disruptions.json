@@ -2,50 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "bd278516-b50a-432c-8203-225be82c2cdf",
-      "disruptionId": "81e067f5-a682-424a-861b-7593f71f499a",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen zwischen Köln / Bonn und Koblenz / Frankfurt(M)",
-      "summary": "Aufgrund mehrerer Störungen zwischen Köln bzw. Bonn und Frankfurt(M) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. \n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Köln und Frankfurt(M) ohne weiteren Halt werden umgeleitet und verspäten sich um zusätzlich etwa <strong>90 Minuten</strong>.</li><li>ICE-Züge Köln - Siegburg/Bonn - Montabaur - Limburg Süd - Frankfurt(M) fallen aus</li><li>IC/ICE-Züge Berlin - Bonn entfallen zwischen Köln und Bonn</li><li>IC/EC/ICE-Züge zwischen Köln und Mainz über Koblenz werden umgeleitet und halten nicht in Bonn Hbf, Remagen und Andernach. Ersatzhalt in Bonn-Beuel. Es entstehen zusätzliche Verspätungen von etwa <strong>20 Minuten</strong>.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.06.2024",
-      "durationEnd": "06.06.2024",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-06-06/447bfb32-02b2-401a-8ae0-32072bce952areisendenkarte_20240606-144219.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-06-06/447bfb32-02b2-401a-8ae0-32072bce952areisendenkarte_20240606-144219.png",
-          "info": "",
-          "alt": "Reisendenkarte",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "NW",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "06.06.2024 14:54",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "25de1421-5243-4753-9365-3f3430c21722",
       "disruptionId": "8dfd4488-a230-413f-bcf4-d82ce66d6055",
       "author": "FERNVERKEHR_AG",
