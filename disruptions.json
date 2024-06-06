@@ -533,7 +533,7 @@
       },
       "headline": "Meldungen der S-Bahn Berlin",
       "summary": "Meldungen &uuml;ber die aktuelle Betriebslage der S-Bahn Berlin finden Sie auf folgenden Kan&auml;len:&nbsp;",
-      "text": "<p>Website S-Bahn Berlin</p>\n\n<p>X (vormalsTwitter)</p>\n",
+      "text": "<p>Website S-Bahn Berlin</p>\n\n<p>X (vormals Twitter)</p>\n",
       "images": [],
       "downloads": [],
       "links": [
@@ -545,20 +545,26 @@
         },
         {
           "href": "https://twitter.com/SBahnBerlin",
-          "label": "frei zugänglichen Twitter-Kanal",
+          "label": "frei zugänglicher Twitter-Kanal",
           "info": "",
           "openInNewTab": true
         }
       ],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
         "BB",
         "BE"
       ],
-      "lines": [],
-      "lastModified": "06.06.2024 17:10",
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.06.2024 17:25",
       "expand": false,
       "topDisruption": false
     },
@@ -931,6 +937,47 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "fd70f786-313d-47cc-b37e-24cb6cdfb3c2",
+      "disruptionId": "5cb52f4d-0d11-4b71-bbbc-05fcaeffda58",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Zugausfälle bei der Westfrankenbahn",
+      "summary": "Eine Reparatur an der Weiche zwischen Heilbronn Hbf und Öhringen Hbf verzögert den Bahnverkehr. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Bitte prüfen Sie Ihre Reiseverbindung. Die voraussichtliche Dauer der Störung ist bis zum 07.06. mittags.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 80: Heilbronn Hbf - Schwäbisch Hall</li><li>RB 83: Heilbronn Hbf - Crailsheim</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "06.06.2024",
+      "durationEnd": "07.06.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-06/e8f9c3bd-b965-43dd-bd39-5eb5d4a53f35reisendenkarte_20240606-172620.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-06/e8f9c3bd-b965-43dd-bd39-5eb5d4a53f35reisendenkarte_20240606-172620.png",
+          "info": "",
+          "alt": "Reisendenkarte 06.06.2024 17:26:20",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.06.2024 17:28",
+      "expand": true,
       "topDisruption": false
     },
     {
