@@ -779,6 +779,39 @@
       "topDisruption": false
     },
     {
+      "id": "c8ad15e7-19c4-4b83-a44b-b674fd694fd3",
+      "disruptionId": "91c26bdd-2ce7-4a3a-b9fd-251d62b2eacd",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Herrenberg und Horb",
+      "summary": "Aufgrund von Bauarbeiten zwischen Eutingen und Horb kommt es bis Freitag, 07.06.2024, zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es steht nur ein Gleis zur Verfügung. Dadurch kommt es zu Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle IC-Züge von Herrenberg in Fahrtrichtung Horb verspäten sich auf dem Abschnitt zwischen Eutingen und Horb um etwa 20 Minuten. Die Züge von Horb in Fahrtrichtung Herrenberg sind nicht betroffen.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "01.06.2024",
+      "durationEnd": "07.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.06.2024 20:31",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "disruptionId": "30f778b1-ad87-40fa-8cde-9cffa2441c10_TrafficReport",
       "author": "REGIO_SUEDOST",
@@ -833,39 +866,6 @@
       ],
       "lastModified": "04.06.2024 16:47",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "c8ad15e7-19c4-4b83-a44b-b674fd694fd3",
-      "disruptionId": "91c26bdd-2ce7-4a3a-b9fd-251d62b2eacd",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Beeinträchtigungen zwischen Herrenberg und Horb",
-      "summary": "Aufgrund von Bauarbeiten zwischen Eutingen und Horb kommt es bis Freitag, 07.06.2024, zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es steht nur ein Gleis zur Verfügung. Dadurch kommt es zu Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle IC-Züge von Herrenberg in Fahrtrichtung Horb verspäten sich auf dem Abschnitt zwischen Eutingen und Horb um etwa 20 Minuten. Die Züge von Horb in Fahrtrichtung Herrenberg sind nicht betroffen.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "01.06.2024",
-      "durationEnd": "07.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "01.06.2024 05:52",
-      "expand": true,
       "topDisruption": false
     },
     {
