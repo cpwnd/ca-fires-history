@@ -621,6 +621,75 @@
       "topDisruption": false
     },
     {
+      "id": "3318334a-c5e4-4749-84c3-99d93b16ee4b",
+      "author": "REGIO_SH",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz"
+      },
+      "headline": "Streckensperrung zwischen Neumünster und Pinneberg",
+      "summary": "Aufgrund einer Streckensperrung zwischen Neum&uuml;nster und Pinneberg kommt es zu Versp&auml;tungen und Ausf&auml;llen.",
+      "text": "<p><u>Betroffene Linien:</u></p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Die Z&uuml;ge enden/beginnen in Itzehoe.&nbsp;</li>\n\t<li>RE 7&nbsp;(Flensburg/Kiel Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge enden/beginnen in Neum&uuml;nster. Reisende Richtung Hamburg Hbf nutzen ab Neum&uuml;nster die Nordbahn &uuml;ber Bad Oldesloe. Ein Ersatzverkehr ist in Planung.</li>\n\t<li>RE 70 (Kiel Hbf &ndash; Hamburg Hbf):&nbsp;Die Z&uuml;ge enden/beginnen in Neum&uuml;nster.&nbsp;Reisende Richtung Hamburg Hbf nutzen ab Neum&uuml;nster die Nordbahn &uuml;ber Bad Oldesloe. Ein Ersatzverkehr ist in Planung.</li>\n</ul>\n\n<p>Rechnen Sie mit eine Reisezeitverl&auml;ngerung von bis zu 60 Minuten.</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
+      "durationBegin": "06.06.2024",
+      "durationEnd": "06.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_SH ",
+          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "http://Bahn.de/sonderkulanz",
+          "label": "Sonderkulanz",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "06.06.2024 11:45",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "disruptionId": "30f778b1-ad87-40fa-8cde-9cffa2441c10_TrafficReport",
       "author": "REGIO_SUEDOST",
@@ -895,39 +964,6 @@
         }
       ],
       "lastModified": "05.06.2024 16:43",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "b3e71930-2093-49fa-a9ec-dc554ffd0c06",
-      "disruptionId": "67e1c20c-46ec-4367-a67b-0b0e4da543ff",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "RB 32: Ausfall RB 27615 zwischen Straubing und Neufahrn/Niederbayern",
-      "summary": "Ersatzloser Ausfall  am Donnerstag, den 06.06.24",
-      "text": "<p>RB 32: Die RB 27615 entfällt am Donnerstag, den 06.06.24 ersatzlos zwischen Straubing (ab 10:27 Uhr) und Neufahrn/Niederbayern (an 11:07 Uhr) wegen eines Personalausfalls. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "06.06.2024",
-      "durationEnd": "06.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "05.06.2024 16:25",
       "expand": true,
       "topDisruption": false
     },
