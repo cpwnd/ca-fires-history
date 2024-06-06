@@ -2,6 +2,50 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "d7f63a71-e8a5-409e-a29e-206f1f06de85",
+      "disruptionId": "2105e4c4-00b8-4606-8080-28ce1cedbc17",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln und Frankfurt(M)",
+      "summary": "Aufgrund einer Störung auf der Schnellfahrstrecke Köln-Rhein-Main zwischen Köln und Frankfurt(M) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong><ul><li>ICE-Züge ohne Halt zwischen Köln und Frankfurt(M) werden umgeleitet und verspäten sich um etwa <strong>90 Minuten</strong>.</li><li>ICE-Züge zwischen Dortmund – Köln – Frankfurt(M) – Nürnberg und München fallen aus.</li><li>Einzelne ICE-Züge zwischen Köln – Siegburg/Bonn – Montabaur – Limburg Süd und Frankfurt(M) fallen aus.</li></ul><p>Die Behebung der Störung soll vsl. bis in die Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.06.2024",
+      "durationEnd": "06.06.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-06-06/8ecfcae9-5ab1-4664-9067-aee561c51c4dreisendenkarte_20240606-163933.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-06-06/8ecfcae9-5ab1-4664-9067-aee561c51c4dreisendenkarte_20240606-163933.png",
+          "info": "",
+          "alt": "Schnellfahrstrecke Köln-Rhein-Main",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "06.06.2024 16:43",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "25de1421-5243-4753-9365-3f3430c21722",
       "disruptionId": "8dfd4488-a230-413f-bcf4-d82ce66d6055",
       "author": "FERNVERKEHR_AG",
