@@ -663,9 +663,9 @@
         "label": "Bauarbeiten"
       },
       "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Kassel bzw. Erfurt",
-      "summary": "Aufgrund von Bauarbeiten zwischen Frankfurt(Main) und Kassel bzw. Erfurt kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. ",
+      "summary": "Aufgrund von Bauarbeiten zwischen Frankfurt(Main) und Kassel bzw. Erfurt kommt es am 07.06.2024 zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. ",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Frankfurt(M) - Dresden beginnen ca. 60 Minuten <strong>früher</strong> als ursprünglich geplant in Frankfurt(M)Hbf.</li><li>ICE-Züge zwischen Frankfurt(M) und Kassel-Wilhelmshöhe werden umgeleitet und verspäten sich um zusätzlich etwa 30 Minuten. Der Halt in Fulda entfällt.</li></ul><p>IC/ICE-Züge zwischen Frankfurt(M) und Kassel-Wilhelmshöhe mit <strong>planmäßigem</strong> Halt in Gießen sind hiervon <strong>NICHT</strong> betroffen!</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.06.2024",
+      "durationBegin": "07.06.2024",
       "images": [],
       "downloads": [],
       "links": [],
@@ -682,77 +682,8 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "06.06.2024 13:37",
+      "lastModified": "06.06.2024 14:07",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "1f087927-2eb1-4379-aa66-f1a13c32d812",
-      "author": "REGIO_SH",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz"
-      },
-      "headline": "Streckensperrung zwischen Neumünster und Pinneberg aufgehoben",
-      "summary": "Die Streckensperrung zwischen Neum&uuml;nster und Pinneberg wurde aufgehoben. Es kommt in Folge noch zu Versp&auml;tungen und Ausf&auml;llen.",
-      "text": "<p><strong>Betroffene Linien:</strong></p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Die Z&uuml;ge verkehren&nbsp;wieder auf dem Regelweg..&nbsp;</li>\n\t<li>RE 7&nbsp;(Flensburg/Kiel Hbf &ndash; Hamburg Hbf): Die Z&uuml;ge verkehren wieder auf dem Regelweg.</li>\n\t<li>RE 70 (Kiel Hbf &ndash; Hamburg Hbf):&nbsp;Die Z&uuml;ge verkehren wieder auf dem Regelweg.</li>\n</ul>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n",
-      "durationBegin": "06.06.2024",
-      "durationEnd": "06.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH ",
-          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "http://Bahn.de/sonderkulanz",
-          "label": "Sonderkulanz",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "06.06.2024 13:03",
-      "expand": false,
       "topDisruption": false
     },
     {
