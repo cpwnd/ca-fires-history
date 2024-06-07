@@ -1068,6 +1068,39 @@
       "topDisruption": false
     },
     {
+      "id": "a9e6e33e-8c65-4951-8c63-d4bf921eb6b4",
+      "disruptionId": "812f518e-eecd-4ab2-b6ea-df893d6bd773",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "RB 45: Ausfall RB 27972 zwischen Freilassing und Mühldorf",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>RB 45: Die RB 27972 entfällt 09.06.2014 zwischen Freilassing (ab 10:07 Uhr) und Mühldorf (an 11:15 Uhr) wegen einen Personalmangel. Ein Ersatzverkehr ist eingerichtet.</p>",
+      "durationBegin": "07.06.2024",
+      "durationEnd": "09.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "07.06.2024 20:09",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "cd888fcc-3852-447d-885d-e23d1d9b95e2",
       "disruptionId": "eff9bba2-5be1-46ba-a379-2274b709c961",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1589,6 +1622,39 @@
         }
       ],
       "lastModified": "04.06.2024 18:36",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "092142af-553f-4b82-a8e8-80f64a594aba",
+      "disruptionId": "3f6b794d-27ca-437c-b6fc-db9498c10c51",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "RB 45: Ausfall RB 27973 zwischen Mühldorf und Freilassing",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>RB 45: Die RB 27973 entfällt 09.06.24 zwischen Mühldorf (ab 08:43 Uhr) und Freilassing (an 09:51 Uhr) wegen einem Personalausfall. Ein Ersatzverkehr ist eingerichtet.</p>",
+      "durationBegin": "07.06.2024",
+      "durationEnd": "09.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "07.06.2024 20:26",
       "expand": true,
       "topDisruption": false
     },
