@@ -2,50 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "b02e64b3-e2ba-4aef-a050-efe05d88359a",
-      "disruptionId": "9e8425fe-d183-411e-ba12-4806e4d9410b",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Verspätungen zwischen Berlin und Leipzig/Halle(Saale)",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung in Muldenstein zwischen Lutherstadt Wittenberg und Bitterfeld kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Die ICE-, IC-, NJ-Züge zwischen Berlin und Leipzig/Halle(Saale) verspäten sich in beiden Fahrtrichtungen um etwa 15 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die heutigen Vormittagsstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "06.06.2024",
-      "durationEnd": "07.06.2024",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-06-07/6c0b5a3e-6261-4ba5-b8fb-7591e30c3a56reisendenkarte_20240606-201313.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-06-07/6c0b5a3e-6261-4ba5-b8fb-7591e30c3a56reisendenkarte_20240606-201313.png",
-          "info": "",
-          "alt": "Reisendenkarte",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "ST",
-        "BE",
-        "TH",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "07.06.2024 04:09",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "f31ce0a8-c82d-4101-928d-deccacba3701",
       "disruptionId": "80c2a631-5bb0-42ba-a07e-e4e6eb8922fd",
       "author": "FERNVERKEHR_AG",
