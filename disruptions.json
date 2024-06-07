@@ -89,6 +89,39 @@
       "topDisruption": false
     },
     {
+      "id": "f31ce0a8-c82d-4101-928d-deccacba3701",
+      "disruptionId": "80c2a631-5bb0-42ba-a07e-e4e6eb8922fd",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Nach Abzug des Tiefdruckgebietes Radha noch Beeinträchtigungen in Bayern",
+      "summary": "Einige Strecken in Bayern aufgrund Unwetterschäden weiter nicht befahrbar. Es kommt zu Zugausfällen, Haltausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Die ECE-Züge München - Zürich fallen in beiden Fahrtrichtungen zwischen München und St. Margrethen aus.</li><li>Die Strecke Nürnberg - Würzburg ist gesperrt. Die ICE-Züge werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 25 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.06.2024 17:12",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "da494258-13f1-4e4b-b4d8-e02a8ed52d86",
       "author": "REGIO_MITTE",
       "cause": {
@@ -96,11 +129,37 @@
         "label": "Kurzfristige Erkrankung von Personal"
       },
       "headline": "Beeinträchtigungen im Raum Ludwigshafen(Rhein) Hbf ",
-      "summary": "Ab Dienstag, den 28.05.2024 kommt es weiterhin zu Einschr&auml;nkungen im Raum Ludwigshafen(Rhein) Hbf. Grund daf&uuml;r ist ein erh&ouml;hter Krankenstand beim Stellwerkspersonal.<br />\n<br />\n<strong>Es kann zu Versp&auml;tungen und Ausf&auml;llen im gesamten Netz der S-Bahn Rhein-Neckar, sowie im &uuml;brigen Regionalverkehr im Gro&szlig;raum Ludwigshafen kommen.</strong>",
-      "text": "<p><u><strong>Betroffene Linien</strong></u><u><strong>:</strong></u></p>\n\n<p><strong>S1 Homburg(Saar) &ndash; Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Osterburken </strong>(Die Z&uuml;ge enden/beginnen jeweils in Neustadt und Heidelberg)</p>\n\n<p><strong>S4 Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Bruchsal </strong>(entf&auml;llt zwischen Heidelberg Hbf und Germersheim)</p>\n\n<p><strong>S44&nbsp;<em>(Karlsruhe &ndash; W&ouml;rth &ndash; Germersheim) (Homburg / Kaiserslautern / Neustadt)</em> &ndash; Ludwigshafen &ndash; LU BASF Nord <em>(BASF-Werksbahn) </em>(</strong>entf&auml;llt, Ersatzverkehr zwischen Ludwigshafen Hbf und Ludwigshafen BASF-S&uuml;d ist eingerichtet.)</p>\n\n<p><strong>RE4 (Frankfurt/Main) &ndash; Mainz &ndash; Ludwigshafen &ndash; Karlsruhe</strong> (Die Z&uuml;ge enden/beginnen jeweils in Germersheim (ggf. Speyer) und Worms &ndash; Versp&auml;tungen und weitere Ausf&auml;lle m&ouml;glich.)</p>\n\n<p><strong>RE14 Frankfurt/Main &ndash; Mainz &ndash; Ludwigshafen &ndash; Mannheim </strong>(Regelbetrieb vorgesehen &ndash; Versp&auml;tungen und Ausf&auml;lle m&ouml;glich)</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "summary": "Es kommt weiterhin bis vsl. 15.07.2024 zu Einschr&auml;nkungen im Raum Ludwigshafen(Rhein) Hbf. Grund daf&uuml;r ist ein erh&ouml;hter Krankenstand beim Stellwerkspersonal.<br />\n<br />\n<strong>Ab Montag, 10.06.2024 ist ein eingeschr&auml;nkter Fahrplan in der Fahrplanauskunft ersichtlich.<br />\nAktuelle Fahrplantabellen finden Sie im Anhang.</strong>",
+      "text": "<p><u><strong>Betroffene Linien</strong></u><u><strong>:</strong></u></p>\n\n<p><strong>S1 Homburg(Saar) &ndash; Kaiserslautern &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Osterburken </strong>(Die Z&uuml;ge enden/beginnen jeweils in Neustadt und Heidelberg. Z&uuml;ge der Linie RE1 halten zus&uuml;tzlich in Ludwigshafen Hbf und Ha&szlig;loch.)</p>\n\n<p><strong>S4 Germersheim &ndash; Speyer &ndash; Ludwigshafen &ndash; Mannheim &ndash; Heidelberg &ndash; Bruchsal </strong>(entf&auml;llt zwischen Heidelberg Hbf und Germersheim. Ein Ersatzverkehr ist nach Lingenfeld Schulzentrum mit Zwischenhalte in Speyer Hbf, Berghausen und Heiligenstein eingerichtet.)</p>\n\n<p><strong>S44&nbsp;Ludwigshafen &ndash; LU BASF Nord <em>(BASF-Werksbahn) </em>(</strong>entf&auml;llt, Ersatzverkehr zwischen Ludwigshafen Hbf und Ludwigshafen BASF-S&uuml;d ist eingerichtet.)</p>\n\n<p><strong>S6 Mainz - Worms - Mannheim - Bensheim&nbsp;</strong>(Z&uuml;ge mit Start-/Zielbahnhof&nbsp; Mannheim Hbf, entfallen zw Worms und Mannheim. Ersatzverkehr mit Bussen zwischen Worms Hbf und Frankental Hbf sowie zwischen Frankental Hbf und Ludwigshafen Hbf eingerichtet.)</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
       "durationBegin": "27.05.2024",
+      "durationEnd": "15.07.2024",
       "images": [],
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:7d8287c8-7e7d-4e82-a924-c8267fbf45bf/S1_2-RE1-Heidelberg-Kaiserslautern-Heidelberg.pdf",
+          "label": "S1_2RE1-Heidelberg-Kaiserslautern-Heidelberg (PDF, 252 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:6d1a2c77-8544-46d4-ac91-17e96b53764f/S3_4-Germersheim-Mannheim-Germersheim.pdf",
+          "label": "S3_4-Germersheim-Mannheim-Germersheim (PDF, 221 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:7c6e76ff-6a40-47e7-a167-56d9ef8cd541/S6_RE4_RE14_Mainz-Mannheim-Mainz.pdf",
+          "label": "S6_RE4_RE14_Mainz-Mannheim-Mainz (PDF, 206 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:995c65e6-0129-4cf1-965b-91a570999454/S44_BASF-Ludwigshafen-BASF.pdf",
+          "label": "S44_BASF-Ludwigshafen-BASF (PDF, 123 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [
         {
           "href": "https://www.bahn.de/buchung/start",
@@ -136,41 +195,8 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "07.06.2024 13:57",
+      "lastModified": "07.06.2024 17:16",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "f31ce0a8-c82d-4101-928d-deccacba3701",
-      "disruptionId": "80c2a631-5bb0-42ba-a07e-e4e6eb8922fd",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetterauswirkungen"
-      },
-      "headline": "Nach Abzug des Tiefdruckgebietes Radha noch Beeinträchtigungen in Bayern",
-      "summary": "Einige Strecken in Bayern aufgrund Unwetterschäden weiter nicht befahrbar. Es kommt zu Zugausfällen, Haltausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Die ECE-Züge München - Zürich fallen in beiden Fahrtrichtungen zwischen München und St. Margrethen aus.</li><li>Die Strecke Nürnberg - Würzburg ist gesperrt. Die ICE-Züge werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 25 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "05.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "05.06.2024 17:12",
-      "expand": true,
       "topDisruption": false
     },
     {
