@@ -205,6 +205,47 @@
       "topDisruption": false
     },
     {
+      "id": "dc4418f0-76d9-4dd9-9eb8-d3d2789bc9df",
+      "disruptionId": "31afa6c7-e7aa-4030-98c5-a940812e7473",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Einzelne Zugausfälle zwischen Kleinwallstadt und Aschaffenburg",
+      "summary": "Einzelne Zugausfälle zwischen Kleinwallstadt und Aschaffenburg",
+      "text": "<p>Aufgrund von Personalengpässen im Stellwerk Aschaffenburg kommt es ab Montag, den 10. Juni bis Mittwoch, den 12. Juni auf dem Streckenabschnitt zwischen Kleinwallstadt und Aschaffenburg zu Zugausfällen. Für die ausfallenden Züge haben wir einen Ersatzverkehr mit Bus für Sie eingerichtet. Den Fahrplan finden Sie weiter unten als Anhang.</p><p>Betroffene Linien:</p><p><strong>RB 88 und RE 87 Miltenberg - Kleinwallstadt - Aschaffenburg</strong></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "07.06.2024",
+      "durationEnd": "12.06.2024",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-07/67269a77-526f-4ff7-8dd7-d703415a4838Teilweise_Ersatzverkehr_%2BAschaffenburg_Kleinwallstadt_10-1206.pdf",
+          "label": "Ersatzverkehr Kleinwallstadt - Aschaffenburg vom 10. bis zum 12. Juni 2024",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "07.06.2024 13:03",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5337dd7a-6c6e-4f60-a200-8fddbb696dae",
       "disruptionId": "4ddaedda-48b0-40ce-8ceb-55899cbfd36c",
       "author": "FERNVERKEHR_AG",
