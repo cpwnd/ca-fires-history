@@ -1068,6 +1068,91 @@
       "topDisruption": false
     },
     {
+      "id": "2d4deb3c-ac53-4b76-a135-138727e7096c",
+      "disruptionId": "b8d26f63-5467-44d5-85b6-3ad0c5f7a7c5",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "RB 46 / Ausfall RB 27243 / Mühldorf (ab Zeit1 Uhr) - Pocking (an 22:05 Uhr)",
+      "summary": "Ersatzloser Ausfall am 08.06.2024",
+      "text": "<p>RB 46: Die RB 27243 entfällt am 08.06.2024 ersatzlos zwischen Mühldorf (ab 20:36 Uhr) und Pocking (an 22:05 Uhr) wegen Personalmangel. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "07.06.2024",
+      "durationEnd": "08.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "07.06.2024 18:49",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "d4f1b55d-6f0c-47d2-a9c7-d7c578a71afd",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Kein Zugverkehr zw. Dillingen und Niedaltdorf möglich",
+      "summary": "Die Z&uuml;ge der Linie RB77 fallen am 08.06.2024 ab 11:44 Uhr bis Betriebsschluss zw Dillingen (Saar) und Niedaltdorf aus.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB77&nbsp;</strong>Dillingen - Niedaltdorf <strong><em>(Nied-Bahn)</em></strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr ist mit einem Bus eingerichtet .</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "08.06.2024",
+      "durationEnd": "08.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "SL"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "07.06.2024 18:40",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "55f5413a-9f9e-4c20-ac18-dac5f052bb8b",
       "disruptionId": "49cc8c6e-8d2e-4764-a345-64c11b998888",
       "author": "SUEDOSTBAYERNBAHN",
