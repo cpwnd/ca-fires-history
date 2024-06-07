@@ -9,15 +9,15 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Beeinträchtigung zwischen Lutherstadt Wittenberg und Bitterfeld",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung in Muldenstein zwischen Lutherstadt Wittenberg und Bitterfeld  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. \nDie Züge werden umgeleitet und verspäten sich um etwa 30 Minuten. Der Halt Lutherstadt Wittenberg Hbf entfällt. Ersatzweise halten die Züge in Bitterfeld.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-, IC-, NJ-Züge zwischen Berlin – Lutherstadt Wittenberg und Halle(Saale)</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Nutzen Sie bitte zwischen Bitterfeld und Lutherstadt Wittenberg Hbf die Nahverkehrszüge der Linien S2 und S8.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis bis in die Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Verspätungen zwischen Berlin und Leipzig/Halle(Saale)",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung in Muldenstein zwischen Lutherstadt Wittenberg und Bitterfeld kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Die ICE-, IC-, NJ-Züge zwischen Berlin und Leipzig/Halle(Saale) verspäten sich in beiden Fahrtrichtungen um etwa 15 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die heutigen Vormittagsstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "06.06.2024",
-      "durationEnd": "06.06.2024",
+      "durationEnd": "07.06.2024",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-06-06/f936b443-24ce-4458-aef5-b8812f184974reisendenkarte_20240606-201313.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-06-06/f936b443-24ce-4458-aef5-b8812f184974reisendenkarte_20240606-201313.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-06-07/6c0b5a3e-6261-4ba5-b8fb-7591e30c3a56reisendenkarte_20240606-201313.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-06-07/6c0b5a3e-6261-4ba5-b8fb-7591e30c3a56reisendenkarte_20240606-201313.png",
           "info": "",
           "alt": "Reisendenkarte",
           "openInNewTab": true
@@ -29,9 +29,9 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "BB",
         "ST",
         "BE",
+        "TH",
         "SN"
       ],
       "lines": [
@@ -41,8 +41,51 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "06.06.2024 20:17",
+      "lastModified": "07.06.2024 04:09",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "d7f63a71-e8a5-409e-a29e-206f1f06de85",
+      "disruptionId": "2105e4c4-00b8-4606-8080-28ce1cedbc17",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Verfügbarkeit der Gleise derzeit eingeschränkt"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln und Frankfurt(M)",
+      "summary": "Aufgrund einer Störung auf der Schnellfahrstrecke Köln-Rhein-Main zwischen Köln und Frankfurt(M) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen und einzelnen Zugausfällen.",
+      "text": "<strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong><ul><li>Die ICE-Züge auf der Schnellfahrstrecke zwischen Köln und Frankfurt(M) (planmäßige Fahrzeit ca. eine Stunde) verspäten sich in beiden Fahrtrichtungen um etwa 20 Minuten.</li><li>Einzelne ICE-Züge auf der Schnellfahrstrecke zwischen Köln und Frankfurt(M), darunter die ICE-Sprinter NRW - Frankfurt(M) Flughafen - Nürnberg - München, fallen aus.</li><li>Einzelne ICE-Züge zwischen Köln und Frankfurt(M) werden umgeleitet und verspäten sich dadurch um etwa 75 Minuten.</li></ul><p>Die ICE-Züge zwischen Köln und Frankfurt(M) mit planmäßigen Halt in Bonn, Koblenz, Mainz sind von der Störung nicht betroffen und verkehren planmäßig.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.06.2024",
+      "durationEnd": "07.06.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-06-07/a0010864-1625-428b-9cc3-e8b4e5e51fc9reisendenkarte_20240606-163933.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-06-07/a0010864-1625-428b-9cc3-e8b4e5e51fc9reisendenkarte_20240606-163933.png",
+          "info": "",
+          "alt": "Schnellfahrstrecke Köln-Rhein-Main",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "07.06.2024 04:01",
+      "expand": true,
       "topDisruption": false
     },
     {
