@@ -2,39 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "25d2e0ed-f159-4748-bb9c-6d4f888c3458",
-      "disruptionId": "270b4455-f63e-4aae-a88a-30c07b2f3ba8",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Mannheim",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Frankfurt(M) und Mannheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge zwischen Frankfurt(M) und Mannheim und Gegenrichtung. Züge werden über Darmstadt umgeleitet. Verspätung ca. 30 Minuten </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "08.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "08.06.2024 12:16",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "f31ce0a8-c82d-4101-928d-deccacba3701",
       "disruptionId": "80c2a631-5bb0-42ba-a07e-e4e6eb8922fd",
       "author": "FERNVERKEHR_AG",
