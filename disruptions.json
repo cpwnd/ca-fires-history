@@ -2,42 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "50242e69-8784-48de-a975-a41f7132f2b5",
-      "disruptionId": "c9eb261b-5d82-43df-81b4-f75aa3ab8228",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Streckensperrung zwischen Frankfurt Flughafen und Köln",
-      "summary": "Streckensperrung auf der Schnellfahrstrecke zwischen Frankfurt Flughafen und Köln. Unsere Züge im Fernverkehr der Deutschen Bahn müssen umgeleitet werden und verspäten sich dadurch um etwa 90 Minuten. Halte Limburg Süd, Montabaur und Siegburg/Bonn entfallen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Frankfurt Flughafen - Limburg Süd - Montabaur - Siegburg/Bonn - Köln</li></ul><p>IC/ICE-Züge zwischen Frankfurt und Köln mit planmäßigem Halt in Koblenz Hbf sind von dieser Störung <strong>NICHT</strong> betroffen! Bitte rechnen Sie mit einem erhöhten Reisendenaufkommen, insbesondere nach Einsatzende.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten. Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "08.06.2024",
-      "durationEnd": "08.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "NW",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "08.06.2024 05:04",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "25d2e0ed-f159-4748-bb9c-6d4f888c3458",
       "disruptionId": "270b4455-f63e-4aae-a88a-30c07b2f3ba8",
       "author": "FERNVERKEHR_AG",
@@ -847,6 +811,58 @@
       "topDisruption": false
     },
     {
+      "id": "d4f1b55d-6f0c-47d2-a9c7-d7c578a71afd",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Kein Zugverkehr zw. Dillingen und Niedaltdorf möglich",
+      "summary": "Die Z&uuml;ge der Linie RB77 fallen am 08.06.2024 ab 11:44 Uhr und a, 09.06.2024 ab 14:44 Uhr bis Betriebsschluss zw Dillingen (Saar) und Niedaltdorf aus.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB77&nbsp;</strong>Dillingen - Niedaltdorf <strong><em>(Nied-Bahn)</em></strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr ist mit einem Bus eingerichtet .</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "08.06.2024",
+      "durationEnd": "09.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "SL"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.06.2024 13:12",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "a770384a-203a-418e-b4d8-ee968eb05a0e",
       "disruptionId": "1a30954d-6d7b-403a-97d0-edccf83174d9",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1009,58 +1025,6 @@
       ],
       "lastModified": "07.06.2024 18:49",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "d4f1b55d-6f0c-47d2-a9c7-d7c578a71afd",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Kein Zugverkehr zw. Dillingen und Niedaltdorf möglich",
-      "summary": "Die Z&uuml;ge der Linie RB77 fallen am 08.06.2024 ab 11:44 Uhr bis Betriebsschluss zw Dillingen (Saar) und Niedaltdorf aus.",
-      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<ul>\n\t<li><strong>RB77&nbsp;</strong>Dillingen - Niedaltdorf <strong><em>(Nied-Bahn)</em></strong></li>\n</ul>\n\n<p><strong>Ersatzverkehr ist mit einem Bus eingerichtet .</strong></p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
-      "durationBegin": "08.06.2024",
-      "durationEnd": "08.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/buchung/start",
-          "label": "Reiseauskunft ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/Regio_Mitte",
-          "label": "X (Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB-Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "SL"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "07.06.2024 18:40",
-      "expand": false,
       "topDisruption": false
     },
     {
