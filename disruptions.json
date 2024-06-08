@@ -555,6 +555,39 @@
       "topDisruption": false
     },
     {
+      "id": "f849b906-93f4-43ef-966c-57cc5e667d9a",
+      "disruptionId": "ca3b06dc-b04e-405a-a081-8631b4671d15",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Zugausfälle im Dieselnetz Allgäu",
+      "summary": "Aufgrund von längeren Fahrzeugreparaturen und Personalengpässen in den Werkstätten gibt es vorübergehend Ausfälle und Schwächungen bei einigen Zugverbindungen. Diese Situation wird voraussichtlich bis zum 09.06.2024 anhalten.\nBei den Linien RE 7 Nürnberg Hbf - Lindau Hbf und RB 94 Kempten(Allg)Hbf - Hergatz  wird es auch ab den 10.06.24 weiterhin zu den genannten Einschränkungen kommen.",
+      "text": "<p><strong>RE 7 Nürnberg – Lindau</strong>: Ausfall der Züge zwischen Nürnberg – Augsburg - nutzen Sie dafür alternativ die Züge der Linie RE 16</p><p><strong>RB 94 Kempten – Hergatz</strong>: Ausfall von einzelnen Zügen - nutzen Sie dafür alternativ zwischen Kempten und Hergatz die Züge der Linien RE 7 und RE 70</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Verbindung in der Reiseauskunft unter bahn.de oder in der App DB Navigator. Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
+      "durationBegin": "01.04.2024",
+      "durationEnd": "30.09.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "08.06.2024 23:35",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "eac35307-4132-48d8-80b0-ee1e38d5dcb3",
       "author": "REGIO_MITTE",
       "cause": {
