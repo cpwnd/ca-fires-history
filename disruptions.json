@@ -6,8 +6,8 @@
       "disruptionId": "c9eb261b-5d82-43df-81b4-f75aa3ab8228",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Behobener technischer Defekt einem anderen Zug"
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
       },
       "headline": "Streckensperrung zwischen Frankfurt Flughafen und Köln",
       "summary": "Streckensperrung auf der Schnellfahrstrecke zwischen Frankfurt Flughafen und Köln. Unsere Züge im Fernverkehr der Deutschen Bahn müssen umgeleitet werden und verspäten sich dadurch um etwa 90 Minuten. Halte Limburg Süd, Montabaur und Siegburg/Bonn entfallen.",
@@ -33,7 +33,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "08.06.2024 04:38",
+      "lastModified": "08.06.2024 05:04",
       "expand": true,
       "topDisruption": false
     },
