@@ -11,7 +11,7 @@
       },
       "headline": "Massive Beeinträchtigungen im Raum Nürnberg",
       "summary": "Aufgrund eines defekten Stellwerkes im Raum Nürnberg kommt es derzeit zu massiven Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Verspätungen von ca. 15 Minuten und Haltausfällen.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC-Züge von Karlsruhe über Stuttgart, Nürnberg und Leipzig fallen von Ansbach bis Leipzig Hbf aus</li><li>ICE-Züge, die über Nürnberg Hbf verkehren, halten nicht in Nürnberg Hbf, sondern in Fürth (Bay) Hbf mit einer Verspätung von ca. 15 Minuten</li></ul><p>Alternativ erreichen Sie Nürnberg Hbf von Fürth (Bay) Hbf mit der U1. Diese verkehrt ca. alle 10 Minuten. Die Fahrzeit beträgt ca.17 Minuten.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Diese soll vrsl. bis in die Abendstunden andauern. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC-Züge von Karlsruhe über Stuttgart, Nürnberg und Leipzig fallen von Ansbach bis Leipzig Hbf aus.</li><li>Nachtzüge NJ 420,  NJ 421, NJ 490 und NJ 491 fallen in dieser Nacht ersatzlos aus.</li><li>ICE-Züge, die über Nürnberg Hbf verkehren, halten nicht in Nürnberg Hbf, sondern werden nach Fürth (Bay) Hbf mit einer Verspätung von ca. 15 Minuten umgeleitet.</li></ul><p>Alternativ erreichen Sie Nürnberg Hbf von Fürth (Bay) Hbf mit der U1. Diese verkehrt ca. alle 10 Minuten. Die Fahrzeit beträgt ca.17 Minuten.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Diese soll vrsl. bis in die Abendstunden andauern. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "09.06.2024",
       "durationEnd": "10.06.2024",
       "images": [],
@@ -45,7 +45,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "09.06.2024 18:07",
+      "lastModified": "09.06.2024 18:55",
       "expand": true,
       "topDisruption": false
     },
@@ -599,39 +599,6 @@
         }
       ],
       "lastModified": "18.04.2024 13:07",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "f849b906-93f4-43ef-966c-57cc5e667d9a",
-      "disruptionId": "ca3b06dc-b04e-405a-a081-8631b4671d15",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Zugausfälle im Dieselnetz Allgäu",
-      "summary": "Aufgrund von längeren Fahrzeugreparaturen und Personalengpässen in den Werkstätten gibt es vorübergehend Ausfälle und Schwächungen bei einigen Zugverbindungen. Diese Situation wird voraussichtlich bis zum 09.06.2024 anhalten.\nBei den Linien RE 7 Nürnberg Hbf - Lindau Hbf und RB 94 Kempten(Allg)Hbf - Hergatz  wird es auch ab den 10.06.24 weiterhin zu den genannten Einschränkungen kommen.",
-      "text": "<p><strong>RE 7 Nürnberg – Lindau</strong>: Ausfall der Züge zwischen Nürnberg – Augsburg - nutzen Sie dafür alternativ die Züge der Linie RE 16</p><p><strong>RB 94 Kempten – Hergatz</strong>: Ausfall von einzelnen Zügen - nutzen Sie dafür alternativ zwischen Kempten und Hergatz die Züge der Linien RE 7 und RE 70</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Verbindung in der Reiseauskunft unter bahn.de oder in der App DB Navigator. Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
-      "durationBegin": "01.04.2024",
-      "durationEnd": "30.09.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "08.06.2024 23:35",
       "expand": false,
       "topDisruption": false
     },
