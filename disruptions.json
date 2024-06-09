@@ -9,9 +9,9 @@
         "category": "technical_problem_railway_section",
         "label": "Defektes Stellwerk"
       },
-      "headline": "Massive Beeinträchtigungen im Raum Nürnberg",
-      "summary": "Aufgrund eines defekten Stellwerkes im Raum Nürnberg kommt es derzeit zu massiven Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Verspätungen von ca. 15 Minuten und Haltausfällen.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC-Züge von Karlsruhe über Stuttgart, Nürnberg und Leipzig fallen von Ansbach bis Leipzig Hbf aus.</li><li>Nachtzüge NJ 420,  NJ 421, NJ 490 und NJ 491 fallen in dieser Nacht ersatzlos aus.</li><li>ICE-Züge, die über Nürnberg Hbf verkehren, halten nicht in Nürnberg Hbf, sondern werden nach Fürth (Bay) Hbf mit einer Verspätung von ca. 15 Minuten umgeleitet.</li></ul><p>Alternativ erreichen Sie Nürnberg Hbf von Fürth (Bay) Hbf mit der U1. Diese verkehrt ca. alle 10 Minuten. Die Fahrzeit beträgt ca.17 Minuten.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Diese soll vrsl. bis in die Abendstunden andauern. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Stellwerksstörung in Nürnberg behoben  - jedoch noch Auswirkungen im Fernverkehr sowie Ausfall der Nachtzüge NJ 402, NJ 421, NJ 490 und NJ 491",
+      "summary": "Die Stellwerksstörung  im Raum Nürnberg ist behoben. Dennoch kann es noch zu vereinzelten Beeinträchtigungen im Fernverkehr der Deutschen Bahn in Form von Verspätungen und Zugausfällen kommen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Nachtzüge NJ 420, NJ 421, NJ 490 und NJ 491 fallen in dieser Nacht ersatzlos aus.</li><li>ICE / IC-Züge die über Nürnberg Hbf verkehren, können sich ggf. verspäten oder fallen vereinzelt sogar aus</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "09.06.2024",
       "durationEnd": "10.06.2024",
       "images": [],
@@ -45,7 +45,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "09.06.2024 18:55",
+      "lastModified": "09.06.2024 19:27",
       "expand": true,
       "topDisruption": false
     },
@@ -826,6 +826,46 @@
       "topDisruption": false
     },
     {
+      "id": "24c6041c-de30-4a69-acab-4e245c41a8e3",
+      "disruptionId": "cf248ac1-13b2-49d7-840e-73bd4cb4c77f",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Zugausfälle im Dieselnetz Allgäu",
+      "summary": "Aufgrund von längeren Fahrzeugreparaturen und Personalengpässen in den Werkstätten gibt es vorübergehend Ausfälle und Schwächungen bei einigen Zugverbindungen.\nAb dem 10.06.24 verkehren die Züge der Linien RE 79 Kempten (Allg) Hbf Augsburg Hbf und RE 75 Ulm Hbf - Oberstdorf wieder ohne Einschränkungen.",
+      "text": "<p>Bei den Linien RE 7 Nürnberg Hbf - Lindau Hbf und RB 94 Kempten(Allg)Hbf - Hergatz wird es auch ab den 10.06.24 weiterhin zu den genannten Einschränkungen kommen.</p><p><strong>RE 7 Nürnberg – Lindau</strong>: Ausfall der Züge zwischen Nürnberg – Augsburg - nutzen Sie dafür alternativ die Züge der Linie RE 16</p><p><strong>RB 94 Kempten – Hergatz</strong>: Ausfall von einzelnen Zügen - nutzen Sie dafür alternativ zwischen Kempten und Hergatz die Züge der Linien RE 7 und RE 70</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Verbindung in der Reiseauskunft unter bahn.de oder in der App DB Navigator. Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
+      "durationBegin": "02.02.2024",
+      "durationEnd": "10.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Aktuelle Betriebslage DB Regio Bayern ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.06.2024 19:16",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "d4f1b55d-6f0c-47d2-a9c7-d7c578a71afd",
       "author": "REGIO_MITTE",
       "cause": {
@@ -915,46 +955,6 @@
       ],
       "lastModified": "06.06.2024 15:36",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "24c6041c-de30-4a69-acab-4e245c41a8e3",
-      "disruptionId": "cf248ac1-13b2-49d7-840e-73bd4cb4c77f",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "Zugausfälle im Dieselnetz Allgäu",
-      "summary": "Aufgrund von längeren Fahrzeugreparaturen und Personalengpässen in den Werkstätten gibt es vorübergehend Ausfälle und Schwächungen bei einigen Zugverbindungen. Diese Situation wird voraussichtlich bis zum 09.06.2024 anhalten.\nAb dem 10.06.24 verkehren die Züge der Linien RE 79 Kempten (Allg) Hbf Augsburg Hbf und RE 75 Ulm Hbf - Oberstdorf wieder ohne Einschränkungen.\nBei den Zügen Linien RE 7  Nürnberg Hbf - Lindau Hbf und RB 94 Kempten(Allg)Hbf - Hergatz  wird es auch ab den 10.06.24 weiterhin zu den genannten Einschränkungen kommen.",
-      "text": "<p><strong>RE 7 Nürnberg – Lindau</strong>: Ausfall der Züge zwischen Nürnberg – Augsburg - nutzen Sie dafür alternativ die Züge der Linie RE 16</p><p><strong>RE 79 Kempten – Buchloe – Augsburg</strong>: <strong>bis einschließlich 09.06.2024.</strong>Ausfall von einzelnen Zügen - nutzen Sie dafür alternativ zwischen Kempten – Buchloe – Augsburg die Züge der Linien RE 7, RE 70 und RB 77</p><p><strong>RB 94 Kempten – Hergatz</strong>: Ausfall von einzelnen Zügen - nutzen Sie dafür alternativ zwischen Kempten und Hergatz die Züge der Linien RE 7 und RE 70</p><p><strong>RE 75 Ulm – Oberstdorf</strong>: <strong>bis einschließlich 09.06.2024 </strong>Schwächung von einzelnen Zügen an Werktagen zwischen Ulm – Kempten</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Verbindung in der Reiseauskunft unter bahn.de oder in der App DB Navigator. Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
-      "durationBegin": "02.02.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
-          "label": "Aktuelle Betriebslage DB Regio Bayern ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "06.06.2024 06:19",
-      "expand": false,
       "topDisruption": false
     },
     {
