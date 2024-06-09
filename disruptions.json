@@ -2,44 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "c9a57e0c-6f8a-4cfe-b839-a314be41248e",
-      "disruptionId": "cbf20bb1-1702-4f3e-83d8-333650f47c21",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Stellwerksstörung in Nürnberg behoben",
-      "summary": "Die Stellwerksstörung  im Raum Nürnberg ist behoben. Dennoch kann es noch zu vereinzelten Beeinträchtigungen im Fernverkehr der Deutschen Bahn in Form von Verspätungen und Zugausfällen kommen.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE / IC-Züge die über Nürnberg Hbf verkehren, verspäten sich oder fallen vereinzelt aus.</li><li>ÖBB-Nachtzüge NJ 420, NJ 421, NJ 490 und NJ 491 fallen in dieser Nacht ersatzlos aus.</li></ul><p>Bitte rechnen Sie mit einen erhöhten Reiseaufkommen in den noch verkehrenden Zügen.</p><p><strong>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</strong></p>",
-      "durationBegin": "09.06.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "BY",
-        "NW",
-        "NI",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "09.06.2024 20:10",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "f31ce0a8-c82d-4101-928d-deccacba3701",
       "disruptionId": "80c2a631-5bb0-42ba-a07e-e4e6eb8922fd",
       "author": "FERNVERKEHR_AG",
