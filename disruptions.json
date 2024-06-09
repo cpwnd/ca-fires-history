@@ -2,6 +2,54 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "c9a57e0c-6f8a-4cfe-b839-a314be41248e",
+      "disruptionId": "cbf20bb1-1702-4f3e-83d8-333650f47c21",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen im Raum Nürnberg",
+      "summary": "Aufgrund eines defekten Stellwerkes im Raum Nürnberg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen, Verspätungen und Haltausfällen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>alle ICE und IC-Züge, die über Nürnberg Hbf verkehren</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns genauere Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "09.06.2024",
+      "durationEnd": "10.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "09.06.2024 17:32",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "f31ce0a8-c82d-4101-928d-deccacba3701",
       "disruptionId": "80c2a631-5bb0-42ba-a07e-e4e6eb8922fd",
       "author": "FERNVERKEHR_AG",
