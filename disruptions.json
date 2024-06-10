@@ -232,23 +232,35 @@
       "topDisruption": false
     },
     {
-      "id": "dc4418f0-76d9-4dd9-9eb8-d3d2789bc9df",
-      "disruptionId": "31afa6c7-e7aa-4030-98c5-a940812e7473",
+      "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
+      "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
       "cause": {
         "category": "other_cause",
         "label": "Kurzfristige Erkrankung von Personal"
       },
-      "headline": "Einzelne Zugausfälle zwischen Kleinwallstadt und Aschaffenburg",
-      "summary": "Aufgrund von Personalengpässen im Stellwerk Aschaffenburg kommt es ab Montag, den 10. Juni bis Mittwoch, den 12. Juni auf dem Streckenabschnitt zwischen Kleinwallstadt und Aschaffenburg zu Zugausfällen. Für die ausfallenden Züge haben wir einen Ersatzverkehr mit Bus für Sie eingerichtet. Den Fahrplan finden Sie weiter unten als Anhang.",
-      "text": "<p>Betroffene Linien:</p><p><strong>RB 88 und RE 87 Miltenberg - Kleinwallstadt - Aschaffenburg</strong></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "07.06.2024",
-      "durationEnd": "12.06.2024",
+      "headline": "Zugausfälle bei der Westfrankenbahn",
+      "summary": "Aufgrund von Personalengpässen beim Fahrpersonal und in den Stellwerken kommt es bis voraussichtlich Oktober 2024 auf den Linien RE 87 und RB 88 zu Zugausfällen.",
+      "text": "<p><strong>Bis 12. Juni 2024:</strong></p><p>Zugausfälle zwischen Aschaffenburg und Kleinwallstadt. Ersatzverkehr für die ausfallenden Züge ist eingerichtet.</p><p><strong>Bis 21. Juni 2024:</strong></p><p>In den Zeiten zwischen 4:30 Uhr - 7:30 Uhr und ab ca. 12:30 Uhr kommt es auf der kompletten Linie RE 87 und RB 88 zu Zugausfällen. Ersatzverkehr mit Bussen eingerichtet.</p><p><strong>Bis 24. Juli 2024:</strong></p><p>Zugausfälle zwischen Wertheim und Crailsheim. Ersatzverkehr mit Bussen ist eingerichtet.</p><p><strong>Bis Oktober 2024: </strong></p><p>Zugausfälle an einzelnen Sonn- und Feiertage auf der Tauberbahn. Ersatzverkehr mit Bus ist eingerichtet.</p><p>Die Fahrpläne der Ersatzverkehre finden Sie weiter unten.</p><p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 87 Aschaffenburg - Miltenberg - Crailsheim </strong></li><li><strong>RB 88 Aschaffenburg - Wertheim - Crailsheim</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "10.06.2024",
+      "durationEnd": "20.10.2024",
       "images": [],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-07/57121c6c-d6e2-41c1-958a-b4ec8ec7f622Teilweise_Ersatzverkehr_%2BAschaffenburg_Kleinwallstadt_10-1206.pdf",
-          "label": "Ersatzverkehr Kleinwallstadt - Aschaffenburg vom 10. bis zum 12. Juni 2024",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/ccd5b5fb-7d84-4d80-b169-6467f5cb652eTeilweise_Ersatzverkehr_%252BAschaffenburg_Kleinwallstadt_10-1206.pdf",
+          "label": "Ersatzverkehr Aschaffenburg-Kleinwallstadt bis 12. Juni 2024",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/6cd1e427-35e7-4ca5-9277-faa9bbfc64f4Tauberbahn_Ersatzverkehr%252Bbis%252B%252B24.%252BJuli%252B2024.pdf",
+          "label": "Ersatzverkehr Wertheim - Crailsheim bis 24. Juli 2024",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/7f95415e-d591-44fd-87de-eba675c21074Tauberbahn_Ersatzverkehr%252Ban%252Beinzelnen%252BSonn-%252Bund%252BFeiertagen_aktualisiert.pdf",
+          "label": "Tauberbahn Ersatzverkehr an einzelnen Sonn- und Feiertagen bis Oktober 2024",
           "info": "",
           "openInNewTab": true
         }
@@ -268,7 +280,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "07.06.2024 14:08",
+      "lastModified": "10.06.2024 15:43",
       "expand": true,
       "topDisruption": false
     },
@@ -792,46 +804,6 @@
         }
       ],
       "lastModified": "10.06.2024 14:47",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "459e521d-bd22-4bbb-a302-5847470d4a71",
-      "disruptionId": "5c0ec917-86ba-4f10-bc43-389479cbc017",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugausfälle bei der Westfrankenbahn",
-      "summary": "Aufgrund von Personalengpässen auf den den Stellwerken kommt es auf der Tauberbahn an vereinzelten Sonn- und Feiertagen bis Oktober 2024 zu Zugausfällen mit Ersatzverkehr. Den Fahrplan zum Ersatzverkehr finden Sie weiter unten.",
-      "text": "<p>Bis zum 21. Juni kommt es in den Zeiten zwischen 4:30 Uhr - 7:30 Uhr und ab ca. 12:30 Uhr auf den Linien RE87 und RB88 zu Zugausfällen. Ersatzverkehr mit Bussen ist eingerichtet. Bitte prüfen Sie tagesaktuell Ihre Zugverbindung im DB-Navigator und der elektronischen Reiseauskunft.</p><p><strong>Betroffene Linien:</strong></p><ul><li>RE87 / RB88 Aschaffenburg - Crailsheim</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "30.05.2024",
-      "durationEnd": "21.06.2024",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/a2aaf891-8a83-4f91-a373-9272a4959969Tauberbahn_Ersatzverkehr%2Ban%2Beinzelnen%2BSonn-%2Bund%2BFeiertagen_aktualisiert.pdf",
-          "label": "Tauberbahn_Ersatzverkehr an einzelnen Sonn- und Feiertagen_aktualisiert.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 13:23",
       "expand": true,
       "topDisruption": false
     },
