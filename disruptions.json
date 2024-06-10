@@ -848,6 +848,72 @@
       "topDisruption": false
     },
     {
+      "id": "044e7588-cbf8-40ec-ae07-4615219fa874",
+      "disruptionId": "239c8106-25e9-4bd3-9229-2c56057f5237",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 44 / Ausfall RB 27325 / Mühldorf (ab 21:45 Uhr) - Waldkraiburg (an 21:52 Uhr)",
+      "summary": "Ersatzloser Ausfall am 10.06.2024",
+      "text": "<p>RB 44: Die RB 27325 entfällt am 10.06.2024 ersatzlos zwischen Mühldorf (ab 21:45 Uhr) und Waldkraiburg (an 21:52 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "10.06.2024",
+      "durationEnd": "10.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.06.2024 21:11",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "48aff14c-2948-4501-89c6-0f82accfb5b4",
+      "disruptionId": "dfedcf79-66e8-4f9e-b392-28224d315d3b",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 45 / Ausfall RB RB 27141 / Neumarkt St. Veit (ab 00:47 Uhr) - Mühldorf (an 00:59 Uhr)",
+      "summary": "Ersatzloser Ausfall am 11.06.2024",
+      "text": "<p>RB 45: Die RB RB 27141 entfällt am 11.06.2024 ersatzlos zwischen Neumarkt St. Veit (ab 00:47 Uhr) und Mühldorf (an 00:59 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "10.06.2024",
+      "durationEnd": "11.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.06.2024 20:50",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "2aace340-3933-4f2c-8a68-2f4a927fcb91",
       "disruptionId": "153dcee8-35cb-48d2-8c1e-30b7c2815e98",
       "author": "SUEDOSTBAYERNBAHN",
@@ -976,39 +1042,6 @@
         }
       ],
       "lastModified": "10.06.2024 19:30",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "48aff14c-2948-4501-89c6-0f82accfb5b4",
-      "disruptionId": "dfedcf79-66e8-4f9e-b392-28224d315d3b",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 45 / Ausfall RB RB 27141 / Neumarkt St. Veit (ab Zeit1 Uhr) - Mühldorf (an 00:59 Uhr)",
-      "summary": "Ersatzloser Ausfall am 11.06.2024",
-      "text": "<p>RB 45: Die RB RB 27141 entfällt am 11.06.2024 ersatzlos zwischen Neumarkt St. Veit (ab 00:47 Uhr) und Mühldorf (an 00:59 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "11.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 15:13",
       "expand": true,
       "topDisruption": false
     },
