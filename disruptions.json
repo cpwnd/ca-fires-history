@@ -2,54 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "4678009b-6f7d-486e-b608-6276fdc9f48f",
-      "disruptionId": "edbf8d3e-a758-42d9-8147-55e920c44997",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Streckensperrung zwischen Fulda und Erfurt",
-      "summary": "Aufgrund eines Feuerwehreinsatzes in Gleisnähe ist die Strecke zwischen Fulda und Erfurt derzeit gesperrt. Es kommt zu Umleitungen, Teilausfällen und Verspätungen bis ca. 180 Min im Fernverkehr.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge (Berlin - Leipzig - Erfurt - Frankfurt - Stuttgart – München)</li><li>ICE Züge (Berlin – Halle (S) – Erfurt – Frankfurt (M))</li><li>ICE Züge (Hamburg – Berlin – Leipzig – Erfurt – München)</li><li>ICE Züge (Wiesbaden – Frankfurt (M) – Erfurt – Leipzig – Dresden)</li><li>IC Züge (Köln – Hamm(W) – Kassel-Wilhelmshöhe – Gera/Leipzig)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "10.06.2024 17:38",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "0ad79f2d-eca0-450a-b326-53248d997610",
       "disruptionId": "0893588b-d675-47d1-a4b7-14329343879a",
       "author": "FERNVERKEHR_AG",
@@ -824,39 +776,6 @@
       "topDisruption": false
     },
     {
-      "id": "39148c93-25a0-461d-adf8-f8270f4aa4fb",
-      "disruptionId": "93bed67e-6b13-4cd5-bd35-38104f4d742f",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "RB 40 / Ausfall RB 27059 / München Hbf (ab 18:31 Uhr) - München Ost (an 18:39 Uhr)",
-      "summary": "Ersatzloser Ausfall am 10.06.2024",
-      "text": "<p>RB 40: Die RB 27059 entfällt am 10.06.2024 ersatzlos zwischen München Hbf (ab 18:31 Uhr) und München Ost (an 18:39 Uhr) wegen Bauarbeiten. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 18:42",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "8c02f65d-515e-4cbd-ba1a-c1f3e46c1685",
       "disruptionId": "dab866d1-e8c1-4b1e-a7de-0c9ccce29d61",
       "author": "SUEDOSTBAYERNBAHN",
@@ -886,39 +805,6 @@
         }
       ],
       "lastModified": "10.06.2024 18:26",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "65374954-159d-456b-a84b-e13b35b18734",
-      "disruptionId": "ef8ec819-a9e1-4f99-b70d-1460c075b1d1",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Verspätung eines vorausfahrenden Zuges"
-      },
-      "headline": "RB 32 / Ausfall RB 27633 / Bogen (ab Zeit1 Uhr) - Straubing (an 18:20 Uhr)",
-      "summary": "Ersatzloser Ausfall am 10.06.2024",
-      "text": "<p>RB 32: Die RB 27633 entfällt am 10.06.2024 ersatzlos zwischen Bogen (ab 18:04 Uhr) und Straubing (an 18:20 Uhr) wegen verspätet vorausfahrendem Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 18:17",
       "expand": true,
       "topDisruption": false
     },
