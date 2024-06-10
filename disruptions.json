@@ -848,6 +848,39 @@
       "topDisruption": false
     },
     {
+      "id": "fee3b332-897a-4cd7-b5e0-0fa845e9ff1c",
+      "disruptionId": "beab9a6f-857d-46c2-94e4-6dc9ca68b8d7",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 45 / Ausfall RB 27997 / Freilassing (ab 21:48 Uhr) - Salzburg (an 21:58 Uhr)",
+      "summary": "Ausfall RB 27997, Alternative: S-Bahn",
+      "text": "<p>RB 45: Die RB 27997 entfällt am 10.06.2024 zwischen Freilassing (ab 21:48 Uhr) und Salzburg (an 21:58 Uhr) wegen Fahrzeugstörung. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
+      "durationBegin": "10.06.2024",
+      "durationEnd": "10.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.06.2024 22:11",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "008e4125-b93f-4537-8cd3-94cae2611a5d",
       "disruptionId": "f3289d8c-a1a4-4919-8263-34aacb3907e9",
       "author": "SUEDOSTBAYERNBAHN",
@@ -976,72 +1009,6 @@
         }
       ],
       "lastModified": "10.06.2024 20:31",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "e66f6ab8-ca01-4c2e-a911-ffa8cadab681",
-      "disruptionId": "cb616354-6c62-471e-a695-7763da6a9d1f",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Behobener technischer Defekt einem anderen Zug"
-      },
-      "headline": "RB 44 / Ausfall RB 27135 / Landshut (Bay.) Hbf (ab 20:37 Uhr) - Mühldorf (an 21:28 Uhr)",
-      "summary": "Ersatzloser Ausfall am 10.06.2024",
-      "text": "<p>RB 44: Die RB 27135 entfällt am 10.06.2024 ersatzlos zwischen Landshut (Bay.) Hbf (ab 20:37 Uhr) und Mühldorf (an 21:28 Uhr) wegen Reparatur an einem anderen Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 20:10",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "0cd5ab28-230e-43ca-942d-09cd20870eb3",
-      "disruptionId": "f6616725-2206-4d37-8f99-9002f6a33505",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Behobener technischer Defekt einem anderen Zug"
-      },
-      "headline": "RB 44 / Ausfall RB 27136 / Mühldorf (ab 19:31 Uhr) - Landshut (Bay.) Hbf (an 20:21 Uhr)",
-      "summary": "Ersatzloser Ausfall am 10.06.2024",
-      "text": "<p>RB 44: Die RB 27136 entfällt am 10.06.2024 ersatzlos zwischen Mühldorf (ab 19:31 Uhr) und Landshut (Bay.) Hbf (an 20:21 Uhr) wegen technischer Störung an anderem Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 19:57",
       "expand": true,
       "topDisruption": false
     },
