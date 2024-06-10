@@ -763,6 +763,39 @@
       "topDisruption": false
     },
     {
+      "id": "cd69c834-5b2f-4f21-80b8-075ca98eec53",
+      "disruptionId": "729e09b7-105f-40c5-81a7-61623c5f7d19",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 45 / Ausfall RB 27142 / Mühldorf (ab Zeit1 Uhr) - Neumarkt St. Veit (an 22:51 Uhr)",
+      "summary": "Ersatzloser Ausfall am 10.06.2024",
+      "text": "<p>RB 45: Die RB 27142 entfällt am 10.06.2024 ersatzlos zwischen Mühldorf (ab 22:40  Uhr) und Neumarkt St. Veit (an 22:51 Uhr) wegen Fahrzeugstörung. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "10.06.2024",
+      "durationEnd": "10.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.06.2024 14:47",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "459e521d-bd22-4bbb-a302-5847470d4a71",
       "disruptionId": "5c0ec917-86ba-4f10-bc43-389479cbc017",
       "author": "REGIO_BW",
@@ -1075,7 +1108,7 @@
       },
       "headline": "Beeinträchtigungen zwischen Nürnberg und Würzburg",
       "summary": "Aufgrund eines Hangrutsches zwischen Nürnberg und Würzburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und NJ-Züge zwischen Nürnberg und Würzburg.</li></ul><p>Die Behebung der Störung soll vsl. bis Montag, 24.06.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und NJ-Züge zwischen Nürnberg und Würzburg.</li><li>Es kommt zu Teilausfällen zwischen Nürnberg und München.</li></ul><p>Die Behebung der Störung soll vsl. bis Montag, 24.06.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "10.06.2024",
       "images": [],
       "downloads": [],
@@ -1093,7 +1126,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "10.06.2024 11:18",
+      "lastModified": "10.06.2024 14:37",
       "expand": true,
       "topDisruption": false
     },
