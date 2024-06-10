@@ -848,6 +848,39 @@
       "topDisruption": false
     },
     {
+      "id": "008e4125-b93f-4537-8cd3-94cae2611a5d",
+      "disruptionId": "f3289d8c-a1a4-4919-8263-34aacb3907e9",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 44 / Ausfall RB 27322 / Waldkraiburg (ab 22:00 Uhr) - Mühldorf (an 22:09 Uhr)",
+      "summary": "Ersatzloser Ausfall am 10.06.2024",
+      "text": "<p>RB 44: Die RB 27322 entfällt am 10.06.2024 ersatzlos zwischen Waldkraiburg (ab 22:00  Uhr) und Mühldorf (an 22:09 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "10.06.2024",
+      "durationEnd": "10.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.06.2024 21:28",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "044e7588-cbf8-40ec-ae07-4615219fa874",
       "disruptionId": "239c8106-25e9-4bd3-9229-2c56057f5237",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1009,39 +1042,6 @@
         }
       ],
       "lastModified": "10.06.2024 19:57",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "5bcdd91d-60f8-49a4-9c1f-5e2c3040b672",
-      "disruptionId": "6ffaa401-dc55-41e2-a55a-e8f9a4b3f0a4",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 46 / Ausfall RB 27239 / Neumarkt St. Veit (ab 18:50 Uhr) - Passau Hbf (an 20:55 Uhr)",
-      "summary": "Ersatzloser Ausfall am 10.06.2024",
-      "text": "<p>RB 46: Die RB 27239 entfällt am 10.06.2024 ersatzlos zwischen Neumarkt St. Veit (ab 18:50 Uhr) und Passau Hbf (an 20:55 Uhr) wegen Fahrzeugstörung. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 19:30",
       "expand": true,
       "topDisruption": false
     },
