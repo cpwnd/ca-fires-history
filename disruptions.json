@@ -776,16 +776,16 @@
       "topDisruption": false
     },
     {
-      "id": "fee3b332-897a-4cd7-b5e0-0fa845e9ff1c",
-      "disruptionId": "beab9a6f-857d-46c2-94e4-6dc9ca68b8d7",
+      "id": "17675b87-bae4-48eb-bef1-59292541c9db",
+      "disruptionId": "7875b2f2-73ec-429d-83aa-4e1ace34a621",
       "author": "SUEDOSTBAYERNBAHN",
       "cause": {
         "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
+        "label": "Behobener technischer Defekt einem anderen Zug"
       },
-      "headline": "RB 45 / Ausfall RB 27997 / Freilassing (ab 21:48 Uhr) - Salzburg (an 21:58 Uhr)",
-      "summary": "Ausfall RB 27997, Alternative: S-Bahn",
-      "text": "<p>RB 45: Die RB 27997 entfällt am 10.06.2024 zwischen Freilassing (ab 21:48 Uhr) und Salzburg (an 21:58 Uhr) wegen Fahrzeugstörung. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
+      "headline": "RB 45: Verzögerungen zwischen Tittmoning-Wiesmühl und Mühldorf",
+      "summary": "Zwischen Tittmoning-Wiesmühl und Mühldorf kommt es zu Verzögerungen. Grund hierfür: Reparatur an einem anderen Zug",
+      "text": "<p>RB 45: Auf der Strecke zwischen Tittmoning-Wiesmühl und Mühldorf kommt es derzeit zu Verzögerungen von ca. 30 Minuten wegen die Reparatur an einem anderen Zug.</p>",
       "durationBegin": "10.06.2024",
       "durationEnd": "10.06.2024",
       "images": [],
@@ -804,40 +804,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "10.06.2024 22:11",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "044e7588-cbf8-40ec-ae07-4615219fa874",
-      "disruptionId": "239c8106-25e9-4bd3-9229-2c56057f5237",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 44 / Ausfall RB 27325 / Mühldorf (ab 21:45 Uhr) - Waldkraiburg (an 21:52 Uhr)",
-      "summary": "Ersatzloser Ausfall am 10.06.2024",
-      "text": "<p>RB 44: Die RB 27325 entfällt am 10.06.2024 ersatzlos zwischen Mühldorf (ab 21:45 Uhr) und Waldkraiburg (an 21:52 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 21:11",
+      "lastModified": "10.06.2024 23:03",
       "expand": true,
       "topDisruption": false
     },
@@ -904,39 +871,6 @@
         }
       ],
       "lastModified": "10.06.2024 20:31",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "cd69c834-5b2f-4f21-80b8-075ca98eec53",
-      "disruptionId": "729e09b7-105f-40c5-81a7-61623c5f7d19",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 45 / Ausfall RB 27142 / Mühldorf (ab Zeit1 Uhr) - Neumarkt St. Veit (an 22:51 Uhr)",
-      "summary": "Ersatzloser Ausfall am 10.06.2024",
-      "text": "<p>RB 45: Die RB 27142 entfällt am 10.06.2024 ersatzlos zwischen Mühldorf (ab 22:40  Uhr) und Neumarkt St. Veit (an 22:51 Uhr) wegen Fahrzeugstörung. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 14:47",
       "expand": true,
       "topDisruption": false
     },
