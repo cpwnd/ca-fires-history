@@ -2,6 +2,54 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "4678009b-6f7d-486e-b608-6276fdc9f48f",
+      "disruptionId": "edbf8d3e-a758-42d9-8147-55e920c44997",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Streckensperrung zwischen Fulda und Erfurt",
+      "summary": "Aufgrund eines Feuerwehreinsatzes in Gleisnähe ist die Strecke zwischen Fulda und Erfurt derzeit gesperrt. Es kommt zu Umleitungen, Teilausfällen und Verspätungen bis ca. 180 Min im Fernverkehr.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge (Berlin - Leipzig - Erfurt - Frankfurt - Stuttgart – München)</li><li>ICE Züge (Berlin – Halle (S) – Erfurt – Frankfurt (M))</li><li>ICE Züge (Hamburg – Berlin – Leipzig – Erfurt – München)</li><li>ICE Züge (Wiesbaden – Frankfurt (M) – Erfurt – Leipzig – Dresden)</li><li>IC Züge (Köln – Hamm(W) – Kassel-Wilhelmshöhe – Gera/Leipzig)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.06.2024",
+      "durationEnd": "10.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "10.06.2024 17:38",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "0ad79f2d-eca0-450a-b326-53248d997610",
       "disruptionId": "0893588b-d675-47d1-a4b7-14329343879a",
       "author": "FERNVERKEHR_AG",
