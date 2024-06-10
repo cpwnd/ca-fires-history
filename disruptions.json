@@ -604,78 +604,6 @@
       "topDisruption": false
     },
     {
-      "id": "15d75c1c-5b58-48d3-9681-ed2005bcab1d",
-      "disruptionId": "02c15519-a8e0-4196-b056-39bd325fbfab",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Stuttgart Hbf tief <->S-Vaihingen: Massive Beeinträchtigung aufgrund Polizei Einsatz",
-      "summary": "Strecke Hauptbahnhof (tief) –S-Vaihingen unterbrochen, Abweichungen im S-Bahnverkehr",
-      "text": "<p>Strecke zwischen Hauptbahnhof (tief) und S-Vaihingen unterbrochen.</p><p>&nbsp;Es kommt aktuell im S-Bahnverkehr zu größeren Abweichungen.</p><p>Die S1 wird zwischen S-Hauptbahnhof (oben) und Vaihingen umgeleitet, die Halte dazwischen entfallen.&nbsp;</p><p>Die S2 verkehrt zwischen Schorndorf und Waiblingen, sowie zwischen Filderstadt und Vaihingen.</p><p>&nbsp;</p><p>Die S3 verkehrt zwischen Backnang und Bad Cannstatt.&nbsp;</p><p>Die S4 in Richtung Stuttgart endet in Feuerbach und startet Richtung Backnang/Marbach in Stuttgart Hbf (oben).</p><p>&nbsp;</p><p>Die S5 Richtung Stuttgart endet in Stuttgart Hbf (oben) und startet Richtung Bietigheim in Feuerbach.&nbsp;</p><p>Die S6/S60 verkehrt zwischen Zuffenhausen und Weil der Stadt bzw. Böblingen.&nbsp;</p><p>Grund auf Anordnung der Polizei Stammstrecke für Zugfahrten gesperrt,&nbsp;Verdacht auf unbefugte Personen.</p><p>Im Innenstadtbereich wird empfohlen, auch alternative Verkehrsmittel zu nutzen.&nbsp;</p><p>Bitte beachten Sie, dass es auch in diesen zu Kapazitätsengpässen kommen kann.&nbsp;</p><p>Dauer der Störung noch nicht einschätzbar. Weitere Informationen folgen, sobald diese bekannt sind.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "10.06.2024",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-06-10/2b9c1705-3f83-4ca5-9a3b-4505aa378b8freisendenkarte_20240610-193752.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-06-10/2b9c1705-3f83-4ca5-9a3b-4505aa378b8freisendenkarte_20240610-193752.png",
-          "info": "",
-          "alt": "Reisendenkarte 10.06.2024 19:37:52",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 60",
-          "filterName": "S 60 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.06.2024 20:01",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7d068048-834e-45cc-9eb9-e054ad964529",
       "disruptionId": "30f778b1-ad87-40fa-8cde-9cffa2441c10_TrafficReport",
       "author": "REGIO_SUEDOST",
@@ -877,39 +805,6 @@
         }
       ],
       "lastModified": "10.06.2024 22:11",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "008e4125-b93f-4537-8cd3-94cae2611a5d",
-      "disruptionId": "f3289d8c-a1a4-4919-8263-34aacb3907e9",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 44 / Ausfall RB 27322 / Waldkraiburg (ab 22:00 Uhr) - Mühldorf (an 22:09 Uhr)",
-      "summary": "Ersatzloser Ausfall am 10.06.2024",
-      "text": "<p>RB 44: Die RB 27322 entfällt am 10.06.2024 ersatzlos zwischen Waldkraiburg (ab 22:00  Uhr) und Mühldorf (an 22:09 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 21:28",
       "expand": true,
       "topDisruption": false
     },
