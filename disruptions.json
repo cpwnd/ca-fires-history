@@ -280,6 +280,66 @@
       "topDisruption": false
     },
     {
+      "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
+      "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugausfälle bei der Westfrankenbahn",
+      "summary": "Aufgrund von Personalengpässen beim Fahrpersonal und in den Stellwerken kommt es bis voraussichtlich Oktober 2024 auf den Linien RE 87 und RB 88 zu Zugausfällen.",
+      "text": "<p><strong>Bis 12. Juni 2024:</strong></p><p>Zugausfälle zwischen Aschaffenburg und Kleinwallstadt. Ersatzverkehr für die ausfallenden Züge ist eingerichtet.</p><p><strong>Bis 21. Juni 2024:</strong></p><p>In den Zeiten zwischen 4:30 Uhr - 7:30 Uhr und ab ca. 12:30 Uhr kommt es auf der kompletten Linie RE 87 und RB 88 zu Zugausfällen. Ersatzverkehr mit Bussen eingerichtet.</p><p><strong>Bis 24. Juli 2024:</strong></p><p>Zugausfälle zwischen Wertheim und Crailsheim. Ersatzverkehr mit Bussen ist eingerichtet.</p><p><strong>Bis Oktober 2024: </strong></p><p>Zugausfälle an einzelnen Sonn- und Feiertage auf der Tauberbahn. Ersatzverkehr mit Bus ist eingerichtet.</p><p>Die Fahrpläne der Ersatzverkehre finden Sie weiter unten.</p><p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 87 Aschaffenburg - Miltenberg - Crailsheim </strong></li><li><strong>RB 88 Aschaffenburg - Wertheim - Crailsheim</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "10.06.2024",
+      "durationEnd": "20.10.2024",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/1b0ac166-20e9-4669-af46-10a1941d89edTeilweise_Ersatzverkehr_%252BAschaffenburg_Kleinwallstadt_10-1206.pdf",
+          "label": "Ersatzverkehr Aschaffenburg-Kleinwallstadt bis 12. Juni 2024",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/a6ce3f3c-7cf8-4c5a-a0a9-df6cdcb4c814Tauberbahn_Ersatzverkehr%252Ban%252Beinzelnen%252BSonn-%252Bund%252BFeiertagen_aktualisiert.pdf",
+          "label": "Tauberbahn Ersatzverkehr an einzelnen Sonn- und Feiertagen bis Oktober 2024",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/c10897b6-f120-400f-aef0-14f63b45ce5eTauberbahn_Ersatzverkehr%252Bbis%252B%252B24.%252BJuli%252B2024.pdf",
+          "label": "Ersatzverkehr Wertheim - Crailsheim bis 24. Juli 2024",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.westfrankenbahn.de/fahrplan/sev-haltestellen",
+          "label": "Übersicht aller Ersatz-Haltestellen der Westfrankenbahn",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.06.2024 18:31",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "8ee08799-5b92-4770-ac55-643095b8040f",
       "disruptionId": "fcc71f6b-8121-4246-86ab-6459dfc0d7f8",
       "author": "REGIO_BW",
@@ -336,59 +396,6 @@
         }
       ],
       "lastModified": "10.06.2024 18:26",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
-      "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugausfälle bei der Westfrankenbahn",
-      "summary": "Aufgrund von Personalengpässen beim Fahrpersonal und in den Stellwerken kommt es bis voraussichtlich Oktober 2024 auf den Linien RE 87 und RB 88 zu Zugausfällen.",
-      "text": "<p><strong>Bis 12. Juni 2024:</strong></p><p>Zugausfälle zwischen Aschaffenburg und Kleinwallstadt. Ersatzverkehr für die ausfallenden Züge ist eingerichtet.</p><p><strong>Bis 21. Juni 2024:</strong></p><p>In den Zeiten zwischen 4:30 Uhr - 7:30 Uhr und ab ca. 12:30 Uhr kommt es auf der kompletten Linie RE 87 und RB 88 zu Zugausfällen. Ersatzverkehr mit Bussen eingerichtet.</p><p><strong>Bis 24. Juli 2024:</strong></p><p>Zugausfälle zwischen Wertheim und Crailsheim. Ersatzverkehr mit Bussen ist eingerichtet.</p><p><strong>Bis Oktober 2024: </strong></p><p>Zugausfälle an einzelnen Sonn- und Feiertage auf der Tauberbahn. Ersatzverkehr mit Bus ist eingerichtet.</p><p>Die Fahrpläne der Ersatzverkehre finden Sie weiter unten.</p><p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 87 Aschaffenburg - Miltenberg - Crailsheim </strong></li><li><strong>RB 88 Aschaffenburg - Wertheim - Crailsheim</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "20.10.2024",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/ccd5b5fb-7d84-4d80-b169-6467f5cb652eTeilweise_Ersatzverkehr_%252BAschaffenburg_Kleinwallstadt_10-1206.pdf",
-          "label": "Ersatzverkehr Aschaffenburg-Kleinwallstadt bis 12. Juni 2024",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/6cd1e427-35e7-4ca5-9277-faa9bbfc64f4Tauberbahn_Ersatzverkehr%252Bbis%252B%252B24.%252BJuli%252B2024.pdf",
-          "label": "Ersatzverkehr Wertheim - Crailsheim bis 24. Juli 2024",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/7f95415e-d591-44fd-87de-eba675c21074Tauberbahn_Ersatzverkehr%252Ban%252Beinzelnen%252BSonn-%252Bund%252BFeiertagen_aktualisiert.pdf",
-          "label": "Tauberbahn Ersatzverkehr an einzelnen Sonn- und Feiertagen bis Oktober 2024",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 15:43",
       "expand": true,
       "topDisruption": false
     },
@@ -817,6 +824,39 @@
       "topDisruption": false
     },
     {
+      "id": "39148c93-25a0-461d-adf8-f8270f4aa4fb",
+      "disruptionId": "93bed67e-6b13-4cd5-bd35-38104f4d742f",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "RB 40 / Ausfall RB 27059 / München Hbf (ab 18:31 Uhr) - München Ost (an 18:39 Uhr)",
+      "summary": "Ersatzloser Ausfall am 10.06.2024",
+      "text": "<p>RB 40: Die RB 27059 entfällt am 10.06.2024 ersatzlos zwischen München Hbf (ab 18:31 Uhr) und München Ost (an 18:39 Uhr) wegen Bauarbeiten. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "10.06.2024",
+      "durationEnd": "10.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.06.2024 18:42",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "8c02f65d-515e-4cbd-ba1a-c1f3e46c1685",
       "disruptionId": "dab866d1-e8c1-4b1e-a7de-0c9ccce29d61",
       "author": "SUEDOSTBAYERNBAHN",
@@ -879,39 +919,6 @@
         }
       ],
       "lastModified": "10.06.2024 18:17",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "d87dc24a-b474-4e00-ad59-50e2823973b6",
-      "disruptionId": "e956fafd-6b4d-45c6-9861-58e4533fa524",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Verspätung eines vorausfahrenden Zuges"
-      },
-      "headline": "RB 32 / Ausfall RB 27628 / Straubing (ab 17:41 Uhr) - Bogen (an 17:58 Uhr)",
-      "summary": "Ersatzloser Ausfall am 10.06.2024",
-      "text": "<p>RB 32: Die RB 27628 entfällt am 10.06.2024 ersatzlos zwischen Straubing (ab 17:41 Uhr) und Bogen (an 17:58 Uhr) wegen vorausfahrendem Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "10.06.2024",
-      "durationEnd": "10.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.06.2024 18:07",
       "expand": true,
       "topDisruption": false
     },
