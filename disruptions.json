@@ -848,6 +848,72 @@
       "topDisruption": false
     },
     {
+      "id": "2aace340-3933-4f2c-8a68-2f4a927fcb91",
+      "disruptionId": "153dcee8-35cb-48d2-8c1e-30b7c2815e98",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "RB 46 / Ausfall RB 27244 / Passau Hbf (ab 21:13 Uhr) - Pfarrkirchen (an 22:36 Uhr)",
+      "summary": "Ersatzloser Ausfall am 10.06.2024",
+      "text": "<p>RB 46: Die RB 27244 entfällt am 10.06.2024 ersatzlos zwischen Passau Hbf (ab 21:13 Uhr) und Pfarrkirchen (an 22:36 Uhr) wegen vorangegangener Störung an einem anderen Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "10.06.2024",
+      "durationEnd": "10.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.06.2024 20:31",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "e66f6ab8-ca01-4c2e-a911-ffa8cadab681",
+      "disruptionId": "cb616354-6c62-471e-a695-7763da6a9d1f",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "RB 44 / Ausfall RB 27135 / Landshut (Bay.) Hbf (ab 20:37 Uhr) - Mühldorf (an 21:28 Uhr)",
+      "summary": "Ersatzloser Ausfall am 10.06.2024",
+      "text": "<p>RB 44: Die RB 27135 entfällt am 10.06.2024 ersatzlos zwischen Landshut (Bay.) Hbf (ab 20:37 Uhr) und Mühldorf (an 21:28 Uhr) wegen Reparatur an einem anderen Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "10.06.2024",
+      "durationEnd": "10.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.06.2024 20:10",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "0cd5ab28-230e-43ca-942d-09cd20870eb3",
       "disruptionId": "f6616725-2206-4d37-8f99-9002f6a33505",
       "author": "SUEDOSTBAYERNBAHN",
