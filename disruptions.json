@@ -11,7 +11,7 @@
       },
       "headline": "Nach Abzug des Tiefdruckgebietes Radha noch Beeinträchtigungen in Bayern",
       "summary": "Einige Strecken in Bayern aufgrund Unwetterschäden weiter nicht befahrbar. Es kommt zu Zugausfällen, Haltausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Die ECE-Züge München - Zürich fallen in beiden Fahrtrichtungen zwischen München und St. Margrethen aus.</li><li>Die Strecke Nürnberg - Würzburg ist gesperrt. Die ICE-Züge werden in beiden Fahrtrichtungen umgeleitet und verspäten sich dadurch um etwa 30 Minuten.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Die ECE-Züge München - Zürich fallen in beiden Fahrtrichtungen zwischen München und St. Margrethen aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternative:</p><p>Ersatzbusse fahren zwischen Lindau-Reutin und München ZOB (Hackerbrücke). Bitte nutzen Sie die Züge der S-Bahn zwischen München Hackerbrücke und München Hbf (tief).</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "05.06.2024",
       "images": [],
       "downloads": [],
@@ -30,7 +30,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "08.06.2024 15:07",
+      "lastModified": "10.06.2024 11:02",
       "expand": true,
       "topDisruption": false
     },
@@ -1059,6 +1059,38 @@
         }
       ],
       "lastModified": "10.06.2024 01:00",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "4a86ca58-77ed-4227-8240-8bc7635903c7",
+      "disruptionId": "b53dc9e1-a214-4c50-a8f4-4bee58b30da5",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Erdrutsch"
+      },
+      "headline": "Beeinträchtigungen zwischen Nürnberg und Würzburg",
+      "summary": "Aufgrund eines Hangrutsches zwischen Nürnberg und Würzburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE- und NJ-Züge zwischen Nürnberg und Würzburg.</li></ul><p>Die Behebung der Störung soll vsl. bis Montag, 24.06.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "10.06.2024 11:18",
       "expand": true,
       "topDisruption": false
     },
