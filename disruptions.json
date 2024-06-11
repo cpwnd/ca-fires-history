@@ -2,42 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "0ad79f2d-eca0-450a-b326-53248d997610",
-      "disruptionId": "0893588b-d675-47d1-a4b7-14329343879a",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamburg und Hannover",
-      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Celle und Uelzen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE/IC-Züge zwischen Hamburg und Hannover mit planmäßigen Halt in Lüneburg, Uelzen und Celle verspäten sich in beiden Fahrtrichtungen um etwa 20 Minuten.</li><li>Alle ICE-Züge zwischen Hamburg und Hannover ohne planmäßigen Zwischenhalt werden umgeleitet und verspäten sich um etwa 30 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "30.05.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "HB",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "10.06.2024 13:27",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
@@ -569,53 +533,6 @@
       ],
       "lastModified": "18.04.2024 13:07",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "75802745-8003-4401-95f8-f4d0d7842f8e",
-      "disruptionId": "1aeabe3a-fcea-4e76-a0a5-0c7b54b76096",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Eingleisiger Betrieb zwischen Donaueschingen und Villingen(Schwarzw) ist beendet",
-      "summary": "Die Reparatur an der Oberleitung von Donaueschingen in Richtung Villingen(Schwarzw) ist beendet. In Kürze fahren die Züge auf dem Streckenabschnitt wieder ohne Einschränkungen. Bitte überprüfen Sie Ihre Verbindung daher noch einmal kurz vor der Reise.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 2 Karlsruhe - Offenburg - Konstanz</strong></li><li><strong>S 10 Freiburg - Neustadt(Schwarzw) - Villingen(Schwarzw)</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "11.06.2024",
-      "durationEnd": "11.06.2024",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-11/f4d01bb9-96ee-4244-a9b6-005c04040d0freisendenkarte_20240611-111800.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-11/f4d01bb9-96ee-4244-a9b6-005c04040d0freisendenkarte_20240611-111800.png",
-          "info": "",
-          "alt": "Reisendenkarte 11.06.2024 11:18:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 2",
-          "filterName": "RE 2",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 10",
-          "filterName": "S 10",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "11.06.2024 16:35",
-      "expand": true,
       "topDisruption": false
     },
     {
