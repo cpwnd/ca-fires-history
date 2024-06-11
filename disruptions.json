@@ -504,8 +504,8 @@
       "durationEnd": "30.06.2024",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/25648ec1-be76-4f49-bb54-a219dc12069areisendenkarte_20240525-113438.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/25648ec1-be76-4f49-bb54-a219dc12069areisendenkarte_20240525-113438.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-11/0f2279b8-2ffc-4276-a493-d68c372e3defreisendenkarte_20240525-113438.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-11/0f2279b8-2ffc-4276-a493-d68c372e3defreisendenkarte_20240525-113438.png",
           "info": "",
           "alt": "Reisendenkarte 25.05.2024 11:34:38",
           "openInNewTab": true
@@ -513,7 +513,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-10/84febc6b-6c37-4029-98f7-71f74949e62fTitisee-Seebrugg%2BNEU%2Bab%2B10.6..pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-11/93bd2167-b782-4a4f-9f89-4dc517bf1047Titisee-Seebrugg%2BNEU%2Bab%2B10.6..pdf",
           "label": "Titisee-Seebrugg Fahrplan für Ersatzverkehrbus S1 NEU ab 10.6..pdf",
           "info": "",
           "openInNewTab": true
@@ -534,7 +534,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.06.2024 12:58",
+      "lastModified": "11.06.2024 11:29",
       "expand": true,
       "topDisruption": false
     },
@@ -579,15 +579,24 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Oberleitung"
       },
-      "headline": "Reparatur an der Oberleitung",
-      "summary": "Aufgrund von Beschädigung durch Tiere kommt es voraussichtlich bis bis ca. 16: 00 Uhr auf den Zügen der Linie RE 2 // S 10 Donaueschingen >< Villingen zu Verspätungen und Teilausfälle. \n\nkein Ersatzverkehr",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 2 // S !0</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "headline": "Eingleisiger Betrieb zwischen Donaueschingen und Villingen(Schwarzw)",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung von Donaueschingen in Richtung Villingen (Schwarzw) kommt es jetzt zu Verspätungen und Ausfällen. Voraussichtliche Dauer der Störung bis ca. 16:00 Uhr. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>RE 2 Karlsruhe - Offenburg - Konstanz</strong></li><li><strong>S 10 Freiburg - Neustadt(Schwarzw) - Villingen(Schwarzw)</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "11.06.2024",
       "durationEnd": "11.06.2024",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-11/9be20682-23f0-4279-bf20-8404bbc332dbreisendenkarte_20240611-111800.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-11/9be20682-23f0-4279-bf20-8404bbc332dbreisendenkarte_20240611-111800.png",
+          "info": "",
+          "alt": "Reisendenkarte 11.06.2024 11:18:00",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
+        "SBAHN",
         "REGIONAL"
       ],
       "states": [
@@ -595,12 +604,17 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
+          "name": "RE 2",
+          "filterName": "RE 2",
           "property": "REGIONAL"
+        },
+        {
+          "name": "S 10",
+          "filterName": "S 10",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "11.06.2024 11:01",
+      "lastModified": "11.06.2024 11:27",
       "expand": true,
       "topDisruption": false
     },
