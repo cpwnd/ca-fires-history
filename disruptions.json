@@ -931,6 +931,39 @@
       "topDisruption": false
     },
     {
+      "id": "f4168340-176b-45e8-bd0a-d35c6ee8a6e3",
+      "disruptionId": "a815062a-db0a-4c40-b009-1e7ab03e1853",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Störung Zugleitsystem auf der Linie RB 72",
+      "summary": "Die Züge der Linie RB 72 Heidenau - Kurort Altenberg verkehren zur Zeit mit verminderter Geschwindigkeit. Verspätungen bis zu 30 min. und Anschlussverlust möglich. \nReparatur in Arbeit – Störungsbehebung vsl. am 13. Juni 2024.\nWir bitten um Entschuldigung.\n\nBitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Beeinträchtigung mehr Reisezeit ein.\n",
+      "text": "<p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
+      "durationBegin": "12.06.2024",
+      "durationEnd": "13.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RB 72",
+          "filterName": "RB 72",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.06.2024 13:16",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "disruptionId": "e6146ea6-b009-4114-b108-0b15cafb611d_TrafficReport",
       "author": "S_BAHN_S",
