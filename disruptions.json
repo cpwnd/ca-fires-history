@@ -243,9 +243,9 @@
         "category": "weather_storm",
         "label": "Unwetterauswirkungen"
       },
-      "headline": "Zugausfälle zwischen München und Zürich",
+      "headline": "Beeinträchtigungen zwischen München und Zürich",
       "summary": "Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Es kommt zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die ECE-Züge München – Lindau – Zürich fallen bis einschließlich 12.06.2024 in beiden Fahrtrichtungen zwischen München und St. Margrethen aus.</li><li>Die ECE-Züge München – Lindau – Zürich fallen ab 13.06.2024 in beiden Fahrtrichtungen zwischen München und Lindau-Reutin aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternative:</p><p>Zwischen München ZOB Hackerbrücke und Lindau-Reutin ist ein Busersatzverkehr eingerichtet. Die Ersatzbusse starten in München und Lindau jeweils 30 Minuten früher gegenüber den Zeiten der ECE-Züge. Zwischen München Hbf und München Hackerbrücke nutzen sie bitte die Züge der S-Bahn München. Die Ersatzbusse sind in der Reiseauskunft und im DB Navigator aufgeführt.</p><p>Alternativ können sie auch zwischen München und Lindau in beiden Richtungen die Nahverkehrszüge über Kempten nutzen.</p><p>Die Behebung der Störung soll vsl. bis Montag, 01.07.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die ECE-Züge München – Lindau – Zürich fallen in beiden Fahrtrichtungen zwischen München und Lindau-Reutin aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternative:</p><p>Zwischen München ZOB Hackerbrücke und Lindau-Reutin ist ein Busersatzverkehr eingerichtet. Die Ersatzbusse starten in München 30 Minuten früher gegenüber den Zeiten der ECE-Züge. In Lindau-Reutin besteht Anschluss vom Ersatzbus auf den ECE-Zug in Richtung Zürich, sowie in der Gegenrichtung vom ECE-Zug auf den Ersatzbus in Richtung München. Zwischen München Hbf und München Hackerbrücke nutzen sie bitte die Züge der S-Bahn München. Die Ersatzbusse sind in der Reiseauskunft und im DB Navigator aufgeführt.</p><p>Alternativ können sie zwischen München und Lindau in beiden Richtungen die Nahverkehrszüge über Kempten nutzen.</p><p>Die Behebung der Störung soll vsl. bis Montag, 01.07.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "05.06.2024",
       "images": [],
       "downloads": [],
@@ -264,7 +264,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "12.06.2024 16:16",
+      "lastModified": "13.06.2024 00:01",
       "expand": true,
       "topDisruption": false
     },
@@ -946,39 +946,6 @@
         }
       ],
       "lastModified": "12.06.2024 19:07",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "f1420752-0b20-4a42-a887-b6bec26f13f5",
-      "disruptionId": "2f48550d-28f0-40ef-b2bd-3f483ae16297",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "RB 40 / Ausfall RB 27061 / München Hbf (ab Zeit1 Uhr) - Markt Schwaben (an 19:30 Uhr)",
-      "summary": "Ausfall RB 27061, Alternative: S-Bahn",
-      "text": "<p>RB 40: Die RB 27061 entfällt am 12.06.24 zwischen München Hbf (ab 19:06 Uhr) und Markt Schwaben (an 19:30 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
-      "durationBegin": "12.06.2024",
-      "durationEnd": "12.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.06.2024 18:53",
       "expand": true,
       "topDisruption": false
     },
