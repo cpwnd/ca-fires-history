@@ -752,6 +752,39 @@
       "topDisruption": false
     },
     {
+      "id": "0250dfe2-a814-4a2b-9848-bf91e04ff1e7",
+      "disruptionId": "3a08962d-0a19-4812-bcaa-93d9d89231b6",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 40 / Ausfall RB 27044 / Markt Schwaben (ab Zeit1 Uhr) - München Hbf (an 15:35 Uhr)",
+      "summary": "Ausfall RB 27044, Alternative: S-Bahn",
+      "text": "<p>RB 40: Die RB 27044 entfällt am 12.06.24 zwischen Markt Schwaben (ab 15:11 Uhr) und München Hbf (an 15:35 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
+      "durationBegin": "12.06.2024",
+      "durationEnd": "12.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.06.2024 15:44",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "41edb94a-0108-46e5-b18f-9a7bf4253886",
       "disruptionId": "76930789-c602-4f97-89b8-2bc7611494b3",
       "author": "SUEDOSTBAYERNBAHN",
