@@ -752,6 +752,72 @@
       "topDisruption": false
     },
     {
+      "id": "6479ba25-71dd-4309-9272-6cd398c8b520",
+      "disruptionId": "175e2438-896a-4f85-9a3d-adbd736ee209",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 40 / Ausfall RB 27062 / Markt Schwaben (ab 21:28 Uhr) - München Hbf (an 21:54 Uhr)",
+      "summary": "Ausfall RB 27062, Alternative: S-Bahn",
+      "text": "<p>RB 40: Die RB 27062 entfällt am 12.06.24 zwischen Markt Schwaben (ab 21:28 Uhr) und München Hbf (an 21:54 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
+      "durationBegin": "12.06.2024",
+      "durationEnd": "13.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.06.2024 19:40",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "4ab85474-f894-496b-8be2-73aa955c9af1",
+      "disruptionId": "cae68a7e-bf7a-441f-9323-b780a0798c20",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 40",
+      "summary": "Reparatur an der Strecke",
+      "text": "<p>Wegen einer Reparatur an der Strecke entfällt die RB 27058 von Markt Schwaben (ab 19:28 Uhr) bis München Hbf (an19:55 Uhr). Reisende nutzen bitte die S-Bahn.</p>",
+      "durationBegin": "12.06.2024",
+      "durationEnd": "13.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.06.2024 19:07",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "f1420752-0b20-4a42-a887-b6bec26f13f5",
       "disruptionId": "2f48550d-28f0-40ef-b2bd-3f483ae16297",
       "author": "SUEDOSTBAYERNBAHN",
