@@ -245,7 +245,7 @@
       },
       "headline": "Zugausfälle zwischen München und Zürich",
       "summary": "Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Es kommt zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die ECE-Züge München – Lindau – Zürich fallen in beiden Fahrtrichtungen zwischen München und St. Margrethen aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternative:</p><p>Zwischen München ZOB Hackerbrücke und Lindau-Reutin ist ein Busersatzverkehr eingerichtet. Die Ersatzbusse starten in München und Lindau jeweils 30 Minuten früher gegenüber den Zeiten der ECE-Züge. Zwischen München Hbf und München Hackerbrücke nutzen sie bitte die Züge der S-Bahn München. Die Ersatzbusse sind in der Reiseauskunft und im DB Navigator aufgeführt.</p><p>Alternativ können sie auch zwischen München und Lindau in beiden Richtungen die Nahverkehrszüge über Kempten nutzen.</p><p>Die Behebung der Störung soll vsl. bis Montag, 01.07.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die ECE-Züge München – Lindau – Zürich fallen bis einschließlich 12.06.2024 in beiden Fahrtrichtungen zwischen München und St. Margrethen aus.</li><li>Die ECE-Züge München – Lindau – Zürich fallen ab 13.06.2024 in beiden Fahrtrichtungen zwischen München und Lindau-Reutin aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternative:</p><p>Zwischen München ZOB Hackerbrücke und Lindau-Reutin ist ein Busersatzverkehr eingerichtet. Die Ersatzbusse starten in München und Lindau jeweils 30 Minuten früher gegenüber den Zeiten der ECE-Züge. Zwischen München Hbf und München Hackerbrücke nutzen sie bitte die Züge der S-Bahn München. Die Ersatzbusse sind in der Reiseauskunft und im DB Navigator aufgeführt.</p><p>Alternativ können sie auch zwischen München und Lindau in beiden Richtungen die Nahverkehrszüge über Kempten nutzen.</p><p>Die Behebung der Störung soll vsl. bis Montag, 01.07.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "05.06.2024",
       "images": [],
       "downloads": [],
@@ -264,7 +264,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "11.06.2024 02:17",
+      "lastModified": "12.06.2024 16:16",
       "expand": true,
       "topDisruption": false
     },
@@ -749,6 +749,39 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "f6e230b6-7a20-4424-a02b-c88e89cb3541",
+      "disruptionId": "1d80aaf5-9316-47ce-ac6a-7d67278b67e0",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 40 / Ausfall RB 27051 / München Hbf (ab Zeit1 Uhr) - Mühldorf (an 18:20 Uhr)",
+      "summary": "Ersatzloser Ausfall am 12.06.24",
+      "text": "<p>RB 40: Die RB 27051 entfällt am 12.06.24 ersatzlos zwischen München Hbf (ab 17:06 Uhr) und Mühldorf (an 18:20 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "12.06.2024",
+      "durationEnd": "12.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.06.2024 16:16",
+      "expand": true,
       "topDisruption": false
     },
     {
