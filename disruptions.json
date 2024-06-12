@@ -101,6 +101,12 @@
           "openInNewTab": true
         },
         {
+          "href": "https://assets.static-bahn.de/dam/jcr:25fb8a45-4894-4bec-91a0-67020138e636/S6_RE4_RE14_Mainz-Mannheim-Mainz.pdf",
+          "label": "S6_RE4_RE14_Mainz-Mannheim-Mainz (PDF, 209 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
           "href": "https://assets.static-bahn.de/dam/jcr:995c65e6-0129-4cf1-965b-91a570999454/S44_BASF-Ludwigshafen-BASF.pdf",
           "label": "S44_BASF-Ludwigshafen-BASF (PDF, 123 KB)",
           "info": "",
@@ -142,7 +148,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "07.06.2024 17:29",
+      "lastModified": "12.06.2024 14:36",
       "expand": false,
       "topDisruption": false
     },
@@ -746,6 +752,39 @@
       "topDisruption": false
     },
     {
+      "id": "38fd8989-983e-4c97-92fe-0f687eac645d",
+      "disruptionId": "86761c9f-a009-41b2-82a8-c906e6569b5f",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 40 / Ausfall RB 27042 / Markt Schwaben (ab Zeit1 Uhr) - München Hbf (an 15:54 Uhr)",
+      "summary": "Ausfall am heute",
+      "text": "<p>RB 40: Die RB 27042 entfällt am 12.06.24 ersatzlos zwischen Markt Schwaben (ab 14:28 Uhr) und München Hbf (an 15:54 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn oder die nächstmögliche Verbindung.</p>",
+      "durationBegin": "12.06.2024",
+      "durationEnd": "12.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.06.2024 14:49",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "24c6041c-de30-4a69-acab-4e245c41a8e3",
       "disruptionId": "cf248ac1-13b2-49d7-840e-73bd4cb4c77f",
       "author": "REGIO_BY",
@@ -922,38 +961,6 @@
       ],
       "lastModified": "18.04.2024 12:27",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "8deac40a-90f8-41cb-b443-66f94e703b9b",
-      "disruptionId": "748908e1-7b22-44c8-83e5-fe0ab0f4ee07",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen München und Ingolstadt",
-      "summary": "Aufgrund der Reparatur an einer Weiche zwischen München und Ingolstadt kommt es derzeit zu Beeinträchtigungen und Verspätungen von etwa 10 Minuten im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge auf der Strecke München - Ingolstadt - Nürnberg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Abendstunden des 12.06.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "12.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "12.06.2024 13:54",
-      "expand": true,
       "topDisruption": false
     },
     {
