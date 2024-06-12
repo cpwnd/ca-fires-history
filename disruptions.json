@@ -548,6 +548,39 @@
       "topDisruption": false
     },
     {
+      "id": "eab0e204-e066-4fea-b386-cc34c3835d4c",
+      "disruptionId": "973f9f47-1cb8-43cd-91fd-a28fae8470b2",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 40 / Ausfall RB 27067 / München Hbf (ab 20:26 Uhr) - Markt Schwaben (an 20:52 Uhr)",
+      "summary": "Ausfall RB 27067, Alternative: S-Bahn",
+      "text": "<p>RB 40: Die RB 27067 entfällt am 12.06.24 zwischen München Hbf (ab 20:26 Uhr) und Markt Schwaben (an 20:52 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
+      "durationBegin": "12.06.2024",
+      "durationEnd": "13.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.06.2024 20:13",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "4a86ca58-77ed-4227-8240-8bc7635903c7",
       "disruptionId": "b53dc9e1-a214-4c50-a8f4-4bee58b30da5",
       "author": "FERNVERKEHR_AG",
@@ -752,16 +785,16 @@
       "topDisruption": false
     },
     {
-      "id": "6479ba25-71dd-4309-9272-6cd398c8b520",
-      "disruptionId": "175e2438-896a-4f85-9a3d-adbd736ee209",
+      "id": "c030adff-406c-4f1d-b0a5-ac9d887e7f8d",
+      "disruptionId": "f9f7165a-c827-4055-80b0-b2aff46a0157",
       "author": "SUEDOSTBAYERNBAHN",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "RB 40 / Ausfall RB 27062 / Markt Schwaben (ab 21:28 Uhr) - München Hbf (an 21:54 Uhr)",
-      "summary": "Ausfall RB 27062, Alternative: S-Bahn",
-      "text": "<p>RB 40: Die RB 27062 entfällt am 12.06.24 zwischen Markt Schwaben (ab 21:28 Uhr) und München Hbf (an 21:54 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
+      "headline": "RB 40 / Ausfall RB 27075 / München Hbf (ab 23:28 Uhr) - Markt Schwaben (an 23:53 Uhr)",
+      "summary": "Ausfall RB 27075, Alternative: S-Bahn",
+      "text": "<p>RB 40: Die RB 27075 entfällt am 12.06.24 zwischen München Hbf (ab 23:28 Uhr) und Markt Schwaben (an 23:53 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
       "durationBegin": "12.06.2024",
       "durationEnd": "13.06.2024",
       "images": [],
@@ -780,7 +813,73 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "12.06.2024 19:40",
+      "lastModified": "12.06.2024 20:21",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "9896b1ce-febb-4b8f-b088-5c76059ea191",
+      "disruptionId": "a5b48bca-4a9d-4cbb-a46b-595913864bce",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 40 / Ausfall RB 27066 / Markt Schwaben (ab 22:31 Uhr) - München Hbf (an 22:59 Uhr)",
+      "summary": "Ausfall RB 27066, Alternative: S-Bahn",
+      "text": "<p>RB 40: Die RB 27066 entfällt am 12.06.24 zwischen Markt Schwaben (ab 22:31 Uhr) und München Hbf (an 22:59 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
+      "durationBegin": "12.06.2024",
+      "durationEnd": "13.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.06.2024 20:05",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "c307d53b-8b88-4c14-8627-034aa01161ee",
+      "disruptionId": "40834ae5-85ff-40e4-93c6-46632846ecc0",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 40 / Ausfall RB 27073 / München Hbf (ab 22:28 Uhr) - Markt Schwaben (an 22:52 Uhr)",
+      "summary": "Ausfall RB 27073, Alternative: S-Bahn",
+      "text": "<p>RB 40: Die RB 27073 entfällt am 12.06.24 zwischen München Hbf (ab 22:28 Uhr) und Markt Schwaben (an 22:52 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
+      "durationBegin": "12.06.2024",
+      "durationEnd": "13.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.06.2024 19:54",
       "expand": true,
       "topDisruption": false
     },
@@ -946,72 +1045,6 @@
         }
       ],
       "lastModified": "12.06.2024 17:31",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "541817ec-2f34-483e-ad87-5128b74b5fcb",
-      "disruptionId": "38391b63-65c1-4d33-8f7a-f70690aa02c0",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "RB 40 / Ausfall RB 27050 / Markt Schwaben (ab Zeit1 Uhr) - München Hbf (an 17:55 Uhr)",
-      "summary": "Ausfall RB 27050, Alternative: S-Bahn",
-      "text": "<p>RB 40: Die RB 27050 entfällt am 12.06.24 zwischen Markt Schwaben (ab 17:29 Uhr) und München Hbf (an 17:55 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
-      "durationBegin": "12.06.2024",
-      "durationEnd": "12.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.06.2024 17:17",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "b97c3a2f-10e5-452d-8447-d6e1ca819bca",
-      "disruptionId": "fb716ef9-3e68-4992-bbd8-2f8392c79591",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "RB 40 / Ausfall RB 27057 / München Hbf (ab Zeit1 Uhr) - Markt Schwaben (an 18:32 Uhr)",
-      "summary": "Ausfall RB 27057, Alternative: S-Bahn",
-      "text": "<p>RB 40: Die RB 27057 entfällt am 12.06.24 zwischen München Hbf (ab 18:08 Uhr) und Markt Schwaben (an 18:32 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
-      "durationBegin": "12.06.2024",
-      "durationEnd": "12.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.06.2024 17:05",
       "expand": true,
       "topDisruption": false
     },
