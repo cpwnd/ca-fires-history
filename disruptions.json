@@ -548,39 +548,6 @@
       "topDisruption": false
     },
     {
-      "id": "eab0e204-e066-4fea-b386-cc34c3835d4c",
-      "disruptionId": "973f9f47-1cb8-43cd-91fd-a28fae8470b2",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "RB 40 / Ausfall RB 27067 / München Hbf (ab 20:26 Uhr) - Markt Schwaben (an 20:52 Uhr)",
-      "summary": "Ausfall RB 27067, Alternative: S-Bahn",
-      "text": "<p>RB 40: Die RB 27067 entfällt am 12.06.24 zwischen München Hbf (ab 20:26 Uhr) und Markt Schwaben (an 20:52 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
-      "durationBegin": "12.06.2024",
-      "durationEnd": "13.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.06.2024 20:13",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "4a86ca58-77ed-4227-8240-8bc7635903c7",
       "disruptionId": "b53dc9e1-a214-4c50-a8f4-4bee58b30da5",
       "author": "FERNVERKEHR_AG",
@@ -785,6 +752,72 @@
       "topDisruption": false
     },
     {
+      "id": "6981ec1b-3d50-42a4-805e-d99dfffc1155",
+      "disruptionId": "8b5b6d8b-5625-44d3-b422-a70c851954cc",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 40 / Ausfall RB 27077 / München Hbf (ab 00:48 Uhr) - Markt Schwaben (an 01:12 Uhr)",
+      "summary": "Ausfall RB 27077, Alternative: S-Bahn",
+      "text": "<p>RB 40: Die RB 27077 entfällt am 13.06.24 zwischen München Hbf (ab 00:48 Uhr) und Markt Schwaben (an 01:12 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
+      "durationBegin": "13.06.2024",
+      "durationEnd": "13.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.06.2024 21:03",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "04be2662-0924-440e-a2c7-7469a17b3062",
+      "disruptionId": "d69562cf-6106-4e1d-9040-51103d655911",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "RB 40 / Ausfall RB 27068 / Markt Schwaben (ab 23:33 Uhr) - München Hbf (an 00:00 Uhr)",
+      "summary": "Ausfall RB 27068, Alternative: S-Bahn",
+      "text": "<p>RB 40: Die RB 27068 entfällt am 12.06.24 zwischen Markt Schwaben (ab 23:33 Uhr) und München Hbf (an 00:00 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
+      "durationBegin": "12.06.2024",
+      "durationEnd": "13.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.06.2024 20:48",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c030adff-406c-4f1d-b0a5-ac9d887e7f8d",
       "disruptionId": "f9f7165a-c827-4055-80b0-b2aff46a0157",
       "author": "SUEDOSTBAYERNBAHN",
@@ -979,72 +1012,6 @@
         }
       ],
       "lastModified": "12.06.2024 18:16",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "41edb94a-0108-46e5-b18f-9a7bf4253886",
-      "disruptionId": "76930789-c602-4f97-89b8-2bc7611494b3",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "RB 40: Reparatur an der Strecke  zwischen Markt Schwaben und München Hbf",
-      "summary": "von 12.06.2024 bis 12.06.2024",
-      "text": "<p>Wegen einer Reparatur an der Strecke enden die Züge in Richtung München Hbf in Markt Schwaben. Zwischen Markt Schwaben bis Feldkirchen verkehren dann S-Bahnen. Ab Feldkirchen bis Riem ist Ersatzverkehr mit Taxen eingerichtet.</p>",
-      "durationBegin": "12.06.2024",
-      "durationEnd": "12.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.06.2024 17:55",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "a1b404df-5d20-4152-8c3c-a26a2e6df92d",
-      "disruptionId": "d8206599-0b6a-4e79-8eff-4f8530f97c96",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "RB 40 / Ausfall RB 27059 / München Hbf (ab Zeit1 Uhr) - Markt Schwaben (an 18:53 Uhr)",
-      "summary": "Ausfall RB 27059, Alternative: S-Bahn",
-      "text": "<p>RB 40: Die RB 27059 entfällt am 12.06.24 zwischen München Hbf (ab 18:31 Uhr) und Markt Schwaben (an 18:53 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
-      "durationBegin": "12.06.2024",
-      "durationEnd": "12.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.06.2024 17:31",
       "expand": true,
       "topDisruption": false
     },
