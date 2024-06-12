@@ -101,12 +101,6 @@
           "openInNewTab": true
         },
         {
-          "href": "https://assets.static-bahn.de/dam/jcr:7c6e76ff-6a40-47e7-a167-56d9ef8cd541/S6_RE4_RE14_Mainz-Mannheim-Mainz.pdf",
-          "label": "S6_RE4_RE14_Mainz-Mannheim-Mainz (PDF, 206 KB)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
           "href": "https://assets.static-bahn.de/dam/jcr:995c65e6-0129-4cf1-965b-91a570999454/S44_BASF-Ludwigshafen-BASF.pdf",
           "label": "S44_BASF-Ludwigshafen-BASF (PDF, 123 KB)",
           "info": "",
@@ -928,6 +922,38 @@
       ],
       "lastModified": "18.04.2024 12:27",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "8deac40a-90f8-41cb-b443-66f94e703b9b",
+      "disruptionId": "748908e1-7b22-44c8-83e5-fe0ab0f4ee07",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen München und Ingolstadt",
+      "summary": "Aufgrund der Reparatur an einer Weiche zwischen München und Ingolstadt kommt es derzeit zu Beeinträchtigungen und Verspätungen von etwa 10 Minuten im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge auf der Strecke München - Ingolstadt - Nürnberg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Abendstunden des 12.06.2024 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "12.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "12.06.2024 13:54",
+      "expand": true,
       "topDisruption": false
     },
     {
