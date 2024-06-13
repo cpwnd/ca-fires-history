@@ -925,6 +925,38 @@
       "topDisruption": false
     },
     {
+      "id": "413724ea-73a3-4fc8-95ac-f7d54b074174",
+      "disruptionId": "27e36b53-2b90-44b2-ae8c-45a7a3da86ff",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Dortmund und Hamm(Westf)",
+      "summary": "Aufgrund von kurzfristigen Bauarbeiten zwischen Dortmund und Hamm(Westf) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Verspätungen von vsl. 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge der Verbindung Köln - Dortmund - Hannover - Berlin</li><li>ICE-/IC-Züge der Verbindung Köln - Dortmund - Bremen - Hamburg</li><li>IC-Züge der Verbindung Köln - Hamm(Westf) - Kassel</li><li>IC-Züge der Verbindung Münster(Westf) - Dortmund - Siegen</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "12.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "13.06.2024 14:58",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "d7712319-801b-45da-bf8f-4d3a2b99c458",
       "disruptionId": "5966f425-2e90-4d60-9910-524cb9d94591",
       "author": "FERNVERKEHR_AG",
@@ -953,38 +985,6 @@
         }
       ],
       "lastModified": "13.06.2024 14:57",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "413724ea-73a3-4fc8-95ac-f7d54b074174",
-      "disruptionId": "27e36b53-2b90-44b2-ae8c-45a7a3da86ff",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Dortmund und Hamm (Westf)",
-      "summary": "Aufgrund von kurzfristigen Bauarbeiten zwischen Dortmund und Hamm (Westf) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Verspätungen von vsl. 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge der Verbindung Köln - Dortmund - Hannover - Berlin</li><li>ICE-/IC-Züge der Verbindung Köln - Dortmund - Bremen - Hamburg</li><li>IC-Züge der Verbindung Köln - Hamm (Westf) - Kassel</li><li>IC-Züge der Verbindung Münster (Westf) - Dortmund - Siegen</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "12.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "13.06.2024 14:40",
       "expand": true,
       "topDisruption": false
     },
