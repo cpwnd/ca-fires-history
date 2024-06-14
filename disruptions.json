@@ -457,6 +457,40 @@
       "topDisruption": false
     },
     {
+      "id": "42882bbd-857b-4b58-8ed7-de9636f93560",
+      "disruptionId": "d161b29a-308a-40f5-86f0-48f675131a01",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigung in Hanau",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles im Stellwerk Großauheim kommt es ab 20 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden zwischen Frankfurt und Aschaffenburg / Würzburg umgeleitet. Der Halt Hanau Hbf entfällt. Die Züge verspäten sich um etwa 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge (Dortmund –) Köln – Frankfurt (M) – Würzburg – Nürnberg – München.</li><li>ICE-Züge Dortmund – Köln – Mainz – Frankfurt (M) – Nürnberg – Passau – Wien.</li><li>ICE-Züge Hamburg – Bremen – Dortmund – Köln – Mainz – Frankfurt (M) – Nürnberg – Regensburg.</li></ul><p>Die Störung wird bis 6 Uhr am Samstag, 15.06.2024, andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.06.2024",
+      "durationEnd": "15.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "14.06.2024 18:04",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
