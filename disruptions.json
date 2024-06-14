@@ -583,6 +583,38 @@
       "topDisruption": false
     },
     {
+      "id": "7df1a437-18ac-47f0-9067-6e349c0f03ef",
+      "disruptionId": "b1e93486-a383-499c-bd52-ef0f4b4156e5",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln und Wuppertal",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Köln und Wuppertal ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne Fernverkehrszüge beider Fahrtrichtungen zwischen Köln und Wuppertal werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten. Bei diesen entfällt der Halt Solingen Hbf.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Reisende von/nach Solingen Hbf nutzen bitte die verbliebenen Fern- und Nahverkehrszüge mit Halt Solingen Hbf.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "14.06.2024 04:36",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "4a86ca58-77ed-4227-8240-8bc7635903c7",
       "disruptionId": "b53dc9e1-a214-4c50-a8f4-4bee58b30da5",
       "author": "FERNVERKEHR_AG",
