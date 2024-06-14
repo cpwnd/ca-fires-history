@@ -1000,6 +1000,39 @@
       "topDisruption": false
     },
     {
+      "id": "009a306c-eae0-49c0-877d-4ce30931286c",
+      "disruptionId": "685919c7-dfc5-4150-8335-2eb2ab786c3a",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Verspätungen auf der S-Bahnlinie 8 Dresden Hbf - Kamenz",
+      "summary": "Aufgrund von Bauarbeiten ist die Gleisverfügbarkeit zwischen Dresden Hbf und Dresden Mitte eingeschränkt. In der Folge kann es zu Verspätungen von 20 – 30 Minuten und in Einzelfällen zu Teilausfällen kommen.",
+      "text": "<p>Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 32300011 (zum Festnetztarif) zu informieren.</p>",
+      "durationBegin": "14.06.2024",
+      "durationEnd": "20.07.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "14.06.2024 18:31",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "disruptionId": "e6146ea6-b009-4114-b108-0b15cafb611d_TrafficReport",
       "author": "S_BAHN_S",
