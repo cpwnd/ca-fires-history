@@ -579,6 +579,46 @@
       "topDisruption": false
     },
     {
+      "id": "7b569933-3ef7-45eb-9777-4ee84f420439",
+      "disruptionId": "8240c0f3-de28-4ecd-a1bf-436e77c4f226",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Streckensperrung zwischen Offenburg und Triberg",
+      "summary": "Eine Reparatur an der Oberleitung im Raum Biberach(Baden) beeinträchtigt den Bahnverkehr. Die Strecke ist leider zwischen Offenburg und Triberg gesperrt. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen auf der Linie RE 2. Wir haben einen Ersatzverkehr mit Bussen zwischen Offenburg nach Triberg eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung. Die Dauer der Einschränkung ist noch nicht bekannt. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 2 Karlsruhe - Offenburg - Triberg - Villingen - Singen - Konstanz</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "15.06.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-15/4254daa6-e3a1-4475-bfce-8f7c46e05c89reisendenkarte_20240615-121652.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-15/4254daa6-e3a1-4475-bfce-8f7c46e05c89reisendenkarte_20240615-121652.png",
+          "info": "",
+          "alt": "Reisendenkarte 15.06.2024 12:16:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.06.2024 12:21",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "1b294b60-4c1c-4f66-bb4d-8577ff5b19a0",
       "disruptionId": "f8f8d8a2-a44f-4713-a4b2-34d6728404eb",
       "author": "REGIO_BW",
