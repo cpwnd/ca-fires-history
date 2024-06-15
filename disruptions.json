@@ -2,6 +2,43 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "f659fa59-4d9e-4c2a-85e2-0a559592ab3e",
+      "disruptionId": "ecdb63e4-6883-4e92-b3b1-7955ed3088c9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Beeinträchtigung in Remagen",
+      "summary": "Aufgrund eines kurzfristigen Personalausfalles in Remagen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Ausfällen, Teilausfällen, Umleitungen und Verspätungen bis zu 30 Min.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE, IC, EC und NJ Züge zwischen Köln und Koblenz im Zeitraum von 06:00 Uhr bis 10:00 Uhr</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "15.06.2024",
+      "durationEnd": "15.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "15.06.2024 03:01",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
