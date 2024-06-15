@@ -787,6 +787,72 @@
       "topDisruption": false
     },
     {
+      "id": "0bdbd3e1-9538-472d-aac3-7321741f3c37",
+      "disruptionId": "6c4342be-54aa-416e-97e8-a3912a8456dd",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 49: Ausfall RB 27428 zwischen Traunstein und Mühldorf",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>RB 49: Die RB 27428 entfällt 16.06.24 zwischen Traunstein (ab 18:20 Uhr) und Mühldorf (an 19:26 Uhr) wegen einer Reparatur am Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
+      "durationBegin": "15.06.2024",
+      "durationEnd": "16.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.06.2024 22:42",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "e35684ce-8af6-43cb-80c7-b7d0563cbd2d",
+      "disruptionId": "fa95e320-9a55-4297-af3f-cad26909c76a",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 49: Ausfall RB 27485 zwischen Traunreut und Traunstein",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>RB 49: Die RB 27485 entfällt 16.06.24 zwischen Traunreut (ab 17:48 Uhr) und Traunstein (an 18:14 Uhr) wegen einer Reparatur am Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
+      "durationBegin": "15.06.2024",
+      "durationEnd": "16.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 49",
+          "filterName": "RB 49",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.06.2024 22:32",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "f410e25f-0f03-4474-84e1-e7022ea07e15",
       "disruptionId": "fa742d65-8543-44ff-b5ff-c8e0ec274b55",
       "author": "SUEDOSTBAYERNBAHN",
