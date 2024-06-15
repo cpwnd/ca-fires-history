@@ -787,6 +787,39 @@
       "topDisruption": false
     },
     {
+      "id": "ff2b8f74-ccbb-4654-a416-e64c499cc354",
+      "disruptionId": "14cefb88-5365-404f-8667-94532fd184ff",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 49: Ausfall RB 27467 zwischen Traunreut und Traunstein",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>RB 49: Die RB 27467 entfällt 16.06.24 zwischen Traunreut (ab 13:52 Uhr) und Traunstein (an 14:14 Uhr) wegen einer Reparatur am Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
+      "durationBegin": "15.06.2024",
+      "durationEnd": "16.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 49",
+          "filterName": "RB 49",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.06.2024 21:29",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "938e96cd-ff11-4623-aba4-6bf287cbe088",
       "disruptionId": "cb7aec1c-1984-4593-a0da-0818f864ae9d",
       "author": "SUEDOSTBAYERNBAHN",
