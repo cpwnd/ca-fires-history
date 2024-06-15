@@ -787,6 +787,39 @@
       "topDisruption": false
     },
     {
+      "id": "c34c3cab-6943-4bc4-9207-1ddfae82fc7f",
+      "disruptionId": "1b5ff997-d10a-4014-84b4-658eef38bca4",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 47: Ausfall RB 27410 zwischen Traunstein und Mühldorf",
+      "summary": "Ein Ersatzverkehr ist eingerichtet",
+      "text": "<p>RB 47: die RB 27410 entfällt 16.06.24 zwischen Traunstein (ab 10:20 Uhr) und Mühldorf (an 11:26 Uhr) wegen einen Reparatur am Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
+      "durationBegin": "15.06.2024",
+      "durationEnd": "16.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 47",
+          "filterName": "RB 47",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.06.2024 19:24",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "f37cec94-18b1-47e1-8e29-a88440f0110f",
       "disruptionId": "537027c7-a25c-4f02-a609-9f7309f76de7",
       "author": "SUEDOSTBAYERNBAHN",
