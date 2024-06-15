@@ -787,6 +787,39 @@
       "topDisruption": false
     },
     {
+      "id": "938e96cd-ff11-4623-aba4-6bf287cbe088",
+      "disruptionId": "cb7aec1c-1984-4593-a0da-0818f864ae9d",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "RB 45 / Ausfall RB 27137 / Landshut (ab 21:37 Uhr) - Mühldorf (an 22:28 Uhr)",
+      "summary": "Ersatzloser Ausfall am 15.06.24",
+      "text": "<p>RB 45: Die RB 27137 entfällt am 15.06.24 ersatzlos zwischen Landshut (ab 21:37 Uhr) und Mühldorf (an 22:28 Uhr) wegen Reparatur an einem Signal. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "15.06.2024",
+      "durationEnd": "15.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.06.2024 20:24",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "ab2e14fb-e736-4012-8413-2a790024ad48",
       "disruptionId": "e8356e07-1869-4e6c-a19d-52d335119b4b",
       "author": "SUEDOSTBAYERNBAHN",
