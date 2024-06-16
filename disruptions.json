@@ -787,39 +787,6 @@
       "topDisruption": false
     },
     {
-      "id": "89e63be6-d98d-4487-a7e6-dcc300b17a83",
-      "disruptionId": "a38d9b07-b9a6-4418-8d91-4cf287372b90",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "RB 45 / Ausfall RB 27088 / Freilassing (ab 07:18 Uhr) - Mühldorf (an 08:14 Uhr)",
-      "summary": "Ersatzloser Ausfall am 16.06.24",
-      "text": "<p>RB 45: Die RB 27088 entfällt am 16.06.24 ersatzlos zwischen Freilassing (ab 07:18 Uhr) und Mühldorf (an 08:14 Uhr) wegen Personalausfall. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "15.06.2024",
-      "durationEnd": "16.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 45",
-          "filterName": "RB 45",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.06.2024 23:09",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "cb8dd3c0-d303-4b37-870d-d524a30dc00c",
       "disruptionId": "f5fcbfc7-6140-43b7-abe7-c005d7f6bac3",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1245,39 +1212,6 @@
         }
       ],
       "lastModified": "15.06.2024 19:16",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "f2c0abe5-bf7a-4dc3-a5fb-01e12679fedd",
-      "disruptionId": "59eab205-6261-4911-b7be-229b2ef3f01b",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 49: Ausfall RB 27454 zwischen Traunstein und Traunreut",
-      "summary": "Ein Ersatzverkehr ist eingerichtet",
-      "text": "<p>RB 49: Die RB 27454 entfällt 16.06.24 zwischen Traunstein (ab 08:47 Uhr) und Traunreut (an 09:10 Uhr) wegen einen Reparatur am Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
-      "durationBegin": "15.06.2024",
-      "durationEnd": "16.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 49",
-          "filterName": "RB 49",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.06.2024 19:05",
       "expand": true,
       "topDisruption": false
     },
