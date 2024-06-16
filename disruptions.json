@@ -1129,39 +1129,6 @@
       "topDisruption": false
     },
     {
-      "id": "ebeac160-44a7-43ad-b10c-e3260c6d791e",
-      "disruptionId": "1ddbba84-1e4f-4287-bd8e-881555d15fda",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 47: Ausfall RB 27420 zwischen Traunstein und Mühldorf",
-      "summary": "Ein Ersatzverkehr ist eingerichtet",
-      "text": "<p>RB 47: Die RB 27420 entfällt 16.06.24 zwischen Traunstein (ab 14:20 Uhr) und Mühldorf (an 15:26 Uhr) wegen einer Reparatur am Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
-      "durationBegin": "15.06.2024",
-      "durationEnd": "16.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 47",
-          "filterName": "RB 47",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.06.2024 21:51",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "1b2e9d5a-8495-4e30-878f-bf001a2d5c7f",
       "disruptionId": "03d4decd-7e2a-44c1-9211-0c583f0b8a69",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1224,39 +1191,6 @@
         }
       ],
       "lastModified": "15.06.2024 15:03",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "34a99c6d-cf02-4d74-b3b9-de034ac41b75",
-      "disruptionId": "f282c2c9-dcbd-43d9-8dda-8cb631f85c36",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 45 / Ausfall RB 27983 / Mühldorf (ab 13:42 Uhr) - Salzburg Hbf (an 14:55 Uhr)",
-      "summary": "Ersatzloser Ausfall am 16.06.24",
-      "text": "<p>RB 45: Die RB 27983 entfällt am 16.06.24 ersatzlos zwischen Mühldorf (ab 13:42 Uhr) und Salzburg Hbf (an 14:55 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "15.06.2024",
-      "durationEnd": "16.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 45",
-          "filterName": "RB 45",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.06.2024 14:49",
       "expand": true,
       "topDisruption": false
     },
