@@ -1216,39 +1216,6 @@
       "topDisruption": false
     },
     {
-      "id": "17ff869f-965c-47d9-945e-7e79e703d1ee",
-      "disruptionId": "7948e718-da07-470a-98dd-1c89013582b6",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 40 / Ausfall RB 27032 / Mühldorf (ab 08:32 Uhr) - München Hbf (an 09:36 Uhr)",
-      "summary": "Ersatzloser Ausfall am 16.06.24",
-      "text": "<p>RB 40: Die RB 27032 entfällt am 16.06.24 ersatzlos zwischen Mühldorf (ab 08:32 Uhr) und München Hbf (an 09:36 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "15.06.2024",
-      "durationEnd": "16.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.06.2024 15:54",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "6a9f1fed-f6fe-42f4-8feb-4072b4efe5d2",
       "disruptionId": "38ab7a0a-d1f6-4de0-bf82-e9d97935f21e",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1410,39 +1377,6 @@
         }
       ],
       "lastModified": "15.06.2024 14:24",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "2611e081-6600-47bb-8e5a-02c0929f1134",
-      "disruptionId": "3b39baa5-5605-4d51-8f43-d0834766cad6",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Behobener technischer Defekt einem anderen Zug"
-      },
-      "headline": "RB 59 / Ausfall RB 27657 / Traunstein (ab 08:46 Uhr) - Waging (an 09:06 Uhr)",
-      "summary": "Ersatzloser Ausfall am 16.06.24",
-      "text": "<p>RB 59: Die RB 27657 entfällt am 16.06.24 ersatzlos zwischen Traunstein (ab 08:46 Uhr) und Waging (an 09:06 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "15.06.2024",
-      "durationEnd": "16.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.06.2024 13:56",
       "expand": true,
       "topDisruption": false
     },
