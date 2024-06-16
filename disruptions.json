@@ -898,6 +898,39 @@
       "topDisruption": false
     },
     {
+      "id": "e9fb916e-7492-42b1-84e8-282e0aa5f780",
+      "disruptionId": "e52d294b-7ddb-4f41-b0a6-19a5d4477944",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Verzögerung im Betriebsablauf"
+      },
+      "headline": "RB 40 / Ausfall RB 27031 / München Hbf (ab 13:07 Uhr) - München Ost (an 13:15 Uhr)",
+      "summary": "Ausfall RB 27031, Alternative: S-Bahn",
+      "text": "<p>RB 40: Die RB 27031 entfällt am 16.06.24 zwischen München Hbf (ab 13:07 Uhr) und München Ost (an 13:15 Uhr) zur Betriebsstabilisierung. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
+      "durationBegin": "16.06.2024",
+      "durationEnd": "16.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.06.2024 12:55",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "44f48da6-2d82-4197-8ab8-1f95adde3bc9",
       "disruptionId": "699a1479-149e-4d06-8aee-8c947ea14e75",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1290,39 +1323,6 @@
         }
       ],
       "lastModified": "15.06.2024 19:53",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "b03b62b7-1ce6-409f-902f-2b9d17030537",
-      "disruptionId": "e2723908-2e01-4ff2-bcee-98a108703b5f",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 47: Ausfall RB 27417 zwischen Mühldorf und Traunreut",
-      "summary": "Ein Ersatzverkehr ist eingerichtet",
-      "text": "<p>RB 47: Die RB 27417 entfällt 16.06.24 zwischen Mühldorf (ab 11:33 Uhr) und Traunreut (an 12:27 Uhr) wegen einen Reparatur am Zug. Ein Ersatzverkehr ist eingerichtet.</p>",
-      "durationBegin": "15.06.2024",
-      "durationEnd": "16.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB 47",
-          "filterName": "RB 47",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.06.2024 19:41",
       "expand": true,
       "topDisruption": false
     },
