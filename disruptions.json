@@ -616,6 +616,38 @@
       "topDisruption": false
     },
     {
+      "id": "a31aafe8-fe56-4d02-b58c-ced08f7681fd",
+      "disruptionId": "4c41c7cb-0c7c-4ba9-82f4-434983c988e0",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Regensburg und Passau",
+      "summary": "Aufgrund von Bauarbeiten zwischen Plattling und Passau kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen und Teilausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Aufgrund von Bauarbeiten auf der Strecke&nbsp;Plattling –&nbsp;Passau&nbsp;ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt.&nbsp;</li></ul><p>Betroffen sind folgende Verbindungen im Fernverkehr:&nbsp;</p><ul><li>IC-Züge&nbsp;Hamburg – Bremen – Dortmund – Köln – Frankfurt (M) – Nürnberg – Passau fallen zwischen Regensburg und Passau aus. Die Halte&nbsp; Straubing, Plattling und Passau entfallen.&nbsp;</li><li>ICE-Züge&nbsp;Hamburg-Berlin / Hamburg&nbsp;/&nbsp;Dortmund – Köln – Frankfurt (M) – Nürnberg – Passau – Wien enden in Regensburg. Die Halte, Plattling und Passau Hbf entfallen.</li><li>ICE-Züge Wien - Passau - Nürnberg - Frankfurt(M) - Köln - Dortmund/Hamburg - Hamburg-Berlin enden in Passau. Der Halt Plattling entfällt. </li><li>Es wurde Busersatzverkehr eingerichtet. </li><li>Die Störung soll bis Tagesende des 17.06.2024 andauern.  </li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "16.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "16.06.2024 23:15",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "4a86ca58-77ed-4227-8240-8bc7635903c7",
       "disruptionId": "b53dc9e1-a214-4c50-a8f4-4bee58b30da5",
       "author": "FERNVERKEHR_AG",
@@ -882,39 +914,6 @@
         }
       ],
       "lastModified": "16.06.2024 22:33",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "b5ec063c-d765-48ad-89de-4368727b4387",
-      "disruptionId": "4a318e03-b1de-460b-9d37-5965a35521a4",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 44 / Ausfall RB 27322 / Waldkraiburg (ab 22:00 Uhr) - Mühldorf (an 22:09 Uhr)",
-      "summary": "Ersatzloser Ausfall am 16.06.24",
-      "text": "<p>RB 44: Die RB 27322 entfällt am 16.06.24 ersatzlos zwischen Waldkraiburg (ab 22:00 Uhr) und Mühldorf (an 22:09 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "16.06.2024",
-      "durationEnd": "16.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "16.06.2024 21:33",
       "expand": true,
       "topDisruption": false
     },
