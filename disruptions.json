@@ -820,6 +820,72 @@
       "topDisruption": false
     },
     {
+      "id": "7ab919bb-e697-4a75-bf83-0874a7773faf",
+      "disruptionId": "be48a646-2b7f-4296-aa2c-2aa20b1e2060",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "RB 45 / Ausfall RB 27998 / Salzburg Hbf (ab 23:08 Uhr) - Freilassing (an 23:21 Uhr)",
+      "summary": "Ausfall RB 27998, Alternative: S-Bahn",
+      "text": "<p>RB 45: Die RB 27998 entfällt am 16.06.24 zwischen Salzburg Hbf (ab 23:08  Uhr) und Freilassing (an 23:21 Uhr) wegen Reparatur an einem Signal. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
+      "durationBegin": "16.06.2024",
+      "durationEnd": "16.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.06.2024 22:46",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "5f55d8db-6fe6-4de4-9f89-225ab5f19574",
+      "disruptionId": "a3f1b9a8-808c-4ec2-aa8c-24af7e4b132c",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "RB 45 / Ausfall RB 27999 / Freilassing (ab 22:42 Uhr) - Salzburg Hbf (an 22:54 Uhr)",
+      "summary": "Ausfall am heute",
+      "text": "<p>RB 45: Die RB 27999 entfällt am 16.06.24 ersatzlos zwischen Freilassing (ab 22:42 Uhr) und Salzburg Hbf (an 22:54 Uhr) wegen Reparatur an einem Signal. Bitte nutzen Sie alternativ die S-Bahn oder die nächstmögliche Verbindung.</p>",
+      "durationBegin": "16.06.2024",
+      "durationEnd": "16.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.06.2024 22:33",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "b5ec063c-d765-48ad-89de-4368727b4387",
       "disruptionId": "4a318e03-b1de-460b-9d37-5965a35521a4",
       "author": "SUEDOSTBAYERNBAHN",
@@ -849,39 +915,6 @@
         }
       ],
       "lastModified": "16.06.2024 21:33",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "19bbdac1-4516-4a1f-83b6-1dbdbe2b8ae0",
-      "disruptionId": "8eb5e778-0619-4dbc-836c-0d5fcffe0ef3",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 44 / Ausfall RB 27325 / Mühldorf (ab 21:45 Uhr) - Waldkraiburg (an 21:52 Uhr)",
-      "summary": "Ersatzloser Ausfall am 16.06.24",
-      "text": "<p>RB 44: Die RB 27325 entfällt am 16.06.24 ersatzlos zwischen Mühldorf (ab 21:45 Uhr) und Waldkraiburg (an 21:52 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "16.06.2024",
-      "durationEnd": "16.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "16.06.2024 21:20",
       "expand": true,
       "topDisruption": false
     },
