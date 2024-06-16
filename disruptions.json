@@ -820,6 +820,39 @@
       "topDisruption": false
     },
     {
+      "id": "6a6375fc-942f-4a62-9acd-af4ab532d076",
+      "disruptionId": "186f0cd0-293a-4d24-aa7a-88f2b6930ef3",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 40 / Ausfall RB 27069 / München Hbf (ab 20:26 Uhr) - Mühldorf (an 21:39 Uhr)",
+      "summary": "Ersatzloser Ausfall am 16.06.24",
+      "text": "<p>RB 40: Die RB 27069 entfällt am 16.06.24 ersatzlos zwischen München Hbf (ab 20:26 Uhr) und Mühldorf (an 21:39 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "16.06.2024",
+      "durationEnd": "16.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "16.06.2024 19:37",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "86b050c5-a02a-4951-98d0-13268b0a953b",
       "disruptionId": "a736d2b6-5091-42fc-bc6c-22d383217ecc",
       "author": "SUEDOSTBAYERNBAHN",
