@@ -852,6 +852,39 @@
       "topDisruption": false
     },
     {
+      "id": "57db106c-15fe-443b-a3cb-8d3327b99424",
+      "disruptionId": "5974879f-392a-4e80-948e-5dc63dc480a3",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 42 / Ausfall RB 27194 / Burghausen (ab 20:45 Uhr) - Mühldorf (an 21:20 Uhr)",
+      "summary": "Ersatzloser Ausfall am 18.06.24",
+      "text": "<p>RB 42: Die RB 27194 entfällt am 18.06.24 ersatzlos zwischen Burghausen (ab 20:45 Uhr) und Mühldorf (an 21:20 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 20:54",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "4982adb9-e70e-4da1-a65a-d1fec113b9f8",
       "disruptionId": "95565760-d5c6-444a-9363-5068d5836c7a",
       "author": "SUEDOSTBAYERNBAHN",
