@@ -615,6 +615,39 @@
       "topDisruption": false
     },
     {
+      "id": "22d1dfda-9000-44e1-934e-9b89c0e4c966",
+      "disruptionId": "0c506d91-59ae-4f6a-be91-c7140604e25b",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Kurzfristige Erkrankung vom Stellwerkpersonal – vom 22. Juni 18:00 Uhr bis 23. Juni 2024 06:00 Uhr",
+      "summary": "Wegen erhöhter Erkrankung von Stellwerkspersonal kommt es zu Zugausfällen zwischen Nordhausen und Sondershausen in beiden Fahrtrichtungen, im Zeitraum von 18:00 Uhr bis 06:00 Uhr.",
+      "text": "<p>Betroffene Linien: <strong>RE 55/56 Nordhausen-Erfurt</strong></p><p><strong>Ausfall Sondershausen – Nordhausen</strong></p><p>RE 16580 / RE 16564 / 16582 und RE 16566</p><p><strong>Ausfall Nordhausen – Sondershausen</strong></p><p>RE 16581 / RE 16565 / Re 16583 und Re 16567</p><p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Bestätigung unserer Partner.</p><p>Wir setzen alles daran, unsere Fahrgäste zuverlässig an ihr Ziel zu bringen und bemühen uns, die Einschränkungen so gering wie möglich zu halten.</p><p>Für die Unannehmlichkeiten bitten wir um Entschuldigung.</p><p>Wir bitten unsere Reisenden, sich vor Fahrtantritt auf bahn.de oder in unserer App DB Navigator über Ihre Zugverbindung zu informieren. Weitere Informationen erhalten Sie auch bei der Kundenhotline der Nordthüringenbahn unter 0361 51884477</p>",
+      "durationBegin": "22.06.2024",
+      "durationEnd": "23.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 22:28",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "4a86ca58-77ed-4227-8240-8bc7635903c7",
       "disruptionId": "b53dc9e1-a214-4c50-a8f4-4bee58b30da5",
       "author": "FERNVERKEHR_AG",
@@ -816,6 +849,39 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "b4d12ee1-8b95-4f30-819c-7015c6a586a9",
+      "disruptionId": "fd77c1da-b669-4e5b-9cb4-6bb5ddf94ab7",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "RB 44 / Ausfall RB 27322 / Waldkraiburg (ab 22:00 Uhr) - Mühldorf (an 22:09 Uhr)",
+      "summary": "Ersatzloser Ausfall am 18.06.24",
+      "text": "<p>RB 44: Die RB 27322 entfällt am 18.06.24 ersatzlos zwischen Waldkraiburg (ab 22:00 Uhr) und Mühldorf (an 22:09 Uhr) wegen Personalausfall. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 22:21",
+      "expand": true,
       "topDisruption": false
     },
     {
