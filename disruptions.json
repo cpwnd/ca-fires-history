@@ -110,6 +110,40 @@
       "topDisruption": false
     },
     {
+      "id": "26d0edf6-b5b0-4f61-ae4c-e3dc3874c937",
+      "disruptionId": "26590a1a-6a05-4418-a2f5-abdea73213c2",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Sperrung des Bahnhofs Delitzsch unt. Bf",
+      "summary": "Aufgrund eines Personenunfalls in Delitzsch unt. Bf ist die Strecke gesperrt. ",
+      "text": "<p>Die Züge der RE 13 werden über Halle/Saale Hbf umgeleitet. Bei den Zügen der S 2 kommt es zu Ausfällen und Teilausfällen. Wir arbeiten an der Einrichtung eines Ersatzverkehrs mit Bussen.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "17.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 19:01",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "da494258-13f1-4e4b-b4d8-e02a8ed52d86",
       "author": "REGIO_MITTE",
       "cause": {
@@ -648,6 +682,39 @@
       "topDisruption": false
     },
     {
+      "id": "6d866cb0-c88f-4dba-ad89-a40e4f3e21e6",
+      "disruptionId": "29ac51dd-9481-49d3-a83d-968ce3b1bc3a",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Personenunfall in Meißen",
+      "summary": "Streckenabschnitt Meißen-Triebischtal - Coswig(b. Dresden) gesperrt",
+      "text": "<p>Aufgrund eines Personenunfalls ist der Streckenabschnitt Meißen-Triebischtal - Coswig(b. Dresden) gesperrt. Wir arbeiten an der Einrichtung eines Ersatzverkehrs mit Bussen.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "17.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 19:07",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "4a86ca58-77ed-4227-8240-8bc7635903c7",
       "disruptionId": "b53dc9e1-a214-4c50-a8f4-4bee58b30da5",
       "author": "FERNVERKEHR_AG",
@@ -852,6 +919,72 @@
       "topDisruption": false
     },
     {
+      "id": "66cea9a1-9690-4794-8e16-b5a95e4e2b00",
+      "disruptionId": "838dea21-1653-48d1-b321-c17607c6a2f9",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 42 / Ausfall RB 27178 / Burghausen (ab 12:50 Uhr) - Mühldorf (an 13:30 Uhr)",
+      "summary": "Ersatzloser Ausfall am 18.06.24",
+      "text": "<p>RB 42: Die RB 27178 entfällt am 18.06.24 ersatzlos zwischen Burghausen (ab 12:50 Uhr) und Mühldorf (an 13:30 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 19:10",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "a00b7136-8053-46ad-b4ee-a1dc01dcb50f",
+      "disruptionId": "deed293e-26da-4cb9-9896-a197c1bc7e60",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 42 / Ausfall RB 27173 / Mühldorf (ab 11:37 Uhr) - Burghausen (an 12:16 Uhr)",
+      "summary": "Ersatzloser Ausfall am 18.06.24",
+      "text": "<p>RB 42: Die RB 27173 entfällt am 18.06.24 ersatzlos zwischen Mühldorf (ab 11:37 Uhr) und Burghausen (an 12:16 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 19:03",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "73261fd0-dff1-44e1-9415-ecc23ed79717",
       "disruptionId": "df2ff04d-4695-496f-833b-11f64c635597",
       "author": "SUEDOSTBAYERNBAHN",
@@ -980,39 +1113,6 @@
         }
       ],
       "lastModified": "17.06.2024 18:04",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "02f1f427-e1b3-4819-aac8-e7e60409cd35",
-      "disruptionId": "a6dd5eb8-dfdd-4ece-96f1-0c6b5cd5a512",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "RB 40 / Ausfall RB 27059 / München Hbf (ab 18:31 Uhr) - München Ost (an 18:39 Uhr)",
-      "summary": "Ausfall RB 27059, Alternative: S-Bahn",
-      "text": "<p>RB 40: Die RB 27059 entfällt am 17.06.24 zwischen München Hbf (ab 18:31 Uhr) und München Ost (an 18:39 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "17.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 17:52",
       "expand": true,
       "topDisruption": false
     },
