@@ -788,6 +788,39 @@
       "topDisruption": false
     },
     {
+      "id": "a43f1143-7458-4669-bfce-64146aa62ec4",
+      "disruptionId": "ec47ec35-f815-40fb-a268-90911313cdd4",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 44 / Ausfall RB 27128 / Mühldorf (ab 16:20 Uhr) - Landshut (Bay.) Hbf (an 16:20 Uhr)",
+      "summary": "Ersatzloser Ausfall am 17.06.24",
+      "text": "<p>RB 44: Die RB 27128 entfällt am 17.06.24 ersatzlos zwischen Mühldorf (ab 15:32 Uhr) und Landshut (Bay.) Hbf (an 16:20 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "17.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 15:42",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c6c1fb4d-ac77-4323-aaf8-22b6e1c653ba",
       "disruptionId": "9a68880d-92c6-43ff-902c-0bd4c6fc41a9",
       "author": "REGIO_BW",
