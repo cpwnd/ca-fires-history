@@ -188,6 +188,70 @@
       "topDisruption": false
     },
     {
+      "id": "65462333-14fb-4e28-bcf0-4b9123211229",
+      "author": "REGIO_NI_HB",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen im Zugverkehr zwischen Niedersachswerfen und Nordhausen",
+      "summary": "Aufgrund einer Stellwerksst&ouml;rung zwischen Niedersachswerfen und Nordhausen ist kein Zugverkehr bis voraussichtlich morgen fr&uuml;h 06:00 Uhr in beide Richtungen m&ouml;glich.<br />\nEin Ersatzverkehr mit Bus ist in Planung.&nbsp;",
+      "text": "<p><u><strong>Betroffene Linien: &nbsp;</strong></u></p>\n\n<ul>\n\t<li>RB 80/81 (G&ouml;ttingen/Bodenfelde &ndash; Nordhausen): Die Z&uuml;ge fallen in der Zeit von 18:00 Uhr bis 06:00 Uhr zwischen Niedersachswerfen und Nordhausen aus. Ein Ersatzverkehr mit Bus ist in Planung.&nbsp;</li>\n</ul>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;bahn.de, in der&nbsp;App DB Navigator&nbsp;oder beim regionalen Kundendialog unter 0511 45901645. &nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf&nbsp;X&nbsp;(ehemals&nbsp;Twitter).  &nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;cheauf&nbsp;bahn.de/fahrgastrechte. &nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n\n<p>&nbsp;</p>\n",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "http://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter) ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 18:34",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "6c8e24e3-4b82-477c-8c9a-d895b7e15073",
       "author": "REGIO_MITTE",
       "cause": {
@@ -788,6 +852,72 @@
       "topDisruption": false
     },
     {
+      "id": "73261fd0-dff1-44e1-9415-ecc23ed79717",
+      "disruptionId": "df2ff04d-4695-496f-833b-11f64c635597",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 42 / Ausfall RB 27174 / Burghausen (ab 10:45 Uhr) - Mühldorf (an 11:20 Uhr)",
+      "summary": "Ersatzloser Ausfall am 18.06.24",
+      "text": "<p>RB 42: Die RB 27174 entfällt am 18.06.24 ersatzlos zwischen Burghausen (ab 10:45 Uhr) und Mühldorf (an 11:20 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 18:37",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "5baf0bc1-afa5-4587-a5a1-2dd194c3dde8",
+      "disruptionId": "897cef7f-3e3b-4b64-b722-c2bd125f958a",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 42 / Ausfall RB 27169 / Mühldorf (ab 09:37 Uhr) - Burghausen (an 10:16 Uhr)",
+      "summary": "Ersatzloser Ausfall am 18.06.24",
+      "text": "<p>RB 42: Die RB 27169 entfällt am 18.06.24 ersatzlos zwischen Mühldorf (ab 09:37 Uhr) und Burghausen (an 10:16 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 18:27",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "247e82f9-1b05-4bdc-b734-232c19667e25",
       "disruptionId": "19f55dff-a66c-4684-81a1-9028af445265",
       "author": "SUEDOSTBAYERNBAHN",
@@ -883,39 +1013,6 @@
         }
       ],
       "lastModified": "17.06.2024 17:52",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "3aeaeb5b-ae4f-4102-a573-7cc8f112470f",
-      "disruptionId": "45777dba-053d-423b-8e47-38a49f1ccd7a",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "RB 40 / Ausfall RB 27050 / München Ost (ab 17:45 Uhr) - München Hbf (an 17:55 Uhr)",
-      "summary": "Ausfall RB 27050, Alternative: S-Bahn",
-      "text": "<p>RB 40: Die RB 27050 entfällt am 17.06.24 zwischen München Ost (ab 17:45 Uhr) und München Hbf (an 17:55 Uhr) wegen Reparatur an der Strecke. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "17.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 17:43",
       "expand": true,
       "topDisruption": false
     },
