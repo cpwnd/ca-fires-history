@@ -788,6 +788,39 @@
       "topDisruption": false
     },
     {
+      "id": "bed20e80-f98e-495e-80b6-33ff48442868",
+      "disruptionId": "579b8f35-f1bf-42d9-abd6-f6ecfc183eec",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 45 / Ausfall RB 27127 / Landshut (Bay.) Hbf (ab 16:38 Uhr) - Mühldorf (an 17:28 Uhr)",
+      "summary": "Ersatzloser Ausfall am 17.06.24",
+      "text": "<p>RB 45: Die RB 27127 entfällt am 17.06.24 ersatzlos zwischen Landshut (Bay.) Hbf (ab 16:38 Uhr) und Mühldorf (an 17:28 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "17.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 15:51",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "a43f1143-7458-4669-bfce-64146aa62ec4",
       "disruptionId": "ec47ec35-f815-40fb-a268-90911313cdd4",
       "author": "SUEDOSTBAYERNBAHN",
