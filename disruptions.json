@@ -622,9 +622,9 @@
         "category": "other_cause",
         "label": "Kurzfristige Erkrankung von Personal"
       },
-      "headline": "Kurzfristige Erkrankung vom Stellwerkpersonal – vom 22. Juni 18:00 Uhr bis 23. Juni 2024 06:00 Uhr",
+      "headline": "Kurzfristige Erkrankung vom Stellwerkpersonal Nordhausen – vom 22. Juni 18:00 Uhr bis 23. Juni 2024 06:00 Uhr",
       "summary": "Wegen erhöhter Erkrankung von Stellwerkspersonal kommt es zu Zugausfällen zwischen Nordhausen und Sondershausen in beiden Fahrtrichtungen, im Zeitraum von 18:00 Uhr bis 06:00 Uhr.",
-      "text": "<p>Betroffene Linien: <strong>RE 55/56 Nordhausen-Erfurt</strong></p><p><strong>Ausfall Sondershausen – Nordhausen</strong></p><p>RE 16580 / RE 16564 / 16582 und RE 16566</p><p><strong>Ausfall Nordhausen – Sondershausen</strong></p><p>RE 16581 / RE 16565 / Re 16583 und Re 16567</p><p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Bestätigung unserer Partner.</p><p>Wir setzen alles daran, unsere Fahrgäste zuverlässig an ihr Ziel zu bringen und bemühen uns, die Einschränkungen so gering wie möglich zu halten.</p><p>Für die Unannehmlichkeiten bitten wir um Entschuldigung.</p><p>Wir bitten unsere Reisenden, sich vor Fahrtantritt auf bahn.de oder in unserer App DB Navigator über Ihre Zugverbindung zu informieren. Weitere Informationen erhalten Sie auch bei der Kundenhotline der Nordthüringenbahn unter 0361 51884477</p>",
+      "text": "<p>Betroffene Linien: <strong>RE 55/56 Nordhausen-Erfurt</strong></p><p><strong>Ausfall Sondershausen – Nordhausen</strong></p><p>RE 16580 / RE 16564 / 16582 und RE 16566</p><p><strong>Ausfall Nordhausen – Sondershausen</strong></p><p>RE 16581 / RE 16565 / RE 16583 und RE 16567</p><p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Bestätigung unserer Partner.</p><p>Wir setzen alles daran, unsere Fahrgäste zuverlässig an ihr Ziel zu bringen und bemühen uns, die Einschränkungen so gering wie möglich zu halten.</p><p>Für die Unannehmlichkeiten bitten wir um Entschuldigung.</p><p>Wir bitten unsere Reisenden, sich vor Fahrtantritt auf bahn.de oder in unserer App DB Navigator über Ihre Zugverbindung zu informieren. Weitere Informationen erhalten Sie auch bei der Kundenhotline der Nordthüringenbahn unter 0361 51884477.</p>",
       "durationBegin": "22.06.2024",
       "durationEnd": "23.06.2024",
       "images": [],
@@ -643,7 +643,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "17.06.2024 22:28",
+      "lastModified": "17.06.2024 22:37",
       "expand": true,
       "topDisruption": false
     },
@@ -849,6 +849,72 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "e953f02d-0c83-4a14-8567-d9a7e7e0214b",
+      "disruptionId": "2b50802b-f170-4735-a0a8-4f83bc2702d6",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "RB 45 / Ausfall RB 27973 / Mühldorf (ab 08:43 Uhr) - Salzburg Hbf (an 09:55 Uhr)",
+      "summary": "Ersatzloser Ausfall am 18.06.24",
+      "text": "<p>RB 45: Die RB 27973 entfällt am 18.06.24 ersatzlos zwischen Mühldorf (ab 08:43 Uhr) und Salzburg Hbf (an 09:55 Uhr) wegen Personalausfall. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 22:43",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "7c8f71d9-daa5-4d3c-9964-8ba7cbe63c3d",
+      "disruptionId": "796b0a99-10d4-4608-8715-fde84a65fc30",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "RB 41 / Ausfall RB 27287 / Mühldorf (ab 22:47 Uhr) - Simbach (an 23:19 Uhr)",
+      "summary": "Ersatzloser Ausfall am 18.06.24",
+      "text": "<p>RB 41: Die RB 27287 entfällt am 18.06.24 ersatzlos zwischen Mühldorf (ab 22:47 Uhr) und Simbach (an 23:19 Uhr) wegen Personalausfall. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 22:33",
+      "expand": true,
       "topDisruption": false
     },
     {
