@@ -110,40 +110,6 @@
       "topDisruption": false
     },
     {
-      "id": "26d0edf6-b5b0-4f61-ae4c-e3dc3874c937",
-      "disruptionId": "26590a1a-6a05-4418-a2f5-abdea73213c2",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Sperrung des Bahnhofs Delitzsch unt. Bf",
-      "summary": "Aufgrund eines Personenunfalls in Delitzsch unt. Bf ist die Strecke gesperrt. ",
-      "text": "<p>Die Züge der RE 13 werden über Halle/Saale Hbf umgeleitet. Bei den Zügen der S 2 kommt es zu Ausfällen und Teilausfällen. Ein Ersatzverkehr mit Bus ist zwischen Leipzig Messe und Bitterfeld eingerichtet.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "17.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 19:38",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "da494258-13f1-4e4b-b4d8-e02a8ed52d86",
       "author": "REGIO_MITTE",
       "cause": {
@@ -919,6 +885,105 @@
       "topDisruption": false
     },
     {
+      "id": "4232a1ab-059b-492a-b341-6d62a35cc3f4",
+      "disruptionId": "b9a7495b-3e4b-4bef-b2b5-a3803b0cfc88",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 42 / Ausfall RB 27181 / Mühldorf (ab 15:40 Uhr) - Burghausen (an 16:16 Uhr)",
+      "summary": "Ersatzloser Ausfall am 18.06.24",
+      "text": "<p>RB 42: Die RB 27181 entfällt am 18.06.24 ersatzlos zwischen Mühldorf (ab 15:40 Uhr) und Burghausen (an 16:16 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 20:20",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "dcecb0d1-14fe-42c6-86e4-bf7d8501076c",
+      "disruptionId": "fd47b30b-3644-4359-8b77-6232412779bb",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 42 / Ausfall RB 27182 / Burghausen (ab 14:45 Uhr) - Mühldorf (an 15:20 Uhr)",
+      "summary": "Ersatzloser Ausfall am 18.06.24",
+      "text": "<p>RB 42: Die RB 27182 entfällt am 18.06.24 ersatzlos zwischen Burghausen (ab 14:45 Uhr) und Mühldorf (an 15:20 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 20:12",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
+      "id": "db21c78d-c9d7-4eaa-9c51-6e8c07233e5b",
+      "disruptionId": "ccb3b954-6085-46d2-a904-23c8a58c4194",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 42 / Ausfall RB 27177 / Mühldorf (ab 13:37 Uhr) - Burghausen (an 14:16 Uhr)",
+      "summary": "Ersatzloser Ausfall am 18.06.24",
+      "text": "<p>RB 42: Die RB 27177 entfällt am 18.06.24 ersatzlos zwischen Mühldorf (ab 13:37 Uhr) und Burghausen (an 14:16 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 20:04",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "66cea9a1-9690-4794-8e16-b5a95e4e2b00",
       "disruptionId": "838dea21-1653-48d1-b321-c17607c6a2f9",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1538,69 +1603,6 @@
       ],
       "lastModified": "18.04.2024 12:27",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "82e2afc8-6383-431c-833a-a0559aad1b31",
-      "author": "REGIO_SH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Reparatur an einem Signal in Pinneberg",
-      "summary": "Aufgrund einer Reparatur an einem Signal in Pinneberg ist der Zugverkehr beeintr&auml;chtigt.&nbsp;",
-      "text": "<p><u><strong>Betroffene Linien</strong>: &nbsp;</u></p>\n\n<ul>\n\t<li>\n\t<p>RE 7/RE 70 (Flensburg/Kiel Hbf &ndash; Hamburg Hbf): Versp&auml;tungen zwischen 20-30 Minuten&nbsp;m&ouml;glich. Einige Z&uuml;ge enden/beginnen au&szlig;erplanm&auml;&szlig;ig in Hamburg-Altona. Reisende zwischen Hamburg Hbf und Hamburg-Altona nutzen alternativ&nbsp;bitte die Linien der S-Bahn S1 und S3.</p>\n\t</li>\n</ul>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 30 Minuten.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;bahn.de, in der&nbsp;App DB Navigator&nbsp;oder beim regionalen Kundendialog unter&nbsp;043153440500 oder 051918030904.&nbsp;</p>\n\n<p> Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter). &nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf&nbsp;bahn.de/fahrgastrechte. &nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld. &nbsp;</p>\n",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "17.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_SH",
-          "label": "X DB Schleswig-Holstein (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 17:29",
-      "expand": true,
       "topDisruption": false
     },
     {
