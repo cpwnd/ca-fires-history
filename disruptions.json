@@ -788,6 +788,39 @@
       "topDisruption": false
     },
     {
+      "id": "ce31cdfe-b291-478d-b72a-36bcb9a90eb3",
+      "disruptionId": "1c5eeab8-1497-42b6-b948-5ea2356004b3",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 41 / Ausfall RB 27273 / Mühldorf (Oberbay.) (ab 15:38 Uhr) - Simbach (Inn) (an 16:13 Uhr)",
+      "summary": "Ersatzloser Ausfall am 18.06.24",
+      "text": "<p>RB 41: Die RB 27273 entfällt am 18.06.24 ersatzlos zwischen Mühldorf (Oberbay.) (ab 15:38 Uhr) und Simbach (Inn) (an 16:13 Uhr) wegen Fahrzeugausfall. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "17.06.2024",
+      "durationEnd": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 16:28",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "bed20e80-f98e-495e-80b6-33ff48442868",
       "disruptionId": "579b8f35-f1bf-42d9-abd6-f6ecfc183eec",
       "author": "SUEDOSTBAYERNBAHN",
