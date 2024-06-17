@@ -188,6 +188,57 @@
       "topDisruption": false
     },
     {
+      "id": "6c8e24e3-4b82-477c-8c9a-d895b7e15073",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Bauarbeiten beeinträchtigen den Bahnverkehr zwischen Oberlahnstein und Niederlahnstein",
+      "summary": "<strong>Bauarbeiten beeintr&auml;chtigen den Bahnverkehr zwischen Oberlahnstein und Niederlahnstein.</strong><br />\nDie Strecke ist derzeit leider gesperrt. In der Folge kommt es jetzt zu Versp&auml;tungen und Teilausf&auml;llen.<br />\n<br />\nDauer der Beeintr&auml;chtigung bis vsl. 17.07.24, jeweils von 08:00 Uhr bis 21:00 Uhr gesperrt.<br />\n&nbsp;",
+      "text": "<p><u><strong>Betroffene Linien</strong></u><u><strong>:</strong></u></p>\n\n<p><strong>RB81</strong>&nbsp;<strong>Oberlahnstein - Niederlahnstein - Koblenz &ndash; Cochem &ndash; Bullay &ndash; Wittlich &ndash; Trier (Moseltalbahn) (</strong>Die RB-Z&uuml;ge enden und beginnen au&szlig;erplanm&auml;&szlig;ig in Koblenz Hbf.)</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/buchung/start",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "X (Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.06.2024 12:11",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "f31ce0a8-c82d-4101-928d-deccacba3701",
       "disruptionId": "80c2a631-5bb0-42ba-a07e-e4e6eb8922fd",
       "author": "FERNVERKEHR_AG",
@@ -371,39 +422,6 @@
       ],
       "lastModified": "18.04.2024 12:39",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "ca793954-3245-4d38-a941-0871116e8fb8",
-      "disruptionId": "5ab52ae4-2356-4f08-b998-3c90d271497b",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Beeinträchtigung zwischen Frankfurt und Aschaffenburg / Würzburg",
-      "summary": "Aufgrund eines kurzfristigen Personalausfalles im Stellwerk Großauheim kommt es von heute Nacht ab 18 Uhr zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen und Haltausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge Dortmund – Köln Messe/Deutz – Frankfurt (M) – Würzburg – Nürnberg – München werden zwischen Frankfurt und Aschaffenburg umgeleitet und verspäten sich um etwa 20 Minuten. Der Halt Hanau Hbf entfällt.</li><li>ICE-Züge Hamburg – Bremen – Dortmund – Köln – Frankfurt (M) – Nürnberg (– Regensburg) werden zwischen Frankfurt und Würzburg umgeleitet und verspäten sich um etwa 20 Minuten. Der Halt Hanau Hbf entfällt.</li><li>ICE-Züge Dortmund – Köln – Frankfurt (M) – Nürnberg – Regensburg werden zwischen Frankfurt und Würzburg umgeleitet und verspäten sich um etwa 20 Minuten. Der Halt Hanau Hbf entfällt.</li><li>Die ÖBB-Nightjet-Züge <strong>NJ 420</strong>, <strong>NJ 421</strong> und <strong>NJ 491</strong> werden zwischen Würzburg und Nürnberg umgeleitet und verspäten sich um etwa 30 Minuten.</li></ul><p>Die Beeinträchtigungen werden bis morgen (Montag), 17.06.2024, 6 Uhr andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "16.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "16.06.2024 10:21",
-      "expand": true,
       "topDisruption": false
     },
     {
