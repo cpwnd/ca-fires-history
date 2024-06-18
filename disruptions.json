@@ -1045,39 +1045,6 @@
       "topDisruption": false
     },
     {
-      "id": "da610222-b7b9-4450-9a9c-a09620ef5782",
-      "disruptionId": "c53e38f7-5d41-4356-b1df-c08b22ed5cd7",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "RB 41 / Ausfall RB 27269 / Mühldorf (ab 13:37 Uhr) - Simbach (Inn) (an 14:13 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 41: Die RB 27269 entfällt am 18.06.24 ersatzlos zwischen Mühldorf (ab 13:37 Uhr) und Simbach (Inn) (an 14:13 Uhr) wegen Personalausfall. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 23:25",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7c8f71d9-daa5-4d3c-9964-8ba7cbe63c3d",
       "disruptionId": "796b0a99-10d4-4608-8715-fde84a65fc30",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1371,39 +1338,6 @@
         }
       ],
       "lastModified": "17.06.2024 20:12",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "db21c78d-c9d7-4eaa-9c51-6e8c07233e5b",
-      "disruptionId": "ccb3b954-6085-46d2-a904-23c8a58c4194",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 42 / Ausfall RB 27177 / Mühldorf (ab 13:37 Uhr) - Burghausen (an 14:16 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 42: Die RB 27177 entfällt am 18.06.24 ersatzlos zwischen Mühldorf (ab 13:37 Uhr) und Burghausen (an 14:16 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 20:04",
       "expand": true,
       "topDisruption": false
     },
