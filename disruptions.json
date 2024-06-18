@@ -1693,39 +1693,6 @@
       "topDisruption": false
     },
     {
-      "id": "bce8b38e-9744-47d9-be2a-6166f706b23b",
-      "disruptionId": "7750e042-09d5-4c55-bc54-e7ec63acea5a",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 45 / Ausfall RB 27086 / Freilassing (ab 06:28 Uhr) - Mühldorf (an 07:23 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 45: Die RB 27086 entfällt am 18.06.24 ersatzlos zwischen Freilassing (ab 06:28 Uhr) und Mühldorf (an 07:23 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 17:35",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "788173ea-571f-4ebf-8ff2-9ad7523fb8da",
       "disruptionId": "56bd3fa8-c35b-4ebb-8465-1964c81b2ebe",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1755,39 +1722,6 @@
         }
       ],
       "lastModified": "17.06.2024 17:12",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "69df2e4a-bc9b-4785-97a3-b03b098d993b",
-      "disruptionId": "08db08c0-e592-47f7-9b84-f2ccfcd34de7",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 45 / Ausfall RB 27303 / Mühldorf (ab 05:49 Uhr) - Rosenheim (an 06:50 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 45: Die RB 27303 entfällt am 18.06.24 ersatzlos zwischen Mühldorf (ab 05:49 Uhr) und Rosenheim (an 06:50 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 17:04",
       "expand": true,
       "topDisruption": false
     },
