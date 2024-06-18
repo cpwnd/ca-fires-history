@@ -188,70 +188,6 @@
       "topDisruption": false
     },
     {
-      "id": "65462333-14fb-4e28-bcf0-4b9123211229",
-      "author": "REGIO_NI_HB",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Beeinträchtigungen im Zugverkehr zwischen Niedersachswerfen und Nordhausen",
-      "summary": "Aufgrund einer Stellwerksst&ouml;rung zwischen Niedersachswerfen und Nordhausen ist kein Zugverkehr bis voraussichtlich morgen fr&uuml;h 06:00 Uhr in beide Richtungen m&ouml;glich.<br />\nEin Ersatzverkehr mit Bus kann leider nicht eingerichtet werden. Bitte nutzen Sie ab Niedersachswerfen Ost die Harzer Schmalspurbahn (STR) nach Nordhausen.&nbsp;",
-      "text": "<p><u><strong>Betroffene Linien: &nbsp;</strong></u></p>\n\n<ul>\n\t<li>RB 80/81 (G&ouml;ttingen/Bodenfelde &ndash; Nordhausen): Die Z&uuml;ge fallen voraussichtlich in der Zeit von 18:00 Uhr bis 06:00 Uhr zwischen Niedersachswerfen und Nordhausen aus. Bitte nutzen Sie ab Niedersachswerfen Ost die Harzer Schnalspurbahn (STR) nach Nordhausen.</li>\n</ul>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;bahn.de, in der&nbsp;App DB Navigator&nbsp;oder beim regionalen Kundendialog unter 0511 45901645. &nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf&nbsp;X&nbsp;(ehemals&nbsp;Twitter).  &nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;cheauf&nbsp;bahn.de/fahrgastrechte. &nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n\n<p>&nbsp;</p>\n",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "http://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_NDS",
-          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter) ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "18.06.2024 04:15",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "6c8e24e3-4b82-477c-8c9a-d895b7e15073",
       "author": "REGIO_MITTE",
       "cause": {
@@ -1786,39 +1722,6 @@
         }
       ],
       "lastModified": "17.06.2024 17:35",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "704c352d-1668-488e-8d22-fc785c1fc536",
-      "disruptionId": "89346e19-7254-451c-930c-eeb5974b76cc",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 45 / Ausfall RB 27081 / Garching (ab 05:27 Uhr) - Freilassing (an 06:11 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 45: Die RB 27081 entfällt am 18.06.24 ersatzlos zwischen Garching (ab 05:27 Uhr) und Freilassing (an 06:11 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 17:22",
       "expand": true,
       "topDisruption": false
     },
