@@ -912,39 +912,6 @@
       "topDisruption": false
     },
     {
-      "id": "0e7b10f1-cb9d-4517-b78a-c6e3587f9e80",
-      "disruptionId": "05e76298-112e-427a-9b03-25c53e2b031d",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "RB 49 / Ausfall RB 27457 / Traunreut (ab 10:48 Uhr) - Traunstein (an 11:11 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 49: Die RB 27457 entfällt am 18.06.24 ersatzlos zwischen Traunreut (ab 10:48 Uhr) und Traunstein (an 11:11 Uhr) wegen Personalausfall. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "18.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "18.06.2024 00:05",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "0f0a181d-9751-48ba-920f-260614875dce",
       "disruptionId": "6885913e-89ab-4005-b444-1fc399d6e7d1",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1139,39 +1106,6 @@
         }
       ],
       "lastModified": "17.06.2024 23:02",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "cfc5a667-265e-4e2d-925c-45db559f4dde",
-      "disruptionId": "f8f225f0-c5de-43f0-a018-d27b01d9da9e",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "RB 45 / Ausfall RB 27972 / Salzburg Hbf (ab 10:08 Uhr) - Mühldorf (an 11:15 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 45: Die RB 27972 entfällt am 18.06.24 ersatzlos zwischen Salzburg Hbf (ab 10:08 Uhr) und Mühldorf (an 11:15 Uhr) wegen Personalausfall. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 22:53",
       "expand": true,
       "topDisruption": false
     },
@@ -1572,39 +1506,6 @@
       "topDisruption": false
     },
     {
-      "id": "73261fd0-dff1-44e1-9415-ecc23ed79717",
-      "disruptionId": "df2ff04d-4695-496f-833b-11f64c635597",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 42 / Ausfall RB 27174 / Burghausen (ab 10:45 Uhr) - Mühldorf (an 11:20 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 42: Die RB 27174 entfällt am 18.06.24 ersatzlos zwischen Burghausen (ab 10:45 Uhr) und Mühldorf (an 11:20 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 18:37",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "779c400e-88a6-47ed-8575-ba3e06718902",
       "disruptionId": "e2268e63-bb0c-4ebe-a9d7-fac8a57c94ef",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1947,8 +1848,8 @@
           "openInNewTab": true
         },
         {
-          "href": "http://twitter.com/streckenagent_M",
-          "label": "X (ehemals Twitter)",
+          "href": "https://x.com/streckenagent_M",
+          "label": "X",
           "info": "",
           "openInNewTab": true
         },
@@ -1966,7 +1867,7 @@
         "BY"
       ],
       "lines": [],
-      "lastModified": "13.05.2024 19:16",
+      "lastModified": "18.06.2024 12:17",
       "expand": false,
       "topDisruption": false
     },
