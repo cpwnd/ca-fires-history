@@ -2,6 +2,48 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "69d87841-7ca1-4fa6-9490-e544cae04195",
+      "disruptionId": "41fa094a-a2e6-49e3-8a65-12ede8873ffa",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen München und Ingolstadt",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen München und Ingolstadt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Bei den Fernverkehrszügen kommt es zu Verspätungen von bis zu 40 Minuten pro Zug..\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge München - Ingolstadt - Nürnberg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. </p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "HH",
+        "ST",
+        "BE",
+        "TH",
+        "BY",
+        "NW",
+        "HB",
+        "NI",
+        "SN",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "18.06.2024 18:49",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "3ffb4c0a-f3b4-4a9e-a72c-b2d6ca6d77f5",
       "disruptionId": "e06ed8cf-8430-4125-99a0-0bca042c6255",
       "author": "FERNVERKEHR_AG",
@@ -1219,39 +1261,6 @@
         }
       ],
       "lastModified": "17.06.2024 20:37",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "779c400e-88a6-47ed-8575-ba3e06718902",
-      "disruptionId": "e2268e63-bb0c-4ebe-a9d7-fac8a57c94ef",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 41 / Ausfall RB 27280 / Simbach (ab 17:49 Uhr) - Mühldorf (an 18:22 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 41: Die RB 27280 entfällt am 18.06.24 ersatzlos zwischen Simbach (ab 17:49 Uhr) und Mühldorf (an 18:22 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 16:45",
       "expand": true,
       "topDisruption": false
     },
