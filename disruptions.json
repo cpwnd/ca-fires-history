@@ -658,11 +658,24 @@
       },
       "headline": "Kurzfristige Erkrankung vom Stellwerkspersonal Nordhausen – vom 22. Juni 18:00 Uhr bis 23. Juni 2024 06:00 Uhr",
       "summary": "Wegen erhöhter Erkrankung von Stellwerkspersonal kommt es zu Zugausfällen zwischen Nordhausen und Sondershausen in beiden Fahrtrichtungen, im Zeitraum von 18:00 Uhr bis 06:00 Uhr.",
-      "text": "<p>Betroffene Linien: <strong>RE 55/56 Nordhausen-Erfurt</strong></p><p><strong>Ausfall Sondershausen – Nordhausen</strong></p><p>RE 16580 / RE 16564 / 16582 und RE 16566</p><p><strong>Ausfall Nordhausen – Sondershausen</strong></p><p>RE 16581 / RE 16565 / RE 16583 und RE 16567</p><p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs, warten aber noch auf die Bestätigung unserer Partner.</p><p>Wir setzen alles daran, unsere Fahrgäste zuverlässig an ihr Ziel zu bringen und bemühen uns, die Einschränkungen so gering wie möglich zu halten.</p><p>Für die Unannehmlichkeiten bitten wir um Entschuldigung.</p><p>Wir bitten unsere Reisenden, sich vor Fahrtantritt auf bahn.de oder in unserer App DB Navigator über Ihre Zugverbindung zu informieren. Weitere Informationen erhalten Sie auch bei der Kundenhotline der Nordthüringenbahn unter 0361 51884477.</p>",
+      "text": "<p>Betroffene Linien: <strong>RE 55/56 Nordhausen-Erfurt</strong></p><p><strong>Ausfall Sondershausen – Nordhausen</strong></p><p>RE 16580 / RE 16564 / 16582 und RE 16566</p><p><strong>Ausfall Nordhausen – Sondershausen</strong></p><p>RE 16581 / RE 16565 / RE 16583 und RE 16567</p><p>Ein Ersatzverkehr mit Bussen wurde eingerichtet. Bitte entnehmen Sie den Fahrplan den angehängten Dateien. Aufgrund von Straßenbauarbeiten können Werther und Wolkramshausen nicht angefahren werden. Bitte weichen Sie auf die Angebote von Abellio aus.</p><p>Wir setzen alles daran, unsere Fahrgäste zuverlässig an ihr Ziel zu bringen und bemühen uns, die Einschränkungen so gering wie möglich zu halten.</p><p>Für die Unannehmlichkeiten bitten wir um Entschuldigung.</p><p>Wir bitten unsere Reisenden, sich vor Fahrtantritt auf bahn.de oder in unserer App DB Navigator über Ihre Zugverbindung zu informieren. Weitere Informationen erhalten Sie auch bei der Kundenhotline der Nordthüringenbahn unter 0361 51884477.</p>",
       "durationBegin": "22.06.2024",
       "durationEnd": "23.06.2024",
       "images": [],
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2024-06-18/2c6d5b52-7ee3-4bbc-9c1d-7808312ecb33Schienenersatzverkehr%2BNordhausen%2B-%2BSondershausen.pdf",
+          "label": "Schienenersatzverkehr Nordhausen - Sondershausen.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2024-06-18/714a805b-e36c-4d8c-a663-7b92baaca449Schienenersatzverkehr%2BSondershausen%2B-%2BNordhausen.pdf",
+          "label": "Schienenersatzverkehr Sondershausen - Nordhausen.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [],
       "properties": [
         "REGIONAL"
@@ -677,7 +690,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "17.06.2024 23:57",
+      "lastModified": "18.06.2024 15:56",
       "expand": true,
       "topDisruption": false
     },
@@ -1012,39 +1025,6 @@
       "topDisruption": false
     },
     {
-      "id": "98d16fc6-dc8c-4e3a-adf3-f46ca9d42f6b",
-      "disruptionId": "73966b65-3c1a-4507-a4d9-9c0c435cf7b0",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "RB 41 / Ausfall RB 27272 / Simbach Inn) (ab 14:49 Uhr) - Mühldorf (an 15:23 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.2024",
-      "text": "<p>RB 41: Die RB 27272 entfällt am 18.06.2024 ersatzlos zwischen Simbach Inn) (ab 14:49 Uhr) und Mühldorf (an 15:23 Uhr) wegen Personalausfall. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 23:30",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7c8f71d9-daa5-4d3c-9964-8ba7cbe63c3d",
       "disruptionId": "796b0a99-10d4-4608-8715-fde84a65fc30",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1305,39 +1285,6 @@
         }
       ],
       "lastModified": "17.06.2024 20:20",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "dcecb0d1-14fe-42c6-86e4-bf7d8501076c",
-      "disruptionId": "fd47b30b-3644-4359-8b77-6232412779bb",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 42 / Ausfall RB 27182 / Burghausen (ab 14:45 Uhr) - Mühldorf (an 15:20 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 42: Die RB 27182 entfällt am 18.06.24 ersatzlos zwischen Burghausen (ab 14:45 Uhr) und Mühldorf (an 15:20 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 20:12",
       "expand": true,
       "topDisruption": false
     },
