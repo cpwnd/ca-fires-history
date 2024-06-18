@@ -1071,39 +1071,6 @@
       "topDisruption": false
     },
     {
-      "id": "2770d7ef-a42d-441a-96c8-386cec13a0c0",
-      "disruptionId": "d6487bbf-353a-4496-b8e7-97c923ca2461",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "RB 41 / Ausfall RB 27283 / Mühldorf (ab 20:37 Uhr) - Simbach (Inn) (an 21:13 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.2024",
-      "text": "<p>RB 41: Die RB 27283 entfällt am 18.06.2024 ersatzlos zwischen Mühldorf (ab 20:37 Uhr) und Simbach (Inn) (an 21:13 Uhr) wegen Personalausfall. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 23:42",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "7c8f71d9-daa5-4d3c-9964-8ba7cbe63c3d",
       "disruptionId": "796b0a99-10d4-4608-8715-fde84a65fc30",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1199,39 +1166,6 @@
         }
       ],
       "lastModified": "17.06.2024 22:11",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "57db106c-15fe-443b-a3cb-8d3327b99424",
-      "disruptionId": "5974879f-392a-4e80-948e-5dc63dc480a3",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 42 / Ausfall RB 27194 / Burghausen (ab 20:45 Uhr) - Mühldorf (an 21:20 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 42: Die RB 27194 entfällt am 18.06.24 ersatzlos zwischen Burghausen (ab 20:45 Uhr) und Mühldorf (an 21:20 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 20:54",
       "expand": true,
       "topDisruption": false
     },
