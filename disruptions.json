@@ -271,7 +271,7 @@
         "label": "Einschränkungen auf der Strecke"
       },
       "headline": "Beeinträchtigungen im Zugverkehr zwischen Niedersachswerfen und Nordhausen",
-      "summary": "Aufgrund einer Stellwerksst&ouml;rung zwischen Niedersachswerfen und Nordhausen ist kein Zugverkehr in der Zeit von 20:00&nbsp;Uhr bis morgen fr&uuml;h 06:00 Uhr in beide Richtungen m&ouml;glich. Ein Ersatzverkehr mit Bus der Firma Stepo Reisen ist eingerichtet.&nbsp;",
+      "summary": "Aufgrund einer Stellwerksst&ouml;rung zwischen Niedersachswerfen und Nordhausen ist kein Zugverkehr in der Zeit von 20:00&nbsp;Uhr bis morgen fr&uuml;h 06:00 Uhr in beide Richtungen m&ouml;glich.&nbsp;",
       "text": "<p><u><strong>Betroffene Linien: &nbsp;</strong></u></p>\n\n<ul>\n\t<li>RB 80/81 (G&ouml;ttingen/Bodenfelde &ndash; Nordhausen): Die Z&uuml;ge fallen&nbsp;in der Zeit von 20:00&nbsp;Uhr bis 06:00 Uhr zwischen Niedersachswerfen und Nordhausen aus.&nbsp;Ein Ersatzverkehr mit Bus der Firma &quot;Stepo Reisen&quot; ist eingerichtet.</li>\n</ul>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de. &nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter&nbsp;bahn.de, in der&nbsp;App DB Navigator&nbsp;oder beim regionalen Kundendialog unter 0511 45901645. &nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf&nbsp;X&nbsp;(ehemals&nbsp;Twitter).  &nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;cheauf&nbsp;bahn.de/fahrgastrechte. &nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.</p>\n\n<p>&nbsp;</p>\n",
       "durationBegin": "17.06.2024",
       "durationEnd": "19.06.2024",
@@ -329,7 +329,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "18.06.2024 19:40",
+      "lastModified": "18.06.2024 19:48",
       "expand": true,
       "topDisruption": false
     },
@@ -693,6 +693,38 @@
         }
       ],
       "lastModified": "18.04.2024 13:07",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "577a2fc1-66ad-478d-9f06-2bbca830aeac",
+      "disruptionId": "d36ab6c3-c8d4-4fda-8488-a0c4e8d5076f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe in Recklinghausen",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe kommt es in Recklinghausen zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge müssen umgeleitet werden und verspäten sich dadurch um etwa 15 Minuten. Der Halt in Recklinghausen Hbf entfällt.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC und ICE Züge des Fernverkehrs zwischen Münster und Gelsenkirchen</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "18.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "18.06.2024 19:57",
       "expand": false,
       "topDisruption": false
     },
@@ -1234,39 +1266,6 @@
         }
       ],
       "lastModified": "17.06.2024 20:45",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "1cc3162b-feed-43ed-90e3-1e1796c9be29",
-      "disruptionId": "07c907fc-710d-4442-8043-40347b6eaac4",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 42 / Ausfall RB 27190 / Burghausen (ab 18:45 Uhr) - Mühldorf (an 19:21 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 42: Die RB 27190 entfällt am 18.06.24 ersatzlos zwischen Burghausen (ab 18:45 Uhr) und Mühldorf (an 19:21 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 20:37",
       "expand": true,
       "topDisruption": false
     },
