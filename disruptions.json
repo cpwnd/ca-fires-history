@@ -615,6 +615,37 @@
       "topDisruption": false
     },
     {
+      "id": "5265921d-c2a5-47ed-9e6f-8b8c3a23c390",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Keine Zugfahrten zwischen Kaiserslautern und Lauterecken-Grumbach",
+      "summary": "Wegen eines erh&ouml;hten Krankenstandes beim Stellwerkspersonal wrd der Zugverkehr zwischen Kaiserslautern Hbf und Lauterecken-Grambach am Mittwoch 19.06. (ab 04:45 Uhr bis 13:45 Uhr), sowie am Donnerstag, 20.06. und Freitag, 21.06. (jeweils ab 13:45 bis Betriebsschluss)&nbsp;eingestellt.",
+      "text": "<p><u><strong>Betroffene Linie:</strong></u></p>\n\n<p><strong>RB66 - Kaiserslautern Hbf - Wolfstein - Lauterecken-Grumbach </strong></p>\n\n<p>Wir haben einen Ersatzverkehr mit Bussen zwischen Kaiserslautern Hbf und Lauterecken-Grumbach f&uuml;r Sie eingerichtet.</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "durationBegin": "08.07.2023",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.06.2024 20:58",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "1b294b60-4c1c-4f66-bb4d-8577ff5b19a0",
       "disruptionId": "f8f8d8a2-a44f-4713-a4b2-34d6728404eb",
       "author": "REGIO_BW",
@@ -1233,39 +1264,6 @@
         }
       ],
       "lastModified": "17.06.2024 20:54",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "4982adb9-e70e-4da1-a65a-d1fec113b9f8",
-      "disruptionId": "95565760-d5c6-444a-9363-5068d5836c7a",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
-      },
-      "headline": "RB 42 / Ausfall RB 27189 / Mühldorf (ab 19:37 Uhr) - Burghausen (an 20:16 Uhr)",
-      "summary": "Ersatzloser Ausfall am 18.06.24",
-      "text": "<p>RB 42: Die RB 27189 entfällt am 18.06.24 ersatzlos zwischen Mühldorf (ab 19:37 Uhr) und Burghausen (an 20:16 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
-      "durationBegin": "17.06.2024",
-      "durationEnd": "18.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2024 20:45",
       "expand": true,
       "topDisruption": false
     },
