@@ -582,6 +582,39 @@
       "topDisruption": false
     },
     {
+      "id": "07edcd9f-2723-4fae-a236-1496654d5a19",
+      "disruptionId": "089fca68-e643-458d-9029-e194551a513b",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Streckensperrung Dresden-Klotzsche - Kamenz",
+      "summary": "Aufgrund eines defekten Stellwerks kann die Strecke derzeit nicht befahren werden.",
+      "text": "<p>Ein Ersatzverkehr mit Bussen ist zwischen Dresden-Klotzsche und Kamenz eingerichtet. Dier Busse halten auf allen Unterwegshalten.</p>",
+      "durationBegin": "19.06.2024",
+      "durationEnd": "19.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "19.06.2024 15:40",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "22d1dfda-9000-44e1-934e-9b89c0e4c966",
       "disruptionId": "0c506d91-59ae-4f6a-be91-c7140604e25b",
       "author": "REGIO_SUEDOST",
