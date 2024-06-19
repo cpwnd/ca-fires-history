@@ -2,6 +2,41 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "0c977d7f-581b-4f30-a7d4-733d8d9dd6c5",
+      "disruptionId": "bbff84a1-83db-452f-926b-80ed0d8acdc5",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Umgestürzter Baum auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Berlin und Dresden",
+      "summary": "Aktuell kommt es aufgrund von Unwetterschäden zwischen Berlin und Dresden zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/ICE/RJ/NJ-Züge zwischen Berlin und Dresden werden umgeleitet und verspäten sich um zusätzlich etwa 30 Minuten. Die Halte in BER Berlin Brandenburg Airport, Doberlug-Kirchhain und Elsterwerda entfallen.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "19.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "19.06.2024 05:12",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
