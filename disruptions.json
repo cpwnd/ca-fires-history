@@ -832,6 +832,39 @@
       "topDisruption": false
     },
     {
+      "id": "5e58b929-3f0d-4756-903e-ad299d809fe0",
+      "disruptionId": "eb6bd4b1-2d7a-4abf-9abe-97f60d43a1b5",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "RB 46 / Ausfall RB 27226 / Passau Hbf (ab 11:59 Uhr) - Mühldorf (an 14:20 Uhr)",
+      "summary": "Ersatzloser Ausfall am 19.06.2024",
+      "text": "<p>RB 46: Die RB 27226 entfällt am 19.06.2024 ersatzlos zwischen Passau Hbf (ab 11:59 Uhr) und Mühldorf (an 14:20 Uhr) wegen Reparatur am Zug. Bitte nutzen Sie die nächstmögliche Verbindung.</p>",
+      "durationBegin": "19.06.2024",
+      "durationEnd": "19.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "19.06.2024 12:13",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c6c1fb4d-ac77-4323-aaf8-22b6e1c653ba",
       "disruptionId": "9a68880d-92c6-43ff-902c-0bd4c6fc41a9",
       "author": "REGIO_BW",
