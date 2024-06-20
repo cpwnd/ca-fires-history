@@ -502,6 +502,54 @@
       "topDisruption": false
     },
     {
+      "id": "1b294b60-4c1c-4f66-bb4d-8577ff5b19a0",
+      "disruptionId": "f8f8d8a2-a44f-4713-a4b2-34d6728404eb",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Erdrutsch"
+      },
+      "headline": "Streckensperrung zwischen Titisee und Seebrugg",
+      "summary": "Ein Erdrutsch zwischen Titisee und Feldberg-Bärental schränkt den Zugverkehr erheblich ein. Zur Zeit sind keine Zugfahrten zwischen Titisee und Seebrugg möglich. In der Folge kommt es jetzt zu Zugausfällen auf der Linie S1. Wir haben einen Ersatzverkehr mit Bus zwischen Titisee und Seebrugg für Sie eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung. Dauer der Beeinträchtigung bis mindestens Sonntag, 7. Juli 2024. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen. Den Fahrplan zum Ersatzverkehr finden Sie weiter unten.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>S1 Titisee - Seebrugg</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "25.05.2024",
+      "durationEnd": "07.07.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-20/ff54c9d1-7571-4163-a510-e80600677e50reisendenkarte_20240525-113438.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-20/ff54c9d1-7571-4163-a510-e80600677e50reisendenkarte_20240525-113438.png",
+          "info": "",
+          "alt": "Reisendenkarte 25.05.2024 11:34:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-20/305b2072-3fc2-473a-aaa9-fda021981b68Titisee-Seebrugg%2BNEU%2Bab%2B10.6..pdf",
+          "label": "Titisee-Seebrugg Fahrplan für Ersatzverkehrbus S1 NEU ab 10.6..pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "20.06.2024 09:34",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "5265921d-c2a5-47ed-9e6f-8b8c3a23c390",
       "author": "REGIO_MITTE",
       "cause": {
@@ -531,55 +579,6 @@
       ],
       "lastModified": "20.06.2024 08:07",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "1b294b60-4c1c-4f66-bb4d-8577ff5b19a0",
-      "disruptionId": "f8f8d8a2-a44f-4713-a4b2-34d6728404eb",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Erdrutsch"
-      },
-      "headline": "Streckensperrung zwischen Titisee und Seebrugg",
-      "summary": "Ein Erdrutsch zwischen Titisee und Feldberg-Bärental schränkt den Zugverkehr erheblich ein. Zur Zeit sind keine Zugfahrten zwischen Titisee und Seebrugg möglich. In der Folge kommt es jetzt zu Zugausfällen auf der Linie S1. Wir haben einen Ersatzverkehr mit Bus zwischen Titisee und Seebrugg für Sie eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung. Dauer der Beeinträchtigung bis mindestens Sonntag, 30. Juni 2024. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen. Den Fahrplan zum Ersatzverkehr finden Sie weiter unten.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>S1 Titisee - Seebrugg</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "25.05.2024",
-      "durationEnd": "30.06.2024",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-11/0f2279b8-2ffc-4276-a493-d68c372e3defreisendenkarte_20240525-113438.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-11/0f2279b8-2ffc-4276-a493-d68c372e3defreisendenkarte_20240525-113438.png",
-          "info": "",
-          "alt": "Reisendenkarte 25.05.2024 11:34:38",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2024-06-11/93bd2167-b782-4a4f-9f89-4dc517bf1047Titisee-Seebrugg%2BNEU%2Bab%2B10.6..pdf",
-          "label": "Titisee-Seebrugg Fahrplan für Ersatzverkehrbus S1 NEU ab 10.6..pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "11.06.2024 11:29",
-      "expand": true,
       "topDisruption": false
     },
     {
