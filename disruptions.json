@@ -615,6 +615,38 @@
       "topDisruption": false
     },
     {
+      "id": "38298d71-bfc1-4f1f-8457-c1cfc64f4899",
+      "disruptionId": "ac795bab-e989-4853-8877-427dfc4f24d4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "Beeinträchtigungen aufgrund Sturmfolgen in Übersee am Chiemsee",
+      "summary": "Aktuell kommt es im Bereich Übersee am Chiemsee zwischen Rosenheim und Salzburg aufgrund der Folgen eines Sturmes zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Teilausfällen und Ausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/EC Züge zwischen München und Salzburg</li><li>NJ Züge zwischen Venedig/Wien und Stuttgart</li><li>Korridorzüge der ÖBB übers \"Deutsche Eck\"</li></ul><p>Wir empfehlen Ihnen den Bereich großräumig über Linz/Passau und Innsbruck zu umfahren.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "20.06.2024 19:11",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "22d1dfda-9000-44e1-934e-9b89c0e4c966",
       "disruptionId": "0c506d91-59ae-4f6a-be91-c7140604e25b",
       "author": "REGIO_SUEDOST",
