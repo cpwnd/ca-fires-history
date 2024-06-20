@@ -2,40 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "7550a0fa-3395-4264-a4bc-cd6880f77d53",
-      "disruptionId": "68edfb0c-dffb-40bf-b5f6-72495d9aa486",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen zwischen Berlin und Dresden",
-      "summary": "Aufgrund von einer Oberleitungsstörung auf der Strecke Berlin – Dresden ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen. \n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle&nbsp;EC/IC-Züge&nbsp;zwischen Berlin und Dresden werden&nbsp;in beiden Fahrtrichtungen&nbsp;umgeleitet. Die Halte, Doberlug-Kirchhain&nbsp;und Elsterwerda&nbsp;entfallen.&nbsp;Verspätung ca. 40 Minuten</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "20.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "20.06.2024 06:14",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
