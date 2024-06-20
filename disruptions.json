@@ -2,6 +2,53 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "38298d71-bfc1-4f1f-8457-c1cfc64f4899",
+      "disruptionId": "ac795bab-e989-4853-8877-427dfc4f24d4",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "Streckensperrung aufgrund von Sturmfolgen zwischen München und Salzburg",
+      "summary": "Aktuell kommt es zwischen München und Salzburg aufgrund der Folgen eines Sturmes zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/EC/RJ/ICE - Züge zwischen München und Salzburg werden an einem geeigneten Bahnhof zurückgehalten bzw. müssen leider ausfallen</li><li><strong>NJ 295 / NJ 40295 wird zwischen München und Salzburg über Kufstein umgeleitet.</strong></li></ul><p>Derzeit ist <strong>kein </strong>Zugverkehr zwischen Rosenheim und Salzburg Hbf möglich. Ein Ersatzverkehr mit Bussen ist leider <strong>nicht </strong>möglich. Wir arbeiten mit Hochdruck an der Störungsbehebung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "20.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "20.06.2024 21:34",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
@@ -236,39 +283,6 @@
       ],
       "lastModified": "17.06.2024 12:11",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "f31ce0a8-c82d-4101-928d-deccacba3701",
-      "disruptionId": "80c2a631-5bb0-42ba-a07e-e4e6eb8922fd",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Unwetterauswirkungen"
-      },
-      "headline": "Beeinträchtigungen zwischen München und Zürich",
-      "summary": "Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Es kommt zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die ECE-Züge München – Lindau – Zürich fallen in beiden Fahrtrichtungen zwischen München und Lindau-Reutin aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternative:</p><p><strong>Zwischen München </strong>(ZOB Hackerbrücke) <strong>und Lindau-Reutin ist ein Busersatzverkehr eingerichtet.</strong></p><p>Die Ersatzbusse starten in München 30 Minuten früher gegenüber den Zeiten der ECE-Züge. In Lindau-Reutin besteht Anschluss vom Ersatzbus auf den ECE-Zug in Richtung Zürich, sowie in der Gegenrichtung vom ECE-Zug auf den Ersatzbus in Richtung München. Zwischen München Hbf und München Hackerbrücke nutzen sie bitte die Züge der S-Bahn München. Die Ersatzbusse sind in der Reiseauskunft und im DB Navigator aufgeführt.</p><p>Alternativ können sie zwischen München und Lindau in beiden Richtungen die Nahverkehrszüge über Kempten nutzen.</p><p>Die Behebung der Störung soll vsl. bis Montag, 01.07.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "05.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "13.06.2024 04:35",
-      "expand": true,
       "topDisruption": false
     },
     {
@@ -582,38 +596,6 @@
       "topDisruption": false
     },
     {
-      "id": "38298d71-bfc1-4f1f-8457-c1cfc64f4899",
-      "disruptionId": "ac795bab-e989-4853-8877-427dfc4f24d4",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingte Beeinträchtigungen"
-      },
-      "headline": "Streckensperrung aufgrund von Sturmfolgen zwischen München und Salzburg",
-      "summary": "Aktuell kommt es zwischen München und Salzburg aufgrund der Folgen eines Sturmes zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. ",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>alle IC/EC/RJ/ICE/NJ- Züge zwischen München und Salzburg werden an einem geeigneten Bahnhof zurückgehalten</li></ul><p><strong>Derzeit ist kein Zugverkehr zwischen Rosenheim und Salzburg Hbf möglich. Wir arbeiten mit Hochdruck an der Störungsbehebung.</strong></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "20.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "20.06.2024 19:46",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "22d1dfda-9000-44e1-934e-9b89c0e4c966",
       "disruptionId": "0c506d91-59ae-4f6a-be91-c7140604e25b",
       "author": "REGIO_SUEDOST",
@@ -861,6 +843,38 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "f31ce0a8-c82d-4101-928d-deccacba3701",
+      "disruptionId": "80c2a631-5bb0-42ba-a07e-e4e6eb8922fd",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Unwetterauswirkungen"
+      },
+      "headline": "Beeinträchtigungen zwischen München und Zürich",
+      "summary": "Die Strecke München - Memmingen - Lindau (- Zürich) ist zwischen Buchloe und Memmingen gesperrt. Es kommt zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen ist der Fernverkehr auf folgenden Strecken:</strong></strong><ul><li>Die ECE-Züge München – Lindau – Zürich fallen in beiden Fahrtrichtungen zwischen München und Lindau-Reutin aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternative:</p><p><strong>Zwischen München </strong>(ZOB Hackerbrücke) <strong>und Lindau-Reutin ist ein Busersatzverkehr eingerichtet.</strong></p><p>Die Ersatzbusse starten in München 30 Minuten früher gegenüber den Zeiten der ECE-Züge. In Lindau-Reutin besteht Anschluss vom Ersatzbus auf den ECE-Zug in Richtung Zürich, sowie in der Gegenrichtung vom ECE-Zug auf den Ersatzbus in Richtung München. Zwischen München Hbf und München Hackerbrücke nutzen sie bitte die Züge der S-Bahn München. Die Ersatzbusse sind in der Reiseauskunft und im DB Navigator aufgeführt.</p><p>Alternativ können sie zwischen München und Lindau in beiden Richtungen die Nahverkehrszüge über Kempten nutzen.</p><p>Die Behebung der Störung soll vsl. bis Montag, 01.07.2024 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "20.06.2024 21:33",
+      "expand": true,
       "topDisruption": false
     },
     {
