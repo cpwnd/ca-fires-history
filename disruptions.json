@@ -13,6 +13,7 @@
       "summary": "Aufgrund von Unwetterschäden auf der Strecke zwischen Berlin und Dresden ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Streckenabschnitt eingleisig befahrbar. In der Folge kommt es zu Verspätungen. \n",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle&nbsp;EC/IC/ICE/RJ/NJ-Züge&nbsp;zwischen Berlin und Dresden </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "21.06.2024",
+      "durationEnd": "21.06.2024",
       "images": [],
       "downloads": [],
       "links": [],
@@ -20,9 +21,22 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "BB",
+        "BW",
+        "BY",
         "BE",
-        "SN"
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
       ],
       "lines": [
         {
@@ -31,7 +45,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "21.06.2024 05:03",
+      "lastModified": "21.06.2024 15:26",
       "expand": true,
       "topDisruption": false
     },
