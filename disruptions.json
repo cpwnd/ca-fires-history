@@ -2,54 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "7550a0fa-3395-4264-a4bc-cd6880f77d53",
-      "disruptionId": "68edfb0c-dffb-40bf-b5f6-72495d9aa486",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen zwischen Berlin und Dresden",
-      "summary": "Aufgrund von Unwetterschäden auf der Strecke zwischen Berlin und Dresden ist der Fernverkehr der Deutschen Bahn derzeit beeinträchtigt. Streckenabschnitt eingleisig befahrbar. In der Folge kommt es zu Verspätungen. \n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle&nbsp;EC/IC/ICE/RJ/NJ-Züge&nbsp;zwischen Berlin und Dresden </li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "21.06.2024",
-      "durationEnd": "21.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "21.06.2024 15:26",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
