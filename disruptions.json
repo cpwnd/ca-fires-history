@@ -2,40 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "7b2c4908-e1e9-40df-a489-51c550c73eca",
-      "disruptionId": "dee38566-250d-4688-a3e0-fd91eb9c3f85",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingte Beeinträchtigungen"
-      },
-      "headline": "Oberleitungsstörung zwischen Berlin und Dresden",
-      "summary": "Aufgrund von einer Oberleitungsstörung kommt es heute im Fernverkehr zu Umleitungen zwischen Berlin und Dresden.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC/EC/RJ Züge zwischen Berlin und Dresden werden umgeleitet. Ausfall der Verkehrshalte Doberlug-Kirchhain und Elsterwerda</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "21.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "22.06.2024 02:48",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
