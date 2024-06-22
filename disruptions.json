@@ -344,6 +344,39 @@
       "topDisruption": false
     },
     {
+      "id": "860205c4-578d-4887-94e1-46e217fda0fc",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Umleitung der FEX-Züge mit Haltausfall",
+      "summary": "Aufgrund von Personalausfall beim Infrastrukturbetreiber werden die Z&uuml;ge der FEX-Linie am 23.06.2024 im Zeitraum von 08:00 Uhr - 20:00 Uhr von/bis Berlin Ostkreuz umgeleitet und beginnen/enden in Berlin-Lichtenberg. Die Halte in Berlin Hbf und Berlin Gesundbrunnen entfallen in beide Richtungen.&nbsp;<br />\nNutzen Sie alternativ die S-Bahn oder andere Verkehrsmittel.<br />\n&nbsp;",
+      "text": "<p>Bitte informieren Sie sich unmittelbar vor Reiseantritt &uuml;ber Ihre tats&auml;chlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft unter bahn.de, im&nbsp;DB Navigator&nbsp;oder in der VBB-App &quot;Bus&amp;Bahn&quot;.</p>\n",
+      "durationBegin": "23.06.2024",
+      "durationEnd": "23.06.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.06.2024 17:36",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -780,39 +813,6 @@
         }
       ],
       "lastModified": "22.06.2024 16:37",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "5318579e-5db1-4826-aed5-93dc8c93bc4c",
-      "disruptionId": "d4397ea0-3a86-4bf3-bce4-c5c9fbb72cde",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "RB 32 / Ausfall RB 27626 / Straubing (ab 16:41 Uhr) - Bogen (an 16:58 Uhr)",
-      "summary": ".",
-      "text": "<p>Die RB 27626 von Straubing (ab 16:41 Uhr) nach Bogen (an 16:58 Uhr) entfällt wegen einem Polizeieinsatz ersatzlos. Reisende nutzen bitte die nächste Verbindung.</p>",
-      "durationBegin": "22.06.2024",
-      "durationEnd": "22.06.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "22.06.2024 16:23",
       "expand": true,
       "topDisruption": false
     },
