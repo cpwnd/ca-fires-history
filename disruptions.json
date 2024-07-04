@@ -42,6 +42,44 @@
       "topDisruption": false
     },
     {
+      "id": "dfba72c5-eda9-4bd6-adf8-80f3f115daf6",
+      "disruptionId": "579c8afd-2297-4eeb-988e-7ad9a03aab36",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Bamberg und Erfurt",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung in Massetal zwischen Bamberg und Erfurt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zum Ausfall der Verkehrshalte Bamberg, Erlangen und Coburg. Ersatzhalt ist Würzburg. Züge erhalten etwa 90 Min Verspätung\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Erfurt - Nürnberg</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.07.2024",
+      "durationEnd": "04.07.2024",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "TH",
+        "BY",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.07.2024 06:23",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "3cc7720c-e1f9-4102-b5ea-313228b8b7da",
       "disruptionId": "e50e909c-52b3-4a38-90a2-25f7c4948b61",
       "author": "FERNVERKEHR_AG",
