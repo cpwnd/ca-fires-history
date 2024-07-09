@@ -984,72 +984,6 @@
       "topDisruption": false
     },
     {
-      "id": "bbd917fd-de65-4c89-9400-f0b0781adf76",
-      "disruptionId": "ceeaf22d-67e0-4827-8222-e9f92385d71a",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_it",
-        "label": "IT-Störung"
-      },
-      "headline": "RB45 / Ausfall RB 27984 / Salzburg Hbf (ab 16:08 Uhr) - Freilassing (an 16:18 Uhr)",
-      "summary": "Ausfall RB 27984 am 09.07.24, Alternative: S-Bahn",
-      "text": "<p>Die RB 27984 entfällt am 09.07.24 zwischen Salzburg Hbf (ab 16:08 Uhr) und Freilassing (an 16:18 Uhr) wegen IT-Störung. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
-      "durationBegin": "09.07.2024",
-      "durationEnd": "09.07.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "09.07.2024 16:10",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "45e09e30-c6cb-48e9-b959-98ca5bf96266",
-      "disruptionId": "3ff87327-bce4-4a0a-bc33-22c92e7a3938",
-      "author": "SUEDOSTBAYERNBAHN",
-      "cause": {
-        "category": "technical_problem_it",
-        "label": "IT-Störung"
-      },
-      "headline": "RB 45 / Ausfall RB 27985 / Freilassing (ab 15:46 Uhr) - Salzburg Hbf (an 15:55 Uhr)",
-      "summary": "Ausfall RB 27985 am 09.07.24, Alternative: S-Bahn",
-      "text": "<p>Die RB 27985 entfällt am 09.07.24 zwischen Freilassing (ab 15:46 Uhr) und Salzburg Hbf (an 15:55 Uhr) wegen IT-Störung. Bitte nutzen Sie alternativ die S-Bahn.&nbsp;</p>",
-      "durationBegin": "09.07.2024",
-      "durationEnd": "09.07.2024",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "09.07.2024 16:03",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "d7d61b19-b33c-44d3-827c-a248d7f6d04d",
       "disruptionId": "b31a037f-6b80-4829-ae32-23c87210d8fc",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1896,6 +1830,47 @@
       ],
       "lastModified": "18.04.2024 12:27",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "e5b996e2-b6ef-45ef-93f0-dcfd53a491b8",
+      "disruptionId": "5adfe634-17c9-4d83-82bc-34894cd9af17",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "kurzfristig notwendige Reparaturarbeiten an der Strecke: S2 und S3 halten nur stadtauswärts in Sommerrain und Nürnbergerstraße",
+      "summary": "kurzfristig notwendige Reparaturarbeiten an der Strecke, S2 und S3 halten nur stadtauswärts in Sommerrain und Nürnbergerstraße",
+      "text": "<p>Die S-Bahnen der <strong>Linie S2 in Richtung Filderstadt </strong>und <strong>S3 in Richtung S-Vaihingen halten aktuell nicht an den Stationen Sommerrain und Nürnberger Straße</strong>. Wegen einer kurzfristigen notwendigen Reparatur an der Strecke zwischen Fellbach und Bad Cannstatt fahren die S-Bahnen stadteinwärts über die Ferngleise. Die Halte stadteinwärts entfallen dadurch.</p><p>Fahrgäste mit Start und Ziel Sommerrain und Nürnberger Straße nutzen bitte Verbindungen mit Zügen der Gegenrichtung, in dem sie zeitweise in die entgegengesetzte Richtung fahren und dann jeweils umsteigen. Die S-Bahnen der S2 Richtung Schorndorf und S3 Richtung Backnang halten regulär an den Stationen Sommerrain und Nürnberger Straße.</p><p>Die Reparatur wird voraussichtlich bis zum Mittwoch, 10. Juli, im Laufe des Tages andauern.</p><p>Bitte prüfen Sie Ihre Reiseverbindung online vor Fahrtanritt und berücksichtigen Sie die geänderte Reiseverbindung bei Ihrer Fahrt. Wir informieren Sie, sobald sich Neuigkeiten ergeben.</p>",
+      "durationBegin": "09.07.2024",
+      "durationEnd": "10.07.2024",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-09/3dfd0c91-1665-4403-a65b-bf3e63dfbc14reisendenkarte_20240709-163032.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-07-09/3dfd0c91-1665-4403-a65b-bf3e63dfbc14reisendenkarte_20240709-163032.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.07.2024 16:30:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.07.2024 16:37",
+      "expand": true,
       "topDisruption": false
     },
     {
