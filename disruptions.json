@@ -55,12 +55,6 @@
           "label": "Fahrplan RB71 RE1.pdf (PDF, 252 KB)",
           "info": "",
           "openInNewTab": true
-        },
-        {
-          "href": "https://assets.static-bahn.de/dam/jcr:2de6bef0-6ad2-41f3-81dc-c886a3350e67/Fahrplan%20RB71%20RE1.pdf",
-          "label": "Fahrplan RB71 RE1.pdf (PDF, 252 KB)",
-          "info": "",
-          "openInNewTab": true
         }
       ],
       "downloads": [],
@@ -81,7 +75,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.07.2024 10:39",
+      "lastModified": "24.07.2024 16:02",
       "expand": false,
       "topDisruption": false
     },
@@ -370,6 +364,40 @@
       ],
       "lastModified": "18.04.2024 12:39",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "c068648f-b026-4c91-8a36-c85b380fb444",
+      "disruptionId": "1b80c12c-8b83-4efc-8b34-93103c1699fd",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen in Berlin-Südkreuz",
+      "summary": "Aufgrund einer Reparatur an der Strecke im Bereich Berlin-Südkreuz kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich um etwa 15 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-/EC-Züge mit Halt in Berlin-Südkreuz.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Morgenstunden am Donnerstag, 25.07.2024, erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.07.2024",
+      "mapHref": "https://karte.bahn.de/detail/1b80c12c-8b83-4efc-8b34-93103c1699fd",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "24.07.2024 16:05",
+      "expand": true,
       "topDisruption": false
     },
     {
