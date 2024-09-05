@@ -2,6 +2,40 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "2fd774a7-f3e1-41e6-aa38-8ddab2827a3b",
+      "disruptionId": "835df238-e91a-4fec-8133-0d6d2b21c091",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Hamburg und Westerland/Padborg",
+      "summary": "Aufgrund eines Feuerwehreinsatzes in Gleisnähe ist die Strecke zwischen Elmshorn und Westerland/Padborg derzeit gesperrt. Zugfahrten Hamburg -Westerland/Flensburg und Kiel derzeit nicht möglich.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge Kiel - Hamburg Züge beginnen und enden in Hamburg </li><li>Züge Westerland - Hamburg beginnen und enden in Hamburg</li><li>Züge Hamburg - Koebenhaven fallen zwischen Hamburg und Frederica aus. Ausfall der Halte Hamburg Hbf, Neumünster, Schleswig und Padborg. </li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Busersatzverkehr. Die Behebung der Störung soll vsl. bis in die Nachtstunden andauern   .</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/835df238-e91a-4fec-8133-0d6d2b21c091",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.09.2024 16:41",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "155ec327-dcfd-430f-820f-62e44ab59e1e",
       "disruptionId": "9c51e6ce-b63f-4e1b-99d8-5cbd44e2c681",
       "author": "REGIO_BW",
