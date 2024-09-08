@@ -55,6 +55,43 @@
       "topDisruption": false
     },
     {
+      "id": "f302accd-d2b1-4ab6-8d0f-547ca72f36ff",
+      "disruptionId": "0b5a8bd1-6210-4f1d-9293-7c5d6e4d955c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Karlsruhe und Basel",
+      "summary": "Aufgrund von Bauarbeiten zwischen Karlsruhe und Rastatt kommt es am 09.09.2024 ganztägig zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge fallen zwischen Karlsruhe und Basel in beiden Richtungen aus.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge aus Richtung Köln über Mainz und Mannheim mit Ziel Basel SBB enden in Karlsruhe</li><li>ICE-Züge aus Richtung Basel SBB über Mannheim und Mainz mit Ziel Köln beginnen in Karlsruhe</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Bitte nutzen sie ab Karlsruhe Richtung Basel die Züge nach Interlaken und Chur und Basel SBB. Ab Basel Richtung Karlsruhe die Züge Richtung Hamburg und Berlin.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "09.09.2024",
+      "durationEnd": "09.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/0b5a8bd1-6210-4f1d-9293-7c5d6e4d955c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "09.09.2024 00:35",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "652e6339-df9d-4ca4-87df-fbfcdaa8e7e9",
       "disruptionId": "ce8f9070-a8c0-40ad-ab5f-a03e5e9e188b",
       "author": "FERNVERKEHR_AG",
@@ -746,40 +783,6 @@
         }
       ],
       "lastModified": "06.09.2024 11:25",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "3e12b2f8-2780-49d8-a6ef-861a63fea127",
-      "disruptionId": "ace7cb12-b30a-48e3-8fcc-abd9be023430",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen in Oberstdorf",
-      "summary": "Aufgrund eines defekten Stellwerkes in Oberstdorf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle&nbsp;IC-Züge&nbsp;zwischen Augsburg und Oberstdorf</li><li>Alle&nbsp;IC-Züge&nbsp;zwischen Stuttgart und Oberstdorf.</li></ul><p>Alternativ können die Züge des Nahverkehrs benutzt werden.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Die Behebung der Störung soll vsl. bis 09.09.2024 Betriebsschluss erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "03.09.2024",
-      "durationEnd": "09.09.2024",
-      "mapHref": "https://karte.bahn.de/detail/ace7cb12-b30a-48e3-8fcc-abd9be023430",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "05.09.2024 11:05",
       "expand": false,
       "topDisruption": false
     },
