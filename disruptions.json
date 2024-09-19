@@ -769,39 +769,6 @@
       "topDisruption": false
     },
     {
-      "id": "da9aae0a-51f1-4aa9-b13e-884edc70648b",
-      "disruptionId": "229da303-9d7f-46a2-931d-220b186eed59",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Essen und Dortmund",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Essen und Dortmund kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet. Der Halt in Bochum entfällt.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Hamburg und Köln</li><li>ICE Züge zwischen Dortmund und Köln</li><li>IC Züge zwischen Hamm(W) und Essen</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "19.09.2024",
-      "mapHref": "https://karte.bahn.de/detail/229da303-9d7f-46a2-931d-220b186eed59",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "19.09.2024 11:36",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "f865b14a-2b03-408e-8ae9-3523f51d19d3",
       "author": "S_BAHN_RM",
       "cause": {
@@ -843,15 +810,15 @@
         "label": "Bauarbeiten"
       },
       "headline": "Bauarbeiten im Raum Köln",
-      "summary": "Aufgrund von Bauarbeiten im Raum Köln kommt es vom 23.09. bis 29.09.2024 zu Fahrplananpassungen im Fernverkehr der Deutschen Bahn.",
+      "summary": "Aufgrund von Bauarbeiten im Raum Köln kommt es vom 23.09. bis 29.09.2024 zu Fahrplananpassungen im Bahnverkehr.",
       "text": "<p>Der angepasste Fahrplan ist bereits auf bahn.de und im DB Navigator abrufbar. Zudem können Sie sich über die telefonische Reiseauskunft 030/2970 über Ihre Verbindung informieren.</p><strong>Die Fahrplananpassungen:</strong><ul><li>Züge in bzw. aus Richtung Norddeutschland starten bzw. enden größtenteils bereits in Düsseldorf. Der Halt Köln Hbf entfällt.</li><li>Die ICE-Züge von bzw. nach Brüssel&nbsp;enden bzw. starten in Köln-Ehrenfeld. Der Halt Köln Hbf entfällt.</li><li>Einige Züge halten abweichend in Köln Messe/Deutz. Der Halt Köln Hbf entfällt.</li><li>Teilweise entfallen zudem ICE-Züge zwischen Köln und Frankfurt.</li><li>In der Nacht von&nbsp;Freitag, 27. September, auf Samstag, 28. September,&nbsp;ist der Kölner Hauptbahnhof und der Bahnhof Köln Messe/Deutz für&nbsp;sämtlichen&nbsp;Zugverkehr vollgesperrt. Dies betrifft auch die S-Bahn. Es ist ein umfangreicher Ersatzverkehr mit Bussen eingerichtet.</li></ul>",
       "durationBegin": "23.09.2024",
       "durationEnd": "27.09.2024",
       "mapHref": "https://karte.bahn.de/detail/a0922fa6-144d-45ff-8742-20fff16e6958",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-09-19/481a3e70-fbf8-497c-9220-04d53046cd6areisendenkarte_20240918-135353.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-09-19/481a3e70-fbf8-497c-9220-04d53046cd6areisendenkarte_20240918-135353.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-09-19/cdc617fc-b772-4605-b376-cd64dc323474reisendenkarte_20240918-135353.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2024-09-19/cdc617fc-b772-4605-b376-cd64dc323474reisendenkarte_20240918-135353.png",
           "info": "",
           "alt": "Reisendenkarte 18.09.2024 13:53:53",
           "openInNewTab": true
@@ -879,7 +846,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "19.09.2024 14:59",
+      "lastModified": "19.09.2024 15:19",
       "expand": true,
       "topDisruption": false
     },
@@ -915,39 +882,6 @@
       ],
       "lastModified": "16.09.2024 18:46",
       "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "5254c1c9-ae95-4f76-aa5c-25392b7b6c34",
-      "disruptionId": "bd845822-d604-4b59-ae75-5494180c7bdd",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigungen zwischen Oldenburg(Oldb) und Bremen",
-      "summary": "Aufgrund einer technischen Störung an der Strecke um Raum Delmenhorst kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 10 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Züge zwischen Oldenburg(Oldb) und Bremen</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "19.09.2024",
-      "mapHref": "https://karte.bahn.de/detail/bd845822-d604-4b59-ae75-5494180c7bdd",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "19.09.2024 12:25",
-      "expand": true,
       "topDisruption": false
     },
     {
