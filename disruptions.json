@@ -319,6 +319,39 @@
       "topDisruption": false
     },
     {
+      "id": "96f69f26-ae08-45b0-b6ff-8fc491795d2e",
+      "disruptionId": "3517bf15-5c0c-40fc-aab0-3385fcbd3fef",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Keine Beeinträchtigungen mehr zwischen Wendlingen und Merklingen-Schwäbische Alb",
+      "summary": "Die Reparatur an der Oberleitung zwischen Wendlingen(Neckar) und Merklingen - Schwäbische Alb ist beendet. Die Strecke ist wieder uneingeschränkt befahrbar. Bis sich alles normalisiert, kann es in der nächsten Zeit noch zu Verspätungen und einzelnen Zugausfällen kommen.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>IRE200 Wendlingen - Merklingen-Schwäbische Alb - Ulm</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.<strong>﻿</strong></p>",
+      "durationBegin": "25.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/3517bf15-5c0c-40fc-aab0-3385fcbd3fef",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.09.2024 19:39",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "21d7243c-3640-46fe-a135-9d4ed9e40454",
       "disruptionId": "ef4c9722-3ae5-4803-84b2-478d52f8578b",
       "author": "REGIO_BW",
@@ -357,39 +390,6 @@
       ],
       "lastModified": "25.09.2024 17:57",
       "expand": true,
-      "topDisruption": false
-    },
-    {
-      "id": "96f69f26-ae08-45b0-b6ff-8fc491795d2e",
-      "disruptionId": "3517bf15-5c0c-40fc-aab0-3385fcbd3fef",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen zwischen Wendlingen und Merklingen-Schwäbische Alb",
-      "summary": "Eine Reparatur an der Oberleitung zwischen Wendlingen(Neckar) und Merklingen - Schwäbische Alb verzögert den Bahnverkehr. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Wir haben einen Ersatzverkehr mit 2 Bussen zwischen Wendlingen(Neckar) und Merklingen - Schwäbische Alb im Pendelverkehr für Sie eingerichtet. Die Busse starten jeweils in Wendlingen um 14:10 Uhr und in Merklingen um ca. 14:40 Uhr. Über die Dauer der Störung liegen uns leider noch keine Informationen vor. Wir aktualisieren diese Meldung, sobald uns weitere Informationen vorliegen.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li><strong>IRE200 Wendlingen - Merklingen-Schwäbische Alb - Ulm</strong></li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.<strong>﻿</strong></p>",
-      "durationBegin": "25.09.2024",
-      "mapHref": "https://karte.bahn.de/detail/3517bf15-5c0c-40fc-aab0-3385fcbd3fef",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "25.09.2024 13:49",
-      "expand": false,
       "topDisruption": false
     },
     {
