@@ -310,6 +310,55 @@
       "topDisruption": false
     },
     {
+      "id": "e2de28d5-489f-4109-a544-18e434253a6a",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Mayen Ost und Andernach",
+      "summary": "Die Strecke zwischen Andernach und Mayen Ost ist gesperrt.<br />\nZur Zeit sind keine Zugfahrten im betroffenen Streckenabschnitt m&ouml;glich in der Folge kommt es zu Versp&auml;tungen und Teilausf&auml;llen.<br />\n&nbsp;",
+      "text": "<p><strong><u>​​​​​Betroffene Linien:</u></strong></p>\n\n<ul>\n\t<li><strong>RB23 &nbsp;Mayen Ost - Andernach - Koblenz Hbf - Limburg(Lahn)</strong></li>\n\t<li><strong>RB38 Andernach - Mayen Ost - Kaisersesch</strong></li>\n</ul>\n\n<p>Wir haben f&uuml;r den kompletten Laufweg zwischen Mayen Ost und Andernach einen<strong>&nbsp;Ersatzverkehr mit Bussen</strong>&nbsp;eingerichtet, der alle Unterwegshalte im Pendelverkehr anf&auml;hrt.</p>\n\n<p>Aufgrund der Kurzfristigkeit der Ma&szlig;nahme und einer eingeschr&auml;nkten Verf&uuml;gbarkeit von Bussen kann es auch <strong>im Ersatzverkehr zu Fahrtausf&auml;llen und Fahrplanabweichungen</strong> kommen.&nbsp;</p>\n\n<p>Bitte beachten Sie, dass die Busse<strong> </strong>nicht immer unmittelbar am Bahnhof halten k&ouml;nnen und die Mitnahme von Fahrr&auml;dern aus Kapazit&auml;tsgr&uuml;nden leider nicht m&ouml;glich ist.</p>\n\n<p>Bitte rechnen Sie f&uuml;r die Dauer auf jeden Fall mehr Reisezeit ein.&nbsp;</p>\n\n<p>Informieren Sie sich kurz vor der Fahrt &uuml;ber Ihren Zug im DB Navigator oder unter<strong> </strong><strong>www.bahn.de</strong>.<br />\nIn der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p>\n\n<p>Zus&auml;tzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p>\n\n<p>F&uuml;r die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verst&auml;ndnis.</p>\n\n<p>DB Regio AG, Region Mitte</p>\n",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://reiseauskunft.bahn.de/bin/query.exe/dn?protocol=https:",
+          "label": "Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/Regio_Mitte",
+          "label": "Twitter",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB-Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "30.09.2024 16:44",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "60c4ebda-c367-48ef-8bf3-c139dfad9d7a",
       "disruptionId": "0e570798-8a4b-48a0-9403-90e583e3e5db",
       "author": "FERNVERKEHR_AG",
@@ -581,6 +630,62 @@
       ],
       "lastModified": "31.05.2023 09:32",
       "expand": false,
+      "topDisruption": false
+    },
+    {
+      "id": "2ce8e322-64c4-402c-9a1f-989bc45da707",
+      "disruptionId": "241b1d21-d7e4-4d6f-b557-a2a9d6c14026",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Wiesbaden Hbf <> Frankfurt-Höchst:                                                              \nZugausfall mit Ersatzverkehr",
+      "summary": "in den Nächten von Freitag, den 19. Juli 2024, bis  bis Samstag, den 14. Dezember 2024, jeweils von 22.40 Uhr bis 5.15 Uhr",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><p>• S1</p><p>Die Züge fallen zwischen Wiesbaden Hbf und Frankfurt-Höchst aus und werden durch Busse ersetzt. Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Ersatzhaltestellen:</strong> Alle regulären Halte werden angefahren; die Abfahrtsorte der Busse entnehmen Sie der Fahrplantabelle und den Umgebungsplänen.</p><p><strong>Grund der Bauarbeiten: </strong>Arbeiten für das Elektronische Stellwerk Flörsheim</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise.</p><p>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p>",
+      "durationBegin": "19.07.2024",
+      "durationEnd": "14.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/241b1d21-d7e4-4d6f-b557-a2a9d6c14026",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2024-09-30/c745368a-7097-445c-a345-7e200a3b08fcreisendenkarte_20240930-164505.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2024-09-30/c745368a-7097-445c-a345-7e200a3b08fcreisendenkarte_20240930-164505.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.09.2024 16:45:05",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2024-09-30/43e311c3-d1eb-4d9f-8faa-a531fef56f25S1_Fahrplan%25C3%25A4nderungen_50664_50665_50666_50667_EStwFl%25C3%25B6rsheim.pdf",
+          "label": "S1 Fahrplanänderungen EStw Flörsheim",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "http://bahn.de/ersatzverkehr-rhein-main",
+          "label": "Ausführliche Informationen zu Fahrplanänderungen und Ersatzverkehren",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "30.09.2024 16:47",
+      "expand": true,
       "topDisruption": false
     },
     {
