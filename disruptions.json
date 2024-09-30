@@ -633,62 +633,6 @@
       "topDisruption": false
     },
     {
-      "id": "2ce8e322-64c4-402c-9a1f-989bc45da707",
-      "disruptionId": "241b1d21-d7e4-4d6f-b557-a2a9d6c14026",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Wiesbaden Hbf <> Frankfurt-Höchst:                                                              \nZugausfall mit Ersatzverkehr",
-      "summary": "in den Nächten von Freitag, den 19. Juli 2024, bis  bis Samstag, den 14. Dezember 2024, jeweils von 22.40 Uhr bis 5.15 Uhr",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><p>• S1</p><p>Die Züge fallen zwischen Wiesbaden Hbf und Frankfurt-Höchst aus und werden durch Busse ersetzt. Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Ersatzhaltestellen:</strong> Alle regulären Halte werden angefahren; die Abfahrtsorte der Busse entnehmen Sie der Fahrplantabelle und den Umgebungsplänen.</p><p><strong>Grund der Bauarbeiten: </strong>Arbeiten für das Elektronische Stellwerk Flörsheim</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise.</p><p>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p>",
-      "durationBegin": "19.07.2024",
-      "durationEnd": "14.12.2024",
-      "mapHref": "https://karte.bahn.de/detail/241b1d21-d7e4-4d6f-b557-a2a9d6c14026",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2024-09-30/c745368a-7097-445c-a345-7e200a3b08fcreisendenkarte_20240930-164505.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2024-09-30/c745368a-7097-445c-a345-7e200a3b08fcreisendenkarte_20240930-164505.png",
-          "info": "",
-          "alt": "Reisendenkarte 30.09.2024 16:45:05",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2024-09-30/43e311c3-d1eb-4d9f-8faa-a531fef56f25S1_Fahrplan%25C3%25A4nderungen_50664_50665_50666_50667_EStwFl%25C3%25B6rsheim.pdf",
-          "label": "S1 Fahrplanänderungen EStw Flörsheim",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "http://bahn.de/ersatzverkehr-rhein-main",
-          "label": "Ausführliche Informationen zu Fahrplanänderungen und Ersatzverkehren",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "30.09.2024 16:47",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "c44e62fe-ccb1-4f5b-a86a-af9d8f1615d5",
       "disruptionId": "fd8dcd52-f73a-42a1-9f25-4c6b47d72e66",
       "author": "S_BAHN_RM",
