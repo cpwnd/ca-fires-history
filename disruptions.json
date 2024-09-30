@@ -1019,6 +1019,39 @@
       "topDisruption": false
     },
     {
+      "id": "b90abda0-b031-4a0d-ae44-4ebb9fefac27",
+      "disruptionId": "facff960-fbfb-46f9-9339-86e502bfb55b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Ingolstadt und München",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Ingolstadt und München kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen von etwa 20 Minuten.",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge auf der Strecke Nürnberg – Ingolstadt – München.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung wird vsl. bis in die Morgenstunden am Dienstag, dem 01.10.2024, andauern. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.09.2024",
+      "mapHref": "https://karte.bahn.de/detail/facff960-fbfb-46f9-9339-86e502bfb55b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.09.2024 20:04",
+      "expand": true,
+      "topDisruption": false
+    },
+    {
       "id": "c8a3c7a8-4c31-4a10-ab86-a50a00046c87",
       "disruptionId": "f40a2cb8-fce2-4f08-baa7-9755001b7f4e",
       "author": "S_BAHN_RM",
