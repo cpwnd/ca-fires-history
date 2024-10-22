@@ -141,58 +141,6 @@
       "topDisruption": false
     },
     {
-      "id": "d68e7ec0-6d5c-4abb-b9a6-710e9fd0e21c",
-      "author": "REGIO_NI_HB",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Stellwerksausfall in Bremen Hbf",
-      "summary": "Wegen eines Stellwerksausfalls in Bremen Hbf ist der Zugverkehr des Regionalverkehrs beeintr&auml;chtigt. Es kommt zu Ausf&auml;llen und Versp&auml;tungen.",
-      "text": "<p><u>Betroffene Linien:&nbsp;</u></p>\n\n<ul style=\"list-style-type:disc\">\n\t<li>RE 1 (Norddeich(Mole) &ndash; Bremen Hbf &ndash; Hannover Hbf): AUSWIRKUNG&nbsp;</li>\n\t<li>RE 8 (Bremerhaven-Lehe &ndash; Hannover Hbf): AUSWIRKUNG&nbsp;</li>\n\t<li>RE 9 (Osnabr&uuml;ck Hbf &ndash; (Bremen Hbf) &ndash; Bremerhaven-Lehe): AUSWIRKUNG&nbsp;</li>\n</ul>\n\n<p>Ein Ersatzverkehr mit Bussen ist in Planung.</p>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 60 Minuten.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
-      "durationBegin": "07.10.2024",
-      "durationEnd": "07.10.2024",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "http://bahn.de",
-          "label": "bahn.de",
-          "info": "bahn.de",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://reional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt ",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
-          "info": "Regionaler Kundendialog Niedersachsen und Bremen ",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "bahn.de/fahrgastrechte ",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "07.10.2024 12:21",
-      "expand": true,
-      "topDisruption": false
-    },
-    {
       "id": "eddb9ef0-1125-40c7-8ed1-e856fbf03f2a",
       "disruptionId": "83bbe8a5-5d9b-4cb6-8e0e-951fc0c2b4a5",
       "author": "REGIO_SUEDOST",
