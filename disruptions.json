@@ -51,7 +51,7 @@
       "summary": "Aufgrund einer technischen Störung an der Strecke zwischen München und Ingolstadt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge verspäten sich dadurch um etwa 40 Min.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE / IC-Züge zwischen München und Ingolstadt</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "25.10.2024",
-      "durationEnd": "25.10.2024",
+      "durationEnd": "27.10.2024",
       "mapHref": "https://karte.bahn.de/detail/65dff5cb-f647-41b1-97cb-1edea162afea",
       "images": [],
       "downloads": [],
@@ -72,7 +72,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "25.10.2024 11:03",
+      "lastModified": "25.10.2024 13:37",
       "expand": false,
       "topDisruption": false
     },
@@ -508,54 +508,6 @@
         }
       ],
       "lastModified": "04.09.2024 17:33",
-      "expand": false,
-      "topDisruption": false
-    },
-    {
-      "id": "be27da56-c6ec-4389-a667-00b4e3471bd4",
-      "disruptionId": "948c5096-e923-4e01-a862-5b7e0d0ea854",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Stellwerksstörung Waiblingen behoben.",
-      "summary": "S2/S3 Abweichungen nach Störungsende möglich.",
-      "text": "<p>Die Stellwerksstörung in Waiblingen ist behoben. Auf den Linien S2 und S3 kann es vereinzelt noch zu Abweichungen kommen.</p>",
-      "durationBegin": "25.10.2024",
-      "durationEnd": "25.10.2024",
-      "mapHref": "https://karte.bahn.de/detail/948c5096-e923-4e01-a862-5b7e0d0ea854",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-10-25/f8e12483-a3ec-421f-a0b9-bd3d6f431900reisendenkarte_20241025-123519.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2024-10-25/f8e12483-a3ec-421f-a0b9-bd3d6f431900reisendenkarte_20241025-123519.png",
-          "info": "",
-          "alt": "Reisendenkarte 25.10.2024 12:35:19",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.10.2024 13:10",
       "expand": false,
       "topDisruption": false
     },
