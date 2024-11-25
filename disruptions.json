@@ -943,6 +943,40 @@
       "topDisruption": false
     },
     {
+      "id": "0595e201-04fd-4c61-b48d-bb12fddaba91",
+      "disruptionId": "d0f50482-ceeb-4413-8d99-57b42f228348",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Ab 20 Uhr stark eingeschränkter Zugverkehr im Bereich Ulm Hbf",
+      "summary": "Aufgrund eines Polizeieinsatzes kommt es heute Abend ab 20 Uhr im Bereich Ulm Hbf zu Zugausfällen.",
+      "text": "<p>Die Beeinträchtigung dauert voraussichtlich bis mindestens 21 Uhr.</p><p>Die Strecke in Richtung Biberach und Lindau ist hiervon nicht betroffen. Allerdings kann es auch auf diesem Abschnitt zu Verspätungen und einzelnen Zugausfällen kommen. </p><p><strong>Betroffene Linien:</strong></p><ul><li>IRE 200 (Ulm Hbf - Wendlingen</li><li>IRE 50 (Ulm Hbf - Aalen)</li><li>RE 5 (Ulm Hbf - Stuttgart)</li><li>RE 55 ( Ulm Hbf - Donaueschingen)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "25.11.2024",
+      "durationEnd": "25.11.2024",
+      "mapHref": "https://karte.bahn.de/detail/d0f50482-ceeb-4413-8d99-57b42f228348",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.11.2024 18:30",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "5722fc2c-b511-483f-a381-9ee3f0c8d348",
       "disruptionId": "96968659-b815-4c2a-8111-977490bf264e",
       "author": "REGIO_BW",
