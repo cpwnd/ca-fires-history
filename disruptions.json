@@ -526,6 +526,51 @@
       "topDisruption": false
     },
     {
+      "id": "929bc833-8ef4-4ddc-bbcc-7f6c548c2dcb",
+      "disruptionId": "7a35feda-59aa-477e-b7d7-89b39ea82bd5",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "S3/S5: Aktuell keine S-Bahnen zwischen Elbgaustraße und Altona",
+      "summary": "Aktuell fahren keine S-Bahnen zwischen Elbgaustraße und Altona. Die S3 fährt zwischen Pinneberg <> Elbgaustraße und Neugraben <> Altona, die S5 fährt Buxtehude / Stade <> Altona.",
+      "text": "<p>Aktuell fahren die S3 und S5 wie folgt:</p><p><strong>S3 (Pinneberg - Altona - Jungfernstieg - Neugraben)</strong></p><ul><li>Pinneberg &lt;&gt; Elbgaustraße</li><li>Neugraben - Altona über Jungfernstieg</li><li>Altona - Neugraben über Dammtor</li></ul><p></p><p><strong>S5 (Elbgaustraße - Dammtor - Buxtehude / Stade)</strong></p><ul><li>Buxtehude / Stade - Altona über Dammtor</li><li>Altona - Buxtehude / Stade über Jungfernstieg</li></ul><p></p><p>Die Seite wird bei Änderungen ergänzt und korrigiert.</p>",
+      "durationBegin": "27.11.2024",
+      "durationEnd": "27.11.2024",
+      "mapHref": "https://karte.bahn.de/detail/7a35feda-59aa-477e-b7d7-89b39ea82bd5",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.11.2024 20:15",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "2f3bc24b-2d16-4442-908c-98b842aac7e1",
       "author": "REGIO_SH",
       "cause": {
@@ -534,7 +579,7 @@
       },
       "headline": "Beeinträchtigungen auf der Strecke zwischen Itzehoe und Hamburg-Altona",
       "summary": "Aufgrund einer Reparatur an einem Signal&nbsp;zwischen Itzehoe und Hamburg-Altona ist der Zugverkehr am 27.11.2024 beeintr&auml;chtigt.",
-      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Die Z&uuml;ge enden / beginnen in Itzehoe. Ein Ersatzverkehr mit Bussen der Firmen Wiegmann, Schmidt und Limo Bus f&auml;hrt im Pendel zwischen Itzehoe - Elmshorn - Hamburg-Altona. .</li>\n</ul>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 60 Minuten.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
+      "text": "<p><strong>Betroffene Linie:</strong></p>\n\n<ul>\n\t<li>RE 6 (Westerland(Sylt) &ndash; Hamburg-Altona): Die Z&uuml;ge enden / beginnen in Itzehoe. Ein Ersatzverkehr mit Bussen der Firmen Wiegmann, Schmidt und Limo Bus f&auml;hrt im Pendel zwischen Itzehoe - Elmshorn - Hamburg-Altona.</li>\n</ul>\n\n<p>Bitte rechnen Sie mit einer Reisezeitverl&auml;ngerung von bis zu 60 Minuten.</p>\n\n<p>Informationen zu der &ouml;rtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p>\n\n<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt &uuml;ber Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p>\n\n<p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter).&nbsp;</p>\n\n<p>Bei Versp&auml;tungen und Zugausf&auml;llen informieren Sie sich bitte &uuml;ber Ihre gesetzlichen Anspr&uuml;che auf bahn.de/fahrgastrechte.&nbsp;</p>\n\n<p>Bei entstehenden Reisezeitverl&auml;ngerungen bedanken wir uns f&uuml;r Ihre Geduld.&nbsp;</p>\n",
       "durationBegin": "27.11.2024",
       "durationEnd": "27.11.2024",
       "images": [],
@@ -590,7 +635,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "27.11.2024 19:51",
+      "lastModified": "27.11.2024 19:55",
       "expand": false,
       "topDisruption": false
     },
