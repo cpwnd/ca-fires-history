@@ -748,6 +748,55 @@
       "topDisruption": false
     },
     {
+      "id": "2a538032-d5e4-4b9a-a2ab-156deff95571",
+      "disruptionId": "75ae0d8d-143e-4c4f-ba3d-ead836c154a2",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Verzögerungen und Abweichungen auf allen Linien. Grund: Polizeieinsatz am Hauptbahnhof",
+      "summary": "Aktuell kommt es auf allen Linien zu Verzögerungen und Abweichungen vom Fahrplan. Der Grund dafür ist ein Polizeieinsatz am Hauptbahnhof.",
+      "text": "<p>Informationen zu den einzelnen Linien werden ermittelt.</p>",
+      "durationBegin": "13.12.2024",
+      "durationEnd": "13.12.2024",
+      "mapHref": "https://karte.bahn.de/detail/75ae0d8d-143e-4c4f-ba3d-ead836c154a2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.12.2024 15:41",
+      "expand": false,
+      "topDisruption": false
+    },
+    {
       "id": "5a5fab3f-ab29-46fd-be65-3f14eaa24a89",
       "disruptionId": "60368023-6f9d-46a5-8ab3-4b44828719ba",
       "author": "REGIO_SUEDOST",
