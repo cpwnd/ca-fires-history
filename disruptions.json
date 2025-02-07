@@ -2,82 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "fca244ed-051c-42ea-86f2-d456fa19d1b6",
-      "disruptionId": "6efc370d-34f3-4df6-a9cb-38c92235d7af",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Streckensperrung zwischen Osnabrück Hbf und Diepholz beendet",
-      "summary": "Die Streckensperrung aufgrund einer Reparatur an der Oberleitung zwischen Osnabrück Hbf und Diepholz ist beendet.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe): Der Streckenabschnitt zwischen Osnabrück Hbf und Diepholz ist in beide Richtungen wieder ohne Einschränkungen befahrbar. Der Zugverkehr stabilisiert sich zunehmend.</li></ul><p>Folgeverspätungen in geringem Umfang sind vereinzelt noch möglich.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "07.02.2025",
-      "durationEnd": "07.02.2025",
-      "mapHref": "https://karte.bahn.de/detail/6efc370d-34f3-4df6-a9cb-38c92235d7af",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-02-07/35c144e6-9870-4a09-bb36-bbbb5b915a82reisendenkarte_20250207-120153.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-02-07/35c144e6-9870-4a09-bb36-bbbb5b915a82reisendenkarte_20250207-120153.png",
-          "info": "",
-          "alt": "Reisendenkarte 07.02.2025 12:01:53",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://x.com/dbregio_NDS",
-          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE 9",
-          "filterName": "RE 9",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "07.02.2025 17:25",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/fca244ed-051c-42ea-86f2-d456fa19d1b6"
-    },
-    {
       "id": "6c46105c-75ff-4d0d-a005-df906db2d93e",
       "disruptionId": "13f819f2-0f26-43db-be4f-b621c62101a2",
       "author": "FERNVERKEHR_AG",
@@ -855,6 +779,42 @@
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/15cad84b-5488-42e1-910a-3e8c791c323d"
+    },
+    {
+      "id": "5e1ce382-def2-4303-b708-a1865fce394c",
+      "disruptionId": "a33da0f8-5e14-4267-afb1-8219b436bf4c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Information für Fahrgäste zum Airport / Information for passengers travelling to Hamburg Airport",
+      "summary": "[de] Aktuell stehen an der Station Hamburg Airport keine Aufzüge zur Verfügung, der Bahnsteig ist mit den Terminals 1 und 2 über Rolltreppen verbunden. Bitte beachten Sie die folgenden Hinweise: \n[en] Currently there are no working elevators at Hamburg Airport station between the S-Line trains and the Check In Terminals. Escalators are running between the platform and Terminal 1 and 2. If you need to use an elevator, please use the following information:",
+      "text": "<p>[de] Bei Bedarf eines Aufzuges, benutzen Sie bitte zwischen der Innenstadt und der Station Ohlsdorf die Linie S1. Zwischen Ohlsdorf und dem Airport fährt die Buslinie 392, Abfahrt in Ohlsdorf von der Haltestelle \"Im Grünen Grunde\" sowie am Airport von der Haltestelle im Abfahrtsbereich \"A\".</p><p>[en] If you need to use an elevator, please use line S1 between the City Center and Ohlsdorf station. Bus 392 is running between Ohlsdorf and Airport, departing in Ohlsdorf from bus stop \"'Im Grünen Grunde\" and at the Airport from the public bus stop in area \"A\".</p>",
+      "durationBegin": "07.02.2025",
+      "durationEnd": "12.02.2025",
+      "mapHref": "https://karte.bahn.de/detail/a33da0f8-5e14-4267-afb1-8219b436bf4c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.02.2025 18:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5e1ce382-def2-4303-b708-a1865fce394c"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
