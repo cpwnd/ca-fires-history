@@ -37,6 +37,88 @@
       "detailPagePath": "/service/fahrplaene/ad0537bb-3782-4d36-8762-6440057a0a75"
     },
     {
+      "id": "fca244ed-051c-42ea-86f2-d456fa19d1b6",
+      "disruptionId": "6efc370d-34f3-4df6-a9cb-38c92235d7af",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Eingleisiger Zugbetrieb zwischen Osnabrück Hbf und Diepholz",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Osnabrück Hbf und Diepholz ist der Zugverkehr beeinträchtigt.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe): Der Streckenabschnitt zwischen Osnabrück Hbf und Diepholz ist eingleisig befahrbar. Infolge der Störung kann es weiterhin zu Verspätungen und Teilausfällen kommen.</li></ul><p>Rechnen Sie mit einer Reisezeitverlängerung von bis zu 30 - 45 Minuten.</p><p>Der Ersatzverkehr mit Bussen endet in Kürze.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "07.02.2025",
+      "durationEnd": "07.02.2025",
+      "mapHref": "https://karte.bahn.de/detail/6efc370d-34f3-4df6-a9cb-38c92235d7af",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-02-07/1952199e-0ace-47c3-a018-3488550bbc2dreisendenkarte_20250207-120153.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-02-07/1952199e-0ace-47c3-a018-3488550bbc2dreisendenkarte_20250207-120153.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.02.2025 12:01:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de ",
+          "label": "Lageplan des Ersatzverkehrs ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://x.com/dbregio_NDS",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE 9",
+          "filterName": "RE 9",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "07.02.2025 13:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fca244ed-051c-42ea-86f2-d456fa19d1b6"
+    },
+    {
       "id": "6c46105c-75ff-4d0d-a005-df906db2d93e",
       "disruptionId": "13f819f2-0f26-43db-be4f-b621c62101a2",
       "author": "FERNVERKEHR_AG",
@@ -382,87 +464,6 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220"
-    },
-    {
-      "id": "fca244ed-051c-42ea-86f2-d456fa19d1b6",
-      "disruptionId": "6efc370d-34f3-4df6-a9cb-38c92235d7af",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Streckensperrung zwischen Osnabrück Hbf und Diepholz",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Osnabrück Hbf und Diepholz ist der Zugverkehr beeinträchtigt.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 9 (Osnabrück Hbf – (Bremen Hbf) – Bremerhaven-Lehe): Die Züge enden / beginnen in Diepholz.  Ein Ersatzverkehr mit Bussen ist zwischen Osnabrück Hbf und Diepholz im Pendel eingerichtet. Erste Abfahrt der Ersatzbusse ab Osnabrück Hbf / Diepholz jeweils um 13:00 Uhr.</li></ul><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>&nbsp;Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>&nbsp;Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>&nbsp;Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "07.02.2025",
-      "durationEnd": "07.02.2025",
-      "mapHref": "https://karte.bahn.de/detail/6efc370d-34f3-4df6-a9cb-38c92235d7af",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-02-07/2137afe0-97ac-4ac1-a4c4-0f5f290bd7a7reisendenkarte_20250207-120153.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-02-07/2137afe0-97ac-4ac1-a4c4-0f5f290bd7a7reisendenkarte_20250207-120153.png",
-          "info": "",
-          "alt": "Reisendenkarte 07.02.2025 12:01:53",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://x.com/dbregio_NDS",
-          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de ",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE 9",
-          "filterName": "RE 9",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "07.02.2025 13:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/fca244ed-051c-42ea-86f2-d456fa19d1b6"
     },
     {
       "id": "3b583eff-bdbe-43fe-b949-0671408ac7e7",
