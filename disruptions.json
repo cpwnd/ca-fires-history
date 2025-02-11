@@ -215,7 +215,20 @@
       "durationBegin": "16.02.2025",
       "durationEnd": "16.02.2025",
       "images": [],
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:764da593-a884-4c50-8c9e-0b8b355f2197/Ersatzfahrplan%20-%20RE%209%20-%2016.02.2025%20Bremen%20Hbf%20-%20Osnabr%C3%BCck%20Hbf.pdf",
+          "label": "Ersatzfahrplan RE 9 - 16.02.2025 Bremen Hbf - Osnabrück Hbf (PDF, 244 KB)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets.static-bahn.de/dam/jcr:df6ea89e-ecd4-4dca-ab02-94c9d4a9059f/Ersatzfahrplan%20-%20RE%2062%20-%2016.02.2025%20Rheine%20-%20Osnabr%C3%BCck%20Hbf%20-%20L%C3%B6hne(Westf).pdf",
+          "label": "Ersatzfahrplan RE 62 16.02.2025 Rheine - Löhne(Westf) (PDF, 197 KB)",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [
         {
           "href": "https://twitter.com/DBRegio_NDS",
@@ -268,7 +281,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "06.02.2025 15:34",
+      "lastModified": "11.02.2025 10:45",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/31e1e10f-ffa1-4f00-9975-3a81fd38c007"
