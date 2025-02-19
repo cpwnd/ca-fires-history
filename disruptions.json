@@ -303,52 +303,6 @@
       "detailPagePath": "/service/fahrplaene/cdb1e852-8971-4566-bc72-2ddbe7416c9c"
     },
     {
-      "id": "6f442e27-4454-4368-90c2-46e5c3b0ee2a",
-      "disruptionId": "e462c70e-7134-4ba8-8a69-4cad1517cf21",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
-      },
-      "headline": "S2/S3/S5: Polizeieinsatz zwischen Altona und Elbgaustraße beendet.",
-      "summary": "Der Polizeieinsatz wurde beendet, die Strecken sind wieder freigegeben und wir nehmen den regulären Betrieb wieder auf.",
-      "text": "<p></p>",
-      "durationBegin": "19.02.2025",
-      "durationEnd": "19.02.2025",
-      "mapHref": "https://karte.bahn.de/detail/e462c70e-7134-4ba8-8a69-4cad1517cf21",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.02.2025 17:11",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6f442e27-4454-4368-90c2-46e5c3b0ee2a"
-    },
-    {
       "id": "19da8ecd-8a7d-44af-99ba-ffdddbd76478",
       "disruptionId": "ef7c5eb9-9987-48d1-8057-21d862dcb3d7",
       "author": "S_BAHN_MUC",
