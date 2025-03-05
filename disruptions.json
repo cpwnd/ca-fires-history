@@ -178,50 +178,6 @@
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220"
     },
     {
-      "id": "6d706b28-0732-4461-aaf4-d6497f2c0bee",
-      "disruptionId": "6dae04c2-de03-4354-b2c5-4cf22be58d44",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Endmeldung: S 6 Zorneding",
-      "summary": "Es kommt auf der Linie S 6 im Bereich Zorneding zu keinen nennenswerten Verspätungen mehr.",
-      "text": "<p>Die Reparatur an einer Weiche ist beendet.</p>",
-      "durationBegin": "05.03.2025",
-      "durationEnd": "05.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/6dae04c2-de03-4354-b2c5-4cf22be58d44",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-05/a1d2c4a4-f7e4-44a5-95eb-c880fb3ff939reisendenkarte_20250305-201202.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-05/a1d2c4a4-f7e4-44a5-95eb-c880fb3ff939reisendenkarte_20250305-201202.png",
-          "info": "",
-          "alt": "Reisendenkarte 05.03.2025 20:12:02",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "05.03.2025 21:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6d706b28-0732-4461-aaf4-d6497f2c0bee"
-    },
-    {
       "id": "ef55ba3c-8381-4ea0-b7de-33fb5b205296",
       "disruptionId": "f65c800f-0d56-41ce-aec9-b9ba0a653a5c",
       "author": "REGIO_BY",
