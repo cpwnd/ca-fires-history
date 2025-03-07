@@ -850,7 +850,7 @@
       },
       "headline": "Informationen zum barrierefreien Umstieg am Hamburg Airport",
       "summary": "Aktuell ist am Airport kein barrierefreier Übergang zu den Terminals möglich. Informationen zu möglichen Alternativen finden Sie nach dem Aufklappen dieser Meldung. +++ Currently, there is no barrier-free access to the terminals at the airport. Information on possible alternatives can be found after expanding this message.",
-      "text": "<p><strong>Folgende Alternativen stehen für eine barrierefreie An- und Abreise zur Verfügung:</strong></p><p>Linie <strong>S1 bis Ohlsdorf</strong> &lt;&gt; Linie <strong>U1 bis Ochsenzoll</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (Lattenkamp/Lufthansa-Basis) &lt;&gt; Haltestelle: Hamburg <strong>Airport </strong>(Flughafen)</p><p><strong>The following alternatives are available for barrier-free arrival and departure:</strong></p><p>Line <strong>S1 to Ohlsdorf</strong> &lt;&gt; Line <strong>U1 to Ochsenzoll</strong> &lt;&gt; <strong>Bus</strong>line <strong>292</strong> (Lattenkamp/Lufthansa-Basis) &lt;&gt; Stop: Hamburg <strong>Airport</strong> (Flughafen)</p>",
+      "text": "<p><strong>Folgende Alternativen stehen für eine barrierefreie An- und Abreise zur Verfügung:</strong></p><p>Linie <strong>S1 bis Ohlsdorf</strong> &lt;&gt; Linie <strong>U1 bis Ochsenzoll</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (Lattenkamp/Lufthansa-Basis) &lt;&gt; Haltestelle: Hamburg <strong>Airport </strong>(Flughafen)</p><p><strong>Hauptbahnhof</strong> oder <strong>Jungfernstieg</strong> &lt;&gt; Linie <strong>U1 bis Ochsenzoll</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (Lattenkamp/Lufthansa-Basis) &lt;&gt; Haltestelle: Hamburg <strong>Airport </strong>(Flughafen)</p><p><strong>The following alternatives are available for barrier-free arrival and departure:</strong></p><p>Line <strong>S1 to Ohlsdorf</strong> &lt;&gt; Line <strong>U1 to Ochsenzoll</strong> &lt;&gt; <strong>Bus</strong>line <strong>292</strong> (Lattenkamp/Lufthansa-Basis) &lt;&gt; Stop: Hamburg <strong>Airport</strong> (Flughafen)</p><p><strong>Mainstation</strong> or <strong>Jungfernstieg</strong> &lt;&gt; Line <strong>U1 to Ochsenzoll</strong> &lt;&gt; <strong>Bus</strong>line <strong>292</strong> (Lattenkamp/Lufthansa-Basis) &lt;&gt; Stop: Hamburg <strong>Airport</strong> (Flughafen)</p>",
       "durationBegin": "07.03.2025",
       "durationEnd": "10.03.2025",
       "mapHref": "https://karte.bahn.de/detail/fd12c7b1-76a6-4d92-a333-2f0b77aa7591",
@@ -858,19 +858,25 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "SBAHN",
+        "REGIONAL"
       ],
       "states": [
         "HH"
       ],
       "lines": [
         {
+          "name": "Bus EV4AH",
+          "filterName": "Bus EV4AH Hamburg",
+          "property": "REGIONAL"
+        },
+        {
           "name": "S 1",
           "filterName": "S 1 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "07.03.2025 16:17",
+      "lastModified": "07.03.2025 16:44",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
