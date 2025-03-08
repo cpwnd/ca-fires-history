@@ -977,19 +977,19 @@
       "detailPagePath": "/service/fahrplaene/cbd32a39-a476-451b-90a2-7e150bc27a87"
     },
     {
-      "id": "e046adfe-5730-46a2-bce5-fdb83c389f70",
-      "disruptionId": "df1cb820-9af9-48ca-9eb4-0f7de9c2f39b",
+      "id": "2e1ecfec-b7dc-46bc-8a37-80a992356c86",
+      "disruptionId": "b08ad354-bacd-4c69-b2ce-9de07d4c64a3",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Endmeldung: S 7 Siemenswerke",
-      "summary": "Im Bereich Siemenswerke kommt es noch zu Folgeverspätungen von bis zu 30 Minuten.",
-      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
+      "headline": "S 7 Mittersendling ↔ Großhesselohe-Isartalbahnhof: Reparatur an einem Signal",
+      "summary": "Zwischen Mittersendling und Großhesselohe-Isartalbahnhof kommt es zu Verspätungen von bis zu 30 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "08.03.2025",
       "durationEnd": "08.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/df1cb820-9af9-48ca-9eb4-0f7de9c2f39b",
+      "mapHref": "https://karte.bahn.de/detail/b08ad354-bacd-4c69-b2ce-9de07d4c64a3",
       "images": [],
       "downloads": [],
       "links": [],
@@ -1006,11 +1006,11 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "08.03.2025 14:22",
+      "lastModified": "08.03.2025 14:42",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e046adfe-5730-46a2-bce5-fdb83c389f70"
+      "detailPagePath": "/service/fahrplaene/2e1ecfec-b7dc-46bc-8a37-80a992356c86"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
