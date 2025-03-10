@@ -61,7 +61,7 @@
       },
       "headline": "Beeinträchtigungen zwischen Berlin und Leipzig / Halle (Saale)",
       "summary": "Aufgrund einer Reparatur an einer Weiche zwischen Berlin und Leipzig bzw. Halle (Saale) ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Verspätungen und Haltausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge von Leipzig bzw. Halle (Saale) nach Berlin werden zwischen Bitterfeld und Berlin umgeleitet und verspäten sich dadurch um etwa 45 Minuten. Der Halt Lutherstadt Wittenberg entfällt bei diesen. Ersatzhalt in Bitterfeld.</li><li>ICE-Züge der Gegenrichtung (von Berlin nach Leipzig / Halle (Saale)) verkehren auf ihrem planmäßigen Weg und verspäten sich etwa um 10 Minuten.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Gäste aus Richtung Leipzig / Halle (Saale) nach Lutherstand Wittenberg nutzen bitte den Halt Bitterfeld und ab Bitterfeld nach Lutherstand Wittenberg die Nahverkehrszüge.</li><li>Gäste von Lutherstand Wittenberg in Richtung Berlin nutzen bitte die Nahverkehrszüge bis Berlin.</li></ul><p>Die Behebung der Störung soll vsl. bis in die heutigen Nachmittagsstunden erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge von Leipzig bzw. Halle (Saale) nach Berlin werden zwischen Bitterfeld und Berlin umgeleitet und verspäten sich dadurch um etwa 45 Minuten. Der Halt Lutherstadt Wittenberg entfällt bei diesen. Ersatzhalt in Bitterfeld.</li><li>ICE-Züge der Gegenrichtung (von Berlin nach Leipzig / Halle (Saale)) verkehren auf ihrem planmäßigen Weg und verspäten sich etwa um 10 Minuten.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen:</p><ul><li>Gäste aus Richtung Leipzig / Halle (Saale) nach Lutherstadt Wittenberg nutzen bitte den Halt Bitterfeld und ab Bitterfeld nach Lutherstadt Wittenberg die Nahverkehrszüge.</li><li>Gäste von Lutherstadt Wittenberg in Richtung Berlin nutzen bitte die Nahverkehrszüge bis Berlin.</li></ul><p>Die Behebung der Störung soll vsl. bis in die heutigen Nachmittagsstunden erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "10.03.2025",
       "mapHref": "https://karte.bahn.de/detail/c4fd638b-b467-449f-9132-f105fe33af91",
       "images": [],
@@ -83,7 +83,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "10.03.2025 10:43",
+      "lastModified": "10.03.2025 10:58",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ad1428eb-afbb-4e7e-ba70-d90bd994b362"
@@ -809,6 +809,42 @@
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cbd32a39-a476-451b-90a2-7e150bc27a87"
+    },
+    {
+      "id": "537c3c6b-6ea0-4e28-829a-1df015f876e6",
+      "disruptionId": "ecf6975c-4396-4b1c-a00d-6d4cf84f161a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 1 Eching ↔ Neufahrn: Reparatur an der Strecke",
+      "summary": "Zwischen Eching und Neufahrn kann es zu Verspätungen von bis zu 10 Minuten und Teilausfällen kommen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "10.03.2025",
+      "durationEnd": "11.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/ecf6975c-4396-4b1c-a00d-6d4cf84f161a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.03.2025 11:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/537c3c6b-6ea0-4e28-829a-1df015f876e6"
     },
     {
       "id": "31a1a531-91ec-4fe9-b3cf-b3c7cc5ebe12",
