@@ -66,18 +66,24 @@
       "mapHref": "https://karte.bahn.de/detail/9170fda6-9cfb-4220-addf-772f46faaea7",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-03-10/46acc55d-16a3-4511-ae0d-4c6a07747192reisendenkarte_20250310-095806.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-03-10/46acc55d-16a3-4511-ae0d-4c6a07747192reisendenkarte_20250310-095806.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-03-10/3b5664e8-f7cd-4b6c-804c-c03b7d007d65reisendenkarte_20250310-101737.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-03-10/3b5664e8-f7cd-4b6c-804c-c03b7d007d65reisendenkarte_20250310-101737.png",
           "info": "",
-          "alt": "Reisendenkarte 10.03.2025 09:58:06",
+          "alt": "Reisendenkarte 10.03.2025 10:17:37",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [
         {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte",
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://twitter.com/dbregio_NDS",
+          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
           "info": "",
           "openInNewTab": true
         },
@@ -88,14 +94,8 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://twitter.com/dbregio_NDS",
-          "label": "X DB Regio Niedersachsen und Bremen (ehemals Twitter)",
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
           "info": "",
           "openInNewTab": true
         },
@@ -125,7 +125,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "10.03.2025 10:12",
+      "lastModified": "10.03.2025 10:19",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/13b95143-a3e2-42aa-bfeb-ede75a5fe288"
@@ -663,7 +663,7 @@
       "summary": "Aktuell ist am Airport kein barrierefreier Übergang zu den Terminals möglich. Informationen zu möglichen Alternativen finden Sie nach dem Aufklappen dieser Meldung. +++ Currently, there is no barrier-free access to the terminals at the airport. Information on possible alternatives can be found after expanding this message.",
       "text": "<p><strong>Folgende Alternativen stehen für eine barrierefreie An- und Abreise zur Verfügung:</strong></p><p><strong>S1 bis Ohlsdorf</strong> &lt;&gt; <strong>Bus</strong>linie <strong>392</strong> (ab Ohlsdorf (Im Gr. Grunde)) &lt;&gt; Hamburg <strong>Airport </strong>(Flughafen)</p><p><strong>Hauptbahnhof</strong> oder <strong>Jungfernstieg</strong> &lt;&gt; Linie <strong>U1 bis Ohlsdorf</strong> &lt;&gt; <strong>Bus</strong>linie <strong>392</strong> (ab Ohlsdorf (Im Gr. Grunde)) &lt;&gt; Hamburg <strong>Airport </strong>(Flughafen)</p><p><strong>The following alternatives are available for barrier-free arrival and departure:</strong></p><p><strong>S1 to Ohlsdorf</strong> &lt;&gt; <strong>Bus</strong>line <strong>392</strong> (ab Ohlsdorf (Im Gr. Grunde)) &lt;&gt; Hamburg <strong>Airport</strong> (Flughafen)</p><p><strong>Mainstation</strong> or <strong>Jungfernstieg</strong> &lt;&gt; Line <strong>U1 to Ohlsdorf</strong> &lt;&gt; <strong>Bus</strong>line <strong>392</strong> (ab Ohlsdorf (Im Gr. Grunde)) &lt;&gt; Hamburg <strong>Airport</strong> (Flughafen)</p>",
       "durationBegin": "07.03.2025",
-      "durationEnd": "10.03.2025",
+      "durationEnd": "12.03.2025",
       "mapHref": "https://karte.bahn.de/detail/fd12c7b1-76a6-4d92-a333-2f0b77aa7591",
       "images": [],
       "downloads": [],
@@ -687,7 +687,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "07.03.2025 17:02",
+      "lastModified": "10.03.2025 10:21",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
