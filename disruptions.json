@@ -723,6 +723,47 @@
       "detailPagePath": "/service/fahrplaene/77fa4c2d-d160-4c5d-8b73-fcd526cbd8cf"
     },
     {
+      "id": "b296d170-282b-4c1f-b27c-9944461620bf",
+      "disruptionId": "c98ada47-9493-447c-bb5c-39e42b308058",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 6, S 4 Haar ↔ Zorneding: Reparatur an einem Signal",
+      "summary": "Zwischen Haar und Zorneding kommt es in Richtung stadteinwärts zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "17.03.2025",
+      "durationEnd": "17.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/c98ada47-9493-447c-bb5c-39e42b308058",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.03.2025 06:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b296d170-282b-4c1f-b27c-9944461620bf"
+    },
+    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "disruptionId": "e6146ea6-b009-4114-b108-0b15cafb611d_TrafficReport",
       "author": "S_BAHN_S",
