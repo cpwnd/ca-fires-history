@@ -13,7 +13,7 @@
       "summary": "Aufgrund eines Personalausfalles im Stellwerk Lünen kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge des Fernverkehrs werden zwischen Münster (Westfalen) und Dortmund umgeleitet in der Zeit zwischen 18:00 Uhr bis 08:00 Uhr. Es kommt zu einer Zusatzverspätung von etwa 10 Minuten. Haltausfälle entstehen nicht.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE / IC-Züge zwischen Münster und Dortmund.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "17.03.2025",
-      "durationEnd": "23.03.2025",
+      "durationEnd": "18.03.2025",
       "mapHref": "https://karte.bahn.de/detail/562d948e-f36f-47b0-9a4a-0fc64071058a",
       "images": [],
       "downloads": [],
@@ -35,7 +35,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "19.03.2025 08:11",
+      "lastModified": "19.03.2025 07:10",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -583,6 +583,52 @@
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc"
     },
     {
+      "id": "18d8fed7-0cf9-4250-b6d6-a2f0cf375e48",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "Ausfall RE 10/RE 11",
+      "text": "<p>Wegen Personalausf&auml;llen beim Infrastrukturbetreiber kommt es in der Zeit vom 22.3. 6:00 Uhr bis 23.3.2025 7:30 Uhr zu nachfolgenden Einschr&auml;nkungen auf den Linien RE 10 und RE 11</p>\n\n<p><strong>RE 10</strong><br />\nAusfall aller Z&uuml;ge zwischen Leipzig Hbf und Falkenberg(Elster).</p>\n\n<p><strong>RE 11</strong><br />\nAusfall aller Z&uuml;ge zwischen Leipzig Hbf und Falkenberg(Elster).</p>\n\n<p>Es verkehren Expressbusse zwischen Leipzig Hbf und Falkenberg(Elster) ohne Halt an den Unterwegsbahnh&ouml;fen.</p>\n\n<p>Des Weiteren verkehrt ein Busnotverkehr zwischen Taucha(Leipzig) und&nbsp;Falkenberg(Elster) mit Halt auf allen Unterwegsbahnh&ouml;fen.</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>\n\n<p>&nbsp;</p>\n",
+      "durationBegin": "21.03.2025",
+      "durationEnd": "23.03.2025",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "Reiseauskunft bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.03.2025 16:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/18d8fed7-0cf9-4250-b6d6-a2f0cf375e48"
+    },
+    {
       "id": "ce3d525b-0838-4ea4-9480-92c876aa7e3a",
       "author": "REGIO_MITTE",
       "cause": {
@@ -632,52 +678,6 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/ce3d525b-0838-4ea4-9480-92c876aa7e3a"
-    },
-    {
-      "id": "18d8fed7-0cf9-4250-b6d6-a2f0cf375e48",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "other_cause",
-        "label": "Information"
-      },
-      "headline": "Ausfall RE 10/RE 11",
-      "text": "<p>Wegen Personalausf&auml;llen beim Infrastrukturbetreiber kommt es in der Zeit vom 22.3. 6:00 Uhr bis 23.3.2025 7:30 Uhr zu nachfolgenden Einschr&auml;nkungen auf den Linien RE 10 und RE 11</p>\n\n<p><strong>RE 10</strong><br />\nAusfall aller Z&uuml;ge zwischen Leipzig Hbf und Falkenberg(Elster).</p>\n\n<p><strong>RE 11</strong><br />\nAusfall aller Z&uuml;ge zwischen Leipzig Hbf und Falkenberg(Elster).</p>\n\n<p>Es verkehren Expressbusse zwischen Leipzig Hbf und Falkenberg(Elster) ohne Unterwegsbahnh&ouml;fen.</p>\n\n<p>Des Weiteren verkehrt ein Busnotverkehr zwischen Eilenburg und&nbsp;Falkenberg(Elster) mit Halt auf allen Unterwegsbahnh&ouml;fen.</p>\n\n<p>Wir empfehlen Ihnen, sich vor Reiseantritt &uuml;ber Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>\n\n<p>&nbsp;</p>\n",
-      "durationBegin": "21.03.2025",
-      "durationEnd": "23.03.2025",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "Reiseauskunft bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "21.03.2025 15:38",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/18d8fed7-0cf9-4250-b6d6-a2f0cf375e48"
     },
     {
       "id": "8c0736a2-3097-4e1a-b7a9-4b41f03f504e",
@@ -1022,7 +1022,7 @@
         "label": "Polizeieinsatz"
       },
       "headline": "Linie S5: Einschränkungen und Abweichungen vom Fahrplan",
-      "summary": "Aktuell fahren die S-Bahnen der Linie S5 mit Verspätungen und Abweichungen vom Fahrplan. Die S-Bahnen mit Start/Ziel Buxtehude fahren bis auf Weiteres ab/bis Neugraben. Gründe: vorangegangener Polizeieinsatz und technische Störung an der Strecke",
+      "summary": "Aktuell fahren die S-Bahnen der Linie S5 mit Verspätungen und Abweichungen vom Fahrplan. Gründe: vorangegangener Polizeieinsatz und technische Störung an der Strecke",
       "text": "<p>Keine weiteren Informationen.</p>",
       "durationBegin": "21.03.2025",
       "durationEnd": "21.03.2025",
@@ -1043,7 +1043,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.03.2025 16:04",
+      "lastModified": "21.03.2025 17:17",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
