@@ -13,7 +13,7 @@
       "summary": "Aufgrund eines Personalausfalles im Stellwerk Lünen kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge des Fernverkehrs werden zwischen Münster (Westfalen) und Dortmund umgeleitet in der Zeit zwischen 18:00 Uhr bis 08:00 Uhr. Es kommt zu einer Zusatzverspätung von etwa 10 Minuten. Haltausfälle entstehen nicht.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE / IC-Züge zwischen Münster und Dortmund.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "17.03.2025",
-      "durationEnd": "23.03.2025",
+      "durationEnd": "18.03.2025",
       "mapHref": "https://karte.bahn.de/detail/562d948e-f36f-47b0-9a4a-0fc64071058a",
       "images": [],
       "downloads": [],
@@ -35,7 +35,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "19.03.2025 08:11",
+      "lastModified": "19.03.2025 07:10",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -790,6 +790,42 @@
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/77fa4c2d-d160-4c5d-8b73-fcd526cbd8cf"
+    },
+    {
+      "id": "cde9b451-a6e1-49cb-8bab-bcfeedd15516",
+      "disruptionId": "ab376d83-2115-404f-82fa-b907494468e5",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Keine S5 zwischen Neugraben und Buxtehude",
+      "summary": "Aktuell keine S-Bahnen zwischen Neugraben und Buxtehude. Grund: Polizeieinsatz",
+      "text": "<p>Weitere Informationen werden ermittelt...</p>",
+      "durationBegin": "21.03.2025",
+      "durationEnd": "21.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/ab376d83-2115-404f-82fa-b907494468e5",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.03.2025 15:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cde9b451-a6e1-49cb-8bab-bcfeedd15516"
     },
     {
       "id": "a9f680c4-286f-49bc-ab25-b7d38e58ce9a",
