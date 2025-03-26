@@ -565,6 +565,42 @@
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc"
     },
     {
+      "id": "42d6948a-8d46-4401-9ba5-615ccf12e1d5",
+      "disruptionId": "2e9c2c40-f2dd-47b6-b4a8-fc88390dec10",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Information für Fahrgäste von und nach Buxtehude",
+      "summary": "Aktuell starten und enden die S-Bahnen mit Start / Ziel Buxtehude bereits in Neugraben. Bitte die S5 von und nach Stade nutzen. Es kommt zu Verspätungen um die 10 Minuten. Grund: technische Störung an der Strecke",
+      "text": "<p>...</p>",
+      "durationBegin": "26.03.2025",
+      "durationEnd": "26.03.2025",
+      "mapHref": "https://karte.bahn.de/detail/2e9c2c40-f2dd-47b6-b4a8-fc88390dec10",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.03.2025 15:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/42d6948a-8d46-4401-9ba5-615ccf12e1d5"
+    },
+    {
       "id": "54a87fb2-cd6d-42dd-b3ad-71adb88c2556",
       "author": "S_BAHN_RM",
       "cause": {
