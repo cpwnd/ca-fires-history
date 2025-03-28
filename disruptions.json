@@ -211,25 +211,25 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "865ed632-26e4-4862-9109-77844753ff8c",
-      "disruptionId": "802a0bf3-16e8-403a-8706-86b04ec20997",
+      "id": "9cb3a1c3-3dba-4cd0-a3b9-d005fef17592",
+      "disruptionId": "301ad313-ddde-483e-8653-3fb5239c8911",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Endmeldung S6 Possenhofen: Technischer Defekt an einem Bahnübergang",
-      "summary": "Auf der Linie S6 kommt es zu keinen nennenswerten Einschränkungen mehr.",
-      "text": "<p>Der technische Defekt an einem Bahnübergang in Possenhofen wurde repariert.</p>",
+      "headline": "S1 Oberschleißheim und Feldmoching: Reparatur an einem Signal",
+      "summary": "Derzeit kommt es auf der Linie S1 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten.",
+      "text": "<p>Durch vorzeitige Zugwenden im Außenbereich kommt es auch zu Teilausfällen.</p><p>Grund für diese Beeinträchtigungen&nbsp;                       ist die Reparatur an einem Signal       zwischen Oberschleißheim und Feldmoching.</p>",
       "durationBegin": "28.03.2025",
       "durationEnd": "28.03.2025",
-      "mapHref": "https://karte.bahn.de/detail/802a0bf3-16e8-403a-8706-86b04ec20997",
+      "mapHref": "https://karte.bahn.de/detail/301ad313-ddde-483e-8653-3fb5239c8911",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-28/3a95aaae-f389-44ad-afa7-91f734352ee9reisendenkarte_20250328-064821.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-28/3a95aaae-f389-44ad-afa7-91f734352ee9reisendenkarte_20250328-064821.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-28/55aaacd9-dec3-409e-a70d-a452720a5223reisendenkarte_20250328-083252.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-03-28/55aaacd9-dec3-409e-a70d-a452720a5223reisendenkarte_20250328-083252.png",
           "info": "",
-          "alt": "Reisendenkarte 28.03.2025 06:48:21",
+          "alt": "Reisendenkarte 28.03.2025 08:32:52",
           "openInNewTab": true
         }
       ],
@@ -243,17 +243,17 @@
       ],
       "lines": [
         {
-          "name": "S 6",
-          "filterName": "S 6 München",
+          "name": "S 1",
+          "filterName": "S 1 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.03.2025 08:23",
-      "expand": false,
+      "lastModified": "28.03.2025 08:34",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/865ed632-26e4-4862-9109-77844753ff8c",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
+      "detailPagePath": "/service/fahrplaene/9cb3a1c3-3dba-4cd0-a3b9-d005fef17592",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
     },
     {
       "id": "48135bc0-0f6d-46ea-87c4-50ba5dfb60a7",
