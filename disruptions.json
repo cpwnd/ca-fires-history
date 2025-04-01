@@ -2,43 +2,42 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "06ca7567-ac9f-4f1a-8e8a-07ddd65caf39",
-      "disruptionId": "e5f3002c-84a7-4636-ae2d-9b5182a5c21d",
-      "author": "S_BAHN_HH",
+      "id": "d0c1004a-1fbc-49d8-a656-f9e0a9ec9684",
+      "disruptionId": "e027145c-10d5-4cbc-9251-cd565680e821",
+      "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Reparatur am Zug"
+        "category": "construction",
+        "label": "Bauarbeiten"
       },
-      "headline": "S5: Aktuell fahren keine S-Bahnen zwischen Neugraben und Buxtehude.",
-      "summary": "Aktuell fahren keine S-Bahnen zwischen Neugraben und Buxtehude. Der Grund ist eine technische Störung an einem Zug. Ein Ersatzverkehr wird eingerichtet. Bitte achten Sie auf die Ansagen und Anzeigen an den Bahnsteigen sowie an und in den Zügen. ",
-      "text": "<p> </p>",
+      "headline": "Beeinträchtigungen zwischen Bremen und Osnabrück",
+      "summary": "Aufgrund von Bauarbeiten in Bremen Gabelungen zwischen Bremen und Osnabrück kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Züge der Relation Westerland (Sylt)/Stralsund – Hamburg – Bremen – Essen/Dortmund – Köln – Aachen/Frankfurt (M) – Nürnberg – Passau/München  werden über Hannover umgeleitet. Ausfall der Halte Bremen  und Münster Ersatzhalt Hamm. Verspätung 30 Minuten</li><li>Züge der Relation Kiel – Hamburg – Köln – Frankfurt (Main) Flugh Fernb – Mannheim – Stuttgart – München werden umgeleitet Ausfall der Halte Diepholz, Osnabrück und Münster Ersatzhalt Herfort und Hamm. Verspätung 50 Minuten</li><li>Züge der Relation Ostseebad Binz/Hamburg/Berlin – Düsseldorf – Köln – Frankfurt (Main) Flugh Fernb – Mannheim – Basel – Zürich/Interlaken Ost) werden umgeleitet Ausfall der Halte Diepholz, Osnabrück und Münster Ersatzhalt Herfort und Hamm. Verspätung 50 Minuten</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "01.04.2025",
-      "durationEnd": "01.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/e5f3002c-84a7-4636-ae2d-9b5182a5c21d",
+      "mapHref": "https://karte.bahn.de/detail/e027145c-10d5-4cbc-9251-cd565680e821",
       "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "LONG_DISTANCE"
       ],
       "states": [
         "HH",
-        "SH",
+        "NW",
+        "HB",
         "NI"
       ],
       "lines": [
         {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "01.04.2025 07:10",
+      "lastModified": "01.04.2025 07:30",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/06ca7567-ac9f-4f1a-8e8a-07ddd65caf39",
-      "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_vehicle"
+      "detailPagePath": "/service/fahrplaene/d0c1004a-1fbc-49d8-a656-f9e0a9ec9684",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_construction"
     },
     {
       "id": "f4a739da-9f7d-443f-926c-911abb67c168",
@@ -85,44 +84,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/f4a739da-9f7d-443f-926c-911abb67c168",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity0"
-    },
-    {
-      "id": "f8c9dd10-f485-4e9e-b8e2-3d487a08e09d",
-      "disruptionId": "4ad3ddd0-ed79-4490-ac1d-54ab86c32b84",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Beeinträchtigungen zwischen Bremen Hbf und Osnabrück",
-      "summary": "Aufgrund von Bauarbeiten Bremen-Hemelingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Haltausfall Bremen Hbf.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Hamburg - Dortmund. Züge dieser Verbindung verkehren ohne den Halt Bremen Hbf. Ersatzhalt Kirchweyhe. Von dort besteht eine Verbindung nach Bremen Hbf mit der Bus Linie 9 (Fahrzeit ca. 20 Minuten)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "31.03.2025",
-      "durationEnd": "01.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/4ad3ddd0-ed79-4490-ac1d-54ab86c32b84",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "01.04.2025 07:14",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f8c9dd10-f485-4e9e-b8e2-3d487a08e09d",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_construction"
     },
     {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
