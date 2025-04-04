@@ -48,6 +48,44 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity0"
     },
     {
+      "id": "0b8e0918-a0da-4e24-b10a-c41e0dd0a952",
+      "disruptionId": "52451ae4-a8e0-45e4-aa95-ac77267f21eb",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "Butzbach (Frankfurt/M - Siegen) - kurzfristige Erkrankung Stellwerkspersonal",
+      "summary": "Als Folge einer kurzfristigen Krankmeldung des Personas ist das Stellwerk in Butzbach am 06.04.2025 von 18:00 Uhr bis zum 07.04.2025 04:00 Uhr nicht besetzt. Während dieser Zeit können keine Zugfahrten stattfinden.",
+      "text": "<strong>Folgende IC-Züge fallen am 06.04. zwischen Kassel/Wilhemshöhe und Frankfurt aus :</strong><p>ICE 1675, ICE 1677, IC 2375 und ICE 1572</p><p>Weitere betroffene Züge fallen zwischen Siegen und Frankfurt aus :</p><p>IC 2323, IC 2224 und IC 2222.</p><p>Am 07.04.2025 fällt IC 2324 zwischen Frankfurt/M und Siegen aus.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "06.04.2025",
+      "durationEnd": "07.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/52451ae4-a8e0-45e4-aa95-ac77267f21eb",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.04.2025 00:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0b8e0918-a0da-4e24-b10a-c41e0dd0a952",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_other_cause0"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -310,8 +348,8 @@
       "mapHref": "https://karte.bahn.de/detail/292ec606-b984-4ec8-b8b5-e68854d5051b",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-04/92211bf2-0ff4-4950-94d8-2b8c71fb130breisendenkarte_20250404-221950.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-04/92211bf2-0ff4-4950-94d8-2b8c71fb130breisendenkarte_20250404-221950.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-05/3105dac2-30dd-41fa-8098-68fef650a213reisendenkarte_20250404-221950.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-05/3105dac2-30dd-41fa-8098-68fef650a213reisendenkarte_20250404-221950.png",
           "info": "",
           "alt": "Reisendenkarte 04.04.2025 22:19:50",
           "openInNewTab": true
@@ -332,7 +370,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "04.04.2025 23:47",
+      "lastModified": "05.04.2025 00:26",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
