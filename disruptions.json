@@ -208,37 +208,30 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "10a0e531-1628-436a-9add-7278f1e688fb",
-      "disruptionId": "9718b55f-3d39-43dc-a53f-43c5f5ad4cb2",
+      "id": "e3128bc9-b990-4433-a89f-05d93f287c3a",
+      "disruptionId": "e98fa3d6-8f9b-4fec-aa90-518cdb9db026",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "S 3  Deisenhofen  ↔ Holzkirchen: Reparatur an der Strecke",
-      "summary": "Zwischen Deisenhofen  und Holzkirchen sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Deisenhofen.</p><p>Ein Ersatzverkehr mit Bussen zwischen Deisenhofen und Holzkirchen ist eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"SEV\" Beschilderung.</p><p><strong>Alternativ</strong>:</p><ul><li>Zusätzlich halten die Züge der BRB auch in&nbsp;<strong>Deisenhofen</strong>,&nbsp;<strong>Sauerlach&nbsp;</strong>und&nbsp;<strong>Otterfing</strong>.</li></ul><p></p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p></p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p><p><strong>In der heutigen Nacht Montag, 07. April auf Dienstag 8. April 2025 sollen die Reparaturarbeiten an der Strecke abgeschlossen werden. Zu Betriebsbeginn am Dienstag 8. April 25, 4 Uhr, ist geplant, den S-Bahn-Verkehr wieder aufzunehmen. Der Ersatzverkehr mit Bus bleibt parallel zum S-Bahn-Verkehr von 4 Uhr bis 6 Uhr bestehen.</strong></p><p></p><p><strong>HINWEIS:</strong></p><p><strong>Beachten Sie bitte die bestehenden Bauarbeiten auf der Linie S 3, heute Nacht, Montag/Dienstag, 7./8. April 2025 in der Zeit von 22.20 bis 4.40 Uhr, zwischen Giesing und Ostbahnhof. Informationen hierzu finden Sie unter: https://www.s-bahn-muenchen.de/fahren/baustellen/stammstrecke</strong></p>",
-      "durationBegin": "05.04.2025",
+      "headline": "S3, S5 Giesing: Reparatur Signal",
+      "summary": "Bei den S-Bahnen der S3 und der S5 kommt es in Richtung stadteinwärts noch zu Folgeverspätungen von bis zu 15 Minuten",
+      "text": "<p>Es kommt vereinzelt noch zu vorzeitigen Zugwenden.</p><p>Grund war eine kurzeitige Reparatur an einem Signal.</p>",
+      "durationBegin": "08.04.2025",
       "durationEnd": "08.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/9718b55f-3d39-43dc-a53f-43c5f5ad4cb2",
+      "mapHref": "https://karte.bahn.de/detail/e98fa3d6-8f9b-4fec-aa90-518cdb9db026",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-07/a6f38d26-38f9-40e5-9c9b-bf23cde49b38reisendenkarte_20250407-115727.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-07/a6f38d26-38f9-40e5-9c9b-bf23cde49b38reisendenkarte_20250407-115727.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-08/a4dab353-9699-408f-a221-102b8be75cf8reisendenkarte_20250408-060846.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-08/a4dab353-9699-408f-a221-102b8be75cf8reisendenkarte_20250408-060846.png",
           "info": "",
-          "alt": "Reisendenkarte 07.04.2025 11:57:27",
+          "alt": "Reisendenkarte 08.04.2025 06:08:46",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/fahren/betriebslage",
-          "label": "Aktuelle Betriebslage",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "links": [],
       "properties": [
         "SBAHN"
       ],
@@ -250,14 +243,19 @@
           "name": "S 3",
           "filterName": "S 3 München",
           "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "07.04.2025 16:00",
+      "lastModified": "08.04.2025 06:10",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/10a0e531-1628-436a-9add-7278f1e688fb",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section10"
+      "detailPagePath": "/service/fahrplaene/e3128bc9-b990-4433-a89f-05d93f287c3a",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
