@@ -214,6 +214,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "8adaa618-84e8-43b6-b239-0fcaa6f2d18f",
+      "disruptionId": "0e26cd1d-0476-4b69-9bd2-11b791ddd216",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S2 Altenerding: Technischer Defekt an einem Bahnübergang",
+      "summary": "Die S-Bahnen fahren im Bereich  Altenerding bis auf weiteres mit verminderter Geschwindigkeit.",
+      "text": "<p>Deswegen kommt es zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;                       ist ein technischer Defekt an einem Bahnübergang       in Altenerding.</p>",
+      "durationBegin": "11.04.2025",
+      "durationEnd": "11.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/0e26cd1d-0476-4b69-9bd2-11b791ddd216",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-11/6ea412d4-f1b3-440d-808e-b40ddee51c1areisendenkarte_20250411-054228.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-11/6ea412d4-f1b3-440d-808e-b40ddee51c1areisendenkarte_20250411-054228.png",
+          "info": "",
+          "alt": "Reisendenkarte 11.04.2025 05:42:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "11.04.2025 05:43",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8adaa618-84e8-43b6-b239-0fcaa6f2d18f",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
+    },
+    {
       "id": "7ebfb034-e6b8-41ea-9858-0234e48e4264",
       "author": "REGIO_HE",
       "cause": {
