@@ -806,51 +806,6 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction1"
     },
     {
-      "id": "78625ef4-eada-4548-8308-2109b225fba5",
-      "disruptionId": "211be723-c58c-4ea5-a073-6ecf94ab47a7",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S 4, S 20 Pasing ↔ Leienfelsstraße",
-      "summary": "Zwischen Pasing und Leienfelsstraße kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die Reparatur an einem Signal  wurde beendet.</p>",
-      "durationBegin": "16.04.2025",
-      "durationEnd": "16.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/211be723-c58c-4ea5-a073-6ecf94ab47a7",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-16/1bdc1cd8-0d47-47fe-9d7f-8a416748d2f9reisendenkarte_20250416-171609.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-16/1bdc1cd8-0d47-47fe-9d7f-8a416748d2f9reisendenkarte_20250416-171609.png",
-          "info": "",
-          "alt": "Reisendenkarte 16.04.2025 17:16:09",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.04.2025 17:59",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/78625ef4-eada-4548-8308-2109b225fba5",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
-    },
-    {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
       "disruptionId": "e6146ea6-b009-4114-b108-0b15cafb611d_TrafficReport",
       "author": "S_BAHN_S",
