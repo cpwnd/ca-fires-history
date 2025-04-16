@@ -806,51 +806,6 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction1"
     },
     {
-      "id": "93988cab-b575-4af1-81e9-60e75ccdc018",
-      "disruptionId": "e7f6134e-8e7f-4f1e-9383-a5db70f9d384",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 1 Neufahrn: Korrektur: Reparatur an einem Signal",
-      "summary": "Im Bereich Neufahrn kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Korrektur: Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "16.04.2025",
-      "durationEnd": "16.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/e7f6134e-8e7f-4f1e-9383-a5db70f9d384",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-16/879ad16f-d783-4247-a080-6abf9de1586creisendenkarte_20250416-162537.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-16/879ad16f-d783-4247-a080-6abf9de1586creisendenkarte_20250416-162537.png",
-          "info": "",
-          "alt": "Reisendenkarte 16.04.2025 16:25:37",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.04.2025 17:22",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/93988cab-b575-4af1-81e9-60e75ccdc018",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
-    },
-    {
       "id": "78625ef4-eada-4548-8308-2109b225fba5",
       "disruptionId": "211be723-c58c-4ea5-a073-6ecf94ab47a7",
       "author": "S_BAHN_MUC",
@@ -858,16 +813,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 4, S 20 Pasing ↔ Leienfelsstraße: Reparatur an einem Signal",
-      "summary": "Zwischen Pasing und Leienfelsstraße kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Endmeldung: S 4, S 20 Pasing ↔ Leienfelsstraße",
+      "summary": "Zwischen Pasing und Leienfelsstraße kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an einem Signal  wurde beendet.</p>",
       "durationBegin": "16.04.2025",
       "durationEnd": "16.04.2025",
       "mapHref": "https://karte.bahn.de/detail/211be723-c58c-4ea5-a073-6ecf94ab47a7",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-16/2adf0137-d7e9-4e87-826f-d5acc07450d1reisendenkarte_20250416-171609.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-16/2adf0137-d7e9-4e87-826f-d5acc07450d1reisendenkarte_20250416-171609.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-16/1bdc1cd8-0d47-47fe-9d7f-8a416748d2f9reisendenkarte_20250416-171609.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-16/1bdc1cd8-0d47-47fe-9d7f-8a416748d2f9reisendenkarte_20250416-171609.png",
           "info": "",
           "alt": "Reisendenkarte 16.04.2025 17:16:09",
           "openInNewTab": true
@@ -888,7 +843,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "16.04.2025 17:17",
+      "lastModified": "16.04.2025 17:59",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
