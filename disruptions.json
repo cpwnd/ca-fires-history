@@ -292,8 +292,8 @@
       "mapHref": "https://karte.bahn.de/detail/e078c847-667b-4670-b79c-67c96bee1411",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-04-23/f80eb9c1-8c6a-4231-8ca7-6ccf46be1921reisendenkarte_20250401-175054.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-04-23/f80eb9c1-8c6a-4231-8ca7-6ccf46be1921reisendenkarte_20250401-175054.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-04-23/6382e9e4-38ac-44de-9c48-bd66e7da0335reisendenkarte_20250401-175054.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-04-23/6382e9e4-38ac-44de-9c48-bd66e7da0335reisendenkarte_20250401-175054.png",
           "info": "",
           "alt": "Reisendenkarte 01.04.2025 17:50:54",
           "openInNewTab": true
@@ -301,7 +301,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-04-23/aef58b46-8183-4dcc-a06b-146a26aed247Stellwerk%252BBauinfo_2.%2BVerl%25C3%25A4ngerung%2B%2BZvF%2B99955%2B-%2BSEV%2BUlm%2B-%2BMemmingen_20.-30.04.2025.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-04-23/5b5b9040-d975-49f5-95ce-6471f1a4ef70Stellwerk%252BBauinfo_2.%2BVerl%25C3%25A4ngerung%2B%2BZvF%2B99955%2B-%2BSEV%2BUlm%2B-%2BMemmingen_20.-30.04.2025.pdf",
           "label": "Zeitraum: 20.-30.04.2025 Stellwerk + Bauinfo SEV Ulm - Memmingen",
           "info": "",
           "openInNewTab": true
@@ -329,9 +329,14 @@
           "name": "RE 75",
           "filterName": "RE 75",
           "property": "REGIONAL"
+        },
+        {
+          "name": "RE 75",
+          "filterName": "RE 75",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "23.04.2025 17:16",
+      "lastModified": "23.04.2025 17:28",
       "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cf736c32-8918-44e7-bec9-6bf6996377f4",
