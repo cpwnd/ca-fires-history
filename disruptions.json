@@ -289,14 +289,14 @@
       },
       "headline": "S3 Deisenhofen: Unbefugte Personen auf der Strecke",
       "summary": "Im Bereich Deisenhofen sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 20 Minuten. </p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "text": "<p>Die S-Bahnen wenden in Giesing.</p><p>Ein Ersatzverkehr zwischen Giesing und Holzkirchen ist in Planung.</p><p>Bitte rechnen Sie mit deutlich verlängerten Fahrzeiten.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
       "durationBegin": "24.04.2025",
       "durationEnd": "24.04.2025",
       "mapHref": "https://karte.bahn.de/detail/ee885332-5032-4e85-81e9-8334558e467c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-24/9a7b0b1a-5456-405f-9983-f9ba226fe4a9reisendenkarte_20250424-171307.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-24/9a7b0b1a-5456-405f-9983-f9ba226fe4a9reisendenkarte_20250424-171307.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-24/f59227fe-b4a7-4b3e-b671-46fa7a722b5creisendenkarte_20250424-171307.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-04-24/f59227fe-b4a7-4b3e-b671-46fa7a722b5creisendenkarte_20250424-171307.png",
           "info": "",
           "alt": "Reisendenkarte 24.04.2025 17:13:07",
           "openInNewTab": true
@@ -317,7 +317,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.04.2025 17:14",
+      "lastModified": "24.04.2025 17:36",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -366,11 +366,11 @@
       "disruptionId": "c3fa2f03-64ac-4af4-adfd-e628cfb9a930",
       "author": "S_BAHN_HH",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
       },
       "headline": "Verspätungen und Abweichungen vom Fahrplan",
-      "summary": "Aktuell kommt es auf der Linie S2 zu Abweichungen vom Fahrplan und Verspätungen von bis zu 35 Minuten. Wir arbeiten mit Hochdruck daran, dass die S-Bahnen bald wieder nach Plan fahren. Grund: technische Störung an der Strecke ",
+      "summary": "Aktuell kommt es auf der Linie S2 zu Abweichungen vom Fahrplan und Verspätungen von bis zu 25 Minuten. Wir arbeiten mit Hochdruck daran, dass die S-Bahnen bald wieder nach Plan fahren. Grund: technische Störung an der Strecke ",
       "text": "<p>Folgende Informationen können wir derzeit ergänzen:</p><p>Die Linie S2 fährt bis auf Weiteres leider nur alle 10 Minuten. </p><p>Dies dient dazu Verspätungen abzubauen und die Auswirkungen auf das S-Bahn-Netz so gering wie möglich zu halten.</p>",
       "durationBegin": "24.04.2025",
       "durationEnd": "24.04.2025",
@@ -379,19 +379,19 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "HH"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "24.04.2025 17:15",
+      "lastModified": "24.04.2025 17:32",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -745,7 +745,7 @@
         "category": "strike",
         "label": "Streik"
       },
-      "headline": "Zugausfälle zwischen Mulhouse Ville und Müllheim(Baden)",
+      "headline": "Zugausfälle zwischen Mulhouse Ville und Müllheim im Markgräflerland",
       "summary": "Aufgrund eines Streiks bei der SNCF fallen am 27. April 2025 die Züge der Linie RB 28 zwischen Mulhouse Ville und Müllheim im Markgräflerland aus. Für die ausfallenden Züge wird ein Ersatzverkehr mit Bus eingerichtet.\n",
       "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RB 28 Mulhouse Ville - Müllheim im Markgräflerland</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "27.04.2025",
@@ -753,8 +753,8 @@
       "mapHref": "https://karte.bahn.de/detail/7f9bef26-8b0e-446c-8322-e7bf1592f081",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-24/159f2ccf-f011-4948-8552-e33d3ddd5570reisendenkarte_20250424-171845.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-24/159f2ccf-f011-4948-8552-e33d3ddd5570reisendenkarte_20250424-171845.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-24/3c72df1b-57f2-4336-9fac-2d01f545d1b9reisendenkarte_20250424-171845.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-04-24/3c72df1b-57f2-4336-9fac-2d01f545d1b9reisendenkarte_20250424-171845.png",
           "info": "",
           "alt": "Reisendenkarte 24.04.2025 17:18:45",
           "openInNewTab": true
@@ -782,7 +782,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.04.2025 17:21",
+      "lastModified": "24.04.2025 17:26",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
