@@ -17,8 +17,8 @@
       "mapHref": "https://karte.bahn.de/detail/398588a4-77b3-442e-9b2b-fe1269d7e2fc",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-26/6d88c0d9-e2ea-42f0-be7f-0ea9f2eca3ddreisendenkarte_20250426-123214.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-26/6d88c0d9-e2ea-42f0-be7f-0ea9f2eca3ddreisendenkarte_20250426-123214.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-26/fde17b89-92b2-4303-935e-03c4c9dd152areisendenkarte_20250426-123214.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-04-26/fde17b89-92b2-4303-935e-03c4c9dd152areisendenkarte_20250426-123214.png",
           "info": "",
           "alt": "Reisendenkarte 26.04.2025 12:32:14",
           "openInNewTab": true
@@ -27,20 +27,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
           "href": "https://www.bahn.de/service/buchung/fahrgastrechte ",
           "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "App DB Navigator ",
           "info": "",
           "openInNewTab": true
         },
@@ -53,6 +47,12 @@
         {
           "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt  ",
           "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de ",
           "info": "",
           "openInNewTab": true
         }
@@ -71,7 +71,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "26.04.2025 13:28",
+      "lastModified": "26.04.2025 13:33",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -285,43 +285,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
-    },
-    {
-      "id": "da520fd9-8c56-4b61-bd58-5aef3beee916",
-      "disruptionId": "4cc1879e-a193-4fe6-9673-6a730d063e2a",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
-      },
-      "headline": "Keine S-Bahnen zwischen Buxtehude und Stade",
-      "summary": "Aktuell ist der S-Bahnverkehr zwischen Buxtehude und Stade in beiden Richtungen unterbrochen. Ersatzverkehr mit Taxen und Bussen ist eingerichtet. Grund: Personenunfall",
-      "text": "<p>Die Züge von START fahren zwischen Cuxhaven und Stade.</p>",
-      "durationBegin": "26.04.2025",
-      "durationEnd": "26.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/4cc1879e-a193-4fe6-9673-6a730d063e2a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.04.2025 12:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/da520fd9-8c56-4b61-bd58-5aef3beee916",
-      "magnoliaPath": "/aktuell/nord/impairment_medical_emergency0"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
