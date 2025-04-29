@@ -350,6 +350,58 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
+      "id": "de2bb44e-53e6-4d52-8cc6-0fbd47b41c0d",
+      "disruptionId": "c213bbf2-57e8-40b1-ac5e-f202d4c94d63",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Aktuell kommt es zu Unregelmäßigkeiten auf allen S-Bahn Linien.",
+      "summary": "Aktuell kommt es zu Unregelmäßigkeiten auf allen Linien. Der Grund ist ein Polizeieinsatz am Hauptbahnhof. Weichen Sie wenn möglich auf die U-Bahnen und Busse aus. ",
+      "text": "<p>Mit folgenden U-Bahnlinien erreichen Sie innerhalb von Hamburg ihr Fahrtziel:</p><p>U1:</p><p>Ohlsdorf (S1) &lt;&gt; Jungfernstieg (S1/S3) via Kellinghusenstraße</p><p>Wandsbeker Chaussee (S1) &lt;&gt; Hauptbahnhof (alle S-Bahnlinien) via Lübecker Straße</p><p>Jungfernstieg (S1/S3) &lt;&gt; Hauptbahnhof (alle S-Bahnlinien) via Steinstraße</p><p></p><p>U3:</p><p>Barmbek (S1) &lt;&gt; Hauptbahnhof (alle S-Bahnlinien) via Berliner Tor (S1/S2)</p><p>Barmbek (S1) &lt;&gt; Jungfernstieg (S1/S3) mit Umstieg zur U1 in Kellinghusenstraße</p><p></p><p>U4:</p><p>Elbbrücken (S3/S5) &lt;&gt; Jungfernstieg (S1/S3) </p><p></p><p>Beachten Sie auch die Fahrplanauskunft auf www.hvv.de.</p>",
+      "durationBegin": "29.04.2025",
+      "durationEnd": "29.04.2025",
+      "mapHref": "https://karte.bahn.de/detail/c213bbf2-57e8-40b1-ac5e-f202d4c94d63",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.04.2025 13:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/de2bb44e-53e6-4d52-8cc6-0fbd47b41c0d",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_police_activity"
+    },
+    {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
       "disruptionId": "e078c847-667b-4670-b79c-67c96bee1411",
       "author": "REGIO_BY",
