@@ -716,39 +716,41 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
-      "id": "ad8986e2-1d88-469f-96b3-68a5dad28d9d",
-      "disruptionId": "f455cb70-fd87-4340-a959-28181cc5c9fa",
-      "author": "FERNVERKEHR_AG",
+      "id": "fde903e8-a8a6-4606-9203-05ef968e1181",
+      "disruptionId": "e754099a-0ede-4a3c-80ca-e8887ba5dc3e",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
       },
-      "headline": "Beeinträchtigung zwischen Hamm(Westf) und Dortmund",
-      "summary": "Aufgrund der Reparatur an einer Weiche zwischen Hamm(Westf) und Dortmund kommt es derzeit zu Umleitungen und Verspätungen von bis zu 20 Minuten im Fernverkehr der Deutschen Bahn.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Norddeutschland - Dortmund - Köln und nur in dieser Fahrtrichtung</li><li>IC-Züge der Verbindung Erfurt / Leipzig - Dortmund - Köln und nur in dieser Fahrtrichtung</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "30.04.2025",
-      "mapHref": "https://karte.bahn.de/detail/f455cb70-fd87-4340-a959-28181cc5c9fa",
+      "headline": "S 1 Neufahrn: Technischer Defekt an einem anderen Zug",
+      "summary": "Im Bereich Neufahrn sind nur eingeschränkt Zugfahrten möglich.",
+      "text": "<p>Bitte rechnen Sie mit Verspätungen von bis zu 15 Minuten und Teilausfällen.</p><p>Der Grund hierfür ist ein technischer Defekt an einem anderen Zug.</p>",
+      "durationBegin": "02.05.2025",
+      "durationEnd": "02.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/e754099a-0ede-4a3c-80ca-e8887ba5dc3e",
       "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "SBAHN"
       ],
       "states": [
-        "NW"
+        "BY"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "30.04.2025 18:52",
+      "lastModified": "02.05.2025 13:42",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/ad8986e2-1d88-469f-96b3-68a5dad28d9d",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fde903e8-a8a6-4606-9203-05ef968e1181",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
