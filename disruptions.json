@@ -135,57 +135,6 @@
       "magnoliaPath": "/aktuell/hessen/no_service_other_cause"
     },
     {
-      "id": "3d1916d4-a27e-4f11-9572-d70b07d48a78",
-      "disruptionId": "ed8264eb-2a58-43c3-b172-bdd4fa620627",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Beeinträchtigungen zwischen Hannover Hbf und Nienburg(Weser)",
-      "summary": "Reparatur an einem Signal zwischen Hannover Hbf und Nienburg(Weser). ",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 1 (Norddeich(Mole) – Bremen Hbf – Hannover Hbf): Verspätungen und Teilausfälle möglich.</li><li>RE 8 (Bremerhaven-Lehe – Hannover Hbf): Verspätungen und Teilausfälle möglich.</li></ul><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Folgen Sie auch der DB Regio Niedersachsen und Bremen auf X (ehemals Twitter).&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "10.05.2025",
-      "durationEnd": "10.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/ed8264eb-2a58-43c3-b172-bdd4fa620627",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-10/d3ffd308-c548-4424-bc40-1806b70f7969reisendenkarte_20250510-123504.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-05-10/d3ffd308-c548-4424-bc40-1806b70f7969reisendenkarte_20250510-123504.png",
-          "info": "",
-          "alt": "Reisendenkarte 10.05.2025 12:35:04",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 8",
-          "filterName": "RE 8",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "10.05.2025 19:16",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3d1916d4-a27e-4f11-9572-d70b07d48a78",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
-    },
-    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
