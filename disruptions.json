@@ -209,6 +209,61 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "0b54c42e-5857-49c0-b34c-5b95420202a7",
+      "disruptionId": "3a73d4af-0fd8-4814-a593-fd2a6d9ce72d",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Teil- und Zugausfälle im Raum Wächtersbach",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆Betroffene Linien:</strong><ul><li>RE5: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach - Fulda - Bad Hersfeld - Bebra (- Kassel Hbf)</li><li>RE50: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach - Fulda</li><li>RB51: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach (- Bad Soden-Salmünster)</li></ul><p></p><strong></strong><strong>⚠️Beeinträchtigungen:</strong><ul><li>Es kommt zu Teilausfällen zwischen Wirtheim - Wächtersbach - Bad Soden-Salmünster.</li><li>Die Züge der RE50 halten zusätzlich in Wirtheim.</li></ul><p></p><strong>↪️Empfehlungen und Ersatzverkehr:</strong><ul><li>Wir haben für Sie einen Ersatzverkehr mit 8 Bussen der Firma Holiday Reisen zwischen Bad Soden-Salmünster - Wächtersbach - Wirtheim eingerichtet.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
+      "durationBegin": "12.05.2025",
+      "durationEnd": "12.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/3a73d4af-0fd8-4814-a593-fd2a6d9ce72d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-12/b5950e3c-159a-45c3-a13d-a33f76bd0d52reisendenkarte_20250512-151102.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-12/b5950e3c-159a-45c3-a13d-a33f76bd0d52reisendenkarte_20250512-151102.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.05.2025 15:11:02",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 51",
+          "filterName": "RB 51",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.05.2025 15:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0b54c42e-5857-49c0-b34c-5b95420202a7",
+      "magnoliaPath": "/aktuell/hessen/no_service_police_activity"
+    },
+    {
       "id": "2eca7c67-7ef4-42a5-baa8-2fdc58621afe",
       "disruptionId": "b89168ed-3c8b-42a9-95ca-371abbc631f1",
       "author": "S_BAHN_MUC",
@@ -269,14 +324,14 @@
       },
       "headline": "Teilausfälle zwischen Offenbach(Main)Ost und Hanau Hbf",
       "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆Betroffene Linie(n):</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li></ul><p></p><strong>🗓️Zeitraum:</strong><ul><li>Ab 15:00 Uhr bis ca. 20:30 Uhr</li></ul><p></p><strong>⚠️Beeinträchtigungen:</strong><ul><li>Die Züge aus Richtung Kelsterbach enden vorzeitig in Offenbach(Main)Ost und wenden dort.</li></ul><p></p><strong>↪️Empfehlungen und Ersatzverkehr:</strong><ul><li>Unsere Empfehlung: Nutzen Sie die S9 zwischen Offenbach(Main)Ost und Hanau Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
+      "text": "<strong>🚆Betroffene Linie(n):</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li></ul><p></p><strong>🗓️Zeitraum:</strong><ul><li>Ab 15:00 Uhr bis ca. 20:30 Uhr</li></ul><p></p><strong>⚠️Beeinträchtigungen:</strong><ul><li>Die Züge aus Richtung Kelsterbach enden vorzeitig in Offenbach(Main)Ost und wenden dort.</li></ul><p></p><strong>↪️Empfehlung:</strong><ul><li>Unsere Empfehlung: Nutzen Sie die S9 zwischen Offenbach(Main)Ost und Hanau Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong>.</p>",
       "durationBegin": "12.05.2025",
       "durationEnd": "12.05.2025",
       "mapHref": "https://karte.bahn.de/detail/964642b0-ac26-4d7e-a3d2-19313873f295",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-12/3bc9c4f8-4a14-4a7a-ad52-6ea7ca6db454reisendenkarte_20250512-141453.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-12/3bc9c4f8-4a14-4a7a-ad52-6ea7ca6db454reisendenkarte_20250512-141453.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-12/ed2ea369-aa4c-4e0e-88ac-fb74692c5c7dreisendenkarte_20250512-141453.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-05-12/ed2ea369-aa4c-4e0e-88ac-fb74692c5c7dreisendenkarte_20250512-141453.png",
           "info": "",
           "alt": "Reisendenkarte 12.05.2025 14:14:53",
           "openInNewTab": true
@@ -297,7 +352,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.05.2025 14:18",
+      "lastModified": "12.05.2025 15:33",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -657,43 +712,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b4b1c173-3724-4da5-a34e-df1494f993ca",
       "magnoliaPath": "/aktuell/hessen/stop_moved_other_cause0"
-    },
-    {
-      "id": "6cf524c9-ce3f-4e4b-aaa9-ee2f225911d4",
-      "disruptionId": "980acf58-bfe3-4bba-a2f0-96a5daa8f5e2",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "S2 und S5: Aktuell fahren keine Züge über Dammtor.",
-      "summary": "Aktuell werden alle Züge derS2 und S5 über Jungfernstieg umgeleitet. Grund: Feueralarm",
-      "text": "<p></p>",
-      "durationBegin": "12.05.2025",
-      "durationEnd": "12.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/980acf58-bfe3-4bba-a2f0-96a5daa8f5e2",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.05.2025 14:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6cf524c9-ce3f-4e4b-aaa9-ee2f225911d4",
-      "magnoliaPath": "/aktuell/nord/detour_police_activity"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
