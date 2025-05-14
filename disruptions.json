@@ -338,6 +338,43 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "08bba6f9-12cd-4e23-be36-ab1c462f7cf2",
+      "disruptionId": "f17865e4-cda0-4a61-93a9-185c51c381a7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "S 3 Giesing ↔ Deisenhofen: Feuerwehreinsatz",
+      "summary": "Zwischen Giesing und Deisenhofen sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Giesing und Deisenhofen.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein Feuerwehreinsatz auf der Strecke.</p>",
+      "durationBegin": "14.05.2025",
+      "durationEnd": "14.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/f17865e4-cda0-4a61-93a9-185c51c381a7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "14.05.2025 13:46",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/08bba6f9-12cd-4e23-be36-ab1c462f7cf2",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity0"
+    },
+    {
       "id": "361d6a0e-4248-4135-8360-8ad28a8506ae",
       "disruptionId": "0e522b45-abb4-4a0b-b101-51d240c9ee01",
       "author": "S_BAHN_RM",
@@ -842,48 +879,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/bbc38d14-36b1-4955-b7f4-0d4f1a3310d1",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
-    },
-    {
-      "id": "cde7ced0-6d25-41c9-a924-340200c503f0",
-      "disruptionId": "e0bcb095-b741-4a51-9788-d95e7d08fd73",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "Informationen zum barrierefreien Umstieg am Hamburg Airport / Information for barrier-free  access to the Airport",
-      "summary": "Aktuell ist am Airport kein barrierefreier Übergang zu den Terminals möglich. Informationen zu möglichen Alternativen finden Sie nach dem Aufklappen dieser Meldung. +++ Currently, there is no barrier-free access to the terminals at the airport. Information on possible alternatives can be found after expanding this message.",
-      "text": "<p><strong>Folgende Alternativen stehen für eine barrierefreie An- und Abreise zur Verfügung:</strong></p><p><strong>U1 bis Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (Ziel: U Ochsenzoll) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p>oder</p><p><strong>U1 bis Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>392</strong> (Ziel: Hamburg&nbsp;Airport<strong>&nbsp;</strong>(Flughafen)) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p><strong>The following alternatives are available for barrier-free arrival and departure:</strong></p><p><strong>U1 to Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (destination: U Ochsenzoll) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p>oder</p><p><strong>U1 to Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>392</strong> (destination: Hamburg&nbsp;Airport<strong>&nbsp;</strong>(Flughafen)) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p>",
-      "durationBegin": "13.05.2025",
-      "durationEnd": "16.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/e0bcb095-b741-4a51-9788-d95e7d08fd73",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.05.2025 13:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/cde7ced0-6d25-41c9-a924-340200c503f0",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
       "id": "c95d084d-5092-4f3e-b264-a15063f9b221",
