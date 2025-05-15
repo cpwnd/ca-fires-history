@@ -300,51 +300,6 @@
       "magnoliaPath": "/aktuell/hessen/Stellwerkunterbesetzung-Frankfurt-Fzf-16.---18.05."
     },
     {
-      "id": "c1a589d8-dffe-4165-9557-e8e79ca32055",
-      "disruptionId": "d2a53284-5599-4769-905d-321808a51f1c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S8 Weßling: Reparatur an der Strecke",
-      "summary": "Bei der S8 kommt es in beide Richtungen zu Verspätungen von bis zu 10 Minuten.",
-      "text": "<p>Die S-Bahnen können im Bereich des Bahnhofs Weßling nur mit verminderter Geschwindigkeit fahren.</p><p>Es kommt vereinzelt zu vorzeitigen Zugwenden.</p><p>Grund ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "15.05.2025",
-      "durationEnd": "15.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/d2a53284-5599-4769-905d-321808a51f1c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-15/2e954c52-be06-4a88-8975-07a16ccf2854reisendenkarte_20250515-145526.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-15/2e954c52-be06-4a88-8975-07a16ccf2854reisendenkarte_20250515-145526.png",
-          "info": "",
-          "alt": "Reisendenkarte 15.05.2025 14:55:26",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.05.2025 16:39",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c1a589d8-dffe-4165-9557-e8e79ca32055",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section1"
-    },
-    {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
       "disruptionId": "e078c847-667b-4670-b79c-67c96bee1411",
       "author": "REGIO_BY",
@@ -618,8 +573,8 @@
       "mapHref": "https://karte.bahn.de/detail/fa02a7d7-cbb1-4b7e-bfb3-bf1a40a10d37",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-15/29eb1b49-07ff-4887-9d08-2a214a38e2bareisendenkarte_20250515-125801.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-15/29eb1b49-07ff-4887-9d08-2a214a38e2bareisendenkarte_20250515-125801.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-15/413922b8-515c-44b0-9cab-f7c957a3cf36reisendenkarte_20250515-125801.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-15/413922b8-515c-44b0-9cab-f7c957a3cf36reisendenkarte_20250515-125801.png",
           "info": "",
           "alt": "Reisendenkarte 15.05.2025 12:58:01",
           "openInNewTab": true
@@ -640,7 +595,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.05.2025 15:32",
+      "lastModified": "15.05.2025 17:26",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
