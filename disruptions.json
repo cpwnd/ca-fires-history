@@ -696,19 +696,19 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
-      "id": "c813a476-bfac-4cc3-8284-0a10646465c4",
-      "disruptionId": "46e51463-3fb3-4c1f-a1e6-00e618462542",
-      "author": "S_BAHN_MUC",
+      "id": "cde7ced0-6d25-41c9-a924-340200c503f0",
+      "disruptionId": "e0bcb095-b741-4a51-9788-d95e7d08fd73",
+      "author": "S_BAHN_HH",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
       },
-      "headline": "Endmeldung: S 2, S 4, S 6 Berg am Laim",
-      "summary": "Im Bereich Berg am Laim kommt es noch zu Folgeverspätungen von bis zu 10 Minuten.",
-      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
-      "durationBegin": "15.05.2025",
-      "durationEnd": "15.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/46e51463-3fb3-4c1f-a1e6-00e618462542",
+      "headline": "Informationen zum barrierefreien Umstieg am Hamburg Airport / Information for barrier-free  access to the Airport",
+      "summary": "Aktuell ist am Airport kein barrierefreier Übergang zu den Terminals möglich. Informationen zu möglichen Alternativen finden Sie nach dem Aufklappen dieser Meldung. +++ Currently, there is no barrier-free access to the terminals at the airport. Information on possible alternatives can be found after expanding this message.",
+      "text": "<p><strong>Folgende Alternativen stehen für eine barrierefreie An- und Abreise zur Verfügung:</strong></p><p><strong>U1 bis Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (Ziel: U Ochsenzoll) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p>oder</p><p><strong>U1 bis Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>392</strong> (Ziel: Hamburg&nbsp;Airport<strong>&nbsp;</strong>(Flughafen)) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p><strong>The following alternatives are available for barrier-free arrival and departure:</strong></p><p><strong>U1 to Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>292</strong> (destination: U Ochsenzoll) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p><p>oder</p><p><strong>U1 to Lattenkamp</strong> &lt;&gt; <strong>Bus</strong>linie <strong>392</strong> (destination: Hamburg&nbsp;Airport<strong>&nbsp;</strong>(Flughafen)) &lt;&gt; Hamburg&nbsp;<strong>Airport&nbsp;</strong>(Flughafen)</p>",
+      "durationBegin": "13.05.2025",
+      "durationEnd": "16.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/e0bcb095-b741-4a51-9788-d95e7d08fd73",
       "images": [],
       "downloads": [],
       "links": [],
@@ -716,31 +716,26 @@
         "SBAHN"
       ],
       "states": [
-        "BY"
+        "HH"
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
           "property": "SBAHN"
         },
         {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.05.2025 08:23",
+      "lastModified": "14.05.2025 13:26",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c813a476-bfac-4cc3-8284-0a10646465c4",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
+      "detailPagePath": "/service/fahrplaene/cde7ced0-6d25-41c9-a924-340200c503f0",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
       "id": "16af7617-f9ea-4de6-8694-fcb3ad116aa9",
