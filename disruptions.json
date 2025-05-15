@@ -745,9 +745,9 @@
         "category": "technical_problem_vehicle",
         "label": "Reparatur am Zug"
       },
-      "headline": "Stammstrecke: Technischer Defekt an einem anderen Zug",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 15 Minuten und Umleitungen.",
-      "text": "<p>Der Grund hierfür ist ein technischer Defekt am Zug.</p>",
+      "headline": "Endmeldung: Stammstrecke",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 20 Minuten und Umleitungen.",
+      "text": "<p>Der technische Defekt an einem anderen Zug wurde behoben.</p>",
       "durationBegin": "15.05.2025",
       "durationEnd": "15.05.2025",
       "mapHref": "https://karte.bahn.de/detail/78d72a8c-4d92-4af6-9883-5964dc812379",
@@ -797,7 +797,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.05.2025 06:48",
+      "lastModified": "15.05.2025 07:07",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
