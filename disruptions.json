@@ -416,6 +416,51 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
+      "id": "e54e19ce-aa2a-4556-ac1d-46a876d172bf",
+      "disruptionId": "9f96814c-c323-42c9-a472-54589ad386f5",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S 5 Perlach: Technischer Defekt an einem Bahnübergang",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang bei Perlach.</p>",
+      "durationBegin": "21.05.2025",
+      "durationEnd": "21.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/9f96814c-c323-42c9-a472-54589ad386f5",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-21/36e19790-af5e-446f-855b-cc4544836beereisendenkarte_20250521-185132.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-21/36e19790-af5e-446f-855b-cc4544836beereisendenkarte_20250521-185132.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.05.2025 18:51:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.05.2025 18:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e54e19ce-aa2a-4556-ac1d-46a876d172bf",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
+    },
+    {
       "id": "2909b42a-03cb-433a-ae85-6a0f96c942ed",
       "disruptionId": "ddaaf7e7-9f89-4e04-9592-5dc70e38611f",
       "author": "S_BAHN_MUC",
