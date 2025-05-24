@@ -73,6 +73,44 @@
       "magnoliaPath": "/aktuell/mitte/no_service_other_cause"
     },
     {
+      "id": "d0a15ef7-cfe1-4cb7-b9cf-c73908ef3dc0",
+      "disruptionId": "ff18b5c7-9c46-4970-b8ae-00181d213827",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Fulda und Bad Hersfeld",
+      "summary": "Aufgrund von Bauarbeiten zwischen Fulda und Bad Hersfeld kommt es derzeit zu Beeinträchtigungen und Verspätungen von bis zu 20 Minuten im Fernverkehr der Deutschen Bahn. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-/IC-Züge der Verbindung Berlin / Leipzig - Erfurt - Frankfurt(M)</li><li>Einzelne ICE-/IC-Züge der Verbindung Norddeutschland - Kassel-Wilhelmshöhe - Frankfurt(M)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/ff18b5c7-9c46-4970-b8ae-00181d213827",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH",
+        "BY",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "24.05.2025 17:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d0a15ef7-cfe1-4cb7-b9cf-c73908ef3dc0",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_construction"
+    },
+    {
       "id": "64adad40-45e8-4eb4-8e1e-a5d3c1299ec3",
       "disruptionId": "bdacea2e-ab28-4ac9-8f51-5ec31d61ede1",
       "author": "REGIO_MITTE",
