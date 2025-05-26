@@ -689,28 +689,77 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/modified_service_construction"
     },
     {
-      "id": "a077b284-b2ce-430c-b0db-fb2d3e4430a4",
-      "disruptionId": "fd5e1e98-e786-47a5-8e99-b427a91fa46a",
+      "id": "8cba21cb-6283-4f92-b6cb-8f12963dd8a4",
+      "disruptionId": "2978f1fb-88ac-4573-9c21-f4ea17f63a6d",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "S 8 Weßling: Reparatur an der Strecke",
-      "summary": "Im Bereich Weßling sind weiterhin Zugfahrten nur mit geringerer Geschwindigkeit möglich. Bitte rechnen Sie mit Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "headline": "Endmeldung: S 1, S 2, S 4, S 6, S 8 Leuchtenberring ↔ Ostbahnhof",
+      "summary": "Zwischen Leuchtenberring und Ostbahnhof kommt es zu keinen weiteren Beeinträchtigungen mehr.",
+      "text": "<p>Reparatur an einem Signal wurde beendet.</p>",
       "durationBegin": "26.05.2025",
       "durationEnd": "26.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/fd5e1e98-e786-47a5-8e99-b427a91fa46a",
-      "images": [
+      "mapHref": "https://karte.bahn.de/detail/2978f1fb-88ac-4573-9c21-f4ea17f63a6d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-26/dfff3213-4e84-45b6-93f1-0803e9269330reisendenkarte_20250526-082245.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-26/dfff3213-4e84-45b6-93f1-0803e9269330reisendenkarte_20250526-082245.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.05.2025 08:22:45",
-          "openInNewTab": true
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
+      "lastModified": "26.05.2025 12:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8cba21cb-6283-4f92-b6cb-8f12963dd8a4",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
+    },
+    {
+      "id": "9e5e6249-0496-4df1-9653-1aaa32fc811e",
+      "disruptionId": "3acb3b35-6980-4794-b1fd-61495d778214",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung: S 6 Regelweg",
+      "summary": "Die Linie S 6 verkehrt wieder auf Regelweg mit allen Halten durch die Stammstrecke.",
+      "text": "<p>Reparatur an einem Signal wurde beendet.</p>",
+      "durationBegin": "26.05.2025",
+      "durationEnd": "26.05.2025",
+      "mapHref": "https://karte.bahn.de/detail/3acb3b35-6980-4794-b1fd-61495d778214",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
@@ -726,57 +775,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.05.2025 11:11",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a077b284-b2ce-430c-b0db-fb2d3e4430a4",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
-    },
-    {
-      "id": "2529ecc5-6aad-4ae6-97c1-9d1b8163924f",
-      "disruptionId": "5a308bac-8b42-43e4-8b8b-78b5dc612f22",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Beschädigung einer Brücke"
-      },
-      "headline": "Endmeldung: S 2 Laim ↔ Allach",
-      "summary": "Zwischen Laim und Allach ist die Strecke wieder freigegeben.",
-      "text": "<p><strong>Die S-Bahnen verkehren ab folgenden Fahrten wieder nach regulärer Linienführung: </strong></p><ul><li>S2 Abfahrt Poing 10:27 Uhr - Ankunft Petershausen 11:34 Uhr</li><li>S2 Abfahrt Petershausen 9:52 Uhr - Ankunft Erding 11:38 Uhr</li></ul><p>Korrektur: Der Ersatzverkehr mit Bussen und Großraumtaxis wird 11:30 Uhr eingestellt.</p><p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Die beschädigte Brücke wurde repariert.</p>",
-      "durationBegin": "26.05.2025",
-      "durationEnd": "26.05.2025",
-      "mapHref": "https://karte.bahn.de/detail/5a308bac-8b42-43e4-8b8b-78b5dc612f22",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-26/c45ea1a6-1243-4ab2-b535-03b5c1b7564freisendenkarte_20250526-095537.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-05-26/c45ea1a6-1243-4ab2-b535-03b5c1b7564freisendenkarte_20250526-095537.png",
-          "info": "",
-          "alt": "Reisendenkarte 26.05.2025 09:55:37",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.05.2025 11:09",
+      "lastModified": "26.05.2025 12:26",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2529ecc5-6aad-4ae6-97c1-9d1b8163924f",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/9e5e6249-0496-4df1-9653-1aaa32fc811e",
+      "magnoliaPath": "/aktuell/bayern/detour_technical_problem_railway_section"
     },
     {
       "id": "4282ad84-55c4-4e9d-984d-2e28263565ca",
