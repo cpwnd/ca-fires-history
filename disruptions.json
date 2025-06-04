@@ -107,6 +107,51 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_construction"
     },
     {
+      "id": "aacb9923-2808-40e3-81cd-3793ff2c42e4",
+      "disruptionId": "ec889225-f8e7-4700-bdd5-38330fffa5ba",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie RE10 - Zugausfall Leipzig-Thekla - Leipzig Hbf",
+      "summary": "in der Nacht Dienstag, 17.06.2025, 21:00 Uhr bis Dienstag, 17.06.2025, 23:30 Uhr",
+      "text": "<p>Die Züge dieser Linie fallen zwischen Leipzig-Thekla und Leipzig Hbf aus und werden durch Busse ersetzt.✅ Die geänderten Fahrpläne sind ab 06.06.25 in der Reiseauskunft unter bahn.de, im DB Navigator sowie in der VBB-App „Bus&amp;Bahn“ abrufbar.Grund: Instandhaltungsmaßnahmen</p>",
+      "durationBegin": "17.06.2025",
+      "durationEnd": "17.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/ec889225-f8e7-4700-bdd5-38330fffa5ba",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2025-06-04/e80c97f6-5c38-4da3-8605-39634487fd96Baufpl%2B43597%2BLeipzig%2BHbf%2B-%2BLeipzig-Thekla%2B%2528RE10%2529%2B17.06.25.pdf",
+          "label": "Baufpl 43597 Leipzig Hbf - Leipzig-Thekla (RE10) 17.06.25.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RE 10",
+          "filterName": "RE 10",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "04.06.2025 12:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/aacb9923-2808-40e3-81cd-3793ff2c42e4",
+      "magnoliaPath": "/aktuell/nordost/additional_service_construction34"
+    },
+    {
       "id": "d30f83b9-4841-4cad-9b13-14d25cc60dd6",
       "disruptionId": "ffc2c64c-647b-45d1-beed-8e673572f294",
       "author": "REGIO_BW",
@@ -859,6 +904,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0a50db13-4e30-4e81-bc17-039c88a093e3",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
+    },
+    {
+      "id": "7604bfb6-a8ed-4d99-b7a6-3dc49218f28c",
+      "disruptionId": "0538f53b-b6f0-4119-b81d-e85fd3250639",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S 7: Technischer Defekt an einem Bahnübergang",
+      "summary": "Derzeit kommt es auf der Linie S 7 in beide Richtungen zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang in Pullach.</p>",
+      "durationBegin": "04.06.2025",
+      "durationEnd": "04.06.2025",
+      "mapHref": "https://karte.bahn.de/detail/0538f53b-b6f0-4119-b81d-e85fd3250639",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-04/afb01cf2-0f62-4ea7-a7dd-fca77d9b8679reisendenkarte_20250604-122738.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-04/afb01cf2-0f62-4ea7-a7dd-fca77d9b8679reisendenkarte_20250604-122738.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.06.2025 12:27:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.06.2025 12:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7604bfb6-a8ed-4d99-b7a6-3dc49218f28c",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
