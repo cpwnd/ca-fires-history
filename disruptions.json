@@ -630,51 +630,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other3"
     },
     {
-      "id": "eec0cf34-0410-434d-902f-7424c5c69968",
-      "disruptionId": "3cd355e5-0816-42e9-93c0-9fd98f8f3cab",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Endmeldung: S 2 Ottenhofen",
-      "summary": "Im Bereich Ottenhofen kommt es noch zu Verspätungen von bis zu 5 Minuten.",
-      "text": "<p>Die Reparatur an der Strecke besteht aber weiterhin.</p>",
-      "durationBegin": "13.06.2025",
-      "durationEnd": "13.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/3cd355e5-0816-42e9-93c0-9fd98f8f3cab",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-13/e2e757ad-ebba-4df3-a2a9-c0fe4dac8aa3reisendenkarte_20250613-062536.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-13/e2e757ad-ebba-4df3-a2a9-c0fe4dac8aa3reisendenkarte_20250613-062536.png",
-          "info": "",
-          "alt": "Reisendenkarte 13.06.2025 06:25:36",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.06.2025 09:25",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/eec0cf34-0410-434d-902f-7424c5c69968",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
-    },
-    {
       "id": "3a8577b0-1d47-4572-99af-00b7c80a3215",
       "disruptionId": "dccb9b04-6a45-4a90-be94-dc7e99cd122a",
       "author": "S_BAHN_MUC",
