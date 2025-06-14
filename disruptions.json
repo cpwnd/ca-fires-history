@@ -61,8 +61,8 @@
       "mapHref": "https://karte.bahn.de/detail/49399448-7ed2-4b53-9efe-21ee718582dd",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-14/3cc3fbf9-8b18-4da3-a1c8-ab62ec70ef44reisendenkarte_20250614-162751.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-14/3cc3fbf9-8b18-4da3-a1c8-ab62ec70ef44reisendenkarte_20250614-162751.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-14/9aa3076d-1cb8-4d5b-a85b-34a65efe71cdreisendenkarte_20250614-162751.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-06-14/9aa3076d-1cb8-4d5b-a85b-34a65efe71cdreisendenkarte_20250614-162751.png",
           "info": "",
           "alt": "Reisendenkarte 14.06.2025 16:27:51",
           "openInNewTab": true
@@ -77,14 +77,8 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahnhof.de",
-          "label": "Lageplan des Ersatzverkehrs",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
           "info": "",
           "openInNewTab": true
         },
@@ -95,14 +89,20 @@
           "openInNewTab": true
         },
         {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
           "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
           "label": "Regionaler Kundendialog Schleswig-Holstein",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte",
+          "href": "https://bahn.de",
+          "label": "bahn.de",
           "info": "",
           "openInNewTab": true
         }
@@ -121,7 +121,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "14.06.2025 16:33",
+      "lastModified": "14.06.2025 16:38",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2887a14a-d94d-4155-a9b9-b260e196eb6a",
