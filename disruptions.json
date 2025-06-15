@@ -187,41 +187,6 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
-      "id": "39a7414b-d56b-4ec8-8562-de74eca4b673",
-      "disruptionId": "09eab4c7-eaff-4c94-8bef-e39353e733bd",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Beeinträchtigungen zwischen Salzburg und Rosenheim",
-      "summary": "Aufgrund einer technischen Störung in Traunstein zwischen Salzburg und Rosenheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch um etwa 20 Minuten",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle Züge des Fernverkehrs zwischen München und Salzburg und Gegenrichtung.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "14.06.2025",
-      "mapHref": "https://karte.bahn.de/detail/09eab4c7-eaff-4c94-8bef-e39353e733bd",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "14.06.2025 23:30",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/39a7414b-d56b-4ec8-8562-de74eca4b673",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
-    },
-    {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
       "disruptionId": "e078c847-667b-4670-b79c-67c96bee1411",
       "author": "REGIO_BY",
@@ -854,16 +819,16 @@
         "category": "technical_problem_railway_section",
         "label": "Einschränkungen auf der Strecke"
       },
-      "headline": "S 2 Ottenhofen ↔ St.-Koloman: Technischer Defekt an einem Bahnübergang",
-      "summary": "Zwischen Ottenhofen und St.-Koloman kommt es zu Verspätungen von bis zu 5 Minuten.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "headline": "Endmeldung: S 2 Ottenhofen ↔ St.-Koloman",
+      "summary": "Zwischen Ottenhofen und St.-Koloman kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Der technischer Defekt an einem Bahnübergang wurde behoben.</p>",
       "durationBegin": "15.06.2025",
       "durationEnd": "15.06.2025",
       "mapHref": "https://karte.bahn.de/detail/b3ad8829-9eec-4a3b-a539-584997b43471",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-15/0b416784-0f33-46c7-b329-d3f3ace38b3freisendenkarte_20250615-075829.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-15/0b416784-0f33-46c7-b329-d3f3ace38b3freisendenkarte_20250615-075829.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-15/85ad27eb-cc2c-4102-b7b0-9df23d5ca31ereisendenkarte_20250615-075829.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-06-15/85ad27eb-cc2c-4102-b7b0-9df23d5ca31ereisendenkarte_20250615-075829.png",
           "info": "",
           "alt": "Reisendenkarte 15.06.2025 07:58:29",
           "openInNewTab": true
@@ -884,7 +849,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.06.2025 09:14",
+      "lastModified": "15.06.2025 09:45",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
