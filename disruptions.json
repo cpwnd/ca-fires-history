@@ -735,42 +735,6 @@
       "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
     },
     {
-      "id": "60871d72-8935-48b2-9a05-5ff19bc856f3",
-      "disruptionId": "0f900793-0e46-43e9-bad4-edb564d7d739",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "Aufzug an der Station Bergedorf außer Betrieb / Elevator out of service at Bergedorf station",
-      "summary": "Bitte nutzen Sie zwischen Nettelnburg und Bergedorf die Buslinien 32, 235 oder X30 als barrierefreie Alternative. / Please use bus lines 32, 235 or X30 between Nettelnburg and Bergedorf as an accessible alternative.",
-      "text": "<p>Der Aufzug an der S-Bahn-Station Bergedorf ist aktuell außer Betrieb.</p><p>Mobilitätseingeschränkten Fahrgästen empfehlen wir, auf die barrierefreien <strong>Buslinien 32</strong>, <strong>235</strong> oder <strong>X30</strong> auszuweichen.</p><p>Diese verkehren regelmäßig zwischen <strong>Nettelnburg</strong> und <strong>Bergedorf</strong>.</p><p>Weitere Informationen zur Aufzugsverfügbarkeit finden Sie unter: www.hvv.de/aufzuege</p><p></p><p>The elevator at Nettelnburg S-Bahn station is currently out of service.</p><p>For accessible travel, we recommend using <strong>bus lines 32, 235 or X30</strong> between <strong>Nettelnburg</strong> and <strong>Bergedorf</strong>.</p><p>These buses operate regularly and offer step-free access.</p><p>For more information on elevator availability, please visit: www.hvv.de/en/lifts</p>",
-      "durationBegin": "26.06.2025",
-      "durationEnd": "04.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/0f900793-0e46-43e9-bad4-edb564d7d739",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.06.2025 16:43",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/60871d72-8935-48b2-9a05-5ff19bc856f3",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
-    },
-    {
       "id": "a266331c-4410-4a9c-8adb-e89724b99a3b",
       "disruptionId": "0c4d60f1-2564-49ee-a538-2f774e3212e0",
       "author": "REGIO_SUEDOST",
@@ -822,6 +786,73 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "05c1319b-52f2-4021-9b4d-0679baa16872",
+      "disruptionId": "e1c7447a-b80d-435e-9869-dc9adc326fd2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Stammstrecke: Reparatur an einem Signal",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "01.07.2025",
+      "durationEnd": "01.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/e1c7447a-b80d-435e-9869-dc9adc326fd2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.07.2025 15:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/05c1319b-52f2-4021-9b4d-0679baa16872",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
+    },
+    {
       "id": "6a23cf67-6c75-4129-9290-5390f1ddba4a",
       "disruptionId": "805201cb-de08-41ee-a098-c6352b3b058c",
       "author": "S_BAHN_HH",
@@ -829,8 +860,8 @@
         "category": "technical_problem_vehicle",
         "label": "Reparatur am Zug"
       },
-      "headline": "S1 und S3: Aktuell fahren keine Züge über Jungfernstieg.",
-      "summary": "Aktuell werden alle Züge derS1 und S3 über Dammtor umgeleitet. Grund: schadhafte S-Bahn",
+      "headline": "S1 und S3: Alle Züge fahren wieder über Jungfernstieg",
+      "summary": "Die Züge der S1 und S3 fahren wieder über Jungfernstieg. Es ist keine Nutzung von Alternativen mehr notwendig.",
       "text": "<p>...</p>",
       "durationBegin": "01.07.2025",
       "durationEnd": "01.07.2025",
@@ -856,7 +887,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.07.2025 15:33",
+      "lastModified": "01.07.2025 15:47",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
