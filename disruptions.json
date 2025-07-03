@@ -544,43 +544,6 @@
       "magnoliaPath": "/aktuell/bayern/reduced_service_construction"
     },
     {
-      "id": "77c784c9-99cf-45d6-8051-d101054ca16b",
-      "disruptionId": "8d1effbe-9570-452b-8c7c-791a30123875",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S3: Polizeieinsatz beendet. Die S3 fährt wieder zwischen Elbgaustraße und Pinneberg.",
-      "summary": "Es ist kein Umstieg mehr auf Busse und andere Verkehrsmittel erforderlich.",
-      "text": "<p>...</p>",
-      "durationBegin": "03.07.2025",
-      "durationEnd": "03.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/8d1effbe-9570-452b-8c7c-791a30123875",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "03.07.2025 20:33",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/77c784c9-99cf-45d6-8051-d101054ca16b",
-      "magnoliaPath": "/aktuell/nord/stop_moved_police_activity"
-    },
-    {
       "id": "7d3b970c-e9e0-4734-a510-ce81c094de43",
       "disruptionId": "2d96aa5a-26d5-473d-9737-0e24d93e60df",
       "author": "REGIO_BY",
