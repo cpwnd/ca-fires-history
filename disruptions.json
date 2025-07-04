@@ -606,6 +606,73 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "25bb38a4-b447-4189-b3bb-2a10d518f7f1",
+      "disruptionId": "cc3ddb82-367a-45ab-bf3b-8fa3154b643f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine vorangegangene ärztliche Versorgung eines Fahrgastes.</p>",
+      "durationBegin": "04.07.2025",
+      "durationEnd": "04.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/cc3ddb82-367a-45ab-bf3b-8fa3154b643f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.07.2025 12:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/25bb38a4-b447-4189-b3bb-2a10d518f7f1",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency0"
+    },
+    {
       "id": "ce066385-5504-4d7a-804a-ef39d1db5bae",
       "disruptionId": "0d51e726-c876-479f-b7dc-f4c41da89030",
       "author": "S_BAHN_MUC",
@@ -615,7 +682,7 @@
       },
       "headline": "S 6 Pasing ↔ Gauting: Reparatur an einer Weiche",
       "summary": "Zwischen Pasing und Gauting sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen der Linie S 6 wenden aktuell in Pasing und Gauting.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "text": "<p>Die S-Bahnen wenden in Pasing und Gauting.</p><p>Ein Ersatzverkehr zwischen Pasing und Gauting ist in Planung.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
       "durationBegin": "04.07.2025",
       "durationEnd": "04.07.2025",
       "mapHref": "https://karte.bahn.de/detail/0d51e726-c876-479f-b7dc-f4c41da89030",
@@ -635,7 +702,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "04.07.2025 12:19",
+      "lastModified": "04.07.2025 12:42",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
