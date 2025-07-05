@@ -112,6 +112,159 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
     },
     {
+      "id": "1bc3fc19-7874-49f6-9656-5f66c17ba6eb",
+      "disruptionId": "35843acb-4155-4555-b82e-065cb647c058",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Nürnberg Hbf - Bamberg",
+      "summary": "Brandschäden nach Feuerwehreinsatz an der Strecke / Streckensperrung / Massive Beeinträchtigungen / Ersatzverkehr eingerichtet",
+      "text": "<p>Aufgrund von Brandschäden nach einem Feuerwehreinsatz an der Strecke zwischen<strong> Forchheim(Oberfr) und Bamberg</strong> ist dieser Streckenabschnitt <strong>bis vsl. Donnerstagmorgen, den 10. Juli 2025 gesperrt</strong>.</p><p>Die Regionalzüge verkehren nicht zwischen Nürnberg Hbf - Bamberg. Die Züge der S-Bahnlinie S1 aus Richtung Nürnberg Hbf enden vorzeitig in Forchheim(Oberfr).</p><p><strong>** Zwischen Forchheim(Oberfr) und Bamberg ist ein Ersatzverkehr mit Bussen eingerichtet . </strong></p><p><strong>Die Busse verkehren ohne Zwischenhalt direkt zwischen Bamberg und Forchheim, da aufgrund von Straßenbauarbeiten an den Bahnhöfen in Strullendorf, Hirschaid, Buttenheim, Eggolsheim und Forchheim Nord die Haltestellen dort nicht angefahren werden können.</strong></p><p><strong>Für diese Zwischenhalte werden Großraumtaxis eingesetzt.</strong><strong> **</strong></p><p>Rechnen Sie bitte aufgrund des Ersatzverkehrs mit einer erheblichen Fahrzeitverlängerung zwischen Nürnberg Hbf - Bamberg.</p><p><strong>Bitte beachten Sie, es kommt zu einer hohen Auslastung des Ersatzverkehrs zwischen Forchheim(Oberfr) und Bamberg. </strong></p><p>++ Reisende zwischen Nürnberg Hbf - Schweinfurt Hbf und Bamberg nutzen bitte auch die <strong>Fahrtmöglichkeiten über</strong> <strong>Würzburg Hbf </strong>(RE10: Nürnberg Hbf - Würzburg Hbf) nach Schweinfurt Hbf / Bamberg. ++</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "durationBegin": "04.07.2025",
+      "durationEnd": "10.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/35843acb-4155-4555-b82e-065cb647c058",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-07-05/0fd4eb5d-f63e-4d12-b534-5d43fbecc556reisendenkarte_20250704-183052.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-07-05/0fd4eb5d-f63e-4d12-b534-5d43fbecc556reisendenkarte_20250704-183052.png",
+          "info": "",
+          "alt": "Reisendenkarte 04.07.2025 18:30:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus EV",
+          "filterName": "Bus EV",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 12",
+          "filterName": "RB 12 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB S6",
+          "filterName": "RB S6 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 10",
+          "filterName": "RE 10",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14",
+          "filterName": "RE 14",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 19",
+          "filterName": "RE 19",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 28",
+          "filterName": "RE 28",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 29",
+          "filterName": "RE 29",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 Nürnberg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Nürnberg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.07.2025 07:24",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1bc3fc19-7874-49f6-9656-5f66c17ba6eb",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_police_activity1"
+    },
+    {
+      "id": "450277f1-ea03-416c-bfbe-6671f44a83d2",
+      "disruptionId": "8befa177-53f5-4650-8996-b7e7239e4800",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Zugausfälle im Raum Frankfurt(Main)",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Ausfall von Stellwerkspersonal.",
+      "text": "<strong>🚆Betroffene Linie(n):</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S3: Bad Soden(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S4: Kronberg(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main) Süd</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li></ul><p></p><strong>🗓️Zeitraum:</strong><ul><li>Am 05.07.2025 ab ca. 20:00 Uhr bis zum 06.07.2025, 06:00 Uhr</li></ul><p></p><strong>⚠️Beeinträchtigungen:</strong><ul><li>Auf der S1, S3 und S4 ist kein Betrieb möglich.</li><li>Die S5 fällt zwischen Frankfurt Hbf (tief) - Frankfurt(M)Konstablerwache - Frankfurt(Main)Süd aus</li><li>Die Züge der Linie S6 mit ursprünglichem Fahrtziel Frankfurt(Main)Süd enden und beginnen in Langen(Hess).</li></ul><p></p><strong>↪️Empfehlungen und 🚍Ersatzverkehr:</strong><ul><li>S1: Nutzen Sie die Züge der S2 zwischen Frankfurt-Höchst und Frankfurt Hbf (tief)</li><li>S3: Wir haben für Sie einen Ersatzverkehr mit 3 Bussen der Firma Holiday Reisen GmbH zwischen Bad Soden(Taunus) und Frankfurt-Rödelheim eingerichtet.</li><li>S4: Wir haben für Sie einen Ersatzverkehr mit 5 Bussen der Firma Holiday Reisen GmbH zwischen Kronberg(Taunus) und Frankfurt(Main)Hbf eingerichtet.</li><li>S5: Nutzen Sie die Züge der S6 zwischen Frankfurt Hbf (tief) und Frankfurt(Main)Süd</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong></p>",
+      "durationBegin": "05.07.2025",
+      "durationEnd": "06.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/8befa177-53f5-4650-8996-b7e7239e4800",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.07.2025 07:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/450277f1-ea03-416c-bfbe-6671f44a83d2",
+      "magnoliaPath": "/aktuell/hessen/massive_impairment_other_cause0"
+    },
+    {
       "id": "47dfc12e-e605-4a7b-a1dd-a9eb0a77a7a6",
       "disruptionId": "6515eadd-3426-4477-8c93-8def29402997",
       "author": "S_BAHN_MUC",
