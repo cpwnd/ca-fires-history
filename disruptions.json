@@ -50,51 +50,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "13abfe01-4b2c-44dc-bb8d-b6fb619d3917",
-      "disruptionId": "3d0d9452-bc89-4401-9368-58a8f942e2a9",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Hamburg und Hannover",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Unterlüß und Eschede  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Verspätungen von 30 Min. Die Halte Lüneburg, Uelzen und Celle können entfallen\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC- und ICE- Züge zwischen Hamburg und Hannover</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "10.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/3d0d9452-bc89-4401-9368-58a8f942e2a9",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-10/bf3cd1aa-aa67-4b00-ab8a-95648e6b0cf1Reisendenkarte%2BCelle%2B-%2BUelzen.png",
-          "label": "Reisendenkarte Celle - Uelzen.png",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "11.07.2025 00:00",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/13abfe01-4b2c-44dc-bb8d-b6fb619d3917",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
       "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
       "author": "FERNVERKEHR_AG",
@@ -416,48 +371,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_police_activity1"
     },
     {
-      "id": "4984f186-cd9b-4482-a8cf-ccdbc63d674d",
-      "disruptionId": "c872bb9d-777e-4a67-bfbe-9232eda5d14f",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Beeinträchtigungen zwischen Fulda und Kassel-Wilhelmshöhe",
-      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Fulda und Kassel-Wilhelmshöhe kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen und Verspätungen bis zu 30 Minuten.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE- und IC-Züge zwischen Hamburg/Berlin und Stuttgart/Karlsruhe/Schweiz/München</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "10.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/c872bb9d-777e-4a67-bfbe-9232eda5d14f",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-10/ac284ef5-ce31-4366-9aa0-cdd645df33b3Reisendenkarte%2BFulda%2B-%2BKassel.png",
-          "label": "Reisendenkarte Fulda - Kassel.png",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "10.07.2025 20:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/4984f186-cd9b-4482-a8cf-ccdbc63d674d",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
-    },
-    {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
       "disruptionId": "e078c847-667b-4670-b79c-67c96bee1411",
       "author": "REGIO_BY",
@@ -674,6 +587,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "2b2e60ea-7800-4718-98cd-a8b5e417b1aa",
+      "disruptionId": "44daa523-b65c-4837-b487-cc894f7e8a98",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 2 Dachau ↔ Ostbahnhof: Reparatur an der Strecke",
+      "summary": "Heute Vormittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 2 Ostbahnhof → Dachau&nbsp;</strong></p><ul><li>S 2 <strong> </strong>Ostbahnhof Abfahrt 06:06 Uhr → Dachau Bahnhof Ankunft 06:41 Uhr&nbsp;</li><li>S 2  Ostbahnhof Abfahrt 06:46 Uhr → Dachau Bahnhof Ankunft 07:21 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 07:06 Uhr → Dachau Bahnhof Ankunft 07:41 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 08:06 Uhr → Dachau Bahnhof Ankunft 08:41 Uhr&nbsp;</li></ul><p><strong>S 2 Dachau → Ostbahnhof </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 07:19 Uhr → Ostbahnhof Ankunft 07:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 07:39 Uhr → Ostbahnhof Ankunft 08:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:19 Uhr → Ostbahnhof Ankunft 08:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:39 Uhr → Ostbahnhof Ankunft 09:10 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "11.07.2025",
+      "durationEnd": "11.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/44daa523-b65c-4837-b487-cc894f7e8a98",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "11.07.2025 04:17",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2b2e60ea-7800-4718-98cd-a8b5e417b1aa",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section3"
     },
     {
       "id": "7d3b970c-e9e0-4734-a510-ce81c094de43",
