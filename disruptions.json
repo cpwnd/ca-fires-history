@@ -95,6 +95,52 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
+      "id": "6bfcd6ee-07f0-4131-82bc-2606d0371ff9",
+      "disruptionId": "960c3446-d0e4-48d8-bc21-8cfa9e3e616f",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "//Auswirkungen //Störungsgebiet",
+      "summary": "Aufgrund einer Reparatur an der Strecke zwischen Hamburg Hbf und Ahrensburg kommt es zu Beeinträchtigungen auf der Linie RB 81. Verspätungen und Teilausfälle möglich. Bitte prüfen Sie Ihre Reiseverbindung vor Abfahrt des Zuges.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>XY</li><li>XY</li></ul><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Folgen Sie auch der DB Regio Schleswig-Holstein auf X (ehemals Twitter ).&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "08.07.2025",
+      "durationEnd": "13.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/960c3446-d0e4-48d8-bc21-8cfa9e3e616f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-07-12/f098473c-fa6d-4d23-a644-afe9835bf886reisendenkarte_20250708-141624.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-07-12/f098473c-fa6d-4d23-a644-afe9835bf886reisendenkarte_20250708-141624.png",
+          "info": "",
+          "alt": "Reisendenkarte 08.07.2025 14:16:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RB 81",
+          "filterName": "RB 81",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.07.2025 07:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6bfcd6ee-07f0-4131-82bc-2606d0371ff9",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "be518a39-ff3a-4b93-8a43-a4c4b3ba4d94",
       "disruptionId": "813b8845-c808-4423-89d0-c116f457566c",
       "author": "REGIO_NORDOST",
@@ -840,15 +886,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 4 Geltendorf ↔ Fürstenfeldbruck : Reparatur an einem Signal",
-      "summary": "UPDATE: Zwischen Geltendorf und Fürstenfeldbruck  kommt es in beiden Richtungen zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
+      "summary": "UPDATE: Zwischen Geltendorf und Fürstenfeldbruck  kommt es in beiden Richtungen zu Verspätungen von bis zu 30 Minuten und Teilausfällen.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "12.07.2025",
       "durationEnd": "12.07.2025",
       "mapHref": "https://karte.bahn.de/detail/83b5a1d9-16a7-497c-8e40-9a51e1be44d1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-12/7105086d-3590-4054-bdc4-72ac8bb3219ereisendenkarte_20250712-060744.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-12/7105086d-3590-4054-bdc4-72ac8bb3219ereisendenkarte_20250712-060744.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-12/77321065-dbcd-437e-918f-d0c1639214ecreisendenkarte_20250712-060744.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-12/77321065-dbcd-437e-918f-d0c1639214ecreisendenkarte_20250712-060744.png",
           "info": "",
           "alt": "Reisendenkarte 12.07.2025 06:07:44",
           "openInNewTab": true
@@ -869,7 +915,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.07.2025 06:43",
+      "lastModified": "12.07.2025 07:40",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
