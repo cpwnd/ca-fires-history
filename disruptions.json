@@ -2,6 +2,44 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "ab5e10d1-787d-4b3a-968b-3d0f60d8ae64",
+      "disruptionId": "b58bb8a8-eb5b-4cd8-ac93-7cf563f1a66c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Köln und Frankfurt Flughafen",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Siegburg und Montabaur kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen und Verspätungen von etwa 45 Min..\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle ICE-Züge zwischen Köln und Frankfurt Flughafen</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "14.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/b58bb8a8-eb5b-4cd8-ac93-7cf563f1a66c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "14.07.2025 12:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/ab5e10d1-787d-4b3a-968b-3d0f60d8ae64",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
       "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
       "author": "FERNVERKEHR_AG",
@@ -706,51 +744,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
-    },
-    {
-      "id": "08ee0dbb-dc78-481a-9579-398690caedd3",
-      "disruptionId": "a14a9290-d609-4dec-b4aa-7092b86e4e78",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Beschädigung einer Brücke"
-      },
-      "headline": "Endmeldung: S 2 Obermenzing ↔ Allach",
-      "summary": "Die Züge können wieder zwischen Obermenzing und Allach fahren. Der Ersatzverkehr mit den Großraumtaxis endet mit 13:00 Uhr.",
-      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Die Brücke wurde begutachtet und ist wieder uneingeschränkt befahrbar.</p>",
-      "durationBegin": "14.07.2025",
-      "durationEnd": "14.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/a14a9290-d609-4dec-b4aa-7092b86e4e78",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-14/a5635bf1-fc15-42cd-b56e-bf97e3774a15reisendenkarte_20250714-114810.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-14/a5635bf1-fc15-42cd-b56e-bf97e3774a15reisendenkarte_20250714-114810.png",
-          "info": "",
-          "alt": "Reisendenkarte 14.07.2025 11:48:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.07.2025 12:46",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/08ee0dbb-dc78-481a-9579-398690caedd3",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
