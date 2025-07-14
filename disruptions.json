@@ -834,9 +834,9 @@
         "category": "technical_problem_railway_section",
         "label": "Defektes Stellwerk"
       },
-      "headline": "S 4, S 5, S 6, S 8 Pasing ↔ Geltendorf/Tutzing/Herrsching: Defektes Stellwerk",
+      "headline": "Endmeldung: S 4, S 5, S 6, S 8 Pasing ↔ Geltendorf/Tutzing/Herrsching",
       "summary": "Auf der S 4 zwischen Geltendorf und Pasing, auf der S 6 zwischen Westkreuz und Tutzing und auf der S 5 und S 8 zwischen Westkreuz und Herrsching sind Zugfahrten wieder möglich.",
-      "text": "<p>Die S-Bahnen der Linien <strong>S 6</strong> beginnen/enden am <strong>Westkreuz</strong>.</p><p><strong>Wir haben für Sie einen Ersatzverkehr in den betroffenen Abschnitten eingerichtet. Bitte nutzen sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</strong></p><p><strong>Update:</strong></p><ul><li><strong>Die S-Bahnen der Linie S 4 verkehrt wieder zwischen Pasing und Geltendorf. Es kommt noch zu großen Verspätungen und vereinzelten Zugausfällen.</strong></li><li><strong>Die S-Bahnen der Linie S 5 verkehrt wieder zwischen Giesing und Germering-Unterpfaffenhofen. Es kommt noch zu vereinzelten Zugausfällen.</strong></li><li><strong>Die S-Bahnen der Linie S 8 verkehrt wieder zwischen Westkreuz und Herrsching. Es kommt noch zu großen Verspätungen und vereinzelten Zugausfällen.</strong></li></ul><p>Das defekte Stellwerk ist behoben.</p>",
+      "text": "<p>Die S-Bahnen der Linie S 4 verkehrt wieder zwischen Pasing und Geltendorf. Es kommt noch zu großen Verspätungen und vereinzelten Zugausfällen.</p><p>Die S-Bahnen der Linie S 5 verkehrt wieder zwischen Giesing und Germering-Unterpfaffenhofen. Es kommt noch zu vereinzelten Zugausfällen.</p><p>Die S-Bahnen der Linie S 8 verkehrt wieder zwischen Westkreuz und Herrsching. Es kommt noch zu großen Verspätungen und vereinzelten Zugausfällen.</p><p>Die S-Bahnen der Linie S 6 verkehrt wieder zwischen Westkreuz und Tutzing. Es kommt noch zu großen Verspätungen und vereinzelten Zugausfällen.</p><p>Der Ersatzverkehr auf allen Linien läuft 16 Uhr aus.</p><p>Das defekte Stellwerk wurde repariert.</p>",
       "durationBegin": "14.07.2025",
       "durationEnd": "14.07.2025",
       "mapHref": "https://karte.bahn.de/detail/6bca6f39-3cf0-46d0-b188-f97d98721d2d",
@@ -850,6 +850,11 @@
         "BY"
       ],
       "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
         {
           "name": "S 4",
           "filterName": "S 4 München",
@@ -871,7 +876,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.07.2025 15:29",
+      "lastModified": "14.07.2025 15:40",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
