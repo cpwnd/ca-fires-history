@@ -150,6 +150,44 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
+      "id": "83f30f82-6a74-44e6-9a7d-7e2e35dcb588",
+      "disruptionId": "57316827-3ab3-4654-8397-bbe5996aa529",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S5: Technische Störung am Gleis beendet. Die S5 mit Start oder Ziel Buxtehude fährt wieder durch. ",
+      "summary": "Es ist kein Umstieg mehr erforderlich.",
+      "text": "<p>   </p>",
+      "durationBegin": "23.07.2025",
+      "durationEnd": "23.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/57316827-3ab3-4654-8397-bbe5996aa529",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.07.2025 10:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/83f30f82-6a74-44e6-9a7d-7e2e35dcb588",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section0"
+    },
+    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
