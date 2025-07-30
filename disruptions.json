@@ -206,7 +206,7 @@
       },
       "headline": "Verspätungen und Abweichungen vom Fahrplan",
       "summary": "Aktuell kommt es auf der Linie S1 zu Abweichungen vom Fahrplan und Verspätungen von bis zu 15 Minuten. Wir arbeiten mit Hochdruck daran, dass die S-Bahnen bald wieder nach Plan fahren. Grund: Bahnübergangsstörung ",
-      "text": "<p>Weitere Informationen werden aktuell zusammengestellt...</p>",
+      "text": "<p></p>",
       "durationBegin": "30.07.2025",
       "durationEnd": "30.07.2025",
       "mapHref": "https://karte.bahn.de/detail/7707ea3f-28bf-4b96-b444-309265520045",
@@ -227,7 +227,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "30.07.2025 07:21",
+      "lastModified": "30.07.2025 07:51",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -945,6 +945,51 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "eced153d-f40e-4cab-ab76-d1d361cebaba",
+      "disruptionId": "e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7: Reparatur an einem Signal",
+      "summary": "Weiterhin kommt es auf der Linie S 7 in beiden Richtungen zu Verspätungen und Teilausfällen. Die S-Bahnen der Linie S 7 verkehren im 20/20/40 Minuten Takt zwischen München Hauptbahnhof und Wolfratshausen.",
+      "text": "<p></p><p>Der Grund hierfür ist eine Reparatur an einem Signal bei Mittersendling.</p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Informationen zur Dauer der Beeinträchtigungen liegen uns derzeit nicht vor.</p>",
+      "durationBegin": "28.07.2025",
+      "durationEnd": "30.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-30/80ae367f-c12e-41a5-b2d4-9fb284d726a0reisendenkarte_20250728-061553.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-30/80ae367f-c12e-41a5-b2d4-9fb284d726a0reisendenkarte_20250728-061553.png",
+          "info": "",
+          "alt": "Reisendenkarte 28.07.2025 06:15:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.07.2025 07:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/eced153d-f40e-4cab-ab76-d1d361cebaba",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
+    },
+    {
       "id": "51d411b2-7ddb-4bd6-9773-7b7b29d20715",
       "disruptionId": "24d5a745-ea91-4132-b471-930e216f70c8",
       "author": "FERNVERKEHR_AG",
@@ -986,51 +1031,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/51d411b2-7ddb-4bd6-9773-7b7b29d20715",
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
-    },
-    {
-      "id": "eced153d-f40e-4cab-ab76-d1d361cebaba",
-      "disruptionId": "e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 7: Reparatur an einem Signal",
-      "summary": "Weiterhin kommt es auf der Linie S 7 in beiden Richtungen zu Verspätungen und Teilausfällen. Die S-Bahnen der Linie S 7 verkehren im 20/20/40 Minuten Takt zwischen München Hauptbahnhof und Wolfratshausen.",
-      "text": "<p></p><p>Der Grund hierfür ist eine Reparatur an einem Signal bei Mittersendling.</p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Informationen zur Dauer der Beeinträchtigungen liegen uns derzeit nicht vor.</p>",
-      "durationBegin": "28.07.2025",
-      "durationEnd": "30.07.2025",
-      "mapHref": "https://karte.bahn.de/detail/e5fb8e44-d82c-4526-94ac-d9421b6e58ed",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-30/51e0fbba-d069-4e03-a36b-24cef1208215reisendenkarte_20250728-061553.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-30/51e0fbba-d069-4e03-a36b-24cef1208215reisendenkarte_20250728-061553.png",
-          "info": "",
-          "alt": "Reisendenkarte 28.07.2025 06:15:53",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.07.2025 02:02",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/eced153d-f40e-4cab-ab76-d1d361cebaba",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section15"
     },
     {
       "id": "b9aa7b65-be4d-4bb5-9644-0db20f118292",
