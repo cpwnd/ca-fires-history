@@ -197,6 +197,52 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
+      "id": "a675698f-791c-47e0-b645-7d4f5ac32adf",
+      "disruptionId": "9abda751-bd06-42ac-b8fd-a8bbdd951d04",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Stuttgart und Ulm",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Stuttgart und Ulm kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge verkehren in Umleitung über die Altbaustrecke, Umleitungsverspätung vsl. 15 Minuten.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Linie (Berlin – Leipzig – Erfurt – Frankfurt (M) – Mannheim – Stuttgart – München)</li><li>ICE-Linie (Dortmund – Köln Messe/Deutz – Frankfurt (M) Flugh Fernbf – Stuttgart – München)</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.07.2025",
+      "durationEnd": "30.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/9abda751-bd06-42ac-b8fd-a8bbdd951d04",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-30/5ef2fb21-d576-4b19-afe3-316c6efbdc95reisendenkarte_20250730-154350.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-30/5ef2fb21-d576-4b19-afe3-316c6efbdc95reisendenkarte_20250730-154350.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.07.2025 15:43:50",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.07.2025 15:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a675698f-791c-47e0-b645-7d4f5ac32adf",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -356,6 +402,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
+    },
+    {
+      "id": "3ea75b93-951e-4346-be0c-ef8980939349",
+      "disruptionId": "32da76a7-f87e-45ee-894f-af68f438cc42",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Reparatur an einem Signal zwischen Wendlingen(Neckar) und Ulm",
+      "summary": "Bitte rechnen Sie mit Verspätungen, Ausfällen und Teilausfällen. Über die Dauer der Beeinträchtigung liegen uns noch keine Informationen vor. Bitte prüfen Sie auch andere Verbindungen, um an Ihr Reiseziel zu gelangen.",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RE 200 (Wendlingen – Ulm) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "30.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/32da76a7-f87e-45ee-894f-af68f438cc42",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-30/2041520f-d144-4abd-8b44-a975eb636418reisendenkarte_20250730-151244.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-30/2041520f-d144-4abd-8b44-a975eb636418reisendenkarte_20250730-151244.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.07.2025 15:12:44",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 200",
+          "filterName": "RE 200",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "30.07.2025 15:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3ea75b93-951e-4346-be0c-ef8980939349",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section1"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
@@ -614,14 +703,14 @@
       },
       "headline": "S 2 Feldkirchen ↔ Markt Schwaben: Reparatur an einer Weiche",
       "summary": "Zwischen Feldkirchen und Markt Schwaben sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen in Richtung Erding wenden in Feldkirchen.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Markt Schwaben und Erding eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Zwischen Marktschwaben und Erding besteht ein S-Bahn Pendelverkehr.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 20 Minuten.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "text": "<p>Die S-Bahnen in Richtung Erding wenden in Feldkirchen.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Feldkirchen und Markt Schwaben eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Zwischen Markt Schwaben und Erding besteht ein S-Bahn Pendelverkehr.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 20 Minuten.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
       "durationBegin": "30.07.2025",
       "durationEnd": "30.07.2025",
       "mapHref": "https://karte.bahn.de/detail/172df7bb-02c0-44ba-8d27-9daddf73968e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-30/fe520b68-7481-44fc-a618-4980cb86c780reisendenkarte_20250730-144620.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-30/fe520b68-7481-44fc-a618-4980cb86c780reisendenkarte_20250730-144620.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-30/12fa8c8f-89a3-4921-9cab-2817092aeee4reisendenkarte_20250730-144620.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-07-30/12fa8c8f-89a3-4921-9cab-2817092aeee4reisendenkarte_20250730-144620.png",
           "info": "",
           "alt": "Reisendenkarte 30.07.2025 14:46:20",
           "openInNewTab": true
@@ -642,7 +731,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "30.07.2025 14:48",
+      "lastModified": "30.07.2025 15:06",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -735,6 +824,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a376a7c6-a02c-48ab-8f50-333b56ea25df",
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_vehicle"
+    },
+    {
+      "id": "937976f1-1e83-4ad4-aa72-6c88303944f2",
+      "disruptionId": "ede1cc8d-8361-47ad-bc83-1f5e560c53ed",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "S1: Oberleitungsschaden zwischen Wendlingen und Plochingen. Es kommt zu Verspätungen und Ausfällen.",
+      "summary": "Die Strecke zwischen Plochingen und Wendlingen ist für den Zugverkehr in beiden Richtungen gesperrt. Die Züge der Linie S1 verkehren aktuell nur zwischen Kirchheim(T) und Wendlingen sowie, Plochingen und Stuttgart Hbf.(oben). Grund dafür ist ein Oberleitungsschaden in diesem Bereich. ",
+      "text": "<p>Bitte informieren Sie sich vor Fahrtantritt in der digitalen Reiseauskunft und planen Sie gegebenenfalls mehr Reisezeit ein. Achten Sie zudem auf die aktuellen Lautsprecherdurchsagen und Anzeigen am Bahnsteig.</p>",
+      "durationBegin": "30.07.2025",
+      "durationEnd": "30.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/ede1cc8d-8361-47ad-bc83-1f5e560c53ed",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-30/f2f35f8c-ad00-449d-b01a-397deb39f8fbreisendenkarte_20250730-145417.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2025-07-30/f2f35f8c-ad00-449d-b01a-397deb39f8fbreisendenkarte_20250730-145417.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.07.2025 14:54:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.07.2025 14:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/937976f1-1e83-4ad4-aa72-6c88303944f2",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/stop_moved_technical_problem_railway_section"
     },
     {
       "id": "3efb91e0-10aa-4cfe-a4eb-f4f73eb12954",
