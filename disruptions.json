@@ -70,7 +70,7 @@
       },
       "headline": "Verspätungen, Ausfälle und abweichende Wendungen auf allen Linien",
       "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
-      "text": "<p>Die S2 fährt aktuell nur zwischen Aumühle/Bergedorf und Hauptbahnhof.</p><p>Die S5 fährt aktuell nur zwischen Stade/Neugraben und Hammerbrook.</p><p></p><p><strong>Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Siganlstörung</strong></p>",
+      "text": "<p>Die S5 fährt aktuell nur zwischen Stade/Neugraben und Hammerbrook.</p><p><strong>Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Signalstörung</strong></p>",
       "durationBegin": "31.07.2025",
       "durationEnd": "31.07.2025",
       "mapHref": "https://karte.bahn.de/detail/3e3120c4-4975-45ec-bf1d-99e94930381c",
@@ -107,7 +107,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "31.07.2025 14:49",
+      "lastModified": "31.07.2025 16:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -520,8 +520,8 @@
       "disruptionId": "28149e3b-a0b0-4714-85f5-c4df4762a22a",
       "author": "S_BAHN_HH",
       "cause": {
-        "category": "technical_problem_it",
-        "label": "IT-Störung"
+        "category": "other_cause",
+        "label": "Information"
       },
       "headline": "Aktuelle Information zu den Fahrgastinformationssystemen",
       "summary": "Bitte haben Sie Verständnis, dass in den nächsten Tagen die Fahrgastinformationssysteme nicht immer aktuell sein werden. Nicht alle Daten können aktuell in Echtzeit eingepflegt werden. ",
@@ -533,19 +533,34 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "HH"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "31.07.2025 15:55",
+      "lastModified": "31.07.2025 16:02",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
