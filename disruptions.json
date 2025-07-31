@@ -102,6 +102,49 @@
       "magnoliaPath": "/aktuell/mitte/additional_service_construction0"
     },
     {
+      "id": "373668e6-385f-4437-bbf6-d583a1b6017c",
+      "disruptionId": "319d79c7-b9ed-4fa0-a8d1-81409c322f8a",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Bonn und Köln",
+      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Bonn und Köln kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 60 Minuten.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-, IC- und EC-Züge zwischen Ruhrgebiet - Köln und Koblenz - Süddeutschland/Österreich/Schweiz</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "31.07.2025",
+      "mapHref": "https://karte.bahn.de/detail/319d79c7-b9ed-4fa0-a8d1-81409c322f8a",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-07-31/54e2453d-a76d-43c0-a707-05274acb647eKB%2B-%2BKK.jpg",
+          "label": "KB - KK.jpg",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "31.07.2025 08:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/373668e6-385f-4437-bbf6-d583a1b6017c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "a23f16b8-77b0-4389-ab8c-4b999f120ba1",
       "disruptionId": "d1458134-6398-4601-a67a-d7d011e32504",
       "author": "FERNVERKEHR_AG",
@@ -354,8 +397,8 @@
       "mapHref": "https://karte.bahn.de/detail/0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-31/d23cb238-834f-40c8-adf4-0f71ad903b8freisendenkarte_20250728-133854.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-31/d23cb238-834f-40c8-adf4-0f71ad903b8freisendenkarte_20250728-133854.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-31/885ef14d-a0a5-46ba-814a-6aced88bb842reisendenkarte_20250728-133854.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-31/885ef14d-a0a5-46ba-814a-6aced88bb842reisendenkarte_20250728-133854.png",
           "info": "",
           "alt": "Reisendenkarte 28.07.2025 13:38:54",
           "openInNewTab": true
@@ -363,13 +406,13 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-31/e69103db-6666-4c0f-8238-7874db178070Bus%2BErsatzfahrplan%2BMunderkingen-Herbertingen%2Bab%2B04.08..pdf",
-          "label": "🚍 Bus Ersatzfahrplan Munderkingen-Herbertingen ab 04.08.",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-31/fd6982d3-e21e-4605-a44b-2c7674515777Bus%2BErsatzfahrplan%2BMunderkingen-Herbertingen%2Bab%2B04.08..pdf",
+          "label": "🚍 Bus Ersatzfahrplan ab 04.08 Munderkingen-Herbertingen",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-31/80dc7d5a-43ef-45bd-9e30-a7e68e78a42eBus%2BErsatzfahrplan%2BMunderkingen-Herbertingen%2Bab%2B29.07..pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-07-31/c3636535-7412-4e63-be37-80f7a1c9c239Bus%2BErsatzfahrplan%2BMunderkingen-Herbertingen%2Bab%2B29.07..pdf",
           "label": "🚍 Bus Ersatzfahrplan ab 29.7. Munderkingen-Herbertingen ",
           "info": "",
           "openInNewTab": true
@@ -377,14 +420,14 @@
       ],
       "links": [
         {
-          "href": "https://www.bahn.de/service/fahrplaene/1147b7a7-39b3-4f5e-b6ab-9eec61aaa47d",
-          "label": "Bauarbeiten vom 01.08., 22 Uhr bis 3.08.",
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
+          "href": "https://www.bahn.de/service/fahrplaene/1147b7a7-39b3-4f5e-b6ab-9eec61aaa47d",
+          "label": "Bauarbeiten vom 01.08., 22 Uhr bis 3.08.",
           "info": "",
           "openInNewTab": true
         }
@@ -402,7 +445,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "31.07.2025 02:01",
+      "lastModified": "31.07.2025 08:58",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
