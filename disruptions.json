@@ -1068,18 +1068,18 @@
         "category": "technical_problem_railway_section",
         "label": "Defektes Stellwerk"
       },
-      "headline": "S 5 Abweichende Linienführung: Defektes Stellwerk",
-      "summary": "Zwischen Herrsching und Westkreuz ist keine Zugfahrt möglich. \nDie Linien S 5 und S 8  fahren abweichend der regulären Linienführung wie folgt:",
-      "text": "<p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><p>Die S 5 verkehrt nur zwischen <strong>Kreuzstraße </strong>↔ <strong>Giesing.</strong></p><p><strong>Alternative:</strong></p><p>Giesing ↔ Pasing: <strong>S3</strong> Richtung Mammendorf</p><p><strong>S 8 Flughafen ↔ Herrsching</strong></p><p>Die S 8 verkehrt nur zwischen <strong>Pasing ↔ Flughafen</strong></p><p>Für die S 8 <strong>Pasing ↔ Herrsching</strong> </p><p>Wir haben für Sie einen Ersatzverkehr mit einem Bus und Großraumtaxis zwischen Pasing und Herrsching eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p></p><p>Es ist mit Verspätungen und zusätzlichen Teilausfällen zu rechnen.</p><p></p><p></p><p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "headline": "Endmeldung: S 8 Herrsching ↔ Westkreuz / Folgemeldung S 5",
+      "summary": "Die Züge können wieder zwischen Herrsching und Westkreuz fahren.",
+      "text": "<p>Der Ersatzverkehr mit einem Bus und Großraumtaxis wird 16:00 Uhr eingestellt.</p><p>Auf den Linien S 5 und S8 kommt es zu keinen Beeinträchtigungen mehr.</p><p>Das defekte Stellwerk wurde repariert.</p>",
       "durationBegin": "01.08.2025",
       "durationEnd": "01.08.2025",
       "mapHref": "https://karte.bahn.de/detail/92ab1d87-6810-45cc-97b8-facbb64c60a8",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-01/8b2a3ec5-af89-463f-ae30-71ec1c699d4areisendenkarte_20250801-145642.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-01/8b2a3ec5-af89-463f-ae30-71ec1c699d4areisendenkarte_20250801-145642.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-01/09d02123-5e90-42c2-9be6-5001b9bab53breisendenkarte_20250801-155016.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-01/09d02123-5e90-42c2-9be6-5001b9bab53breisendenkarte_20250801-155016.png",
           "info": "",
-          "alt": "Reisendenkarte 01.08.2025 14:56:42",
+          "alt": "Reisendenkarte 01.08.2025 15:50:16",
           "openInNewTab": true
         }
       ],
@@ -1096,14 +1096,9 @@
           "name": "S 5",
           "filterName": "S 5 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "01.08.2025 14:59",
+      "lastModified": "01.08.2025 15:53",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
