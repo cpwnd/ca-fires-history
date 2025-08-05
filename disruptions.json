@@ -14,7 +14,15 @@
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>Einzelne ICE-Züge der Verbindung Köln - Wuppertal - Hannover - Berlin</li><li>IC-Züge der Verbindung Amsterdam - Bad Bentheim - Hannover - Berlin</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "04.08.2025",
       "mapHref": "https://karte.bahn.de/detail/df94f274-91da-404a-90e2-889606c4499b",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-05/460d18d6-76c5-49f3-add6-6347cf04b18creisendenkarte_20250805-060539.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-08-05/460d18d6-76c5-49f3-add6-6347cf04b18creisendenkarte_20250805-060539.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.08.2025 06:05:39",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -32,7 +40,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "05.08.2025 05:54",
+      "lastModified": "05.08.2025 06:07",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aead2d79-c055-450a-9d67-b51883cae49a",
@@ -502,43 +510,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
-    },
-    {
-      "id": "ab728e19-533d-4eb2-9ccf-880294b1c24d",
-      "disruptionId": "889238c6-8e23-4915-acd5-7ba3f964f332",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Teilausfälle zwischen Offenbach(Main)Hbf und Offenbach(Main)Ost",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆Betroffene Linie:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li></ul><p></p><strong>🗓️Zeitraum:</strong><ul><li>Am 04.08.25 ab ca. 15:00 Uhr bis vsl. 05.08.25, 06:00 Uhr.</li><li>Am 05.08.25 ab ca. 20:00 Uhr bis vsl. 06.08.25, 06:00 Uhr.</li></ul><p></p><strong>⚠️Beeinträchtigungen:</strong><ul><li>Die Züge mit ursprünglichem Fahrtziel und -beginn in Offenbach(Main)Hbf wenden in Offenbach(Main)Ost.</li></ul><p></p><strong>↪️Empfehlungen und 🚍Ersatzverkehr:</strong><ul><li>Unsere Empfehlung: Nutzen Sie die S8 zwischen Offenbach(Main)Hbf und Offenbach(Main)Ost.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>+49 69 244 457 10</strong></p>",
-      "durationBegin": "04.08.2025",
-      "durationEnd": "05.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/889238c6-8e23-4915-acd5-7ba3f964f332",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.08.2025 14:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ab728e19-533d-4eb2-9ccf-880294b1c24d",
-      "magnoliaPath": "/aktuell/hessen/impairment_other_cause0"
     },
     {
       "id": "bb153961-8c37-447d-90b8-f35f0dd03e5f",
