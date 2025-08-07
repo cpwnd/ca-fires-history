@@ -1254,6 +1254,126 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "a8032c42-2b50-4c58-bb2a-a21ec2fe84ee",
+      "disruptionId": "b0c271c4-9f0c-49fb-aa2e-cd57a7bb3c43",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Stammstrecke: Technische Störung an einem Zug",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "07.08.2025",
+      "durationEnd": "07.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/b0c271c4-9f0c-49fb-aa2e-cd57a7bb3c43",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/88eda702-fac8-48c3-853a-1ccf963c0f78reisendenkarte_20250807-173937.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/88eda702-fac8-48c3-853a-1ccf963c0f78reisendenkarte_20250807-173937.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.08.2025 17:39:37",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.08.2025 17:41",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a8032c42-2b50-4c58-bb2a-a21ec2fe84ee",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle1"
+    },
+    {
+      "id": "7ec54ed4-c2ed-4eb1-bfc1-9fcb7b45264d",
+      "disruptionId": "84262523-1f71-466c-90ab-c21b71c549ff",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 7 Baierbrunn ↔ Wolfratshausen: Reparatur an einer Weiche",
+      "summary": "Zwischen Baierbrunn und Wolfratshausen sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Baierbrunn.</p><p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Baierbrunn und Wolfratshausen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "07.08.2025",
+      "durationEnd": "07.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/84262523-1f71-466c-90ab-c21b71c549ff",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/669ad4e5-a899-49dd-a622-bde3c0d290b6reisendenkarte_20250807-164143.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/669ad4e5-a899-49dd-a622-bde3c0d290b6reisendenkarte_20250807-164143.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.08.2025 16:41:43",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.08.2025 17:31",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7ec54ed4-c2ed-4eb1-bfc1-9fcb7b45264d",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
+    },
+    {
       "id": "ea493c3d-f61b-41ad-99e4-5b8ac1def732",
       "disruptionId": "81a8cfec-45a8-4134-ac44-f37444fd0bbc",
       "author": "S_BAHN_MUC",
@@ -1297,51 +1417,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/ea493c3d-f61b-41ad-99e4-5b8ac1def732",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
-    },
-    {
-      "id": "7ec54ed4-c2ed-4eb1-bfc1-9fcb7b45264d",
-      "disruptionId": "84262523-1f71-466c-90ab-c21b71c549ff",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 7 Baierbrunn ↔ Wolfratshausen: Reparatur an einer Weiche",
-      "summary": "Zwischen Baierbrunn und Wolfratshausen sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Baierbrunn.</p><p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Baierbrunn und Wolfratshausen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
-      "durationBegin": "07.08.2025",
-      "durationEnd": "07.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/84262523-1f71-466c-90ab-c21b71c549ff",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/c4c0121a-08be-4b1f-ac48-a52300cb0ac6reisendenkarte_20250807-164143.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-07/c4c0121a-08be-4b1f-ac48-a52300cb0ac6reisendenkarte_20250807-164143.png",
-          "info": "",
-          "alt": "Reisendenkarte 07.08.2025 16:41:43",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "07.08.2025 16:43",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7ec54ed4-c2ed-4eb1-bfc1-9fcb7b45264d",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
     },
     {
       "id": "9162fcd9-90f5-489b-9110-d7fe9afe9bf2",
