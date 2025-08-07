@@ -1160,6 +1160,43 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "d6700281-c7f3-4506-9efb-0a76f7aa35b9",
+      "disruptionId": "3cdb95bc-5066-4480-9e6c-be7b2a831499",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "S 4, S 6 Trudering ↔ Zorneding: Defektes Stellwerk",
+      "summary": "Zwischen Trudering und Zorneding ist die Strecke gesperrt. Die S-Bahnen wenden von Ebersberg kommend in Zorneding und vom Ostbahnhof kommend in Trudering.",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Zorneding und Trudering eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p><strong>Alternativen:</strong>&nbsp;</p><ul><li>Hauptbahnhof ↔ Trudering: <strong>U2</strong>&nbsp;</li><li>Trudering ↔ Berg am Laim: <strong>Bus 185</strong>&nbsp;</li><li>Berg am Laim ↔ Ostbahnhof:<strong> Bus 190/191</strong></li><li>Ostbahnhof ↔ Trudering: Ostbahnhof <strong>U5</strong> → Innsbrucker Ring ab Innsbrucker Ring <strong>U2</strong> → bis Trudering</li></ul><p>Bitte rechnen Sie mit Verspätungen.</p><p>Der Grund hierfür ist ein defektes Stellwerk in Haar.</p>",
+      "durationBegin": "07.08.2025",
+      "durationEnd": "07.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/3cdb95bc-5066-4480-9e6c-be7b2a831499",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "07.08.2025 21:35",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d6700281-c7f3-4506-9efb-0a76f7aa35b9",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
+    },
+    {
       "id": "c5625088-606c-45ff-8fa2-47c6e6fecaa3",
       "disruptionId": "266a9c5f-0316-4a8c-810f-523cbd063993",
       "author": "S_BAHN_MUC",
@@ -1233,43 +1270,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c5625088-606c-45ff-8fa2-47c6e6fecaa3",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle2"
-    },
-    {
-      "id": "d6700281-c7f3-4506-9efb-0a76f7aa35b9",
-      "disruptionId": "3cdb95bc-5066-4480-9e6c-be7b2a831499",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 4, S 6 Trudering ↔ Zorneding: Defektes Stellwerk",
-      "summary": "Zwischen Trudering und Zorneding ist die Strecke gesperrt. Die S-Bahnen wenden von Ebersberg kommend in Zorneding und vom Ostbahnhof kommend in Trudering.",
-      "text": "<p>Ein Ersatzverkehr zwischen Zorneding und Trudering ist in Planung.</p><p>Bitte rechnen Sie zusätzlich mit Verspätungen.</p><p>Der Grund hierfür ist ein defektes Stellwerk in Haar.</p>",
-      "durationBegin": "07.08.2025",
-      "durationEnd": "07.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/3cdb95bc-5066-4480-9e6c-be7b2a831499",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "07.08.2025 21:15",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d6700281-c7f3-4506-9efb-0a76f7aa35b9",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section9"
     },
     {
       "id": "7ec54ed4-c2ed-4eb1-bfc1-9fcb7b45264d",
