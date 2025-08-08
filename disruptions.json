@@ -686,6 +686,43 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "ccaddeb6-ff0c-4d11-8be7-4030a56a27e6",
+      "disruptionId": "9754f930-4d30-4b70-89ec-02013e14e29b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Fahrzeugverfügbarkeit"
+      },
+      "headline": "Zugausfälle zwischen Weimar und Gera aufgrund eines kurzfristigen Fahrzeugausfalls",
+      "summary": "Aufgrund eines kurzfristigen Fahrzeugausfalls kommt es derzeit zwischen Weimar und Gera zu Zugausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Gotha und Gera</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Bitte nutzen sie den RE 3 zwischen Erfurt/Weimar und Gera.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung.</p><p>Die Störung hält voraussichtlich bis zum Betriebsende am Sonntag, den 10.08.2025 an.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "08.08.2025",
+      "durationEnd": "11.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/9754f930-4d30-4b70-89ec-02013e14e29b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "08.08.2025 16:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ccaddeb6-ff0c-4d11-8be7-4030a56a27e6",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_vehicle"
+    },
+    {
       "id": "b618c45d-e6f1-4ad4-a228-a6693ec5d66b",
       "disruptionId": "41548b19-7a1f-42aa-8834-d6071e706f08",
       "author": "S_BAHN_RM",
