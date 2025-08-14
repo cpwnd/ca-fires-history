@@ -997,6 +997,43 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
     },
     {
+      "id": "886437a0-a774-4b84-abe8-0e5dcd34f86c",
+      "disruptionId": "30e210d7-626a-4b48-a85c-7402792d74ae",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 7 Siemenswerke: Reparatur an einer Weiche",
+      "summary": "Im Bereich Siemenswerke kommt es zu Verspätungen von bis zu 30 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "14.08.2025",
+      "durationEnd": "14.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/30e210d7-626a-4b48-a85c-7402792d74ae",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.08.2025 07:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/886437a0-a774-4b84-abe8-0e5dcd34f86c",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section10"
+    },
+    {
       "id": "3222af5a-a65c-4392-a6bf-177de416c488",
       "disruptionId": "16f1553c-7dee-457c-bcc1-07bf9781f4e9",
       "author": "S_BAHN_MUC",
