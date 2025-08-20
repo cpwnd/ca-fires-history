@@ -743,50 +743,6 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
-      "id": "a592aee2-1c04-4648-961b-18d16a839bae",
-      "disruptionId": "3ce197a0-0a4a-43bf-a214-f581fa3ca33f",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Beeinträchtigungen zwischen Verona und Bozen/Bolzano",
-      "summary": "Aufgrund einer Zugkollision ist die Strecke zwischen Verona und Bozen/Bolzano derzeit nur eingeschränkt befahrbar. Dadurch kommt es zu Ausfällen und Verspätungen im Fernverkehr der Deutschen Bahn. Weitere Informationen erhalten Sie unter https://fahrplan.oebb.at.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>EC- und RJ-Züge zwischen München und Italien</li></ul><p>Die Behebung der Störung soll vsl. bis 20.08.2025 23:59 Uhr erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf https://fahrplan.oebb.at,&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "20.08.2025",
-      "durationEnd": "20.08.2025",
-      "mapHref": "https://karte.bahn.de/detail/3ce197a0-0a4a-43bf-a214-f581fa3ca33f",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://fahrplan.oebb.at/webapp/#!P|TP!H|745257",
-          "label": "ÖBB",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "20.08.2025 16:09",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a592aee2-1c04-4648-961b-18d16a839bae",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "05f4eb61-73e2-464b-bb3f-5285045e70a7",
       "disruptionId": "74676165-756e-4a18-81b8-0e05fc450c19",
       "author": "S_BAHN_RM",
