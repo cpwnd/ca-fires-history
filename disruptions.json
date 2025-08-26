@@ -236,6 +236,49 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "3c7c70c9-1292-4cbc-a69e-e0173c744a49",
+      "disruptionId": "0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Reparatur am Zug"
+      },
+      "headline": "Ausfall der Linie RB 63 zwischen Tübingen Hbf und Herrenberg",
+      "summary": "Über die Dauer der Beeinträchtigung liegen uns noch keine Informationen vor. Der Grund ist eine eingeschränkte Fahrzeugverfügbarkeit. Wir haben einen Ersatzverkehr mit drei Bussen zwischen Tübingen Hbf und Herrenberg im Pendelverkehr für Sie eingerichtet. Die Abfahrt der Busse in Tübingen Hbf und Herrenberg ist jeweils ab ca. 16:30 Uhr. ",
+      "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>RB 63 (Herrenberg – Bad Urach) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "26.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/0b0ad4f3-136e-4c8a-a1e7-895bd663bac8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-26/ae654da5-5885-4d34-b28e-63d01c03d46areisendenkarte_20250826-161837.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-08-26/ae654da5-5885-4d34-b28e-63d01c03d46areisendenkarte_20250826-161837.png",
+          "info": "",
+          "alt": "Reisendenkarte 26.08.2025 16:18:37",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.08.2025 16:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3c7c70c9-1292-4cbc-a69e-e0173c744a49",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_vehicle"
+    },
+    {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "disruptionId": "0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "author": "REGIO_BW",
@@ -315,6 +358,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
+    },
+    {
+      "id": "cf02d48a-454d-417d-87e1-e89e56e50d59",
+      "disruptionId": "fa702f14-cfed-46d2-a936-7fe0c17fa654",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "S 2 Erding: Reparatur an einem anderen Zug",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an einem anderen Zug zwischen Riem und Feldkirchen.</p>",
+      "durationBegin": "26.08.2025",
+      "durationEnd": "26.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/fa702f14-cfed-46d2-a936-7fe0c17fa654",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-26/16bad25f-7bc0-4ac5-a392-36741ad02e39reisendenkarte_20250826-160740.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-08-26/16bad25f-7bc0-4ac5-a392-36741ad02e39reisendenkarte_20250826-160740.png",
+          "info": "",
+          "alt": "Reisendenkarte 26.08.2025 16:07:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.08.2025 16:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cf02d48a-454d-417d-87e1-e89e56e50d59",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle0"
     },
     {
       "id": "fd805998-1eda-4cbd-9330-96454b8b2dc6",
@@ -894,6 +982,41 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a266331c-4410-4a9c-8adb-e89724b99a3b",
       "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
+      "id": "e1d3e11e-90af-49e7-99a5-49689e44832b",
+      "disruptionId": "bed82022-da2d-4e40-99c7-416d235d6bdd",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Rosenheim und München",
+      "summary": "Aufgrund von Schäden an der Strecke in München-Ost kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-/IC-/RJ-Züge zwischen Rosenheim und München</li></ul><p>Unser Personal vor Ort arbeitet mit Hochdruck an der Störungsbeseitigung. Die Behebung der Störung wird vsl. bis in die Abendstunden andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "26.08.2025",
+      "mapHref": "https://karte.bahn.de/detail/bed82022-da2d-4e40-99c7-416d235d6bdd",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "26.08.2025 15:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/e1d3e11e-90af-49e7-99a5-49689e44832b",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "b25cdcbd-199d-4904-a0a5-cb53bbdf210a",
