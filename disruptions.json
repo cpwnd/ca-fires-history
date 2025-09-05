@@ -164,21 +164,13 @@
         "category": "police_activity",
         "label": "Entschärfung einer Fliegerbombe"
       },
-      "headline": "Umleitungen und Teilausfälle zwischen Frankfurt(Main)Süd und Hanau Hbf",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RE54: Frankfurt(Main)Hbf - Maintal Ost - Hanau Hbf - Aschaffenburg - Würzburg (- Bamberg)</li></ul><strong></strong><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die RE54 wird von Frankfurt(Main)Süd bis Hanau Hbf ohne Zwischenhalt umgeleitet.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Es verkehrt ein Ersatzverkehr für die RB58 zwischen Hanau Hbf und Frankfurt(Main) Süd.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>+49 69 244 457 10</strong></p>",
+      "headline": "Keinen Beeinträchtigungen mehr zwischen Frankfurt(Main)Süd und Hanau Hbf",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen normalisiert sich der Bahnbetrieb wieder.",
+      "text": "<strong>🚆 Linie:</strong><ul><li>RE54: Frankfurt(Main)Hbf - Maintal Ost - Hanau Hbf - Aschaffenburg - Würzburg (- Bamberg)</li></ul><p></p><p><strong>✅ Auf der RE54 kommt es zu keinen Beeinträchtigungen mehr.</strong></p><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>+49 69 244 457 10</strong></p>",
       "durationBegin": "05.09.2025",
       "durationEnd": "05.09.2025",
       "mapHref": "https://karte.bahn.de/detail/48bb9fc7-fa76-431e-ad96-e6828c021a5f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-09-05/f91f0525-dc00-471b-9c2f-69a056d8b2ebreisendenkarte_20250905-123654.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2025-09-05/f91f0525-dc00-471b-9c2f-69a056d8b2ebreisendenkarte_20250905-123654.png",
-          "info": "",
-          "alt": "Reisendenkarte 05.09.2025 12:36:54",
-          "openInNewTab": true
-        }
-      ],
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
@@ -195,7 +187,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "05.09.2025 14:37",
+      "lastModified": "05.09.2025 16:48",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -392,6 +384,76 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_vehicle"
     },
     {
+      "id": "b9d53f36-37b4-4067-bc61-f8f2d509824f",
+      "disruptionId": "7889665e-8ff8-434a-b2e2-1b621fbe32e3",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Stammstrecke: Reparatur an einem Signal",
+      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von bis zu 15 Minuten. Es kommt zusätzlich zu Zugausfällen und zu vorzeitigen Zugwenden auf den Außenbereichen..",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "05.09.2025",
+      "durationEnd": "05.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/7889665e-8ff8-434a-b2e2-1b621fbe32e3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-05/dfed0685-cd27-4b80-b1a2-1a63790cedf4reisendenkarte_20250905-171649.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-05/dfed0685-cd27-4b80-b1a2-1a63790cedf4reisendenkarte_20250905-171649.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.09.2025 17:16:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.09.2025 17:18",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b9d53f36-37b4-4067-bc61-f8f2d509824f",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section4"
+    },
+    {
       "id": "73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "disruptionId": "0c197c6b-d603-4462-a5a2-bc92b5774c09",
       "author": "REGIO_BW",
@@ -477,6 +539,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/73ded1fb-dee8-4e5d-9cbf-37af6965b3b5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
+    },
+    {
+      "id": "565d9832-eeb2-40e7-9273-0e1bc3988a6c",
+      "disruptionId": "3b496899-0035-4d3d-ae1c-954d0d34c744",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 6 Abweichende Linienführung: Reparatur an einem Signal",
+      "summary": "Die S-Bahnen der Linie S 6 werden umgeleitet.",
+      "text": "<p><strong>S 6 Tutzing ↔ Ebersberg</strong></p><ul><li>Die S6 wird zwischen<strong> Pasing </strong>↔<strong> Ostbahnhof Gleis 7-13 (Fernbahn)</strong> umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte <strong>Leuchtenbergring </strong>und <strong>Berg am Laim </strong>entfallen.&nbsp;</li></ul><p>Alternativen:</p><ul><li><ul><li>Ostbahnhof ↔ Leuchtenbergring: <strong>S2, S4, S8</strong></li><li>Ostbahnhof ↔ Berg am Laim: <strong>S2, S4</strong></li></ul></li></ul><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "05.09.2025",
+      "durationEnd": "05.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/3b496899-0035-4d3d-ae1c-954d0d34c744",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-05/0b0ad024-6a9e-4c7e-8b56-d22e5b24ff62reisendenkarte_20250905-171335.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-05/0b0ad024-6a9e-4c7e-8b56-d22e5b24ff62reisendenkarte_20250905-171335.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.09.2025 17:13:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.09.2025 17:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/565d9832-eeb2-40e7-9273-0e1bc3988a6c",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
     },
     {
       "id": "cf736c32-8918-44e7-bec9-6bf6996377f4",
