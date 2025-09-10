@@ -155,6 +155,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "8b4de4b2-afce-4748-9d04-bb40fcf383f4",
+      "disruptionId": "7e313633-22e5-4fd4-be4a-c20f700094ef",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7 Wolfratshausen: Reparatur an einem Signal",
+      "summary": "Die S 7 verkehrt bis auf weiteres nur zwischen Heimeranplatz und Wolfratshausen, ohne Halt am Harras.",
+      "text": "<p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Reisende nutzen bitte auch die U-Bahnen von/nach Heimeranplatz bzw. Harras.</p><p>Der Grund dafür ist eine Reparatur an einem Signal.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</p>",
+      "durationBegin": "10.09.2025",
+      "durationEnd": "10.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/7e313633-22e5-4fd4-be4a-c20f700094ef",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-10/ab54e594-1cb9-4e49-b9a6-955b75a1c1a7reisendenkarte_20250910-174438.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-10/ab54e594-1cb9-4e49-b9a6-955b75a1c1a7reisendenkarte_20250910-174438.png",
+          "info": "",
+          "alt": "Reisendenkarte 10.09.2025 17:44:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.09.2025 18:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8b4de4b2-afce-4748-9d04-bb40fcf383f4",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
+    },
+    {
       "id": "5dd02840-1c07-4383-be81-164c4c5c375a",
       "disruptionId": "5ddc921c-d7e5-4cfd-9c95-e2b98879acef",
       "author": "S_BAHN_MUC",
@@ -203,51 +248,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/5dd02840-1c07-4383-be81-164c4c5c375a",
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
-    },
-    {
-      "id": "8b4de4b2-afce-4748-9d04-bb40fcf383f4",
-      "disruptionId": "7e313633-22e5-4fd4-be4a-c20f700094ef",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 7 Wolfratshausen: Reparatur an einem Signal",
-      "summary": "Die S 7 verkehrt bis auf weiteres nur zwischen Heimeranplatz und Wolfratshausen, ohne Halt am Harras.",
-      "text": "<p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Reisende nutzen bitte auch die U-Bahnen von/nach Heimeranplatz bzw. Harras.</p><p>Der Grund dafür ist eine Reparatur an einem Signal.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</p>",
-      "durationBegin": "10.09.2025",
-      "durationEnd": "10.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/7e313633-22e5-4fd4-be4a-c20f700094ef",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-10/2e1b2261-1597-4d2c-a8fd-ad7029f4e60freisendenkarte_20250910-174438.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-10/2e1b2261-1597-4d2c-a8fd-ad7029f4e60freisendenkarte_20250910-174438.png",
-          "info": "",
-          "alt": "Reisendenkarte 10.09.2025 17:44:38",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.09.2025 17:51",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8b4de4b2-afce-4748-9d04-bb40fcf383f4",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
       "id": "48efc67b-d9ed-4293-81a3-68c2a21a5600",
