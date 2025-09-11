@@ -2,6 +2,43 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "7e3544d2-31e7-4565-92ee-2c8c912b9634",
+      "disruptionId": "35a451d6-150f-4d77-9a25-7b00010d6fd8",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Bonn und Koblenz",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Bonn und Koblenz kommt es derzeit zu Beeinträchtigungen und Verspätungen von ca. 25 Minuten im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Köln - Koblenz - Frankfurt(M)</li><li>EC-/IC-Züge der Verbindung Köln - Koblenz - Stuttgert / Basel</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "11.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/35a451d6-150f-4d77-9a25-7b00010d6fd8",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "11.09.2025 17:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/7e3544d2-31e7-4565-92ee-2c8c912b9634",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section2"
+    },
+    {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
       "disruptionId": "52791c12-61c1-4df6-b716-2df0cef020a4",
       "author": "REGIO_MITTE",
@@ -361,6 +398,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/682473c8-4fb5-4c63-9bb3-5a75b4121f16",
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "a1fc9080-8b92-4055-bd76-17b6ceee3702",
+      "disruptionId": "fbfcfdeb-973f-4d45-ab95-bac81ab1690c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "S 1 / S 8 Flughafen: Vorangegangene ärztliche Versorgung eines Fahrgastes",
+      "summary": "Es kommt noch zu Folgeverspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür war eine ärztliche Versorgung eines Fahrgastes am Flughafen.</p>",
+      "durationBegin": "11.09.2025",
+      "durationEnd": "11.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/fbfcfdeb-973f-4d45-ab95-bac81ab1690c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-11/b5161bdf-5ad1-435b-862f-c489fbbf2dafreisendenkarte_20250911-164848.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-11/b5161bdf-5ad1-435b-862f-c489fbbf2dafreisendenkarte_20250911-164848.png",
+          "info": "",
+          "alt": "Reisendenkarte 11.09.2025 16:48:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "11.09.2025 17:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a1fc9080-8b92-4055-bd76-17b6ceee3702",
+      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency"
     },
     {
       "id": "08b6534d-8503-46eb-87f7-08af5f53b73a",
