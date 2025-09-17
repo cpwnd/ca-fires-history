@@ -1080,6 +1080,48 @@
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section10"
     },
     {
+      "id": "bc9f5f32-cd72-4ba3-8c8d-92f01f60c9bd",
+      "disruptionId": "3b0c94b5-ba79-4bb3-92d1-1090739ad410",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "other_cause",
+        "label": "Information"
+      },
+      "headline": "RB 40 SOB im Dialog",
+      "summary": "Donnerstag, 18.09.2025",
+      "text": "<p>Am Donnerstag, den 18. September 2025 findet wieder unsere Aktion \"SOB im Dialog\" statt. Führungskräfte der Südostbayernbahn stehen in der RB 27001 für Fragen und Anregungen zur Verfügung. Abfahrt: 15:33 Uhr München Ostbahnhof Richtung Mühldorf. Wir freuen uns auf interessante Gespräche. </p>",
+      "durationBegin": "18.09.2025",
+      "durationEnd": "18.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/3b0c94b5-ba79-4bb3-92d1-1090739ad410",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 4",
+          "filterName": "RE 4",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.09.2025 12:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/bc9f5f32-cd72-4ba3-8c8d-92f01f60c9bd",
+      "magnoliaPath": "/aktuell/suedostbayernbahn/other_effect_other_cause"
+    },
+    {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
       "disruptionId": "76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "author": "S_BAHN_S",
