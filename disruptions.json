@@ -932,6 +932,51 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
     },
     {
+      "id": "e6a59528-dd4c-408e-8e9d-2a83896a7363",
+      "disruptionId": "c782b1a2-5775-4712-ab1c-ab18dbaa961f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt einem anderen Zug"
+      },
+      "headline": "S 2 Riem: Technischer Defekt an einem anderen Zug",
+      "summary": "Im Bereich Riem in beiden Richtungen kommt es zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der Grund hierfür ist ein technischer Defekt an einem anderen Zug.</p>",
+      "durationBegin": "18.09.2025",
+      "durationEnd": "18.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/c782b1a2-5775-4712-ab1c-ab18dbaa961f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-18/a750b4c6-2aa0-462c-ab7d-c814ca302c09reisendenkarte_20250918-204841.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-18/a750b4c6-2aa0-462c-ab7d-c814ca302c09reisendenkarte_20250918-204841.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.09.2025 20:48:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.09.2025 20:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e6a59528-dd4c-408e-8e9d-2a83896a7363",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle2"
+    },
+    {
       "id": "4443efd3-285b-4bed-a4bc-803ef47622e4",
       "disruptionId": "c24d9a5c-f767-4d29-a20f-4f129ba1fc69",
       "author": "FERNVERKEHR_AG",
