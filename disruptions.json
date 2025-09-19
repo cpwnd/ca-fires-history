@@ -351,16 +351,16 @@
         "category": "technical_problem_vehicle",
         "label": "Behobener technischer Defekt einem anderen Zug"
       },
-      "headline": "Stammstrecke: Technische Störung an einem Zug",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 15 Minuten und zu vorzeitigen Zugwenden.",
-      "text": "<p>Der Grund hierfür ist eine technische Störung an einer S-Bahn an der Donnersbergerbrücke.</p>",
+      "headline": "Endmeldung Stammstrecke: Technische Störung an einem Zug",
+      "summary": "Der S-Bahnverkehr auf der Stammstrecke hat sich wieder normalisiert.",
+      "text": "<p>Es kommt zu keinen Verspätungen in Zusammenhang mit der vorangegangenen Störung mehr.</p><p>Die S-Bahn mit der technischen Störung konnte von der Strecke entfernt werden.</p>",
       "durationBegin": "19.09.2025",
       "durationEnd": "19.09.2025",
       "mapHref": "https://karte.bahn.de/detail/bc7a9713-4da2-402e-bdd2-4f4aa2b37eb5",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-19/a1c632c4-ac02-4aed-86c2-07fd1a62dab3reisendenkarte_20250919-122110.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-19/a1c632c4-ac02-4aed-86c2-07fd1a62dab3reisendenkarte_20250919-122110.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-19/30db81a1-c304-438d-af30-ef241e0c5684reisendenkarte_20250919-122110.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-19/30db81a1-c304-438d-af30-ef241e0c5684reisendenkarte_20250919-122110.png",
           "info": "",
           "alt": "Reisendenkarte 19.09.2025 12:21:10",
           "openInNewTab": true
@@ -411,7 +411,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "19.09.2025 12:28",
+      "lastModified": "19.09.2025 13:25",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -729,6 +729,53 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
+    },
+    {
+      "id": "ff45e8e0-ca45-46a6-88c0-8660f8865a26",
+      "disruptionId": "37372eed-3a83-441f-bd8f-92bc4c3d6562",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Teilausfälle im Raum Frankfurt(Main)",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen. Der Grund ist ein Ausfall von Stellwerkspersonal.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE50: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach - Fulda</li><li>RB51: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach (- Bad Soden-Salmünster)</li><li>RB61: (Frankfurt Hbf -) Dreieich-Buchschlag - Rödermark-Ober Roden (-Dieburg)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>In der Nacht vom 20.09.2025 / 21.09.2025 von 22:00 – 06:00 Uhr</li></ul><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge der RE50 und RB51 aus Richtung Fulda/Wächtersbach enden vorzeitig in Offenbach(Main) Hbf und wenden dort.</li><li>Die Züge der RB61 aus Richtung Dieburg enden vorzeitig in Neu-Isenburg und wenden dort.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>RE50 und RB51: Nutzen Sie alternativ die S1 zwischen Offenbach(Main) Hbf und Frankfurt(Main)Hbf.</li><li>RB61: Nutzen Sie alternativ die S6 zwischen Neu-Isenburg und Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>+49 69 244 457 10</strong></p>",
+      "durationBegin": "20.09.2025",
+      "durationEnd": "21.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/37372eed-3a83-441f-bd8f-92bc4c3d6562",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 51",
+          "filterName": "RB 51",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 61",
+          "filterName": "RB 61",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "19.09.2025 13:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ff45e8e0-ca45-46a6-88c0-8660f8865a26",
+      "magnoliaPath": "/aktuell/hessen/reduced_service_other_cause2"
     },
     {
       "id": "ad68b9ea-ca36-421b-9cfc-883bbb628f25",
