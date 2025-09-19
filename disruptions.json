@@ -46,6 +46,50 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
+      "id": "4b87a3b7-bf0d-47ef-9d9b-064ee268d3c6",
+      "disruptionId": "2407ad2d-28eb-4138-bcb6-a4f55f2402b3",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Beeinträchtigungen zwischen Hannover und Magdeburg",
+      "summary": "Aufgrund einer Streckensperrung zwischen Helmstedt und Magdeburg kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Zugausfällen, Haltausfällen und Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Norddeich Mole – Emden – Bremen – Hannover – Magdeburg – Leipzig fallen zwischen Hannover und Leipzig aus.</li><li>Alle weiteren ICE-/IC-Züge zwischen Hannover und Magdeburg werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten. Der Halt Braunschweig Hbf entfällt. Ersatzhalt ist Wolfsburg Hbf.</li></ul><p>Die Behebung der Störung soll vsl. bis zum Tagesende erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "19.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/2407ad2d-28eb-4138-bcb6-a4f55f2402b3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-19/68b28204-3685-4224-a95b-001a44e8d5a8reisendenkarte_20250919-165848.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-09-19/68b28204-3685-4224-a95b-001a44e8d5a8reisendenkarte_20250919-165848.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.09.2025 16:58:48",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "19.09.2025 17:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/4b87a3b7-bf0d-47ef-9d9b-064ee268d3c6",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "3c5a2774-0fbe-4a70-a6f5-b5bcd82db642",
       "disruptionId": "52791c12-61c1-4df6-b716-2df0cef020a4",
       "author": "REGIO_MITTE",
