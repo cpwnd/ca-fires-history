@@ -1252,6 +1252,51 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
     },
     {
+      "id": "9c69cc64-4138-4db5-ba4d-b3849e9d0fd0",
+      "disruptionId": "f4bd995b-f1f4-46cd-9b78-060f2b797b1b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 2 Heimstetten ↔ Erding: Polizeieinsatz",
+      "summary": "Zwischen Heimstetten und Erding kommt es zu Verspätungen von 15 bis 20 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "19.09.2025",
+      "durationEnd": "19.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/f4bd995b-f1f4-46cd-9b78-060f2b797b1b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-19/ebde2f07-c0a2-49f9-acbf-3bc77d3aba6ereisendenkarte_20250919-173634.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-19/ebde2f07-c0a2-49f9-acbf-3bc77d3aba6ereisendenkarte_20250919-173634.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.09.2025 17:36:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.09.2025 17:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9c69cc64-4138-4db5-ba4d-b3849e9d0fd0",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity1"
+    },
+    {
       "id": "7b277fa1-15d9-4284-ad32-f08d1ee09ad3",
       "disruptionId": "f1772d86-2886-485d-a765-622096fcb8fe",
       "author": "S_BAHN_HH",
