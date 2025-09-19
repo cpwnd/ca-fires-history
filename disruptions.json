@@ -266,8 +266,8 @@
       "mapHref": "https://karte.bahn.de/detail/641babaf-d92f-485d-a397-1fdc8d9bceac",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-19/e3a0333e-5c0b-4dd6-9889-22daed12ec8dreisendenkarte_20250918-154713.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-19/e3a0333e-5c0b-4dd6-9889-22daed12ec8dreisendenkarte_20250918-154713.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-19/ebba6175-e8ba-44a1-90b8-c17946ead631reisendenkarte_20250918-154713.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-19/ebba6175-e8ba-44a1-90b8-c17946ead631reisendenkarte_20250918-154713.png",
           "info": "",
           "alt": "Reisendenkarte 18.09.2025 15:47:13",
           "openInNewTab": true
@@ -275,21 +275,27 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-19/4c5b7dcb-e62b-45f6-9231-483543c9fa27Busfahrplan%2BPEGNITZTAL%2BSPERRE%2Bab%2B19.9.2025.pdf",
-          "label": "Busfahrplan PEGNITZTAL SPERRE ab 19.9.2025.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-19/dd4f8cd3-85fa-462d-8707-66acb5909ca9Sperre%2BPegnitztal.pdf",
+          "label": "Sperre Pegnitztal.pdf",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-19/3bfdbcaa-085f-47d7-a10f-d7a0013ca01cSperre%2BPegnitztal.pdf",
-          "label": "Sperre Pegnitztal.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2025-09-19/39c76a63-b251-46ee-b8e3-c86f443a49a5Busfahrplan%2BPEGNITZTAL%2BSPERRE%2Bab%2B19.9.2025.pdf",
+          "label": "Busfahrplan PEGNITZTAL SPERRE ab 19.9.2025.pdf",
           "info": "",
           "openInNewTab": true
         }
       ],
-      "links": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
+          "label": "Weiterführende Informationen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
-        "SBAHN",
         "REGIONAL"
       ],
       "states": [
@@ -299,11 +305,6 @@
         {
           "name": "RB 30",
           "filterName": "RB 30 Nürnberg",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 31",
-          "filterName": "RB 31 Nürnberg",
           "property": "REGIONAL"
         },
         {
@@ -330,14 +331,9 @@
           "name": "RE 38",
           "filterName": "RE 38",
           "property": "REGIONAL"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Nürnberg",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "19.09.2025 12:42",
+      "lastModified": "19.09.2025 14:15",
       "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
@@ -947,6 +943,54 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/50d73944-116a-4d06-959c-d74bed8e7241",
       "magnoliaPath": "/aktuell/mitte/reduced_service_construction"
+    },
+    {
+      "id": "aacb36e8-e5b2-48a7-99bf-aef9541cf186",
+      "disruptionId": "519eb659-19c7-466c-b367-b8a9b8c1fac9",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S3/S5: Zusätzliche Halte der RE5 in Neugraben am 20.09. ",
+      "summary": "Wegen Bauarbeiten fahren vom 19.09. Abends bis 21.09. Busse statt S-Bahnen zw. Neugraben u. Wilhelmsburg. Zur Entlastung halten am 20.09. einige RE5 von und zum Hauptbahnhof zusätzlich in Neugraben. ",
+      "text": "<p>Zusätzliche Abfahrten der RE5 <strong>in Neugraben in Richtung Hauptbahnhof:</strong></p><p>11:30, 12:30 und 13:30</p><p></p><p>Abfahrten der RE5<strong> am Hauptbahnhof mit Halt in Neugraben:</strong></p><p>18:29, 19:29 und 20:29</p><p></p><p>Zwischen Cuxhaven und Neugraben halten die RE5 nur an den regulären Unterwegsbahnhöfen. Bitte beachten Sie, dass der Zugang zum Regionalbahnsteig in Neugraben nicht stufenfrei ausgebaut ist.</p>",
+      "durationBegin": "20.09.2025",
+      "durationEnd": "20.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/519eb659-19c7-466c-b367-b8a9b8c1fac9",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "Bus EV21A",
+          "filterName": "Bus EV21A Hamburg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.09.2025 14:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/aacb36e8-e5b2-48a7-99bf-aef9541cf186",
+      "magnoliaPath": "/aktuell/nord/modified_service_construction"
     },
     {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
