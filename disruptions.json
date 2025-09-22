@@ -1150,51 +1150,6 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
     },
     {
-      "id": "15040215-e94a-4bad-a8fe-73464f3dde96",
-      "disruptionId": "62346044-da31-4e0b-9286-678b30f6a8b7",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S 1 Laim ↔ Moosach in Richtung stadtauswärts",
-      "summary": "Zwischen Laim und Moosach in Richtung stadtauswärts kommt es  zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
-      "durationBegin": "22.09.2025",
-      "durationEnd": "22.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/62346044-da31-4e0b-9286-678b30f6a8b7",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/06b487f3-20d2-4ff0-86a3-7aee6dc884b1reisendenkarte_20250922-115939.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/06b487f3-20d2-4ff0-86a3-7aee6dc884b1reisendenkarte_20250922-115939.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.09.2025 11:59:39",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.09.2025 12:21",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/15040215-e94a-4bad-a8fe-73464f3dde96",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
-    },
-    {
       "id": "9b4d7696-8772-4431-9b06-a7fa95398ef0",
       "disruptionId": "1dc0ed2a-253b-4501-b65c-715dd7d55f64",
       "author": "S_BAHN_MUC",
@@ -1203,7 +1158,7 @@
         "label": "Einschränkungen auf der Strecke"
       },
       "headline": "S 2 St.-Koloman in beiden Richtungen: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich St.-Koloman in beiden Richtungen kommt es zu Verspätungen von bis zu 15 Minuten und vereinzelte Teilausfällen.",
+      "summary": "Im Bereich St.-Koloman in beiden Richtungen kommt es zu Verspätungen von bis zu 10 Minuten.",
       "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
       "durationBegin": "22.09.2025",
       "durationEnd": "22.09.2025",
@@ -1224,7 +1179,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "22.09.2025 11:48",
+      "lastModified": "22.09.2025 12:44",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
