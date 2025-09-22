@@ -441,6 +441,81 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "900bb542-311f-4e03-a51a-ef439b8cc8c7",
+      "disruptionId": "ca687e9d-ba8e-4d6a-baae-1ea2af20c868",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Stammstrecke: Unbefugte Person auf der Strecke",
+      "summary": "Derzeit kommt es auf der Stammstrecke in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. ",
+      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;                       war ein Polizeieinsatz wegen unbefugte Personen auf der Strecke       an der Hackerbrücke.</p>",
+      "durationBegin": "22.09.2025",
+      "durationEnd": "23.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/ca687e9d-ba8e-4d6a-baae-1ea2af20c868",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/2a5056b5-5a62-4901-9905-0cdcf072a3b6reisendenkarte_20250922-232524.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-22/2a5056b5-5a62-4901-9905-0cdcf072a3b6reisendenkarte_20250922-232524.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.09.2025 23:25:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.09.2025 23:26",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/900bb542-311f-4e03-a51a-ef439b8cc8c7",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
+    },
+    {
       "id": "c6099ce0-305f-4501-b4af-772b19f2b668",
       "disruptionId": "6344210b-ab35-46ee-809f-0794f1469fbe",
       "author": "S_BAHN_MUC",
