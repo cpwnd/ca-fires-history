@@ -933,16 +933,16 @@
         "category": "weather_storm",
         "label": "Hochwasser"
       },
-      "headline": "Bahnhof Teningen-Mundingen gesperrt",
-      "summary": "Der Bahnhof Teningen-Mundingen ist derzeit gesperrt.  Über die Dauer der Sperrung liegen uns aktuell noch keine Informationen vor.  Grund dafür ist eine Überflutung der Unterführung. Der Halt Teningen-Mundingen entfällt bis auf Weiteres. Bitte prüfen Sie Ihre Reiseverbindung und planen Sie gegebenenfalls alternative Reisemöglichkeiten ein. Wir informieren Sie, sobald uns neue Informationen vorliegen. ",
+      "headline": "Bahnhof Teningen-Mundingen wieder geöffnet",
+      "summary": "Die Sperrung des Bahnhofs Teningen-Mundingen ist aufgehoben. Die Überflutung der Unterführung wurde beseitigt, und der Halt Teningen-Mundingen wird wieder regulär bedient. ",
       "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 26 (Offenburg – Freiburg (Breisgau)) </li><li>RB 27 (Freiburg (Breisgau)/Müllheim i. M. – Basel Bad Bf/Neuenburg (Baden)) </li></ul><p></p>",
       "durationBegin": "22.09.2025",
       "durationEnd": "24.09.2025",
       "mapHref": "https://karte.bahn.de/detail/14250681-13b0-4182-8b3a-4c5288cbd347",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-23/97f1f6e3-7562-44f3-a1d6-7f122a098678reisendenkarte_20250923-081832.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-23/97f1f6e3-7562-44f3-a1d6-7f122a098678reisendenkarte_20250923-081832.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-24/2dd26d8a-a672-4cd3-8ce4-90e5a29a0105reisendenkarte_20250923-081832.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-09-24/2dd26d8a-a672-4cd3-8ce4-90e5a29a0105reisendenkarte_20250923-081832.png",
           "info": "",
           "alt": "Reisendenkarte 23.09.2025 08:18:32",
           "openInNewTab": true
@@ -968,7 +968,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "23.09.2025 17:46",
+      "lastModified": "24.09.2025 13:03",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1025,6 +1025,88 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/64185545-4506-44de-9d57-4dd142cd15d3",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/modified_service_unknown_cause"
+    },
+    {
+      "id": "19bd7077-90d0-4cf2-9138-8c3c0b128bee",
+      "disruptionId": "30f59ba9-0b23-4ae2-b6b3-0cd5704c4664",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "RB 44 / Mühldorf - Rosenheim / Montag, 06.10.2025 bis Samstag, 18.10.2025 / Bauarbeiten",
+      "summary": "von Montag, 06.10.2025 bis Samstag, 18.10.2025",
+      "text": "<p>In den Abend-/Nachtstunden von Montag, den 06. Oktober bis Samstag, den 18. Oktober entfallen die Züge zwischen Mühldorf bzw. Wasserburg/Inn und Rosenheim wegen Bauarbeiten. Für die ausfallenden Züge ist ein Ersatzverkehr mit Bussen eingerichtet.</p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
+      "durationBegin": "06.10.2025",
+      "durationEnd": "18.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/30f59ba9-0b23-4ae2-b6b3-0cd5704c4664",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus RB44",
+          "filterName": "Bus RB44",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 44",
+          "filterName": "RB 44",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.09.2025 13:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/19bd7077-90d0-4cf2-9138-8c3c0b128bee",
+      "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction5"
+    },
+    {
+      "id": "197837ed-0321-4935-b589-836b6fbb9f23",
+      "disruptionId": "a2ecb016-249e-4f29-b381-30500f968e1e",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "RB 40 / Mühldorf - München  / Montag, 06.10.2025 bis Dienstag, 07.10.2025 / Bauarbeiten",
+      "summary": "von Montag, 06.10.2025 bis Dienstag, 07.10.2025",
+      "text": "<p>In den Abend-/Nachtstunden von Montag, den 06. Oktober bis Dienstag, den 07. Oktober entfallen die Züge zwischen Mühldorf und München Hbf wegen Bauarbeiten. Für die ausfallenden Züge ist ein Ersatzverkehr mit Bussen eingerichtet. Bitte nutzen Sie zwischen München Ost und München Hbf die S-Bahn.</p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
+      "durationBegin": "06.10.2025",
+      "durationEnd": "07.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/a2ecb016-249e-4f29-b381-30500f968e1e",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus RB40",
+          "filterName": "Bus RB40",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.09.2025 13:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/197837ed-0321-4935-b589-836b6fbb9f23",
+      "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
     },
     {
       "id": "b8f82242-e4d0-4159-9153-eddb72f5fa4b",
