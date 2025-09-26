@@ -486,8 +486,8 @@
       "mapHref": "https://karte.bahn.de/detail/28c7eab9-c2df-4a1f-9689-b39246bf0ac9",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/d2bddf6a-6f39-4c2c-92ad-a7cddfc2a09areisendenkarte_20250926-181236.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/d2bddf6a-6f39-4c2c-92ad-a7cddfc2a09areisendenkarte_20250926-181236.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/b149625c-67fe-40ff-8cfa-9957e67230f6reisendenkarte_20250926-181236.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/b149625c-67fe-40ff-8cfa-9957e67230f6reisendenkarte_20250926-181236.png",
           "info": "",
           "alt": "Reisendenkarte 26.09.2025 18:12:36",
           "openInNewTab": true
@@ -538,7 +538,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.09.2025 18:14",
+      "lastModified": "26.09.2025 19:32",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1332,43 +1332,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aeab18a8-57f7-4361-98ba-f7e7d0c6b61c",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction1"
-    },
-    {
-      "id": "b88170f6-c001-4607-a9dd-af49b742272c",
-      "disruptionId": "da07cbd2-32b9-4ce8-9b63-69adae0fe2e6",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S1: Von und nach Poppenbüttel aktuell mit Umstieg in Ohlsdorf.",
-      "summary": "Die S1 fährt aktuell mit allen sechs Wagen von und zum Hamburger Airport. Es ist ein Umstieg in Ohlsdorf erforderlich.",
-      "text": "<p>Aktuell fährt die S1 mit allen Wagen von und zum Hamburger Airport. Fahrgäste aus und in Richtung Wellingsbüttel und Poppenbüttel müssen leider in Ohlsdorf umsteigen. Grund: Technische Störung an der Strecke</p>",
-      "durationBegin": "26.09.2025",
-      "durationEnd": "26.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/da07cbd2-32b9-4ce8-9b63-69adae0fe2e6",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.09.2025 18:42",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b88170f6-c001-4607-a9dd-af49b742272c",
-      "magnoliaPath": "/aktuell/nord/detour_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
