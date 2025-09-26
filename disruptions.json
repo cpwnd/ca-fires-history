@@ -1327,16 +1327,16 @@
         "category": "technical_problem_railway_section",
         "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "S 4, S 6 Grafing Bahnhof ↔ Ebersberg: Unbefugte Personen auf der Strecke",
-      "summary": "Zwischen Grafing Bahnhof und Ebersberg ist die Strecke gesperrt. Die S-Bahnen wenden in Grafing Bahnhof",
-      "text": "<p>Bitte rechnen Sie mit Verspätungen von bis zu 10 Minuten und Teilausfällen.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "headline": "Endmeldung: S 4, S 6 Grafing Bahnhof ↔ Ebersberg",
+      "summary": "Zwischen Grafing Bahnhof und Ebersberg ist die Strecke wieder freigegeben. ",
+      "text": "<p>Es kommt noch zu Verspätungen von bis zu 10 Minuten und Teilausfällen.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
       "durationBegin": "26.09.2025",
       "durationEnd": "26.09.2025",
       "mapHref": "https://karte.bahn.de/detail/421e57ae-44fe-4167-8603-61e6d1e86674",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/1e8d2174-e86c-4225-b9ea-204cdcd4c894reisendenkarte_20250926-075134.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/1e8d2174-e86c-4225-b9ea-204cdcd4c894reisendenkarte_20250926-075134.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/bf83ae0a-bc12-4263-81f4-e767dc27376ereisendenkarte_20250926-075134.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/bf83ae0a-bc12-4263-81f4-e767dc27376ereisendenkarte_20250926-075134.png",
           "info": "",
           "alt": "Reisendenkarte 26.09.2025 07:51:34",
           "openInNewTab": true
@@ -1362,7 +1362,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.09.2025 08:03",
+      "lastModified": "26.09.2025 08:52",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1383,23 +1383,61 @@
       "durationBegin": "26.09.2025",
       "durationEnd": "26.09.2025",
       "mapHref": "https://karte.bahn.de/detail/858c96f2-db3f-449e-8472-5dfccf965901",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/81fc850c-8dcf-4266-b1cf-6ac5469b9381reisendenkarte_20250926-084101.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-26/81fc850c-8dcf-4266-b1cf-6ac5469b9381reisendenkarte_20250926-084101.png",
+          "info": "",
+          "alt": "Reisendenkarte 26.09.2025 08:41:01",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "BY"
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "26.09.2025 08:16",
+      "lastModified": "26.09.2025 08:42",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
