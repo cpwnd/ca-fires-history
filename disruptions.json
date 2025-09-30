@@ -385,6 +385,56 @@
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
     },
     {
+      "id": "36c2b259-9b38-41dc-b19c-7d5ee23c3fee",
+      "disruptionId": "71165f72-0001-4c5d-88af-6987110be934",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S1/S8 Flughafen: Unbefugte Personen auf der Strecke",
+      "summary": "Im Bereich Flughafen sind wieder Zugfahrten möglich ✅ Derzeit kommt es jetzt in beide Richtungen noch zu Folgeverspätungen von 15 bis 20 Minuten. \n\n",
+      "text": "<p>Durch vorzeitige Zugwenden kommt es auch weiterhin zu Teilausfällen.</p><p>Die unbefugten Personen auf der Strecke im Bereich Flughafen haben den Gleisbereich verlassen.</p>",
+      "durationBegin": "30.09.2025",
+      "durationEnd": "30.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/71165f72-0001-4c5d-88af-6987110be934",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-30/b67cf8b6-5e8e-4c0b-9486-cf75398093ebreisendenkarte_20250930-164751.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-30/b67cf8b6-5e8e-4c0b-9486-cf75398093ebreisendenkarte_20250930-164751.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.09.2025 16:47:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.09.2025 17:48",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/36c2b259-9b38-41dc-b19c-7d5ee23c3fee",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "fe39e822-5840-4505-9f0f-6b136f78f578",
       "disruptionId": "cc0a1580-5c72-453d-b388-19d46feadd9e",
       "author": "S_BAHN_MUC",
@@ -428,56 +478,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/fe39e822-5840-4505-9f0f-6b136f78f578",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section1"
-    },
-    {
-      "id": "36c2b259-9b38-41dc-b19c-7d5ee23c3fee",
-      "disruptionId": "71165f72-0001-4c5d-88af-6987110be934",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "S1/S8 Flughafen: Unbefugte Personen auf der Strecke",
-      "summary": "Im Bereich Flughafen sind bis auf weiteres keine Zugfahrten möglich❗  Deswegen kommt es jetzt in beide Richtungen zu Verspätungen von 15 bis 20 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. \n\n",
-      "text": "<p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Grund für diese Beeinträchtigungen&nbsp;sind unbefugte Personen auf der Strecke im Bereich Flughafen.</p>",
-      "durationBegin": "30.09.2025",
-      "durationEnd": "30.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/71165f72-0001-4c5d-88af-6987110be934",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-30/473ae94c-7643-4ebd-a541-0f33323d5166reisendenkarte_20250930-164751.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-09-30/473ae94c-7643-4ebd-a541-0f33323d5166reisendenkarte_20250930-164751.png",
-          "info": "",
-          "alt": "Reisendenkarte 30.09.2025 16:47:51",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.09.2025 17:00",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/36c2b259-9b38-41dc-b19c-7d5ee23c3fee",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section0"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
