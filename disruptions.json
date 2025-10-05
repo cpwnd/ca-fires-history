@@ -51,8 +51,8 @@
       "disruptionId": "6e745a39-84c4-45b4-bca9-7c92ecde3d42",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
       },
       "headline": "Beeinträchtigung zwischen Frankfurt(M) und Aschaffenburg",
       "summary": "Aufgrund eines kurzfristigen Personalausfalles auf der Strecke zwischen Frankfurt(M) und Aschaffenburg kommt es derzeit zu Beeinträchtigungen und Verspätungen von vsl. 25 Minuten im Fernverkehr der Deutschen Bahn.",
@@ -61,8 +61,8 @@
       "mapHref": "https://karte.bahn.de/detail/6e745a39-84c4-45b4-bca9-7c92ecde3d42",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-05/c637b262-9af7-4c48-be15-661423deb7f7reisendenkarte_20251005-082928.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-05/c637b262-9af7-4c48-be15-661423deb7f7reisendenkarte_20251005-082928.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-05/e2c4c971-8c7c-4ac8-ba61-e3bfbb46e67ereisendenkarte_20251005-082928.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-05/e2c4c971-8c7c-4ac8-ba61-e3bfbb46e67ereisendenkarte_20251005-082928.png",
           "info": "",
           "alt": "Reisendenkarte 05.10.2025 08:29:28",
           "openInNewTab": true
@@ -85,7 +85,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "05.10.2025 08:31",
+      "lastModified": "05.10.2025 08:34",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/af479413-cddf-45de-bbbb-35c5cb4ffa3d",
