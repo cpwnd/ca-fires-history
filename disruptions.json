@@ -254,6 +254,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "08a2bab3-0ee9-4467-b539-7bf0ed22419b",
+      "disruptionId": "3338b6c5-066c-4a42-aa33-b91abd140b56",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung S6 Starnberg - Gauting: Reparatur an einem Signal",
+      "summary": "Auf der S6 kommt es zu keinen weiteren Verspätungen mehr.",
+      "text": "<p>Die Reparatur an einem Signal ist beendet.\t</p>",
+      "durationBegin": "14.10.2025",
+      "durationEnd": "14.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/3338b6c5-066c-4a42-aa33-b91abd140b56",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/7f661709-f8d2-4ed5-b03a-b504f62322e1reisendenkarte_20251014-083157.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/7f661709-f8d2-4ed5-b03a-b504f62322e1reisendenkarte_20251014-083157.png",
+          "info": "",
+          "alt": "Reisendenkarte 14.10.2025 08:31:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.10.2025 10:43",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/08a2bab3-0ee9-4467-b539-7bf0ed22419b",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
+    },
+    {
       "id": "7ba6dce9-1c21-4f13-9e85-28168c28b15a",
       "disruptionId": "001d61d6-bdb2-4379-8cce-f9ac8342b531",
       "author": "S_BAHN_MUC",
@@ -339,51 +384,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7ba6dce9-1c21-4f13-9e85-28168c28b15a",
       "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency0"
-    },
-    {
-      "id": "08a2bab3-0ee9-4467-b539-7bf0ed22419b",
-      "disruptionId": "3338b6c5-066c-4a42-aa33-b91abd140b56",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S6 Starnberg - Gauting: Reparatur an einem Signal",
-      "summary": "Auf der S6 erhalten die S-Bahnen zwischen Starnberg und Gauting bis zu 15 Minuten Verspätung. ",
-      "text": "<p>Es kommt zu vorzeitigen Zugwenden und Zugausfällen.</p><p>Grund ist die Reparatur an einem Signal im Bereich Starnberg.</p>",
-      "durationBegin": "14.10.2025",
-      "durationEnd": "14.10.2025",
-      "mapHref": "https://karte.bahn.de/detail/3338b6c5-066c-4a42-aa33-b91abd140b56",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/9475b9a9-809d-458b-92c0-6d5c3bc019ebreisendenkarte_20251014-083157.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-14/9475b9a9-809d-458b-92c0-6d5c3bc019ebreisendenkarte_20251014-083157.png",
-          "info": "",
-          "alt": "Reisendenkarte 14.10.2025 08:31:57",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.10.2025 09:47",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/08a2bab3-0ee9-4467-b539-7bf0ed22419b",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
     },
     {
       "id": "21370cbc-3bb5-4c75-8a4f-221cb40ea44b",
