@@ -1035,23 +1035,23 @@
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "UPDATE: S 6, S 8 Pasing <-> Hauptbahnhof: Bauarbeiten ",
-      "summary": "UPDATE: Zwischen Pasing und Hauptbahnhof, wie auch zwischen Pasing und Ostbahnhof kommt es zu Verspätungen von 5 bis 10 Minuten, Teilausfällen und vorzeitigen Zugwendungen. Bitte beachten S 6 fährt von Pasing - Hauptbahnhof ohne Halt und S 8 fährt von Pasing - Ostbahnhof ohne Halt. ",
-      "text": "<p>Der Grund hierfür sind Bauarbeiten.</p>",
+      "headline": "UPDATE: S 6, S 8 Pasing <-> Hauptbahnhof: Bauarbeiten",
+      "summary": "Zwischen Pasing und Hauptbahnhof, wie auch zwischen Pasing und Ostbahnhof kommt es zu Verspätungen von bis zu 10 Minuten, vereinzelt mehr und vorzeitigen Zugwendungen. Bitte beachten S 6 fährt von Pasing - Hauptbahnhof ohne Halt und S 8 fährt von Pasing - Ostbahnhof ohne Halt.",
+      "text": "<p></p><p>Der Grund hierfür sind Bauarbeiten.</p>",
       "durationBegin": "18.10.2025",
       "durationEnd": "18.10.2025",
       "mapHref": "https://karte.bahn.de/detail/010564bc-e496-4e56-9c39-9c5780731098",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-18/5bd2f712-f4f7-4660-9941-704a10392104reisendenkarte_20251018-093119.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-18/5bd2f712-f4f7-4660-9941-704a10392104reisendenkarte_20251018-093119.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-18/16c07204-e33b-4d15-94f7-32038ceaa705reisendenkarte_20251018-093119.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-18/16c07204-e33b-4d15-94f7-32038ceaa705reisendenkarte_20251018-093119.png",
           "info": "",
           "alt": "Reisendenkarte 18.10.2025 09:31:19",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-18/4da84bca-8ea7-4b49-9e20-e70be9f2e4a9reisendenkarte_20251018-090011.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-18/4da84bca-8ea7-4b49-9e20-e70be9f2e4a9reisendenkarte_20251018-090011.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-18/e5427f5d-5af6-4927-bc0e-80f3b54b7cfbreisendenkarte_20251018-090011.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-18/e5427f5d-5af6-4927-bc0e-80f3b54b7cfbreisendenkarte_20251018-090011.png",
           "info": "",
           "alt": "Reisendenkarte 18.10.2025 09:00:11",
           "openInNewTab": true
@@ -1077,12 +1077,55 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.10.2025 14:44",
+      "lastModified": "18.10.2025 16:00",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c9792684-8954-4eff-9841-378790d6335e",
       "magnoliaPath": "/aktuell/bayern/significant_delays_construction"
+    },
+    {
+      "id": "845f1328-ecb1-484f-9319-8a566e5ac02d",
+      "disruptionId": "18271309-f91f-48c2-bd38-eb3a750adfc7",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Hamm (Westfalen) und Bielefeld",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hamm (Westfalen) und Bielefeld kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen von etwa 15 Minuten.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-/IC-Züge zwischen Hamm (Westf) und Bielefeld.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die Abendstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "18.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/18271309-f91f-48c2-bd38-eb3a750adfc7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-18/bd1aba69-99af-437e-af05-22a06a935e55reisendenkarte_20251018-154841.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2025-10-18/bd1aba69-99af-437e-af05-22a06a935e55reisendenkarte_20251018-154841.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.10.2025 15:48:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "18.10.2025 15:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/845f1328-ecb1-484f-9319-8a566e5ac02d",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
