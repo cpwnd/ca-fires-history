@@ -447,16 +447,16 @@
         "category": "technical_problem_vehicle",
         "label": "Reparatur am Zug"
       },
-      "headline": "S 2 Dachau ↔ Erdweg: Technischer Defekt an einem anderen Zug",
-      "summary": "Zwischen Dachau und Erdweg sind wieder Zugfahrten möglich.",
-      "text": "<p>Bitte rechnen Sie mit vereinzelten Verspätungen und Teilausfällen.</p><p>Der Grund hierfür war der technischer Defekt an einem Zug in Dachau Stadt. </p>",
+      "headline": "Endmeldung: S 2 Dachau ↔ Erdweg",
+      "summary": "Die Züge können wieder zwischen Dachau und Erdweg fahren.",
+      "text": "<p>Es kommt noch zu vereinzelten Ausfällen und Folgeverspätungen.</p><p>Der Grund hierfür war der technischer Defekt an einem Zug in Dachau Stadt. </p>",
       "durationBegin": "29.10.2025",
       "durationEnd": "29.10.2025",
       "mapHref": "https://karte.bahn.de/detail/c7610217-d88b-4dde-947e-cff48808dbd4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/eb5e39a4-0ccc-4414-82dc-bd503152a023reisendenkarte_20251029-115503.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/eb5e39a4-0ccc-4414-82dc-bd503152a023reisendenkarte_20251029-115503.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/92507e2c-3d74-46de-9663-36aafa199c0dreisendenkarte_20251029-115503.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/92507e2c-3d74-46de-9663-36aafa199c0dreisendenkarte_20251029-115503.png",
           "info": "",
           "alt": "Reisendenkarte 29.10.2025 11:55:03",
           "openInNewTab": true
@@ -477,7 +477,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.10.2025 11:57",
+      "lastModified": "29.10.2025 12:31",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -849,6 +849,79 @@
       "magnoliaPath": "/aktuell/mitte/stop_moved_construction"
     },
     {
+      "id": "ee1e87df-37fe-4349-b379-acf02ca0effc",
+      "disruptionId": "fb680c62-77d8-4eb5-b8db-1c5ed65e9737",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "RB 59 / Traunstein - Waging / Freitag, 31.10.2025 / Bauarbeiten",
+      "summary": "Freitag, 31.10.2025",
+      "text": "<p>Am Freitag, den 31. Oktober ab 22:25 Uhr bis 23:10 Uhr entfallen die Züge zwischen Traunstein und Waging wegen Bauarbeiten. Für die ausfallenden Züge ist ein Ersatzverkehr mit Bussen eingerichtet.</p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
+      "durationBegin": "31.10.2025",
+      "durationEnd": "31.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/fb680c62-77d8-4eb5-b8db-1c5ed65e9737",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus RB59",
+          "filterName": "Bus RB59",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.10.2025 12:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ee1e87df-37fe-4349-b379-acf02ca0effc",
+      "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction6"
+    },
+    {
+      "id": "a511f5c2-591d-41c2-9644-5fcc86e68705",
+      "disruptionId": "a8640b20-458f-46a5-84a7-2800d30be0f3",
+      "author": "SUEDOSTBAYERNBAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "RB 52 / Prien - Aschau / Samstag, 01.11.2025 bis Donnerstag, 06.11.2025 / Bauarbeiten",
+      "summary": "von Samstag, 01.11.2025 bis Donnerstag, 06.11.2025",
+      "text": "<p>In der Nacht von 31. Oktober auf den 1. November fällt die letzte Verbindung (RB 27591) von Prien am Chiemsee nach Aschau (Chiemgau) aus. Von Samstag, den 1. November bis Montag, den 10. November (06:00 Uhr)➢ entfallen die Züge zwischen Rosenheim – Prien a. Chiemsee – Aschau (Chiemgau) wegen Bauarbeiten.➢ zwischen Prien a. Chiemsee und Aschau (Chiemgau) ist ein Ersatzverkehr mit Bussen eingerichtet.➢ Die RB 27589 und die RB 27588 entfallen zwischen Rosenheim und Prien ersatzlos.</p><p>Mehr Infos unter: www.suedostbayernbahn.de/baustellen</p>",
+      "durationBegin": "01.11.2025",
+      "durationEnd": "06.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/a8640b20-458f-46a5-84a7-2800d30be0f3",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus RB52",
+          "filterName": "Bus RB52",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.10.2025 12:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/a511f5c2-591d-41c2-9644-5fcc86e68705",
+      "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction5"
+    },
+    {
       "id": "c76cc0fe-c977-47c7-9e41-bdb4a94b3079",
       "disruptionId": "bc33fff9-2835-4988-b0ea-3aac061303f5",
       "author": "REGIO_NORDOST",
@@ -1192,17 +1265,17 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 2 Markt Schwaben ↔ Erding: Reparatur an einem Signal",
-      "summary": "Zwischen Markt Schwaben und Erding ist die Strecke nur sehr eingeschränkt befahrbar, deshalb wenden die meisten S-Bahnen in Markt Schwaben.",
-      "text": "<p>Ein Ersatzverkehr zwischen Markt Schwaben und Erding ist in Planung.</p><p>Bitte rechnen Sie mit verlängerten Reisezeiten .</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "summary": "Zwischen Markt Schwaben und Erding ist die Strecke  sehr stark eingeschränkt befahrbar, deshalb wenden die meisten S-Bahnen in Markt Schwaben.",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit einem Bus im Pendel zwischen Markt Schwaben und Erding eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Start Ersatzverkehr (im Pendel):</p><ul><li><strong>Abfahrt </strong>Markt Schwaben ca. → <strong>12:30 Uhr</strong></li><li><strong>Abfahrt </strong>Erding ca. → <strong>13:00Uhr </strong></li></ul><p>Bitte rechnen Sie mit verlängerten Reisezeiten .</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "29.10.2025",
       "durationEnd": "29.10.2025",
       "mapHref": "https://karte.bahn.de/detail/826a85ef-0339-4300-9f59-afc11082866b",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/67f608c9-6dbe-434f-829b-140a45290d73reisendenkarte_20251029-120227.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/67f608c9-6dbe-434f-829b-140a45290d73reisendenkarte_20251029-120227.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/70d2b849-73f6-4192-bfaa-e885c25d9fd2reisendenkarte_20251029-121351.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-10-29/70d2b849-73f6-4192-bfaa-e885c25d9fd2reisendenkarte_20251029-121351.png",
           "info": "",
-          "alt": "Reisendenkarte 29.10.2025 12:02:27",
+          "alt": "Reisendenkarte 29.10.2025 12:13:51",
           "openInNewTab": true
         }
       ],
@@ -1221,7 +1294,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.10.2025 12:05",
+      "lastModified": "29.10.2025 12:22",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
