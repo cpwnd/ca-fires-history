@@ -1569,6 +1569,48 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/significant_delays_construction"
     },
     {
+      "id": "f1d9ba99-09cd-4630-80d4-c3327b90c31c",
+      "disruptionId": "740df64b-0f50-4037-8d2d-4d63f555a6e9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "accident",
+        "label": "Unfall an einem Bahnübergang"
+      },
+      "headline": "Streckensperrung in den Niederlanden zwischen ´s Hertogenbosch und Utrecht",
+      "summary": "Nach einem Unfall an einem Bahnübergang in den Niederlanden ist die Strecke zwischen ´s Hertogenbosch und Utrecht derzeit gesperrt. Dadurch müssen einzelne Züge im Fernverkehr der Deutschen Bahn umgeleitet werden und verspäten sich um etwa 60 Minuten. Vereinzelt kann es zu Zug- oder Haltausfällen kommen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen München - Frankfurt (Main) - Köln - Amsterdam</li><li>NJ-Züge zwischen Zürich - Basel - Frankfurt (Main) - Köln - Amsterdam</li></ul><p>Die Behebung der Störung soll vsl. bis 02.11.2025 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "31.10.2025",
+      "mapHref": "https://karte.bahn.de/detail/740df64b-0f50-4037-8d2d-4d63f555a6e9",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.ns.nl/en/travel-information/current-situation-on-the-tracks/",
+          "label": "Nederlandse Spoorwegen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "31.10.2025 06:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/f1d9ba99-09cd-4630-80d4-c3327b90c31c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_accident"
+    },
+    {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
       "disruptionId": "76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "author": "S_BAHN_S",
