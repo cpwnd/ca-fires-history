@@ -1064,6 +1064,43 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction8"
     },
     {
+      "id": "b53f89a3-c0f4-463a-9a57-b3b1b31d3f93",
+      "disruptionId": "98b679b7-021e-4933-aead-abdcc613a223",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S 7 Pullach: Technischer Defekt an einem Bahnübergang",
+      "summary": "Im Bereich Pullach kommt es zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "10.11.2025",
+      "durationEnd": "10.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/98b679b7-021e-4933-aead-abdcc613a223",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.11.2025 12:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b53f89a3-c0f4-463a-9a57-b3b1b31d3f93",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
+    },
+    {
       "id": "65b83d42-0ec3-4e60-9d99-fb6e4b8ac1d8",
       "disruptionId": "b958da0c-304e-4fcc-82d6-5c7a19473cb0",
       "author": "S_BAHN_MUC",
