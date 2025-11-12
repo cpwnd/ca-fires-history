@@ -453,6 +453,43 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "6a5bd71c-de85-4f88-ad60-bb34db433e9d",
+      "disruptionId": "ec5466bf-ec76-463e-87ab-3818aabb82f2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 2 Erding: Reparatur an einem Signal",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "12.11.2025",
+      "durationEnd": "12.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/ec5466bf-ec76-463e-87ab-3818aabb82f2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.11.2025 05:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6a5bd71c-de85-4f88-ad60-bb34db433e9d",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
+    },
+    {
       "id": "e423acfb-71d5-40a6-a828-2f07223c3a87",
       "disruptionId": "c5489abd-e559-49ee-81ad-b5ed07dbe2f3",
       "author": "S_BAHN_MUC",
