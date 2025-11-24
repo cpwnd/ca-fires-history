@@ -1067,6 +1067,43 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction4"
     },
     {
+      "id": "aaf67047-f27e-4eae-a7c8-aed557f6c660",
+      "disruptionId": "03c9385d-c362-4008-84ae-3ce583d1aee1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 7: Zugfolgeverspätungen",
+      "summary": "Derzeit kommt es auf der Linie S 7 in in Richtung Wolfratshausen zu Verspätungen von bis zu 20 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche bei Icking.</p>",
+      "durationBegin": "24.11.2025",
+      "durationEnd": "24.11.2025",
+      "mapHref": "https://karte.bahn.de/detail/03c9385d-c362-4008-84ae-3ce583d1aee1",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.11.2025 19:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/aaf67047-f27e-4eae-a7c8-aed557f6c660",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_other_cause"
+    },
+    {
       "id": "b4a4cf9c-8578-4594-ab31-c0c2af57e119",
       "disruptionId": "5bc09fc2-26d7-4dfc-a511-479f0a1e7e93",
       "author": "S_BAHN_MUC",
@@ -1135,43 +1172,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b4a4cf9c-8578-4594-ab31-c0c2af57e119",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
-    },
-    {
-      "id": "aaf67047-f27e-4eae-a7c8-aed557f6c660",
-      "disruptionId": "03c9385d-c362-4008-84ae-3ce583d1aee1",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "other_cause",
-        "label": "Verspätung eines vorausfahrenden Zuges"
-      },
-      "headline": "S 7: Zugfolgeverspätungen",
-      "summary": "Derzeit kommt es auf der Linie S 7 in beiden Richtungen zu Verspätungen von bis zu 20 Minuten und Teilausfällen.",
-      "text": "<p>Grund hierfür sind Zugfolgeverspätungen.</p>",
-      "durationBegin": "24.11.2025",
-      "durationEnd": "24.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/03c9385d-c362-4008-84ae-3ce583d1aee1",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.11.2025 18:47",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/aaf67047-f27e-4eae-a7c8-aed557f6c660",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_other_cause"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
