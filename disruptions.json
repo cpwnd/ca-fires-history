@@ -59,60 +59,6 @@
       "magnoliaPath": "/aktuell/nordost/impairment_technical_problem_railway_section1"
     },
     {
-      "id": "87763d49-eca4-4211-939d-090d8169f5cc",
-      "disruptionId": "f15911b7-4c61-4938-818e-5a20b3c7a978",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "⚠️ Verspätungen auf allen Linien",
-      "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
-      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🟢 S1:</strong> Aktuell Verspätungen von bis zu 10 Minuten.</p><p><strong>Linie 🔴 S2:</strong> Aktuell Verspätungen von bis zu 15 Minuten.</p><p><strong>Linie 🟣 S3:</strong> Aktuell Verspätungen von bis zu 10 Minuten.</p><p><strong>Linie 🔵 S5:</strong> Aktuell Verspätungen von bis zu 5 Minuten.</p><p><strong>🔊 Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Vorangegangener Polizeieinsatz</strong></p>",
-      "durationBegin": "25.11.2025",
-      "durationEnd": "25.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/f15911b7-4c61-4938-818e-5a20b3c7a978",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.11.2025 20:21",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/87763d49-eca4-4211-939d-090d8169f5cc",
-      "magnoliaPath": "/aktuell/nord/significant_delays_police_activity"
-    },
-    {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
       "disruptionId": "a5806583-dac6-4573-9bc8-7619841f0e37",
       "author": "REGIO_SUEDOST",
