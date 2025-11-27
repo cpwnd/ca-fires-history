@@ -381,54 +381,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "1c84893d-f371-44fc-b817-71e9511b414d",
-      "disruptionId": "8ad8cb38-9a78-4080-8c54-c01a9a02d761",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugausfälle in Hessen",
-      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>RE20/RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 27.11. von 14:00 Uhr bis 20:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1 verkehrt im 30-Minuten-Takt.</li><li>Die RE20/RB22 fällt zwischen Frankfurt-Höchst und Frankfurt(Main)Hbf aus.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "27.11.2025",
-      "durationEnd": "27.11.2025",
-      "mapHref": "https://karte.bahn.de/detail/8ad8cb38-9a78-4080-8c54-c01a9a02d761",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 22",
-          "filterName": "RB 22",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.11.2025 13:56",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1c84893d-f371-44fc-b817-71e9511b414d",
-      "magnoliaPath": "/aktuell/hessen/impairment_other_cause0"
-    },
-    {
       "id": "64185545-4506-44de-9d57-4dd142cd15d3",
       "disruptionId": "eb60fa20-5fb0-4be1-b650-3a1a9568be42",
       "author": "REGIO_BW",
@@ -1012,16 +964,16 @@
         "category": "technical_problem_railway_section",
         "label": "Einschränkungen auf der Strecke"
       },
-      "headline": "S 1 Feldmoching ↔ Oberschleißheim: Technischer Defekt an einem Bahnübergang",
-      "summary": "Zwischen Feldmoching und Oberschleißheim kommt es in beiden Richtungen zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "headline": "Endmeldung: S 1 Feldmoching ↔ Oberschleißheim",
+      "summary": "Zwischen Feldmoching und Oberschleißheim kommt es noch zu Folgeverspätungen von bis zu 10 Minuten.",
+      "text": "<p>Der technischer Defekt an einem Bahnübergang wurde behoben.</p>",
       "durationBegin": "27.11.2025",
       "durationEnd": "27.11.2025",
       "mapHref": "https://karte.bahn.de/detail/b0dd211e-917c-4ca6-b46f-9a49d8cf8c8c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-27/dd394dbe-da79-4d27-be5c-747d01031f31reisendenkarte_20251127-185425.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-27/dd394dbe-da79-4d27-be5c-747d01031f31reisendenkarte_20251127-185425.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-27/69e7b5fb-cf65-4f32-b8a8-f75f563f4846reisendenkarte_20251127-185425.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-11-27/69e7b5fb-cf65-4f32-b8a8-f75f563f4846reisendenkarte_20251127-185425.png",
           "info": "",
           "alt": "Reisendenkarte 27.11.2025 18:54:25",
           "openInNewTab": true
@@ -1042,7 +994,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.11.2025 20:14",
+      "lastModified": "27.11.2025 20:44",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
