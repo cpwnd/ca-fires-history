@@ -47,24 +47,24 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/stop_moved_technical_problem_railway_section"
     },
     {
-      "id": "a54d2183-d7bd-4e93-99b8-ba791a402f34",
-      "disruptionId": "c958da3a-b09b-4354-b965-d841d8783fb9",
+      "id": "376ee89e-8db7-4fea-815b-724199718eb5",
+      "disruptionId": "d2fe8d23-e34a-48ad-8e38-c9a14b997b7b",
       "author": "S_BAHN_HH",
       "cause": {
         "category": "police_activity",
         "label": "Behördliche Maßnahme"
       },
-      "headline": "S1: Aktuell kein Halt in Hasselbrook.",
-      "summary": "Aktuell hält die S1 nicht in Hasselbrook. Grund: Polizeieinsatz.",
-      "text": "<p>.</p>",
+      "headline": "Polizeieinsatz beendet",
+      "summary": "S1: Polizeieinsatz beendet. Die S1 hält wieder in Landwehr.",
+      "text": "<p>..</p>",
       "durationBegin": "04.12.2025",
       "durationEnd": "04.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/c958da3a-b09b-4354-b965-d841d8783fb9",
+      "mapHref": "https://karte.bahn.de/detail/d2fe8d23-e34a-48ad-8e38-c9a14b997b7b",
       "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
         "HH",
@@ -72,17 +72,17 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "04.12.2025 13:57",
+      "lastModified": "04.12.2025 14:29",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a54d2183-d7bd-4e93-99b8-ba791a402f34",
-      "magnoliaPath": "/aktuell/nord/stop_moved_police_activity0"
+      "detailPagePath": "/service/fahrplaene/376ee89e-8db7-4fea-815b-724199718eb5",
+      "magnoliaPath": "/aktuell/nord/stop_moved_police_activity1"
     },
     {
       "id": "1016276c-754e-4ac2-945b-8291d7e313c7",
