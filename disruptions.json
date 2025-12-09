@@ -645,48 +645,6 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
-      "id": "19a90d96-1995-49cb-bbe2-25dbd6b420ee",
-      "disruptionId": "8fa2a4d7-bdc5-4d84-91a7-fc36679f3e42",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Zugausfälle im Raum Frankfurt(Main)",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist eine Reparatur an einer Weiche.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S8: Kelsterbach - Frankfurt Flughafen Regionalbahnhof - Frankfurt(Main)Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li> Am 09. Dezember zwischen 06 Uhr und 20 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1 verkehrt im 30-Minuten-Takt.</li><li>Die Züge der S8 mit Fahrtziel und -beginn in Frankfurt(Main)Hbf, Frankfurt(M) Flughafen Regionalbf oder Kelsterbach entfallen am Vormittag.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "09.12.2025",
-      "durationEnd": "09.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/8fa2a4d7-bdc5-4d84-91a7-fc36679f3e42",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.12.2025 08:21",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/19a90d96-1995-49cb-bbe2-25dbd6b420ee",
-      "magnoliaPath": "/aktuell/hessen/reduced_service_technical_problem_railway_section0"
-    },
-    {
       "id": "d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "disruptionId": "dbb5e16a-a1ab-41a6-8bec-7779ad98a03b",
       "author": "S_BAHN_MUC",
@@ -1133,56 +1091,6 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_police_activity"
     },
     {
-      "id": "b6a9fd98-6134-487b-8623-47bb7a41f24b",
-      "disruptionId": "bf536daf-ba3a-4343-b0f3-b0196d1b8804",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Endmeldung: S 5, S 8 Germering-Unterpfaffenhofen",
-      "summary": "Im Bereich Germering-Unterpfaffenhofen kommt es noch zu Verspätungen von 10 bis 15 Minuten und zu vorzeitigen Zugwenden.",
-      "text": "<p>Die unbefugte Person hat die Strecke verlassen.</p>",
-      "durationBegin": "09.12.2025",
-      "durationEnd": "09.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/bf536daf-ba3a-4343-b0f3-b0196d1b8804",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/e41f14df-00fa-472c-b769-64661e5d4f7creisendenkarte_20251209-182245.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/e41f14df-00fa-472c-b769-64661e5d4f7creisendenkarte_20251209-182245.png",
-          "info": "",
-          "alt": "Reisendenkarte 09.12.2025 18:22:45",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.12.2025 19:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b6a9fd98-6134-487b-8623-47bb7a41f24b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
-    },
-    {
       "id": "feb48184-b06d-4dd4-88c5-5589ef65e241",
       "disruptionId": "b23127c9-26f7-4731-9019-f8f0bd65bf69",
       "author": "S_BAHN_MUC",
@@ -1191,15 +1099,15 @@
         "label": "Einschränkungen auf der Strecke"
       },
       "headline": "S 4 Geltendorf: Vorübergehend verminderte Geschwindigkeit auf der Strecke",
-      "summary": "Im Bereich Geltendorf kommt es in Richtung stadteinwärts zu Verspätungen von 10 bis 15 Minuten und zu vorzeitigen Zugwenden .",
+      "summary": "Im Bereich Geltendorf kommt es in Richtung stadteinwärts zu Verspätungen von bis zu 10 Minuten und zu vorzeitigen Zugwenden .",
       "text": "<p>Der Grund hierfür ist eine vorübergehende verminderte Geschwindigkeit auf der Strecke.</p>",
       "durationBegin": "09.12.2025",
       "durationEnd": "09.12.2025",
       "mapHref": "https://karte.bahn.de/detail/b23127c9-26f7-4731-9019-f8f0bd65bf69",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/1b16009e-0a7a-491f-9666-105e24e3eb0ereisendenkarte_20251209-180310.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/1b16009e-0a7a-491f-9666-105e24e3eb0ereisendenkarte_20251209-180310.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/f94a9a50-64e5-484f-927c-610d0ea28177reisendenkarte_20251209-180310.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-09/f94a9a50-64e5-484f-927c-610d0ea28177reisendenkarte_20251209-180310.png",
           "info": "",
           "alt": "Reisendenkarte 09.12.2025 18:03:10",
           "openInNewTab": true
@@ -1215,17 +1123,12 @@
       ],
       "lines": [
         {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 4",
           "filterName": "S 4 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.12.2025 19:23",
+      "lastModified": "09.12.2025 20:12",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
