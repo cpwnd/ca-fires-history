@@ -505,56 +505,6 @@
       "magnoliaPath": "/aktuell/hessen/reduced_service_construction"
     },
     {
-      "id": "4300c983-3274-477b-a6d1-e684cf29c686",
-      "disruptionId": "74a90ea1-b422-4304-9734-385cdcf1c411",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 20 Geltendorf ↔ Höllriegelskreuth: Reparatur an der Strecke",
-      "summary": "Montag Vormittag fallen folgende Züge der Linie S 20 aus:",
-      "text": "<p><strong>S 20 Geltendorf → Höllriegelskreuth</strong></p><ul><li>S 20 Pasing Abfahrt 05:59 Uhr → Höllriegelskreuth Ankunft 06:19 Uhr&nbsp;</li><li>S 20 Buchenau Abfahrt 06:23 Uhr → Höllriegelskreuth Ankunft 07:04 Uhr&nbsp;</li><li>S 20 Buchenau Abfahrt 07:03 Uhr → Höllriegelskreuth Ankunft 07:44 Uhr&nbsp;</li><li>S 20 Geltendorf Abfahrt 07:00 Uhr → Heimeranplatz Ankunft 07:39 Uhr&nbsp;</li><li>S 20 Geltendorf Abfahrt 07:18 Uhr → Höllriegelskreuth Ankunft 08:11 Uhr&nbsp;</li><li>S 20 Buchenau Abfahrt 08:23 Uhr → Höllriegelskreuth Ankunft 09:04 Uhr&nbsp;</li></ul><p><strong>S 20 Höllriegelskreuth → Geltendorf</strong></p><ul><li>S 20 Höllriegelskreuth Abfahrt 06:49 Uhr → Buchenau Ankunft 07:35 Uhr&nbsp;</li><li>S 20 Höllriegelskreuth Abfahrt 07:55 Uhr → Pasing Ankunft 08:16 Uhr&nbsp;</li><li>S 20 Höllriegelskreuth Abfahrt 08:55 Uhr → Pasing Ankunft 09:16 Uhr&nbsp;</li><li>S 20 Höllriegelskreuth Abfahrt 09:55 Uhr → Pasing Ankunft 10:16 Uhr&nbsp;</li></ul><p>Bitte nutzen sie als Alternative die S4 zwischen Geltendorf und Donnersberger Brücke und die S7 zwischen Höllriegelskreuth und Donnersberger Brücke.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke zwischen Buchenau und Fürstenfeldbruck.</p>",
-      "durationBegin": "14.12.2025",
-      "durationEnd": "15.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/74a90ea1-b422-4304-9734-385cdcf1c411",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-14/5a18528e-2ef8-4872-b93d-26b5bfa27d6creisendenkarte_20251214-114631.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-14/5a18528e-2ef8-4872-b93d-26b5bfa27d6creisendenkarte_20251214-114631.png",
-          "info": "",
-          "alt": "Reisendenkarte 14.12.2025 11:46:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.12.2025 11:51",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4300c983-3274-477b-a6d1-e684cf29c686",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section2"
-    },
-    {
       "id": "d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "disruptionId": "dbb5e16a-a1ab-41a6-8bec-7779ad98a03b",
       "author": "S_BAHN_MUC",
@@ -931,16 +881,16 @@
         "category": "technical_problem_vehicle",
         "label": "Technische Störung am Zug"
       },
-      "headline": "Stammstrecke: Technische Störung an einem Zug",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Folgeverspätungen von bis 15 Minuten und Teilausfällen.",
+      "headline": "Endmeldung: Stammstrecke",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof noch zu vereinzelten Folgeverspätungen.",
       "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
       "durationBegin": "15.12.2025",
       "durationEnd": "15.12.2025",
       "mapHref": "https://karte.bahn.de/detail/371132ee-3b21-44b8-8b04-da1a875232d7",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/edcb276d-9212-42fa-8a83-0788fee0eb87reisendenkarte_20251215-081753.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/edcb276d-9212-42fa-8a83-0788fee0eb87reisendenkarte_20251215-081753.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/5dd00ae6-1856-4d0f-8b2d-71e4139f7b04reisendenkarte_20251215-081753.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/5dd00ae6-1856-4d0f-8b2d-71e4139f7b04reisendenkarte_20251215-081753.png",
           "info": "",
           "alt": "Reisendenkarte 15.12.2025 08:17:53",
           "openInNewTab": true
@@ -991,62 +941,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.12.2025 09:58",
+      "lastModified": "15.12.2025 10:26",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f84e5e70-37cc-4116-9ccd-f430c8add9ad",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
-    },
-    {
-      "id": "8f974516-db9b-4f27-8f16-9c13e577976b",
-      "disruptionId": "1a329d91-7aef-449e-b77f-59e4f07d49ff",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 4 Buchenau ↔ Fürstenfeldbruck: Reparatur an der Strecke",
-      "summary": "Zwischen Buchenau und Fürstenfeldbruck fahren die S-Bahnen weiterhin mit verminderter Geschwindigkeit, deswegen kann es sporadisch zu Verspätungen von 5 bis 10 Minuten und zu kurzfristigen, vorzeitigen Zugwendungen kommen. ",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "13.12.2025",
-      "durationEnd": "15.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/1a329d91-7aef-449e-b77f-59e4f07d49ff",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/15bdca5a-3631-437d-8d1a-8f25a23cc8cbreisendenkarte_20251213-180726.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/15bdca5a-3631-437d-8d1a-8f25a23cc8cbreisendenkarte_20251213-180726.png",
-          "info": "",
-          "alt": "Reisendenkarte 13.12.2025 18:07:26",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.12.2025 09:04",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8f974516-db9b-4f27-8f16-9c13e577976b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
