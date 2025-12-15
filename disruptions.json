@@ -371,6 +371,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "f0498c09-1d78-47cb-a1ef-f3a36221d923",
+      "disruptionId": "9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 4 Buchenau ↔ Fürstenfeldbruck: Reparatur an der Strecke",
+      "summary": "Zwischen Buchenau und Fürstenfeldbruck kommt es weiterhin zu Verspätungen von bis zu 20 Minuten und Teilausfällen.\nIn diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit.\n",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "15.12.2025",
+      "durationEnd": "15.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/9c18ccf4-b876-45af-8f8c-6d6a19f99aaa",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/81aafa70-716c-4cf6-bf44-5c4131742984reisendenkarte_20251215-104556.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/81aafa70-716c-4cf6-bf44-5c4131742984reisendenkarte_20251215-104556.png",
+          "info": "",
+          "alt": "Reisendenkarte 15.12.2025 10:45:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.12.2025 10:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f0498c09-1d78-47cb-a1ef-f3a36221d923",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "fb8da989-8038-4956-bc53-d473958bed81",
       "disruptionId": "87499c96-6f44-4ed7-a918-41713f0f1937",
       "author": "REGIO_MITTE",
@@ -872,81 +917,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b884cfb9-3d6e-42ff-9973-2777ef568381",
       "magnoliaPath": "/aktuell/nord/additional_service_construction"
-    },
-    {
-      "id": "f84e5e70-37cc-4116-9ccd-f430c8add9ad",
-      "disruptionId": "371132ee-3b21-44b8-8b04-da1a875232d7",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "Endmeldung: Stammstrecke",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof noch zu vereinzelten Folgeverspätungen.",
-      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
-      "durationBegin": "15.12.2025",
-      "durationEnd": "15.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/371132ee-3b21-44b8-8b04-da1a875232d7",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/5dd00ae6-1856-4d0f-8b2d-71e4139f7b04reisendenkarte_20251215-081753.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-15/5dd00ae6-1856-4d0f-8b2d-71e4139f7b04reisendenkarte_20251215-081753.png",
-          "info": "",
-          "alt": "Reisendenkarte 15.12.2025 08:17:53",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.12.2025 10:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f84e5e70-37cc-4116-9ccd-f430c8add9ad",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
