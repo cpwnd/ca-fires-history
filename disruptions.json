@@ -667,6 +667,43 @@
       "magnoliaPath": "/aktuell/nrw/unwetterschaeden"
     },
     {
+      "id": "a68a7eb6-8e48-42ef-9a6f-d08220bfb6f8",
+      "disruptionId": "0f121958-74c5-4f64-91f4-39f96bdb9557",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "S 2 Dachau ↔ München Ost: Technische Störung an einem Zug",
+      "summary": "Heute Nachmittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 2 Dachau → München Ost </strong>&nbsp;</p><ul><li>S 2 Dachau Bahnhof Abfahrt 16:39 Uhr <strong>→ </strong>München Ost Ankunft 17:08 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:39 Uhr <strong>→ </strong>München Ost Ankunft 19:08 Uhr&nbsp;</li></ul><p><strong>S 2 München Ost → Dachau </strong></p><ul><li>S 2 München Ost Abfahrt 17:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:21 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "17.12.2025",
+      "durationEnd": "17.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/0f121958-74c5-4f64-91f4-39f96bdb9557",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.12.2025 16:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a68a7eb6-8e48-42ef-9a6f-d08220bfb6f8",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle0"
+    },
+    {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
       "disruptionId": "a6f1fd33-a9ca-41ab-aaab-7465d230b061",
       "author": "REGIO_SUEDOST",
