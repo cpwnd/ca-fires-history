@@ -281,43 +281,6 @@
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
     },
     {
-      "id": "30806398-4a9f-4461-9018-8c88c566f487",
-      "disruptionId": "3f097038-3f64-4027-9074-f6a49f9662c9",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "S3: Notarzteinsatz auf der Strecke beendet. Die S3 fährt wieder zwischen Pinneberg und Elbgaustraße.",
-      "summary": "Es ist kein Umstieg mehr auf Busse und andere Verkehrsmittel erforderlich.",
-      "text": "<p>...</p>",
-      "durationBegin": "18.12.2025",
-      "durationEnd": "18.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/3f097038-3f64-4027-9074-f6a49f9662c9",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.12.2025 17:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/30806398-4a9f-4461-9018-8c88c566f487",
-      "magnoliaPath": "/aktuell/nord/massive_impairment_medical_emergency"
-    },
-    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -743,7 +706,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.12.2025 16:20",
+      "lastModified": "18.12.2025 17:59",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1044,15 +1007,15 @@
         "label": "Technische Störung am Zug"
       },
       "headline": "Stammstrecke Isartor ↔ Marienplatz: Technische Störung an einem Zug",
-      "summary": "Zwischen Isartor und Marienplatz kommt es in Richtung stadtauswärts zu Verspätungen von bis zu 10 Minuten und zu Teilausfällen.",
+      "summary": "Zwischen Isartor und Marienplatz kommt es in Richtung stadtauswärts zu Verspätungen von 10 bis zu 15 Minuten, zu Haltausfällen und vorzeitigen Zugwenden.",
       "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
       "durationBegin": "18.12.2025",
       "durationEnd": "18.12.2025",
       "mapHref": "https://karte.bahn.de/detail/f328eb60-a014-4297-a9e2-1b87bd5f578a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-18/c4193efd-f1fd-49f7-80c4-d15299bbabe7reisendenkarte_20251218-174121.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-18/c4193efd-f1fd-49f7-80c4-d15299bbabe7reisendenkarte_20251218-174121.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-18/a3dc2633-5e37-44db-9af8-28cdddb094c6reisendenkarte_20251218-174121.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-18/a3dc2633-5e37-44db-9af8-28cdddb094c6reisendenkarte_20251218-174121.png",
           "info": "",
           "alt": "Reisendenkarte 18.12.2025 17:41:21",
           "openInNewTab": true
@@ -1103,7 +1066,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.12.2025 17:44",
+      "lastModified": "18.12.2025 18:23",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1111,41 +1074,49 @@
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle2"
     },
     {
-      "id": "3268e613-1c4a-4cb1-95df-6aae64716558",
-      "disruptionId": "dac857b2-bb86-4373-a5aa-3c8ee70f91f8",
-      "author": "S_BAHN_HH",
+      "id": "9ddfc383-dc6f-4eeb-960a-5c4d9f347a5e",
+      "disruptionId": "93282a3b-7698-4728-a7af-a4dbefc6e964",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Technischer Defekt an einem Bahnübergang"
       },
-      "headline": "Information für Fahrgäste der Line S3, in Richtung Elbgaustraße",
-      "summary": "Die S-Bahnen mit dem Ziel Pinneberg, fahren jetzt wieder über Jungfernstieg und Altona.",
-      "text": "<p>...</p>",
+      "headline": "S 5 Höhenkirchen-Siegertsbrunn ↔ Aying: Technischer Defekt an einem Bahnübergang",
+      "summary": "Zwischen Höhenkirchen-Siegertsbrunn und Aying kommt es zu Verspätungen von bis zu 10 Minuten und zu Teilausfällen.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
       "durationBegin": "18.12.2025",
       "durationEnd": "18.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/dac857b2-bb86-4373-a5aa-3c8ee70f91f8",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/93282a3b-7698-4728-a7af-a4dbefc6e964",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-18/2eb7edc5-99d7-4e4b-a817-0e739acfe0ffreisendenkarte_20251218-180957.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-18/2eb7edc5-99d7-4e4b-a817-0e739acfe0ffreisendenkarte_20251218-180957.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.12.2025 18:09:57",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "HH"
+        "BY"
       ],
       "lines": [
         {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
+          "name": "S 5",
+          "filterName": "S 5 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.12.2025 17:47",
+      "lastModified": "18.12.2025 18:11",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3268e613-1c4a-4cb1-95df-6aae64716558",
-      "magnoliaPath": "/aktuell/nord/detour_technical_problem_railway_section1"
+      "detailPagePath": "/service/fahrplaene/9ddfc383-dc6f-4eeb-960a-5c4d9f347a5e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
     },
     {
       "id": "b970260c-d304-42b1-b3bc-86a99e9b0eec",
