@@ -146,6 +146,44 @@
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
     },
     {
+      "id": "4488dce1-77ec-42b8-b843-2871837109b9",
+      "disruptionId": "d85b1129-e724-42ef-8eb5-53f04020adc0",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S1: Aktuell nur zw. Poppenbüttel u. Othmarschen im 5-Min Takt",
+      "summary": "S1: Aktuell fährt die S1 zwischen Poppenbüttel und Othmarschen alle fünf Minuten. Grund: Technische Störung an der Strecke.",
+      "text": "<p>Auf den übrigen Streckenabschnitten fährt die S1 alle 10 Minuten.</p>",
+      "durationBegin": "19.12.2025",
+      "durationEnd": "19.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/d85b1129-e724-42ef-8eb5-53f04020adc0",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.12.2025 06:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4488dce1-77ec-42b8-b843-2871837109b9",
+      "magnoliaPath": "/aktuell/nord/stop_moved_technical_problem_railway_section0"
+    },
+    {
       "id": "c2516643-62d0-4e8c-b45d-f93552db05e5",
       "disruptionId": "ce8fdf62-406f-4398-8c0c-c79dbbe91726",
       "author": "FERNVERKEHR_AG",
@@ -235,51 +273,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "86455f9c-b56f-4020-bd42-eb1222e55bfc",
-      "disruptionId": "9fb2c4c8-6a70-40ec-b241-78f394e78581",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Endmeldung: S 2 Petershausen ↔ Dachau",
-      "summary": "Die Züge können wieder zwischen Petershausen und Dachau fahren.",
-      "text": "<p>Der Ersatzverkehr mit Großraumtaxis wird 06:30 Uhr eingestellt.</p><p>Es kommt zu keinen Beeinträchtigungen mehr.</p><p>Grund hierfür war eine Baustelle.</p>",
-      "durationBegin": "19.12.2025",
-      "durationEnd": "19.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/9fb2c4c8-6a70-40ec-b241-78f394e78581",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-19/0c58bbfd-1a59-4dc0-a7ee-f04ab438c4a2reisendenkarte_20251219-044357.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-19/0c58bbfd-1a59-4dc0-a7ee-f04ab438c4a2reisendenkarte_20251219-044357.png",
-          "info": "",
-          "alt": "Reisendenkarte 19.12.2025 04:43:57",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.12.2025 06:15",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/86455f9c-b56f-4020-bd42-eb1222e55bfc",
-      "magnoliaPath": "/aktuell/bayern/no_service_construction"
     },
     {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
