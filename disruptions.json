@@ -298,6 +298,43 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "9ff84d70-cc67-48a1-9508-24ebe1844df9",
+      "disruptionId": "bd1ca160-1150-468c-89a6-33142f708e46",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 2 Dachau ↔ Altomünster: Reparatur an der Strecke",
+      "summary": "Zwischen Dachau und Altomünster sind keine Zugfahrten möglich. ",
+      "text": "<p>Die S-Bahnen wenden in Dachau.</p><p>Ein Ersatzverkehr zwischen Dachau und Altomünster ist in Planung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke in Erdweg.</p>",
+      "durationBegin": "22.12.2025",
+      "durationEnd": "22.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/bd1ca160-1150-468c-89a6-33142f708e46",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.12.2025 12:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9ff84d70-cc67-48a1-9508-24ebe1844df9",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
