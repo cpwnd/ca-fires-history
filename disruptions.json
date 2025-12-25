@@ -733,58 +733,6 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
-      "id": "dec8e364-25d4-4119-bbfe-b8019ee55fa4",
-      "disruptionId": "7de3caff-8f3c-4c3c-bd9e-fab2ef0ddb85",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Endmeldung: S 6 Starnberg ↔ Tutzing",
-      "summary": "Die Züge können wieder zwischen Starnberg und Tutzing fahren.",
-      "text": "<p>Es kommt noch zu Verspätungen und Teilausfällen.</p><p>Der Polizeieinsatz ist beendet.</p>",
-      "durationBegin": "25.12.2025",
-      "durationEnd": "25.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/7de3caff-8f3c-4c3c-bd9e-fab2ef0ddb85",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-25/4e494993-97aa-4190-ac5a-7aa01b6a8359reisendenkarte_20251225-143337.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-25/4e494993-97aa-4190-ac5a-7aa01b6a8359reisendenkarte_20251225-143337.png",
-          "info": "",
-          "alt": "Reisendenkarte 25.12.2025 14:33:37",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-25/f137e8c4-7cda-418e-91ce-9f9042fa7122reisendenkarte_20251225-145915.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-25/f137e8c4-7cda-418e-91ce-9f9042fa7122reisendenkarte_20251225-145915.png",
-          "info": "",
-          "alt": "Reisendenkarte 25.12.2025 14:59:15",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.12.2025 15:00",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dec8e364-25d4-4119-bbfe-b8019ee55fa4",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity0"
-    },
-    {
       "id": "61cd8b13-9a51-4b61-a0be-3cb075f7002b",
       "disruptionId": "60d9417c-206d-4ac0-9a83-0a2b2e10e6e0",
       "author": "FERNVERKEHR_AG",
