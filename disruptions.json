@@ -785,25 +785,25 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
-      "id": "a137bfca-32fa-4874-b42e-058e85b87df4",
-      "disruptionId": "6495a5d7-bbaa-4b75-9b4c-7b53f8a88440",
+      "id": "f4ae1b95-dcdb-4109-875a-7df13e9d49c9",
+      "disruptionId": "2f63eb2e-fc1c-4d45-8a19-c40bd2ebffb5",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
       },
-      "headline": "Endmeldung: S 4, S 6 Haar",
-      "summary": "Im Bereich Haar kommt es noch zu Folgeverspätungen von bis zu 10 Minuten.",
-      "text": "<p>Der Polizeieinsatz ist beendet.</p>",
+      "headline": "S 4 Türkenfeld: Technische Störung an einem Zug",
+      "summary": "Im Bereich Türkenfeld kommt es zu Verspätungen von bis zu 10 Minuten und vorzeitigen Zugwenden.",
+      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
       "durationBegin": "28.12.2025",
       "durationEnd": "28.12.2025",
-      "mapHref": "https://karte.bahn.de/detail/6495a5d7-bbaa-4b75-9b4c-7b53f8a88440",
+      "mapHref": "https://karte.bahn.de/detail/2f63eb2e-fc1c-4d45-8a19-c40bd2ebffb5",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-28/6b1613a6-f8d1-436f-9cc6-8fdc4e65a952reisendenkarte_20251228-205641.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-28/6b1613a6-f8d1-436f-9cc6-8fdc4e65a952reisendenkarte_20251228-205641.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-28/60b6a67a-74e3-4d76-987b-50fa45ed3463reisendenkarte_20251228-215109.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2025-12-28/60b6a67a-74e3-4d76-987b-50fa45ed3463reisendenkarte_20251228-215109.png",
           "info": "",
-          "alt": "Reisendenkarte 28.12.2025 20:56:41",
+          "alt": "Reisendenkarte 28.12.2025 21:51:09",
           "openInNewTab": true
         }
       ],
@@ -817,17 +817,17 @@
       ],
       "lines": [
         {
-          "name": "S 6",
-          "filterName": "S 6 München",
+          "name": "S 4",
+          "filterName": "S 4 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.12.2025 20:58",
+      "lastModified": "28.12.2025 21:53",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a137bfca-32fa-4874-b42e-058e85b87df4",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity"
+      "detailPagePath": "/service/fahrplaene/f4ae1b95-dcdb-4109-875a-7df13e9d49c9",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "9da8f54b-9744-446e-9699-f4147f7ad6bc",
