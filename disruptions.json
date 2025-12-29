@@ -78,6 +78,82 @@
       "magnoliaPath": "/aktuell/nordost/reduced_service_construction12"
     },
     {
+      "id": "667dfd0e-c6a5-4b9c-8d53-4c9ba4fe0de1",
+      "disruptionId": "4d96ddf9-97de-4ffb-a1bd-719762589431",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie RB 24 - kein Halt in Berlin-Lichtenberg und Berlin-Hohenschönhausen sowie zusätzlicher Halt in Berlin Gesundbrunnen",
+      "summary": "Freitag, 16.01.2026, 21:45 Uhr bis Samstag, 17.01.2026, 06:00 Uhr",
+      "text": "<p>•\tEinzelne Züge (RB 18336 und 18337) dieser Linie werden zwischen Berlin Ostkreuz und Bernau (b Berlin) umgeleitet. Die planmäßigen Halte in Berlin-Lichtenberg und Berlin-Hohenschönhausen entfallen.•\tRB 18343 (planmäßig 3:43 Uhr ab Eberswalde Hbf) fährt ab Eberswalde Hbf 11 Min. früher und wird von Bernau (b Berlin) bis Berlin-Lichtenberg über Berlin Gesundbrunnen (zusätzlicher Halt) umgeleitet. Der planmäßige Halt in Berlin-Hohenschönhausen entfällt.•\tAls Ersatz nutzen Sie bitte alternative Verbindungen.</p><p>Fahrpläne für ggf. notwendige Ersatzverkehre mit Bussen sind in Kürze hier in unserer DB Regio Verkehrsinfo abrufbar.</p>",
+      "durationBegin": "16.01.2026",
+      "durationEnd": "17.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/4d96ddf9-97de-4ffb-a1bd-719762589431",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RB 24",
+          "filterName": "RB 24",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.12.2025 15:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/667dfd0e-c6a5-4b9c-8d53-4c9ba4fe0de1",
+      "magnoliaPath": "/aktuell/nordost/stop_moved_construction8"
+    },
+    {
+      "id": "2d77c964-8618-4247-b15c-ed426b12684c",
+      "disruptionId": "95b3ae98-642e-4d26-af8e-d9f0a7a0c090",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie RB 22 - kein Halt in Golm und zusätzlicher Halt in Werder (Havel)",
+      "summary": "Donnerstag, 15.01.2026, 21:45 Uhr bis Freitag, 16.01.2026, 05:15 Uhr",
+      "text": "<p>Mehrere Züge dieser Linie halten nicht Golm, dafür zusätzlich in Werder (Havel).</p><p>Fahrpläne für ggf. notwendige Ersatzverkehre mit Bussen sind in Kürze hier in unserer DB Regio Verkehrsinfo abrufbar.</p>",
+      "durationBegin": "15.01.2026",
+      "durationEnd": "16.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/95b3ae98-642e-4d26-af8e-d9f0a7a0c090",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RB 22",
+          "filterName": "RB 22",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.12.2025 15:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/2d77c964-8618-4247-b15c-ed426b12684c",
+      "magnoliaPath": "/aktuell/nordost/stop_moved_construction7"
+    },
+    {
       "id": "e2115606-c958-455b-89fc-4a553bed4417",
       "disruptionId": "58cb1bd3-2107-46f6-a623-d139d36f7091",
       "author": "REGIO_NORDOST",
@@ -154,6 +230,44 @@
       "magnoliaPath": "/aktuell/nordost/stop_moved_construction0"
     },
     {
+      "id": "c87e4803-cf8b-4433-8de5-a4a31a14d810",
+      "disruptionId": "172f2503-bc66-45eb-8a1c-9e21c0320a7c",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie RB 24 - frühere Fahrzeit Flughafen BER > Eberswalde Hbf",
+      "summary": "Montag, 19.01.2026, 22:30 Uhr bis Montag, 19.01.2026, 23:30 Uhr",
+      "text": "<p>RB 18336 (planmäßige Ankunft 23:27 Uhr in Eberswalde Hbf) fährt von Flughafen BER bis Eberswalde Hbf bis zu 13 Min. früher.</p><p>Fahrpläne für ggf. notwendige Ersatzverkehre mit Bussen sind in Kürze hier in unserer DB Regio Verkehrsinfo abrufbar.</p>",
+      "durationBegin": "19.01.2026",
+      "durationEnd": "19.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/172f2503-bc66-45eb-8a1c-9e21c0320a7c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RB 24",
+          "filterName": "RB 24",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.12.2025 15:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/c87e4803-cf8b-4433-8de5-a4a31a14d810",
+      "magnoliaPath": "/aktuell/nordost/modified_service_construction"
+    },
+    {
       "id": "8d37843a-028f-41f5-8f6c-30f75d1626fb",
       "disruptionId": "898ba452-8b48-4b6e-b80c-daba4ad172d2",
       "author": "REGIO_NORDOST",
@@ -163,7 +277,7 @@
       },
       "headline": "Baumaßnahme auf den Linien RE 5, RE 1, RE 2, RE 4 und S 2 - Ersatzverkehr Lübeck Hbf/Grevesmühlen <> Rostock Hbf sowie frühere Fahrzeiten",
       "summary": "Montag, 12.01.2026, 21:00 Uhr bis Dienstag, 13.01.2026, 05:00 Uhr",
-      "text": "<p>•\tEinzelne Züge der Linien RE 1 (RE 4320), RE 2 (RE 56874) und RE 5 (RE 3525) fahren von Rostock Hbf bis Güstrow/Herrenberg bis zu 8 Min. früher.•\tEinzelne Züge der Linie RE 1 fallen zwischen Grevesmühlen und Rostock Hbf aus und werden durch Busse ersetzt.•\tEinzelne Züge der Linie RE 2 fallen zwischen Lübeck Hbf und Rostock Hbf aus und werden durch Busse ersetzt.•\tEinzelne S-Bahnen der Linie S 2 fallen zwischen Güstrow und Rostock Hbf aus und werden durch Busse ersetzt.•\tRE 5364 fährt ab Neubrandenburg bis zu 14 Min. früher.•\tBitte beachten Sie die vom Zugverkehr abweichenden (früheren/späteren) Fahrzeiten des Ersatzverkehrs.</p>",
+      "text": "<p>•\tEinzelne Züge der Linien RE 1 (RE 4320), RE 2 (RE 56874) und RE 5 (RE 3525) fahren von Rostock Hbf bis Güstrow bis zu 8 Min. früher.•\tEinzelne Züge der Linie RE 1 fallen zwischen Grevesmühlen und Rostock Hbf aus und werden durch Busse ersetzt.•\tEinzelne Züge der Linie RE 2 fallen zwischen Lübeck Hbf und Rostock Hbf aus und werden durch Busse ersetzt.•\tEinzelne S-Bahnen der Linie S 2 fallen zwischen Güstrow und Rostock Hbf aus und werden durch Busse ersetzt.•\tRE 5364 fährt ab Neubrandenburg bis zu 14 Min. früher.•\tBitte beachten Sie die vom Zugverkehr abweichenden (früheren/späteren) Fahrzeiten des Ersatzverkehrs.</p>",
       "durationBegin": "12.01.2026",
       "durationEnd": "13.01.2026",
       "mapHref": "https://karte.bahn.de/detail/898ba452-8b48-4b6e-b80c-daba4ad172d2",
@@ -206,11 +320,49 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.12.2025 15:16",
+      "lastModified": "29.12.2025 15:39",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8d37843a-028f-41f5-8f6c-30f75d1626fb",
       "magnoliaPath": "/aktuell/nordost/additional_service_construction30"
+    },
+    {
+      "id": "7830f8cf-d722-4b42-a482-c3f377b04430",
+      "disruptionId": "63be0303-ff8a-4330-8bb8-376f5a12df60",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baumaßnahme auf der Linie RB 21 - Ersatzverkehr Wustermark <> Potsdam Hbf",
+      "summary": "Donnerstag, 15.01.2026, 22:00 Uhr bis Freitag, 16.01.2026, 05:00 Uhr",
+      "text": "<p>Einzelne Züge (RB 18275 und 18240) dieser Linie fallen zwischen Wustermark und Potsdam Hbf aus und werden durch Busse ersetzt. Bitte beachten Sie die vom Zugverkehr abweichenden (früheren/späteren) Fahrzeiten des Ersatzverkehrs.</p><p>Fahrpläne für ggf. notwendige Ersatzverkehre mit Bussen sind in Kürze hier in unserer DB Regio Verkehrsinfo abrufbar.</p>",
+      "durationBegin": "15.01.2026",
+      "durationEnd": "16.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/63be0303-ff8a-4330-8bb8-376f5a12df60",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RB 21",
+          "filterName": "RB 21",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.12.2025 15:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/7830f8cf-d722-4b42-a482-c3f377b04430",
+      "magnoliaPath": "/aktuell/nordost/additional_service_construction31"
     },
     {
       "id": "8e92c12b-9ce6-482b-bbee-e7de517df32c",
@@ -625,16 +777,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "Strecke zwischen Stockach und Stahringen gesperrt. Ersatzverkehr mit Bussen wurde eingerichtet",
-      "summary": "Die Strecke von Stockach bis Stahringen ist im Moment gesperrt. Über die Dauer der Sperrung liegen uns noch keine Informationen vor. Der Grund ist eine Reparatur an der Strecke. In der Folge kommt es jetzt zu Verspätungen, Ausfällen und Teilausfällen. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen. Wir haben einen Ersatzverkehr mit zwei Bussen im Pendelverkehr für Sie eingerichtet. Die Busse fahren jeweils um ca. 15:45 Uhr in Stahringen und Stockach ab. ",
+      "headline": "Streckensperrung zwischen Stockach und Stahringen aufgehoben. ",
+      "summary": "Die Strecke von Stockach bis Stahringen wurde wieder freigegeben.  Der Grund war eine Reparatur an der Strecke. Bitte rechnen Sie noch mit Verspätungen und Teilausfällen. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen. Der Ersatzverkehr mit Bussen bleibt noch bestehen, bis sich der Zugverkehr stabilisiert hat. ",
       "text": "<p><strong>Betroffene Linie:</strong></p><ul><li>S 61 (Radolfzell – Stockach) </li></ul><p></p><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "29.12.2025",
       "durationEnd": "29.12.2025",
       "mapHref": "https://karte.bahn.de/detail/ab4106b7-3643-4a41-8da6-5178793de101",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-29/502bc147-aa11-4d45-a73f-86c4abf5ebd3reisendenkarte_20251229-144929.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-29/502bc147-aa11-4d45-a73f-86c4abf5ebd3reisendenkarte_20251229-144929.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-29/372a1dcd-4114-4760-a68e-237e0a0ba73ereisendenkarte_20251229-144929.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2025-12-29/372a1dcd-4114-4760-a68e-237e0a0ba73ereisendenkarte_20251229-144929.png",
           "info": "",
           "alt": "Reisendenkarte 29.12.2025 14:49:29",
           "openInNewTab": true
@@ -655,7 +807,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.12.2025 14:52",
+      "lastModified": "29.12.2025 15:49",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
