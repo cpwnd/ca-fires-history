@@ -593,87 +593,6 @@
       "magnoliaPath": "/aktuell/nordost/detour_construction0"
     },
     {
-      "id": "01ed8baa-abc2-4984-948f-676ca27a6973",
-      "disruptionId": "6c5fea57-1a88-4423-992b-24f1b2d334a7",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Beeinträchtigungen auf der Strecke der Linie RE 1 zwischen Emden und Norddeich Mole bis vsl. 05.01.2026",
-      "summary": "Aufgrund personalbedingter Ausfälle bei der DB InfraGo im Stellwerk zwischen Emden und Norddeich Mole kommt es in den Abendstunden vereinzelt zu Ersatzverkehr mit Bus.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><p></p><ul><li>RE 1 (Norddeich(Mole) – Bremen&nbsp;Hbf&nbsp;– Hannover&nbsp;Hbf): Ausfall vereinzelter Zugverbindungen in den Abendstunden zwischen Emden und Norddeich Mole. Ein Ersatzverkehr mit Bussen zwischen Emden und Norddeich Mole ist eingerichtet mit allen Unterwegshalten.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "12.12.2025",
-      "durationEnd": "05.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/6c5fea57-1a88-4423-992b-24f1b2d334a7",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-12-25/e922bc74-8b4e-4b8d-8200-c9645e0b26a1reisendenkarte_20251212-132533.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-12-25/e922bc74-8b4e-4b8d-8200-c9645e0b26a1reisendenkarte_20251212-132533.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.12.2025 13:25:33",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahnhof.de ",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt   ",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator ",
-          "label": "App DB Navigator",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte   ",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "29.12.2025 07:16",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/01ed8baa-abc2-4984-948f-676ca27a6973",
-      "magnoliaPath": "/aktuell/nord/reduced_service_other_cause"
-    },
-    {
       "id": "01b69f59-4400-4300-beab-d71ac78a2075",
       "disruptionId": "9fd4c6ef-11f9-4e3f-ba3a-f342fc20d72a",
       "author": "REGIO_SUEDOST",
@@ -897,6 +816,87 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "ea0fc65b-8faf-4e05-a13e-1d461dfc21aa",
+      "disruptionId": "4460777e-7781-4ce1-a298-5bd24ec111f2",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Herzberg(Harz) und Nordhausen",
+      "summary": "Aufgrund eines Stellwerksausfalls ist der Zugverkehr zwischen Herzberg(Harz) und Nordhausen in beide Richtungen voraussichtlich bis in die Nachmittagsstunden eingestellt. \n",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RB 80/81 (Göttingen/Bodenfelde – Nordhausen): Züge enden und beginnen in Herzberg(Harz)</li></ul><p>Ein Ersatzverkehr mit Bussen ist als Pendelverkehr zwischen Herzberg(Harz) und Nordhausen eingerichtet.</p><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.&nbsp;</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "30.12.2025",
+      "durationEnd": "30.12.2025",
+      "mapHref": "https://karte.bahn.de/detail/4460777e-7781-4ce1-a298-5bd24ec111f2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-12-30/a609b4d5-46c1-41e0-889a-608944e026d8reisendenkarte_20251230-063210.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2025-12-30/a609b4d5-46c1-41e0-889a-608944e026d8reisendenkarte_20251230-063210.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.12.2025 06:32:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt  ",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de ",
+          "label": "Lageplan des Ersatzverkehrs ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator ",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RB 80",
+          "filterName": "RB 80",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 81",
+          "filterName": "RB 81",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "30.12.2025 08:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ea0fc65b-8faf-4e05-a13e-1d461dfc21aa",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
     },
     {
       "id": "b3195017-ad88-47cd-9557-f927163ed54d",
