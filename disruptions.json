@@ -2,44 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "ceb7ac04-d692-4e7a-a2ca-a1dba1c29382",
-      "disruptionId": "e5232440-a951-4581-b88c-7be6ea38273a",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baumaßnahme auf der Linie RE 6 - RE6 – Zugausfall Berlin Gesundbrunnen <> Neuruppin West",
-      "summary": "Freitag, 16.01.2026, 19:15 Uhr bis Sonntag, 18.01.2026, 02:30 Uhr",
-      "text": "<p>Einzelne Züge dieser Linie fallen zwischen Berlin Gesundbrunnen und Neuruppin West aus. Als Ersatz nutzen Sie bitte alternative Verbindungen.</p><p>Fahrpläne für ggf. notwendige Ersatzverkehre mit Bussen sind in Kürze hier in unserer DB Regio Verkehrsinfo abrufbar.</p>",
-      "durationBegin": "16.01.2026",
-      "durationEnd": "18.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/e5232440-a951-4581-b88c-7be6ea38273a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "RE 6",
-          "filterName": "RE 6",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "29.12.2025 14:57",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/ceb7ac04-d692-4e7a-a2ca-a1dba1c29382",
-      "magnoliaPath": "/aktuell/nordost/reduced_service_construction12"
-    },
-    {
       "id": "8e92c12b-9ce6-482b-bbee-e7de517df32c",
       "disruptionId": "78ef1c37-0ced-453d-9055-71042e79ba1e",
       "author": "REGIO_NORDOST",
@@ -76,82 +38,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/8e92c12b-9ce6-482b-bbee-e7de517df32c",
       "magnoliaPath": "/aktuell/nordost/additional_service_construction29"
-    },
-    {
-      "id": "e9ac0d0d-591c-4d93-9988-566d4eb89135",
-      "disruptionId": "936ec94f-d3e3-4f37-9773-07f14788c6e1",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baumaßnahme auf der Linie RE 5 - RE5 – Ersatzverkehr Neubrandenburg/Blankensee (Meckl) <> Neustrelitz Hbf",
-      "summary": "Donnerstag, 15.01.2026, 22:45 Uhr bis Freitag, 16.01.2026, 00:30 Uhr",
-      "text": "<p>Einzelne Züge (RE 3521 und 3520) dieser Linie fallen zwischen Neubrandenburg/Blankensee (Meckl) und Neustrelitz Hbf aus und werden durch Busse ersetzt. Bitte beachten Sie die vom Zugverkehr abweichenden (früheren/späteren) Fahrzeiten des Ersatzverkehrs.</p><p>Fahrpläne für ggf. notwendige Ersatzverkehre mit Bussen sind in Kürze hier in unserer DB Regio Verkehrsinfo abrufbar.</p>",
-      "durationBegin": "15.01.2026",
-      "durationEnd": "16.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/936ec94f-d3e3-4f37-9773-07f14788c6e1",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "RE 5",
-          "filterName": "RE 5",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "29.12.2025 14:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/e9ac0d0d-591c-4d93-9988-566d4eb89135",
-      "magnoliaPath": "/aktuell/nordost/additional_service_construction28"
-    },
-    {
-      "id": "48410f58-d995-48b8-ae7a-b5a5ff949e9b",
-      "disruptionId": "17af46ac-5bf0-491c-939b-4d816711b480",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baumaßnahme auf der Linie RB 11 - RB11 – Ersatzverkehr Rostock Hbf > Tessin",
-      "summary": "Freitag, 16.01.2026, 22:45 Uhr bis Freitag, 16.01.2026, 23:00 Uhr",
-      "text": "<p>RB 13414 (planmäßige Ankunft 23:41 Uhr in Tessin) wird von Rostock Hbf bis Tessin durch einen Bus ersetzt. Bitte beachten Sie die vom Zugverkehr abweichenden (späteren) Fahrzeiten des Ersatzverkehrs.</p><p>Fahrpläne für ggf. notwendige Ersatzverkehre mit Bussen sind in Kürze hier in unserer DB Regio Verkehrsinfo abrufbar.</p>",
-      "durationBegin": "16.01.2026",
-      "durationEnd": "16.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/17af46ac-5bf0-491c-939b-4d816711b480",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "RB 11",
-          "filterName": "RB 11",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "29.12.2025 14:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/48410f58-d995-48b8-ae7a-b5a5ff949e9b",
-      "magnoliaPath": "/aktuell/nordost/additional_service_construction27"
     },
     {
       "id": "01b69f59-4400-4300-beab-d71ac78a2075",
