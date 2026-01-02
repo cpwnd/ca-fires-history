@@ -779,51 +779,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
-      "id": "81146ab3-b30c-4f5b-9543-9bcfa4501495",
-      "disruptionId": "b03d1f73-fb4b-498f-8a7f-673c893b322b",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Endmeldung: S 2 Dachau ↔ Altomünster",
-      "summary": "Die Züge können wieder zwischen Dachau und Altomünster fahren.",
-      "text": "<p>Der Ersatzverkehr mit Bussen und Großraumtaxis wird 16:00 Uhr eingestellt.</p><p>Die Bauarbeiten wurden beendet.</p>",
-      "durationBegin": "02.01.2026",
-      "durationEnd": "02.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/b03d1f73-fb4b-498f-8a7f-673c893b322b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-02/7b0bd87e-fd8f-45ae-82dc-da9d087aa85areisendenkarte_20260102-101931.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-02/7b0bd87e-fd8f-45ae-82dc-da9d087aa85areisendenkarte_20260102-101931.png",
-          "info": "",
-          "alt": "Reisendenkarte 02.01.2026 10:19:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.01.2026 15:18",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/81146ab3-b30c-4f5b-9543-9bcfa4501495",
-      "magnoliaPath": "/aktuell/bayern/additional_service_technical_problem_railway_section"
-    },
-    {
       "id": "f3f6d580-a5a7-494c-b98f-ae0c042ea335",
       "disruptionId": "ef87b045-a8bc-439c-91fc-c936fbf820fd",
       "author": "SUEDOSTBAYERNBAHN",
