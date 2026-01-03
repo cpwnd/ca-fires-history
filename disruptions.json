@@ -727,43 +727,6 @@
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
     },
     {
-      "id": "391d54ad-53fe-4b59-9a2c-3eedcefa34fb",
-      "disruptionId": "68076eff-35a7-4482-882f-bec4d9745e86",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "weather_winter",
-        "label": "Witterungsbedingte Einschränkung"
-      },
-      "headline": "S1: Die Züge fahren wieder regulär.",
-      "summary": " Es ist kein Umstieg mehr erforderlich.",
-      "text": "<p> </p>",
-      "durationBegin": "03.01.2026",
-      "durationEnd": "03.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/68076eff-35a7-4482-882f-bec4d9745e86",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "03.01.2026 11:20",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/391d54ad-53fe-4b59-9a2c-3eedcefa34fb",
-      "magnoliaPath": "/aktuell/nord/modified_service_weather_winter"
-    },
-    {
       "id": "8d9ca99d-0d39-459f-8ccb-fdd98fa1be44",
       "disruptionId": "6d190e96-c02d-4596-96c1-c9c200da70e7",
       "author": "S_BAHN_HH",
