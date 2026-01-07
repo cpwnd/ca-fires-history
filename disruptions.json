@@ -1270,6 +1270,51 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
+      "id": "8b63d131-c76a-4eff-ac3e-9e23afe856bb",
+      "disruptionId": "e174485a-4d40-4c3b-8315-a47f84a81c11",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S7 Höllriegelskreuth ↔ Baierbrunn: Reparatur an der Strecke",
+      "summary": "Zwischen Höllriegelskreuth und Baierbrunn kommt es zu Verspätungen von 10 bis 15 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "07.01.2026",
+      "durationEnd": "07.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/e174485a-4d40-4c3b-8315-a47f84a81c11",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-07/d1015d21-7e6e-4913-9703-fb485441c8d3reisendenkarte_20260107-153957.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-07/d1015d21-7e6e-4913-9703-fb485441c8d3reisendenkarte_20260107-153957.png",
+          "info": "",
+          "alt": "Reisendenkarte 07.01.2026 15:39:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.01.2026 15:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8b63d131-c76a-4eff-ac3e-9e23afe856bb",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
+    },
+    {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
       "disruptionId": "76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "author": "S_BAHN_S",
