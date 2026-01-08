@@ -98,13 +98,20 @@
         "label": "Witterungsbedingte Einschränkung"
       },
       "headline": "⚠️ Witterungsbedingte Einschränkungen auf allen Linien",
-      "summary": "Es kommt auf allen Linien zu Verspätungen, Ausfällen und S-Bahnen die schon vor ihrem eigentlichen Ziel wenden müssen. ",
-      "text": "<p><strong>Ein Ersatzverkehr ist aufgrund der Verhältnisse im Straßenverkehr nicht möglich. </strong></p><p><strong>Bitte vermeiden Sie alle nicht unbedingt nötigen Fahrten.</strong></p><p>Angedachtes aktuelles Betriebskonzept:</p><p>🟢 <strong>Linie S1:</strong> 20-Minuten-Takt zwischen Wedel und Airport; Pendelverkehr zwischen Ohlsdorf und Poppenbüttel.</p><p>🔴 <strong>Linie S2:</strong> Fällt heute aus.</p><p>🟣 <strong>Linie S3:</strong> 10-Minuten-Takt. Richtung Pinneberg Umleitung über Dammtor, Sternschanze, Holstenstraße, ohne Halt in Altona.</p><p>🔵 <strong>Linie S5</strong>: Zugverkehr nur zwischen Neugraben &lt;-&gt; Buxtehude / Stade. Fahrgäste nutzen bitte bis / ab Neugraben alternativ die Linie S3.</p><p>🟠 <strong>Linie S7:</strong> 20-Minuten-Takt zwischen Altona und Aumühle.</p><p></p><p><strong>Da die Lage sich aktuell von Minute zu Minute verändert, kann es zu weiteren kurzfristigen Änderungen kommen. </strong></p><p></p><p><strong>ℹ️ Für die folgenden Tage ist aktuell ein ähnliches Betriebskonzept anzunehmen. Die Informationen auf dieser Seite werden regelmäßig aktualisiert.</strong></p><p></p><p>🔊 Achten Sie bitte unbedingt auf die Ansagen und Anzeiger an und in den Zügen.</p><p></p><p>ℹ️ Grund: witterungsbedingte Störungen</p>",
+      "summary": "Aufgrund der aktuellen und erwarteten Unwetterlage, gilt mindestens den gesamten Freitag über ein eingeschränkter Sonderfahrplan. Es kann kurzfristig zu weiteren Einschränkungen kommen. ",
+      "text": "<p><strong>Ab Betriebsstart und mindestens den ganzen Freitag über gilt folgender, eingeschränkter Sonderfahrplan:</strong></p><p>🟢 <strong>Linie S1:</strong></p><p>Die Linie S1 fährt in folgenden Teilabschnitten <strong>alle 20 Minuten</strong>:</p><p>Wedel &lt;&gt; Blankenese</p><p>Blankenese &lt;&gt; Hamburg Airport</p><p>Ohlsdorf &lt;&gt; Poppenbüttel</p><p><strong>Zwischen den einzelnen Teilabschnitten ist ein Umstieg erforderlich.</strong></p><p></p><p>🔴 <strong>Linie S2:</strong></p><p>Die Linie S2 entfällt.</p><p></p><p>🟣 <strong>Linie S3:</strong></p><p>Die Linie S3 fährt <strong>von Pinneberg, über Altona, Landungsbrücken und Jungfernstieg nach Neugraben</strong>, sowie <strong>von Neugraben über Dammtor, Sternschanze und Holstenstraße</strong> (Altona wird in dieser Richtung nicht angefahren) <strong>nach Pinneberg</strong>.</p><p>Die S-Bahnen fahren nach Möglichkeit <strong>alle 10 Minuten</strong>.</p><p></p><p>🔵 <strong>Linie S5</strong>:</p><p>Die Linie S5 fährt in folgenden Teilabschnitten:</p><p>Stade bzw. Buxtehude &lt;&gt; Neugraben (Takt nach <strong>normalem Fahrplan</strong>)</p><p>Neugraben &lt;&gt; Diebsteich (<strong>alle 20 Minuten</strong>)</p><p><strong>In Neugraben und Diebsteich ist ein Umstieg erforderlich.</strong></p><p></p><p>🟠 <strong>Linie S7:</strong></p><p>Die Linie S7 fährt zwischen Altona und Aumühle auf ihrem normalen Linienweg <strong>alle 20 Minuten</strong>.</p><p></p><p><strong>Da die Lage sich aktuell von Minute zu Minute verändert, kann es jederzeit zu weiteren Einschränkungen kommen. </strong></p><p></p><p><strong>🚨 Bitte vermeiden Sie zu Ihrer eigenen Sicherheit alle nicht unbedingt notwendigen Fahrten.❗</strong></p><p></p><p><strong>ℹ️ Für die folgenden Tage ist aktuell ein ähnliches Betriebskonzept anzunehmen. Die Informationen auf dieser Seite werden regelmäßig aktualisiert.</strong></p><p></p><p>🔊 Achten Sie bitte unbedingt auf die Ansagen und Anzeiger an und in den Zügen.</p><p></p><p>ℹ️ Grund: witterungsbedingte Störungen</p>",
       "durationBegin": "08.01.2026",
       "durationEnd": "10.01.2026",
       "mapHref": "https://karte.bahn.de/detail/6c0201fe-24ec-453e-abe0-3d2d3bb53388",
       "images": [],
-      "downloads": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-01-09/b03295a2-4380-4c66-9d7d-1f6e0d602fdcBild%2B%252810%2529.png",
+          "label": "Sonderplan, alle Linien",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "links": [],
       "properties": [
         "SBAHN"
@@ -161,7 +168,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "08.01.2026 13:23",
+      "lastModified": "09.01.2026 00:48",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -673,118 +680,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "8075ab1a-3fef-4ccd-bc48-b3f6de4d9838",
-      "disruptionId": "1d1a5bc4-1c6b-45b5-9fc7-cb517d232988",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "weather_storm",
-        "label": "Witterungsbedingte Beeinträchtigungen"
-      },
-      "headline": "Stammstrecke: Witterungsbedingte Beeinträchtigungen",
-      "summary": "Auf der Stammstrecke und im S-Bahn Gesamtnetz kommt es in beiden Richtungen zu Verspätungen von 10 bis zu 20 Minuten, Umleitungen, Zugausfällen und Teilausfällen.",
-      "text": "<p><strong>S 2 Petershausen&nbsp;→&nbsp;Erding</strong> &nbsp;</p><p>Die S-Bahnen werden zwischen Obermenzing und Ostbahnhof&nbsp;Gleis 7-13 (Fernbahn)&nbsp;umgeleitet und die Stammstrecke nicht angefahren. Die Halte&nbsp;Leuchtenbergring&nbsp;und Berg am Laim entfallen.  &nbsp;</p><p>  &nbsp;</p><p><strong>S 2 Erding&nbsp;→&nbsp;</strong><strong>Petershausen</strong> &nbsp;</p><p>Die Bahnen in dieser Richtung sind nicht betroffen und verkehren auf dem&nbsp;Regelweg&nbsp;durch die Stammstrecke mit allen geplanten Halten.  &nbsp;</p><p>&nbsp;</p><p>Bitte informieren Sie sich auch auf&nbsp;www.s-bahn-muenchen.de oder in der App München Navigator über ihre Verbindung.&nbsp;</p><p>Der Grund hierfür sind witterungsbedingte Beeinträchtigungen.</p>",
-      "durationBegin": "08.01.2026",
-      "durationEnd": "09.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/1d1a5bc4-1c6b-45b5-9fc7-cb517d232988",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "08.01.2026 22:31",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8075ab1a-3fef-4ccd-bc48-b3f6de4d9838",
-      "magnoliaPath": "/aktuell/bayern/no_service_weather_storm"
-    },
-    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -977,6 +872,118 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "8075ab1a-3fef-4ccd-bc48-b3f6de4d9838",
+      "disruptionId": "1d1a5bc4-1c6b-45b5-9fc7-cb517d232988",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "weather_storm",
+        "label": "Witterungsbedingte Beeinträchtigungen"
+      },
+      "headline": "Stammstrecke: Witterungsbedingte Beeinträchtigungen",
+      "summary": "Auf der Stammstrecke und im S-Bahn Gesamtnetz kommt es in beiden Richtungen zu Verspätungen von 10 bis zu 20 Minuten, Umleitungen, Zugausfällen und Teilausfällen.",
+      "text": "<p>Die S 2 verkehrt wieder auf dem Regelweg.</p><p>Bitte informieren Sie sich auch auf&nbsp;www.s-bahn-muenchen.de oder in der App München Navigator über ihre Verbindung.&nbsp;</p><p>Der Grund hierfür sind witterungsbedingte Beeinträchtigungen.</p>",
+      "durationBegin": "08.01.2026",
+      "durationEnd": "09.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/1d1a5bc4-1c6b-45b5-9fc7-cb517d232988",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.01.2026 00:40",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8075ab1a-3fef-4ccd-bc48-b3f6de4d9838",
+      "magnoliaPath": "/aktuell/bayern/no_service_weather_storm"
+    },
+    {
       "id": "b7aaf590-96d7-4237-88b5-1a164ce706bc",
       "author": "REGIO_NW",
       "cause": {
@@ -1111,6 +1118,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/50983bb9-fb68-4b04-af50-972b8299525e",
       "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section0"
+    },
+    {
+      "id": "e0118e12-8444-4b9c-a218-7d078af185b1",
+      "disruptionId": "935e907f-6f59-4571-b359-e6242149e8a0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Stammstrecke: Feuerwehreinsatz am Rosenheimer Platz",
+      "summary": "Die S-Bahnen halten derzeit nicht am Rosenheimer Platz.",
+      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Ostbahnhof oder Isartor.</p><p>Grund hierfür ist ein Feuerwehreinsatz am Rosenheimer Platz.</p>",
+      "durationBegin": "09.01.2026",
+      "durationEnd": "09.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/935e907f-6f59-4571-b359-e6242149e8a0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-09/0de3a0ea-fead-455f-8d5c-618be074c1aareisendenkarte_20260109-004133.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-09/0de3a0ea-fead-455f-8d5c-618be074c1aareisendenkarte_20260109-004133.png",
+          "info": "",
+          "alt": "Reisendenkarte 09.01.2026 00:41:33",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.01.2026 00:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e0118e12-8444-4b9c-a218-7d078af185b1",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_police_activity"
     },
     {
       "id": "d438c1b1-ef28-403a-8c3f-f77e8db6abad",
