@@ -782,14 +782,14 @@
       },
       "headline": "Ersatzprogramm Stammstrecke/Gesamtnetz: Technische Störung an einem Zug",
       "summary": "Der Bahnhof Leuchtenbergring ist wieder freigegeben. ",
-      "text": "<p>Die S-Bahnen verkehren wieder auf Regelweg mit allen Halten. Bitte rechnen Sie mit Verspätungen von 15 bis 20 Minuten vereinzelt auch höher und Teilausfällen.</p><p>Der Grund hierfür war eine technische Störung am Zug.</p>",
+      "text": "<p>Die S-Bahnen verkehren wieder auf Regelweg mit allen Halten durch die Stammstrecke. Bitte rechnen Sie mit Folgeverspätungen von 10 bis 15 Minuten vereinzelt zu Teilausfällen.</p><p>Der Grund hierfür war eine technische Störung am Zug.</p>",
       "durationBegin": "12.01.2026",
       "durationEnd": "12.01.2026",
       "mapHref": "https://karte.bahn.de/detail/2d7b0403-3845-4704-af60-2bbbcfc84572",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-12/3a298145-80ea-4c26-8163-d33a291794f7reisendenkarte_20260112-063354.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-12/3a298145-80ea-4c26-8163-d33a291794f7reisendenkarte_20260112-063354.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-12/d1e39585-0312-4c3e-9299-12260c2475a6reisendenkarte_20260112-063354.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-12/d1e39585-0312-4c3e-9299-12260c2475a6reisendenkarte_20260112-063354.png",
           "info": "",
           "alt": "Reisendenkarte 12.01.2026 06:33:54",
           "openInNewTab": true
@@ -830,12 +830,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.01.2026 09:16",
+      "lastModified": "12.01.2026 09:59",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/54c238e8-341b-44ef-924e-4cd08dd309ca",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle"
+    },
+    {
+      "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
+      "disruptionId": "a8a7f16f-bf27-445a-ab73-4633c547af2b",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Glashütte ⇄ Heidenau - Zugausfälle",
+      "summary": "Die Strecke von Kurort Altenberg(Erzgebirge) bis Heidenau ist im Moment gesperrt. Dauer der Beeinträchtigung bis vsl. 12.01.2026, 24 Uhr. ",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 72 Kurort Altenberg – Glashütte (Sachs) – Heidenau</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist die Entgleisung eines Zuges. </p><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Folge wurde der Zugbetrieb auf der RB 72 eingestellt. Ein Ersatzverkehr mit Bussen ist eingerichtet.</p><p>↪️&nbsp;<strong>Alternative:</strong> Nutzen Sie bitte den Plusbus 360 zwischen Dresden Hbf und Altenberg bzw. den Plusbus 388 zwischen Dippoldiswalde und Glashütte.  </p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 3230 0011 (zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "12.01.2026",
+      "durationEnd": "12.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/a8a7f16f-bf27-445a-ab73-4633c547af2b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-12/ef7551e9-3f4e-400c-9dac-7fca0f7cdaa4reisendenkarte_20260112-095532.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-12/ef7551e9-3f4e-400c-9dac-7fca0f7cdaa4reisendenkarte_20260112-095532.png",
+          "info": "",
+          "alt": "Reisendenkarte 12.01.2026 09:55:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RB 72",
+          "filterName": "RB 72",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.01.2026 09:57",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4fe3d163-1c74-4a05-9067-a4ee57421321",
+      "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
     },
     {
       "id": "eaeeaf0c-522a-467d-90d0-37d9dea33748",
@@ -853,15 +898,15 @@
       "mapHref": "https://karte.bahn.de/detail/2ddf956c-f6bc-49c7-9b8f-214284289bc4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-12/216dc681-0b8f-4266-b9c8-1222dfba12d6reisendenkarte_20260112-055723.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-12/216dc681-0b8f-4266-b9c8-1222dfba12d6reisendenkarte_20260112-055723.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-12/e84c29a4-1f3f-468f-94ef-83c60d890f93reisendenkarte_20260112-055723.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-12/e84c29a4-1f3f-468f-94ef-83c60d890f93reisendenkarte_20260112-055723.png",
           "info": "",
           "alt": "Reisendenkarte 12.01.2026 05:57:23",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-12/9cad1936-05e4-4ace-8dc9-361cb2fce1f6reisendenkarte_20260112-051120.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-12/9cad1936-05e4-4ace-8dc9-361cb2fce1f6reisendenkarte_20260112-051120.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-12/b083f5e9-7e83-42a0-9270-c61fdcc664f6reisendenkarte_20260112-051120.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-12/b083f5e9-7e83-42a0-9270-c61fdcc664f6reisendenkarte_20260112-051120.png",
           "info": "",
           "alt": "Reisendenkarte 12.01.2026 05:11:20",
           "openInNewTab": true
@@ -887,57 +932,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.01.2026 08:58",
+      "lastModified": "12.01.2026 09:54",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/eaeeaf0c-522a-467d-90d0-37d9dea33748",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section15"
-    },
-    {
-      "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
-      "disruptionId": "a8a7f16f-bf27-445a-ab73-4633c547af2b",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Glashütte ⇄ Heidenau - Beeinträchtigung",
-      "summary": "Die Strecke von Glashütte bis Heidenau ist im Moment gesperrt. Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor. Der Grund ist eine Reparatur an der Strecke.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 72 Kurort Altenberg – Glashütte (Sachs) – Heidenau</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Folge kommt es jetzt zu Verspätungen und Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Nähere Informationen erhalten Sie in Kürze. </p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 3230 0011 (zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "12.01.2026",
-      "durationEnd": "12.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/a8a7f16f-bf27-445a-ab73-4633c547af2b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-12/db505466-11e7-4ef1-9412-91b3b9c49f87reisendenkarte_20260112-081554.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-01-12/db505466-11e7-4ef1-9412-91b3b9c49f87reisendenkarte_20260112-081554.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.01.2026 08:15:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.01.2026 08:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4fe3d163-1c74-4a05-9067-a4ee57421321",
-      "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
     },
     {
       "id": "7d97685a-5d11-4d86-8b8f-063e74cc37f4",
