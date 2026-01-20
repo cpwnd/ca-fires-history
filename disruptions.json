@@ -111,7 +111,7 @@
       "author": "S_BAHN_HH",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "label": "Reparatur an der Strecke"
       },
       "headline": "S3/S5: Aktuell kommt es zu Fahrplanabweichungen und Unregelmäßigkeiten.",
       "summary": "Aktuell kommt es auf der S3 und S5 zu Fahrplanabweichungen und Unregelmäßigkeiten. Grund: Störung an der Infrastruktur.",
@@ -152,7 +152,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.01.2026 09:35",
+      "lastModified": "20.01.2026 10:18",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -175,8 +175,8 @@
       "mapHref": "https://karte.bahn.de/detail/57c77f0f-286a-4922-a974-4624e8935242",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-20/ef4c8aaf-babc-4125-8c69-568573776e1creisendenkarte_20260120-045939.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-20/ef4c8aaf-babc-4125-8c69-568573776e1creisendenkarte_20260120-045939.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-20/f8b5768a-33ea-4d53-a25c-f30262107b4creisendenkarte_20260120-045939.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-20/f8b5768a-33ea-4d53-a25c-f30262107b4creisendenkarte_20260120-045939.png",
           "info": "",
           "alt": "Reisendenkarte 20.01.2026 04:59:39",
           "openInNewTab": true
@@ -208,7 +208,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "20.01.2026 08:29",
+      "lastModified": "20.01.2026 10:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -270,15 +270,15 @@
         "label": "Gegenstände auf der Strecke"
       },
       "headline": "Streckensperrung zwischen Pforzheim Hbf und Wildberg(Württ)",
-      "summary": "Der Streckenabschnitt zwischen Pforzheim Hbf und Wildberg(Württ) ist im Moment gesperrt. Die Dauer der Sperrung wird voraussichtlich bis Donnerstag, den 22.Januar im Laufe des Tages andauern. Der Grund sind Gegenstände auf der Strecke. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Ein Ersatzverkehr mit Bussen ist zwischen Pforzheim Hbf und Wildberg(Württ) eingerichtet. Diese orientieren sich an den Abfahrtzeiten der Züge. Bitte beachten Sie bei Ihrer Reiseplanung die längere Fahrzeit von dem Bus.",
+      "summary": "Der Streckenabschnitt zwischen Pforzheim Hbf und Wildberg(Württ) ist im Moment gesperrt. Die Dauer der Sperrung wird voraussichtlich bis Donnerstag, 22. Januar im Laufe des Tages andauern. Der Grund sind Gegenstände auf der Strecke. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Ein Ersatzverkehr mit Bussen ist zwischen Pforzheim Hbf und Wildberg(Württ) eingerichtet. Die Busse sind für heute, 20. Januar in der Reiseauskunft ersichtlich. Die Reiseauskunft wird tagesaktuell angepasst. Bitte beachten Sie bei Ihrer Reiseplanung die längere Fahrzeit von dem Bus.",
       "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RB 74 (Pforzheim – Horb – Tübingen) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "19.01.2026",
       "durationEnd": "22.01.2026",
       "mapHref": "https://karte.bahn.de/detail/2bb23883-8742-4a42-af14-a27054dc2e02",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-19/97d14872-e445-4888-99b4-28c04a8ea92areisendenkarte_20260119-114619.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-19/97d14872-e445-4888-99b4-28c04a8ea92areisendenkarte_20260119-114619.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-20/5552e83f-c078-4170-8fce-282011a4fad2reisendenkarte_20260119-114619.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-20/5552e83f-c078-4170-8fce-282011a4fad2reisendenkarte_20260119-114619.png",
           "info": "",
           "alt": "Reisendenkarte 19.01.2026 11:46:19",
           "openInNewTab": true
@@ -299,7 +299,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "19.01.2026 11:49",
+      "lastModified": "20.01.2026 10:29",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -479,6 +479,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "cbc34b58-5c9d-4f01-9936-a1d70ba01560",
+      "disruptionId": "95dfb978-220a-401f-8667-58e404d6d6d6",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 6 Ebersberg: Technischer Defekt an einem Bahnübergang",
+      "summary": "Im Bereich Ebersberg kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "20.01.2026",
+      "durationEnd": "20.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/95dfb978-220a-401f-8667-58e404d6d6d6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-20/2f632087-8f1d-4e17-adaf-673c22882282reisendenkarte_20260120-104340.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-20/2f632087-8f1d-4e17-adaf-673c22882282reisendenkarte_20260120-104340.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.01.2026 10:43:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.01.2026 10:45",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cbc34b58-5c9d-4f01-9936-a1d70ba01560",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section1"
     },
     {
       "id": "e81dd408-cfe4-4306-bfaf-a109dbc8acf4",
