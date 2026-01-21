@@ -437,118 +437,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "96bbd113-4311-4ad8-ac77-dba34adcbcd3",
-      "disruptionId": "5338a073-87f8-430f-a8d0-98d45d07248d",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "Endmeldung: Stammstrecke",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Folgeverspätungen und Teilausfällen.",
-      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
-      "durationBegin": "21.01.2026",
-      "durationEnd": "21.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/5338a073-87f8-430f-a8d0-98d45d07248d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/28a4f24d-1ea0-478e-9bfa-a0a29e8f22bareisendenkarte_20260121-104232.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/28a4f24d-1ea0-478e-9bfa-a0a29e8f22bareisendenkarte_20260121-104232.png",
-          "info": "",
-          "alt": "Reisendenkarte 21.01.2026 10:42:32",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.01.2026 10:51",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/96bbd113-4311-4ad8-ac77-dba34adcbcd3",
-      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency"
-    },
-    {
-      "id": "bd50049e-2bad-4892-94da-374113c0fb50",
-      "disruptionId": "9c1998d9-5512-45c8-bc99-90b80c970074",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 6, S 8 Pasing ↔ Westkreuz: Reparatur an einem Signal",
-      "summary": "Zwischen Pasing und Westkreuz kommt es in Fahrtrichtung stadtauswärts zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "21.01.2026",
-      "durationEnd": "21.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/9c1998d9-5512-45c8-bc99-90b80c970074",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "21.01.2026 10:19",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/bd50049e-2bad-4892-94da-374113c0fb50",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
-    },
-    {
       "id": "10e73351-d3ab-47eb-81e2-c251620bde29",
       "disruptionId": "dd0270f1-f616-409b-9877-3aab3bfd01b2",
       "author": "S_BAHN_MUC",
@@ -557,15 +445,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "Stammstrecke: Reparatur an einem Signal",
-      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "summary": "Auf der Stammstrecke und im S-Bahn Gesamtnetz kommt es noch zu Folgeverspätungen von 10 bis 15 Minuten und zu vereinzelten Teilausfällen.",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
       "durationBegin": "21.01.2026",
       "durationEnd": "21.01.2026",
       "mapHref": "https://karte.bahn.de/detail/dd0270f1-f616-409b-9877-3aab3bfd01b2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/ff166f38-d1a6-44ab-a0c0-9403c56767dfreisendenkarte_20260121-094211.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/ff166f38-d1a6-44ab-a0c0-9403c56767dfreisendenkarte_20260121-094211.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/9e36ccdb-b34c-4d65-b1c6-fdf677705553reisendenkarte_20260121-094211.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/9e36ccdb-b34c-4d65-b1c6-fdf677705553reisendenkarte_20260121-094211.png",
           "info": "",
           "alt": "Reisendenkarte 21.01.2026 09:42:11",
           "openInNewTab": true
@@ -616,7 +504,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.01.2026 10:09",
+      "lastModified": "21.01.2026 11:17",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -730,6 +618,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/4fe3d163-1c74-4a05-9067-a4ee57421321",
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "8dcd5d16-c3d5-4993-b408-edeaf4b73a5e",
+      "disruptionId": "03668aec-276f-4958-92b2-03aed91d7ec8",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Kurzfristiger Fahrzeugausfall"
+      },
+      "headline": "Beeinträchtigungen auf der Linie RE 55",
+      "summary": "Aufgrund eines kurzfristigen Fahrzeugausfalls kommt es heute, am Mittwoch 21.Januar ganztägig zu Zugausfällen zwischen Herrlingen und Donaueschingen. \nBitte nutzen Sie die alternativen Reisemöglichkeiten.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 55 (Donaueschingen – Ulm)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "21.01.2026",
+      "durationEnd": "21.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/03668aec-276f-4958-92b2-03aed91d7ec8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/b9f58f90-c223-4148-a289-ab26caf408f1reisendenkarte_20260121-111826.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/b9f58f90-c223-4148-a289-ab26caf408f1reisendenkarte_20260121-111826.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.01.2026 11:18:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 55",
+          "filterName": "RB 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.01.2026 11:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8dcd5d16-c3d5-4993-b408-edeaf4b73a5e",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "50983bb9-fb68-4b04-af50-972b8299525e",
