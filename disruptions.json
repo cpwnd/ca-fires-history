@@ -121,8 +121,8 @@
       "mapHref": "https://karte.bahn.de/detail/57c77f0f-286a-4922-a974-4624e8935242",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/e9a546c8-9196-43dc-889a-4ce887a8ea0dreisendenkarte_20260120-045939.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/e9a546c8-9196-43dc-889a-4ce887a8ea0dreisendenkarte_20260120-045939.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/de266c18-99a5-47b6-b9be-8988e4d47d58reisendenkarte_20260120-045939.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/de266c18-99a5-47b6-b9be-8988e4d47d58reisendenkarte_20260120-045939.png",
           "info": "",
           "alt": "Reisendenkarte 20.01.2026 04:59:39",
           "openInNewTab": true
@@ -149,17 +149,12 @@
           "property": "REGIONAL"
         },
         {
-          "name": "RE 2",
-          "filterName": "RE 2",
-          "property": "REGIONAL"
-        },
-        {
           "name": "RE 4",
           "filterName": "RE 4",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "21.01.2026 08:27",
+      "lastModified": "21.01.2026 08:22",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -211,6 +206,62 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "35dbc00e-5e0a-4c85-b722-ec3e6827e802",
+      "disruptionId": "ebecec4c-1caa-4d4c-9090-ceb8fa65aef2",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Konstanz - Karlsruhe / Singen (Hohentwiel) - Schaffhausen",
+      "summary": "Reparatur an einem Stellwerk / Kein Betrieb / Züge werden zurückgehalten",
+      "text": "<p>Aufgrund der Reparatur an einem Stellwerk in Singen (Hohentwiel) kommt es derzeit zu Beeinträchtigungen.</p><p>Aktuell sind zwischen Radolfzell und Engen, sowie zwischen Singen(Hohentwiel) und Schaffhausen keine Zugfahrten möglich.</p><p>Die Züge werden derzeit an den Bahnhöfen zurückgehalten und warten zunächst.</p><p>Bitte rechnen Sie mit erheblichen Verspätungen, zudem kann es  kurzfristig zu Zugausfällen kommen.</p><p>Bitte überprüfen Sie ihre Verbindung unmittelbar vor der Reise noch einmal.</p>",
+      "durationBegin": "21.01.2026",
+      "durationEnd": "22.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/ebecec4c-1caa-4d4c-9090-ceb8fa65aef2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/c6725219-6428-4580-8166-323ed2053f92reisendenkarte_20260121-234130.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/c6725219-6428-4580-8166-323ed2053f92reisendenkarte_20260121-234130.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.01.2026 23:41:30",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 10",
+          "filterName": "S 10",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.01.2026 23:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/35dbc00e-5e0a-4c85-b722-ec3e6827e802",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section"
     },
     {
       "id": "4c6f57a1-f06b-4db7-8960-361341e131eb",
@@ -325,12 +376,27 @@
       ],
       "lines": [
         {
-          "name": "RE/RB",
-          "filterName": "",
+          "name": "RB 91",
+          "filterName": "RB 91",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 5",
+          "filterName": "RE 5",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "21.01.2026 23:03",
+      "lastModified": "21.01.2026 23:50",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
