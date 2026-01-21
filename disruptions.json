@@ -121,8 +121,8 @@
       "mapHref": "https://karte.bahn.de/detail/57c77f0f-286a-4922-a974-4624e8935242",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/e9a546c8-9196-43dc-889a-4ce887a8ea0dreisendenkarte_20260120-045939.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/e9a546c8-9196-43dc-889a-4ce887a8ea0dreisendenkarte_20260120-045939.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/de266c18-99a5-47b6-b9be-8988e4d47d58reisendenkarte_20260120-045939.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/de266c18-99a5-47b6-b9be-8988e4d47d58reisendenkarte_20260120-045939.png",
           "info": "",
           "alt": "Reisendenkarte 20.01.2026 04:59:39",
           "openInNewTab": true
@@ -149,17 +149,12 @@
           "property": "REGIONAL"
         },
         {
-          "name": "RE 2",
-          "filterName": "RE 2",
-          "property": "REGIONAL"
-        },
-        {
           "name": "RE 4",
           "filterName": "RE 4",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "21.01.2026 08:27",
+      "lastModified": "21.01.2026 08:22",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -211,51 +206,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "27a7bb6b-d27d-4dda-b489-c4e479d0e893",
-      "disruptionId": "a58c71e0-c54c-4357-828d-4fce0a12f7b8",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 8 Weßling ↔ Herrsching: Defektes Stellwerk",
-      "summary": "Zwischen Weßling und Herrsching sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen in Richtung Herrsching fahren bis Weßling und wenden dort vorzeitig.</p><p>Wir haben für Sie einen Ersatzverkehr mit  einem Bus zwischen Weßling ↔ Herrsching eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Sobald wir weitere Informationen haben, werden wir Sie sofort darüber informieren.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 20 Minuten und weiteren Teilausfällen.</p><p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
-      "durationBegin": "20.01.2026",
-      "durationEnd": "21.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/a58c71e0-c54c-4357-828d-4fce0a12f7b8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/223f7701-0497-482f-aa68-db9b5fb56a32reisendenkarte_20260121-005248.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/223f7701-0497-482f-aa68-db9b5fb56a32reisendenkarte_20260121-005248.png",
-          "info": "",
-          "alt": "Reisendenkarte 21.01.2026 00:52:48",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.01.2026 08:51",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/27a7bb6b-d27d-4dda-b489-c4e479d0e893",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
     },
     {
       "id": "4c6f57a1-f06b-4db7-8960-361341e131eb",
@@ -484,7 +434,7 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 5,  S 6, S 8 Pasing ↔ Westkreuz: Reparatur an einem Signal",
+      "headline": "S 6, S 8 Pasing ↔ Westkreuz: Reparatur an einem Signal",
       "summary": "Zwischen Pasing und Westkreuz kommt es in Fahrtrichtung stadtauswärts zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "21.01.2026",
@@ -506,57 +456,12 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "21.01.2026 09:52",
+      "lastModified": "21.01.2026 10:19",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/bd50049e-2bad-4892-94da-374113c0fb50",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
-    },
-    {
-      "id": "b235c0d9-ae53-48d0-b9b9-03eab793a509",
-      "disruptionId": "c980874d-f3d7-4ca2-9464-ddcbbb9f9115",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 3 Giesing ↔ Deisenhofen: Weiterhin Reparatur an der Strecke",
-      "summary": "Die S-Bahnen der Linie S3 verkehren bis zum heutigen Betriebsschluss im 40-Minuten-Takt von und nach Holzkirchen.",
-      "text": "<p>Bitte rechnen Sie mit Verspätungen von bis zu 10 Minuten. Weitere Teilausfälle sind möglich.</p><p>Nach aktuellen Informationen soll die Reparatur an der Strecke heute, Mittwoch, 21. Januar 2026, erfolgen.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "20.01.2026",
-      "durationEnd": "21.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/c980874d-f3d7-4ca2-9464-ddcbbb9f9115",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/0f3bbec0-bfb4-40a3-aaed-4a1f082d9c2breisendenkarte_20260120-130625.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/0f3bbec0-bfb4-40a3-aaed-4a1f082d9c2breisendenkarte_20260120-130625.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.01.2026 13:06:25",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.01.2026 09:50",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b235c0d9-ae53-48d0-b9b9-03eab793a509",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
     },
     {
       "id": "10e73351-d3ab-47eb-81e2-c251620bde29",
@@ -567,15 +472,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "Stammstrecke: Reparatur an einem Signal",
-      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von bis zu 15 Minuten und teilausfällen.",
+      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
       "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "21.01.2026",
       "durationEnd": "21.01.2026",
       "mapHref": "https://karte.bahn.de/detail/dd0270f1-f616-409b-9877-3aab3bfd01b2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/2c517252-6fa9-4ec2-9d86-d3d71b7704cfreisendenkarte_20260121-094211.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/2c517252-6fa9-4ec2-9d86-d3d71b7704cfreisendenkarte_20260121-094211.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/ff166f38-d1a6-44ab-a0c0-9403c56767dfreisendenkarte_20260121-094211.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/ff166f38-d1a6-44ab-a0c0-9403c56767dfreisendenkarte_20260121-094211.png",
           "info": "",
           "alt": "Reisendenkarte 21.01.2026 09:42:11",
           "openInNewTab": true
@@ -626,12 +531,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.01.2026 09:43",
+      "lastModified": "21.01.2026 10:09",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/10e73351-d3ab-47eb-81e2-c251620bde29",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
+    },
+    {
+      "id": "b235c0d9-ae53-48d0-b9b9-03eab793a509",
+      "disruptionId": "c980874d-f3d7-4ca2-9464-ddcbbb9f9115",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 3 Giesing ↔ Deisenhofen: Weiterhin Reparatur an der Strecke",
+      "summary": "Die S-Bahnen der Linie S3 verkehren bis zum heutigen Betriebsschluss im 40-Minuten-Takt von und nach Holzkirchen.",
+      "text": "<p>Bitte rechnen Sie mit Verspätungen von bis zu 10 Minuten. Weitere Teilausfälle sind möglich.</p><p>Nach aktuellen Informationen soll die Reparatur an der Strecke heute, Mittwoch, 21. Januar 2026, erfolgen.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "20.01.2026",
+      "durationEnd": "21.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/c980874d-f3d7-4ca2-9464-ddcbbb9f9115",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/0f3bbec0-bfb4-40a3-aaed-4a1f082d9c2breisendenkarte_20260120-130625.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/0f3bbec0-bfb4-40a3-aaed-4a1f082d9c2breisendenkarte_20260120-130625.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.01.2026 13:06:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.01.2026 09:50",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b235c0d9-ae53-48d0-b9b9-03eab793a509",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
