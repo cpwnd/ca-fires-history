@@ -121,8 +121,8 @@
       "mapHref": "https://karte.bahn.de/detail/57c77f0f-286a-4922-a974-4624e8935242",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/de266c18-99a5-47b6-b9be-8988e4d47d58reisendenkarte_20260120-045939.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/de266c18-99a5-47b6-b9be-8988e4d47d58reisendenkarte_20260120-045939.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/e9a546c8-9196-43dc-889a-4ce887a8ea0dreisendenkarte_20260120-045939.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-01-21/e9a546c8-9196-43dc-889a-4ce887a8ea0dreisendenkarte_20260120-045939.png",
           "info": "",
           "alt": "Reisendenkarte 20.01.2026 04:59:39",
           "openInNewTab": true
@@ -149,12 +149,17 @@
           "property": "REGIONAL"
         },
         {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 4",
           "filterName": "RE 4",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "21.01.2026 08:22",
+      "lastModified": "21.01.2026 08:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -208,51 +213,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "4c6f57a1-f06b-4db7-8960-361341e131eb",
-      "disruptionId": "2bb23883-8742-4a42-af14-a27054dc2e02",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Gegenstände auf der Strecke"
-      },
-      "headline": "Streckensperrung zwischen Pforzheim Hbf und Wildberg(Württ)",
-      "summary": "Der Streckenabschnitt zwischen Pforzheim Hbf und Wildberg(Württ) ist im Moment gesperrt. Die Dauer der Sperrung wird voraussichtlich bis Donnerstag, 22. Januar im Laufe des Tages andauern. Der Grund sind Gegenstände auf der Strecke. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. Ein Ersatzverkehr mit Bussen ist zwischen Pforzheim Hbf und Wildberg(Württ) eingerichtet. Die Busse sind für heute, 21. Januar in der Reiseauskunft ersichtlich. Die Reiseauskunft wird tagesaktuell angepasst. Bitte beachten Sie bei Ihrer Reiseplanung die längere Fahrzeit von dem Bus.",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RB 74 (Pforzheim – Horb – Tübingen) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "19.01.2026",
-      "durationEnd": "22.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/2bb23883-8742-4a42-af14-a27054dc2e02",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/5c3f75ea-d7b6-42ab-9b9b-9c437cd72ef2reisendenkarte_20260119-114619.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/5c3f75ea-d7b6-42ab-9b9b-9c437cd72ef2reisendenkarte_20260119-114619.png",
-          "info": "",
-          "alt": "Reisendenkarte 19.01.2026 11:46:19",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 74",
-          "filterName": "RB 74",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "21.01.2026 06:29",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4c6f57a1-f06b-4db7-8960-361341e131eb",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -295,6 +255,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a2d63597-aa38-4853-8a76-f5a72594f66d",
       "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_railway_section"
+    },
+    {
+      "id": "d36eb082-e46a-4909-9e4d-18047233d81e",
+      "disruptionId": "1fc8cea9-4132-4b01-9ce2-7c3875cb96c6",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "Beeinträchtigungen in Eutingen im Gäu",
+      "summary": "Der Bahnhof Eutingen im Gäu ist im Moment beeinträchtigt. Über die Dauer der Störung liegen uns noch keine Informationen vor. Der Grund ist die Reparatur an einem Bahnübergang. Die Züge fahren in dem betroffenen Streckenabschnitt langsamer. In der Folge kommt es zu Verspätungen. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 14a (Stuttgart – Horb – Rottweil) </li><li>RE 14b (Stuttgart – Eutingen – Freudenstadt) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "21.01.2026",
+      "durationEnd": "21.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/1fc8cea9-4132-4b01-9ce2-7c3875cb96c6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/0fff0197-16c0-494f-8f49-39efb92be92creisendenkarte_20260121-104002.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-21/0fff0197-16c0-494f-8f49-39efb92be92creisendenkarte_20260121-104002.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.01.2026 10:40:02",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 14a",
+          "filterName": "RE 14a",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 14b",
+          "filterName": "RE 14b",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.01.2026 10:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d36eb082-e46a-4909-9e4d-18047233d81e",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section0"
     },
     {
       "id": "ec02345d-0b91-4ea5-b98a-6c28c8599f3c",
@@ -425,6 +435,81 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "96bbd113-4311-4ad8-ac77-dba34adcbcd3",
+      "disruptionId": "5338a073-87f8-430f-a8d0-98d45d07248d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Endmeldung: Stammstrecke",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
+      "durationBegin": "21.01.2026",
+      "durationEnd": "21.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/5338a073-87f8-430f-a8d0-98d45d07248d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/28a4f24d-1ea0-478e-9bfa-a0a29e8f22bareisendenkarte_20260121-104232.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/28a4f24d-1ea0-478e-9bfa-a0a29e8f22bareisendenkarte_20260121-104232.png",
+          "info": "",
+          "alt": "Reisendenkarte 21.01.2026 10:42:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.01.2026 10:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/96bbd113-4311-4ad8-ac77-dba34adcbcd3",
+      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency"
     },
     {
       "id": "bd50049e-2bad-4892-94da-374113c0fb50",
