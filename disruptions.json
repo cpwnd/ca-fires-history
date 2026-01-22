@@ -60,56 +60,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_strike"
     },
     {
-      "id": "f3772dd7-7a74-4a65-939c-f1d7ac074a12",
-      "disruptionId": "ef4bb6dd-fe5e-4448-b801-31f8a7708a7e",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigung zwischen Hannover und Göttingen/Hildesheim",
-      "summary": "Die Reparatur an der Oberleitung zwischen Hannover und Göttingen wurde abgeschlossen. In der Folge kommt es weiterhin zu Einschränkungen kommen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Hannover und Göttingen</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "22.01.2026",
-      "durationEnd": "22.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/ef4bb6dd-fe5e-4448-b801-31f8a7708a7e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-22/a8348009-74e7-4040-b030-d767d9417286reisendenkarte_20260122-043905.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-22/a8348009-74e7-4040-b030-d767d9417286reisendenkarte_20260122-043905.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.01.2026 04:39:05",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "BB",
-        "BE",
-        "HB",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "22.01.2026 09:48",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f3772dd7-7a74-4a65-939c-f1d7ac074a12",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "27294292-4551-424d-b65a-1eff63e257d0",
       "disruptionId": "49a8b2a3-d8a8-4d1d-aa56-2658ef33c4f7",
       "author": "FERNVERKEHR_AG",
