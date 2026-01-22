@@ -60,6 +60,56 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_strike"
     },
     {
+      "id": "f3772dd7-7a74-4a65-939c-f1d7ac074a12",
+      "disruptionId": "ef4bb6dd-fe5e-4448-b801-31f8a7708a7e",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Hannover und Göttingen/Hildesheim",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Hannover und Göttingen  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen und Verspätungen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Hannover und Göttingen</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis Mittags des 22.01.2026 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.01.2026",
+      "durationEnd": "22.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/ef4bb6dd-fe5e-4448-b801-31f8a7708a7e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-22/56e9682c-091f-45cd-8c16-0d992809819breisendenkarte_20260122-043905.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-22/56e9682c-091f-45cd-8c16-0d992809819breisendenkarte_20260122-043905.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.01.2026 04:39:05",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BB",
+        "BE",
+        "HB",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.01.2026 04:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f3772dd7-7a74-4a65-939c-f1d7ac074a12",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "27294292-4551-424d-b65a-1eff63e257d0",
       "disruptionId": "49a8b2a3-d8a8-4d1d-aa56-2658ef33c4f7",
       "author": "FERNVERKEHR_AG",
@@ -104,6 +154,53 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/27294292-4551-424d-b65a-1eff63e257d0",
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section0"
+    },
+    {
+      "id": "f29aa202-c463-49a3-9527-3c9693d116e0",
+      "disruptionId": "df2d797f-84ff-4129-98ea-c60f72e7ca9b",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Schaffhausen und Tuttlingen",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Schaffhausen und Tuttlingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zugausfällen zwischen Tuttlingen und Schaffhausen. Ein Buspendelverkehr zwischen Tuttlingen und Schaffhausen wird eingerichtet.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>IC-Züge (Konstanz/Zürich – Singen (Hohentwiel) – Stuttgart)</li><li>IC 2386 verkehrt planmäßig</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.01.2026",
+      "durationEnd": "22.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/df2d797f-84ff-4129-98ea-c60f72e7ca9b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-22/bcc1e250-e357-41e7-bcf9-33be52f573cbreisendenkarte_20260122-040128.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-22/bcc1e250-e357-41e7-bcf9-33be52f573cbreisendenkarte_20260122-040128.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.01.2026 04:01:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.01.2026 04:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f29aa202-c463-49a3-9527-3c9693d116e0",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section0"
     },
     {
       "id": "358ecaa9-8862-42ee-b745-5da8c2b68f46",
@@ -905,94 +1002,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
-      "id": "557e9ec6-6f5a-4526-b2d8-b9d1412f8d08",
-      "disruptionId": "24f091a8-4384-439e-8952-581ccd7eee49",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation zur Stammstrecke in verschiedenen Nächten vom 13. 01. bis 13.02.2026",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke in Laim kommt es zwischen Moosach/Heimeranplatz/Pasing und Trudering/Ostbahnhof zu Änderungen im Fahrplan. Die Änderungen betreffen die Nächte vom 13. Januar bis 13. Februar 2026 und gelten jeweils von 22:20 Uhr abends bis 5:00 Uhr morgens.",
-      "text": "<p><strong>Folgende Nächte sind betroffen:</strong></p><ul><li>Nächte Dienstag/Mittwoch, 13./14. bis Donnerstag/Freitag, 15./16.1.2026</li><li>Nächte Mittwoch/Donnerstag, 21./22. und Donnerstag/Freitag, 22./23.1.2026</li><li>Nächte Montag/Dienstag, 26./27. bis Donnerstag/Freitag, 29./30.1.2026</li><li>Nächte Mittwoch/Donnerstag, 4./5. und Donnerstag/Freitag, 5./6.2.2026</li><li>Nächte Montag/Dienstag, 9./10. bis Donnerstag/Freitag, 12./13.2.2026</li></ul><p></p><p><strong>Änderung im Fahrplan:</strong></p><p>Ersatzverkehr:</p><ul><li><strong>Zwischen Donnersbergerbrücke und Pasing besteht Ersatzverkehr mit Bus</strong></li></ul><p>S1:</p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden in Moosach</li></ul><p>S2:</p><ul><li>Züge in/aus Richtung Erding beginnen/enden an der Hackerbrücke</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Heimeranplatz Gleis 11 und fahren von/bis Obermenzing ohne Halt im 30-Minuten-Takt</li></ul><p>S3:</p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Donnersbergerbrücke</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing</li></ul><p>S4:</p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering fallen zwischen Trudering und Pasing aus</li></ul><p>S5:</p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus.</li></ul><p>S6:</p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am Ostbahnhof Gleis 2</li><li>Züge in/aus Richtung Tutzing beginnen/enden in Pasing</li></ul><p>S7:</p><ul><li>Züge fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen</li></ul><p>S8:</p><ul><li>Züge in/aus Richtung Flughafen/Airport beginnen/enden an der Donnersbergerbrücke</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li></ul><p></p><p>‼️Ersatzverkehr:</p><p><strong>+++ Zwischen Donnersbergerbrücke und Pasing besteht Ersatzverkehr mit Bus</strong></p><p><strong>+++ Bitte beachten Sie den Fahrplan. Die Haltestellen des Ersatzverkehrs finden Sie im Anhang.</strong></p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "13.01.2026",
-      "durationEnd": "13.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/24f091a8-4384-439e-8952-581ccd7eee49",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/11d0d934-f4f4-4392-b7b9-31052530dca6reisendenkarte_20251222-092728.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/11d0d934-f4f4-4392-b7b9-31052530dca6reisendenkarte_20251222-092728.png",
-          "info": "",
-          "alt": "Reisendenkarte 22.12.2025 09:27:28",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/40c269da-76af-4f8d-96e4-a9c15e9d084cFpl%252BTSP%252BML%252BS%252B1-S%252B8%252B13%252BJan-13%252BFeb%252B2026.pdf",
-          "label": "ML+S+1-S+8+13+Jan-13+Feb+2026",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-21/663d9d81-5638-4e41-a3bf-f904e07af200Fpl%252BSEV%252BMMDN-MP%252B13%252BJan-13%252BFeb%252B2026.pdf",
-          "label": "MMDN-MP+13+Jan-13+Feb+2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.01.2026 20:01",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/557e9ec6-6f5a-4526-b2d8-b9d1412f8d08",
-      "magnoliaPath": "/aktuell/bayern/additional_service_construction1"
-    },
-    {
       "id": "84f4400b-6780-4613-93d3-f9b4327a81d0",
       "disruptionId": "5757487b-1374-4303-b716-9d5916e24fd2",
       "author": "SUEDOSTBAYERNBAHN",
@@ -1089,6 +1098,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/dcacbb99-469a-48b2-9ac4-27d129d0d1f6",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction0"
+    },
+    {
+      "id": "12fd76c3-f099-4723-b4bf-5580e197845b",
+      "disruptionId": "35c9a730-e6ed-4f56-8f49-b73b83fc3d35",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 2 Markt Schwaben ↔ Poing: Reparatur an einem Signal",
+      "summary": "Zwischen Markt Schwaben und Poing kommt es in Richtung stadteinwärts zu Verspätungen von bis zu 10 Minuten sowie vereinzelten Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "22.01.2026",
+      "durationEnd": "22.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/35c9a730-e6ed-4f56-8f49-b73b83fc3d35",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-22/9a957c4b-91ee-42b2-8908-700670d29e26reisendenkarte_20260122-043810.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-22/9a957c4b-91ee-42b2-8908-700670d29e26reisendenkarte_20260122-043810.png",
+          "info": "",
+          "alt": "Reisendenkarte 22.01.2026 04:38:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.01.2026 04:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/12fd76c3-f099-4723-b4bf-5580e197845b",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
     },
     {
       "id": "aef0ba18-21e8-457a-8421-08b03142b307",
