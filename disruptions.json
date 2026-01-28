@@ -876,9 +876,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "Verspätungen und Teilausfälle in Mainz-Bischofsheim",
+      "headline": "Verspätungen und einzelne Teilausfälle in Mainz-Bischofsheim",
       "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li><li>S9: Kelsterbach - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>Am 28. Januar</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Es kommt zu Verspätungen.</li><li>Die Züge fahren mit verminderter Geschwindigkeit.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>Am 28. Januar</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Es kommt zu Verspätungen.</li><li>Die Züge fahren mit verminderter Geschwindigkeit.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "28.01.2026",
       "durationEnd": "28.01.2026",
       "mapHref": "https://karte.bahn.de/detail/a876e186-fdc0-4fde-a279-5c2f4103d3cf",
@@ -901,19 +901,9 @@
           "name": "S 8",
           "filterName": "S 8 Rhein-Main",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 9",
-          "filterName": "S 9 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 9",
-          "filterName": "S 9 Rhein-Main",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "28.01.2026 08:22",
+      "lastModified": "28.01.2026 08:36",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
