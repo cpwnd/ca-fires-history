@@ -69,66 +69,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_strike"
     },
     {
-      "id": "2db76aa8-677e-47cc-9669-7b8d762e0490",
-      "disruptionId": "3a46acb4-88b5-44ee-a348-ea67c5a8bced",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Göttingen und Hannover/Hildesheim",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Göttingen und Hannover/Hildesheim kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu einzelnen Zugausfällen und Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Berlin - Kassel - Frankfurt (Main) - Süddeutschland</li><li>ICE-, ECE und IC-Züge zwischen Westerland - Hamburg - Hannover - Kassel - Frankfurt (Main)</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: andere Fernverkehrszüge zwischen Hamburg/Berlin und Kassel/Frankfurt (Main). Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis 29.01.2026 in den späten Abendstunden erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "28.01.2026",
-      "durationEnd": "29.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/3a46acb4-88b5-44ee-a348-ea67c5a8bced",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-29/a9a339db-e9e5-4071-8330-5402d3ebc5adreisendenkarte_20260128-235349.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-29/a9a339db-e9e5-4071-8330-5402d3ebc5adreisendenkarte_20260128-235349.png",
-          "info": "",
-          "alt": "Reisendenkarte 28.01.2026 23:53:49",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "BY",
-        "BE",
-        "BB",
-        "HB",
-        "HH",
-        "HE",
-        "MV",
-        "NI",
-        "NW",
-        "RP",
-        "SL",
-        "SN",
-        "ST",
-        "SH",
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "29.01.2026 00:07",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2db76aa8-677e-47cc-9669-7b8d762e0490",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section"
-    },
-    {
       "id": "89cd6db9-9082-478b-89d3-637f2b797ab4",
       "disruptionId": "bdfd2fe3-6636-4ed9-a1a7-76a466f9e145",
       "author": "REGIO_NORDOST",
