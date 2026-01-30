@@ -2,6 +2,64 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "cbd88db2-06ed-4528-aa1f-b1098744c6d6",
+      "disruptionId": "9c50db2f-2ec3-4ad0-86ac-1d780c409807",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Beeinträchtigungen in Augsburg",
+      "summary": "Aufgrund eines Polizeieinsatzes kommt es in Augsburg derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Ausfällen, Teilausfällen und Umleitungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-, TGV-, RJ-, IC- und EC-Verbindungen zwischen Österreich - München - Stuttgart - Frankreich/Frankfurt (Main)</li><li>ICE- und IC-Verbindungen zwischen München - Augsburg - Nürnberg/Würzburg - Frankfurt (Main)/Norddeutschland</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "30.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/9c50db2f-2ec3-4ad0-86ac-1d780c409807",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-30/f38ea24d-ee62-400e-8367-d650d4cad0f0reisendenkarte_20260130-052300.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-01-30/f38ea24d-ee62-400e-8367-d650d4cad0f0reisendenkarte_20260130-052300.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.01.2026 05:23:00",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "30.01.2026 05:31",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/cbd88db2-06ed-4528-aa1f-b1098744c6d6",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_police_activity0"
+    },
+    {
       "id": "261629f1-3c11-42ef-a316-244efc483ccf",
       "disruptionId": "28b05479-bee8-4b2f-a25a-8004a1c58f22",
       "author": "FERNVERKEHR_AG",
@@ -217,48 +275,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "7a962d97-41c5-4b57-a110-11c4de07bc5a",
-      "disruptionId": "5620d1be-fa42-44bd-8df5-2c4a4f783c49",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Die Strecke zwischen Karlsruhe Hbf und Ettlingen West ist gesperrt. Züge werden umgeleitet.",
-      "summary": "Der Grund ist eine Reparatur an der Oberleitung.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Karlsruhe Hbf &lt;&gt; Ettlingen West</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB41 - Karlsruhe &lt;&gt; Rastatt &lt;&gt; Forbach(Schwarzw) &lt;&gt; Freudenstadt &lt;&gt; (Schopfloch – Herrenberg)</li><li>RB44 - Karlsruhe &lt;&gt; Rastatt &lt;&gt; (Baden-Baden &lt;&gt; Achern)</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kommt es zu Verspätungen und Teilausfällen.</p><p><strong> 🔀Umleitungen:</strong> Um die Strecke zu entlasten werden die Züge zwischen Karlsruhe Hbf und Rastatt ohne Halt umgeleitet.</p><p>🚍&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen kommen.&nbsp;</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "29.01.2026",
-      "durationEnd": "30.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/5620d1be-fa42-44bd-8df5-2c4a4f783c49",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 41",
-          "filterName": "RB 41",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 44",
-          "filterName": "RB 44",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "29.01.2026 21:55",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7a962d97-41c5-4b57-a110-11c4de07bc5a",
-      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "4c6f57a1-f06b-4db7-8960-361341e131eb",
       "disruptionId": "2bb23883-8742-4a42-af14-a27054dc2e02",
       "author": "REGIO_BW",
@@ -459,101 +475,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "b41fff64-f2d3-4c2b-824e-b4bc369382a7",
-      "disruptionId": "8326bccf-574f-4542-8f21-055f06d0714d",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S7  Ebenhausen-Schäftlarn - Wolfratshausen",
-      "summary": " Zwischen Ebenhausen-Schäftlarn und Wolfratshausen kommt es zu keinen Beeinträchtigungen mehr.\n",
-      "text": "<p>Die Reparatur an einem Signal wurde beendet und Bauarbeiten sind auch beendet.</p>",
-      "durationBegin": "28.01.2026",
-      "durationEnd": "30.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/8326bccf-574f-4542-8f21-055f06d0714d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/6fbe1242-f0ef-4b7f-8f67-dd686f6c89c7reisendenkarte_20260129-052616.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/6fbe1242-f0ef-4b7f-8f67-dd686f6c89c7reisendenkarte_20260129-052616.png",
-          "info": "",
-          "alt": "Reisendenkarte 29.01.2026 05:26:16",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.01.2026 05:11",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b41fff64-f2d3-4c2b-824e-b4bc369382a7",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
-    },
-    {
-      "id": "595738b6-6052-48c5-b7c9-72437a4dfd03",
-      "disruptionId": "b8243633-dcf2-406f-a610-84f391c1be82",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen in Karlsruhe Hbf beendet",
-      "summary": "Die Reparatur an der Oberleitung im Bahnhof Karlsruhe Hbf ist behoben.  Die Züge können den Bahnhof Karlsruhe Hbf wieder uneingeschränkt anfahren. Der Zugverkehr zwischen Karlsruhe -  Ettlingen ist nicht mehr beeinträchtigt.",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RE 7 (Karlsruhe – Basel) </li><li>RE 2 (Karlsruhe – Konstanz) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "29.01.2026",
-      "durationEnd": "30.01.2026",
-      "mapHref": "https://karte.bahn.de/detail/b8243633-dcf2-406f-a610-84f391c1be82",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-30/68e0940d-49a9-4efe-ab9b-ae3305ac5737reisendenkarte_20260129-201300.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-01-30/68e0940d-49a9-4efe-ab9b-ae3305ac5737reisendenkarte_20260129-201300.png",
-          "info": "",
-          "alt": "Reisendenkarte 29.01.2026 20:13:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 2",
-          "filterName": "RE 2",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 7",
-          "filterName": "RE 7",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "30.01.2026 03:32",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/595738b6-6052-48c5-b7c9-72437a4dfd03",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section2"
-    },
-    {
       "id": "247c9ae9-1a7e-4134-a0f3-be34720d7d24",
       "disruptionId": "a6f0be63-bac6-4392-bb7e-9655a346498a",
       "author": "S_BAHN_MUC",
@@ -562,17 +483,17 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "S 3 Lochhausen: Reparatur an der Strecke",
-      "summary": "Zwischen Lochhausen und Olching kommt es in beide Richtungen zu Verspätungen und Teilausfällen. Heute Vormittag verkehren einige Züge der Linie S 3 des 10-Minuten-Takts nur zwischen Pasing ↔ Ostbahnhof/Deisenhofen",
+      "summary": "Zwischen Lochhausen - Olching - Maisach kommt es in beide Richtungen zu Verspätungen und Teilausfällen. Heute Vormittag verkehren einige Züge der Linie S 3 des 10-Minuten-Takts nur zwischen Pasing ↔ Ostbahnhof/Deisenhofen.",
       "text": "<p>Heute <strong>Vormittag</strong> verkehren folgende Züge der Linie S 3 des 10-Minuten-Takts nur zwischen Pasing ↔ Ostbahnhof/Deisenhofen. Also fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:</p><p><strong>S 3 Maisach → Deisenhofen / Ostbahnhof</strong></p><ul><li>S 3 Maisach Abfahrt 07:20 Uhr → Pasing Ankunft 07:39 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:40 Uhr → Pasing Ankunft 07:59 Uhr</li><li>S 3 Maisach Abfahrt 08:00 Uhr → Pasing Ankunft 08:19 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:20 Uhr → Pasing Ankunft 08:39 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:40 Uhr → Pasing Ankunft 08:59 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 09:00 Uhr → Pasing Ankunft 09:19 Uhr&nbsp;</li></ul><p><strong>S 3 Deisenhofen → Maisach / Pasing</strong>&nbsp;</p><ul><li>S 3 Pasing Abfahrt 06:57 Uhr → Maisach Ankunft 07:18 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 07:17 Uhr → Maisach Ankunft 07:38 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 07:37 Uhr → Maisach Ankunft 07:58 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 07:57 Uhr → Maisach Ankunft 08:18 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 08:17 Uhr → Maisach Ankunft 08:38 Uhr&nbsp;&nbsp;</li></ul><p>Die S-Bahnen des 10-Minuten Taktes am <strong>Nachmittag</strong> verkehren nur zwischen <strong>Deisenhofen/Ostbahnhof</strong> und ↔ <strong>Pasing</strong> und entfallen mit folgenden <strong>Ausnahmen</strong> auf dem Abschnitt <strong>Pasing</strong> ↔ <strong>Maisach</strong>.</p><p><strong>S 3 Ostbahnhof / Deisenhofen → Maisach</strong>&nbsp;</p><ul><li>S 3 Deisenhofen Abfahrt 17:40 Uhr → Ostbahnhof Abfahrt 17:57 Uhr → Maisach Ankunft 18:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:00 Uhr → Ostbahnhof Abfahrt 18:17 Uhr → Maisach Ankunft 18:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:20 Uhr → Ostbahnhof Abfahrt 18:37 Uhr → Maisach Ankunft 19:18 Uhr&nbsp;</li></ul><p>Die oben genannten S-Bahnen verkehren auf dem <strong>gesamten </strong>Laufweg.</p><p></p><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke</p>",
       "durationBegin": "30.01.2026",
       "durationEnd": "30.01.2026",
       "mapHref": "https://karte.bahn.de/detail/a6f0be63-bac6-4392-bb7e-9655a346498a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/18437ccb-b40d-4bfe-a230-b63deb479718reisendenkarte_20260130-013937.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/18437ccb-b40d-4bfe-a230-b63deb479718reisendenkarte_20260130-013937.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/4318b029-48b7-47b7-8da9-e01d515ba4c9reisendenkarte_20260130-053304.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/4318b029-48b7-47b7-8da9-e01d515ba4c9reisendenkarte_20260130-053304.png",
           "info": "",
-          "alt": "Reisendenkarte 30.01.2026 01:39:37",
+          "alt": "Reisendenkarte 30.01.2026 05:33:04",
           "openInNewTab": true
         }
       ],
@@ -591,7 +512,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "30.01.2026 01:43",
+      "lastModified": "30.01.2026 05:34",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1082,6 +1003,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "9fcdc6a3-1894-4fef-abf7-a8e12e5656fc",
+      "disruptionId": "98ab9c2e-6974-4729-9e84-d7940fd5dc41",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Endmeldung: S7 Baierbrunn ↔ Höllriegelskreuth",
+      "summary": "Zwischen Baierbrunn und Höllriegelskreuth kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an einer Weiche wurde beendet.</p>",
+      "durationBegin": "30.01.2026",
+      "durationEnd": "30.01.2026",
+      "mapHref": "https://karte.bahn.de/detail/98ab9c2e-6974-4729-9e84-d7940fd5dc41",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/db4ebca1-dfe8-4e6b-b3f0-821c64098062reisendenkarte_20260130-055723.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-01-30/db4ebca1-dfe8-4e6b-b3f0-821c64098062reisendenkarte_20260130-055723.png",
+          "info": "",
+          "alt": "Reisendenkarte 30.01.2026 05:57:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.01.2026 06:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9fcdc6a3-1894-4fef-abf7-a8e12e5656fc",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "257b9263-2897-4b13-acbf-fd330cfad227",
