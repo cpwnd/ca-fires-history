@@ -110,6 +110,65 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_weather_winter"
     },
     {
+      "id": "0d844ed0-af87-4650-81da-5d3934c1a503",
+      "disruptionId": "daa6fc6e-065f-4fc1-887a-b158d4e0a8cf",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Aktuell kommt es auf allen Linien zu Verspätungen und abweichenden Wendungen. ",
+      "summary": " ",
+      "text": "<p></p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Polizeieinsatz</strong></p>",
+      "durationBegin": "04.02.2026",
+      "durationEnd": "04.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/daa6fc6e-065f-4fc1-887a-b158d4e0a8cf",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.02.2026 08:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0d844ed0-af87-4650-81da-5d3934c1a503",
+      "magnoliaPath": "/aktuell/nord/impairment_police_activity"
+    },
+    {
       "id": "af46c4cf-3f90-4a86-8b5c-f7b71b999304",
       "disruptionId": "68011c4d-eac4-46d3-8ce9-94e2e3a8d836",
       "author": "REGIO_NORDOST",
@@ -154,44 +213,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/af46c4cf-3f90-4a86-8b5c-f7b71b999304",
       "magnoliaPath": "/aktuell/nordost/additional_service_construction4"
-    },
-    {
-      "id": "d1f2c237-646f-41d7-a1ca-064e69f2cbe4",
-      "disruptionId": "b986863b-3da1-4e4d-ba82-ea5beea9020b",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S1: Technische Störung an der Strecke.",
-      "summary": "S1: Aktuell kommt  es auf der S1 zu Verspätungen, sowie S-Bahnen die schon vor ihrem eigentlichen Ziel wenden müssen. Es kann auch zu Ausfällen von einzelnen Verbindungen kommen. Weitere Informationen auf www.s-bahn-hamburg.de +++ Grund: technische Störung an der Strecke.",
-      "text": "<p></p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen.</strong></p><p></p>",
-      "durationBegin": "04.02.2026",
-      "durationEnd": "04.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/b986863b-3da1-4e4d-ba82-ea5beea9020b",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.02.2026 08:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d1f2c237-646f-41d7-a1ca-064e69f2cbe4",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -491,6 +512,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "d1f2c237-646f-41d7-a1ca-064e69f2cbe4",
+      "disruptionId": "b986863b-3da1-4e4d-ba82-ea5beea9020b",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S1: Von und nach Poppenbüttel aktuell mit Umstieg in Ohlsdorf.",
+      "summary": "Die S1 fährt aktuell mit allen sechs Wagen von und zum Hamburger Airport. Es ist ein Umstieg in Ohlsdorf erforderlich.",
+      "text": "<p>Aktuell fährt die S1 mit allen Wagen von und zum Hamburger Airport. Fahrgäste aus und in Richtung Wellingsbüttel und Poppenbüttel müssen leider in Ohlsdorf umsteigen. Grund: Technische Störung an der Strecke</p>",
+      "durationBegin": "04.02.2026",
+      "durationEnd": "04.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/b986863b-3da1-4e4d-ba82-ea5beea9020b",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.02.2026 09:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d1f2c237-646f-41d7-a1ca-064e69f2cbe4",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
@@ -1046,20 +1104,20 @@
       "summary": "Meldungen über die aktuelle Betriebslage im S-Bahnverkehr in der Region Stuttgart",
       "text": "<p>Die S-Bahn Stuttgart informiert ihre Fahrgäste über aktuelle Betriebslagen im S-Bahnverkehr in der Region Stuttgart in den elektronischen Fahrplanmedien und auf</p><ul><li>ihrer Webseite unter Betriebslage,</li><li>X (ehemals Twitter), sowie auf</li><li>Bluesky</li></ul>",
       "durationBegin": "27.05.2025",
-      "durationEnd": "31.01.2026",
+      "durationEnd": "25.06.2026",
       "mapHref": "https://karte.bahn.de/detail/76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "images": [],
       "downloads": [],
       "links": [
         {
-          "href": "https://bsky.app/profile/s-bahn-stuttgart.de",
-          "label": "Bluesky",
+          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/Betriebslage",
+          "label": "Betriebslage (Webseite S-Bahn Stuttgart)",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/Betriebslage",
-          "label": "Betriebslage (Webseite S-Bahn Stuttgart)",
+          "href": "https://bsky.app/profile/s-bahn-stuttgart.de",
+          "label": "Bluesky",
           "info": "",
           "openInNewTab": true
         },
@@ -1129,7 +1187,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "04.02.2026 08:35",
+      "lastModified": "04.02.2026 09:11",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
