@@ -730,6 +730,68 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other1"
     },
     {
+      "id": "bc10d402-d100-4bad-8bc4-7a2bcac5640c",
+      "disruptionId": "df9b45a5-ba07-4beb-a0d8-a6f102eed8cc",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Basel Bad Bf ⇄ Waldshut:                                                              \nFahrplanänderungen, Zugausfälle und Ersatzverkehr mit Bus ",
+      "summary": "📅 Montag, 23. März 2026, 00:00 Uhr bis Sonntag, 29. März 2026, 23:59 Uhr",
+      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf) </li><li>RB 30 (Basel Bad Bf – Lauchringen) </li></ul><p>⚠️ Bitte beachten Sie die unterschiedlichen Zeiträume und Betroffenheiten.</p><p><strong>23. März bis 25. März 2026 (ganztägig)</strong></p><p><strong>Zugpendelverkehr (alle 30 Minuten): </strong>Basel Bad Bf ⇄ Grenzach</p><p><strong>Zugausfälle: </strong>Grenzach ⇄ Waldshut</p><p><strong>Ersatzverkehr mit Bussen:</strong>&nbsp;Grenzach ⇄ Waldshut</p><ul><li>Expressbusse Grenzach ⇄ Waldshut mit Halt in Rheinfelden und Bad Säckingen (alle 60 Minuten)</li><li>Ersatzbusse Grenzach ⇄ Waldshut mit Halt an allen Unterwegshalten (alle 30 Minuten)</li></ul><p><strong>Ersatzhaltestellen:</strong> Grenzach Bahnhof, Wyhlen Hebelschule, Herten Baden Bahnhofsstraße, Rheinfelden(Baden) Busbahnhof, Beuggen Bahnhof, Schwörstadt Feuerwehrhaus, Wehr-Brennet Bahnhof, Bad Säckingen Busbahnhof, Murg(Baden) Bahnhof, Laufenburg(Baden) Sparkasse, Laufenburg(Baden) Ostbahnhof Einkaufszentrum, Albbruck Bahnhof, Dogern Linde, Waldshut Bismarckstraße</p><p>.</p><p><strong>26. März bis 29. März 2026 (ganztägig)</strong></p><p><strong>Zugausfälle: </strong>Basel Bad Bf ⇄ Waldshut</p><p><strong>Ersatzverkehr mit Bussen:</strong> Basel Bad Bf ⇄ Waldshut</p><ul><li>Expressbusse Basel Bad Bf ⇄ Waldshut mit Halt in Rheinfelden und Bad Säckingen (alle 60 Minuten)</li><li>Ersatzbusse Basel Bad Bf ⇄ Waldshut mit Halt an allen Unterwegshalten (alle 30 Minuten)</li></ul><p></p><p>Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Ersatzhaltestellen:</strong> Basel Bad Bf Bussteig B, Grenzach Sparkasse, Wyhlen Hebelschule, Herten Baden Bahnhofsstraße, Rheinfelden(Baden) Busbahnhof, Beuggen Bahnhof, Schwörstadt Feuerwehrhaus, Wehr-Brennet Bahnhof, Bad Säckingen Busbahnhof, Murg(Baden) Bahnhof, Laufenburg(Baden) Sparkasse, Laufenburg(Baden) Ostbahnhof Einkaufszentrum, Albbruck Bahnhof, Dogern Linde, Waldshut Bismarckstraße</p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>❌ Die Fahrplandaten werden von uns in Kürze aktualisiert</p><p><strong>Grund der Bauarbeiten: </strong>Vorbereitungsarbeiten zur Elektrifizierung der Hochrheinbahn</p><p>⚠️ Bitte beachten&nbsp;Sie die vorausgehenden Vorbereitungsarbeiten in den Nächten 02. März bis 22. März 2026 Basel Bad Bf ⇄ Waldshut </p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p>",
+      "durationBegin": "23.03.2026",
+      "durationEnd": "29.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/df9b45a5-ba07-4beb-a0d8-a6f102eed8cc",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-05/a5fbe4ed-d45c-4fa0-9352-33f61cc54f31reisendenkarte_20260205-134156.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-05/a5fbe4ed-d45c-4fa0-9352-33f61cc54f31reisendenkarte_20260205-134156.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.02.2026 13:41:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "Direkt zur Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 30",
+          "filterName": "RB 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 3",
+          "filterName": "RE 3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.02.2026 15:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/bc10d402-d100-4bad-8bc4-7a2bcac5640c",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction1"
+    },
+    {
       "id": "e0078331-cd07-4d53-a8d2-aa6876873b79",
       "disruptionId": "fe966591-2eee-4c79-81d5-87abcf7e05f0",
       "author": "SUEDOSTBAYERNBAHN",
