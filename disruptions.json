@@ -416,10 +416,10 @@
       "mapHref": "https://karte.bahn.de/detail/1f930914-7300-4ed7-9242-b8b9eee19a81",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-05/e8a098c9-0f2a-4d11-acff-db34d87f6fdcreisendenkarte_20260205-164422.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-05/e8a098c9-0f2a-4d11-acff-db34d87f6fdcreisendenkarte_20260205-164422.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-05/a8afe09d-e27e-4f17-9c77-c99ed87ee5fareisendenkarte_20260205-180446.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-02-05/a8afe09d-e27e-4f17-9c77-c99ed87ee5fareisendenkarte_20260205-180446.png",
           "info": "",
-          "alt": "Reisendenkarte 05.02.2026 16:44:22",
+          "alt": "Reisendenkarte 05.02.2026 18:04:46",
           "openInNewTab": true
         }
       ],
@@ -445,7 +445,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "05.02.2026 17:05",
+      "lastModified": "05.02.2026 18:06",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/b829653b-3281-42f2-bd1b-84fad865579d",
@@ -1072,6 +1072,126 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
+    },
+    {
+      "id": "9aabf501-c562-4c8e-91f4-734fbda7916c",
+      "disruptionId": "5604ae42-7310-488d-8f4d-4e2e39e79e3d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Zwischenmeldung Stammstrecke: Ärztliche Versorgung eines Fahrgastes beendet",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Folgeverspätungen von 15 bis 20 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Die ärztliche Versorgung eines Fahrgastes ist beendet.</p>",
+      "durationBegin": "05.02.2026",
+      "durationEnd": "05.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/5604ae42-7310-488d-8f4d-4e2e39e79e3d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-05/82ae60a1-7c27-4c90-854b-0615f9fb091ereisendenkarte_20260205-182105.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-05/82ae60a1-7c27-4c90-854b-0615f9fb091ereisendenkarte_20260205-182105.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.02.2026 18:21:05",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.02.2026 18:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9aabf501-c562-4c8e-91f4-734fbda7916c",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency0"
+    },
+    {
+      "id": "5c278b75-78dc-44c2-af04-096dac90775a",
+      "disruptionId": "3ba7ba66-6ee1-4c23-9ea2-1f862b93a370",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "S 6 Abweichende Linienführung: Ärztliche Versorgung eines Fahrgastes beendet",
+      "summary": "Die S-Bahnen der Linie S 6 werden umgeleitet.",
+      "text": "<p><strong>S 6 Tutzing ↔ Ebersberg</strong></p><ul><li>Die S6 wird zwischen<strong> Trudering </strong>→ <strong>Ostbahnhof Gleis 7-13 (Fernbahn)</strong> → <strong>Pasing </strong>umgeleitet und die Stammstrecke wird nicht angefahren. Die Halte <strong>Leuchtenbergring </strong>und <strong>Berg am Laim </strong>entfallen.&nbsp;</li><li>Die S6 verkehrt zwischen <strong>Pasing </strong>→ <strong>Ostbahnhof </strong>→ <strong>Trudering </strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p>Alternativen:</p><ul><li>Ostbahnhof ↔ Leuchtenbergring: <strong>S2, S4, S8</strong></li><li>Ostbahnhof ↔ Berg am Laim: <strong>S2, S4</strong></li></ul><p>Die ärztliche Versorgung eines Fahrgastes ist beendet.</p>",
+      "durationBegin": "05.02.2026",
+      "durationEnd": "05.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/3ba7ba66-6ee1-4c23-9ea2-1f862b93a370",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-05/fc5eb54a-cb18-4d62-b216-2c3740a352b8reisendenkarte_20260205-183303.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-05/fc5eb54a-cb18-4d62-b216-2c3740a352b8reisendenkarte_20260205-183303.png",
+          "info": "",
+          "alt": "Reisendenkarte 05.02.2026 18:33:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.02.2026 18:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5c278b75-78dc-44c2-af04-096dac90775a",
+      "magnoliaPath": "/aktuell/bayern/detour_medical_emergency"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
