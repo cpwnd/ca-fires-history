@@ -385,6 +385,43 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "cc380c51-5b54-4327-b9f7-1b062f20364c",
+      "disruptionId": "9764aaa3-e92c-44ed-a991-7c926d2660a6",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Haltausfälle in Mainz-Bischofsheim",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Dauer der Beeinträchtigung bis voraussichtlich Tagesende</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Der Halt Mainz-Bischofsheim entfällt.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Zum Erreichen des entfallenden Haltes wechseln Sie bitte in Rüsselsheim Opelwerk oder in Wiesbaden Ost in die Züge der S8. Diese halten in Mainz-Bischofsheim.</li><li>Nutzen Sie auch die Buslinie 56 zwischen Mainz-Bischofsheim Bahnhof, Bischofsheim (b. Rüsselsheim) - Mainz-Kastel Bahnhof, Wiesbaden (Umstieg S1/S9 möglich) - Hauptbahnhof, Mainz.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "09.02.2026",
+      "durationEnd": "09.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/9764aaa3-e92c-44ed-a991-7c926d2660a6",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 9",
+          "filterName": "S 9 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.02.2026 13:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cc380c51-5b54-4327-b9f7-1b062f20364c",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "f6eda365-d0b1-44a4-999e-51f09c1b4104",
       "disruptionId": "92bbce10-a364-4de6-a883-cb36551762b1",
       "author": "REGIO_SUEDOST",
@@ -428,85 +465,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f6eda365-d0b1-44a4-999e-51f09c1b4104",
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section0"
-    },
-    {
-      "id": "cc380c51-5b54-4327-b9f7-1b062f20364c",
-      "disruptionId": "9764aaa3-e92c-44ed-a991-7c926d2660a6",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Haltausfälle in Mainz-Bischofsheim",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Dauer der Beeinträchtigung unbestimmt</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Der Halt Mainz-Bischofsheim entfällt.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Zum Erreichen des entfallenden Haltes wechseln Sie bitte in Rüsselsheim Opelwerk oder in Wiesbaden Ost in die Züge der S8. Diese halten in Mainz-Bischofsheim.</li><li>Nutzen Sie auch die Buslinie 56 zwischen Mainz-Bischofsheim Bahnhof, Bischofsheim (b. Rüsselsheim) - Mainz-Kastel Bahnhof, Wiesbaden (Umstieg S1/S9 möglich) - Hauptbahnhof, Mainz.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "09.02.2026",
-      "durationEnd": "09.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/9764aaa3-e92c-44ed-a991-7c926d2660a6",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 9",
-          "filterName": "S 9 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.02.2026 11:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/cc380c51-5b54-4327-b9f7-1b062f20364c",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section0"
-    },
-    {
-      "id": "3c0fbc98-2c69-48c7-9bbd-d164ed899933",
-      "disruptionId": "324895c1-559a-4d46-95fb-94d367fa898b",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Zugausfälle im Raum Frankfurt(Main)",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus)- Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 9. Februar 2026 bis ca. 14:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1 und S5 verkehrt im 30-Minuten-Takt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "09.02.2026",
-      "durationEnd": "09.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/324895c1-559a-4d46-95fb-94d367fa898b",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "09.02.2026 08:59",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3c0fbc98-2c69-48c7-9bbd-d164ed899933",
-      "magnoliaPath": "/aktuell/hessen/impairment_other_cause"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
@@ -1159,9 +1117,9 @@
         "category": "strike",
         "label": "Streik"
       },
-      "headline": "Vorabinformation: MVG wird am Mittwoch bestreikt ",
+      "headline": "Vorabinformation: MVG wird am Mittwoch, den 11. Februar 2026 bestreikt ",
       "summary": "MVG wird am Mittwoch, den 11. Februar 2026 bestreikt",
-      "text": "<p>❗<strong>Die Gewerkschaft Verdi hat für Mittwoch, den 11. Februar 2026, von 03:30 Uhr bis Donnerstag, den 12. Februar 2026, 03:30 Uhr zu einem ganztägigen Warnstreik aufgerufen. </strong>Betroffen sind U-Bahn, Tram und Bus bis zur Liniennummer 199. Die U-Bahn wird aus Sicherheitsgründen eingestellt, Tram und Bus vsl. stark ausgedünnt.</p><p>Ein geregelter Betrieb wird voraussichtlich erst wieder am Donnerstag, den 12.02.2026 möglich sein.</p><p>Bitte informieren Sie sich rechtzeitig vor Fahrtantritt über ihre Reiseverbindung.</p><p><strong>Die S-Bahn München ist von diesem angekündigten Warnstreik nicht betroffen und verkehrt regulär.</strong></p><p><strong>Bitte beachten Sie, dass es vor allem in der Hauptverkehrszeit zu Kapazitätsengpässen kommen kann.</strong></p><p>Weitere Informationen finden Sie auf mvg.de sowie in der App MVGO.</p>",
+      "text": "<p>Die Gewerkschaft Verdi hat für Mittwoch, den 11. Februar 2026, zu einem ganztägigen Warnstreik aufgerufen. Betroffen sind U-Bahn, Tram und Bus bis zur Liniennummer 199. Bitte informieren Sie sich rechtzeitig vor Fahrtantritt über ihre Reiseverbindung.</p><p><strong>Die S-Bahn München ist von diesem angekündigten Warnstreik nicht betroffen und verkehrt regulär.</strong></p><p><strong>Bitte beachten Sie, dass es vor allem in der Hauptverkehrszeit zu Kapazitätsengpässen kommen kann.</strong></p><p>Weitere Informationen finden Sie auf mvg.de sowie in der App MVGO.</p>",
       "durationBegin": "09.02.2026",
       "durationEnd": "11.02.2026",
       "mapHref": "https://karte.bahn.de/detail/376f3cf6-a601-4ea3-8895-3fa2eefac1de",
@@ -1211,7 +1169,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "09.02.2026 11:43",
+      "lastModified": "09.02.2026 14:55",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
