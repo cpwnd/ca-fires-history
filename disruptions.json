@@ -49,6 +49,82 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_other_cause"
     },
     {
+      "id": "8a998860-2f19-4ca0-8a11-94648fe986e7",
+      "disruptionId": "91a2776b-22f6-4757-8c56-90995be0bf8d",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S5: S-Bahn Betrieb zwischen Stade und Neugraben wieder aufgenommen.\n",
+      "summary": "Ersatzverkehr läuft aus. Es kommt vereinzelt zu Verspätungen auf der S5.",
+      "text": "<p> </p>",
+      "durationBegin": "10.02.2026",
+      "durationEnd": "10.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/91a2776b-22f6-4757-8c56-90995be0bf8d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.02.2026 10:22",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8a998860-2f19-4ca0-8a11-94648fe986e7",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "6d9d956b-33fd-4a16-913c-788b5635db4c",
+      "disruptionId": "15db48f0-cac9-4b88-8b46-ef7989e3d477",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S3: Verspätungen",
+      "summary": "Aktuell kommt es auf der Linie S3 zu Abweichungen vom Fahrplan. Grund: Technische Störung an der Strecke ",
+      "text": "<p> </p>",
+      "durationBegin": "10.02.2026",
+      "durationEnd": "10.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/15db48f0-cac9-4b88-8b46-ef7989e3d477",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.02.2026 09:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6d9d956b-33fd-4a16-913c-788b5635db4c",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "1248b56c-b175-400b-8619-3aec6f6f8a3a",
       "disruptionId": "4e4e8c58-2903-4cc6-8f36-2323b05bf339",
       "author": "S_BAHN_HH",
@@ -1164,6 +1240,126 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
     },
     {
+      "id": "0219a1f7-ec2f-40ed-8dea-f6aed079da78",
+      "disruptionId": "e32b6313-8342-43f5-a57f-7f2c8e9ca14b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Endmeldung: Stammstrecke Pasing ↔ Ostbahnhof",
+      "summary": "Zwischen Pasing und Ostbahnhof kommt es noch zu vereinzelten Folgeverspätungen von bis 10 Minuten und vorzeitigen Zugwenden auf Außenästen.",
+      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
+      "durationBegin": "10.02.2026",
+      "durationEnd": "10.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/e32b6313-8342-43f5-a57f-7f2c8e9ca14b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-10/fcc0cfbb-bd8f-4d3f-8f3d-cc648297d5a2reisendenkarte_20260210-094853.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-10/fcc0cfbb-bd8f-4d3f-8f3d-cc648297d5a2reisendenkarte_20260210-094853.png",
+          "info": "",
+          "alt": "Reisendenkarte 10.02.2026 09:48:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.02.2026 10:38",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0219a1f7-ec2f-40ed-8dea-f6aed079da78",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
+    },
+    {
+      "id": "e66cbdc8-1253-46d1-b81b-65e2db51b083",
+      "disruptionId": "f58c76ac-7025-495b-add3-da0d46c91db7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 8 Herrsching ↔ Weßling: Reparatur an einem Signal",
+      "summary": "Zwischen Herrsching und Weßling kommt es zu Verspätungen von bis zu 20 Minuten und zu vorzeitigen Zugwenden.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "10.02.2026",
+      "durationEnd": "10.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/f58c76ac-7025-495b-add3-da0d46c91db7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-10/dd5f71c8-cfa8-492c-bfd2-712f18aa03d0reisendenkarte_20260210-102942.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-10/dd5f71c8-cfa8-492c-bfd2-712f18aa03d0reisendenkarte_20260210-102942.png",
+          "info": "",
+          "alt": "Reisendenkarte 10.02.2026 10:29:42",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.02.2026 10:31",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e66cbdc8-1253-46d1-b81b-65e2db51b083",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
+    },
+    {
       "id": "c113c2bf-bc4c-40d5-95c2-e9ed4f62b1a0",
       "disruptionId": "376f3cf6-a601-4ea3-8895-3fa2eefac1de",
       "author": "S_BAHN_MUC",
@@ -1171,9 +1367,9 @@
         "category": "strike",
         "label": "Streik"
       },
-      "headline": "Vorabinformation: MVG wird am Mittwoch, den 11. Februar 2026 bestreikt ",
-      "summary": "MVG wird am Mittwoch, den 11. Februar 2026 bestreikt",
-      "text": "<p>Die Gewerkschaft Verdi hat für Mittwoch, den <strong>11. Februar 2026</strong>, zu einem <strong>ganztägigen</strong> <strong>Warnstreik </strong>aufgerufen. Betroffen sind U-Bahn, Tram und Bus bis zur Liniennummer 199. Bitte informieren Sie sich rechtzeitig vor Fahrtantritt über ihre Reiseverbindung.</p><p><strong>Die S-Bahn München ist von diesem angekündigten Warnstreik nicht betroffen und verkehrt regulär.</strong> Bitte beachten Sie, dass es vor allem in der Hauptverkehrszeit zu Kapazitätsengpässen kommen kann.</p><p><strong>❗Die&nbsp;U-Bahn&nbsp;fährt&nbsp;nur zwischen 17:30 Uhr und Betriebsschluss im Abschnitt Marienplatz↔Fröttmaning.&nbsp;</strong>Damit ist das Pokalspiel im Fröttmaninger Stadion (20:45 Uhr) mit der U-Bahn zu erreichen.</p><p><strong>Bitte beachten Sie:&nbsp;</strong></p><p>Ab ca.<strong> 22:20</strong> Uhr beginnen <strong>Bauarbeiten</strong> auf der <strong>S-Bahn-Stammstrecke</strong> mit <strong>Ersatzverkehr </strong>zwischen <strong>Donnersbergerbrücke↔Pasing:</strong> Baustellen auf der Stammstrecke der S-Bahn München</p><p></p><p>Weitere Informationen finden Sie auf mvg.de sowie in der App MVGO.</p>",
+      "headline": "Vorabinformation: MVG wird am Mittwoch, den 11. Februar 2026 bestreikt",
+      "summary": "Die MVG wird am Mittwoch, den 11. Februar 2026 bestreikt.",
+      "text": "<p></p><p>Die Gewerkschaft Verdi hat für Mittwoch, den <strong>11. Februar 2026</strong>, zu einem <strong>ganztägigen</strong> <strong>Warnstreik </strong>aufgerufen. Betroffen sind U-Bahn, Tram und Bus bis zur Liniennummer 199. Bitte informieren Sie sich rechtzeitig vor Fahrtantritt über ihre Reiseverbindung.</p><p><strong>Die S-Bahn München ist von diesem angekündigten Warnstreik nicht betroffen und verkehrt regulär.</strong> Bitte beachten Sie, dass es vor allem in der Hauptverkehrszeit zu Kapazitätsengpässen kommen kann.</p><p><strong>❗Die&nbsp;U-Bahn&nbsp;fährt&nbsp;nur zwischen 17:30 Uhr und Betriebsschluss im Abschnitt Marienplatz↔Fröttmaning.&nbsp;</strong>Damit ist das Pokalspiel im Fröttmaninger Stadion (20:45 Uhr) mit der U-Bahn zu erreichen.</p><p><strong>Bitte beachten Sie:&nbsp;</strong></p><p>Ab ca.<strong> 22:20</strong> Uhr beginnen <strong>Bauarbeiten</strong> auf der <strong>S-Bahn-Stammstrecke</strong> mit <strong>Ersatzverkehr </strong>zwischen <strong>Donnersbergerbrücke↔Pasing:</strong> Baustellen auf der Stammstrecke der S-Bahn München</p><p></p><p>Weitere Informationen finden Sie auf mvg.de sowie in der App MVGO.</p>",
       "durationBegin": "09.02.2026",
       "durationEnd": "11.02.2026",
       "mapHref": "https://karte.bahn.de/detail/376f3cf6-a601-4ea3-8895-3fa2eefac1de",
@@ -1223,7 +1419,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.02.2026 09:23",
+      "lastModified": "10.02.2026 09:44",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
