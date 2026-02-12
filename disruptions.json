@@ -372,8 +372,8 @@
       "mapHref": "https://karte.bahn.de/detail/36b09874-10f6-476e-8e87-bc5e3827eaef",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-12/1dca0c28-2a81-407e-a298-565c84410782reisendenkarte_20260211-152239.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-12/1dca0c28-2a81-407e-a298-565c84410782reisendenkarte_20260211-152239.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-12/d8b82ae3-47b9-466f-a313-e15b9253db59reisendenkarte_20260211-152239.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-12/d8b82ae3-47b9-466f-a313-e15b9253db59reisendenkarte_20260211-152239.png",
           "info": "",
           "alt": "Reisendenkarte 11.02.2026 15:22:39",
           "openInNewTab": true
@@ -394,7 +394,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "12.02.2026 16:41",
+      "lastModified": "12.02.2026 18:34",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -531,25 +531,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "42bd2bcd-e143-475b-8097-cad8316dbb40",
-      "disruptionId": "91b5f6c2-7e2d-49cd-8bce-d9e90a41d90b",
+      "id": "2300cc63-884c-4bde-a8b1-420ee7f629a8",
+      "disruptionId": "34713b1e-40a2-41b0-b313-8270a9eb05b0",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "label": "Technischer Defekt an einem Bahnübergang"
       },
-      "headline": "S5/S8 Weßling - Westkreuz: Reparatur an einer Weiche / Reparatur an einem Signal",
-      "summary": "Derzeit kommt es auf den Linien S5 und S8 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
-      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;ist die Reparatur an einer Weiche in Weßling die Reparatur an einem Signal am Westkreuz ist beendet.</p>",
+      "headline": "Endmeldung S7/S20 Pullach: Technischer Defekt an einem Bahnübergang ",
+      "summary": "Auf den Linien S7 und S20 kommt es in beide Richtungen nur noch vereinzelt zu Folgeverspätungen von 15 bis 20 Minuten. ",
+      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;war ein technischer Defekt an einem Bahnübergang in Pullach.</p>",
       "durationBegin": "12.02.2026",
       "durationEnd": "12.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/91b5f6c2-7e2d-49cd-8bce-d9e90a41d90b",
+      "mapHref": "https://karte.bahn.de/detail/34713b1e-40a2-41b0-b313-8270a9eb05b0",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/f49961a8-9854-4494-9c4e-fc3553d7365areisendenkarte_20260212-160833.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/f49961a8-9854-4494-9c4e-fc3553d7365areisendenkarte_20260212-160833.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/7c7421f3-584e-41b2-8ba8-517313208e37reisendenkarte_20260212-175809.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/7c7421f3-584e-41b2-8ba8-517313208e37reisendenkarte_20260212-175809.png",
           "info": "",
-          "alt": "Reisendenkarte 12.02.2026 16:08:33",
+          "alt": "Reisendenkarte 12.02.2026 17:58:09",
           "openInNewTab": true
         }
       ],
@@ -563,22 +563,22 @@
       ],
       "lines": [
         {
-          "name": "S 5",
-          "filterName": "S 5 München",
+          "name": "S 20",
+          "filterName": "S 20 München",
           "property": "SBAHN"
         },
         {
-          "name": "S 8",
-          "filterName": "S 8 München",
+          "name": "S 7",
+          "filterName": "S 7 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.02.2026 16:41",
-      "expand": false,
+      "lastModified": "12.02.2026 18:32",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/42bd2bcd-e143-475b-8097-cad8316dbb40",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
+      "detailPagePath": "/service/fahrplaene/2300cc63-884c-4bde-a8b1-420ee7f629a8",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section7"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
