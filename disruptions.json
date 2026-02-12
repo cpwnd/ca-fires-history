@@ -2,6 +2,56 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "c3fadf6b-3cb0-43b3-af58-691091b04f2f",
+      "disruptionId": "781f7d82-d3c0-4843-86bd-93c24a592e09",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "weather_winter",
+        "label": "Witterungsbedingte Einschränkung"
+      },
+      "headline": "Beeinträchtigungen aufgrund von Winterwitterung in Norddeutschland ",
+      "summary": "Aktuell kommt es aufgrund von Winterwitterung in Norddeutschland zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen/Teilausfällen und Verspätungen. ",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Norddeich Mole -&nbsp;Emden -&nbsp;Münster (W) - Recklinghausen - Oberhausen - Düsseldorf - Köln (-&nbsp;Koblenz))</li><li>Norddeich Mole -&nbsp;Emden -&nbsp;Bremen -&nbsp;Hannover -&nbsp;Magdeburg -&nbsp;Leipzig (- Dresden))...</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "12.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/781f7d82-d3c0-4843-86bd-93c24a592e09",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "12.02.2026 16:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/c3fadf6b-3cb0-43b3-af58-691091b04f2f",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_weather_winter"
+    },
+    {
       "id": "5ddfc846-7b67-4215-a720-f3f009693dcf",
       "disruptionId": "2e94983e-da19-4cd1-ab29-6bf86ca34fb6",
       "author": "FERNVERKEHR_AG",
@@ -322,8 +372,8 @@
       "mapHref": "https://karte.bahn.de/detail/36b09874-10f6-476e-8e87-bc5e3827eaef",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-12/a8694107-aa06-4b54-afd2-eb008d0d6e0creisendenkarte_20260211-152239.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-12/a8694107-aa06-4b54-afd2-eb008d0d6e0creisendenkarte_20260211-152239.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-12/1dca0c28-2a81-407e-a298-565c84410782reisendenkarte_20260211-152239.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-02-12/1dca0c28-2a81-407e-a298-565c84410782reisendenkarte_20260211-152239.png",
           "info": "",
           "alt": "Reisendenkarte 11.02.2026 15:22:39",
           "openInNewTab": true
@@ -344,7 +394,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "12.02.2026 14:28",
+      "lastModified": "12.02.2026 16:41",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -481,96 +531,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "0de7c854-86d4-418a-9a6e-7e90b06eb705",
-      "disruptionId": "02d96dfd-a944-4a35-84b2-0bc18b8dfb4b",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S7 Baierbrunn: Technischer Defekt an einem Bahnübergang ",
-      "summary": "Die S-Bahnen fahren im Bereich  Baierbrunn wieder mit normaler Geschwindigkeit. Es kommt jetzt noch in beide Richtungen zu Folgeverspätungen von 10 bis 15 Minuten. Durch vorzeitige Zugwenden kann es auch zu Teilausfällen kommen. ",
-      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;war ein technischer Defekt an einem Bahnübergang in Baierbrunn.</p>",
-      "durationBegin": "12.02.2026",
-      "durationEnd": "12.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/02d96dfd-a944-4a35-84b2-0bc18b8dfb4b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/cdf09a79-7ac9-4f7a-97e8-ca8f7360b9ddreisendenkarte_20260212-155305.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/cdf09a79-7ac9-4f7a-97e8-ca8f7360b9ddreisendenkarte_20260212-155305.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.02.2026 15:53:05",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.02.2026 16:30",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0de7c854-86d4-418a-9a6e-7e90b06eb705",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
-    },
-    {
-      "id": "3a98f85d-cb12-4a33-9f64-e67e4c82bfbf",
-      "disruptionId": "690df240-3ec2-49df-a107-c4afcb0e43e9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Pasing: Reparatur an einer Weiche ",
-      "summary": "In Pasing sind derzeit keine Ausfahrten aus Gleis 7 in Richtung Stammstrecke möglich. Das betrifft die S-Bahnen der Linie S5❗ Wegen eventueller Gleisänderungen achten Sie bitte auf die Anzeigen und Ansagen am Bahnsteig. ",
-      "text": "<p>Es kann zu Verspätungen von 5 bis 10 Minuten und durch kurzfristige Zugwenden auch zu Teilausfällen kommen.</p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;                        ist die Reparatur an einer Weiche       in Pasing.</p>",
-      "durationBegin": "12.02.2026",
-      "durationEnd": "12.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/690df240-3ec2-49df-a107-c4afcb0e43e9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/06b95809-ceb6-4292-b146-279c77f6bc95reisendenkarte_20260212-152308.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/06b95809-ceb6-4292-b146-279c77f6bc95reisendenkarte_20260212-152308.png",
-          "info": "",
-          "alt": "Reisendenkarte 12.02.2026 15:23:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.02.2026 16:14",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3a98f85d-cb12-4a33-9f64-e67e4c82bfbf",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section4"
-    },
-    {
       "id": "42bd2bcd-e143-475b-8097-cad8316dbb40",
       "disruptionId": "91b5f6c2-7e2d-49cd-8bce-d9e90a41d90b",
       "author": "S_BAHN_MUC",
@@ -580,14 +540,14 @@
       },
       "headline": "S5/S8 Weßling - Westkreuz: Reparatur an einer Weiche / Reparatur an einem Signal",
       "summary": "Derzeit kommt es auf den Linien S5 und S8 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
-      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;ist die Reparatur an einer Weiche in Weßling und eine Reparatur an einem Signal am Westkreuz.</p>",
+      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;ist die Reparatur an einer Weiche in Weßling die Reparatur an einem Signal am Westkreuz ist beendet.</p>",
       "durationBegin": "12.02.2026",
       "durationEnd": "12.02.2026",
       "mapHref": "https://karte.bahn.de/detail/91b5f6c2-7e2d-49cd-8bce-d9e90a41d90b",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/322cb440-eace-408c-a5eb-21c0a037995dreisendenkarte_20260212-160833.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/322cb440-eace-408c-a5eb-21c0a037995dreisendenkarte_20260212-160833.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/f49961a8-9854-4494-9c4e-fc3553d7365areisendenkarte_20260212-160833.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-12/f49961a8-9854-4494-9c4e-fc3553d7365areisendenkarte_20260212-160833.png",
           "info": "",
           "alt": "Reisendenkarte 12.02.2026 16:08:33",
           "openInNewTab": true
@@ -613,7 +573,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "12.02.2026 16:11",
+      "lastModified": "12.02.2026 16:41",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1421,50 +1381,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0ff816af-6467-4756-b03a-761f76fb0e93",
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction"
-    },
-    {
-      "id": "9c6ba0f0-a88d-4e4a-84bc-cd08c0e8ac14",
-      "disruptionId": "5458481e-e3de-4a8f-8745-d0571a5f4cc9",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "other_cause",
-        "label": "Sonstiges"
-      },
-      "headline": "Es kommt zu Verspätungen auf der Linie Bus RE22",
-      "summary": "Aufgrund von einem defektem Fahrzeug in Neumarkt kommt es zu Verspätungen auf der Linie Bus RE22",
-      "text": "<p><strong>Zeitraum:</strong> Donnerstag, 12. Februar 2026, 15:55 Uhr bis Donnerstag, 12. Februar 2026, 17:00 Uhr</p><p><strong>Betroffene Linien:</strong> Bus RE22</p><p></p><p>Mehr Informationen zu diesem Ersatzverkehr sowie eine Karte mit den Echtzeitpositionen der Busse finden Sie auf der Seite zum Ersatzverkehr der Generalsanierung.</p>",
-      "durationBegin": "12.02.2026",
-      "durationEnd": "12.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/5458481e-e3de-4a8f-8745-d0571a5f4cc9",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://karte.bahn.de/detail/5458481e-e3de-4a8f-8745-d0571a5f4cc9",
-          "label": "Zur Störungskarte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus RE22",
-          "filterName": "Bus RE22",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.02.2026 16:02",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9c6ba0f0-a88d-4e4a-84bc-cd08c0e8ac14",
-      "magnoliaPath": "/aktuell/significant_delays_other_cause1"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
