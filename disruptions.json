@@ -224,8 +224,8 @@
       "mapHref": "https://karte.bahn.de/detail/30a8b65d-6ce8-4610-806a-8ff411e3205a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-13/36fad9b0-75b8-4a42-bbfa-15d5dc39a787reisendenkarte_20260213-155829.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-13/36fad9b0-75b8-4a42-bbfa-15d5dc39a787reisendenkarte_20260213-155829.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-13/f5c92c7f-ce87-4fd5-af55-170ca9fed3dcreisendenkarte_20260213-155829.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-13/f5c92c7f-ce87-4fd5-af55-170ca9fed3dcreisendenkarte_20260213-155829.png",
           "info": "",
           "alt": "Reisendenkarte 13.02.2026 15:58:29",
           "openInNewTab": true
@@ -251,7 +251,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.02.2026 16:00",
+      "lastModified": "13.02.2026 16:41",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -493,6 +493,43 @@
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
     },
     {
+      "id": "5f1575d2-557e-46b8-b6f2-81240f0c8613",
+      "disruptionId": "a445ce35-a8d2-4e3d-b7b2-a17e370fc345",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
+      },
+      "headline": "S20 Höllriegelskreuth - Geltendorf: Personalausfall",
+      "summary": "Folgende S-Bahnen der Linie S20 entfallen heute Nachmittag:",
+      "text": "<ul><li>Höllriegelskreuth Abfahrt 16:29 Uhr - Ankunft Geltendorf 16:49 Uhr</li><li>Höllriegelskreuth Abfahrt 17:29 Uhr - Ankunft Pasing 17:49 Uhr</li></ul><p></p><ul><li>Pasing Abfahrt 16:59 Uhr - Ankunft Höllriegelskreuth 17:19 Uhr</li><li>Pasing Abfahrt 17:59 Uhr - Ankunft Höllriegelskreuth 18:19 Uhr</li></ul><p>Grund für diese Ausfälle ist kurzfristiger Personalmangel wegen des Notarzteinsatzes auf der Linie S8.</p>",
+      "durationBegin": "13.02.2026",
+      "durationEnd": "13.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/a445ce35-a8d2-4e3d-b7b2-a17e370fc345",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.02.2026 16:40",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5f1575d2-557e-46b8-b6f2-81240f0c8613",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_other_cause"
+    },
+    {
       "id": "b829653b-3281-42f2-bd1b-84fad865579d",
       "disruptionId": "1f930914-7300-4ed7-9242-b8b9eee19a81",
       "author": "REGIO_NORDOST",
@@ -691,6 +728,109 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
+    },
+    {
+      "id": "377cc67b-aa8f-4529-9f07-1fa1424b0e68",
+      "disruptionId": "6cc3f812-d35b-4422-9270-5fcc356a91bf",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": "Landungsbrücken: Aufzug außer Betrieb",
+      "summary": "An der Station Landungsbrücken ist derzeit der Aufzug zum Bahnsteig außer Betrieb. ",
+      "text": "<p>Alternative, stufenfreie Verbindungen finden Sie jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen. </p>",
+      "durationBegin": "13.02.2026",
+      "durationEnd": "16.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/6cc3f812-d35b-4422-9270-5fcc356a91bf",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&amp;extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.02.2026 16:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/377cc67b-aa8f-4529-9f07-1fa1424b0e68",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other8"
+    },
+    {
+      "id": "388d6f2e-60ec-4d18-a4cb-1ad0b16f9303",
+      "disruptionId": "dfa7f7c8-3b44-48b6-840f-de424f9b89f5",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_other",
+        "label": "Technischer Defekt am Bahnhof"
+      },
+      "headline": " Harburg Rathaus: Aufzug Gleis 1/2 außer Betrieb",
+      "summary": "An der Station Harburg Rathaus Geis 1/2 ist derzeit der Aufzug zum Bahnsteig außer Betrieb. ",
+      "text": "<p>Alternative, stufenfreie Verbindungen finden Sie jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen. </p>",
+      "durationBegin": "13.02.2026",
+      "durationEnd": "16.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/dfa7f7c8-3b44-48b6-840f-de424f9b89f5",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&amp;extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.02.2026 16:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/388d6f2e-60ec-4d18-a4cb-1ad0b16f9303",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other9"
     },
     {
       "id": "cfeae484-4508-4a8e-95ab-e0feeef51327",
