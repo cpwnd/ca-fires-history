@@ -54,6 +54,65 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_weather_winter"
     },
     {
+      "id": "273706f1-6ca6-4696-b1d4-1e59db420dd0",
+      "disruptionId": "c78bae4e-eea6-41d4-82ee-265b589b3462",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Alle Linien: Verspätungen",
+      "summary": "Aktuell kommt es auf allen Linien zu Abweichungen vom Fahrplan und Verspätungen. Bitte nutzen Sie nach Möglichkeit innerhalb der Innenstadt auch die U-Bahnen und Linienbusse. Grund: Polizeieinsatz ",
+      "text": "<p>Weitere Informationen werden aktuell zusammengestellt...</p>",
+      "durationBegin": "16.02.2026",
+      "durationEnd": "16.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/c78bae4e-eea6-41d4-82ee-265b589b3462",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.02.2026 00:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/273706f1-6ca6-4696-b1d4-1e59db420dd0",
+      "magnoliaPath": "/aktuell/nord/impairment_police_activity1"
+    },
+    {
       "id": "071b85b8-0243-46a6-82f2-0cfd61625b18",
       "disruptionId": "155f6c3b-9626-4383-b8d3-d703feb4aefe",
       "author": "S_BAHN_HH",
@@ -563,43 +622,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "273706f1-6ca6-4696-b1d4-1e59db420dd0",
-      "disruptionId": "c78bae4e-eea6-41d4-82ee-265b589b3462",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Alle Linien: Verspätungen",
-      "summary": "Aktuell kommt es auf allen Linien zu Abweichungen vom Fahrplan und Verspätungen. Bitte nutzen Sie nach Möglichkeit innerhalb der Innenstadt auch die U-Bahnen und Linienbusse. Grund: Polizeieinsatz ",
-      "text": "<p>Weitere Informationen werden aktuell zusammengestellt...</p>",
-      "durationBegin": "16.02.2026",
-      "durationEnd": "16.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/c78bae4e-eea6-41d4-82ee-265b589b3462",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "16.02.2026 00:19",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/273706f1-6ca6-4696-b1d4-1e59db420dd0",
-      "magnoliaPath": "/aktuell/nord/impairment_police_activity1"
     },
     {
       "id": "4fe3d163-1c74-4a05-9067-a4ee57421321",
