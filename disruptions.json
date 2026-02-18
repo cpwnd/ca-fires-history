@@ -2,53 +2,105 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "df6a4bd2-4a3a-4879-9d0d-79864461ccad",
-      "disruptionId": "5f04d113-29f1-41dc-9bea-af9568861dbd",
-      "author": "FERNVERKEHR_AG",
+      "id": "55717862-1444-4399-9a6b-6bd935867f7c",
+      "disruptionId": "d9a5f491-4b10-410c-8835-b3b26df358e5",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Verkehrsmeldung für die LinieRB 24 ",
+      "summary": "Mittwoch, 18.02.2026 13:53 Uhr bis vsl. Samstag, 28.02.2026 23:30 Uhr",
+      "text": "<p>Die Züge der Linie RB24 werden ab Berlin-Lichtenberg nach Flughafen BER umgeleitet. Die Halte Berlin Ostkreuz und Berlin-Schöneweide entfallen. Grund: Reparatur an einer Weiche. Nutzen Sie andere Verkehrsmittel oder die S-Bahn</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "18.02.2026",
+      "durationEnd": "28.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/d9a5f491-4b10-410c-8835-b3b26df358e5",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RB 24",
+          "filterName": "RB 24",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "18.02.2026 14:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/55717862-1444-4399-9a6b-6bd935867f7c",
+      "magnoliaPath": "/aktuell/nordost/impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "e2b32398-acc5-423a-8ff3-6440666e8858",
+      "disruptionId": "ca54f7fe-6cc6-4583-a17c-da4b386d6529",
+      "author": "REGIO_NORDOST",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "Beeinträchtigungen zwischen Göttingen und Kassel-Wilhelmshöhe",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Göttingen und Kassel-Wilhelmshöhe kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Züge verspäten sich dadurch um etwa 20 Min.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE und IC Züge im Abschnitt Göttingen und Kassel-Wilhelmshöhe</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "18.02.2026",
-      "durationEnd": "18.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/5f04d113-29f1-41dc-9bea-af9568861dbd",
-      "images": [
+      "headline": "Verkehrsmeldung für die Linie RE 7 ",
+      "summary": "Donnerstag, 19.02.2026 03:00 Uhr bis vsl. Montag, 23.02.2026 bis Tagesende",
+      "text": "<p>Die Züge der Linie RE7 werden ab Berlin Ostkreuz bis Berlin-Wannsee über Berlin Gesundbrunnen umgeleitet. Die Halte Berlin Ostbahnhof, Berlin Alexanderplatz, Berlin Friedrichstraße, Berlin Hbf, Berlin Zoologischer Garten und Berlin-Charlottenburg entfallen.</p><p>Nutzen Sie als Alternative die Züge der Linie RE1 oder die S-Bahn.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "19.02.2026",
+      "durationEnd": "23.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/ca54f7fe-6cc6-4583-a17c-da4b386d6529",
+      "images": [],
+      "downloads": [],
+      "links": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-18/889e7bff-6b2d-47c2-ae9e-88331d8948careisendenkarte_20260218-100654.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-18/889e7bff-6b2d-47c2-ae9e-88331d8948careisendenkarte_20260218-100654.png",
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
           "info": "",
-          "alt": "Reisendenkarte 18.02.2026 10:06:54",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
           "openInNewTab": true
         }
       ],
-      "downloads": [],
-      "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "REGIONAL"
       ],
       "states": [
-        "HH",
-        "BW",
-        "BY",
-        "NI",
-        "HE"
+        "BB",
+        "BE"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "18.02.2026 10:09",
+      "lastModified": "18.02.2026 13:47",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/df6a4bd2-4a3a-4879-9d0d-79864461ccad",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/e2b32398-acc5-423a-8ff3-6440666e8858",
+      "magnoliaPath": "/aktuell/nordost/impairment_technical_problem_railway_section1"
     },
     {
       "id": "caf49b9e-e546-4581-a2b8-79b46d5d397c",
@@ -214,6 +266,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "b746841d-e3d9-405a-89b7-dc753a405515",
+      "disruptionId": "4de8bbbf-8e8b-464c-9fbb-ce476c06409a",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Die Strecke zwischen Meckesheim und Aglasterhausen ist im Moment gesperrt.",
+      "summary": "Der Grund ist eine Reparatur an der Oberleitung.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Meckesheim &lt;&gt; Aglasterhausen</p><p>🕜<strong>Dauer der Sperrung bis vsl.17 Uhr.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S8 - Heidelberg &lt;&gt; Neckargemünd &lt;&gt; Meckesheim &lt;&gt; Aglasterhausen</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Züge der Linie S8 fallen zw. Meckesheim und Aglasterhausen aus.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen kommen.&nbsp;</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "18.02.2026",
+      "durationEnd": "18.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/4de8bbbf-8e8b-464c-9fbb-ce476c06409a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-02-18/550784b4-a156-4692-9ce2-1ee5c06268dareisendenkarte_20260218-125408.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-02-18/550784b4-a156-4692-9ce2-1ee5c06268dareisendenkarte_20260218-125408.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.02.2026 12:54:08",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 Rhein-Neckar",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.02.2026 12:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b746841d-e3d9-405a-89b7-dc753a405515",
+      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -358,8 +455,8 @@
       "mapHref": "https://karte.bahn.de/detail/9d7f3a71-817e-4ef3-9156-13021d7f011e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/d595bac0-5b28-41ac-9e16-85ed4b241b7breisendenkarte_20260217-233514.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/d595bac0-5b28-41ac-9e16-85ed4b241b7breisendenkarte_20260217-233514.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/a4c820fd-49ad-48b1-b956-a518ec6b6a9freisendenkarte_20260217-233514.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/a4c820fd-49ad-48b1-b956-a518ec6b6a9freisendenkarte_20260217-233514.png",
           "info": "",
           "alt": "Reisendenkarte 17.02.2026 23:35:14",
           "openInNewTab": true
@@ -380,56 +477,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.02.2026 12:12",
+      "lastModified": "18.02.2026 13:46",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/63a8a084-cc7e-4d38-b498-678708290518",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "2c354239-b7c1-49c8-a754-e9e9e8a59cf2",
-      "disruptionId": "31d3c4bd-a01a-44d0-b475-6af4a347056c",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "police_activity",
-        "label": "Behördliche Maßnahme"
-      },
-      "headline": "Es kommt zu Beeinträchtigung auf der Linie Bus RE22",
-      "summary": "Aufgrund von behördliche Maßnahme kommt es zu Verspätungen auf der Linie Bus RE22",
-      "text": "<p><strong>Zeitraum:</strong> Mittwoch, 18. Februar 2026, 08:26 Uhr bis Mittwoch, 18. Februar 2026, 13:00 Uhr</p><p><strong>Betroffene Linien:</strong> Bus RE22</p><p>Grund hierfür sind behördliche Maßnahme.</p><p></p><p></p><p>Mehr Informationen zu diesem Ersatzverkehr sowie eine Karte mit den Echtzeitpositionen der Busse finden Sie auf der Seite zum Ersatzverkehr der Generalsanierung.</p>",
-      "durationBegin": "18.02.2026",
-      "durationEnd": "18.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/31d3c4bd-a01a-44d0-b475-6af4a347056c",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://karte.bahn.de/detail/31d3c4bd-a01a-44d0-b475-6af4a347056c",
-          "label": "Zur Störungskarte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus RE22",
-          "filterName": "Bus RE22",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "18.02.2026 10:55",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2c354239-b7c1-49c8-a754-e9e9e8a59cf2",
-      "magnoliaPath": "/aktuell/impairment_police_activity"
     },
     {
       "id": "db3004db-874c-4237-bb27-726a38f2c3f7",
@@ -748,51 +801,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
-    },
-    {
-      "id": "3a3fb313-eea8-4691-a56b-07315d6a7f49",
-      "disruptionId": "d6731c55-41fc-496e-9760-bfca0923ff00",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "S 8 Abweichende Linienführung: Reparatur an der Oberleitung",
-      "summary": "Die S-Bahnen der Linie S 8 werden umgeleitet.",
-      "text": "<p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li>Die S8 wird zwischen<strong> Pasing </strong>→ <strong>Ostbahnhof Gleis 7-13 (Fernbahn) → Daglfing</strong> umgeleitet und die Stammstrecke wird nicht angefahren. Der Halt <strong>Leuchtenbergring </strong>entfällt.&nbsp;</li><li>Die S8 verkehrt zwischen <strong>Daglfing </strong>→ <strong>Ostbahnhof </strong>→ <strong>Pasing </strong>auf dem Regelweg durch die Stammstrecke mit allen geplanten Halten.</li></ul><p>Alternativen:</p><ul><li><ul><li>Ostbahnhof ↔ Leuchtenbergring: <strong>S2</strong>, <strong>S4, S6</strong></li></ul></li></ul><p></p><p>Der Grund hierfür ist eine Reparatur an der Oberleitung.</p>",
-      "durationBegin": "18.02.2026",
-      "durationEnd": "18.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/d6731c55-41fc-496e-9760-bfca0923ff00",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/f99ab468-e67d-4a85-a8bf-94dea2155b07reisendenkarte_20260218-122932.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/f99ab468-e67d-4a85-a8bf-94dea2155b07reisendenkarte_20260218-122932.png",
-          "info": "",
-          "alt": "Reisendenkarte 18.02.2026 12:29:32",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.02.2026 12:39",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3a3fb313-eea8-4691-a56b-07315d6a7f49",
-      "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
     },
     {
       "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
