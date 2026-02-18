@@ -333,51 +333,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "b746841d-e3d9-405a-89b7-dc753a405515",
-      "disruptionId": "4de8bbbf-8e8b-464c-9fbb-ce476c06409a",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Die Strecke zwischen Meckesheim und Aglasterhausen ist im Moment gesperrt.",
-      "summary": "Der Grund ist eine Reparatur an der Oberleitung.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Meckesheim &lt;&gt; Aglasterhausen</p><p>🕜<strong>Dauer der Sperrung bis vsl.17 Uhr.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S8 - Heidelberg &lt;&gt; Neckargemünd &lt;&gt; Meckesheim &lt;&gt; Aglasterhausen</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Züge der Linie S8 fallen zw. Meckesheim und Aglasterhausen aus.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, kann es auch im Ersatzverkehr zu Fahrtausfällen und Fahrplanabweichungen kommen.&nbsp;</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "18.02.2026",
-      "durationEnd": "18.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/4de8bbbf-8e8b-464c-9fbb-ce476c06409a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-02-18/550784b4-a156-4692-9ce2-1ee5c06268dareisendenkarte_20260218-125408.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-02-18/550784b4-a156-4692-9ce2-1ee5c06268dareisendenkarte_20260218-125408.png",
-          "info": "",
-          "alt": "Reisendenkarte 18.02.2026 12:54:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 Rhein-Neckar",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.02.2026 12:56",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b746841d-e3d9-405a-89b7-dc753a405515",
-      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section"
-    },
-    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -824,58 +779,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d438c1b1-ef28-403a-8c3f-f77e8db6abad",
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
-    },
-    {
-      "id": "b2eb07eb-a9d0-4e00-9e6a-70bc9b46c287",
-      "disruptionId": "d25fa229-3563-4d9c-8227-22c5e1c4308f",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_other",
-        "label": "Technischer Defekt am Bahnhof"
-      },
-      "headline": "Jungfernstieg: Ausgang Rathausmarkt gesperrt.",
-      "summary": " Zurzeit ist der Ausgang Rathausmarkt am Jungfernstieg gesperrt.",
-      "text": "<p> </p>",
-      "durationBegin": "18.02.2026",
-      "durationEnd": "19.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/d25fa229-3563-4d9c-8227-22c5e1c4308f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.02.2026 15:55",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b2eb07eb-a9d0-4e00-9e6a-70bc9b46c287",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
       "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
