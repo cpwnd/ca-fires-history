@@ -165,6 +165,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "7b4e472b-e433-45c3-b618-513dab9580e0",
+      "disruptionId": "6133c4a3-b64c-436f-89b6-69bcb0d4c849",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 8 Seefeld-Hechendorf ↔ Herrsching: Reparatur an einem Signal",
+      "summary": "Zwischen Seefeld-Hechendorf und Herrsching sind keine Zugfahrten möglich. ",
+      "text": "<p>Die S-Bahnen wenden in Seefeld-Hechendorf.</p><p>Ein Ersatzverkehr zwischen Seefeld-Hechendorf und Herrsching ist in Planung.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "18.02.2026",
+      "durationEnd": "18.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/6133c4a3-b64c-436f-89b6-69bcb0d4c849",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/09da80be-59ce-45ca-aadc-3e3b6d9c0641reisendenkarte_20260218-073005.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/09da80be-59ce-45ca-aadc-3e3b6d9c0641reisendenkarte_20260218-073005.png",
+          "info": "",
+          "alt": "Reisendenkarte 18.02.2026 07:30:05",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.02.2026 07:57",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7b4e472b-e433-45c3-b618-513dab9580e0",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
+    },
+    {
       "id": "a2d63597-aa38-4853-8a76-f5a72594f66d",
       "disruptionId": "07e0f05e-0792-4026-8979-a0c3f358afa2",
       "author": "REGIO_SUEDOST",
@@ -337,93 +382,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "74f56671-d4d3-4f00-aa8b-96ec8d816e3e",
-      "disruptionId": "b252d5d8-d31e-4f5b-ab55-1378601c04d6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Endmeldung: S 7 Hauptbahnhof ↔ Heimeranplatz",
-      "summary": "Die Züge können wieder zwischen Hauptbahnhof und Heimeranplatz fahren.",
-      "text": "<p>Es kommt noch zu Verspätungen und Teilausfällen.</p><p>Die Reparatur an einer Weiche wurde beendet.</p>",
-      "durationBegin": "18.02.2026",
-      "durationEnd": "18.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/b252d5d8-d31e-4f5b-ab55-1378601c04d6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/79c61ac1-ac73-4809-a81f-65d5667fd5b3reisendenkarte_20260218-054611.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/79c61ac1-ac73-4809-a81f-65d5667fd5b3reisendenkarte_20260218-054611.png",
-          "info": "",
-          "alt": "Reisendenkarte 18.02.2026 05:46:11",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.02.2026 07:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/74f56671-d4d3-4f00-aa8b-96ec8d816e3e",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
-    },
-    {
-      "id": "4c0db768-b739-40e7-ae16-6efcca5af6e0",
-      "disruptionId": "d5156be7-a749-4e2c-8e3b-0e8cb5990cd1",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristige Erkrankung von Personal"
-      },
-      "headline": "Verspätungen und Umleitungen in Dettingen(Main)",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE54: Frankfurt(Main)Hbf - Maintal Ost - Hanau Hbf - Aschaffenburg - Würzburg (- Bamberg)</li><li>RE55: Frankfurt(Main)Hbf - Offenbach Hbf - Hanau Hbf - Aschaffenburg - Würzburg (- Bamberg)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 18. Februar zwischen 06:30 Uhr und 13 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die RE54/55 werden zwischen Aschaffenburg Hbf- Frankfurt Hbf in beiden Richtungen ohne Zwischenhalt umgeleitet.</li></ul><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "18.02.2026",
-      "durationEnd": "18.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/d5156be7-a749-4e2c-8e3b-0e8cb5990cd1",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RE 54",
-          "filterName": "RE 54",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 55",
-          "filterName": "RE 55",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "18.02.2026 06:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4c0db768-b739-40e7-ae16-6efcca5af6e0",
-      "magnoliaPath": "/aktuell/hessen/impairment_other_cause"
     },
     {
       "id": "63a8a084-cc7e-4d38-b498-678708290518",
@@ -1050,8 +1008,8 @@
       "mapHref": "https://karte.bahn.de/detail/e7d34227-f70d-4c75-8922-26fa698203cf",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/9aee91e0-4d29-407d-8ab9-1fe1e9c20145reisendenkarte_20260218-063435.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/9aee91e0-4d29-407d-8ab9-1fe1e9c20145reisendenkarte_20260218-063435.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/5242e18c-f38c-4ed8-84d4-fa06af755faereisendenkarte_20260218-063435.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-18/5242e18c-f38c-4ed8-84d4-fa06af755faereisendenkarte_20260218-063435.png",
           "info": "",
           "alt": "Reisendenkarte 18.02.2026 06:34:35",
           "openInNewTab": true
@@ -1072,7 +1030,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.02.2026 06:48",
+      "lastModified": "18.02.2026 07:48",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
