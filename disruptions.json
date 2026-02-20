@@ -528,6 +528,81 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "70f724a2-670d-4cb5-9112-ad7e24575526",
+      "disruptionId": "6accf2af-f062-4220-b474-3ff7012076e7",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
+      },
+      "headline": "Stammstrecke / Gesamtnetz: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine ärztliche Versorgung eines Fahrgastes.</p>",
+      "durationBegin": "20.02.2026",
+      "durationEnd": "20.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/6accf2af-f062-4220-b474-3ff7012076e7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/5c62f457-e694-4a42-b92d-7fdc49975b3ereisendenkarte_20260220-124233.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-20/5c62f457-e694-4a42-b92d-7fdc49975b3ereisendenkarte_20260220-124233.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.02.2026 12:42:33",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.02.2026 12:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/70f724a2-670d-4cb5-9112-ad7e24575526",
+      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency0"
+    },
+    {
       "id": "5cf54451-37eb-4678-b795-223f8a0ddd34",
       "disruptionId": "fd9466a1-32d7-4ffc-bcfc-b060ed901345",
       "author": "S_BAHN_MUC",
