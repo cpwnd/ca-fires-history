@@ -784,96 +784,6 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction3"
     },
     {
-      "id": "43ddf5b2-66c8-4595-984a-b92308200271",
-      "disruptionId": "11eb21f8-8f7b-455f-a6ac-f400eaef96c7",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Tiere auf der Strecke"
-      },
-      "headline": "S 3 Lochhausen: Tiere auf der Strecke",
-      "summary": "Im Bereich Lochhausen kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>In diesem Bereich fahren die S-Bahnen mit reduzierter Geschwindigkeit.</p><p>Zusätzlich entfallen heute Nachmittag einige Züge der Linie S 3 des 10-Minuten-Takts aus.</p><p>Der Grund hierfür sind Tiere auf der Strecke.</p>",
-      "durationBegin": "24.02.2026",
-      "durationEnd": "24.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/11eb21f8-8f7b-455f-a6ac-f400eaef96c7",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-24/2027f4ec-c10e-472a-9d03-961ca8f08955reisendenkarte_20260224-162030.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-24/2027f4ec-c10e-472a-9d03-961ca8f08955reisendenkarte_20260224-162030.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.02.2026 16:20:30",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.02.2026 16:22",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/43ddf5b2-66c8-4595-984a-b92308200271",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
-    },
-    {
-      "id": "169cdf4d-4b08-4bdc-9597-af55472c4bb8",
-      "disruptionId": "4537fdcd-ddb2-4e6a-97b6-29a0615a076f",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "S 1 Lohhof: Reparatur an der Strecke",
-      "summary": "Im Bereich Lohhof kommt es zu Verspätungen von bis zu 10 Minuten, vereinzelt auch höher, sowie zu Teilausfällen .",
-      "text": "<p>In diesem Bereich fahren die S-Bahnen mit reduzierter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "24.02.2026",
-      "durationEnd": "24.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/4537fdcd-ddb2-4e6a-97b6-29a0615a076f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-24/92379410-eee6-4263-ac81-e3590028bc54reisendenkarte_20260224-155014.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-24/92379410-eee6-4263-ac81-e3590028bc54reisendenkarte_20260224-155014.png",
-          "info": "",
-          "alt": "Reisendenkarte 24.02.2026 15:50:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.02.2026 15:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/169cdf4d-4b08-4bdc-9597-af55472c4bb8",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
-    },
-    {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
       "disruptionId": "76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "author": "S_BAHN_S",
@@ -973,6 +883,83 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/other_effect_technical_problem_it"
+    },
+    {
+      "id": "d0dcf795-987e-4bd3-858a-f3e652f1e2b0",
+      "disruptionId": "3f77463c-efaa-478b-b38e-9ee80a5e99e9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "MVG wird am 27. und 28. Februar 2026 bestreikt.",
+      "summary": "MVG wird am Freitag, den 27. und Samstag, den 28. Februar 2026 bestreikt\n",
+      "text": "<p>Die Gewerkschaft Verdi hat für Freitag, den 27. und Samstag, den 28. Februar 2026, zu ganztägigen Warnstreiks aufgerufen. Betroffen sind U-Bahn, Tram und Bus bis zur Liniennummer 199. Bitte informieren Sie sich rechtzeitig vor Fahrtantritt über ihre Reiseverbindung.</p><p><strong>Die S-Bahn München ist von diesem angekündigten Warnstreik nicht betroffen und verkehrt regulär.</strong> Bitte beachten Sie, dass es vor allem in der Hauptverkehrszeit zu Kapazitätsengpässen kommen kann.</p><p>Weitere Informationen finden Sie auf mvg.de sowie in der App MVGO.</p>",
+      "durationBegin": "24.02.2026",
+      "durationEnd": "01.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/3f77463c-efaa-478b-b38e-9ee80a5e99e9",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.02.2026 16:57",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d0dcf795-987e-4bd3-858a-f3e652f1e2b0",
+      "magnoliaPath": "/aktuell/bayern/unknown_effect_strike"
     },
     {
       "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
