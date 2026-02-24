@@ -114,6 +114,44 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
     },
     {
+      "id": "688fc331-d585-4a8d-8395-f27e05182a38",
+      "disruptionId": "80942252-8da5-4f25-99fe-6c70410eb6e3",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S3: Dringende Reparaturarbeiten an der Strecke",
+      "summary": "Am 24.02.2026 fahren zwischen 10 Uhr und 11 Uhr die Züge der Linie S3 nur zwischen Hammerbrook und Pinneberg. Nutzen Sie zwischen Hammerbrook und Neugraben bitte die S5. Grund: Dringende Reparaturarbeiten an der Strecke.",
+      "text": "<p>  </p>",
+      "durationBegin": "24.02.2026",
+      "durationEnd": "24.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/80942252-8da5-4f25-99fe-6c70410eb6e3",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.02.2026 09:15",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/688fc331-d585-4a8d-8395-f27e05182a38",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "e2b32398-acc5-423a-8ff3-6440666e8858",
       "disruptionId": "ca54f7fe-6cc6-4583-a17c-da4b386d6529",
       "author": "REGIO_NORDOST",
