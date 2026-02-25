@@ -69,36 +69,27 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
-      "id": "d19a04ae-7522-415a-a391-11a96bbfc426",
-      "disruptionId": "72013d46-1d92-4546-8975-94b0a79aefd3",
+      "id": "42e778ca-4066-40bf-9426-c3980ef989fc",
+      "disruptionId": "465ac4f4-2c0c-4f85-ab81-b4a24eb70fd3",
       "author": "FERNVERKEHR_AG",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Streckensperrung"
       },
-      "headline": "Beeinträchtigungen zwischen Braunschweig und Magdeburg",
-      "summary": "Aufgrund einer technischen Störung an der Strecke im Raum Helmstedt kommt es zu Teilausfällen und Verspätungen bis zu 30 Minuten im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Dortmund -&nbsp;Hannover -&nbsp;Magdeburg -&nbsp;Leipzig</li><li>IC-Züge Bremen -&nbsp;Hannover -&nbsp;Magdeburg -&nbsp;Leipzig</li><li>IC-Züge Stendal - Magdeburg - Leipzig</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Reisende von und nach Braunschweig und Helmstedt nutzen bitte die Alternativen des Nahverkehrs</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "20.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/72013d46-1d92-4546-8975-94b0a79aefd3",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-21/2e150b89-3ec1-4823-b8d8-8971ab958675reisendenkarte_20260220-083755.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-02-21/2e150b89-3ec1-4823-b8d8-8971ab958675reisendenkarte_20260220-083755.png",
-          "info": "",
-          "alt": "Reisendenkarte 20.02.2026 08:37:55",
-          "openInNewTab": true
-        }
-      ],
+      "headline": "Beeinträchtigungen zwischen Stuttgart und Nürnberg",
+      "summary": "Aufgrund eines Hangrutsches in Gleisnähe zwischen Stuttgart und Nürnberg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Stuttgart - Nürnberg - Berlin</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/465ac4f4-2c0c-4f85-ab81-b4a24eb70fd3",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
         "LONG_DISTANCE"
       ],
       "states": [
-        "ST",
-        "NI",
-        "SN"
+        "BW",
+        "BY"
       ],
       "lines": [
         {
@@ -107,11 +98,11 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "21.02.2026 21:33",
+      "lastModified": "25.02.2026 03:33",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/d19a04ae-7522-415a-a391-11a96bbfc426",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/42e778ca-4066-40bf-9426-c3980ef989fc",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section0"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -542,7 +533,7 @@
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "Baustelleninformation zur Linie Stammstrecke am Nächte 24./25. und 25./26. Februar 2026",
+      "headline": "Baustelleninformation Stammstrecke in den Nächten 24./25. und 25./26. Februar 2026",
       "summary": "Wegen Bauarbeiten zur 2. Stammstrecke in Laim kommt es in den Nächten von Dienstag/Mittwoch, 24./25.Februar und Mittwoch/Donnerstag, 25./26.Februar 2026 jeweils von 22:10 bis 4:40 Uhr zwischen Ostbahnhof ↔ Pasing zu Fahrplanäderungen mit frühere Abfahrten, Umleitungen und Haltausfällen.",
       "text": "<p><strong>Folgende Nächte sind betroffen:</strong></p><p></p><p></p><ul><li>Nächte Dienstag/Mittwoch, 24./25. und Mittwoch/Donnerstag, 25./26.2.2026</li><li>Nächte Mittwoch/Donnerstag, 11./12.3 und Donnerstag/Freitag, 12./13.3.2026</li></ul><p></p><p></p><p></p><p><strong>Änderung im Fahrplan:</strong></p><p>S1:</p><ul><li>Züge fahren planmäßig nach Fahrplan</li><li>die ersten beiden Züge früh fahren von Leuchtenbergring bis Moosach 5 Minuten früher</li></ul><p>S3:</p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden an der Hackerbrücke</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing</li></ul><p>S4:</p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering fallen zwischen Pasing und Trudering aus</li></ul><p>S5:</p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus</li></ul><p>S6:</p><ul><li>Züge in Richtung Tutzing erhalten ab Ostbahnhof und ab Pasing jeweils ca. 10 Minuten Verspätung</li><li>Züge in Richtung Ebersberg fahren planmäßig</li></ul><p>S8:</p><ul><li>Züge in/aus Richtung Flughafen/Airport beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li></ul><p></p><p><strong>Hinweis:</strong></p><p>Die Linien S1, S2 und S7 fahren planmäßig und die S6 fährt als einzige Linie zwischen Ostbahnhof und Pasing.</p><p></p><p>Bitte planen Sie mehr Zeit für Ihre Fahrt ein.</p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
       "durationBegin": "24.02.2026",
@@ -550,8 +541,8 @@
       "mapHref": "https://karte.bahn.de/detail/eb16f2c6-0fa7-4c88-b6db-63ccac50dd28",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-24/fad09ff8-3264-4ea3-91b9-fd326cc722fdreisendenkarte_20260214-154657.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-24/fad09ff8-3264-4ea3-91b9-fd326cc722fdreisendenkarte_20260214-154657.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/f17a5ec6-13d0-4e29-84be-d292a41577fdreisendenkarte_20260214-154657.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/f17a5ec6-13d0-4e29-84be-d292a41577fdreisendenkarte_20260214-154657.png",
           "info": "",
           "alt": "Reisendenkarte 14.02.2026 15:46:57",
           "openInNewTab": true
@@ -559,7 +550,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-24/35b8f5b6-adf7-42ff-aa60-01de07d57c3fFpl%252BESP%252BLaim%252BS%252B1-S%252B8%252B24%252BFeb-13%252BM%25C3%25A4rz.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-25/2eac6147-f66e-418b-a53a-67a02b15689aFpl%252BESP%252BLaim%252BS%252B1-S%252B8%252B24%252BFeb-13%252BM%25C3%25A4rz.pdf",
           "label": "Stammstrecke Fahrplan 24./25.2. und Mi./Do., 25./26.2.2026 und  11./12.3. und Do./Fr., 12./13.3.2026",
           "info": "",
           "openInNewTab": true
@@ -609,7 +600,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.02.2026 21:01",
+      "lastModified": "25.02.2026 01:15",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
