@@ -626,6 +626,83 @@
       "magnoliaPath": "/aktuell/bayern/stop_moved_technical_problem_railway_section1"
     },
     {
+      "id": "71c5a3c5-8694-4a79-b8b9-7f3c661ee03b",
+      "disruptionId": "1b9aacbe-95b4-451b-8da9-c1317bc4b1c1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation zur Linie Stammstrecke am Nacht 26./27. Februar 2026",
+      "summary": "Wegen Oberleitungsarbeiten an der Donnersbergerbrücke kommt es in der Nacht Donnerstag/Freitag, 26./27.2.2026 von 23:20 bis 5 Uhr zu Fahrplanäderungen mit Umleitungen und Haltausfälle.",
+      "text": "<p></p><p><strong>Änderung im Fahrplan:</strong></p><p>S1:</p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden in Moosach</li></ul><p>S2/S5:</p><ul><li>Züge aus Richtung Erding fahren als S 5 zur Kreuzstraße</li><li>Züge aus Richtung Kreuzstraße fahren als S 2 nach Erding</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Heimeranplatz Gl. 11 und fahren von/bis Obermenzing ohne Halt</li><li>Züge der S 5 in/aus Richtung Pasing fallen zwischen Ostbahnhof und Pasing aus</li></ul><p>S3:</p><ul><li>Züge fahren zwischen Holzkirchen und Mammendorf über die Stammstrecke mit geändertem Fahrplan</li></ul><p>S4:</p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing</li><li>Züge in/aus Richtung Trudering/Ostbahnhof fallen zwischen Pasing und Trudering/Ostbahnhof aus</li></ul><p>S6:</p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am Ostbahnhof</li><li>Züge in/aus Richtung Tutzing beginnen/enden am Hauptbahnhof Gl. 27-36 und fahren von/bis Pasing ohne Halt</li></ul><p>S7:</p><ul><li>Züge fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen</li></ul><p>S8:</p><ul><li>Züge aus Richtung Herrsching fahren ab Pasing ohne Halt bis Ostbahnhof und weiter ohne Halt bis Daglfing zum Flughafen</li><li>Züge aus Richtung Flughafen fahren ab Daglfing ohne Halt zum Ostbahnhof und weiter ohne Halt bis Pasing nach Herrsching</li></ul><p></p><p><strong>Hinweis:</strong></p><p><strong>Zwischen Ostbahnhof und Pasing fährt als einzige Linie nur die S3</strong>.</p><p></p><p>Bitte planen Sie mehr Zeit für Ihre Fahrt ein.</p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "26.02.2026",
+      "durationEnd": "27.02.2026",
+      "mapHref": "https://karte.bahn.de/detail/1b9aacbe-95b4-451b-8da9-c1317bc4b1c1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/2888d1a1-32ec-4566-ad3c-d5a004bcb38dreisendenkarte_20260215-082630.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/2888d1a1-32ec-4566-ad3c-d5a004bcb38dreisendenkarte_20260215-082630.png",
+          "info": "",
+          "alt": "Reisendenkarte 15.02.2026 08:26:30",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/0273e477-06d3-417b-8a6e-313b7483170bFpl%252BOL%252Beingleisig%252BMOP-MP%252BS%252B1-S%252B8%252B26-27%252BFeb%252B2026%2B%25281%2529.pdf",
+          "label": "Stammstrecke Fahrpläne",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.02.2026 20:01",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/71c5a3c5-8694-4a79-b8b9-7f3c661ee03b",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction2"
+    },
+    {
       "id": "b6ad7524-87dd-42a7-ba0d-0103ff6b028b",
       "disruptionId": "f913000d-41eb-4499-be83-a946a05aec54",
       "author": "DEUTSCHE_BAHN",
@@ -823,25 +900,25 @@
       "magnoliaPath": "/aktuell/suedostbayernbahn/additional_service_construction3"
     },
     {
-      "id": "812a2305-6f0c-4bdd-8d75-4af10e1dbbe6",
-      "disruptionId": "0a8fc349-ccb1-4024-abc8-1841d3e73037",
+      "id": "e6f9cd7b-1180-4b7c-9c91-6724516ba8d2",
+      "disruptionId": "79a48086-2462-43f8-8841-1cfd2383cc09",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Endmeldung: S 2 Markt Schwaben ↔ Feldkirchen",
-      "summary": "Zwischen Markt Schwaben und Feldkirchen kommt es noch zu kann es zu vereinzelte Folgeverspätungen von 5 bis zu 10 Minuten kommen.",
-      "text": "<p>Die Reparatur an der Strecke wurde beendet.</p>",
+      "headline": "S 8 Neuaubing: Reparatur an einem Signal",
+      "summary": "Im Bereich Neuaubing kommt es Stadtauswärts zu Verspätungen von 10 bis 15 Minuten und zu Teilausfällen.",
+      "text": "<p>In diesem Bereich fahren die S-Bahnen mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "26.02.2026",
       "durationEnd": "26.02.2026",
-      "mapHref": "https://karte.bahn.de/detail/0a8fc349-ccb1-4024-abc8-1841d3e73037",
+      "mapHref": "https://karte.bahn.de/detail/79a48086-2462-43f8-8841-1cfd2383cc09",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/869dd151-9884-441b-aab6-3af7ed126dbdreisendenkarte_20260226-180014.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/869dd151-9884-441b-aab6-3af7ed126dbdreisendenkarte_20260226-180014.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/687a593d-e981-4a42-b704-0c7c34c1927breisendenkarte_20260226-200950.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-02-26/687a593d-e981-4a42-b704-0c7c34c1927breisendenkarte_20260226-200950.png",
           "info": "",
-          "alt": "Reisendenkarte 26.02.2026 18:00:14",
+          "alt": "Reisendenkarte 26.02.2026 20:09:50",
           "openInNewTab": true
         }
       ],
@@ -855,17 +932,17 @@
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
+          "name": "S 8",
+          "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.02.2026 19:23",
+      "lastModified": "26.02.2026 20:23",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/812a2305-6f0c-4bdd-8d75-4af10e1dbbe6",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
+      "detailPagePath": "/service/fahrplaene/e6f9cd7b-1180-4b7c-9c91-6724516ba8d2",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
