@@ -10,16 +10,16 @@
         "label": "Entschärfung einer Fliegerbombe"
       },
       "headline": "Entschärfung einer Weltkriegsbombe in Duisburg",
-      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe, am Abend des 11.03.2026 ab ca. 18 Uhr, kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge entfallen teilweise bzw. müssen umgeleitet werden und verspäten sich dadurch um etwa 15 - 20 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Züge zwischen Köln und Essen/Dortmund</li><li>ICE Züge zwischen Köln und Niederlande</li><li>ICE Sprinter Züge zwischen Hannover und Köln</li><li>IC Züge zwischen Münster(W) und Köln</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Wir rechnen damit, dass die Entschärfung bis Tagesende 11.03. abgeschlossen sein wird.</p><p>Nutzen sie für Fahrten zwischen Dortmund und Köln die Züge des Regionalverkehrs, welche den Bereich Duisburg Hbf auf anderen Strecken umfahren (Einstellung \"Nur D-Ticket-Verbindungen\" im DB Navigator).</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Als Folge der Entschärfung einer Weltkriegsbombe kommt es zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kann zu Haltausfällen und Verspätungen im Fernverkehr der Deutschen Bahn kommen. Züge in Fahrtrichtung Köln können teilweise nicht in Duisburg Hbf halten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Züge zwischen Köln und Essen/Dortmund</li><li>ICE Züge zwischen Köln und Niederlande</li><li>ICE Sprinter Züge zwischen Hannover und Köln</li><li>IC Züge zwischen Münster(W) und Köln</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: in Duisburg Hbf haltende Züge des Fernverkehrs und Züge des Regionalverkehrs zwischen Duisburg Hbf und Düsseldorf Hbf.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "11.03.2026",
       "mapHref": "https://karte.bahn.de/detail/fd649dfa-3fb6-4242-9d10-639d12df5ed3",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-11/59914288-5e98-46ae-9db3-e47e601cfef4reisendenkarte_20260311-180914.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-11/59914288-5e98-46ae-9db3-e47e601cfef4reisendenkarte_20260311-180914.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-12/00e02781-dfc6-4b06-898a-6f5892cc8fa8reisendenkarte_20260312-025047.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-12/00e02781-dfc6-4b06-898a-6f5892cc8fa8reisendenkarte_20260312-025047.png",
           "info": "",
-          "alt": "Reisendenkarte 11.03.2026 18:09:14",
+          "alt": "Reisendenkarte 12.03.2026 02:50:47",
           "openInNewTab": true
         }
       ],
@@ -29,10 +29,22 @@
         "LONG_DISTANCE"
       ],
       "states": [
-        "NW",
-        "NI",
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
         "HE",
-        "RP"
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
       ],
       "lines": [
         {
@@ -41,8 +53,8 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "11.03.2026 18:10",
-      "expand": false,
+      "lastModified": "12.03.2026 03:01",
+      "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7fd0f8b4-23ad-4112-82c0-0f16049e2d58",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_police_activity0"
