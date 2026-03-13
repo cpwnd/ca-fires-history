@@ -639,51 +639,6 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
     },
     {
-      "id": "634699a6-2525-451c-b2e9-f35aad584295",
-      "disruptionId": "244a5f60-e560-40a5-ba5e-ac2a0ba2eea8",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "Endmeldung: S 2 Erdweg",
-      "summary": "Im Bereich Erdweg kommt es derzeit zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Der technische Defekt an einem Bahnübergang besteht jedoch weiterhin.</p>",
-      "durationBegin": "13.03.2026",
-      "durationEnd": "14.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/244a5f60-e560-40a5-ba5e-ac2a0ba2eea8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/e85b01b8-9714-4ca6-b7d1-2882b452b49creisendenkarte_20260313-142212.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-13/e85b01b8-9714-4ca6-b7d1-2882b452b49creisendenkarte_20260313-142212.png",
-          "info": "",
-          "alt": "Reisendenkarte 13.03.2026 14:22:12",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.03.2026 19:14",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/634699a6-2525-451c-b2e9-f35aad584295",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section17"
-    },
-    {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
       "disruptionId": "76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "author": "S_BAHN_S",
