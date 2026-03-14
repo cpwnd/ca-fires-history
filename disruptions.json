@@ -286,8 +286,8 @@
       "mapHref": "https://karte.bahn.de/detail/398089d5-6458-404b-b6ec-3dc8d1f9cf31",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-14/9691aae8-0fb1-42c3-8b55-17ae3f543d1breisendenkarte_20260314-054746.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-14/9691aae8-0fb1-42c3-8b55-17ae3f543d1breisendenkarte_20260314-054746.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-14/2b7f7c5d-5daa-4604-85a7-953666a90463reisendenkarte_20260314-054746.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-14/2b7f7c5d-5daa-4604-85a7-953666a90463reisendenkarte_20260314-054746.png",
           "info": "",
           "alt": "Reisendenkarte 14.03.2026 05:47:46",
           "openInNewTab": true
@@ -308,57 +308,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.03.2026 05:49",
+      "lastModified": "14.03.2026 06:50",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1e8946ab-a54b-4191-9df5-34944cd2a1a7",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section8"
-    },
-    {
-      "id": "9aa9dbcd-5bab-466e-84e0-892dbe865fa1",
-      "disruptionId": "ea4dc950-013a-4735-9610-5a0353e39405",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S2 Markt Schwaben - Feldkirchen: Reparatur an der Strecke ",
-      "summary": "In Markt Schwaben ist bis auf weiteres Gleis 1 nicht befahrbar. Deswegen kann es zu Verspätungen von bis zu 10 Minuten kommen. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.",
-      "text": "<p></p><p></p><p>Grund für diese Beeinträchtigungen&nbsp;ist eine andauernde Reparatur an der Strecke in Markt Schwaben.</p><p>Über die Dauer der Störung liegen uns noch keine Informationen vor.</p>",
-      "durationBegin": "13.03.2026",
-      "durationEnd": "14.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/ea4dc950-013a-4735-9610-5a0353e39405",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-14/6eacd9a0-3bb6-46e4-84fb-d1cba5ef1071reisendenkarte_20260313-012232.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-14/6eacd9a0-3bb6-46e4-84fb-d1cba5ef1071reisendenkarte_20260313-012232.png",
-          "info": "",
-          "alt": "Reisendenkarte 13.03.2026 01:22:32",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.03.2026 05:45",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9aa9dbcd-5bab-466e-84e0-892dbe865fa1",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section1"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
