@@ -321,6 +321,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "4cf813b8-8906-4322-983e-5caee1274623",
+      "disruptionId": "15940456-52b8-4ab8-8020-61924c1604f0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7 Icking ↔ Ebenhausen-Schäftlarn: Reparatur an einem Signal",
+      "summary": "Zwischen Icking und Ebenhausen-Schäftlarn kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "17.03.2026",
+      "durationEnd": "17.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/15940456-52b8-4ab8-8020-61924c1604f0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/3a5bc100-6b53-4f62-949d-2dcf02a521c0reisendenkarte_20260317-074013.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/3a5bc100-6b53-4f62-949d-2dcf02a521c0reisendenkarte_20260317-074013.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.03.2026 07:40:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.03.2026 07:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4cf813b8-8906-4322-983e-5caee1274623",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
+    },
+    {
       "id": "d91cafb1-4fb2-4005-b7be-c1a59fb8ed8d",
       "disruptionId": "853cfbf3-2ef1-48d7-8415-5380d62da8c5",
       "author": "S_BAHN_RM",
@@ -598,8 +643,8 @@
       "mapHref": "https://karte.bahn.de/detail/69154427-8805-49ad-91ce-6e8e8499beff",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/f4afca31-3cd9-4a2c-8adc-43a51a7c467freisendenkarte_20260316-221526.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/f4afca31-3cd9-4a2c-8adc-43a51a7c467freisendenkarte_20260316-221526.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/aaecec3e-3669-407e-8ed3-10c30325318areisendenkarte_20260316-221526.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/aaecec3e-3669-407e-8ed3-10c30325318areisendenkarte_20260316-221526.png",
           "info": "",
           "alt": "Reisendenkarte 16.03.2026 22:15:26",
           "openInNewTab": true
@@ -625,7 +670,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.03.2026 06:29",
+      "lastModified": "17.03.2026 07:47",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
