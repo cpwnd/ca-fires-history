@@ -120,51 +120,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "22c553bc-5c08-4163-8ed6-7360c292c03b",
-      "disruptionId": "0540ae86-62b1-40c0-a9cc-e5ccac78856a",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 7 Icking ↔ Wolfratshausen: Reparatur an der Strecke",
-      "summary": "Zwischen Icking und Wolfratshausen kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen. \nErsatzverkehr zwischen Icking und Wolfratshausen besteht weiterhin.\n",
-      "text": "<p>Der Grund hierfür war eine Reparatur an der Strecke.</p>",
-      "durationBegin": "17.03.2026",
-      "durationEnd": "17.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/0540ae86-62b1-40c0-a9cc-e5ccac78856a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/01918126-c4ae-4b26-93a2-5397ce1e4d8creisendenkarte_20260317-095110.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/01918126-c4ae-4b26-93a2-5397ce1e4d8creisendenkarte_20260317-095110.png",
-          "info": "",
-          "alt": "Reisendenkarte 17.03.2026 09:51:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.03.2026 09:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/22c553bc-5c08-4163-8ed6-7360c292c03b",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
-    },
-    {
       "id": "d76e0916-6e7b-4bd5-b925-e6af34c3a9b4",
       "disruptionId": "4a55ffd1-2800-47c7-85e1-93855495d1e1",
       "author": "REGIO_BY",
@@ -364,6 +319,83 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "d65ae43b-0ed7-4465-8a5c-710f92457cf4",
+      "disruptionId": "6f22d3a0-bd30-4197-a23d-a71eb1280a3d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "strike",
+        "label": "Streik"
+      },
+      "headline": "Warnstreik bei der MVG am 18. und 19. März 2026. S-Bahn fährt!",
+      "summary": "Die Gewerkschaft Verdi hat zu Warnstreiks aufgerufen, für Mittwoch, 18. März ab 11 Uhr bis Donnerstag, 19. März 2026, Betriebsende (Freitag, 20.März, 4 Uhr). Betroffen sind U-Bahn, Tram und Bus. Bitte informieren Sie sich rechtzeitig vor Fahrtantritt über ihre Reiseverbindung.",
+      "text": "<p><strong>Die S-Bahn München ist von diesem angekündigten Warnstreik nicht betroffen und verkehrt regulär.</strong> Bitte beachten Sie, dass es vor allem in der Hauptverkehrszeit zu Kapazitätsengpässen kommen kann.</p><p>Weitere Informationen finden Sie auf mvg.de sowie in der App MVGO.</p>",
+      "durationBegin": "17.03.2026",
+      "durationEnd": "20.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/6f22d3a0-bd30-4197-a23d-a71eb1280a3d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.03.2026 10:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d65ae43b-0ed7-4465-8a5c-710f92457cf4",
+      "magnoliaPath": "/aktuell/bayern/impairment_strike"
     },
     {
       "id": "d91cafb1-4fb2-4005-b7be-c1a59fb8ed8d",
@@ -626,56 +658,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/578ca592-98f8-4648-8c4b-287b32ac3a1a",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
-    },
-    {
-      "id": "a6b83bfb-d205-4336-ba21-782a3d7bd2f9",
-      "disruptionId": "69154427-8805-49ad-91ce-6e8e8499beff",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S4, S6 Haar: Reparatur an einem Signal",
-      "summary": "Im Bereich Haar kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen. S4 in Richtung Trudering wenden am Leuchtenbergring.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "17.03.2026",
-      "durationEnd": "17.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/69154427-8805-49ad-91ce-6e8e8499beff",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/6093707d-f565-48f0-8ccb-1cf24dd85b96reisendenkarte_20260316-221526.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/6093707d-f565-48f0-8ccb-1cf24dd85b96reisendenkarte_20260316-221526.png",
-          "info": "",
-          "alt": "Reisendenkarte 16.03.2026 22:15:26",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "17.03.2026 09:57",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a6b83bfb-d205-4336-ba21-782a3d7bd2f9",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
