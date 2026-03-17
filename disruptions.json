@@ -74,6 +74,54 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "48a71b65-6cb9-4946-8d85-475108941d01",
+      "disruptionId": "36cd5275-c7f4-46ae-ad2c-33cd646812fa",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamburg-Altona und Elmshorn\n",
+      "summary": "Aufgrund eines Notarzteinsatzes zwischen Hamburg-Altona und Elmshorn  ist die Strecke in beide Richtungen gesperrt. Es sind keine Zugfahrten möglich.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 70 ( Kiel Hbf - Hamburg-Altona) Die Züge beginnen/enden in Elmshorn.</li><li>RE 7 ( Kiel Hbf/Flensburg - Hamburg-Altona) Die Züge beginnen/enden in Neumünster.</li><li>RE 6 (Westerland Sylt - Hamburg-Altona) Die Züge beginnen/enden in Itzehoe.</li></ul><p>Ein Ersatzverkehr mit Bussen zwischen Elmshorn und Pinneberg durch die Firmen EngineUnit und Ambos ist eingerichtet. Zwischen Pinneberg und Hamburg-Altona nutzen Sie bitte die Züge der S-Bahn Hamburg.</p><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 90 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "17.03.2026",
+      "durationEnd": "17.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/36cd5275-c7f4-46ae-ad2c-33cd646812fa",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 70",
+          "filterName": "RE 70",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "17.03.2026 15:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/48a71b65-6cb9-4946-8d85-475108941d01",
+      "magnoliaPath": "/aktuell/nord/impairment_medical_emergency"
+    },
+    {
       "id": "7717ffe5-5d54-4f7d-a720-e360b1fa165e",
       "disruptionId": "316856ee-2bdd-486b-804a-d16121f61725",
       "author": "S_BAHN_HH",
@@ -81,9 +129,9 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S2, S7: Technische Störung an der Strecke",
-      "summary": "Aktuelle Informationen zu Verspätungen, Abweichungen und möglichen Alternativen finden Sie nach dem Aufklappen dieser Nachricht. >>>",
-      "text": "<p>Aktuell haben wir zu den <strong>einzelnen Linien</strong> folgende Informationen:</p><p><strong>Linie 🔴 S2:</strong> Aktuell Verspätungen von bis zu 10 Minuten</p><p><strong>Linie 🟠 S7:</strong> Aktuell Verspätungen von bis zu 10 Minuten</p><p><strong>🔊Bitte achten Sie auch unbedingt auf kurzfristige Ansagen an den Bahnsteigen und in den S-Bahnen.</strong></p><p><strong>Grund: Technische Störung an der Strecke</strong></p>",
+      "headline": "S2: Technische Störung an der Strecke",
+      "summary": "Aktuell fährt die Linie S2 zwischen Sternschanze und Wohltorf alle 10 Minuten. Zwischen Wohltorf und Aumühle ist ein Ersatzverkehr mit Bussen eingerichtet. ",
+      "text": "<p>Aktuell haben wir folgende Informationen für Sie: </p><p>Die Linie S2 fährt aktuell zwischen Sternschanze und Wohltorf alle 10 Minuten.</p><p>Zwischen Wohltorf und Aumühle ist ein Ersatzverkehr mit Bussen eingerichtet.</p><p>Bitte beachten Sie das der Aufzug in Wohltorf derzeit wegen Bauarbeiten außer Betrieb ist.</p><p>Achten Sie bitte auf kurzfristige Ansagen in den Zügen und an den Bahnsteigen.</p><p>Grund: Technische Störung an der Strecke.</p>",
       "durationBegin": "17.03.2026",
       "durationEnd": "17.03.2026",
       "mapHref": "https://karte.bahn.de/detail/316856ee-2bdd-486b-804a-d16121f61725",
@@ -104,8 +152,8 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.03.2026 13:46",
-      "expand": false,
+      "lastModified": "17.03.2026 15:02",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7717ffe5-5d54-4f7d-a720-e360b1fa165e",
@@ -694,6 +742,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "1cd0501a-3b2b-44fd-88a2-c193d7fa3bb2",
+      "disruptionId": "61cf898c-40cc-4c15-a6a0-fc254f5dc50f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Endmeldung: S 3 Sauerlach",
+      "summary": "Im Bereich Sauerlach kommt es noch zu Folgeverspätungen von bis zu 10 Minuten und vorzeitigen Wenden.",
+      "text": "<p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "durationBegin": "17.03.2026",
+      "durationEnd": "17.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/61cf898c-40cc-4c15-a6a0-fc254f5dc50f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/2ab8692a-cd42-4b5c-a6bf-97c213fbaf29reisendenkarte_20260317-145757.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/2ab8692a-cd42-4b5c-a6bf-97c213fbaf29reisendenkarte_20260317-145757.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.03.2026 14:57:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "17.03.2026 15:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1cd0501a-3b2b-44fd-88a2-c193d7fa3bb2",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
