@@ -127,29 +127,37 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S 7 Ebenhausen-Schäftlarn ↔ Wolfratshausen: Reparatur an der Strecke",
-      "summary": "Zwischen Ebenhausen-Schäftlarn und Wolfratshausen sind keine Zugfahrten möglich. ",
-      "text": "<p>Die S-Bahnen wenden in Ebenhausen-Schäftlarn.</p><p>Ein Ersatzverkehr zwischen Ebenhausen-Schäftlarn und Wolfratshausen ist in Planung.</p><p>Derzeit keine Zugfahrten möglich.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "headline": "S 7 Icking ↔ Wolfratshausen: Reparatur an der Strecke",
+      "summary": "Zwischen Icking und Wolfratshausen kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen. \nErsatzverkehr zwischen Icking und Wolfratshausen besteht weiterhin.\n",
+      "text": "<p>Der Grund hierfür war eine Reparatur an der Strecke.</p>",
       "durationBegin": "17.03.2026",
       "durationEnd": "17.03.2026",
       "mapHref": "https://karte.bahn.de/detail/0540ae86-62b1-40c0-a9cc-e5ccac78856a",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/01918126-c4ae-4b26-93a2-5397ce1e4d8creisendenkarte_20260317-095110.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/01918126-c4ae-4b26-93a2-5397ce1e4d8creisendenkarte_20260317-095110.png",
+          "info": "",
+          "alt": "Reisendenkarte 17.03.2026 09:51:10",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
         "BY"
       ],
       "lines": [
         {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "17.03.2026 08:36",
+      "lastModified": "17.03.2026 09:54",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -356,106 +364,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "13b2a868-31f6-48ce-ba6b-a1fec908fe34",
-      "disruptionId": "b2f140f6-5013-4cf5-81b7-4b43e5ba9664",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "S 4 / S 6Trudering: Ärztliche Versorgung eines Fahrgastes beendet",
-      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
-      "text": "<p>Der Grund dafür war eine ärztliche Versorgung eines Fahrgastes.</p>",
-      "durationBegin": "17.03.2026",
-      "durationEnd": "17.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/b2f140f6-5013-4cf5-81b7-4b43e5ba9664",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/4de931a4-8a83-4eb8-96d2-d5a098b4ea9ereisendenkarte_20260317-082735.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/4de931a4-8a83-4eb8-96d2-d5a098b4ea9ereisendenkarte_20260317-082735.png",
-          "info": "",
-          "alt": "Reisendenkarte 17.03.2026 08:27:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "17.03.2026 08:38",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/13b2a868-31f6-48ce-ba6b-a1fec908fe34",
-      "magnoliaPath": "/aktuell/bayern/impairment_medical_emergency0"
-    },
-    {
-      "id": "5d9ac03c-d64b-4746-a1bb-e742b2748117",
-      "disruptionId": "0a05f14d-30f7-4d64-84aa-0d36d28a0079",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 7 Höllriegelskreuth: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich Höllriegelskreuth kommt es zu Verspätungen von bis zu 10 Minuten.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "17.03.2026",
-      "durationEnd": "17.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/0a05f14d-30f7-4d64-84aa-0d36d28a0079",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/bb4e2950-14d0-470d-b5b7-e059362a7394reisendenkarte_20260317-081911.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/bb4e2950-14d0-470d-b5b7-e059362a7394reisendenkarte_20260317-081911.png",
-          "info": "",
-          "alt": "Reisendenkarte 17.03.2026 08:19:11",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "17.03.2026 08:20",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5d9ac03c-d64b-4746-a1bb-e742b2748117",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section10"
     },
     {
       "id": "d91cafb1-4fb2-4005-b7be-c1a59fb8ed8d",
@@ -735,8 +643,8 @@
       "mapHref": "https://karte.bahn.de/detail/69154427-8805-49ad-91ce-6e8e8499beff",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/555af676-aef0-46a7-ad44-2e3fc46de13areisendenkarte_20260316-221526.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/555af676-aef0-46a7-ad44-2e3fc46de13areisendenkarte_20260316-221526.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/6093707d-f565-48f0-8ccb-1cf24dd85b96reisendenkarte_20260316-221526.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-17/6093707d-f565-48f0-8ccb-1cf24dd85b96reisendenkarte_20260316-221526.png",
           "info": "",
           "alt": "Reisendenkarte 16.03.2026 22:15:26",
           "openInNewTab": true
@@ -762,7 +670,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "17.03.2026 08:54",
+      "lastModified": "17.03.2026 09:57",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
