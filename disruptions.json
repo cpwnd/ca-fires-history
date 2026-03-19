@@ -380,6 +380,43 @@
       "magnoliaPath": "/aktuell/bayern/impairment_strike"
     },
     {
+      "id": "2980a7ce-c5c4-4bf8-b3a2-a8fbb10bb04f",
+      "disruptionId": "c9d93102-e85c-4bed-b4aa-66d59405ad6f",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "strike",
+        "label": "Streikauswirkungen"
+      },
+      "headline": "Dresden Hbf ⇄ Dresden Plauen - Fahrtausfälle",
+      "summary": "Der SEV der Linie S3 zwischen Dresden Hbf und Dresden Plauen ist beeinträchtigt. Dauer der Beeinträchtigung vom 20.03.2026, 03:00 Uhr bis vsl. 20.03.2026, 05:00 Uhr. Der Grund hierfür sind Warnstreiks bei Verdi.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 3 Dresden – Tharandt – Freiberg</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund hierfür sind Warnstreiks bei Verdi.</p><p>❌&nbsp;<strong>Einschränkungen:</strong>  </p><p>Streik bedingt fallen folgende Fahrten aus:FreitagBus S3 (33060), ab Dresden Hbf Strehlener Str. Abfahrt 03:18 UhrBus S3 (33061), ab S-Bahnhof Plauen, Dresden Abfahrt 04:17 Uhr</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. </p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 3230 0011 (zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "20.03.2026",
+      "durationEnd": "20.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/c9d93102-e85c-4bed-b4aa-66d59405ad6f",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Dresden",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.03.2026 15:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2980a7ce-c5c4-4bf8-b3a2-a8fbb10bb04f",
+      "magnoliaPath": "/aktuell/suedost/reduced_service_strike"
+    },
+    {
       "id": "2a78431b-8158-45dd-bdb9-76b48905691a",
       "disruptionId": "d57cfe4f-a2f8-41e6-8c19-36e27c1163f6",
       "author": "S_BAHN_MUC",
