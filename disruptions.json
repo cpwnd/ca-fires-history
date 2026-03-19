@@ -380,43 +380,6 @@
       "magnoliaPath": "/aktuell/bayern/impairment_strike"
     },
     {
-      "id": "2980a7ce-c5c4-4bf8-b3a2-a8fbb10bb04f",
-      "disruptionId": "c9d93102-e85c-4bed-b4aa-66d59405ad6f",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "strike",
-        "label": "Streikauswirkungen"
-      },
-      "headline": "Dresden Hbf ⇄ Dresden Plauen - Fahrtausfälle",
-      "summary": "Der SEV der Linie S3 zwischen Dresden Hbf und Dresden Plauen ist beeinträchtigt. Dauer der Beeinträchtigung vom 20.03.2026, 03:00 Uhr bis vsl. 20.03.2026, 05:00 Uhr. Der Grund hierfür sind Warnstreiks bei Verdi.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S 3 Dresden – Tharandt – Freiberg</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund hierfür sind Warnstreiks bei Verdi.</p><p>❌&nbsp;<strong>Einschränkungen:</strong>  </p><p>Streik bedingt fallen folgende Fahrten aus:FreitagBus S3 (33060), ab Dresden Hbf Strehlener Str. Abfahrt 03:18 UhrBus S3 (33061), ab S-Bahnhof Plauen, Dresden Abfahrt 04:17 Uhr</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. </p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 3230 0011 (zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "20.03.2026",
-      "durationEnd": "20.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/c9d93102-e85c-4bed-b4aa-66d59405ad6f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Dresden",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.03.2026 15:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2980a7ce-c5c4-4bf8-b3a2-a8fbb10bb04f",
-      "magnoliaPath": "/aktuell/suedost/reduced_service_strike"
-    },
-    {
       "id": "2a78431b-8158-45dd-bdb9-76b48905691a",
       "disruptionId": "d57cfe4f-a2f8-41e6-8c19-36e27c1163f6",
       "author": "S_BAHN_MUC",
@@ -614,6 +577,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
+    },
+    {
+      "id": "2e3024a6-23a5-4b63-96c8-ce2dec676903",
+      "disruptionId": "685612c5-505c-4265-b45e-35bbfc76c58c",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "other_cause",
+        "label": "Hohes Fahrgastaufkommen verlängert Ein- und Ausstieg"
+      },
+      "headline": "S1: Aktuell ohne Zugteilung in Ohlsdorf",
+      "summary": "Aktuell Unregelmäßigkeiten auf der S1. Zwischen Ohlsdorf und Poppenbüttel bzw. Hamburg Airport fahren die Züge  abwechselnd alle 10 Minuten. Grund: erhöhtes Fahrgastaufkommen.",
+      "text": "<p>Zusätzlich werden die Züge nicht geteilt. Achten Sie daher auf die Ansagen und Anzeigen am Zug sowie auf und in den Stationen.</p>",
+      "durationBegin": "19.03.2026",
+      "durationEnd": "19.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/685612c5-505c-4265-b45e-35bbfc76c58c",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.hvv.de/de/fahrplanauskunft-47242",
+          "label": "Fahrplanauskunft hvv",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/fahrplaene/reiseauskunft",
+          "label": "DB Fahrplanauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.03.2026 16:59",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2e3024a6-23a5-4b63-96c8-ce2dec676903",
+      "magnoliaPath": "/aktuell/nord/detour_other_cause"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
