@@ -592,16 +592,16 @@
         "category": "technical_problem_vehicle",
         "label": "Technische Störung am Zug"
       },
-      "headline": "Stammstrecke: Technische Störung an einem Zug",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "headline": "Endmeldung: Stammstrecke",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Folgeverspätungen von bis zu 10 Minuten.",
+      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
       "durationBegin": "19.03.2026",
       "durationEnd": "19.03.2026",
       "mapHref": "https://karte.bahn.de/detail/d084aa04-deb8-4827-870a-c0cb3533d7d9",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/7c120988-5bc9-43fb-990c-bcc9c0871aabreisendenkarte_20260319-180207.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/7c120988-5bc9-43fb-990c-bcc9c0871aabreisendenkarte_20260319-180207.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/767a7cbf-ba53-465c-bc94-edfabc938fa6reisendenkarte_20260319-180207.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/767a7cbf-ba53-465c-bc94-edfabc938fa6reisendenkarte_20260319-180207.png",
           "info": "",
           "alt": "Reisendenkarte 19.03.2026 18:02:07",
           "openInNewTab": true
@@ -652,7 +652,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "19.03.2026 19:59",
+      "lastModified": "19.03.2026 20:33",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
