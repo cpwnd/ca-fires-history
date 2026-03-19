@@ -594,8 +594,8 @@
       "mapHref": "https://karte.bahn.de/detail/e08a05e1-2b84-43fb-9634-9d6a6eef0182",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/3d5f4ca5-2a27-4502-99ab-82bbe17c443ereisendenkarte_20260319-173110.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/3d5f4ca5-2a27-4502-99ab-82bbe17c443ereisendenkarte_20260319-173110.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/bb58ce0b-d539-4333-bc06-09a28f6558c6reisendenkarte_20260319-173110.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/bb58ce0b-d539-4333-bc06-09a28f6558c6reisendenkarte_20260319-173110.png",
           "info": "",
           "alt": "Reisendenkarte 19.03.2026 17:31:10",
           "openInNewTab": true
@@ -616,12 +616,87 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "19.03.2026 17:33",
+      "lastModified": "19.03.2026 18:59",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/9906d7da-a5b7-4f2b-8b9b-0746565de4be",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section7"
+    },
+    {
+      "id": "8b70a5df-3478-48c9-a79b-ce09ec47cdf5",
+      "disruptionId": "d084aa04-deb8-4827-870a-c0cb3533d7d9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "Stammstrecke: Technische Störung an einem Zug",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "19.03.2026",
+      "durationEnd": "19.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/d084aa04-deb8-4827-870a-c0cb3533d7d9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/8e155159-a3aa-49c7-bc15-d9f864187857reisendenkarte_20260319-180207.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-19/8e155159-a3aa-49c7-bc15-d9f864187857reisendenkarte_20260319-180207.png",
+          "info": "",
+          "alt": "Reisendenkarte 19.03.2026 18:02:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.03.2026 18:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8b70a5df-3478-48c9-a79b-ce09ec47cdf5",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
