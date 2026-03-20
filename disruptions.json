@@ -507,6 +507,56 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
+      "id": "3c7d5587-c2ec-4cef-8db7-90f1632bf525",
+      "disruptionId": "d9fa39a0-f574-4740-b114-8fb003a3ab39",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "S 4, S 6 Haar: Polizeieinsatz",
+      "summary": "Im Bereich Haar kommt es zu Verspätungen von bis zu 10 Minuten.\nIn diesem Bereich fahren die S-Bahnen mit reduzierter Geschwindigkeit.\n",
+      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "20.03.2026",
+      "durationEnd": "20.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/d9fa39a0-f574-4740-b114-8fb003a3ab39",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-20/2b9f3aef-ef93-46cf-99db-f11542cad1b8reisendenkarte_20260320-125730.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-20/2b9f3aef-ef93-46cf-99db-f11542cad1b8reisendenkarte_20260320-125730.png",
+          "info": "",
+          "alt": "Reisendenkarte 20.03.2026 12:57:30",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.03.2026 12:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3c7d5587-c2ec-4cef-8db7-90f1632bf525",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity"
+    },
+    {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
       "disruptionId": "76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "author": "S_BAHN_S",
