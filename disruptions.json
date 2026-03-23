@@ -55,6 +55,49 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
+      "id": "231f25b8-38bb-44aa-a8d5-2d5ecbdc3f3a",
+      "disruptionId": "8b47711b-4f1d-4380-923f-99278ae73ac8",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S3 und S5: Polizeieinsatz",
+      "summary": " Polizeieinsatz beendet. Es ist kein Umstieg mehr auf Busse und andere Verkehrsmittel erforderlich. Es kann noch zu Verspätungen und einzelnen Zugausfällen kommen.",
+      "text": "<p> </p>",
+      "durationBegin": "23.03.2026",
+      "durationEnd": "23.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/8b47711b-4f1d-4380-923f-99278ae73ac8",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.03.2026 07:39",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/231f25b8-38bb-44aa-a8d5-2d5ecbdc3f3a",
+      "magnoliaPath": "/aktuell/nord/reduced_service_police_activity"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -307,51 +350,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "2d7e6bda-d5ad-414a-adf5-0233c728bc33",
-      "disruptionId": "a04f4419-1242-46f0-a67b-7ec4d21faa45",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S 6 Tutzing: Polizeieinsatz beendet",
-      "summary": "Der Zugverkehr zwischen Planegg und Westkreuz ist wieder möglich.",
-      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Der Grund dafür war ein Polizeieinsatz.</p><p></p>",
-      "durationBegin": "23.03.2026",
-      "durationEnd": "23.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/a04f4419-1242-46f0-a67b-7ec4d21faa45",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-23/6ac89476-4660-4f6a-b433-81aad54d4c9breisendenkarte_20260323-052142.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-23/6ac89476-4660-4f6a-b433-81aad54d4c9breisendenkarte_20260323-052142.png",
-          "info": "",
-          "alt": "Reisendenkarte 23.03.2026 05:21:42",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.03.2026 05:23",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2d7e6bda-d5ad-414a-adf5-0233c728bc33",
-      "magnoliaPath": "/aktuell/bayern/no_service_police_activity"
     },
     {
       "id": "e3a8f2d7-ac8d-423d-94c2-6907cf2a42c2",
