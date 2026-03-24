@@ -13,11 +13,12 @@
       "summary": "Aufgrund von Streckensperrung ist die Strecke zwischen Frankfurt(M) und Fulda derzeit nicht befahrbar. Dadurch kommt es zu Verspätungen von ca. 45 Minuten und Ausfällen im Fernverkehr der Deutschen Bahn.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>ICE-Züge der Verbindung Frankfurt(M) - Kassel-Wilhelmshöhe - Hannover - Hamburg</li><li>ICE-Züge der Verbindung Frankfurt(M) - Wolfsburg / Braunschweig - Berlin</li><li>ICE-Züge der Verbindung Frankfurt(M) - Erfurt - Berlin</li><li>ICE-Züge der Verbindung Frankfurt(M) - Erfurt - Leipzig - Dresden</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Wir erwarten, dass die Einschränkungen bis zum Abend des 24.03.2026 weiter bestehen werden.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "23.03.2026",
+      "durationEnd": "24.03.2026",
       "mapHref": "https://karte.bahn.de/detail/3227910b-cea9-4c1d-9bfb-02265b42be2e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-24/b36918ba-7673-47fa-8291-f80c71fad0c0st%25C3%25B6rungskarte_20260324-140451.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-24/b36918ba-7673-47fa-8291-f80c71fad0c0st%25C3%25B6rungskarte_20260324-140451.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-24/e7939661-5289-4e65-9d19-259cbef6ccdbst%25C3%25B6rungskarte_20260324-140451.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-03-24/e7939661-5289-4e65-9d19-259cbef6ccdbst%25C3%25B6rungskarte_20260324-140451.png",
           "info": "",
           "alt": "Störungskarte 24.03.2026 14:04:51",
           "openInNewTab": true
@@ -45,7 +46,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "24.03.2026 14:06",
+      "lastModified": "24.03.2026 18:37",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c3d21e63-1a99-4fc0-a4f3-ed82f29c8310",
@@ -197,6 +198,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "7584ff9c-6430-47be-8182-51057829e29f",
+      "disruptionId": "abb570bf-1246-437d-a97e-d8dc96f488d6",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 5 Abweichende Linienführung: Polizeieinsatz",
+      "summary": "Die S 5 fährt abweichend der regulären Linienführung wie folgt:",
+      "text": "<p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Ostbahnhof.</strong></li></ul><p><strong>Alternative:</strong></p><ul><li><ul><li>Ostbahnhof ↔ Weßling:<strong> S 8</strong> Richtung Herrsching</li></ul></li></ul><p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "24.03.2026",
+      "durationEnd": "24.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/abb570bf-1246-437d-a97e-d8dc96f488d6",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.03.2026 18:57",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/7584ff9c-6430-47be-8182-51057829e29f",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity2"
     },
     {
       "id": "5eba3518-0058-48ee-b569-cfd011d9d8e5",
@@ -407,53 +445,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "97410c94-e995-49d1-906c-de5acde40840",
-      "disruptionId": "d4ed3452-29c5-4744-9ca6-a99160cbac6d",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "accident",
-        "label": "Unfall an einem Bahnübergang"
-      },
-      "headline": "Die Strecke zwischen Landau(Pfalz)Hbf und Winden(Pfalz) ist im Moment gesperrt.",
-      "summary": "Der Grund sind Reparaturarbeiten nach einem Unfall an einem Bahnübergang.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Landau(Pfalz)Hbf &lt;&gt; Winden(Pfalz)</p><p>🕜<strong>Dauer der Sperrung bis mind. 27.03.2026</strong></p><p>🚉 <strong>Betroffene Linien &amp; </strong>❌<strong>&nbsp;Einschränkungen:</strong></p><ul><li><strong>RE6 - Karlsruhe &lt;&gt; Landau &lt;&gt; Neustadt &lt;&gt; Kaiserslautern</strong><ul><li>Zur Entlastung fallen die Züge der RE6 aus.</li></ul></li><li><strong>RB51 - Neustadt &lt;&gt; Landau &lt;&gt; Winden &lt;&gt; Wörth &lt;&gt; Karlsruhe </strong><ul><li>Züge der Linie RB51 verkehren zwischen Neustadt(Weinstr)Hbf und Landau(Pfalz)Hbf, sowie zwischen Winden(Pfalz) und Karlsruhe Hbf.</li></ul></li><li><strong>RB53 - Neustadt &lt;&gt; Landau &lt;&gt; Winden &lt;&gt; Wissembourg</strong><ul><li>Züge der Linie RB53 fallen aus.</li></ul></li></ul><p>🚍&nbsp;<strong>Alternative:</strong></p><ul><li>Ein Ersatzverkehr ist mit Bussen zwischen Neustadt(Weinstr)Hbf und Wörth(Rhein) (mit allen Unterwegshalten) eingerichtet. Desweiteren verkehren Expressbusse zwischen Neustadt(Weinstr)Hbf und Karlsruhe Hbf. </li><li>Des Weiteren verkehren Busse als Express zwischen Neustadt(Weinstr)Hbf und Karlsruhe Hbf eingerichtet.</li></ul><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können.</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "24.03.2026",
-      "durationEnd": "27.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/d4ed3452-29c5-4744-9ca6-a99160cbac6d",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 51",
-          "filterName": "RB 51",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 53",
-          "filterName": "RB 53",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 6",
-          "filterName": "RE 6",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "24.03.2026 18:03",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/97410c94-e995-49d1-906c-de5acde40840",
-      "magnoliaPath": "/aktuell/mitte/impairment_accident"
-    },
-    {
       "id": "3eb27ce6-5d4d-4ba6-8c5b-d1a3cb255570",
       "disruptionId": "1c0920cc-54e8-4a52-bc87-e7d8816caa9d",
       "author": "S_BAHN_MUC",
@@ -461,16 +452,23 @@
         "category": "police_activity",
         "label": "Polizeieinsatz"
       },
-      "headline": "Stammstrecke Ostbahnhof: Polizeieinsatz",
-      "summary": "Im Bereich Ostbahnhof sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten.</p><p>Bitte rechnen Sie mit Verspätungen von bis zu 15 Minuten und Teilausfällen. </p><p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "headline": "Stammstrecke: Polizeieinsatz",
+      "summary": "Auf der Stammstrecke kommt es weiterhin in beiden Richtungen zu Verspätungen von 15 bis zu 20 Minuten und Teilausfällen .",
+      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
       "durationBegin": "24.03.2026",
       "durationEnd": "24.03.2026",
       "mapHref": "https://karte.bahn.de/detail/1c0920cc-54e8-4a52-bc87-e7d8816caa9d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-24/fc8f466e-b8a5-4bbe-8db8-c29a45a3c40bst%25C3%25B6rungskarte_20260324-175619.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-24/fc8f466e-b8a5-4bbe-8db8-c29a45a3c40bst%25C3%25B6rungskarte_20260324-175619.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-24/9afcbab7-5152-4e7b-a2a5-6313ad0069ebst%25C3%25B6rungskarte_20260324-181215.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-24/9afcbab7-5152-4e7b-a2a5-6313ad0069ebst%25C3%25B6rungskarte_20260324-181215.png",
+          "info": "",
+          "alt": "Störungskarte 24.03.2026 18:12:15",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-24/f18af37a-9dfa-4f4d-a37b-7fa9875f099ast%25C3%25B6rungskarte_20260324-175619.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-24/f18af37a-9dfa-4f4d-a37b-7fa9875f099ast%25C3%25B6rungskarte_20260324-175619.png",
           "info": "",
           "alt": "Störungskarte 24.03.2026 17:56:19",
           "openInNewTab": true
@@ -506,11 +504,6 @@
           "property": "SBAHN"
         },
         {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
           "name": "S 6",
           "filterName": "S 6 München",
           "property": "SBAHN"
@@ -521,7 +514,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.03.2026 17:57",
+      "lastModified": "24.03.2026 18:41",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -529,42 +522,27 @@
       "magnoliaPath": "/aktuell/bayern/impairment_police_activity"
     },
     {
-      "id": "1e724482-6593-43df-9c61-4998d89d32be",
-      "disruptionId": "bc8c8e7c-97c4-48b6-b46d-1b472c9d91c5",
-      "author": "S_BAHN_RM",
+      "id": "97410c94-e995-49d1-906c-de5acde40840",
+      "disruptionId": "d4ed3452-29c5-4744-9ca6-a99160cbac6d",
+      "author": "REGIO_MITTE",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
+        "category": "accident",
+        "label": "Unfall an einem Bahnübergang"
       },
-      "headline": "Verspätungen, Umleitungen, Teil- sowie Zugausfälle zwischen Hanau Hbf - Gelnhausen - Wächtersbach - Fulda",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE5 / RE50: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach - Fulda  (- Bad Hersfeld - Bebra)</li><li>RB51: Frankfurt(Main)Hbf - Hanau Hbf - Wächtersbach (- Bad Soden-Salmünster)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Die Sperrung geht bis vsl. 18:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Ab ca. 18:00 Uhr fahren die Züge der RE50 wieder bis Fulda/Bebra mit Zusatzhalt in Niedermittlau, Hailer-Meerholz, Haitz-Höchst und Wirtheim.</li><li>Die Züge der RB51 fallen weiterhin aus zwischen Langenselbold - Wächtersbach und verkehren somit nur zwischen Frankfurt(Main)Hbf - Langenselbold.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Wir haben für Sie einen Ersatzverkehr mit 9 Bussen von verschiedenen Firmen zwischen Hanau Hbf - Wächtersbach eingerichtet.</li><li>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de.</li><li>Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "23.03.2026",
-      "durationEnd": "25.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/bc8c8e7c-97c4-48b6-b46d-1b472c9d91c5",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-03-24/2435f4d4-b33a-472f-979a-e1a436b2db03reisendenkarte_20260323-150057.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-03-24/2435f4d4-b33a-472f-979a-e1a436b2db03reisendenkarte_20260323-150057.png",
-          "info": "",
-          "alt": "Reisendenkarte 23.03.2026 15:00:57",
-          "openInNewTab": true
-        }
-      ],
+      "headline": "Die Strecke zwischen Landau(Pfalz)Hbf und Winden(Pfalz) ist im Moment gesperrt.",
+      "summary": "Grund: Reparaturarbeiten nach einem Unfall an einem Bahnübergang.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Landau(Pfalz)Hbf &lt;&gt; Winden(Pfalz)</p><p>🕜<strong>Dauer der Sperrung bis mind. 27.03.2026.</strong></p><p>🚉 <strong>Betroffene Linien &amp; </strong>❌<strong>&nbsp;Einschränkungen:</strong></p><ul><li><strong>RE6 - Karlsruhe &lt;&gt; Landau &lt;&gt; Neustadt &lt;&gt; Kaiserslautern</strong><ul><li>Zur Entlastung fallen die Züge der RE6 aus.</li></ul></li><li><strong>RB51 - Neustadt &lt;&gt; Landau &lt;&gt; Winden &lt;&gt; Wörth &lt;&gt; Karlsruhe </strong><ul><li>Züge der Linie RB51 verkehren zwischen Neustadt(Weinstr)Hbf und Landau(Pfalz)Hbf, sowie zwischen Winden(Pfalz) und Karlsruhe Hbf.</li></ul></li><li><strong>RB53 - Neustadt &lt;&gt; Landau &lt;&gt; Winden &lt;&gt; Wissembourg</strong><ul><li>Züge der Linie RB53 fallen aus.</li></ul></li></ul><p>🚍&nbsp;<strong>Alternative:</strong></p><ul><li>Ein Ersatzverkehr ist mit Bussen zwischen Neustadt(Weinstr)Hbf und Wörth(Rhein) (mit allen Unterwegshalten) eingerichtet. Des Weiteren verkehren Expressbusse zwischen Neustadt(Weinstr)Hbf und Karlsruhe Hbf. </li><li>Ein Ersatzverkehr mit einem Bus ist zwischen Neustadt(Weinstr)Hbf und Wissembourg eingerichtet.</li></ul><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können.</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "24.03.2026",
+      "durationEnd": "27.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/d4ed3452-29c5-4744-9ca6-a99160cbac6d",
+      "images": [],
       "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahnhof.de",
-          "label": "Umgebungsplan zum Ersatzverkehr an Ihrer Station",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "links": [],
       "properties": [
         "REGIONAL"
       ],
       "states": [
-        "HE"
+        "RP"
       ],
       "lines": [
         {
@@ -573,22 +551,22 @@
           "property": "REGIONAL"
         },
         {
-          "name": "RE 5",
-          "filterName": "RE 5",
+          "name": "RB 53",
+          "filterName": "RB 53",
           "property": "REGIONAL"
         },
         {
-          "name": "RE 50",
-          "filterName": "RE 50",
+          "name": "RE 6",
+          "filterName": "RE 6",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.03.2026 17:30",
+      "lastModified": "24.03.2026 18:09",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1e724482-6593-43df-9c61-4998d89d32be",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/97410c94-e995-49d1-906c-de5acde40840",
+      "magnoliaPath": "/aktuell/mitte/impairment_accident"
     },
     {
       "id": "2a78431b-8158-45dd-bdb9-76b48905691a",
