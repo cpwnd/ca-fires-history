@@ -717,6 +717,48 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
+      "id": "ee976365-7504-43cc-96f2-26c15175a8c8",
+      "disruptionId": "24d1b38e-0e04-4779-977f-6855349ecaf2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 8 / S 5 Freiham: Reparatur an einem Signal",
+      "summary": "Im Bereich Freiham kommt es in zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p><strong>Neu:</strong> Die S 5 fährt abweichend der regulären Linienführung wie folgt:</p><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Ostbahnhof.</strong></li></ul><p><strong>Alternative:</strong></p><ul><li><ul><li>Ostbahnhof ↔ Weßling:<strong> S 8</strong> Richtung Herrsching</li></ul></li></ul><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "24.03.2026",
+      "durationEnd": "24.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/24d1b38e-0e04-4779-977f-6855349ecaf2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.03.2026 16:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ee976365-7504-43cc-96f2-26c15175a8c8",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
+    },
+    {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
       "disruptionId": "76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "author": "S_BAHN_S",
