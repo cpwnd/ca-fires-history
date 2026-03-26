@@ -214,43 +214,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "d113977c-b872-4041-833f-6f73ec7e9d7d",
-      "disruptionId": "42bd324b-6229-4f7e-9879-16bc9c4ba15c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S2 Poing: Polizeieinsatz",
-      "summary": "Derzeit kommt es auf der Linie S2 in beide Richtungen zu Verspätungen von 10 bis 15 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen.",
-      "text": "<p><strong>Zwischen Riem und Markt Schwaben ist aktuell kein Zugverkehr möglich</strong>. Ein Ersatzverkehr ist in Planung.</p><p>Grund für diese Beeinträchtigungen&nbsp;ist ein Polizeieinsatz in Poing.</p>",
-      "durationBegin": "26.03.2026",
-      "durationEnd": "26.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/42bd324b-6229-4f7e-9879-16bc9c4ba15c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.03.2026 18:34",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d113977c-b872-4041-833f-6f73ec7e9d7d",
-      "magnoliaPath": "/aktuell/bayern/impairment_police_activity1"
-    },
-    {
       "id": "a7212fcd-ace4-46b9-bf4c-c12643cae397",
       "disruptionId": "97b31d98-7245-4889-aa06-cb29f001b70c",
       "author": "REGIO_MITTE",
@@ -449,19 +412,19 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "b1154297-f3fe-4847-8318-4b003c85a573",
-      "disruptionId": "addf76bb-bf79-48b8-b4a1-fde1ece90fb2",
+      "id": "d113977c-b872-4041-833f-6f73ec7e9d7d",
+      "disruptionId": "42bd324b-6229-4f7e-9879-16bc9c4ba15c",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
       },
-      "headline": "S3 Giesing - Deisenhofen: Reparatur an einem Signal ",
-      "summary": "Die S-Bahnen fahren von Giesing in Richtung Deisenhofen wieder mit normaler Geschwindigkeit. ",
-      "text": "<p>Es kann noch zu Folgeverspätungen von 5 bis 10 Minuten kommen. Durch vorzeitige Zugwenden kommt es auch weiterhin vereinzelt zu Teilausfällen.</p><p>🟣<strong>Die S-Bahnen des 10-Minuten-Takts fahren NUR zwischen Maisach und Ostbahnhof</strong>❗</p><p></p><p>Die Reparatur an einem Signal in Deisenhofen wurde beendet.</p>",
+      "headline": "Endmeldung S2 Poing: Polizeieinsatz",
+      "summary": "Derzeit kommt es auf der Linie S2 in beide Richtungen noch zu vereinzelten Folgeverspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kann es auch weiterhin zu Teilausfällen kommen.",
+      "text": "<p><strong>Zwischen Riem und Markt Schwaben ist wieder Zugverkehr möglich</strong>. Der Ersatzverkehr mit Bussen wurde eingestellt.</p><p>Der Polizeieinsatz in Poing wurde beendet.</p>",
       "durationBegin": "26.03.2026",
       "durationEnd": "26.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/addf76bb-bf79-48b8-b4a1-fde1ece90fb2",
+      "mapHref": "https://karte.bahn.de/detail/42bd324b-6229-4f7e-9879-16bc9c4ba15c",
       "images": [],
       "downloads": [],
       "links": [],
@@ -473,17 +436,17 @@
       ],
       "lines": [
         {
-          "name": "S 3",
-          "filterName": "S 3 München",
+          "name": "S 2",
+          "filterName": "S 2 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.03.2026 17:55",
+      "lastModified": "26.03.2026 19:30",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b1154297-f3fe-4847-8318-4b003c85a573",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section10"
+      "detailPagePath": "/service/fahrplaene/d113977c-b872-4041-833f-6f73ec7e9d7d",
+      "magnoliaPath": "/aktuell/bayern/impairment_police_activity1"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
