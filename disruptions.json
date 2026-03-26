@@ -70,8 +70,8 @@
       "mapHref": "https://karte.bahn.de/detail/c2d96220-0a3c-4645-bd1e-b7c24a76dc1c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-03-25/f4bfc454-2244-42d1-90f7-4472f4b681a8st%25C3%25B6rungskarte_20260325-152906.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-03-25/f4bfc454-2244-42d1-90f7-4472f4b681a8st%25C3%25B6rungskarte_20260325-152906.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-03-26/f764f5e1-6526-41ee-a27c-e7f3e575c495st%25C3%25B6rungskarte_20260325-152906.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-03-26/f764f5e1-6526-41ee-a27c-e7f3e575c495st%25C3%25B6rungskarte_20260325-152906.png",
           "info": "",
           "alt": "Störungskarte 25.03.2026 15:29:06",
           "openInNewTab": true
@@ -80,14 +80,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt ",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
+          "label": "bahn.de/fahrgastrechte",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de",
-          "label": "bahn.de",
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt ",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
           "info": "",
           "openInNewTab": true
         },
@@ -98,8 +98,8 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte  ",
-          "label": "bahn.de/fahrgastrechte",
+          "href": "https://www.bahn.de",
+          "label": "bahn.de",
           "info": "",
           "openInNewTab": true
         }
@@ -123,7 +123,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "25.03.2026 23:45",
+      "lastModified": "26.03.2026 02:32",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -708,81 +708,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "a04b4d7e-ee29-4c5b-8e91-8979186a870d",
-      "disruptionId": "901fa327-e91a-4245-98f7-014ae9e82224",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation zur Stammstrecke heute Nacht ab 00:00 Uhr bis 04:30 Uhr",
-      "summary": "Wegen kurzfristigen Bauarbeiten heute Nacht (26.03.26, 00:00 Uhr - 27.03.26, 04.30 Uhr) in Pasing, können die S-Bahnen zwischen Pasing und Hirschgarten nur eingleisig fahren. Dadurch kann es zu Verspätungen und zu Teilausfällen kommen.",
-      "text": "<p></p><p>Ab den folgenden Fahrten verkehrt die <strong>Linie S 5</strong> <strong>nur </strong>zwischen <strong>Kreuzstraße</strong> und <strong>Ostbahnhof:</strong></p><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>S 5 Kreuzstraße Abfahrt 23:22 Uhr → Ostbahnhof Ankunft 00:01 Uhr</li></ul><p><strong>Alternative:</strong></p><ul><li>Ostbahnhof ↔ Pasing: <strong>S3, S4, S6 und S8</strong></li></ul><p></p><p><strong>Die S-Bahnen Richtung Ostbahnhof fahren von Pasing in diesem Zeitraum ausnahmsweise über Gleis 6.</strong></p><p></p><p></p><p>Der Grund dafür sind kurzfristige Bauarbeiten in Pasing.</p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "26.03.2026",
-      "durationEnd": "26.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/901fa327-e91a-4245-98f7-014ae9e82224",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-25/953deff1-2427-43d0-9731-6aa0e7e0563bst%25C3%25B6rungskarte_20260325-222927.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-25/953deff1-2427-43d0-9731-6aa0e7e0563bst%25C3%25B6rungskarte_20260325-222927.png",
-          "info": "",
-          "alt": "Störungskarte 25.03.2026 22:29:27",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.03.2026 23:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a04b4d7e-ee29-4c5b-8e91-8979186a870d",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_construction0"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
