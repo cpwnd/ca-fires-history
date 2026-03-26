@@ -177,56 +177,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "9f84a55a-bcf9-4924-a0a6-53041b6a7ab1",
-      "disruptionId": "7b205aef-f05c-49f3-85e8-d8a26806f238",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 7 / S 20 Mittersendling: Defektes Stellwerk",
-      "summary": "Im Bereich Mittersendling sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Höllriegelskreuth.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
-      "durationBegin": "26.03.2026",
-      "durationEnd": "26.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/7b205aef-f05c-49f3-85e8-d8a26806f238",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-26/fc029e60-ce97-4676-9904-e10094470f9cst%25C3%25B6rungskarte_20260326-062159.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-26/fc029e60-ce97-4676-9904-e10094470f9cst%25C3%25B6rungskarte_20260326-062159.png",
-          "info": "",
-          "alt": "Störungskarte 26.03.2026 06:21:59",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.03.2026 06:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9f84a55a-bcf9-4924-a0a6-53041b6a7ab1",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section5"
-    },
-    {
       "id": "a7212fcd-ace4-46b9-bf4c-c12643cae397",
       "disruptionId": "97b31d98-7245-4889-aa06-cb29f001b70c",
       "author": "REGIO_MITTE",
@@ -601,6 +551,79 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/303178c6-9a87-4a24-abdd-682d16e66a83",
       "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section3"
+    },
+    {
+      "id": "525d4da9-2629-4590-9d4d-3fc14395d0ee",
+      "disruptionId": "db392a40-05a3-4f72-957f-56734d69848a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation zur Stammstrecke im Zeitraum vom 26. März bis 18. April 2026",
+      "summary": "Wegen Vor- und Nacharbeiten zur Weichenerneuerung am Isartor kommt es im Zeitraum vom 26. März bis 18. April 2026 zu Haltausfällen.",
+      "text": "<ul><li>Haltausfall <strong>Isartor:</strong>&nbsp;Donnerstag, <strong>26. März</strong>&nbsp;ab 8 Uhr<strong>&nbsp;durchgehend bis</strong>&nbsp;Dienstag, <strong>31. März</strong>&nbsp;und Montag <strong>13. April</strong> ab 4:40 Uhr <strong>durchgehend bis</strong>&nbsp;Samstag, <strong>18. April 2026</strong>&nbsp;um 8 Uhr.</li></ul><p></p><ul><li>Haltausfall <strong>Rosenheimer Platz:</strong> Sonntag, <strong>29. März</strong>&nbsp;ab 22:40 Uhr <strong>durchgehend bis</strong>&nbsp;Dienstag, <strong>31. März</strong>&nbsp;um 22:20 Uhr und Montag, <strong>13. April </strong>ab 4:40 Uhr <strong>durchgehend bis</strong>&nbsp;Mittwoch, <strong>15. April 2026</strong>&nbsp;um 4:40 Uhr</li></ul><p></p><p><strong>Vom 31. März bis 13. April 2026 finden durchgehende Bauarbeiten auf der Stammstrecke statt.</strong></p><p></p><p><strong>Hinweis:</strong></p><p><strong>Nutzen Sie zwischen Ostbahnhof und Pasing bitte alternative Angebote des MVV.</strong></p><p>Informationen zu dieser Baustelle finden Sie unter: Baustellen auf der Stammstrecke der S-Bahn München</p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "26.03.2026",
+      "durationEnd": "18.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/db392a40-05a3-4f72-957f-56734d69848a",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-muenchen.de/baustellen",
+          "label": "Baustellen der S-Bahn München",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.03.2026 07:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/525d4da9-2629-4590-9d4d-3fc14395d0ee",
+      "magnoliaPath": "/aktuell/bayern/stop_moved_construction"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
