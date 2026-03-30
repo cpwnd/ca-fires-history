@@ -139,51 +139,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "e173f857-a78b-4e54-8942-9bf02399f938",
-      "disruptionId": "b951cc13-a847-487b-a272-98927e0b499d",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
-      },
-      "headline": "S 8 Johanneskirchen ↔ Besucherpark: Technischer Defekt an einem anderen Zug",
-      "summary": "Zwischen Johanneskirchen und Besucherpark ist die Strecke wieder freigegeben. ",
-      "text": "<p>Es kommt noch zu Verspätungen von bis zu 10 Minuten.</p><p>Der Grund hierfür war ein technischer Defekt an einem anderen Zug.</p>",
-      "durationBegin": "30.03.2026",
-      "durationEnd": "30.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/b951cc13-a847-487b-a272-98927e0b499d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-30/021ca1ea-9494-4eea-b80c-62323962f81cst%25C3%25B6rungskarte_20260330-142004.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-30/021ca1ea-9494-4eea-b80c-62323962f81cst%25C3%25B6rungskarte_20260330-142004.png",
-          "info": "",
-          "alt": "Störungskarte 30.03.2026 14:20:04",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.03.2026 14:27",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e173f857-a78b-4e54-8942-9bf02399f938",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_vehicle"
-    },
-    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -267,6 +222,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "ff3e138f-d9b0-4372-bea3-547219bd459c",
+      "disruptionId": "30bf21ee-e121-4fa0-9509-03c015e0bb37",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 7 Ebenhausen-Schäftlarn: Technischer Defekt an einem Bahnübergang",
+      "summary": "Im Bereich Ebenhausen-Schäftlarn kommt es zu Verspätungen von 5 bis 10 Minuten.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "30.03.2026",
+      "durationEnd": "30.03.2026",
+      "mapHref": "https://karte.bahn.de/detail/30bf21ee-e121-4fa0-9509-03c015e0bb37",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-30/8454f863-530c-43f4-922f-b2794db16abest%25C3%25B6rungskarte_20260330-155542.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-30/8454f863-530c-43f4-922f-b2794db16abest%25C3%25B6rungskarte_20260330-155542.png",
+          "info": "",
+          "alt": "Störungskarte 30.03.2026 15:55:42",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.03.2026 15:57",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ff3e138f-d9b0-4372-bea3-547219bd459c",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
@@ -635,51 +635,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "93a139e9-2422-454d-a908-15889a496ccd",
-      "disruptionId": "b785dd5d-34a0-45bb-99f4-58ebcdfff3e2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 5 Höhenkirchen-Siegertsbrunn ↔ Kreuzstraße: Defektes Stellwerk",
-      "summary": "Die Züge können wieder zwischen Höhenkirchen-Siegertsbrunn und Kreuzstraße fahren.",
-      "text": "<p>Der Ersatzverkehr mit Bussen wird bis 15:00 eingestellt.</p><p>Es kommt noch zu Verspätungen von 30 bis 35 Minuten.</p><p>Das defekte Stellwerk wurde repariert.</p>",
-      "durationBegin": "30.03.2026",
-      "durationEnd": "30.03.2026",
-      "mapHref": "https://karte.bahn.de/detail/b785dd5d-34a0-45bb-99f4-58ebcdfff3e2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-30/a62c1172-f614-4c8d-b601-5daec41c20best%25C3%25B6rungskarte_20260330-133025.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-03-30/a62c1172-f614-4c8d-b601-5daec41c20best%25C3%25B6rungskarte_20260330-133025.png",
-          "info": "",
-          "alt": "Störungskarte 30.03.2026 13:30:25",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.03.2026 14:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/93a139e9-2422-454d-a908-15889a496ccd",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
