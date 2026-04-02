@@ -314,43 +314,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "6b432396-c643-47b5-a7e3-372aa9a9d2dd",
-      "disruptionId": "752fcc72-375c-4d86-a848-f56dd7738ee8",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 7 Hohenschäftlarn ↔ Ebenhausen-Schäftlarn: Technischer Defekt an einem Bahnübergang",
-      "summary": "Zwischen Hohenschäftlarn und Ebenhausen-Schäftlarn kommt es zu Verspätungen von 5 bis 10 Minuten.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "02.04.2026",
-      "durationEnd": "02.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/752fcc72-375c-4d86-a848-f56dd7738ee8",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.04.2026 09:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6b432396-c643-47b5-a7e3-372aa9a9d2dd",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section6"
-    },
-    {
       "id": "044aa888-6f83-4c54-a855-f7c28ccc3af4",
       "disruptionId": "5e928b6e-959f-4343-8e77-a0101beaf75a",
       "author": "REGIO_BY",
@@ -449,6 +412,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
+    },
+    {
+      "id": "08d71a2e-b75b-44fe-98c7-83646a5b7d77",
+      "disruptionId": "876986de-0210-49ea-ba28-b69c07aba587",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Ottendorf-Okrilla Süd ⇄ Königsbrück - Fahrtausfälle",
+      "summary": "Der Streckenabschnitt zwischen Ottendorf-Okrilla Süd und Königsbrück ist ab 16:40 Uhr beeinträchtigt.  Dauer der Beeinträchtigung bis Betriebsschluss. Personalausfall im Stellwerk.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 33 Dresden-Neustadt – Königsbrück</li></ul><p>ℹ️ <strong>Grund:</strong> Personalausfall im Stellwerk.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge der Linie RB33 fallen zwischen Ottendorf-Okrilla Süd und Königsbrück aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir arbeiten an der Einrichtung eines Ersatzverkehrs mit Bus, warten aber noch auf die Bestätigung unserer Partner. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0351 3230 0011 (zum Ortstarif) zu informieren.</p>",
+      "durationBegin": "02.04.2026",
+      "durationEnd": "03.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/876986de-0210-49ea-ba28-b69c07aba587",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-02/c7c090da-e11c-415c-9418-4ae7de243566st%25C3%25B6rungskarte_20260402-111757.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-04-02/c7c090da-e11c-415c-9418-4ae7de243566st%25C3%25B6rungskarte_20260402-111757.png",
+          "info": "",
+          "alt": "Störungskarte 02.04.2026 11:17:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "RB 33",
+          "filterName": "RB 33",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "02.04.2026 11:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/08d71a2e-b75b-44fe-98c7-83646a5b7d77",
+      "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "04bfc069-81b0-4e73-ace0-1bda4bfb94f2",
@@ -888,22 +896,22 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "S 8 Ostbahnhof ↔ Daglfing: Reparatur an der Strecke",
-      "summary": "Zwischen Ostbahnhof und Daglfing kommt es in beiden Richtungen zu Verspätungen von 15 bis zu 20 Minuten .",
+      "summary": "Zwischen Ostbahnhof und Daglfing kommt es in beiden Richtungen zu Verspätungen von 5 bis zu 10 Minuten .",
       "text": "<p></p><p>Zudem müssen einzelne Verbindungen im Regeltakt ausfallen.</p><p><strong>Alternative: Fahrgäste zum Flughafen:</strong> </p><p>Bitte benutzen Sie die S1 Richtung Freising/Flughafen. → diese beginnen/enden am Hauptbahnhof Gl. 27-35.</p><p>Kein Halt an der Hackerbrücke</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "02.04.2026",
       "durationEnd": "02.04.2026",
       "mapHref": "https://karte.bahn.de/detail/12ef449c-6d4c-46ff-8697-44d4bd0aa3d9",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/fef9ab18-3488-4726-bf24-7b3bbf4944c6st%25C3%25B6rungskarte_20260402-075324.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/fef9ab18-3488-4726-bf24-7b3bbf4944c6st%25C3%25B6rungskarte_20260402-075324.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/852a7364-cac1-44ae-bb0d-e1b19d5b7fb9st%25C3%25B6rungskarte_20260402-075324.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/852a7364-cac1-44ae-bb0d-e1b19d5b7fb9st%25C3%25B6rungskarte_20260402-075324.png",
           "info": "",
           "alt": "Störungskarte 02.04.2026 07:53:24",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/911b74de-21b9-4d93-b03e-c576d8e1f366st%25C3%25B6rungskarte_20260402-053139.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/911b74de-21b9-4d93-b03e-c576d8e1f366st%25C3%25B6rungskarte_20260402-053139.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/26dc3ad0-295a-47bd-a0e7-74f9e4f35c4fst%25C3%25B6rungskarte_20260402-053139.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-02/26dc3ad0-295a-47bd-a0e7-74f9e4f35c4fst%25C3%25B6rungskarte_20260402-053139.png",
           "info": "",
           "alt": "Störungskarte 02.04.2026 05:31:39",
           "openInNewTab": true
@@ -924,7 +932,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "02.04.2026 08:59",
+      "lastModified": "02.04.2026 11:20",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
