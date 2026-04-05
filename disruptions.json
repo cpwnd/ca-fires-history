@@ -229,6 +229,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "1a66ffc9-f7a7-4e19-8959-8c50f5f3245f",
+      "disruptionId": "3487a75d-a1bb-4c59-962a-408558cebc1c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "S1 Moosach - Laim: Notarzteinsatz auf der Strecke ",
+      "summary": "Die Strecke im Bereich Moosach ist aktuell gesperrt. ",
+      "text": "<p>Es kommt zu Verspätungen und Zugausfällen.</p><p><strong>Die S-Bahnen aus Richtung München Hauptbahnhof werden umgeleitet oder zurückgehalten. Die S-Bahnen aus Richtung Freising/Flughafen verkehren bis Moosach und enden dort vorzeitig. Fahrgäste nutzen bitte die die U 3 aus/in Richtung München.</strong></p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Grund für diese Beeinträchtigungen ist ein Notarzteinsatz auf der Strecke im Bereich Moosach.</p><p>Genaue Informationen zur Dauer der Sperrung liegen noch nicht vor. Erfahrungsgemäß ist jedoch mit Einschränkungen von circa 2 Stunden zu rechnen.</p>",
+      "durationBegin": "05.04.2026",
+      "durationEnd": "05.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/3487a75d-a1bb-4c59-962a-408558cebc1c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-05/e9040330-d5ba-4b20-9b51-3d8a0dac0ec7st%25C3%25B6rungskarte_20260405-231057.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-05/e9040330-d5ba-4b20-9b51-3d8a0dac0ec7st%25C3%25B6rungskarte_20260405-231057.png",
+          "info": "",
+          "alt": "Störungskarte 05.04.2026 23:10:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.04.2026 23:14",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1a66ffc9-f7a7-4e19-8959-8c50f5f3245f",
+      "magnoliaPath": "/aktuell/bayern/no_service_medical_emergency0"
+    },
+    {
       "id": "b3177234-3af0-4865-ba8d-a925b678fcd6",
       "disruptionId": "9c22acd4-8946-4671-a98b-c75d5a6f99c2",
       "author": "S_BAHN_MUC",
