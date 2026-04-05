@@ -229,25 +229,25 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "85d39b93-baea-431e-af20-779aaef24b85",
-      "disruptionId": "75121979-44b8-4dd1-8286-cccfc9572f87",
+      "id": "b3177234-3af0-4865-ba8d-a925b678fcd6",
+      "disruptionId": "9c22acd4-8946-4671-a98b-c75d5a6f99c2",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "München Hauptbahnhof: Unbefugte Personen auf der Strecke ",
-      "summary": "Im Bereich Hauptbahnhof sind bis auf weiteres keine Zugfahrten möglich.",
-      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;                        sind unbefugte Personen auf der Strecke       am Hauptbahnhof.</p>",
+      "headline": " S7 Ebenhausen-Schäftlarn - Wolfratshausen: Reparatur an einem Signal ",
+      "summary": "Zwischen Ebenhausen-Schäftlarn und Wolfratshausen sind  keine Zugfahrten möglich. ",
+      "text": "<p><strong>Ein Ersatzverkehr zwischen Ebenhausen-Schäftlarn und Wolfratshausen ist eingerichtet. </strong></p><p>ℹ️ Bitte nutzen Sie nur die mit \"Ersatzverkehr\" gekennzeichneten Fahrzeuge ❕</p><p></p><p>Die Reparatur an einem Signal in Icking dauert noch an. Über die Dauer der Störung liegen uns keine Informationen vor.</p>",
       "durationBegin": "05.04.2026",
       "durationEnd": "06.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/75121979-44b8-4dd1-8286-cccfc9572f87",
+      "mapHref": "https://karte.bahn.de/detail/9c22acd4-8946-4671-a98b-c75d5a6f99c2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-06/20796e0f-5f85-47f3-893b-9cb34c9b3f95st%25C3%25B6rungskarte_20260406-000506.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-06/20796e0f-5f85-47f3-893b-9cb34c9b3f95st%25C3%25B6rungskarte_20260406-000506.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-06/80d43626-9486-4352-bf37-02bdea61e69est%25C3%25B6rungskarte_20260405-192713.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-06/80d43626-9486-4352-bf37-02bdea61e69est%25C3%25B6rungskarte_20260405-192713.png",
           "info": "",
-          "alt": "Störungskarte 06.04.2026 00:05:06",
+          "alt": "Störungskarte 05.04.2026 19:27:13",
           "openInNewTab": true
         }
       ],
@@ -261,27 +261,17 @@
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
+          "name": "S 7",
+          "filterName": "S 7 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "06.04.2026 00:06",
+      "lastModified": "06.04.2026 00:46",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/85d39b93-baea-431e-af20-779aaef24b85",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section9"
+      "detailPagePath": "/service/fahrplaene/b3177234-3af0-4865-ba8d-a925b678fcd6",
+      "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section1"
     },
     {
       "id": "1a66ffc9-f7a7-4e19-8959-8c50f5f3245f",
@@ -327,51 +317,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/1a66ffc9-f7a7-4e19-8959-8c50f5f3245f",
       "magnoliaPath": "/aktuell/bayern/no_service_medical_emergency0"
-    },
-    {
-      "id": "b3177234-3af0-4865-ba8d-a925b678fcd6",
-      "disruptionId": "9c22acd4-8946-4671-a98b-c75d5a6f99c2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": " S7 Ebenhausen-Schäftlarn - Wolfratshausen: Reparatur an einem Signal ",
-      "summary": "Zwischen Ebenhausen-Schäftlarn und Wolfratshausen sind erneut keine Zugfahrten möglich. ",
-      "text": "<p><strong>Der Ersatzverkehr zwischen Ebenhausen-Schäftlarn und Wolfratshausen läuft weiter.</strong></p><p>Bitte nutzen Sie nur die mit \"Ersatzverkehr\" gekennzeichneten Fahrzeuge ❕</p><p></p><p>Die Reparatur an einem Signal in Icking dauert noch an.</p>",
-      "durationBegin": "05.04.2026",
-      "durationEnd": "06.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/9c22acd4-8946-4671-a98b-c75d5a6f99c2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-05/989efb32-5a04-4737-9eb0-78b614162856st%25C3%25B6rungskarte_20260405-192713.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-05/989efb32-5a04-4737-9eb0-78b614162856st%25C3%25B6rungskarte_20260405-192713.png",
-          "info": "",
-          "alt": "Störungskarte 05.04.2026 19:27:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "05.04.2026 23:15",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b3177234-3af0-4865-ba8d-a925b678fcd6",
-      "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section1"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
