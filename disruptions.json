@@ -16,8 +16,8 @@
       "mapHref": "https://karte.bahn.de/detail/6b98bdd2-0d07-41b4-a20d-60c6341dcdf9",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-11/2a0e514b-1949-4b64-b685-f47ab5958fb8st%25C3%25B6rungskarte_20260411-233654.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-11/2a0e514b-1949-4b64-b685-f47ab5958fb8st%25C3%25B6rungskarte_20260411-233654.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-13/677cc163-f821-4976-b2ff-4c630bf7afe7st%25C3%25B6rungskarte_20260411-233654.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-13/677cc163-f821-4976-b2ff-4c630bf7afe7st%25C3%25B6rungskarte_20260411-233654.png",
           "info": "",
           "alt": "Störungskarte 11.04.2026 23:36:54",
           "openInNewTab": true
@@ -53,7 +53,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "11.04.2026 23:38",
+      "lastModified": "13.04.2026 15:08",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/20ee0ca7-a272-4e8d-b17a-d93afc239550",
@@ -125,6 +125,44 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/0ca3ccbb-1cc5-48d8-9515-abc323696bb7",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
+    },
+    {
+      "id": "37feeff3-c1ce-4232-bbdc-98525ad0dae1",
+      "disruptionId": "295a9373-ef21-4dad-9f5d-e3de358e66f9",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "⚠️ S-Bahnen mit dem planmäßigen Start / Ziel Buxtehude nur ab / bis Neugraben",
+      "summary": "Aktuell fahren S-Bahnen mit dem planmäßigen Start / Ziel Buxtehude nur ab / bis Neugraben. Fahrgäste mit den Zielen Fischbek, Neu Wulmstorf oder Buxtehude, bitte vorher in die S5 mit Ziel Stade umsteigen. Grund: Bahnübergangsstörung",
+      "text": "<p>Um so schnell wie möglich wieder nach Plan fahren zu können und die Auswirkungen auf alle anderen Linien so klein wie möglich zu halten, müssen wir die Linie S5 leider schon in Neugraben wenden lassen.</p><p>Das an manchen S-Bahnen noch Buxtehude steht, lässt sich leider nicht immer vermeiden und ein Umstellen unterwegs, würde teilweise noch mehr Verspätungen zur Folge haben. </p><p>Wir hoffen die Info's zu den Abweichungen erreichen alle Fahrgäste die es betrifft noch rechtzeitig.</p>",
+      "durationBegin": "13.04.2026",
+      "durationEnd": "13.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/295a9373-ef21-4dad-9f5d-e3de358e66f9",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.04.2026 15:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/37feeff3-c1ce-4232-bbdc-98525ad0dae1",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section"
     },
     {
       "id": "a35fa81c-d965-4558-90a2-352f3a910297",
@@ -377,51 +415,180 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "0cbb21f8-35ef-4b1c-8693-93cc7ff773bd",
-      "disruptionId": "5f4b6ea7-b66d-420c-876c-e66648855500",
-      "author": "S_BAHN_HH",
+      "id": "a5050b42-5062-46da-aac3-2d5083576992",
+      "disruptionId": "a66ef6b3-04b4-4319-a58f-afc5198b3d73",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
       },
-      "headline": "Alle Linien: RTW Einsatz Königstraße",
-      "summary": "Aktuell kommt es auf allen Linien zu Abweichungen vom Fahrplan und Verspätungen. Bitte nutzen Sie nach Möglichkeit innerhalb der Innenstadt auch die U-Bahnen und Linienbusse. Grund: Feuerwehreinsatz ",
-      "text": "<p></p>",
+      "headline": "Stammstrecke / Gesamtnetz: Technischer Defekt an einem Zug beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war ein technischer Defekt an einem Zug.</p>",
       "durationBegin": "13.04.2026",
       "durationEnd": "13.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/5f4b6ea7-b66d-420c-876c-e66648855500",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/a66ef6b3-04b4-4319-a58f-afc5198b3d73",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/4ac795e5-a2c5-468d-ad55-3e1774536bb1st%25C3%25B6rungskarte_20260413-163625.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/4ac795e5-a2c5-468d-ad55-3e1774536bb1st%25C3%25B6rungskarte_20260413-163625.png",
+          "info": "",
+          "alt": "Störungskarte 13.04.2026 16:36:25",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "HH"
+        "BY"
       ],
       "lines": [
         {
           "name": "S 1",
-          "filterName": "S 1 Hamburg",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
           "property": "SBAHN"
         },
         {
           "name": "S 3",
-          "filterName": "S 3 Hamburg",
+          "filterName": "S 3 München",
           "property": "SBAHN"
         },
         {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.04.2026 14:43",
+      "lastModified": "13.04.2026 16:43",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0cbb21f8-35ef-4b1c-8693-93cc7ff773bd",
-      "magnoliaPath": "/aktuell/nord/impairment_medical_emergency"
+      "detailPagePath": "/service/fahrplaene/a5050b42-5062-46da-aac3-2d5083576992",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle"
+    },
+    {
+      "id": "96cb2d58-e268-4ea4-a2d4-c1fbfbf866ec",
+      "disruptionId": "2e18ce6f-d9a1-43c4-8602-04c301f411ce",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Teilausfälle zwischen Hofheim(Taunus) - Niedernhausen(Taunus) - Bad Camberg",
+      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>In der Nacht 13./14.04.26</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Auf dem RE20 und der RB22 kommt es zu Teilausfällen zwischen Bad Camberg - Frankfurt(Main)Hbf.</li><li>Auf der S2 kommt es zu Teilausfällen zwischen Eppstein - Niedernhausen(Taunus).</li></ul><p></p><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Bitte nutzen Sie die Züge der S2 zwischen Hofheim(Taunus) und Frankfurt Hbf (tief).</li><li>Zwischen Hofheim(Taunus) - Bad Camberg haben wir für Sie einen Ersatzverkehr mit Bussen eingerichtet.Die Mitnahme von Fahrrädern im Bus ist ausgeschlossen.Die Busse fahren von den Bushaltestellen mit dem Ersatzverkehr-Piktogramm. Bitte folgen Sie der Beschilderung.</li></ul><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "13.04.2026",
+      "durationEnd": "14.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/2e18ce6f-d9a1-43c4-8602-04c301f411ce",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-13/41d347df-f1ec-4cf5-8502-8b8e55347294st%25C3%25B6rungskarte_20260413-161552.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-13/41d347df-f1ec-4cf5-8502-8b8e55347294st%25C3%25B6rungskarte_20260413-161552.png",
+          "info": "",
+          "alt": "Störungskarte 13.04.2026 16:15:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 22",
+          "filterName": "RB 22",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 20",
+          "filterName": "RE 20",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.04.2026 16:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/96cb2d58-e268-4ea4-a2d4-c1fbfbf866ec",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "ee582939-fbaa-4f07-acce-df481a5e9d7c",
+      "disruptionId": "af591bab-894e-432d-8a94-c4639a5939ce",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 6 Ebersberg ↔ Grafing Bahnhof: Weiterhin Reparatur an der Strecke",
+      "summary": "Zwischen Ebersberg und Grafing Bahnhof ist die Strecke nicht mehr gesperrt.",
+      "text": "<p>Es kommt jedoch weiterhin zu Verspätungen bis zu 10 Minuten und Teilausfällen.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p><p>Die Reparatur wird voraussichtlich im Laufe des morgigen Tages (14.04.2025) beendet.</p>",
+      "durationBegin": "13.04.2026",
+      "durationEnd": "13.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/af591bab-894e-432d-8a94-c4639a5939ce",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/641decc6-3360-40ff-9328-60bfce52a2dest%25C3%25B6rungskarte_20260413-162510.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/641decc6-3360-40ff-9328-60bfce52a2dest%25C3%25B6rungskarte_20260413-162510.png",
+          "info": "",
+          "alt": "Störungskarte 13.04.2026 16:25:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.04.2026 16:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ee582939-fbaa-4f07-acce-df481a5e9d7c",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "f6dd7ef1-c2de-40dd-a19c-c43ba3139860",
@@ -1062,51 +1229,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc71e871-ef21-4fa8-896d-4b55d616954c",
       "magnoliaPath": "/aktuell/hessen/additional_service_construction"
-    },
-    {
-      "id": "ee582939-fbaa-4f07-acce-df481a5e9d7c",
-      "disruptionId": "af591bab-894e-432d-8a94-c4639a5939ce",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 6 Ebersberg ↔ Grafing Bahnhof: Reparatur an der Strecke",
-      "summary": "Zwischen Ebersberg und Grafing Bahnhof kommt es zu Verspätungen von 10 bis 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "13.04.2026",
-      "durationEnd": "13.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/af591bab-894e-432d-8a94-c4639a5939ce",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/7eaa694f-9134-4e4c-99e3-286aca866e62st%25C3%25B6rungskarte_20260413-135815.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/7eaa694f-9134-4e4c-99e3-286aca866e62st%25C3%25B6rungskarte_20260413-135815.png",
-          "info": "",
-          "alt": "Störungskarte 13.04.2026 13:58:15",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.04.2026 14:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ee582939-fbaa-4f07-acce-df481a5e9d7c",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "58ea35d2-968d-4d55-a759-5971d30394ed",
