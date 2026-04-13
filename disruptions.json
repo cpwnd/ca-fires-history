@@ -127,44 +127,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
-      "id": "37feeff3-c1ce-4232-bbdc-98525ad0dae1",
-      "disruptionId": "295a9373-ef21-4dad-9f5d-e3de358e66f9",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "⚠️ S-Bahnen mit dem planmäßigen Start / Ziel Buxtehude nur ab / bis Neugraben",
-      "summary": "Aktuell fahren S-Bahnen mit dem planmäßigen Start / Ziel Buxtehude nur ab / bis Neugraben. Fahrgäste mit den Zielen Fischbek, Neu Wulmstorf oder Buxtehude, bitte vorher in die S5 mit Ziel Stade umsteigen. Grund: Bahnübergangsstörung",
-      "text": "<p>Um so schnell wie möglich wieder nach Plan fahren zu können und die Auswirkungen auf alle anderen Linien so klein wie möglich zu halten, müssen wir die Linie S5 leider schon in Neugraben wenden lassen.</p><p>Das an manchen S-Bahnen noch Buxtehude steht, lässt sich leider nicht immer vermeiden und ein Umstellen unterwegs, würde teilweise noch mehr Verspätungen zur Folge haben. </p><p>Wir hoffen die Info's zu den Abweichungen erreichen alle Fahrgäste die es betrifft noch rechtzeitig.</p>",
-      "durationBegin": "13.04.2026",
-      "durationEnd": "13.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/295a9373-ef21-4dad-9f5d-e3de358e66f9",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.04.2026 15:09",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/37feeff3-c1ce-4232-bbdc-98525ad0dae1",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section"
-    },
-    {
       "id": "a35fa81c-d965-4558-90a2-352f3a910297",
       "disruptionId": "c26fbf8d-c0e5-43e2-b471-227275001735",
       "author": "REGIO_SUEDOST",
@@ -200,44 +162,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/a35fa81c-d965-4558-90a2-352f3a910297",
       "magnoliaPath": "/aktuell/suedost/significant_delays_construction"
-    },
-    {
-      "id": "21e33496-a2e1-41f0-886b-691da92b39ea",
-      "disruptionId": "c8ade1a4-6e5d-4f8c-90b6-8ef43bef3b81",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S3: S3 Richtung Pinneberg fährt über Dammtor, Holstenstraße nach Diebsteich ohne Halt in Altona",
-      "summary": "Die S3 fährt Richtung Pinneberg  über Dammtor, Holstenstraße Diebsteich ohne Halt in Altona.",
-      "text": "<p>.</p>",
-      "durationBegin": "13.04.2026",
-      "durationEnd": "13.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/c8ade1a4-6e5d-4f8c-90b6-8ef43bef3b81",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.04.2026 12:58",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/21e33496-a2e1-41f0-886b-691da92b39ea",
-      "magnoliaPath": "/aktuell/nord/detour_technical_problem_railway_section"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -284,56 +208,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "4d88ee49-227e-4a21-bf0a-759467e69f12",
-      "disruptionId": "3d68490b-0679-4c85-89e8-fb7cddd8b0ba",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Ersatzprogramm Ostbahnhof ↔ Giesing: Reparatur an einer Weiche",
-      "summary": "Die Strecke ist zwischen Ostbahnhof und Giesing gesperrt und die Züge verkehren abweichend der Linienführung. Bitte rechnen Sie mit Verspätungen von 15 bis 20 Minuten. Der Grund hierfür ist die Reparatur an einer Weiche.",
-      "text": "<p>Die S-Bahnen verkehren wie folgt:</p><p><strong>S 3 Mammendorf ↔ Holzkirchen</strong></p><ul><li>Die S3 verkehrt nur <strong>Mammendorf </strong>↔ <strong>Ostbahnhof</strong>.</li><li>Die S3 verkehrt nur <strong>Holzkirchen </strong>↔ <strong>Giesing</strong>.</li></ul><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Die S5 verkehrt nur <strong>Kreuzstraße </strong>↔ <strong>Giesing</strong>.</li><li>Die S5 verkehrt nur <strong>Pasing </strong>↔ <strong>Ostbahnhof</strong>.</li></ul><p><strong>Alternativen:</strong></p><ul><li><ul><li>Hauptbahnhof ↔ Giesing: <strong>U 2</strong></li><li>Hauptbahnhof ↔ Karlsplatz ↔ Ostbahnhof ↔ Innsbrucker Ring: <strong>U 5;</strong> Innsbrucker Ring ↔ Giesing: <strong>U 2</strong>&nbsp;</li><li>Ostbahnhof ↔ Giesing: <strong>Bus 54</strong></li></ul></li></ul><p><strong>Die S-Bahnen des 10-Minuten-Takts der Linie S 3 Maisach </strong>↔<strong> Deisenhofen entfallen.</strong></p><p>Alle anderen Linien verkehren ohne Einschränkungen durch die Stammstrecke.</p><p>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.</p>",
-      "durationBegin": "13.04.2026",
-      "durationEnd": "13.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/3d68490b-0679-4c85-89e8-fb7cddd8b0ba",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/05d639f8-21ce-49f0-87e0-231cd680972cst%25C3%25B6rungskarte_20260413-174900.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/05d639f8-21ce-49f0-87e0-231cd680972cst%25C3%25B6rungskarte_20260413-174900.png",
-          "info": "",
-          "alt": "Störungskarte 13.04.2026 17:49:00",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "13.04.2026 17:51",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4d88ee49-227e-4a21-bf0a-759467e69f12",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
       "id": "5ab22073-10c3-431b-87a3-b3511a56de8f",
@@ -465,6 +339,55 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "15e538b0-e384-4a76-829a-1d8901b0c313",
+      "disruptionId": "fd5d8e18-fd9d-4e37-8491-01361cb06ec7",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Signaldefekt zwischen Weil der Stadt und Renningen konnte behoben werden. Es kommt noch vereinzelt zu Folgeabweichungen auf den Linien S6, S60 und S62.",
+      "summary": "Signaldefekt zwischen Weil der Stadt und Renningen konnte behoben werden. Folgeabweichungen auf den Linien S6, S60 und S62.",
+      "text": "Die S-Bahnen der Linien S6, S60 und S62 können zwischen Weil der Stadt und Renningen wieder regulär verkehren. Techniker konnten den Signaldefekt reparieren. Wegen der vorangegangenen Einschränkung kommt es vorübergehend noch zu einzelnen Folgeverspätungen und -ausfällen, bis dass der S-Bahnverkehr sich wieder vollständig eingetaktet hat.",
+      "durationBegin": "13.04.2026",
+      "durationEnd": "13.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/fd5d8e18-fd9d-4e37-8491-01361cb06ec7",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/Betriebslage",
+          "label": "Weiterführende Informationen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 60",
+          "filterName": "S 60 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.04.2026 19:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/15e538b0-e384-4a76-829a-1d8901b0c313",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "eb0e0d6a-6728-4af2-b045-273c502d9074",
       "disruptionId": "9e403b52-2c5e-4138-b3af-ea7249e52db1",
       "author": "S_BAHN_MUC",
@@ -472,16 +395,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "Stammstrecke / Gesamtnetz: Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten, Umleitungen und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Stammstrecke / Gesamtnetz: Reparatur an einem Signal beendet",
+      "summary": "Es kommt zu noch Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war eine Reparatur an einem Signal.</p>",
       "durationBegin": "13.04.2026",
       "durationEnd": "13.04.2026",
       "mapHref": "https://karte.bahn.de/detail/9e403b52-2c5e-4138-b3af-ea7249e52db1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/20ab8e3e-4074-4a01-90f8-8c2bde384a86st%25C3%25B6rungskarte_20260413-173900.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/20ab8e3e-4074-4a01-90f8-8c2bde384a86st%25C3%25B6rungskarte_20260413-173900.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/984859b9-dd82-47a2-801e-38a661632d33st%25C3%25B6rungskarte_20260413-173900.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/984859b9-dd82-47a2-801e-38a661632d33st%25C3%25B6rungskarte_20260413-173900.png",
           "info": "",
           "alt": "Störungskarte 13.04.2026 17:39:00",
           "openInNewTab": true
@@ -502,12 +425,62 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "13.04.2026 17:41",
+      "lastModified": "13.04.2026 19:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/eb0e0d6a-6728-4af2-b045-273c502d9074",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
+    },
+    {
+      "id": "4d88ee49-227e-4a21-bf0a-759467e69f12",
+      "disruptionId": "3d68490b-0679-4c85-89e8-fb7cddd8b0ba",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Ersatzprogramm Ostbahnhof ↔ Giesing: Reparatur an einer Weiche beendet",
+      "summary": "Die Strecke zwischen Ostbahnhof und Giesing ist nicht mehr gesperrt und die Züge verkehren wieder auf dem Regelweg. Bitte rechnen Sie noch mit Folgeverspätungen und Teilausfällen. Der Grund hierfür war die Reparatur an einer Weiche.",
+      "text": "<p>Die Linie S 5 verkehr bis auf weiteres nur zwischen Kreuzstraße und Ostbahnhof.</p>",
+      "durationBegin": "13.04.2026",
+      "durationEnd": "13.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/3d68490b-0679-4c85-89e8-fb7cddd8b0ba",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/68115983-dce2-43a6-aa98-5e63be31b712st%25C3%25B6rungskarte_20260413-184935.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-13/68115983-dce2-43a6-aa98-5e63be31b712st%25C3%25B6rungskarte_20260413-184935.png",
+          "info": "",
+          "alt": "Störungskarte 13.04.2026 18:49:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.04.2026 18:52",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4d88ee49-227e-4a21-bf0a-759467e69f12",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
       "id": "96cb2d58-e268-4ea4-a2d4-c1fbfbf866ec",
@@ -519,14 +492,14 @@
       },
       "headline": "Teilausfälle zwischen Hofheim(Taunus) - Niedernhausen(Taunus) - Bad Camberg",
       "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>In der Nacht 13./14.04.26</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Auf dem RE20 und der RB22 kommt es zu Teilausfällen zwischen Bad Camberg - Frankfurt(Main)Hbf.</li><li>Auf der S2 kommt es zu Teilausfällen zwischen Eppstein - Niedernhausen(Taunus).</li></ul><p></p><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Für RE20 und RB22: Bitte nutzen Sie die Züge der S2 bzw. den Ersatzverkehr der S2 zwischen Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief).</li><li>Zwischen Hofheim(Taunus) - Bad Camberg sowie für die ausfallende S2 zwischen Eppstein und Niedernhausen(Taunus) haben wir für Sie je einen Ersatzverkehr mit Bussen eingerichtet.Die Mitnahme von Fahrrädern im Bus ist ausgeschlossen.Die Busse fahren von den Bushaltestellen mit dem Ersatzverkehr-Piktogramm. Bitte folgen Sie der Beschilderung.</li></ul><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE20: Frankfurt(Main) Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>RB22: Frankfurt(Main)Hbf - Niedernhausen(Taunus) - Limburg(Lahn)</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>In der Nacht 13./14.04.26</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Auf dem RE20 und der RB22 kommt es zu Teilausfällen zwischen Hofheim(Taunus) - Bad Camberg.</li><li>Auf der S2 kommt es zu Teilausfällen zwischen Eppstein - Niedernhausen(Taunus).</li></ul><p></p><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Zwischen Hofheim(Taunus) - Bad Camberg sowie für die ausfallende S2 zwischen Eppstein und Niedernhausen(Taunus) haben wir für Sie je einen Ersatzverkehr mit Bussen eingerichtet. </li></ul><p>Die Mitnahme von Fahrrädern im Bus ist ausgeschlossen.</p><p>Die Busse fahren von den Bushaltestellen mit dem Ersatzverkehr-Piktogramm.  Bitte folgen Sie der Beschilderung.</p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "13.04.2026",
       "durationEnd": "14.04.2026",
       "mapHref": "https://karte.bahn.de/detail/2e18ce6f-d9a1-43c4-8602-04c301f411ce",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-13/2ca5fec1-c1fa-4e25-b454-095ea66babc9st%25C3%25B6rungskarte_20260413-161552.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-13/2ca5fec1-c1fa-4e25-b454-095ea66babc9st%25C3%25B6rungskarte_20260413-161552.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-13/aff5f97d-e787-4a42-85cf-49a15c9d592ast%25C3%25B6rungskarte_20260413-161552.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-04-13/aff5f97d-e787-4a42-85cf-49a15c9d592ast%25C3%25B6rungskarte_20260413-161552.png",
           "info": "",
           "alt": "Störungskarte 13.04.2026 16:15:52",
           "openInNewTab": true
@@ -558,7 +531,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "13.04.2026 17:04",
+      "lastModified": "13.04.2026 18:35",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -654,49 +627,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f6dd7ef1-c2de-40dd-a19c-c43ba3139860",
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "b0e531f5-88cc-4abd-bc02-e65c3a76affc",
-      "disruptionId": "946a41f0-f8e9-4252-8ae0-d19af0075de8",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Beeinträchtigungen zwischen Hanau und Fulda",
-      "summary": "Aufgrund von Bauarbeiten bei Gelnhausen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne Züge zwischen Frankfurt(M) und Kassel-Wilhelmshöhe werden umgeleitet und verspäten sich um etwa 30 Minuten.</li><li>Bei den auf dem planmäßigen Weg verkehrenden Züge zwischen Frankfurt(M) und Kassel-Wilhelmshöhe kann es zu Verspätungen von bis zu 15 Minuten kommen.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "13.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/946a41f0-f8e9-4252-8ae0-d19af0075de8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-13/05e3cfcf-092b-4d57-b1bb-587571448338st%25C3%25B6rungskarte_20260413-080135.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-13/05e3cfcf-092b-4d57-b1bb-587571448338st%25C3%25B6rungskarte_20260413-080135.png",
-          "info": "",
-          "alt": "Störungskarte 13.04.2026 08:01:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "13.04.2026 08:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/b0e531f5-88cc-4abd-bc02-e65c3a76affc",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_construction"
     },
     {
       "id": "cc9f9571-30fa-4cce-a2b4-bb4308700c48",
