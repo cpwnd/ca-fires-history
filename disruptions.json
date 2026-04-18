@@ -119,52 +119,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
-      "id": "46b0e8d5-5f54-49e0-b404-53d3eca7961a",
-      "disruptionId": "352f439d-f9a9-4414-8e73-2d4f562faf8d",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigung zwischen Magdeburg und Braunschweig",
-      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Magdeburg und Braunschweig kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen sowie Zugausfällen\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Leipzig - Magdeburg - Hannover - Norddeich Mole</li><li>Dresden - Magdeburg - Hannover - Köln</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis [Prognose] erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "18.04.2026",
-      "durationEnd": "18.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/352f439d-f9a9-4414-8e73-2d4f562faf8d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-18/929ed16f-2181-43ab-a8b5-f4cd7940c8f9st%25C3%25B6rungskarte_20260418-173010.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-18/929ed16f-2181-43ab-a8b5-f4cd7940c8f9st%25C3%25B6rungskarte_20260418-173010.png",
-          "info": "",
-          "alt": "Störungskarte 18.04.2026 17:30:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "ST",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "18.04.2026 17:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/46b0e8d5-5f54-49e0-b404-53d3eca7961a",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section3"
-    },
-    {
       "id": "ab08986c-ac4b-494a-81de-9df7cf99d0a6",
       "disruptionId": "ab4750e6-73b2-44ab-8039-0aabc65fa98f",
       "author": "FERNVERKEHR_AG",
@@ -173,14 +127,14 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Beeinträchtigungen zwischen Braunschweig und Magdeburg",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Braunschweig und Magdeburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Verspätungen bis zu 15 Minuten.",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Braunschweig und Magdeburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Umleitungen sowie Zugausfällen und Verspätungen bis zu 15 Minuten.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Magdeburg und Hannover</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "16.04.2026",
       "mapHref": "https://karte.bahn.de/detail/ab4750e6-73b2-44ab-8039-0aabc65fa98f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-17/9d27ec79-12ae-4cc9-8f00-791e732c51ffst%25C3%25B6rungskarte_20260416-162252.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-17/9d27ec79-12ae-4cc9-8f00-791e732c51ffst%25C3%25B6rungskarte_20260416-162252.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-18/ac22ca8b-d0b5-41b1-a64b-b54f18486782st%25C3%25B6rungskarte_20260416-162252.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-18/ac22ca8b-d0b5-41b1-a64b-b54f18486782st%25C3%25B6rungskarte_20260416-162252.png",
           "info": "",
           "alt": "Störungskarte 16.04.2026 16:22:52",
           "openInNewTab": true
@@ -202,7 +156,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "17.04.2026 23:20",
+      "lastModified": "18.04.2026 19:47",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ab08986c-ac4b-494a-81de-9df7cf99d0a6",
@@ -1068,6 +1022,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cc71e871-ef21-4fa8-896d-4b55d616954c",
       "magnoliaPath": "/aktuell/hessen/additional_service_construction"
+    },
+    {
+      "id": "75c7240c-66df-4cc9-a04d-19e26a513b80",
+      "disruptionId": "b8190334-dcd5-46b3-9994-e9c15b4fc564",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 6 Grafing Bahnhof ↔ Ebersberg: Technischer Defekt an einem Bahnübergang",
+      "summary": "Zwischen Grafing Bahnhof und Ebersberg kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "18.04.2026",
+      "durationEnd": "18.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/b8190334-dcd5-46b3-9994-e9c15b4fc564",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-18/8711b147-ba05-40af-ac98-443ca67c3b0est%25C3%25B6rungskarte_20260418-194013.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-18/8711b147-ba05-40af-ac98-443ca67c3b0est%25C3%25B6rungskarte_20260418-194013.png",
+          "info": "",
+          "alt": "Störungskarte 18.04.2026 19:40:13",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.04.2026 19:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/75c7240c-66df-4cc9-a04d-19e26a513b80",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "6d8da9e4-586c-42ca-ac5d-9b97a26f1c3c",
