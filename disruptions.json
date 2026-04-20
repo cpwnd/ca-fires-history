@@ -2,56 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "67c6f157-97e1-4a9f-ab45-ae3e146ff784",
-      "disruptionId": "3c3fbb41-aea9-4cec-a04e-fc9453b0260c",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Das Stellwerk zwischen Neu-Edingen/Friedrichsfeld und Bensheim konnte besetzt werden.",
-      "summary": "Das Stellwerk zwischen Neu-Edingen/Friedrichsfeld und Bensheim konnte besetzt werden. Bis sich der Bahnverkehr wieder stabilisiert hat, kommt es noch zu Beeinträchtigungen. Der Ersatzverkehr wird demnächst eingestellt.",
-      "text": "<p>🚉 <strong>Betroffene Linien waren:</strong></p><ul><li>S5 - Bensheim &lt;&gt; Weinheim &lt;&gt; Mannheim &lt;&gt; Frankenthal &lt;&gt; Worms &lt;&gt; Mainz &lt;&gt; (Wiesbaden)</li><li>RB69 - Weinheim &lt;&gt; Mörlenbach &lt;&gt; Rimbach &lt;&gt; Fürth </li><li> RB68 - Schwetzingen/WieslochWalldorf &lt;&gt;  NeuEdingen/Friedrichsfeld &lt;&gt; Bensheim &lt;&gt; Darmstadt &lt;&gt; Frankfurt</li></ul><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "20.04.2026",
-      "durationEnd": "20.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/3c3fbb41-aea9-4cec-a04e-fc9453b0260c",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "SL",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 68",
-          "filterName": "RB 68",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 60",
-          "filterName": "RE 60",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Rhein-Neckar",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.04.2026 15:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/67c6f157-97e1-4a9f-ab45-ae3e146ff784",
-      "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "0ca3ccbb-1cc5-48d8-9515-abc323696bb7",
       "disruptionId": "cbb3a6e3-bc4a-4e02-8dd7-1e54fab271d0",
       "author": "S_BAHN_HH",
@@ -124,52 +74,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other"
     },
     {
-      "id": "af5eb61f-9f18-4973-959b-4e55afa20e49",
-      "disruptionId": "652b52de-2ef5-4805-89f0-f26c53338417",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Beeinträchtigungen zwischen Darmstadt und Heidelberg",
-      "summary": "Das Stellwerk in Weinheim(Bergstr) ist am 20.04.2026 zwischen 13 Uhr und 20 Uhr nicht besetzt. Es kommt derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Umleitungen mit Haltausfällen.",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE &amp; EC Züge werden zwischen Frankfurt(M) und Heidelberg Hbf umgeleitet. Die Halte in Darmstadt Hbf, Bensheim und Weinheim(Bergstr) Hbf entfallen. Eine Verspätung ist nicht zu erwarten.</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "20.04.2026",
-      "durationEnd": "20.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/652b52de-2ef5-4805-89f0-f26c53338417",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-20/31d4c1b3-0975-4381-b12c-fcfe9fb9dfa1st%25C3%25B6rungskarte_20260420-131535.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-20/31d4c1b3-0975-4381-b12c-fcfe9fb9dfa1st%25C3%25B6rungskarte_20260420-131535.png",
-          "info": "",
-          "alt": "Störungskarte 20.04.2026 13:15:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "20.04.2026 13:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/af5eb61f-9f18-4973-959b-4e55afa20e49",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section0"
-    },
-    {
       "id": "8fb849ac-d484-4e44-9dac-462fab6a70b1",
       "disruptionId": "a36fac5f-9656-4b35-83f1-153c43173f0a",
       "author": "FERNVERKEHR_AG",
@@ -223,8 +127,8 @@
         "label": "Entschärfung einer Fliegerbombe"
       },
       "headline": "Verkehrsmeldung für die Linie RB 22 ",
-      "summary": "Ausfall der Züge der RB22 am 21.04.2026 zwischen Golm und Saarmund in der Zeit von 08:00 bis 12:30 Uhr. ",
-      "text": "<p>Aufgrund einer Bombenentschärfung kommt es am 21.04.2026 in der Zeit von ca. 08:00 Uhr bis 12:30 Uhr zu Fahrtausfällen auf der Linie RB22. Nutzen Sie den Ersatzverkehr mit Bus.</p><p></p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "summary": "Ausfall der Züge der RB22 am 21.04.2026 zwischen Golm und Saarmund in der Zeit zwischen 08:00 bis 12:30 Uhr. ",
+      "text": "<p>Aufgrund einer Bombenentschärfung kommt es am 21.04.2026 in der Zeit zwischen 08:00 Uhr bis 12:30 Uhr zu Fahrtausfällen auf der Linie RB22. Nutzen Sie alternative Reisemöglichkeiten und informieren Sie sich bitte vor Fahrtantritt.</p><p></p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
       "durationBegin": "21.04.2026",
       "durationEnd": "21.04.2026",
       "mapHref": "https://karte.bahn.de/detail/03ca2330-78b5-405e-b1cd-caeb04432e3a",
@@ -232,14 +136,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
           "info": "",
           "openInNewTab": true
         }
@@ -258,7 +162,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "20.04.2026 12:17",
+      "lastModified": "20.04.2026 16:29",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -668,21 +572,15 @@
       },
       "headline": "Verkehrsmeldung für die Linie RE 4 ",
       "summary": "bis vsl. Sonntag, 17.05.2026 23:59 Uhr",
-      "text": "<p><strong>RE4    Bützow – Neubrandenburg – Pasewalk – Szczecin/Ueckermünde </strong></p><p><strong>Ab 15.04.2026 für vsl. 4 Wochen:</strong></p><p>Aufgrund einer Streckensperrung fallen alle Züge der Linie RE4 zwischen Güstrow und Neubrandenburg aus. Ein Ersatzverkehr mit Bussen ist eingerichtet. Anbei finden Sie den Ersatzfahrplan.</p><p></p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
+      "text": "<p><strong>RE4    Bützow – Neubrandenburg – Pasewalk – Szczecin/Ueckermünde </strong></p><p><strong>Ab 15.04.2026 für vsl. 4 Wochen:</strong></p><p>Aufgrund einer Streckensperrung fallen alle Züge der Linie RE4 zwischen Güstrow und Neubrandenburg aus. Ein Ersatzverkehr mit Bussen ist eingerichtet. Anbei finden Sie den Ersatzfahrplan. Bitte beachten Sie: ab dem <strong>21.04.2026 </strong>wird der Halt\" Lalendorf Am Waldrand\" durch den Halt direkt am Bahnhof Lalendorf ersetzt.</p><p></p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
       "durationBegin": "15.04.2026",
       "durationEnd": "17.05.2026",
       "mapHref": "https://karte.bahn.de/detail/5ba9b64d-04b9-4a42-be9c-e96e1128fdd5",
       "images": [],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-04-20/b3f75d1d-66e2-41ba-a010-766a2a0ea813Ersatzfahrplan%2BLinie%2BRE%2B4%2BG%25C3%25BCstrow%2B-%2BNeubrandenburg%2Bg%25C3%25BCltig%2Bbis%2B24.04.26.pdf",
-          "label": "Ersatzfahrplan Linie RE 4 Güstrow - Neubrandenburg gültig bis 24.04.26.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-04-20/f23a6bb2-77f5-4169-94af-38f6675059c0Baufpl-E_11201_Neubrandenburg-%2B%2BG%25C3%25BCstrow_%2528MV_RE4%2529_25.04.-30.04.2026__v00__V3_SNo.pdf",
-          "label": "Baufpl-E_11201_Neubrandenburg-  Güstrow_(MV_RE4)_25.04.-30.04.2026__v00__V3_SNo.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-04-20/c720d879-d579-4c08-a887-20516fc6d0faErsatzverkehr%2BRE4%2Bmit%2BHaltestellen.pdf",
+          "label": "Ersatzverkehr RE4 mit Haltestellen.pdf",
           "info": "",
           "openInNewTab": true
         }
@@ -708,7 +606,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "20.04.2026 13:30",
+      "lastModified": "20.04.2026 17:31",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c01088d4-3958-40cc-863a-ca6530e23d2e",
