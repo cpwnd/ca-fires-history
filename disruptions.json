@@ -119,44 +119,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
-      "id": "0e0b855e-e8f1-4462-8de1-d93af8e401c0",
-      "disruptionId": "9d09de70-10b8-4a5d-a3b3-293feec25e06",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S7: Personen im Gleisbereich",
-      "summary": "S7: Zur Zeit kommt es auf der Linie S7 zu Verspätungen. Grund war ein vorangegangener Polizeieinsatz.",
-      "text": "<p> </p>",
-      "durationBegin": "20.04.2026",
-      "durationEnd": "20.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/9d09de70-10b8-4a5d-a3b3-293feec25e06",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.04.2026 21:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0e0b855e-e8f1-4462-8de1-d93af8e401c0",
-      "magnoliaPath": "/aktuell/nord/impairment_police_activity"
-    },
-    {
       "id": "ab08986c-ac4b-494a-81de-9df7cf99d0a6",
       "disruptionId": "ab4750e6-73b2-44ab-8039-0aabc65fa98f",
       "author": "FERNVERKEHR_AG",
@@ -554,6 +516,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
+    },
+    {
+      "id": "4f669160-98b4-4f9c-a30d-26ce92916891",
+      "disruptionId": "fc38ce6a-d558-4b98-bb42-dce38d303b56",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung: //BetroffeneLinien Leuchtenbergring ↔ Moosach",
+      "summary": "Die Züge können wieder zwischen Leuchtenbergring und Moosach fahren.",
+      "text": "<p>Erste nach Baustellenfahrplan verkehrende S-Bahn ist:</p><ul><li>S 1 Abfahrt Leuchtenbergring 23:31 Uhr → Ankunft Moosach 23:54 Uhr</li></ul><p></p><p><strong>+++ Zwischen Moosach und Feldmoching gibt es Bauarbeiten. Ersatzverkehr ist eingerichtet. Haltestellen siehe Baustelleninfo. +++</strong></p><p></p><p>Reisende von/zum <strong>Flughafen/Airport </strong>benutzen bitte alternativ die <strong>S 8</strong>.</p><p>Es kommt noch zu Verspätungen und Teilausfällen.</p><p>Die Reparatur an einem Signal wurde beendet.</p>",
+      "durationBegin": "20.04.2026",
+      "durationEnd": "21.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/fc38ce6a-d558-4b98-bb42-dce38d303b56",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-20/ebf0e8ce-e1fa-4782-b1f7-aca85ec4fd7ast%25C3%25B6rungskarte_20260420-232315.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-20/ebf0e8ce-e1fa-4782-b1f7-aca85ec4fd7ast%25C3%25B6rungskarte_20260420-232315.png",
+          "info": "",
+          "alt": "Störungskarte 20.04.2026 23:23:15",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.04.2026 23:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4f669160-98b4-4f9c-a30d-26ce92916891",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "c01088d4-3958-40cc-863a-ca6530e23d2e",
@@ -1014,6 +1021,73 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cf215b71-f0cd-4866-a700-9142ef5be09e",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction"
+    },
+    {
+      "id": "166bbcd1-2878-419e-a49d-1256a69535d0",
+      "disruptionId": "3c728c8a-595d-4b54-bbc4-3465e4577eb5",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung: Stammstrecke",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing noch zu Folgeverspätungen.",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
+      "durationBegin": "20.04.2026",
+      "durationEnd": "20.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/3c728c8a-595d-4b54-bbc4-3465e4577eb5",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.04.2026 23:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/166bbcd1-2878-419e-a49d-1256a69535d0",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
