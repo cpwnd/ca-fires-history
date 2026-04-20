@@ -119,6 +119,44 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
+      "id": "0e0b855e-e8f1-4462-8de1-d93af8e401c0",
+      "disruptionId": "9d09de70-10b8-4a5d-a3b3-293feec25e06",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S7: Personen im Gleisbereich",
+      "summary": "S7: Zur Zeit kommt es auf der Linie S7 zu Verspätungen. Grund war ein vorangegangener Polizeieinsatz.",
+      "text": "<p> </p>",
+      "durationBegin": "20.04.2026",
+      "durationEnd": "20.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/9d09de70-10b8-4a5d-a3b3-293feec25e06",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.04.2026 21:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0e0b855e-e8f1-4462-8de1-d93af8e401c0",
+      "magnoliaPath": "/aktuell/nord/impairment_police_activity"
+    },
+    {
       "id": "ab08986c-ac4b-494a-81de-9df7cf99d0a6",
       "disruptionId": "ab4750e6-73b2-44ab-8039-0aabc65fa98f",
       "author": "FERNVERKEHR_AG",
@@ -126,17 +164,17 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "Beeinträchtigungen zwischen Braunschweig und Magdeburg",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Braunschweig und Magdeburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kann zu Verspätungen bis zu 15 Minuten kommen. Weiterhin kommt es zu Zugausfällen zwischen Leipzig und Lehrte.",
+      "headline": "Beeinträchtigungen zwischen Braunschweig und Leipzig",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Braunschweig und Leipzig kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kann zu Verspätungen bis zu 30 Minuten kommen. Weiterhin kommt es zu Zugausfällen zwischen Leipzig und Lehrte.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Magdeburg und Hannover/Lehrte</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "16.04.2026",
       "mapHref": "https://karte.bahn.de/detail/ab4750e6-73b2-44ab-8039-0aabc65fa98f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-20/0fba843d-1572-4aec-9c45-437eed8559d3st%25C3%25B6rungskarte_20260416-162252.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-20/0fba843d-1572-4aec-9c45-437eed8559d3st%25C3%25B6rungskarte_20260416-162252.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-20/c0d2a718-b490-4eea-8ce1-75c644c2822fst%25C3%25B6rungskarte_20260420-214529.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-20/c0d2a718-b490-4eea-8ce1-75c644c2822fst%25C3%25B6rungskarte_20260420-214529.png",
           "info": "",
-          "alt": "Störungskarte 16.04.2026 16:22:52",
+          "alt": "Störungskarte 20.04.2026 21:45:29",
           "openInNewTab": true
         }
       ],
@@ -156,7 +194,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "20.04.2026 19:30",
+      "lastModified": "20.04.2026 21:47",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ab08986c-ac4b-494a-81de-9df7cf99d0a6",
@@ -312,8 +350,8 @@
       "mapHref": "https://karte.bahn.de/detail/24c4f369-1225-4058-95ae-234c6885b163",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-20/e712853f-f7bb-4192-b45b-a16c7b6b8801st%25C3%25B6rungskarte_20260419-163214.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-20/e712853f-f7bb-4192-b45b-a16c7b6b8801st%25C3%25B6rungskarte_20260419-163214.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-20/837f3a51-370d-40f5-b4bb-6d9d90b8ba15st%25C3%25B6rungskarte_20260419-163214.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-20/837f3a51-370d-40f5-b4bb-6d9d90b8ba15st%25C3%25B6rungskarte_20260419-163214.png",
           "info": "",
           "alt": "Störungskarte 19.04.2026 16:32:14",
           "openInNewTab": true
@@ -339,7 +377,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.04.2026 20:17",
+      "lastModified": "20.04.2026 21:49",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
