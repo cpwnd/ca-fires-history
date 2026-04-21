@@ -381,8 +381,8 @@
       "mapHref": "https://karte.bahn.de/detail/6c9147af-9b4f-4752-a82f-80a5a9a638de",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-21/7ccfd4bd-fd7d-488b-a299-0f44dfb46a1ast%25C3%25B6rungskarte_20260421-172644.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-21/7ccfd4bd-fd7d-488b-a299-0f44dfb46a1ast%25C3%25B6rungskarte_20260421-172644.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-21/b1d3cacb-5d62-4348-8b70-31c86d6d248ast%25C3%25B6rungskarte_20260421-172644.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-21/b1d3cacb-5d62-4348-8b70-31c86d6d248ast%25C3%25B6rungskarte_20260421-172644.png",
           "info": "",
           "alt": "Störungskarte 21.04.2026 17:26:44",
           "openInNewTab": true
@@ -433,8 +433,8 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.04.2026 18:02",
-      "expand": true,
+      "lastModified": "21.04.2026 19:26",
+      "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/aa0d461f-f7b1-4f34-944d-13c3fd2184f7",
@@ -618,6 +618,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "34e1934d-e68f-41bf-94df-67a0826fe9e3",
+      "disruptionId": "861bfdad-5a39-40f8-b76c-e21125fa22a1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S3 Olching - Maisach: Unbefugte Personen auf der Strecke ",
+      "summary": "Zwischen Olching und Maisach sind wieder Zugfahrten möglich. ",
+      "text": "<p>Es kommt auf der Linie S3 in beide Richtungen zu Folgeverspätungen von 10 bis 15 Minuten. Durch vorzeitige Zugwenden kann es auch noch vereinzelt zu Teilausfällen kommen.</p><p></p><p>Die unbefugte Person auf der Strecke in Olching wurde aufgegriffen.</p>",
+      "durationBegin": "21.04.2026",
+      "durationEnd": "21.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/861bfdad-5a39-40f8-b76c-e21125fa22a1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-21/33088825-5444-4a87-8e74-5642cf00c1c0st%25C3%25B6rungskarte_20260421-192423.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-21/33088825-5444-4a87-8e74-5642cf00c1c0st%25C3%25B6rungskarte_20260421-192423.png",
+          "info": "",
+          "alt": "Störungskarte 21.04.2026 19:24:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.04.2026 19:25",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/34e1934d-e68f-41bf-94df-67a0826fe9e3",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section0"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
