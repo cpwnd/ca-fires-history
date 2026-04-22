@@ -978,6 +978,49 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction"
     },
     {
+      "id": "ad3d6ace-577d-488a-b1de-e492c48d3a01",
+      "disruptionId": "e1e94c7a-415c-4b27-92d5-4f7fc0431853",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Mannheim/Heidelberg/Karlsruhe und Stuttgart",
+      "summary": "Aufgrund einer technischen Störung an der Strecke im Bereich Vaihingen(Enz) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge verspäten sich dadurch um bis zu 10 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>TGV/ICE Züge Karlsruhe - Stuttgart</li><li>ICE Züge Mannheim - Stuttgart</li><li>ICE/IC Züge Heidelberg - Stuttgart</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "22.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/e1e94c7a-415c-4b27-92d5-4f7fc0431853",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-22/278dd127-af2e-47b5-9f86-90795bfb18a4st%25C3%25B6rungskarte_20260422-190505.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-04-22/278dd127-af2e-47b5-9f86-90795bfb18a4st%25C3%25B6rungskarte_20260422-190505.png",
+          "info": "",
+          "alt": "Störungskarte 22.04.2026 19:05:05",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "22.04.2026 19:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/ad3d6ace-577d-488a-b1de-e492c48d3a01",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section0"
+    },
+    {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
       "disruptionId": "76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "author": "S_BAHN_S",
