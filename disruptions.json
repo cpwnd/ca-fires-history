@@ -471,57 +471,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_construction"
     },
     {
-      "id": "e7c877cc-4efb-4ebf-a565-1a2b96edc712",
-      "disruptionId": "738e3d41-513e-458f-8a1d-46e7b94ba07c",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Signalstörung zwischen Emskirchen und Neustadt(Aisch)",
-      "summary": "Aufgrund einer Störung an mehreren Signalen, kommt es zwischen Emskirchen und Neustadt (Aisch)  zu Verspätungen bei den Zügen der Linie  RE10, sowie der S6 (Nürnberg-Neustadt(Aisch)) von bis zu 30 Minuten. Bitte überprüfen Sie Ihre Reiseverbindung vor Fahrtantritt.,",
-      "text": "<p></p><p></p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
-      "durationBegin": "25.04.2026",
-      "durationEnd": "25.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/738e3d41-513e-458f-8a1d-46e7b94ba07c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-04-25/6b94f84f-2db6-4fa8-ba9c-955700a7e944st%25C3%25B6rungskarte_20260425-155541.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-04-25/6b94f84f-2db6-4fa8-ba9c-955700a7e944st%25C3%25B6rungskarte_20260425-155541.png",
-          "info": "",
-          "alt": "Störungskarte 25.04.2026 15:55:41",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RE 10",
-          "filterName": "RE 10",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 Nürnberg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.04.2026 16:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e7c877cc-4efb-4ebf-a565-1a2b96edc712",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section13"
-    },
-    {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "disruptionId": "092c7fcc-8ff0-4b7f-b852-7fa3d6c33ebe",
       "author": "REGIO_SUEDOST",
