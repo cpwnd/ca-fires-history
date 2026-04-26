@@ -206,7 +206,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.04.2026 15:59",
+      "lastModified": "26.04.2026 19:00",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -444,6 +444,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "a6ff0040-9234-48f1-bf17-b4b220aee485",
+      "disruptionId": "04df2761-c8df-4e5f-9fb1-665f0dfa3079",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 6 Stockdorf: Polizeieinsatz",
+      "summary": "Im Bereich Stockdorf sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Gauting und in Pasing.</p><p>Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "26.04.2026",
+      "durationEnd": "26.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/04df2761-c8df-4e5f-9fb1-665f0dfa3079",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-26/d87aba50-10ec-4b9b-8a90-d47e3a7baf22st%25C3%25B6rungskarte_20260426-191731.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-26/d87aba50-10ec-4b9b-8a90-d47e3a7baf22st%25C3%25B6rungskarte_20260426-191731.png",
+          "info": "",
+          "alt": "Störungskarte 26.04.2026 19:17:31",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.04.2026 19:19",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a6ff0040-9234-48f1-bf17-b4b220aee485",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity0"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
