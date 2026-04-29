@@ -270,18 +270,18 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S 1 Moosach ↔ Freising/Flughafen: Reparatur an einem Signal",
-      "summary": "Zwischen Moosach und Freising/Flughafen sind keine Zugfahrten möglich.",
-      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Moosach und Freising/Flughafen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Endmeldung: S 1 Moosach ↔ Freising/Flughafen",
+      "summary": "Die Züge können wieder zwischen Moosach und Freising/Flughafen fahren.",
+      "text": "<p>Der Ersatzverkehr mit Bussen wird 21:00 Uhr eingestellt.</p><p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Die Reparatur an einem Signal wurde beendet.</p>",
       "durationBegin": "29.04.2026",
       "durationEnd": "29.04.2026",
       "mapHref": "https://karte.bahn.de/detail/be28d9a5-3513-4547-b6e1-b4562d5dfe17",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/2effb54e-8995-4082-893f-32e40be6df2est%25C3%25B6rungskarte_20260429-183645.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/2effb54e-8995-4082-893f-32e40be6df2est%25C3%25B6rungskarte_20260429-183645.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/9a3274c2-f736-4166-86b3-1de78c129cb2st%25C3%25B6rungskarte_20260429-192641.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/9a3274c2-f736-4166-86b3-1de78c129cb2st%25C3%25B6rungskarte_20260429-192641.png",
           "info": "",
-          "alt": "Störungskarte 29.04.2026 18:36:45",
+          "alt": "Störungskarte 29.04.2026 19:26:41",
           "openInNewTab": true
         }
       ],
@@ -300,7 +300,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.04.2026 18:45",
+      "lastModified": "29.04.2026 19:49",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -484,48 +484,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
-    },
-    {
-      "id": "ccfb856e-f80f-47ad-a0e9-b52b8fbeee27",
-      "disruptionId": "00d90f0a-7741-4245-ab7a-18df60283a56",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": " ⚠️  S3/S5: Einschränkungen auf der 🟣 S3 und 🔵 S5",
-      "summary": "Die S-Bahnen der 🟣 S3 fahren weiterhin zwischen Pinneberg und Neugraben. Die 🔵 S5 fährt nur zwischen Stade und Neugraben.",
-      "text": "<p>Zwischen Diebsteich und Hauptbahnhof bitte alternativ die 🔴 S2 nutzen.</p><p></p><p>Zwischen Elbgaustraße und Neugraben bitte alternativ die 🟣 S3 nutzen.</p><p></p><p>Grund: Signalstörung 🚦</p>",
-      "durationBegin": "29.04.2026",
-      "durationEnd": "29.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/00d90f0a-7741-4245-ab7a-18df60283a56",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.04.2026 18:56",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ccfb856e-f80f-47ad-a0e9-b52b8fbeee27",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section1"
     },
     {
       "id": "c01088d4-3958-40cc-863a-ca6530e23d2e",
@@ -795,6 +753,88 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
+    },
+    {
+      "id": "bbef98bb-92d4-4d59-90ba-2309b5e79ffd",
+      "disruptionId": "48374375-b16c-459e-918b-da4130de19ed",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation zur Stammstrecke in den Nächten 27./28.4. bis 30.4./1.5.2026",
+      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke kommt es zwischen Pasing - Ostbahnhof/Giesing/Riem in den Nächten von 27., auf den 28.April, bis, 30.April auf den 01.Mai 2026 jeweils von 21:20 bis 4:40 Uhr zu Fahrplanänderungen, Umleitungen/Haltausfälle und Ersatzverkehr mit Bus.",
+      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>S 1: </strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof Gl. 27-35 (kein Halt an der Hackerbrücke)</li></ul><p><strong>S 2:</strong></p><ul><li>Züge in/aus Richtung Erding beginnen/enden am Ostbahnhof und fahren von/bis Riem ohne Halt</li><li>Züge in/aus Richtung Petershausen/Altomünster beginnen/enden am Isartor.</li></ul><p>\t\t<strong>( Bitte beachten Sie, aufgrund kurzfristiger Bauarbeiten werden die Züge der Linie S2 heute ab 22 Uhr bis Betriebsschluss zwischen Dachau ↔ Petershausen über die </strong> \t\t\t\t<strong>Fernbahn umgeleitet. Die Halte Hebertshausen, Röhrmoos und Vierkirchen-Esterhofen entfallen. Es besteht ein Ersatzverkehr mit Busse Für die entfallenden Halte zwischen Dachau ↔ Petershausen.)</strong></p><p><strong>S 3:</strong></p><ul><li>Züge in/aus Richtung Holzkirchen beginnen/enden in Giesing</li><li>Züge in/aus Richtung Mammendorf beginnen/enden in Pasing</li></ul><p><strong>S 4:</strong></p><ul><li>Züge in/aus Trudering fallen zwischen Trudering und Pasing aus</li><li>Züge in/aus Richtung Geltendorf beginnen/enden am Heimeranplatz Gl. 11</li></ul><p><strong>S 5:</strong></p><ul><li>Züge in/aus Richtung Kreuzstraße beginnen/enden in Giesing</li><li>Züge in/aus Richtung Pasing fallen zwischen Giesing und Pasing aus</li></ul><p><strong>S 6/S 8:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden in Trudering. Es besteht Ersatzverkehr mit Bussen zwischenTrudering und Ostbahnhof</li><li>Züge in/aus Richtung Herrsching beginnen/enden in Pasing</li><li>Züge aus Richtung Tutzing fahren zum Flughafen</li><li>Züge aus Richtung Flughafen fahren nach Tutzing</li></ul><p><strong>S 7:</strong></p><ul><li>Züge in/aus Richtung Wolfratshausen fahren planmäßig zwischen Hauptbahnhof und Wolfratshausen</li></ul><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "29.04.2026",
+      "durationEnd": "01.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/48374375-b16c-459e-918b-da4130de19ed",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/af9bf55d-5f7f-48d6-80a5-25413b043852st%25C3%25B6rungskarte_20260416-213902.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/af9bf55d-5f7f-48d6-80a5-25413b043852st%25C3%25B6rungskarte_20260416-213902.png",
+          "info": "",
+          "alt": "Störungskarte 16.04.2026 21:39:02",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/5e59f752-09be-4687-ac8b-639a2a6ced9cFpl%252BS1-S%252B8%252BSEV%252B27%252BApr-1%252BMai.pdf",
+          "label": "Stammstrecke+EV+27+Apr-1+Mai 2026",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.04.2026 20:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/bbef98bb-92d4-4d59-90ba-2309b5e79ffd",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction0"
     },
     {
       "id": "21d91f0f-46f0-4606-bebd-937d3e540402",
