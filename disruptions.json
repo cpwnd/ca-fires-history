@@ -263,51 +263,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "6edc994d-b163-444a-84b4-58c12292b109",
-      "disruptionId": "be28d9a5-3513-4547-b6e1-b4562d5dfe17",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung: S 1 Moosach ↔ Freising/Flughafen",
-      "summary": "Die Züge können wieder zwischen Moosach und Freising/Flughafen fahren.",
-      "text": "<p>Der Ersatzverkehr mit Bussen wird 21:00 Uhr eingestellt.</p><p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Die Reparatur an einem Signal wurde beendet.</p>",
-      "durationBegin": "29.04.2026",
-      "durationEnd": "29.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/be28d9a5-3513-4547-b6e1-b4562d5dfe17",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/9a3274c2-f736-4166-86b3-1de78c129cb2st%25C3%25B6rungskarte_20260429-192641.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-29/9a3274c2-f736-4166-86b3-1de78c129cb2st%25C3%25B6rungskarte_20260429-192641.png",
-          "info": "",
-          "alt": "Störungskarte 29.04.2026 19:26:41",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "29.04.2026 19:49",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6edc994d-b163-444a-84b4-58c12292b109",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
-    },
-    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
