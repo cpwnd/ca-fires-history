@@ -466,6 +466,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "079e0490-3151-456b-a18c-1a93f83965be",
+      "disruptionId": "05ff24a4-83f2-4f0c-acac-7812174a78b9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technischer Defekt an einem anderen Zug"
+      },
+      "headline": "S 2 Riem ↔ Ostbahnhof: Technischer Defekt an einem anderen Zug",
+      "summary": "Zwischen Riem und Ostbahnhof kommt es zu Verspätungen von 15 bis 20 Minuten und Umleitungen über die Fernbahn.\nIn Riem kommt es zu Kreuzungsverspätungen. Grund hierfür: wir fahren 1 Gleisig.",
+      "text": "<p>Der Grund hierfür ist ein technischer Defekt an einem anderen Zug.</p>",
+      "durationBegin": "30.04.2026",
+      "durationEnd": "30.04.2026",
+      "mapHref": "https://karte.bahn.de/detail/05ff24a4-83f2-4f0c-acac-7812174a78b9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/fb35236b-c0d0-468f-a542-ade77e1f1257st%25C3%25B6rungskarte_20260430-223452.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/fb35236b-c0d0-468f-a542-ade77e1f1257st%25C3%25B6rungskarte_20260430-223452.png",
+          "info": "",
+          "alt": "Störungskarte 30.04.2026 22:34:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.04.2026 22:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/079e0490-3151-456b-a18c-1a93f83965be",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_vehicle"
+    },
+    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -956,51 +1001,6 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
     },
     {
-      "id": "0eb0669e-efe0-4017-991b-1c50391c2024",
-      "disruptionId": "9b4f6d04-fd07-4fcd-abe7-1476193eb0e0",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 1 Feldmoching: Reparatur an einem Signal",
-      "summary": "Im Bereich Feldmoching kommt es zu Verspätungen von bis zu 20 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "30.04.2026",
-      "durationEnd": "30.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/9b4f6d04-fd07-4fcd-abe7-1476193eb0e0",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/040ce4ae-7707-4998-a668-f4498fb3debast%25C3%25B6rungskarte_20260430-195833.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/040ce4ae-7707-4998-a668-f4498fb3debast%25C3%25B6rungskarte_20260430-195833.png",
-          "info": "",
-          "alt": "Störungskarte 30.04.2026 19:58:33",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.04.2026 21:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0eb0669e-efe0-4017-991b-1c50391c2024",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section8"
-    },
-    {
       "id": "a5bb2029-3ec3-4e47-ba7d-2150a5d475bc",
       "disruptionId": "2a7e3584-5538-4d33-9834-ab6218297aec",
       "author": "S_BAHN_MUC",
@@ -1008,16 +1008,16 @@
         "category": "medical_emergency",
         "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "S 3, S 5 Ostbahnhof: Ärztliche Versorgung eines Fahrgastes",
-      "summary": "Im Bereich Ostbahnhof kommt es in Richtung Giesing zu Verspätungen von bis zu 20 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine ärztliche Versorgung eines Fahrgastes.</p>",
+      "headline": "Endmeldung: S 3, S 5 Ostbahnhof",
+      "summary": "Im Bereich Ostbahnhof kommt es noch zu Folgeverspätungen von bis zu 15 Minuten.",
+      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
       "durationBegin": "30.04.2026",
       "durationEnd": "30.04.2026",
       "mapHref": "https://karte.bahn.de/detail/2a7e3584-5538-4d33-9834-ab6218297aec",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/b91da66f-7017-44dc-91f1-d69f7cdafc2ast%25C3%25B6rungskarte_20260430-212802.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/b91da66f-7017-44dc-91f1-d69f7cdafc2ast%25C3%25B6rungskarte_20260430-212802.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/629f3e5f-aee5-47b7-9850-12b96730da38st%25C3%25B6rungskarte_20260430-212802.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/629f3e5f-aee5-47b7-9850-12b96730da38st%25C3%25B6rungskarte_20260430-212802.png",
           "info": "",
           "alt": "Störungskarte 30.04.2026 21:28:02",
           "openInNewTab": true
@@ -1043,7 +1043,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "30.04.2026 21:31",
+      "lastModified": "30.04.2026 21:54",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
