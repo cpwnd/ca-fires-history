@@ -226,6 +226,94 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "5e726eb2-4f54-48f3-8ed0-f80a5bd5c204",
+      "disruptionId": "0e54e645-6942-46fb-89d0-44d505a467d6",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Pinneberg und Hamburg Hbf",
+      "summary": "Aufgrund einer Reparatur an der Strecke ist der Abschnitt zwischen Pinneberg und Hamburg Hbf bzw. Hamburg-Altona vsl. bis in den Vormittag des 01. Mai 2026 gesperrt. ",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 6 (Westerland(Sylt) – Hamburg-Altona): Die Züge beginnen/enden in Pinneberg. Reisende nutzen bitte zwischen Pinneberg und Hamburg die Züge der S-Bahn Linie S3. </li><li>RE 7/RE 70 (Flensburg/Kiel Hbf – Hamburg Hbf): Die Züge beginnen/enden in Pinneberg. Reisende nutzen bitte zwischen Pinneberg und Hamburg die Züge der S-Bahn Linie S3.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 45 Minuten.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "30.04.2026",
+      "durationEnd": "01.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/0e54e645-6942-46fb-89d0-44d505a467d6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-04-30/59b10496-9e70-434f-995e-759fdad6f707st%25C3%25B6rungskarte_20260430-224556.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-04-30/59b10496-9e70-434f-995e-759fdad6f707st%25C3%25B6rungskarte_20260430-224556.png",
+          "info": "",
+          "alt": "Störungskarte 30.04.2026 22:45:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-04-30/0536026b-8f7e-418d-8a8e-920bd20f1bb6st%25C3%25B6rungskarte_20260430-224556.png",
+          "label": "störungskarte_20260430-224556.png",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "Fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 70",
+          "filterName": "RE 70",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "30.04.2026 23:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5e726eb2-4f54-48f3-8ed0-f80a5bd5c204",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
+    },
+    {
       "id": "18be66f1-9d8f-4059-8fd3-945573f7a6d1",
       "disruptionId": "9aa7cb5a-e423-48ca-847c-8e8aa5932c77",
       "author": "FERNVERKEHR_AG",
@@ -464,51 +552,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "079e0490-3151-456b-a18c-1a93f83965be",
-      "disruptionId": "05ff24a4-83f2-4f0c-acac-7812174a78b9",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
-      },
-      "headline": "S 2 Riem ↔ Ostbahnhof: Technischer Defekt an einem anderen Zug",
-      "summary": "Zwischen Riem und Ostbahnhof kommt es zu Verspätungen von 15 bis 20 Minuten und Umleitungen über die Fernbahn.\nIn Riem kommt es zu Kreuzungsverspätungen. Grund hierfür: wir fahren 1 Gleisig.",
-      "text": "<p>Der Grund hierfür ist ein technischer Defekt an einem anderen Zug.</p>",
-      "durationBegin": "30.04.2026",
-      "durationEnd": "30.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/05ff24a4-83f2-4f0c-acac-7812174a78b9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/fb35236b-c0d0-468f-a542-ade77e1f1257st%25C3%25B6rungskarte_20260430-223452.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/fb35236b-c0d0-468f-a542-ade77e1f1257st%25C3%25B6rungskarte_20260430-223452.png",
-          "info": "",
-          "alt": "Störungskarte 30.04.2026 22:34:52",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.04.2026 22:40",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/079e0490-3151-456b-a18c-1a93f83965be",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_vehicle"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -999,56 +1042,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/5a9c640e-8f19-4244-84e0-d390ba0d39de",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
-    },
-    {
-      "id": "a5bb2029-3ec3-4e47-ba7d-2150a5d475bc",
-      "disruptionId": "2a7e3584-5538-4d33-9834-ab6218297aec",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "Endmeldung: S 3, S 5 Ostbahnhof",
-      "summary": "Im Bereich Ostbahnhof kommt es noch zu Folgeverspätungen von bis zu 15 Minuten.",
-      "text": "<p>Die ärztliche Versorgung eines Fahrgastes wurde beendet.</p>",
-      "durationBegin": "30.04.2026",
-      "durationEnd": "30.04.2026",
-      "mapHref": "https://karte.bahn.de/detail/2a7e3584-5538-4d33-9834-ab6218297aec",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/629f3e5f-aee5-47b7-9850-12b96730da38st%25C3%25B6rungskarte_20260430-212802.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-04-30/629f3e5f-aee5-47b7-9850-12b96730da38st%25C3%25B6rungskarte_20260430-212802.png",
-          "info": "",
-          "alt": "Störungskarte 30.04.2026 21:28:02",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.04.2026 21:54",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a5bb2029-3ec3-4e47-ba7d-2150a5d475bc",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
