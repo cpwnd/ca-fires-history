@@ -462,9 +462,9 @@
         "category": "technical_problem_railway_section",
         "label": "Tiere auf der Strecke"
       },
-      "headline": "Verspätungen und es kann zu Teil- und Zugausfällen kommen in Bad Vilbel",
-      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Streckensperrung zwischen Friedberg(Hess) - Bad Vilbel ist aufgehoben. Die Strecke zwischen Glauburg-Stockheim und Bad Vilbel ist weiterhin gesperrt.</li><li>Auf der RB34 ist kein Betrieb möglich.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>RB34: Wir haben für Sie ab ca. 10:35 Uhr einen Ersatzverkehr mit 6 Bussen der Firma Holiday Reisen zwischen Bad Vilbel und Glauburg-Stockheim eingerichtet, der im Pendel verkehrt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "headline": "Zugausfälle in Bad Vilbel",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RB34: (Frankfurt(Main)Hbf -) Bad Vilbel - Nidderau - Glauburg-Stockheim</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Auf der RB34 ist kein Betrieb möglich.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Wir haben für Sie einen Ersatzverkehr mit 6 Bussen der Firma Holiday Reisen zwischen Bad Vilbel und Glauburg-Stockheim eingerichtet, der im Pendel verkehrt.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "02.05.2026",
       "durationEnd": "02.05.2026",
       "mapHref": "https://karte.bahn.de/detail/6e89ebe9-fd06-49e7-8fbe-e235c0bf43d5",
@@ -472,7 +472,6 @@
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN",
         "REGIONAL"
       ],
       "states": [
@@ -483,19 +482,9 @@
           "name": "RB 34",
           "filterName": "RB 34",
           "property": "REGIONAL"
-        },
-        {
-          "name": "RE 30",
-          "filterName": "RE 30",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 Rhein-Main",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "02.05.2026 10:35",
+      "lastModified": "02.05.2026 11:14",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
