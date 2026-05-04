@@ -140,7 +140,7 @@
       "summary": "Die S5 fährt aktuell nur zwischen Stade und Diebsteich. Der Grund sind kurzfristige Bauarbeiten an der Strecke.",
       "text": "<p>Bitte nutzen Sie zwischen Pinneberg/Elbgaustraße und Diebsteich die Züge der Linie S3.</p>",
       "durationBegin": "04.05.2026",
-      "durationEnd": "04.05.2026",
+      "durationEnd": "05.05.2026",
       "mapHref": "https://karte.bahn.de/detail/842ab878-4a0b-47ec-9cac-85e58ff67e0f",
       "images": [],
       "downloads": [],
@@ -159,61 +159,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "04.05.2026 15:16",
+      "lastModified": "04.05.2026 17:25",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/ec049917-c57d-4c0d-b671-ce34ca5fb970",
       "magnoliaPath": "/aktuell/nord/no_service_construction"
-    },
-    {
-      "id": "d8901a43-7301-442f-9cd3-04ccd3a33e33",
-      "disruptionId": "bfbb92c0-296b-4d64-9c24-bf477607c021",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Beeinträchtigung durch Vandalismus"
-      },
-      "headline": "Die Strecke zwischen Ludwigshafen(Rh)Hbf und Neustadt(Weinstr.)Hbf ist im Moment beeinträchtigt.",
-      "summary": "Der Grund ist die Beeinträchtigung durch Vandalismus.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Ludwigshafen(Rh)Hbf &lt;&gt; Neustadt(Weinstr.)Hbf</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S1 - Homburg(Saar) &lt;&gt; Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Osterburken  </li><li>S2 - Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Mosbach</li><li>RE1 - Koblenz &lt;&gt; Trier &lt;&gt; Saarbrücken &lt;&gt; Kaiserslautern &lt;&gt; Neustadt &lt;&gt; Mannheim</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Um die Strecke zu entlasten verkehrt die S-Bahn nur im Stundentakt zwischen Ludwigshafen(Rh)Hbf und Neustadt(Weinstr)Hbf. Es kann zu Verspätungen und weiteren Ausfällen kommen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit 10 Bussen ist zwischen Schifferstadt und Neustadt(Weinstr)Hbf eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "04.05.2026",
-      "durationEnd": "04.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/bfbb92c0-296b-4d64-9c24-bf477607c021",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Neckar",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Neckar",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.05.2026 16:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d8901a43-7301-442f-9cd3-04ccd3a33e33",
-      "magnoliaPath": "/aktuell/mitte/massive_impairment_other_cause"
     },
     {
       "id": "3c123e9b-3ab2-4e88-8af5-6d5c807fc20c",
@@ -446,6 +397,43 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "11be9df8-a30a-4352-8b75-7f96e582b903",
+      "disruptionId": "9e5a03ef-7bf0-4bce-b3fa-a6aa0d59e3f4",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S5: Streckenstörung",
+      "summary": "Aktuell kommt es auf der S5 zwischen Stade und Buxtehude zu Verspätungen und Ausfälle. Grund: Technische Störung an der Strecke.",
+      "text": "<p>Bitte nutzen sie auch die Züge der Start mit den zusätzlichen Haltestellen Neukloster, Dollern und Agathenburg. </p>",
+      "durationBegin": "04.05.2026",
+      "durationEnd": "05.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/9e5a03ef-7bf0-4bce-b3fa-a6aa0d59e3f4",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.05.2026 18:27",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/11be9df8-a30a-4352-8b75-7f96e582b903",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
