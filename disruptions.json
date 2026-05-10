@@ -262,6 +262,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "91008879-6421-48af-8315-c0625f8ffeb9",
+      "disruptionId": "d8e47c47-3edf-4115-a644-db04d2f6386c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "S 7 Icking ↔ Wolfratshausen: Technische Störung an einem Zug",
+      "summary": "Zwischen Icking und Wolfratshausen sind ab ca. 14:25 Uhr keine Zugfahrten möglich. ",
+      "text": "<p>Ab den folgenden Fahrten entfallen die S-Bahnen der Linie S7 zwischen Icking und Wolfratshausen:</p><p><strong>S7 Hauptbahnhof ↔ Wolfratshausen</strong></p><ul><li>S 7 Hauptbahnhof Abfahrt 13:54 Uhr → Icking Ankunft 14:29 Uhr</li></ul><p>Die S-Bahnen wenden in Icking.</p><p>Ein Ersatzverkehr zwischen Icking und Wolfratshausen ist eingerichtet.</p><p><strong>Bitte benutzen Sie nur Fahrzeuge mit entsprechend gekennzeichneter \"Ersatzverkehr\" Beschilderung.</strong></p><p>Bitte rechnen Sie mit längeren Reisezeiten.</p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "10.05.2026",
+      "durationEnd": "10.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/d8e47c47-3edf-4115-a644-db04d2f6386c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-10/254f7a8c-afab-4d0c-acc0-464e3146a808st%25C3%25B6rungskarte_20260510-130742.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-10/254f7a8c-afab-4d0c-acc0-464e3146a808st%25C3%25B6rungskarte_20260510-130742.png",
+          "info": "",
+          "alt": "Störungskarte 10.05.2026 13:07:42",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.05.2026 13:33",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/91008879-6421-48af-8315-c0625f8ffeb9",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_vehicle1"
+    },
+    {
       "id": "ca3b8315-7c79-4eea-bffd-8f551d7dffde",
       "disruptionId": "283d6a48-4204-4214-b8a0-16b299f63996",
       "author": "S_BAHN_MUC",
@@ -801,56 +846,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "2572e335-a455-4e21-b6d5-4d71471f9c1e",
-      "disruptionId": "46612e8f-2280-4366-ba2e-5e2392c3070b",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S 1 / S 8 Flughafen Terminal: Polizeieinsatz",
-      "summary": "Das Gleis 2 am Flughafen Besucherpark ist derzeit gesperrt.",
-      "text": "<p>Es kommt zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.</p><p>Grund hierfür ist ein Polizeieinsatz am Flughafen Besucherpark.</p>",
-      "durationBegin": "10.05.2026",
-      "durationEnd": "10.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/46612e8f-2280-4366-ba2e-5e2392c3070b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-10/64cbfc24-2e74-4c1d-ac73-24a2d56315b2st%25C3%25B6rungskarte_20260510-125007.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-10/64cbfc24-2e74-4c1d-ac73-24a2d56315b2st%25C3%25B6rungskarte_20260510-125007.png",
-          "info": "",
-          "alt": "Störungskarte 10.05.2026 12:50:07",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.05.2026 12:51",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2572e335-a455-4e21-b6d5-4d71471f9c1e",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity3"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
