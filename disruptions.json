@@ -274,6 +274,58 @@
       "magnoliaPath": "/aktuell/bayern/impairment_construction"
     },
     {
+      "id": "fac6e99b-9cba-4f2a-9580-7e0888517a78",
+      "disruptionId": "a38e7362-ae2d-48b1-a8a6-d861ee980834",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Teil- und Zugausfälle bei der S-Bahn Rhein-Main",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S5: Friedrichsdorf(Taunus) - Bad Homburg - Oberursel(Taunus) - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd</li><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li><li>S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf</li></ul><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die S1 verkehrt nur zwischen Wiesbaden Hbf - Frankfurt-Griesheim und zwischen Rödermark Ober-Roden - Frankfurt(Main)Hbf (tief). Die S1 verkehrt im 30-Minuten-Takt.</li><li>Die S2 verkehrt nur zwischen Offenbach(Main)Hbf - Dietzenbach Bahnhof. Die S2 verkehrt im 30-Minuten-Takt.</li><li>Die S5 verkehrt im 30-Minuten-Takt.</li><li>Die S8 verkehrt nur zwischen Wiesbaden Hbf - Frankfurt(Main)Hbf. Die zusätzlichen Züge der S8 zwischen Frankfurt(Main) Hbf - Kelsterbach entfallen.</li><li>Die S9 verkehrt nur zwischen Hanau Hbf und Frankfurt(Main) Hbf (tief).</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Für die S1 nutzen Sie bitte alternativ die Züge der Linien RE20 und RB22 zwischen Frankfurt-Griesheim und Frankfurt(Main)Hbf.  Aufgrund eines Systemfehlers können die Zusatzhalte der Linien RE20 und RB22 teilweise nicht angezeigt werden.</li><li>Für die S2 nutzen Sie bitte alternativ die Züge der Linien RE20 und RB22. Diese halten zwischen Frankfurt(Main) Hbf und Niedernhausen an allen Unterwegsbahnhöfen.  Auch hier können aufgrund eines Systemfehlers die Zusatzhalte  der Linien RE20 und RB22 teilweise nicht angezeigt werden.</li><li>Zwischen Offenbach(Main) Ost - Frankfurt(Main) Hbf (tief) nutzen Sie bitte die S9.</li><li>Zwischen Frankfurt - Frankfurt Flughafen - Rüsselheim und Mainz-Bischofsheim nutzen Sie bitte die S8.</li><li>Zwischen Mainz-Kastel - Mainz-Bischofsheim nutzen Sie bitte die regionalen Buslinien 56 und 58.</li><li>Zwischen Mainz-Kastel - Wiesbaden nutzen Sie bitte die S1.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "11.05.2026",
+      "durationEnd": "13.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/a38e7362-ae2d-48b1-a8a6-d861ee980834",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 9",
+          "filterName": "S 9 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "12.05.2026 19:19",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fac6e99b-9cba-4f2a-9580-7e0888517a78",
+      "magnoliaPath": "/aktuell/hessen/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -596,56 +648,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "33f73fa8-fc48-4a02-b061-5290a2958e85",
-      "disruptionId": "90e061e2-012d-46cb-8935-daa85214cfd5",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S 6 / S 4 Haar ↔ Zorneding: Polizeieinsatz",
-      "summary": "Zwischen Haar und Zorneding kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
-      "durationBegin": "12.05.2026",
-      "durationEnd": "12.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/90e061e2-012d-46cb-8935-daa85214cfd5",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-12/219c9d3d-839f-4872-b9b6-33d0fd3b5f2ast%25C3%25B6rungskarte_20260512-183334.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-12/219c9d3d-839f-4872-b9b6-33d0fd3b5f2ast%25C3%25B6rungskarte_20260512-183334.png",
-          "info": "",
-          "alt": "Störungskarte 12.05.2026 18:33:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.05.2026 18:35",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/33f73fa8-fc48-4a02-b061-5290a2958e85",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_police_activity1"
     },
     {
       "id": "f0556e99-68ed-454e-8f09-041b81607ab4",
