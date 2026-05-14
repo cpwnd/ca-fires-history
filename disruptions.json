@@ -415,6 +415,48 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "d77dd3ea-7024-44e0-8d98-4352994ca9e7",
+      "disruptionId": "3321a810-eec4-44bc-a53f-2b02f738fae0",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technischer Defekt an einem anderen Zug"
+      },
+      "headline": "Folgeverspätungen in Frankfurt-Griesheim",
+      "summary": "Bei der S-Bahn Rhein-Main normalisiert sich der Bahnbetrieb wieder.",
+      "text": "<strong>🚆 Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><p><strong>✅ Auf der S 1 und S 2 kommt es zu Folgeverspätungen. Die Züge fahren wieder auf der geplanten Strecke mit allen geplanten Halten.</strong></p><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "14.05.2026",
+      "durationEnd": "14.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/3321a810-eec4-44bc-a53f-2b02f738fae0",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "14.05.2026 19:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d77dd3ea-7024-44e0-8d98-4352994ca9e7",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_vehicle"
+    },
+    {
       "id": "32c8424c-1443-4644-8855-e7dbfb133230",
       "disruptionId": "6fc211ae-31c3-41df-bac4-b5c835f18008",
       "author": "S_BAHN_RM",
@@ -465,56 +507,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/32c8424c-1443-4644-8855-e7dbfb133230",
       "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "d77dd3ea-7024-44e0-8d98-4352994ca9e7",
-      "disruptionId": "3321a810-eec4-44bc-a53f-2b02f738fae0",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
-      },
-      "headline": "Verspätungen und Umleitungen in Frankfurt-Griesheim",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Zügen in Richtung Dietzenbach Bahnhof / Niedernhausen(Taunus) werden von Frankfurt-Höchst bis Frankfurt Hbf (tief) ohne Zwischenhalt umgeleitet. Die Halte Frankfurt-Griesheim und Frankfurt-Nied entfallen auf diesen Zügen.</li></ul><strong>↪️ Empfehlung:</strong><ul><li>Nutzen Sie die Züge der Gegenrichtung um die ausfallenden Halte zu erreichen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "14.05.2026",
-      "durationEnd": "14.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/3321a810-eec4-44bc-a53f-2b02f738fae0",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-05-14/7775c918-a5ce-48e4-ac95-3b302d7a1e19st%25C3%25B6rungskarte_20260514-144754.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-05-14/7775c918-a5ce-48e4-ac95-3b302d7a1e19st%25C3%25B6rungskarte_20260514-144754.png",
-          "info": "",
-          "alt": "Störungskarte 14.05.2026 14:47:54",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.05.2026 14:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d77dd3ea-7024-44e0-8d98-4352994ca9e7",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_vehicle"
     },
     {
       "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
@@ -760,28 +752,20 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
-      "id": "7f3311e8-080e-4e01-957c-cbc22fe6f47f",
-      "disruptionId": "35ed9431-be85-4e8f-89ed-b496cbf21e63",
+      "id": "0be929ae-66ae-42f6-b4e9-89d1ffad489c",
+      "disruptionId": "2339d205-683d-440c-8e98-6ec200f08070",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
+        "category": "medical_emergency",
+        "label": "Ärztliche Versorgung eines Fahrgastes"
       },
-      "headline": "Stammstrecke Pasing ↔ Ostbahnhof: Unbefugte Personen auf der Strecke",
-      "summary": "Zwischen Pasing und Ostbahnhof sind keine Zugfahrten möglich.",
-      "text": "<p>❗Die S 5 fährt abweichend der regulären Linienführung wie folgt:</p><p><strong>S 5 Kreuzstraße ↔ Pasing</strong></p><ul><li>Verkehrt nur&nbsp;<strong>Kreuzstraße&nbsp;</strong>↔&nbsp;<strong>Giesing.</strong></li></ul><p><strong>Alternative:</strong></p><ul><li>Pasing ↔ Weßling:<strong> S 8</strong> Richtung Herrsching</li></ul><p></p><p>❗Die S-Bahnen der Linie S 8 werden umgeleitet.</p><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li>Die S8 wird zwischen<strong>&nbsp;Pasing&nbsp;</strong>↔<strong>&nbsp;Ostbahnhof Gleis 7-13 (Fernbahn)</strong>&nbsp;↔&nbsp;<strong>Daglfing&nbsp;</strong>umgeleitet und die Stammstrecke wird nicht angefahren. Der Halt&nbsp;<strong>Leuchtenbergring&nbsp;</strong>entfällt.&nbsp;</li></ul><p>Alternativen:</p><ul><li><ul><li>Ostbahnhof ↔ Leuchtenbergring: Tram 21</li></ul></li></ul><p></p><p></p><p>Die S-Bahnen werden derzeit zurückgehalten. Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "headline": "S 8 Flughafen: Ärztliche Versorgung eines Fahrgastes",
+      "summary": "Im Bereich Flughafen kommt es zu vereinzelten Folgeverspätungen von bis zu 10 Minuten und vorzeitigen Zugwenden.",
+      "text": "<p>Der Grund hierfür war eine ärztliche Versorgung eines Fahrgastes.</p>",
       "durationBegin": "14.05.2026",
       "durationEnd": "14.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/35ed9431-be85-4e8f-89ed-b496cbf21e63",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-14/d86d44bd-06c1-4604-bf77-b819d0780395st%25C3%25B6rungskarte_20260514-180337.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-14/d86d44bd-06c1-4604-bf77-b819d0780395st%25C3%25B6rungskarte_20260514-180337.png",
-          "info": "",
-          "alt": "Störungskarte 14.05.2026 18:03:37",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/2339d205-683d-440c-8e98-6ec200f08070",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
@@ -791,93 +775,18 @@
         "BY"
       ],
       "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
         {
           "name": "S 8",
           "filterName": "S 8 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "14.05.2026 18:20",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/7f3311e8-080e-4e01-957c-cbc22fe6f47f",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
-    },
-    {
-      "id": "506c76e1-cce7-4ab4-abfc-ef6b0fd4b11b",
-      "disruptionId": "54e1b609-a66a-40ba-ab19-c9ccbb89d33e",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "S 7 Solln: Technische Störung an einem Zug",
-      "summary": "Im Bereich Solln kommt es in beiden Richtungen zu Folgeverspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür war eine technische Störung am Zug.</p>",
-      "durationBegin": "14.05.2026",
-      "durationEnd": "14.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/54e1b609-a66a-40ba-ab19-c9ccbb89d33e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-14/df5a20b7-9db8-4b8d-857d-6603371a153cst%25C3%25B6rungskarte_20260514-164501.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-14/df5a20b7-9db8-4b8d-857d-6603371a153cst%25C3%25B6rungskarte_20260514-164501.png",
-          "info": "",
-          "alt": "Störungskarte 14.05.2026 16:45:01",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.05.2026 17:52",
+      "lastModified": "14.05.2026 19:51",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/506c76e1-cce7-4ab4-abfc-ef6b0fd4b11b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle0"
+      "detailPagePath": "/service/fahrplaene/0be929ae-66ae-42f6-b4e9-89d1ffad489c",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_medical_emergency"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
