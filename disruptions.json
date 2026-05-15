@@ -11,22 +11,22 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": " ",
-      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 31. Juli 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 28. August 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 31. Juli 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 28. August 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 15. September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "24.04.2026",
-      "durationEnd": "04.05.2026",
+      "durationEnd": "20.05.2026",
       "mapHref": "https://karte.bahn.de/detail/81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "images": [],
       "downloads": [],
       "links": [
         {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -72,12 +72,49 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "08.05.2026 16:00",
+      "lastModified": "15.05.2026 10:49",
       "expand": true,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
+      "id": "0f447609-bc08-4a78-b913-2958a82cebe3",
+      "disruptionId": "a0f73b24-7c37-4936-bffa-34e2fa25a661",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "S5: Technische Störung an der Strecke\n",
+      "summary": "S5: Zur Zeit fahren keine Züge zwischen Stade und Buxtehude. Ein Ersatzverkehr ist eingerichtet.",
+      "text": "<p> </p>",
+      "durationBegin": "15.05.2026",
+      "durationEnd": "15.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/a0f73b24-7c37-4936-bffa-34e2fa25a661",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.05.2026 11:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0f447609-bc08-4a78-b913-2958a82cebe3",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section1"
     },
     {
       "id": "26efc81f-594a-4ee5-a6c4-58c48c33a495",
