@@ -509,71 +509,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
     },
     {
-      "id": "13ba0015-26d6-47d5-bbc9-ae10dcbeda91",
-      "disruptionId": "7330860f-2976-4234-ab75-95ed247be231",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Stammstrecke Rosenheimer Platz: Bauarbeiten",
-      "summary": "Im Bereich Rosenheimer Platz kommt es zu Verspätungen von bis zu 15 Minuten und Teilausfällen .",
-      "text": "<p>Der Grund hierfür sind Bauarbeiten.</p>",
-      "durationBegin": "15.05.2026",
-      "durationEnd": "15.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/7330860f-2976-4234-ab75-95ed247be231",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-15/fd9d7915-f8b8-4d05-9208-de4c583c7bd3st%25C3%25B6rungskarte_20260515-212541.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-15/fd9d7915-f8b8-4d05-9208-de4c583c7bd3st%25C3%25B6rungskarte_20260515-212541.png",
-          "info": "",
-          "alt": "Störungskarte 15.05.2026 21:25:41",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "15.05.2026 21:55",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/13ba0015-26d6-47d5-bbc9-ae10dcbeda91",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_construction"
-    },
-    {
       "id": "b669a702-fa2f-4849-ae05-496dac14f2ab",
       "disruptionId": "ed56bf96-8f69-47ba-bcf3-e5ff665c0a86",
       "author": "S_BAHN_RM",
@@ -899,49 +834,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
-    },
-    {
-      "id": "5d64b281-ed92-4c64-8ce9-80f3872d48d9",
-      "disruptionId": "c8667243-ee67-4996-b073-2a9cf33d9bac",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Beeinträchtigungen zwischen Nürnberg und Ingolstadt",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Kinding(Altmühltal) und Ingolstadt Nord kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge werden verspäten sich dadurch um bis zu 15 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Nürnberg und Ingolstadt/München</li></ul><p>Züge mit Halt in Augsburg Hbf sind nicht betroffen.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll im Laufe des Abends des 15.05.2026 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "15.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/c8667243-ee67-4996-b073-2a9cf33d9bac",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-15/6ecd369f-c01f-41cf-b86a-a41fb669ca66st%25C3%25B6rungskarte_20260515-185222.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-15/6ecd369f-c01f-41cf-b86a-a41fb669ca66st%25C3%25B6rungskarte_20260515-185222.png",
-          "info": "",
-          "alt": "Störungskarte 15.05.2026 18:52:22",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "15.05.2026 18:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/5d64b281-ed92-4c64-8ce9-80f3872d48d9",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
