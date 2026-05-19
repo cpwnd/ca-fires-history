@@ -2,6 +2,58 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "8f6eca59-65c8-4bc2-a6b6-2e8ec7ed667e",
+      "disruptionId": "5f5d74a7-d05b-4d7f-bafc-f2eb25af14bd",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Beschädigung einer Brücke"
+      },
+      "headline": "Beeinträchtigungen zwischen Düsseldorf und Köln",
+      "summary": "Aufgrund der Beschädigung einer Brücke durch Straßenverkehr ist die Strecke zwischen Leverkusen und Düsseldorf derzeit nur eingeschränkt nutzbar. Dadurch kommt es zu Verpätungen, Ausfall von Halten und Zugausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Frankfurt(M) und Amsterdam</li><li>ICE/IC Züge zwischen KÖLN und Düsseldorf</li></ul><p></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "19.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/5f5d74a7-d05b-4d7f-bafc-f2eb25af14bd",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-19/3e586635-782b-4847-854e-4a7f0a5e447bst%25C3%25B6rungskarte_20260519-100703.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-05-19/3e586635-782b-4847-854e-4a7f0a5e447bst%25C3%25B6rungskarte_20260519-100703.png",
+          "info": "",
+          "alt": "Störungskarte 19.05.2026 10:07:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "ST",
+        "BE",
+        "BW",
+        "BY",
+        "NW",
+        "HB",
+        "NI",
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "19.05.2026 10:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/8f6eca59-65c8-4bc2-a6b6-2e8ec7ed667e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "c2e97788-4073-45fa-8b56-6fb2486151f4",
       "disruptionId": "7844d78b-0619-4faf-9171-102533d25f50",
       "author": "FERNVERKEHR_AG",
@@ -48,63 +100,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
-      "id": "be064e79-fd42-468e-a897-7347db566d6c",
-      "disruptionId": "d7a0200b-cf9a-46c2-87dc-f9cfcc26795b",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Verkehrsmeldung für die Linien RB 55 und RE 6 -",
-      "summary": "Dienstag, 19.05.2026 04:38 Uhr bis vsl. Mittwoch, 20.05.2026 23:30 Uhr",
-      "text": "<p>Aufgrund einer Reparatur an der Strecke fallen die Züge des RE6 Hennigsdorf(b Berlin) ↔ Kremmen und die Züge der RB55 Kremmen ↔ Velten(Mark) aus.</p><p><strong>RE6 und RB55</strong></p><p>Ein Ersatzverkehr mit Bussen wurde eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
-      "durationBegin": "19.05.2026",
-      "durationEnd": "20.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/d7a0200b-cf9a-46c2-87dc-f9cfcc26795b",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.vbb.de/fahrinfo/",
-          "label": "VBB-fahrinfo",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BB",
-        "BE",
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "RB 55",
-          "filterName": "RB 55",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 6",
-          "filterName": "RE 6",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "19.05.2026 06:27",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/be064e79-fd42-468e-a897-7347db566d6c",
-      "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section0"
-    },
-    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -114,7 +109,7 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": " ",
-      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Wandsbeker Chaussee</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 31. Juli 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 28. August 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 15. September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>🚧 Bergedorf  Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 26. Oktober 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Wandsbeker Chaussee</p><p></p><p>❌ Ohlsdorf</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 02. Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 31. Juli 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 28. August 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 15. September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 30. September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich am 26. Oktober 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "24.04.2026",
       "durationEnd": "29.05.2026",
       "mapHref": "https://karte.bahn.de/detail/81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
@@ -122,14 +117,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -175,11 +170,66 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "18.05.2026 17:03",
+      "lastModified": "19.05.2026 09:32",
       "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
+    },
+    {
+      "id": "be064e79-fd42-468e-a897-7347db566d6c",
+      "disruptionId": "d7a0200b-cf9a-46c2-87dc-f9cfcc26795b",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Verkehrsmeldung für die Linien RB 55 und RE 6 -",
+      "summary": "Dienstag, 19.05.2026 04:38 Uhr bis vsl. Donnerstag, 28.05.2026 23:30 Uhr",
+      "text": "<p><strong>RE6 und RB55</strong></p><p>Aufgrund einer Reparatur an der Strecke fallen die Züge des RE6 zwischen Hennigsdorf(b Berlin) ↔ Kremmen und die Züge der RB55 zwischen Kremmen ↔ Velten(Mark) bis vsl. <strong>28.05.2026 </strong>aus.</p><p>Ein Ersatzverkehr mit Bussen wurde eingerichtet.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "19.05.2026",
+      "durationEnd": "28.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/d7a0200b-cf9a-46c2-87dc-f9cfcc26795b",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RB 55",
+          "filterName": "RB 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "19.05.2026 11:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/be064e79-fd42-468e-a897-7347db566d6c",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "26efc81f-594a-4ee5-a6c4-58c48c33a495",
