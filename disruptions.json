@@ -2,47 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "8176a120-8f7f-4637-a480-f063945a5131",
-      "disruptionId": "a5410cde-ab0c-46fa-859c-9df9cc2edb88",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Bus"
-      },
-      "headline": "Es kommt zu Massive Beeinträchtigung auf der Linie Bus X4",
-      "summary": "Aufgrund von Technische Störung am Bus kommt es zu Verspätungen auf der Linie Bus X4",
-      "text": "<p><strong>Zeitraum:</strong> Sonntag, 24. Mai 2026, 16:00 Uhr bis Sonntag, 24. Mai 2026, 18:30 Uhr</p><p><strong>Betroffene Linien:</strong> Bus X4 </p><p>Grund hierfür sind Technische Störung am Bus.</p><p><strong>Unsere Empfehlung: </strong>Keine </p>",
-      "durationBegin": "24.05.2026",
-      "durationEnd": "24.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/a5410cde-ab0c-46fa-859c-9df9cc2edb88",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "BB",
-        "BE",
-        "SH",
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "Bus X4",
-          "filterName": "Bus X4",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "24.05.2026 17:12",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8176a120-8f7f-4637-a480-f063945a5131",
-      "magnoliaPath": "/aktuell/massive_impairment_technical_problem_vehicle"
-    },
-    {
       "id": "b69c3e64-3a8f-42d1-a390-5dbdc4a98775",
       "disruptionId": "b77c6841-c341-4f02-b427-4a74f67e4da1",
       "author": "DEUTSCHE_BAHN",
@@ -587,6 +546,101 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "0750f67b-f87b-4f79-8101-256e50d69610",
+      "disruptionId": "d7b5adb0-6de7-43e0-a8d5-f9a5dfc2d88a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 1 Feldmoching: Reparatur an einem Signal beendet",
+      "summary": "Es kommt noch zu Folgeverspätungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür war eine Reparatur an einem Signal.</p>",
+      "durationBegin": "24.05.2026",
+      "durationEnd": "24.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/d7b5adb0-6de7-43e0-a8d5-f9a5dfc2d88a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-24/7e9e1b77-71f6-4344-8c6f-96bd66ee29aast%25C3%25B6rungskarte_20260524-184353.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-24/7e9e1b77-71f6-4344-8c6f-96bd66ee29aast%25C3%25B6rungskarte_20260524-184353.png",
+          "info": "",
+          "alt": "Störungskarte 24.05.2026 18:43:53",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.05.2026 19:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0750f67b-f87b-4f79-8101-256e50d69610",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section16"
+    },
+    {
+      "id": "5d7b2bf6-64c3-4c55-93f2-d5eb1d2423b7",
+      "disruptionId": "d90ef8f8-0d71-487b-b7de-cc9c7e73b284",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 7 Höllriegelskreuth: Technischer Defekt an einem Bahnübergang ",
+      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "24.05.2026",
+      "durationEnd": "24.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/d90ef8f8-0d71-487b-b7de-cc9c7e73b284",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-24/40b9f328-3651-44a4-8c9f-2ea17e68fcdcst%25C3%25B6rungskarte_20260524-183051.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-24/40b9f328-3651-44a4-8c9f-2ea17e68fcdcst%25C3%25B6rungskarte_20260524-183051.png",
+          "info": "",
+          "alt": "Störungskarte 24.05.2026 18:30:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.05.2026 19:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5d7b2bf6-64c3-4c55-93f2-d5eb1d2423b7",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section15"
+    },
+    {
       "id": "ebbf4de0-1e7d-46b1-b206-f43354207f70",
       "disruptionId": "3b829d05-5d72-41b3-bd92-146e7b012e86",
       "author": "REGIO_BW",
@@ -595,7 +649,7 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Beeinträchtigung in Stuttgart Hbf",
-      "summary": "Der Bahnhof Stuttgart Hbf ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 18:00 Uhr. Der Grund sind Bauarbeiten am Bahnsteig. Gleis 2 ist im Moment gesperrt. Hierdurch kann es zu kurzfristigen Änderungen der Ankunfts-- bzw. Abfahrtsgleise kommen, bitte rechnen Sie auch mit Verspätungen.  Bitte achten Sie auf Lautsprecherdurchsagen und auf die Bildschirminformationen an den Bahnsteigen. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "summary": "Der Bahnhof Stuttgart Hbf ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 20:00 Uhr. Der Grund sind Bauarbeiten am Bahnsteig. Gleis 2 ist im Moment gesperrt. Hierdurch kann es zu kurzfristigen Änderungen der Ankunfts-- bzw. Abfahrtsgleise kommen, bitte rechnen Sie auch mit Verspätungen.  Bitte achten Sie auf Lautsprecherdurchsagen und auf die Bildschirminformationen an den Bahnsteigen. Bitte prüfen Sie Ihre Reiseverbindung.",
       "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 5 (Stuttgart – Ulm – Friedrichshafen) </li><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li><li>RE 14a (Stuttgart – Horb – Rottweil) </li><li>MEX 19 (Stuttgart – Gaildorf West)</li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "24.05.2026",
       "durationEnd": "24.05.2026",
@@ -616,7 +670,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.05.2026 17:29",
+      "lastModified": "24.05.2026 18:54",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -780,43 +834,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
-    },
-    {
-      "id": "4a3a6f60-4254-4157-8b05-26d7af066501",
-      "disruptionId": "a2f6286a-acbe-46af-836d-15a47ac9690a",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "S2: Streckensperrung",
-      "summary": "Aktuell fährt keine S2 zwischen Hamburg Dammtor und Hamburg Diebsteich. Grund: Polizeieinsatz. Bitte achten Sie auf die Ansagen und Anzeigen am Bahnsteig sowie am und im Zug. ",
-      "text": "<p> </p>",
-      "durationBegin": "24.05.2026",
-      "durationEnd": "24.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/a2f6286a-acbe-46af-836d-15a47ac9690a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "24.05.2026 18:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4a3a6f60-4254-4157-8b05-26d7af066501",
-      "magnoliaPath": "/aktuell/nord/stop_moved_police_activity"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
