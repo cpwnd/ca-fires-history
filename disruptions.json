@@ -616,7 +616,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.05.2026 14:15",
+      "lastModified": "24.05.2026 17:29",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -780,6 +780,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
       "magnoliaPath": "/aktuell/suedost/impairment_construction"
+    },
+    {
+      "id": "4a3a6f60-4254-4157-8b05-26d7af066501",
+      "disruptionId": "a2f6286a-acbe-46af-836d-15a47ac9690a",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S2: Streckensperrung",
+      "summary": "Aktuell fährt keine S2 zwischen Hamburg Dammtor und Hamburg Diebsteich. Grund: Polizeieinsatz. Bitte achten Sie auf die Ansagen und Anzeigen am Bahnsteig sowie am und im Zug. ",
+      "text": "<p> </p>",
+      "durationBegin": "24.05.2026",
+      "durationEnd": "24.05.2026",
+      "mapHref": "https://karte.bahn.de/detail/a2f6286a-acbe-46af-836d-15a47ac9690a",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.05.2026 18:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4a3a6f60-4254-4157-8b05-26d7af066501",
+      "magnoliaPath": "/aktuell/nord/stop_moved_police_activity"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
