@@ -933,56 +933,6 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
-      "id": "e4547c4d-25bc-47c7-a19e-d1e53809d5e9",
-      "disruptionId": "75b648a2-2e39-4500-8f4e-77ca18b9e77e",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 6 Zorneding: Reparatur an einem Signal",
-      "summary": "Im Bereich Zorneding kommt es zu Verspätungen von 5 bis 10 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "28.05.2026",
-      "durationEnd": "28.05.2026",
-      "mapHref": "https://karte.bahn.de/detail/75b648a2-2e39-4500-8f4e-77ca18b9e77e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-28/28060d3e-35b9-4547-860e-9ef3a239a386st%25C3%25B6rungskarte_20260528-094206.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-05-28/28060d3e-35b9-4547-860e-9ef3a239a386st%25C3%25B6rungskarte_20260528-094206.png",
-          "info": "",
-          "alt": "Störungskarte 28.05.2026 09:42:06",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.05.2026 10:41",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e4547c4d-25bc-47c7-a19e-d1e53809d5e9",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
-    },
-    {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
       "disruptionId": "76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "author": "S_BAHN_S",
