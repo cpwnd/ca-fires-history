@@ -2,6 +2,54 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "f3d778fa-7121-4d48-a4bf-b6eb8fa4f471",
+      "disruptionId": "e6ac4f10-680e-4d2a-a611-e557431ee33f",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Hannover und Berlin",
+      "summary": "Aufgrund von Hannover Karl-Wichert-Allee ist die Strecke zwischen Hannover und Berlin derzeit gesperrt. Dadurch kommt es zu Ausfälle, Teilausfälle und Verspätung im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Flensburg - Hamburg - Frankfurt (M) - Frankfurt (M) Flugh. Regiobf.</li><li>Aachen - Mönchengladbach- Köln / Düsseldorf - Hannover - Berlin</li><li>Aachen - Köln - Hannover - Berlin</li><li>Oberstdorf - Stuttgart - Mannheim - Mainz - Köln - Dortmund - Hannover - Magdeburg - Leipzig - Dresden</li><li>Norddeich Mole - Emden - Bremen - Hannover - Magdeburg - Leipzig - Dresden</li><li>Berlin - Hannover - Osnabrück - Bad Bentheim - Amsterdam&nbsp;</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/e6ac4f10-680e-4d2a-a611-e557431ee33f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-04/50109b62-319b-4db2-8e3d-6d28caa7a274st%25C3%25B6rungskarte_20260604-063501.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-04/50109b62-319b-4db2-8e3d-6d28caa7a274st%25C3%25B6rungskarte_20260604-063501.png",
+          "info": "",
+          "alt": "Störungskarte 04.06.2026 06:35:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NW",
+        "SN",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.06.2026 06:38",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/f3d778fa-7121-4d48-a4bf-b6eb8fa4f471",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -386,7 +434,7 @@
       },
       "headline": "Die Strecke zwischen Trier Hbf und Saarburg(Bz Trier) ist beeinträchtigt. Züge fahren langsamer.",
       "summary": "Der Grund sind Bauarbeiten.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Trier Hbf &lt;&gt; Saarburg(Bz Trier)</p><p>🕜<strong>Dauer der beeinträchtigt bis vsl. 07.06.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB70 - Kaiserslautern &lt;&gt; Homburg &lt;&gt; Saarbücken &lt;&gt; Dillingen &lt;&gt; Merzig</li><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li><li>RB81 - Koblenz &lt;&gt; Cochem &lt;&gt; Bullay &lt;&gt; Wittlich &lt;&gt; Trier </li><li>RB82 - Trier &lt;&gt; Perl  </li><li>RB83 - Wittlich &lt;&gt; Trier &lt;&gt; Wasserbillig &lt;&gt; Luxembourg</li><li>RE1 - Koblenz &lt;&gt; Trier &lt;&gt; Saarbrücken &lt;&gt; Kaiserslautern &lt;&gt; Neustadt &lt;&gt; Mannheim</li><li>RE11 - Luxembourg &lt;&gt; Trier</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kann es zu Verspätungen und zu kurzfristigen Zugausfällen kommen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit zwei Bussen ist zwischen Merzig und Trier ab ca.19:00 Uhr für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Trier Hbf &lt;&gt; Saarburg(Bz Trier)</p><p>🕜<strong>Dauer der beeinträchtigt bis vsl. 07.06.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB70 - Kaiserslautern &lt;&gt; Homburg &lt;&gt; Saarbücken &lt;&gt; Dillingen &lt;&gt; Merzig</li><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li><li>RB81 - Koblenz &lt;&gt; Cochem &lt;&gt; Bullay &lt;&gt; Wittlich &lt;&gt; Trier </li><li>RB82 - Trier &lt;&gt; Perl  </li><li>RB83 - Wittlich &lt;&gt; Trier &lt;&gt; Wasserbillig &lt;&gt; Luxembourg</li><li>RE1 - Koblenz &lt;&gt; Trier &lt;&gt; Saarbrücken &lt;&gt; Kaiserslautern &lt;&gt; Neustadt &lt;&gt; Mannheim</li><li>RE11 - Luxembourg &lt;&gt; Trier</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kann es zu Verspätungen und zu kurzfristigen Zugausfällen kommen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit zwei Bussen ist zwischen Merzig und Trier ist für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "03.06.2026",
       "durationEnd": "07.06.2026",
       "mapHref": "https://karte.bahn.de/detail/86328076-8f6c-47b2-b936-0cb287c55486",
@@ -436,7 +484,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "03.06.2026 18:15",
+      "lastModified": "04.06.2026 05:53",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -533,6 +581,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "601c6b49-f808-4561-bf13-b88f72d6f778",
+      "disruptionId": "7c67c66b-fbd0-4de3-88a0-2866241f4108",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S7 Icking - Wolfratshausen: Reparatur an der Strecke in Icking.",
+      "summary": "Die S-Bahnen fahren von Icking in Richtung Wolfratshausen bis auf weiteres mit verminderter Geschwindigkeit. Deswegen kommt es jetzt in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. \n\n",
+      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;ist die andauernde Reparatur an der Strecke in Icking. </p><p>Über die Dauer der Störung liegen uns noch keine Informationen vor.</p>",
+      "durationBegin": "03.06.2026",
+      "durationEnd": "04.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/7c67c66b-fbd0-4de3-88a0-2866241f4108",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/6d888e6c-e3ed-4d96-9e86-28bfa9264338st%25C3%25B6rungskarte_20260603-150151.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/6d888e6c-e3ed-4d96-9e86-28bfa9264338st%25C3%25B6rungskarte_20260603-150151.png",
+          "info": "",
+          "alt": "Störungskarte 03.06.2026 15:01:51",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.06.2026 02:03",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/601c6b49-f808-4561-bf13-b88f72d6f778",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
       "id": "edc01373-76e7-48d1-833a-565f93fbf794",
