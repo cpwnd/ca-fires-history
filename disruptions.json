@@ -10,16 +10,16 @@
         "label": "Reparatur an der Oberleitung"
       },
       "headline": "Beeinträchtigungen zwischen Hannover und Berlin",
-      "summary": "Aufgrund von Hannover Karl-Wichert-Allee ist die Strecke zwischen Hannover und Berlin derzeit gesperrt. Dadurch kommt es zu Ausfälle, Teilausfälle und Verspätung im Fernverkehr der Deutschen Bahn.",
+      "summary": "Aufgrund einer Oberleitungsstörung im Bereich Hannover Karl-Wichert-Allee ist die Strecke zwischen Hannover und Berlin derzeit nur eingeschränkt befahrbar. Dadurch kommt es zu Ausfällen, Teilausfällen und Verspätungen im Fernverkehr der Deutschen Bahn.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Flensburg - Hamburg - Frankfurt (M) - Frankfurt (M) Flugh. Regiobf.</li><li>Aachen - Mönchengladbach- Köln / Düsseldorf - Hannover - Berlin</li><li>Aachen - Köln - Hannover - Berlin</li><li>Oberstdorf - Stuttgart - Mannheim - Mainz - Köln - Dortmund - Hannover - Magdeburg - Leipzig - Dresden</li><li>Norddeich Mole - Emden - Bremen - Hannover - Magdeburg - Leipzig - Dresden</li><li>Berlin - Hannover - Osnabrück - Bad Bentheim - Amsterdam&nbsp;</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "04.06.2026",
       "mapHref": "https://karte.bahn.de/detail/e6ac4f10-680e-4d2a-a611-e557431ee33f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-04/50109b62-319b-4db2-8e3d-6d28caa7a274st%25C3%25B6rungskarte_20260604-063501.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-04/50109b62-319b-4db2-8e3d-6d28caa7a274st%25C3%25B6rungskarte_20260604-063501.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-04/40d1e40b-f93b-45f2-81e3-85101e3c6047st%25C3%25B6rungskarte_20260604-201458.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-04/40d1e40b-f93b-45f2-81e3-85101e3c6047st%25C3%25B6rungskarte_20260604-201458.png",
           "info": "",
-          "alt": "Störungskarte 04.06.2026 06:35:01",
+          "alt": "Störungskarte 04.06.2026 20:14:58",
           "openInNewTab": true
         }
       ],
@@ -43,7 +43,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "04.06.2026 06:38",
+      "lastModified": "04.06.2026 20:19",
       "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/f3d778fa-7121-4d48-a4bf-b6eb8fa4f471",
@@ -189,6 +189,44 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/cfc1460e-dc6f-4088-b697-1d4fb7bd9cf7",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "08d2ad81-79f2-4509-b07b-7a6029e9c24b",
+      "disruptionId": "4909e7f3-d0ec-420a-bb0b-dfa415333776",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "❌ 🟢 S1: Ersatzverkehr zwischen Blankenese und Wedel",
+      "summary": "Aktuell fährt keine 🟢 S1 zwischen Wedel und Blankenese. Grund: 🚑 Personenunfall. ",
+      "text": "<p>🚍 🚖 Bitte nutzen Sie alternativ den Ersatzverkehr mit Bussen und Taxis.</p>",
+      "durationBegin": "04.06.2026",
+      "durationEnd": "04.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/4909e7f3-d0ec-420a-bb0b-dfa415333776",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.06.2026 19:47",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/08d2ad81-79f2-4509-b07b-7a6029e9c24b",
+      "magnoliaPath": "/aktuell/nord/reduced_service_medical_emergency"
     },
     {
       "id": "aded5818-46aa-4510-8081-c10d84fe5a65",
@@ -581,51 +619,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "601c6b49-f808-4561-bf13-b88f72d6f778",
-      "disruptionId": "7c67c66b-fbd0-4de3-88a0-2866241f4108",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S7 Icking - Wolfratshausen: Reparatur an der Strecke in Icking.",
-      "summary": "Die S-Bahnen fahren von Icking in Richtung Wolfratshausen bis auf weiteres mit verminderter Geschwindigkeit. Deswegen kommt es jetzt in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. \n\n",
-      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;ist die andauernde Reparatur an der Strecke in Icking. </p><p>Über die Dauer der Störung liegen uns noch keine Informationen vor.</p>",
-      "durationBegin": "03.06.2026",
-      "durationEnd": "04.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/7c67c66b-fbd0-4de3-88a0-2866241f4108",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/d0d119ff-3a6f-49c8-9c86-16a8ad000013st%25C3%25B6rungskarte_20260603-150151.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/d0d119ff-3a6f-49c8-9c86-16a8ad000013st%25C3%25B6rungskarte_20260603-150151.png",
-          "info": "",
-          "alt": "Störungskarte 03.06.2026 15:01:51",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.06.2026 14:12",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/601c6b49-f808-4561-bf13-b88f72d6f778",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section5"
     },
     {
       "id": "edc01373-76e7-48d1-833a-565f93fbf794",
