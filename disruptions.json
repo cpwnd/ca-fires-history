@@ -59,7 +59,7 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": " Für die Übersicht bitte die Meldung aufklappen:",
-      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Ohlsdorf</p><p></p><p>❌ Kornweg (Klein Borstel)</p><p></p><p>❌ Stade - Aufzug B (Personenunterführung &lt;-&gt; Bahnsteig Gleis 1)</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich bis Ende Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende August 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Mitte September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende November 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Ohlsdorf</p><p></p><p>❌ Kornweg (Klein Borstel)</p><p></p><p>🚧 Wohltorf =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich bis Ende Juni 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende August 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Sternschanze =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Mitte September 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Eidelstedt =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende November 2026.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "24.04.2026",
       "durationEnd": "12.06.2026",
       "mapHref": "https://karte.bahn.de/detail/81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
@@ -67,14 +67,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der HVV-Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -120,7 +120,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "01.06.2026 15:49",
+      "lastModified": "04.06.2026 09:08",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
@@ -598,8 +598,8 @@
       "mapHref": "https://karte.bahn.de/detail/7c67c66b-fbd0-4de3-88a0-2866241f4108",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/6d888e6c-e3ed-4d96-9e86-28bfa9264338st%25C3%25B6rungskarte_20260603-150151.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/6d888e6c-e3ed-4d96-9e86-28bfa9264338st%25C3%25B6rungskarte_20260603-150151.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/047f5ad1-ddd1-400b-9cc1-cae7a4580137st%25C3%25B6rungskarte_20260603-150151.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/047f5ad1-ddd1-400b-9cc1-cae7a4580137st%25C3%25B6rungskarte_20260603-150151.png",
           "info": "",
           "alt": "Störungskarte 03.06.2026 15:01:51",
           "openInNewTab": true
@@ -620,7 +620,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "04.06.2026 02:03",
+      "lastModified": "04.06.2026 09:58",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -886,6 +886,76 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/21d91f0f-46f0-4606-bebd-937d3e540402",
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
+    },
+    {
+      "id": "c3e5d681-3bc6-4906-aac0-e0f144265634",
+      "disruptionId": "a96a96a6-8fc7-4f4d-b9c7-ac1399db77ad",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "Stammstrecke: Technische Störung an einem Zug",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof noch zu Verspätungen von 25 bis 30 Minuten und zu Teilausfällen.",
+      "text": "<p>Die Linie S 8 verkehrt wieder auf Regelweg mit allen Halten durch die Stammstrecke.</p><p>Die technische Störung am Zug wurde behoben.</p>",
+      "durationBegin": "04.06.2026",
+      "durationEnd": "04.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/a96a96a6-8fc7-4f4d-b9c7-ac1399db77ad",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/f4bba252-d08c-43c6-8bb7-994ec72a5b39st%25C3%25B6rungskarte_20260604-100303.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-04/f4bba252-d08c-43c6-8bb7-994ec72a5b39st%25C3%25B6rungskarte_20260604-100303.png",
+          "info": "",
+          "alt": "Störungskarte 04.06.2026 10:03:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.06.2026 10:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c3e5d681-3bc6-4906-aac0-e0f144265634",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
