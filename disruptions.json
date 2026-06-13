@@ -447,43 +447,6 @@
       "magnoliaPath": "/aktuell/suedost/significant_delays_technical_problem_railway_section"
     },
     {
-      "id": "a35fa81c-d965-4558-90a2-352f3a910297",
-      "disruptionId": "c26fbf8d-c0e5-43e2-b471-227275001735",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Magdeburg Hbf ⇄ Braunschweig Hbf - Verspätungen",
-      "summary": "Der Streckenabschnitt zwischen Magdeburg Hbf und Braunschweig Hbf ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 14.06.2026, ganztägig. Der Grund ist die hohe Streckenauslastung durch Umleiterzüge der baubedingt gesperrten Strecke Berlin - Hamburg.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist die hohe Streckenauslastung durch Umleiterzüge der baubedingt gesperrten Strecke Berlin - Hamburg.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie mit Verspätungen und Teilausfällen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 03601 799 4462 (zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "26.03.2026",
-      "durationEnd": "14.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/c26fbf8d-c0e5-43e2-b471-227275001735",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RB 40",
-          "filterName": "RB 40",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "30.03.2026 18:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/a35fa81c-d965-4558-90a2-352f3a910297",
-      "magnoliaPath": "/aktuell/suedost/significant_delays_construction"
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -714,46 +677,49 @@
       "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
     },
     {
-      "id": "7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
-      "disruptionId": "092c7fcc-8ff0-4b7f-b852-7fa3d6c33ebe",
-      "author": "REGIO_SUEDOST",
+      "id": "491df84d-7ba8-4750-964b-3b16bfd149ae",
+      "disruptionId": "acfcd9a0-8567-48f9-a993-2a4f35d6e8b2",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "Stendal Hbf ⇄ Osterburg und Salzwedel ⇄ Uelzen \n - Beeinträchtigung",
-      "summary": "Die Strecke zwischen Magdeburg und Stendal ist höchst ausgelastet. Denn hier laufen viele Umleiterzüge der baubedingt gesperrten Linie Hamburg - Berlin entlang.  Die Strecke Hamburg - Berlin wird noch bis zum 14.06.2026 gesperrt sein.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 20 Uelzen – Salzwedel – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li><li>S 1 Wittenberge – Stendal – Magdeburg – Schönebeck-Bad Salzelmen</li></ul><p>ℹ️ <strong>Grund:</strong> Die Strecke Hamburg - Berlin wird noch bis zum 14.06.2026 gesperrt sein.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Einschränkungen wegen der Generalsanierung auf der Bahnstrecke zwischen Berlin - Wittenberge - Hamburg dauern aufgrund von witterungsbedingten Verzögerungen der Baumaßnahmen bis zum 13.06.2026 an. Die Informationen in den Auskunftsmedien werden in Kürze aktualisiert.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein darauf abgestimmter umfangreicher Ersatzverkehr mit Bussen bringt Sie weiter. </p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de, in der App DB Navigator oder telefonisch unter 0391 5575 7975&nbsp;(zum Ortstarif) zu informieren.</p>",
-      "durationBegin": "24.03.2026",
-      "durationEnd": "13.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/092c7fcc-8ff0-4b7f-b852-7fa3d6c33ebe",
-      "images": [],
+      "headline": "S5 Aying ↔ Kreuzstraße: Reparatur an einer Weiche",
+      "summary": "Zwischen Aying und Kreuzstraße sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Aying.</p><p>Wir haben für Sie einen Ersatzverkehr mit Taxis zwischen Aying und Kreuzstraße eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit Verspätungen von 10 bis zu 15 Minuten und Teilausfällen sowie Umleitungen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "13.06.2026",
+      "durationEnd": "14.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/acfcd9a0-8567-48f9-a993-2a4f35d6e8b2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-13/3188a371-11b6-45ac-94aa-2a938b9acd60st%25C3%25B6rungskarte_20260613-110745.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-13/3188a371-11b6-45ac-94aa-2a938b9acd60st%25C3%25B6rungskarte_20260613-110745.png",
+          "info": "",
+          "alt": "Störungskarte 13.06.2026 11:07:45",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN",
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "ST"
+        "BY"
       ],
       "lines": [
         {
-          "name": "RE 20",
-          "filterName": "RE 20",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1",
+          "name": "S 5",
+          "filterName": "S 5 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.03.2026 09:12",
+      "lastModified": "13.06.2026 23:44",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/7460ce58-0d3b-40fe-8bf4-534b41b7aee1",
-      "magnoliaPath": "/aktuell/suedost/impairment_construction"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/491df84d-7ba8-4750-964b-3b16bfd149ae",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
@@ -984,56 +950,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/ec99db28-13aa-4b50-a46b-fa958977665f",
       "magnoliaPath": "/aktuell/suedost/modified_service_other_cause"
-    },
-    {
-      "id": "905db880-b7f2-4bde-a60b-c68ebdf78cad",
-      "disruptionId": "eb18f875-86e7-4329-98e8-2dbfb0a253b5",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "🚧 Generalsanierung Nürnberg - Regensburg vom 06. Februar bis 13. Juni 2026 ",
-      "summary": "Am 06. Februar ab ca. 21 Uhr startet die Generalsanierung der Strecke Nürnberg - Regensburg und führt zu weitreichenden Änderungen im Regional- und Fernverkehr. ",
-      "text": "<p>🚉 <strong>Betroffene Linien: </strong></p><ul><li><strong>RE 2</strong></li><li><strong>RE 3</strong></li><li><strong>RE 22</strong></li><li><strong>RE 25</strong></li><li><strong>RB 33</strong></li><li><strong>S3</strong></li></ul><p>🚉 <strong>Auswirkungen auf weitere Linien: </strong></p><ul><li><strong>RE 1</strong></li><li><strong>RE 7 / RE 17</strong></li></ul><p>❌&nbsp;<strong>Einschränkungen</strong>: Ausfälle, Fahrplanänderungen und Ersatzverkehr</p><p>↪️<strong>&nbsp;Alternative</strong>: Ersatzverkehr mit Bussen</p><p>✅ Auf&nbsp;<strong>www.bahn.de&nbsp;sowie in der App DB Navigator </strong>sind die aktuellen Fahrplandaten abrufbar.</p><p>Einen ausführlichen Überblick bietet die Internetseite<strong>:&nbsp;</strong></p><p><strong>www.bahn.de/ersatzverkehr-nuernberg-regensburg</strong></p>",
-      "durationBegin": "06.02.2026",
-      "durationEnd": "13.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/eb18f875-86e7-4329-98e8-2dbfb0a253b5",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-06-03/1f2b82ed-e8d3-4aa8-b9f1-d639cc50e018Fahrplaninfo%2BGeneralsanierung%2B06.02-13.06.2026%2BRE3.pdf",
-          "label": "Kompakte Fahrplaninfo Generalsanierung 06.02-13.06.2026 ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Nuernberg-Regensburg#13487282",
-          "label": "Überblick über die Generalsanierung Nürnberg - Regensburg ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "RB S2",
-          "filterName": "RB S2 Nürnberg",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "03.06.2026 11:12",
-      "expand": true,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/905db880-b7f2-4bde-a60b-c68ebdf78cad",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction"
     },
     {
       "id": "21d91f0f-46f0-4606-bebd-937d3e540402",
