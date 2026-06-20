@@ -440,8 +440,8 @@
       "mapHref": "https://karte.bahn.de/detail/ae27d115-4a3a-466e-9897-ee2d44738155",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/8cb0eb74-484d-4fb0-a411-b9dd5bd6376cst%25C3%25B6rungskarte_20260620-203719.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/8cb0eb74-484d-4fb0-a411-b9dd5bd6376cst%25C3%25B6rungskarte_20260620-203719.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/c8e71d4c-6709-4528-a9d2-5e58280eed68st%25C3%25B6rungskarte_20260620-203719.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/c8e71d4c-6709-4528-a9d2-5e58280eed68st%25C3%25B6rungskarte_20260620-203719.png",
           "info": "",
           "alt": "Störungskarte 20.06.2026 20:37:19",
           "openInNewTab": true
@@ -462,7 +462,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.06.2026 20:43",
+      "lastModified": "20.06.2026 21:50",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -940,51 +940,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/94fb6cba-b81e-4411-9f4a-ef871489d0a7",
       "magnoliaPath": "/aktuell/suedost/additional_service_technical_problem_railway_section"
-    },
-    {
-      "id": "1685a1d9-b062-4ddd-b0f0-817b42d08c70",
-      "disruptionId": "234a9fa0-b935-4435-97f3-ace027caf43f",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "S 5 Giesing ↔ Kreuzstraße: Technische Störung an einem Zug",
-      "summary": "Heute Nachmittag fallen folgende Züge der Linie S 5 zwischen Giesing ↔ Kreuzstraße aus:",
-      "text": "<p><strong>S 5 Giesing→ Kreuzstraße</strong></p><ul><li>S 5 Giesing<strong> </strong>Abfahrt 18:20 Uhr → Aying Ankunft 18:48 Uhr</li><li>S 5 Giesing Abfahrt 20:00 Uhr → Kreuzstraße Ankunft 20:38 Uhr</li><li>S 5 Giesing Abfahrt 22:20 Uhr → Aying Ankunft 22:48 Uhr</li></ul><p><strong>S 5 Kreuzstraße → Giesing</strong></p><ul><li>S 5<strong> </strong>Aying Abfahrt 19:11 Uhr → Giesing Ankunft 19:48 Uhr</li><li>S 5 Kreuzstraße Abfahrt 21:22 Uhr → Giesing Ankunft 22:08 Uhr</li></ul><p></p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
-      "durationBegin": "20.06.2026",
-      "durationEnd": "20.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/234a9fa0-b935-4435-97f3-ace027caf43f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/b92a0ac0-079e-42f3-bb2f-f884cd30193ast%25C3%25B6rungskarte_20260620-182744.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-20/b92a0ac0-079e-42f3-bb2f-f884cd30193ast%25C3%25B6rungskarte_20260620-182744.png",
-          "info": "",
-          "alt": "Störungskarte 20.06.2026 18:27:44",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "20.06.2026 18:39",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1685a1d9-b062-4ddd-b0f0-817b42d08c70",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle1"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
