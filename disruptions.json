@@ -79,44 +79,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
-      "id": "2a6c391b-8b50-4117-af6d-3c5f1e00182b",
-      "disruptionId": "c57984a2-afef-4227-aa0a-856a051c054e",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S5: Technische Störung an der Strecke",
-      "summary": "Bitte nutzen Sie alternativ den eingerichteten Ersatzverkehr mit Bussen.",
-      "text": "<p>Aufgrund von betrieblichen Anpassungen wird die <strong>Linie S3 in Richtung Pinneberg vorübergehend über die Verbindungsbahn umgeleitet</strong>.</p><ul><li><strong>Die Haltestelle Altona wird von der S3 in Richtung Pinneberg nicht angefahren.</strong></li><li>Die <strong>Linie S5 entfällt</strong> in diesem Zeitraum.</li></ul><p><strong>Hinweise für Fahrgäste:</strong></p><ul><li><strong>Fahrgäste in Richtung Pinneberg</strong> nutzen bitte zunächst die <strong>S7 bis Holstenstraße</strong>.</li><li>An der <strong>Station Holstenstraße</strong> besteht <strong>Anschluss an die S3</strong> in Richtung Pinneberg.</li></ul><p>Bitte planen Sie ggf. etwas mehr Zeit ein und beachten Sie die geänderten Reisewege.</p>",
-      "durationBegin": "22.06.2026",
-      "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/c57984a2-afef-4227-aa0a-856a051c054e",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.06.2026 22:14",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2a6c391b-8b50-4117-af6d-3c5f1e00182b",
-      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section0"
-    },
-    {
       "id": "b64dfb9c-9fd7-4ffa-ad17-7db4a8782913",
       "disruptionId": "fc442d55-3284-40b3-b667-c64735e86834",
       "author": "REGIO_MITTE",
@@ -578,101 +540,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "8b18aa9f-e0a0-4463-afb0-82746405f764",
-      "disruptionId": "b3562a7d-9840-4e60-bca5-b5f15b9bda07",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Feldkirchen ↔ Markt Schwaben: Reparatur an einem Signal",
-      "summary": "Zwischen Feldkirchen und Markt Schwaben kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "22.06.2026",
-      "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/b3562a7d-9840-4e60-bca5-b5f15b9bda07",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-22/ce24c5da-021b-4dcb-8e75-b02ae32a6ea6st%25C3%25B6rungskarte_20260622-225231.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-22/ce24c5da-021b-4dcb-8e75-b02ae32a6ea6st%25C3%25B6rungskarte_20260622-225231.png",
-          "info": "",
-          "alt": "Störungskarte 22.06.2026 22:52:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.06.2026 22:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8b18aa9f-e0a0-4463-afb0-82746405f764",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "1d273284-7614-4bf9-b099-a6d5193bbcf3",
-      "disruptionId": "efd206f4-250b-4505-b02e-22f63162e85e",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 4, S 6 Trudering: Reparatur an einer Weiche",
-      "summary": "Im Bereich Trudering kommt es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
-      "durationBegin": "22.06.2026",
-      "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/efd206f4-250b-4505-b02e-22f63162e85e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-22/292fe0a5-a8e8-43b1-b870-5e852bf4ba83st%25C3%25B6rungskarte_20260622-225023.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-22/292fe0a5-a8e8-43b1-b870-5e852bf4ba83st%25C3%25B6rungskarte_20260622-225023.png",
-          "info": "",
-          "alt": "Störungskarte 22.06.2026 22:50:23",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.06.2026 22:52",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1d273284-7614-4bf9-b099-a6d5193bbcf3",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section1"
-    },
-    {
       "id": "f11dbe0e-4850-4664-9be1-67c17312d778",
       "disruptionId": "3f26f112-e477-4169-a49f-d3e19b6ff643",
       "author": "REGIO_BW",
@@ -733,49 +600,41 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section"
     },
     {
-      "id": "dc4d7ff8-1dcd-43a9-87ef-1ee580450989",
-      "disruptionId": "2bffe28b-bdc8-46c8-a78f-c97c604de60e",
-      "author": "REGIO_SUEDOST",
+      "id": "550b91ea-2655-45f9-b81d-91b56b678af5",
+      "disruptionId": "f3006232-edd5-4ba6-933d-655691dee4c5",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_vehicle",
-        "label": "Kurzfristiger Fahrzeugausfall"
+        "label": "Technische Störung am Zug"
       },
-      "headline": "Leipzig Hbf ⇄ Geithain - Fahrtausfälle",
-      "summary": "Wegen eines Fahrzeugengpasses kommt es derzeit auf der Linie RB113 zu Zugausfällen zwischen Leipzig Hbf. und Geithain. Dauer der Zugausfälle nicht genau bekannt. Der Grund ist eine technische Störung am Zug.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 113 Leipzig – Bad Lausick – Geithain</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine technische Störung am Zug.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Folge kommt es jetzt Ausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bus ist zwischen Leipzig Hbf und Geithain eingerichtet.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "20.06.2026",
-      "durationEnd": "22.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/2bffe28b-bdc8-46c8-a78f-c97c604de60e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-22/a66e5af3-7e93-4834-b02d-3daf0d929e29st%25C3%25B6rungskarte_20260620-110915.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-22/a66e5af3-7e93-4834-b02d-3daf0d929e29st%25C3%25B6rungskarte_20260620-110915.png",
-          "info": "",
-          "alt": "Störungskarte 20.06.2026 11:09:15",
-          "openInNewTab": true
-        }
-      ],
+      "headline": "S 2 Dachau ↔ Ostbahnhof: Technische Störung an einem Zug",
+      "summary": "Heute Vormittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 2 Ostbahnhof → Dachau&nbsp;</strong></p><ul><li>S 2 Markt Schwaben Abfahrt 06:32 Uhr → Ostbahnhof Abfahrt 06:46 Uhr → Dachau Bahnhof Ankunft 07:21 Uhr&nbsp;</li><li>S 2 Markt Schwaben Abfahrt 06:52 Uhr → Ostbahnhof Abfahrt 07:06 Uhr → Dachau Bahnhof Ankunft 07:41 Uhr&nbsp;</li><li>S 2 Markt Schwaben Abfahrt 07:32 Uhr → Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uhr&nbsp;</li></ul><p><strong>S 2 Dachau → Ostbahnhof </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 07:39 Uhr → Ostbahnhof Ankunft 08:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:19 Uhr → Ostbahnhof Ankunft 08:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:39 Uhr → Ostbahnhof Ankunft 09:10 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "23.06.2026",
+      "durationEnd": "23.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/f3006232-edd5-4ba6-933d-655691dee4c5",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "SN"
+        "BY"
       ],
       "lines": [
         {
-          "name": "RB 113",
-          "filterName": "RB 113",
-          "property": "REGIONAL"
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "22.06.2026 01:59",
+      "lastModified": "23.06.2026 01:35",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dc4d7ff8-1dcd-43a9-87ef-1ee580450989",
-      "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_vehicle"
+      "detailPagePath": "/service/fahrplaene/550b91ea-2655-45f9-b81d-91b56b678af5",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
@@ -1109,51 +968,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/21d91f0f-46f0-4606-bebd-937d3e540402",
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
-    },
-    {
-      "id": "04a1aed7-00cc-447b-bfbf-0a60c70dc6da",
-      "disruptionId": "2c87a33a-02b7-472d-8fb8-9537236cc2c1",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Streckenstörung zwischen Metzingen und Bad Urach",
-      "summary": "Der Streckenabschnitt von Metzingen(Württ) bis Bad Urach ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis Betriebsschluss. Der Grund ist eine witterungsbedingt verminderte Geschwindigkeit. Bitte rechnen Sie mit einer Verspätungen von ca. 20 Minuten und Teilausfällen. Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen. Bitte achten Sie auf die Lautsprecheransagen im Zug und am Bahnsteig.",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RB 63 (Herrenberg – Bad Urach) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "22.06.2026",
-      "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/2c87a33a-02b7-472d-8fb8-9537236cc2c1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-22/4744322d-e23e-4c64-ba8d-630bbd04eea8st%25C3%25B6rungskarte_20260622-155641.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-22/4744322d-e23e-4c64-ba8d-630bbd04eea8st%25C3%25B6rungskarte_20260622-155641.png",
-          "info": "",
-          "alt": "Störungskarte 22.06.2026 15:56:41",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 63",
-          "filterName": "RB 63",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "22.06.2026 16:05",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/04a1aed7-00cc-447b-bfbf-0a60c70dc6da",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "232e63b6-a636-404f-96ee-bcc877788f47",
