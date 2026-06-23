@@ -2,29 +2,28 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "f67f2c66-4fbb-4c5f-ab83-84c9c8fdb67f",
-      "disruptionId": "a2416644-9935-433d-a89d-7cb22eadf724",
+      "id": "e0490cbc-1297-4e40-b01b-27bfb3e3ee8a",
+      "disruptionId": "c6b0e734-2f76-4f72-b661-18a1a106cfdd",
       "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
+        "category": "technical_problem_it",
+        "label": "IT-Störung"
       },
-      "headline": "Beeinträchtigungen zwischen Minden (Westf) und Löhne (Westf)",
-      "summary": "Aufgrund von Gefahrgutaustritt ist die Strecke zwischen Minden (Westf) und Löhne (Westf) derzeit gesperrt. Dadurch kommt es zu Umleitungen und Ausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Sprinter Berlin - Bonn entfallen</li><li>IC-Züge Berlin - Hannover - Dortmund - Köln entfallen. Verbindungen Ostseebad Binz - Berlin Hbf sind nicht betroffen.</li><li>ICE-Züge Berlin - Hannover - Hamm (W) - Düsseldorf/Köln/Bonn werden umgeleitet und verspäten sich ca. 90 Minuten. Die Halte in&nbsp;Minden (Westf), Herford (West), Gütersloh und Bielefeld entfallen.</li><li>IC-Züge Stuttgart - Mannheim - Koblenz - Köln - Dortmund - Hannover - Magdeburg - Dresden werden umgeleitet und verspäten sich ca. 90 Minuten.&nbsp;Die Halte in&nbsp;Minden (Westf), Herford (West) und Bielefeld entfallen.</li><li>IC-Züge Berlin - Hannover - Bad Bentheim - Amsterdam werden umgeleitet und verspäten sich ca. 90 Minuten. Die Halte in Minden (Westf), Bad Oeynhausen und Bünde (Westf) entfallen.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "Bundesweite Störung des digitalen Bahnfunks",
+      "summary": "IT-Störung: Kein Bahnbetrieb bundesweit. Aufgrund bundesweiter Störung des digitalen Bahnfunks GSMR werden alle Züge an Bahnhöfen zurückgehalten. Wir arbeiten mit Hochdruck daran, die Störung zu beheben.",
+      "text": "<p><strong>Unsere Techniker sind mit Hochdruck daran, die Störung zu beheben.</strong></p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/a2416644-9935-433d-a89d-7cb22eadf724",
-      "images": [
+      "mapHref": "https://karte.bahn.de/detail/c6b0e734-2f76-4f72-b661-18a1a106cfdd",
+      "images": [],
+      "downloads": [],
+      "links": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-23/85d915b4-07db-4a28-a55b-aaa688eea4d8st%25C3%25B6rungskarte_20260623-185329.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-23/85d915b4-07db-4a28-a55b-aaa688eea4d8st%25C3%25B6rungskarte_20260623-185329.png",
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Allgemeine Informationen zu Ihren Fahrgastrechten",
           "info": "",
-          "alt": "Störungskarte 23.06.2026 18:53:29",
           "openInNewTab": true
         }
       ],
-      "downloads": [],
-      "links": [],
       "properties": [
         "LONG_DISTANCE"
       ],
@@ -53,11 +52,85 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "23.06.2026 18:59",
-      "expand": true,
+      "lastModified": "23.06.2026 23:35",
+      "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/f67f2c66-4fbb-4c5f-ab83-84c9c8fdb67f",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section0"
+      "detailPagePath": "/service/fahrplaene/e0490cbc-1297-4e40-b01b-27bfb3e3ee8a",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_it"
+    },
+    {
+      "id": "c8fada4a-26af-4066-90eb-327b39a6b1c6",
+      "disruptionId": "dfc73e45-4754-4dff-8b79-9ae5c98f2816",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "IT-Störung: Kein Bahnbetrieb bundesweit",
+      "summary": "Aufgrund bundesweiter Störung des digitalen Bahnfunks GSMR werden alle Züge an Bahnhöfen zurückgehalten. Wir arbeiten mit Hochdruck daran, die Störung zu beheben. ",
+      "text": "<p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de. &nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf&nbsp;bahn.de/fahrgastrechte. &nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld. &nbsp;</p><p></p>",
+      "durationBegin": "23.06.2026",
+      "durationEnd": "24.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/dfc73e45-4754-4dff-8b79-9ae5c98f2816",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte      ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RB 37",
+          "filterName": "RB 37",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 38",
+          "filterName": "RB 38",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 77",
+          "filterName": "RB 77",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 79",
+          "filterName": "RB 79",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "24.06.2026 00:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c8fada4a-26af-4066-90eb-327b39a6b1c6",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "d3e85132-f990-4753-a7f1-92897bba3add",
@@ -67,8 +140,8 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "Bundesweite Störung des digitalen Bahnfunks",
-      "summary": "Aufgrund einer bundesweiten Störung des digitalen Bahnfunks GSMR werden vorläufig alle Züge an Bahnhöfen zurückgehalten. Unsere Techniker sind mit Hochdruck daran, die Störung zu beheben. Weitere Informationen folgen, sobald möglich.",
+      "headline": "IT-Störung: Kein Bahnbetrieb bundesweit",
+      "summary": "Aufgrund bundesweiter Störung des digitalen Bahnfunks GSMR werden alle Züge an Bahnhöfen zurückgehalten. Wir arbeiten mit Hochdruck daran, die Störung zu beheben. ",
       "text": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "23.06.2026",
       "durationEnd": "24.06.2026",
@@ -83,8 +156,8 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
           "info": "",
           "openInNewTab": true
         },
@@ -95,8 +168,8 @@
           "openInNewTab": true
         },
         {
-          "href": "https://www.bahn.de/",
-          "label": "bahn.de",
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
           "info": "",
           "openInNewTab": true
         }
@@ -182,7 +255,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "23.06.2026 23:15",
+      "lastModified": "24.06.2026 00:13",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -197,8 +270,8 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "Bundesweite Störung des digitalen Bahnfunks",
-      "summary": "Aufgrund einer bundesweiten Störung des digitalen Bahnfunks GSMR werden vorläufig alle Züge an Bahnhöfen zurückgehalten. Unsere Techniker sind mit Hochdruck daran, die Störung zu beheben. Weitere Informationen folgen, sobald möglich. ",
+      "headline": "IT-Störung: Kein Bahnbetrieb bundesweit",
+      "summary": "Aufgrund bundesweiter Störung des digitalen Bahnfunks GSMR werden alle Züge an Bahnhöfen zurückgehalten. Wir arbeiten mit Hochdruck daran, die Störung zu beheben. ",
       "text": "<p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
       "durationBegin": "23.06.2026",
       "durationEnd": "24.06.2026",
@@ -206,6 +279,12 @@
       "images": [],
       "downloads": [],
       "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
         {
           "href": "https://www.bahn.de/",
           "label": "bahn.de",
@@ -221,12 +300,6 @@
         {
           "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
           "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
           "info": "",
           "openInNewTab": true
         }
@@ -297,7 +370,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "23.06.2026 23:15",
+      "lastModified": "24.06.2026 00:13",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -305,78 +378,43 @@
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section0"
     },
     {
-      "id": "c8fada4a-26af-4066-90eb-327b39a6b1c6",
-      "disruptionId": "dfc73e45-4754-4dff-8b79-9ae5c98f2816",
-      "author": "REGIO_NORD",
+      "id": "8448e255-dbf0-4348-9e9b-8b5a2c58cf16",
+      "disruptionId": "3158de89-6544-4ae5-a867-474c39969875",
+      "author": "REGIO_SUEDOST",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "category": "technical_problem_it",
+        "label": "IT-Störung"
       },
-      "headline": "Bundesweite Störung des digitalen Bahnfunks",
-      "summary": "Aufgrund einer bundesweiten Störung des digitalen Bahnfunks GSMR werden vorläufig alle Züge an Bahnhöfen zurückgehalten. Unsere Techniker sind mit Hochdruck daran, die Störung zu beheben. Weitere Informationen folgen, sobald möglich. ",
-      "text": "<p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de. &nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf&nbsp;bahn.de/fahrgastrechte. &nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld. &nbsp;</p><p></p>",
+      "headline": "IT-Störung: Kein Bahnbetrieb bundesweit",
+      "summary": "IT-Störung: Kein Bahnbetrieb bundesweit",
+      "text": "<p><strong>IT-Störung: Kein Bahnbetrieb bundesweit. Aufgrund bundesweiter Störung des digitalen Bahnfunks GSMR werden alle Züge an Bahnhöfen zurückgehalten. Wir arbeiten mit Hochdruck daran, die Störung zu beheben.</strong></p>",
       "durationBegin": "23.06.2026",
       "durationEnd": "24.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/dfc73e45-4754-4dff-8b79-9ae5c98f2816",
+      "mapHref": "https://karte.bahn.de/detail/3158de89-6544-4ae5-a867-474c39969875",
       "images": [],
       "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte      ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "links": [],
       "properties": [
         "REGIONAL"
       ],
       "states": [
-        "HH",
-        "SH",
-        "HB",
-        "NI"
+        "BB",
+        "BE",
+        "MV"
       ],
       "lines": [
         {
-          "name": "RB 37",
-          "filterName": "RB 37",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 38",
-          "filterName": "RB 38",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 77",
-          "filterName": "RB 77",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 79",
-          "filterName": "RB 79",
+          "name": "RE/RB",
+          "filterName": "",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "23.06.2026 23:15",
+      "lastModified": "23.06.2026 23:43",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c8fada4a-26af-4066-90eb-327b39a6b1c6",
-      "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/8448e255-dbf0-4348-9e9b-8b5a2c58cf16",
+      "magnoliaPath": "/aktuell/suedost/no_service_technical_problem_it"
     },
     {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
@@ -783,8 +821,8 @@
       "disruptionId": "a198e10e-af40-4cbe-8e21-52e6dd9a1a2b",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "other_cause",
-        "label": "Verzögerung im Betriebsablauf"
+        "category": "technical_problem_it",
+        "label": "IT-Störung"
       },
       "headline": "Stammstrecke / Gesamtnetz: Störung des digitalen Bahnfunks",
       "summary": "Aufgrund einer bundesweiten Störung des digitalen Bahnfunks (GSM-R) werden vorläufig alle Züge an den Bahnhöfen zurückgehalten.",
@@ -794,8 +832,8 @@
       "mapHref": "https://karte.bahn.de/detail/a198e10e-af40-4cbe-8e21-52e6dd9a1a2b",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/185ba4e8-52b9-41b6-b669-a33bcda70af2st%25C3%25B6rungskarte_20260623-221347.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/185ba4e8-52b9-41b6-b669-a33bcda70af2st%25C3%25B6rungskarte_20260623-221347.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/d8936152-f8c1-41d3-805a-7e69de26040dst%25C3%25B6rungskarte_20260623-221347.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/d8936152-f8c1-41d3-805a-7e69de26040dst%25C3%25B6rungskarte_20260623-221347.png",
           "info": "",
           "alt": "Störungskarte 23.06.2026 22:13:47",
           "openInNewTab": true
@@ -856,7 +894,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2026 23:15",
+      "lastModified": "23.06.2026 23:39",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -871,9 +909,9 @@
         "category": "technical_problem_it",
         "label": "IT-Störung"
       },
-      "headline": "IT-Störung Bundesweit",
-      "summary": "Deutschlandweite IT-Störung.",
-      "text": "<p><strong>Aufgrund einer bundesweiten IT-Störung, welche die internen Kommunikationskanäle betrifft, ist der Zugverkehr in Baden-Württemberg nur stark eingeschränkt bis gar nicht möglich. Weitere Informationen folgen. </strong></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "headline": "IT-Störung: Zugverkehr wird wieder aufgenommen",
+      "summary": "IT-Störung",
+      "text": "<p><strong>IT-Störung: Aufgrund einer vorangegangen bundesweiten Störung des digitalen Bahnfunks GSMR kommt es zu Verzögerungen im Bahnverkehr. Zugfahrten sind wieder möglich. Folgebeeinträchtigungen bis in die Morgenstunden des 24.06.2026.</strong></p>",
       "durationBegin": "23.06.2026",
       "durationEnd": "24.06.2026",
       "mapHref": "https://karte.bahn.de/detail/87e8f89a-ea48-497f-be93-864308882464",
@@ -934,6 +972,11 @@
           "property": "REGIONAL"
         },
         {
+          "name": "RB 3",
+          "filterName": "RB 3",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RB 30",
           "filterName": "RB 30",
           "property": "REGIONAL"
@@ -971,6 +1014,11 @@
         {
           "name": "RB 63",
           "filterName": "RB 63",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 6b",
+          "filterName": "RB 6b",
           "property": "REGIONAL"
         },
         {
@@ -1129,12 +1177,242 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2026 22:51",
+      "lastModified": "24.06.2026 00:21",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/d36cff86-0e73-41ce-99e7-f38f0d2d91f8",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_it"
+    },
+    {
+      "id": "5132fbd2-1907-4bb3-a519-0630431f7b50",
+      "disruptionId": "6c05ee9a-1f55-4b90-8cc6-ba0f29fcdbbd",
+      "author": "S_BAHN_S",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "IT-Störung: Erste S-Bahnen verkehren wieder",
+      "summary": "Aufgrund bundesweiter Störung des digitalen Bahnfunks GSMR kommt es zu massiven Fahrtabweichungen im S-Bahnverkehr.",
+      "text": "<p>Die ersten S-Bahnen der Linien <strong>S1, S2, S3, S4, S5, S6 und S60 haben ihre Fahrt fortgesetzt. </strong>Eine bundesweite IT-Störung, die die interne Kommunikationskanäle betrifft sorgt weiterhin zu massiven Fahrtabweichungen im S-Bahnverkehr. </p><p>Die DB arbeitet mit Hochdruck daran, die Störung zu beseitigen. Aktuell können wir noch nicht einschätzen, wann die S-Bahnen wieder regulär verkehren können. </p><p>Bitte prüfen Sie auch alternative Verkehrsmittel und berücksichtigen, dass von der aktuellen Störung auch Züge des Regional- und Fernverkehrs betroffen sind. Wir informieren Sie, sobald es neue Informationen gibt.</p>",
+      "durationBegin": "23.06.2026",
+      "durationEnd": "24.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/6c05ee9a-1f55-4b90-8cc6-ba0f29fcdbbd",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-06-24/93e326e7-8fa6-4052-8913-05adb35674d0st%25C3%25B6rungskarte_20260624-001823.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-06-24/93e326e7-8fa6-4052-8913-05adb35674d0st%25C3%25B6rungskarte_20260624-001823.png",
+          "info": "",
+          "alt": "Störungskarte 24.06.2026 00:18:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.s-bahn-stuttgart.de/s-stuttgart/Betriebslage",
+          "label": "Weiterführende Informationen",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Stuttgart",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 60",
+          "filterName": "S 60 Stuttgart",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.06.2026 00:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5132fbd2-1907-4bb3-a519-0630431f7b50",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "d56675d2-78e5-4887-a14a-4a8caf8c3477",
+      "disruptionId": "37a0807a-1949-4557-80b1-47b9787817a4",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Verspätungen und Teil- sowie Zugausfälle zwischen Frankfurt(Main) - Bad Vilbel - Friedberg(Hess) - Gießen",
+      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li><li>RB48 (DB Regio): Frankfurt(Main)Hbf - Friedberg(Hess) - Nidda</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Strecke zwischen (Gießen -) Butzbach - Friedberg(Hess) - Bad Vilbel ist gesperrt.</li><li>Die S6 verkehrt im 30-Minuten-Takt zwischen Darmstadt Hbf - Bad Vilbel. Es kommt zu Teilausfällen zwischen Bad Vilbel - Friedberg(Hess).</li><li>Auf der RE30 kommt es zu Teilausfällen zwischen Gießen - Frankfurt(Main)Hbf.</li><li>Die Züge der RB48 (DB Regio) fallen aus.</li></ul><p></p><strong>🚍 Ersatzverkehre:</strong><p>Wir haben für Sie die folgenden Ersatzverkehre eingerichtet:</p><ul><li>Für die S6 mit 10 Bussen zwischen Bad Vilbel - Friedberg(Hess) mit Halt auf allen Stationen. Die Busse verkehren im Pendel ohne feste Fahrzeiten. </li><li>Für die RE30 mit 3 - 5 Bussen zwischen den Stationen Frankfurt(Main)Hbf - Friedberg(Hess) - Gießen ohne weiteren Zwischenhalt. Die Fahrzeiten der Busse richten sich nach den Zeiten der ausfallenden Züge.</li></ul><p></p><ul><li>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de. Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</li></ul><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "23.06.2026",
+      "durationEnd": "24.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/37a0807a-1949-4557-80b1-47b9787817a4",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-23/835d5855-202b-4533-9779-ef6e5be8e804st%25C3%25B6rungskarte_20260623-192235.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-23/835d5855-202b-4533-9779-ef6e5be8e804st%25C3%25B6rungskarte_20260623-192235.png",
+          "info": "",
+          "alt": "Störungskarte 23.06.2026 19:22:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Umgebungsplan zum Ersatzverkehr an Ihrer Station",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 48",
+          "filterName": "RB 48",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.06.2026 21:49",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d56675d2-78e5-4887-a14a-4a8caf8c3477",
+      "magnoliaPath": "/aktuell/hessen/massive_impairment_police_activity"
+    },
+    {
+      "id": "0f4d9298-6d61-4146-b640-b08d93108714",
+      "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Nürnberg Hbf - Hersbruck(r Pegnitz) - Pegnitz - Bayreuth Hbf",
+      "summary": "Technische Überprüfungen an mehreren Brücken im Pegnitztal erforderlich / Streckensperrung / Ersatzverkehr mit Bussen / Beeinträchtigungen",
+      "text": "<p>Der Infrastrukturbetreiber DB InfraGo hat uns mitgeteilt, <strong>dass weiterhin, aufgrund technischer Überprüfungen und Schäden an mehreren Brücken im Pegnitztal, die Strecke zwischen Hersbruck(r) und Neuhaus(Pegnitz) bis 14. September 2026 gesperrt bleibt.</strong></p><p><strong>Ab sofort finden Sie das neue Fahrplankonzept in der Fahrplanauskunft auf Bahn.de und im DB Navigator.</strong></p><p><strong>Die Züge der Linien:</strong></p><ul><li><strong>RE 30 / RE 32 / RE 38 </strong>enden von Norden kommend im <strong>Halbstundentakt in Neuhaus(Pegnitz)</strong>. Die Züge entfallen zwischen Neuhaus(Pegnitz) - Nürnberg Hbf.</li><li><strong>RB 30 </strong>endet von Nürnberg Hbf kommend in Hersbruck(r Pegnitz). Die Züge entfallen zwischen Hersbruck(r Pegnitz) - Neuhaus (Pegnitz).</li><li><strong>RE 31: </strong>Im 2- bzw. 3-Stundentakt, durchgehende Verbindungen zwischen Hof Hbf und Nürnberg Hbf, die über Marktredwitz umgeleitet werden.</li></ul><p><strong>Zwischen Hersbruck(r) und Nürnberg</strong> verkehren auf der rechten Pegnitzstrecke die Züge der RE-Linie 40/41 und die RB-Züge der Mittelfrankenbahn, auf der linken Pegnitzstrecke die Züge der S-Bahn Nürnberg.</p><p>Ein Ersatzverkehr mit Bussen ist wie folgt eingerichtet:</p><ul><li>Zwischen <strong>Neuhaus(Pegnitz) und Hersbruck(r Pegnitz) </strong>verkehren stündlich Busse <strong>mit allen Unterwegshalten.</strong></li></ul><p>** Bitte beachten Sie, die Ersatzverkehr-Haltestelle in Rupprechtstegen in Fahrtrichtung Hersbruck wurde verlegt. Die neue Ersatzhaltestelle befindet sich in der Ortsmitte, am Schlauchturm. **</p><ul><li>Zwischen <strong>Bayreuth Hbf - Nürnberg Hbf </strong>verkehren stündlich<strong> Expressbusse ohne Zwischenhalte</strong>.</li><li>Zwischen<strong> Pegnitz - Nürnberg Hbf</strong> verkehren stündlich<strong> Expressbusse ohne Zwischenhalte</strong>.</li><li>Zwischen <strong>Neuhaus(Pegnitz) - Nürnberg Hbf </strong>verkehren stündlich<strong> Expressbusse ohne Zwischenhalte</strong>.</li></ul><p><strong>Bitte informieren Sie sich in den Onlinemedien www.bahn.de und im DB Navigator über Zugausfälle und mögliche Verbindungen.</strong></p><p>Den Fahrplan der Ersatzbusse und den Fahrplan für die Umleiterzüge finden Sie im Anhang als PDF.</p>",
+      "durationBegin": "18.09.2025",
+      "mapHref": "https://karte.bahn.de/detail/641babaf-d92f-485d-a397-1fdc8d9bceac",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-06-15/c6f5ce78-7a3b-4fdd-9269-6dc17dfbbf62Br%25C3%25BCckensperrung%2BPegnitztal%2B4.5.%2B-%2B14.9.2026.pdf",
+          "label": "Brückensperrung Pegnitztal 4.5. - 14.9.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-muenchen-de/aktuell/presseinformationen/Instandsetzung-der-Pegnitzbruecken-dauert-voraussichtlich-bis-Mitte-naechsten-Jahres-13601882#",
+          "label": "Pressemeldung 05.11.2025",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-muenchen-de/aktuell/presseinformationen/Instandsetzung-der-Pegnitzbruecken-Zugverkehr-wird-stufenweise-aufgenommen-13772780",
+          "label": "Pressemeldung 17.03.2026",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus EV",
+          "filterName": "Bus EV",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 30",
+          "filterName": "RB 30 Nürnberg",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 31",
+          "filterName": "RE 31",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 32",
+          "filterName": "RE 32",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 33",
+          "filterName": "RE 33",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 38",
+          "filterName": "RE 38",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "15.06.2026 06:15",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
       "id": "8d1002c5-cad3-496f-9749-1daa34272ba9",
@@ -1145,8 +1423,8 @@
         "label": "IT-Störung"
       },
       "headline": "Bayernweit / Bundesweit",
-      "summary": "IT-Störung / Züge werden zurückgehalten",
-      "text": "<p>Aufgrund einer bundesweiten IT-Störung, welche die internen Kommunikationskanäle betrifft, ist der Zugverkehr in Bayern nur stark eingeschränkt bis gar nicht möglich. Weitere Informationen folgen. </p><p><strong>Die Züge werden an geeigneten Stellen vorübergehend zurückgehalten, bis eine sichere Weiterfahrt gewährleistet werden kann.</strong></p><p>Es kommt zu Verspätungen und Ausfällen.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "summary": "IT-Störung / Zugverkehr nimmt eingeschränkt den Betrieb auf",
+      "text": "<p><strong>IT-Störung: Aufgrund einer vorangegangen bundesweiten Störung des digitalen Bahnfunks GSMR kommt es zu Verzögerungen im Bahnverkehr. Zugfahrten sind wieder möglich. Folgebeeinträchtigungen bis in die Morgenstunden des 24.06.2026.</strong></p>",
       "durationBegin": "23.06.2026",
       "durationEnd": "24.06.2026",
       "mapHref": "https://karte.bahn.de/detail/b6b6f724-ebe1-4ed3-9824-c9c6ad2f1814",
@@ -1221,6 +1499,16 @@
         {
           "name": "Bus S8",
           "filterName": "Bus S8",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "R 6",
+          "filterName": "R 6",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "R B6",
+          "filterName": "R B6",
           "property": "REGIONAL"
         },
         {
@@ -1639,160 +1927,12 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2026 22:46",
+      "lastModified": "24.06.2026 00:18",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/8d1002c5-cad3-496f-9749-1daa34272ba9",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_it"
-    },
-    {
-      "id": "d56675d2-78e5-4887-a14a-4a8caf8c3477",
-      "disruptionId": "37a0807a-1949-4557-80b1-47b9787817a4",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Verspätungen und Teil- sowie Zugausfälle zwischen Frankfurt(Main) - Bad Vilbel - Friedberg(Hess) - Gießen",
-      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li><li>RB48 (DB Regio): Frankfurt(Main)Hbf - Friedberg(Hess) - Nidda</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Strecke zwischen (Gießen -) Butzbach - Friedberg(Hess) - Bad Vilbel ist gesperrt.</li><li>Die S6 verkehrt im 30-Minuten-Takt zwischen Darmstadt Hbf - Bad Vilbel. Es kommt zu Teilausfällen zwischen Bad Vilbel - Friedberg(Hess).</li><li>Auf der RE30 kommt es zu Teilausfällen zwischen Gießen - Frankfurt(Main)Hbf.</li><li>Die Züge der RB48 (DB Regio) fallen aus.</li></ul><p></p><strong>🚍 Ersatzverkehre:</strong><p>Wir haben für Sie die folgenden Ersatzverkehre eingerichtet:</p><ul><li>Für die S6 mit 10 Bussen zwischen Bad Vilbel - Friedberg(Hess) mit Halt auf allen Stationen. Die Busse verkehren im Pendel ohne feste Fahrzeiten. </li><li>Für die RE30 mit 3 - 5 Bussen zwischen den Stationen Frankfurt(Main)Hbf - Friedberg(Hess) - Gießen ohne weiteren Zwischenhalt. Die Fahrzeiten der Busse richten sich nach den Zeiten der ausfallenden Züge.</li></ul><p></p><ul><li>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de. Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</li></ul><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "23.06.2026",
-      "durationEnd": "24.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/37a0807a-1949-4557-80b1-47b9787817a4",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-23/835d5855-202b-4533-9779-ef6e5be8e804st%25C3%25B6rungskarte_20260623-192235.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-06-23/835d5855-202b-4533-9779-ef6e5be8e804st%25C3%25B6rungskarte_20260623-192235.png",
-          "info": "",
-          "alt": "Störungskarte 23.06.2026 19:22:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahnhof.de",
-          "label": "Umgebungsplan zum Ersatzverkehr an Ihrer Station",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 48",
-          "filterName": "RB 48",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 30",
-          "filterName": "RE 30",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.06.2026 21:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d56675d2-78e5-4887-a14a-4a8caf8c3477",
-      "magnoliaPath": "/aktuell/hessen/massive_impairment_police_activity"
-    },
-    {
-      "id": "0f4d9298-6d61-4146-b640-b08d93108714",
-      "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Nürnberg Hbf - Hersbruck(r Pegnitz) - Pegnitz - Bayreuth Hbf",
-      "summary": "Technische Überprüfungen an mehreren Brücken im Pegnitztal erforderlich / Streckensperrung / Ersatzverkehr mit Bussen / Beeinträchtigungen",
-      "text": "<p>Der Infrastrukturbetreiber DB InfraGo hat uns mitgeteilt, <strong>dass weiterhin, aufgrund technischer Überprüfungen und Schäden an mehreren Brücken im Pegnitztal, die Strecke zwischen Hersbruck(r) und Neuhaus(Pegnitz) bis 14. September 2026 gesperrt bleibt.</strong></p><p><strong>Ab sofort finden Sie das neue Fahrplankonzept in der Fahrplanauskunft auf Bahn.de und im DB Navigator.</strong></p><p><strong>Die Züge der Linien:</strong></p><ul><li><strong>RE 30 / RE 32 / RE 38 </strong>enden von Norden kommend im <strong>Halbstundentakt in Neuhaus(Pegnitz)</strong>. Die Züge entfallen zwischen Neuhaus(Pegnitz) - Nürnberg Hbf.</li><li><strong>RB 30 </strong>endet von Nürnberg Hbf kommend in Hersbruck(r Pegnitz). Die Züge entfallen zwischen Hersbruck(r Pegnitz) - Neuhaus (Pegnitz).</li><li><strong>RE 31: </strong>Im 2- bzw. 3-Stundentakt, durchgehende Verbindungen zwischen Hof Hbf und Nürnberg Hbf, die über Marktredwitz umgeleitet werden.</li></ul><p><strong>Zwischen Hersbruck(r) und Nürnberg</strong> verkehren auf der rechten Pegnitzstrecke die Züge der RE-Linie 40/41 und die RB-Züge der Mittelfrankenbahn, auf der linken Pegnitzstrecke die Züge der S-Bahn Nürnberg.</p><p>Ein Ersatzverkehr mit Bussen ist wie folgt eingerichtet:</p><ul><li>Zwischen <strong>Neuhaus(Pegnitz) und Hersbruck(r Pegnitz) </strong>verkehren stündlich Busse <strong>mit allen Unterwegshalten.</strong></li></ul><p>** Bitte beachten Sie, die Ersatzverkehr-Haltestelle in Rupprechtstegen in Fahrtrichtung Hersbruck wurde verlegt. Die neue Ersatzhaltestelle befindet sich in der Ortsmitte, am Schlauchturm. **</p><ul><li>Zwischen <strong>Bayreuth Hbf - Nürnberg Hbf </strong>verkehren stündlich<strong> Expressbusse ohne Zwischenhalte</strong>.</li><li>Zwischen<strong> Pegnitz - Nürnberg Hbf</strong> verkehren stündlich<strong> Expressbusse ohne Zwischenhalte</strong>.</li><li>Zwischen <strong>Neuhaus(Pegnitz) - Nürnberg Hbf </strong>verkehren stündlich<strong> Expressbusse ohne Zwischenhalte</strong>.</li></ul><p><strong>Bitte informieren Sie sich in den Onlinemedien www.bahn.de und im DB Navigator über Zugausfälle und mögliche Verbindungen.</strong></p><p>Den Fahrplan der Ersatzbusse und den Fahrplan für die Umleiterzüge finden Sie im Anhang als PDF.</p>",
-      "durationBegin": "18.09.2025",
-      "mapHref": "https://karte.bahn.de/detail/641babaf-d92f-485d-a397-1fdc8d9bceac",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-06-15/c6f5ce78-7a3b-4fdd-9269-6dc17dfbbf62Br%25C3%25BCckensperrung%2BPegnitztal%2B4.5.%2B-%2B14.9.2026.pdf",
-          "label": "Brückensperrung Pegnitztal 4.5. - 14.9.2026.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-muenchen-de/aktuell/presseinformationen/Instandsetzung-der-Pegnitzbruecken-dauert-voraussichtlich-bis-Mitte-naechsten-Jahres-13601882#",
-          "label": "Pressemeldung 05.11.2025",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-muenchen-de/aktuell/presseinformationen/Instandsetzung-der-Pegnitzbruecken-Zugverkehr-wird-stufenweise-aufgenommen-13772780",
-          "label": "Pressemeldung 17.03.2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus EV",
-          "filterName": "Bus EV",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 30",
-          "filterName": "RB 30 Nürnberg",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 30",
-          "filterName": "RE 30",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 31",
-          "filterName": "RE 31",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 32",
-          "filterName": "RE 32",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 33",
-          "filterName": "RE 33",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 38",
-          "filterName": "RE 38",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.06.2026 06:15",
-      "expand": true,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
       "id": "88b31576-d0dd-44b2-9f9f-618a400da781",
