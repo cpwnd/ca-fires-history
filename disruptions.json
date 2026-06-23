@@ -410,6 +410,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "bcf4cf97-0c6b-4ed7-86b8-48ce62b5df6b",
+      "disruptionId": "a9de4fe0-2626-449c-9bdf-ddb12c546e42",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S1  Freising/Flughafen ↔ Leuchtenbergring: Defektes Stellwerk",
+      "summary": "Zwischen Freising/Flughafen und Leuchtenbergring fahren bis auf Weiteres keine S-Bahnen.",
+      "text": "<p>Wir haben einen Ersatzverkehr mit Bus und Taxis zwischen Laim ↔ Freising sowie zwischen Neufahrn ↔ Flughafen für Sie eingerichtet. Nutzen Sie bitte nur die speziell gekennzeichneten Fahrzeuge.</p><p>Für Reisende zum Flughafen ist in Neufahrn ein Umstieg in den Ersatzverkehr zum Flughafen notwendig.</p><p>Durch die verlängerten Fahrzeiten des Ersatzverkehrs nutzen Sie bitte überwiegend die S-Bahnen der Linie S 8 von / zum Flughafen.</p><p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
+      "durationBegin": "23.06.2026",
+      "durationEnd": "23.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/a9de4fe0-2626-449c-9bdf-ddb12c546e42",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/0f0c571e-4813-463f-ab32-5ce21c9d2b8dst%25C3%25B6rungskarte_20260623-113631.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/0f0c571e-4813-463f-ab32-5ce21c9d2b8dst%25C3%25B6rungskarte_20260623-113631.png",
+          "info": "",
+          "alt": "Störungskarte 23.06.2026 11:36:31",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.06.2026 11:50",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/bcf4cf97-0c6b-4ed7-86b8-48ce62b5df6b",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
+    },
+    {
       "id": "be0765db-7d93-4aba-90bd-b6aeda0267a0",
       "disruptionId": "7f3e37dc-6ae0-41cf-a2b4-23057c1a3512",
       "author": "S_BAHN_MUC",
@@ -417,16 +462,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Weiche"
       },
-      "headline": "S 8 Herrsching: VORABINFORMATION! Reparatur an einer Weiche am Dienstag den 23.06.2026",
-      "summary": " Von 09:15 Uhr bis 12:15 Uhr findet zwischen Seefeld-Hechendorf ↔ Herrsching kein Zugverkehr statt.",
-      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Seefeld-Hechendorf ↔ Herrsching eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte informieren Sie sich rechtzeitig vor Fahrtantritt über Ihre Reiseverbindung auf: www.s-bahn-muenchen.de/de</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "headline": "S 8 Herrsching: Reparatur an einer Weiche ",
+      "summary": " Zwischen 09:15 Uhr bis ca. 12:15 Uhr finden zwischen Seefeld-Hechendorf ↔ Herrsching keine Zugfahrten statt.",
+      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Seefeld-Hechendorf ↔ Herrsching eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte informieren Sie sich vor Fahrtantritt über Ihre Reiseverbindung auf: www.s-bahn-muenchen.de/de</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
       "durationBegin": "22.06.2026",
       "durationEnd": "23.06.2026",
       "mapHref": "https://karte.bahn.de/detail/7f3e37dc-6ae0-41cf-a2b4-23057c1a3512",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/2b332de2-c3a8-4301-bbd1-d9d5690f76a9st%25C3%25B6rungskarte_20260622-144703.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/2b332de2-c3a8-4301-bbd1-d9d5690f76a9st%25C3%25B6rungskarte_20260622-144703.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/0ff17fdb-9252-466e-8453-dda90f25d798st%25C3%25B6rungskarte_20260622-144703.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/0ff17fdb-9252-466e-8453-dda90f25d798st%25C3%25B6rungskarte_20260622-144703.png",
           "info": "",
           "alt": "Störungskarte 22.06.2026 14:47:03",
           "openInNewTab": true
@@ -447,8 +492,8 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2026 07:19",
-      "expand": false,
+      "lastModified": "23.06.2026 09:24",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/be0765db-7d93-4aba-90bd-b6aeda0267a0",
@@ -548,15 +593,15 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "S 7 Baierbrunn ↔ Höllriegelskreuth: Reparatur an der Strecke",
-      "summary": "Zwischen Baierbrunn ↔ Höllriegelskreuth und darüber hinaus kommt es zu Verspätungen von 15 bis 20 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke sowie ein technischer Defekt an einem Bahnübergang.</p>",
+      "summary": "Zwischen Baierbrunn ↔ Höllriegelskreuth und darüber hinaus kann es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen kommen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke. Der technische Defekt an einem Bahnübergang ist behoben.</p>",
       "durationBegin": "23.06.2026",
       "durationEnd": "23.06.2026",
       "mapHref": "https://karte.bahn.de/detail/55ad358a-dd70-4cc6-bb4e-191df9999681",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/262851e4-46f0-4388-92ba-d28680681ef8st%25C3%25B6rungskarte_20260623-053518.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/262851e4-46f0-4388-92ba-d28680681ef8st%25C3%25B6rungskarte_20260623-053518.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/145f6022-145b-46b0-9534-fef2c1efbbd8st%25C3%25B6rungskarte_20260623-053518.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/145f6022-145b-46b0-9534-fef2c1efbbd8st%25C3%25B6rungskarte_20260623-053518.png",
           "info": "",
           "alt": "Störungskarte 23.06.2026 05:35:18",
           "openInNewTab": true
@@ -577,7 +622,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2026 07:41",
+      "lastModified": "23.06.2026 11:55",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -643,43 +688,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f11dbe0e-4850-4664-9be1-67c17312d778",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "550b91ea-2655-45f9-b81d-91b56b678af5",
-      "disruptionId": "f3006232-edd5-4ba6-933d-655691dee4c5",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "S 2 Dachau ↔ Ostbahnhof: Technische Störung an einem Zug",
-      "summary": "Heute Vormittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
-      "text": "<p><strong>S 2 Ostbahnhof → Dachau&nbsp;</strong></p><ul><li>S 2 Markt Schwaben Abfahrt 06:32 Uhr → Ostbahnhof Abfahrt 06:46 Uhr → Dachau Bahnhof Ankunft 07:21 Uhr&nbsp;</li><li>S 2 Markt Schwaben Abfahrt 06:52 Uhr → Ostbahnhof Abfahrt 07:06 Uhr → Dachau Bahnhof Ankunft 07:41 Uhr&nbsp;</li><li>S 2 Markt Schwaben Abfahrt 07:32 Uhr → Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uhr&nbsp;</li></ul><p><strong>S 2 Dachau → Ostbahnhof </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 07:39 Uhr → Ostbahnhof Ankunft 08:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:19 Uhr → Ostbahnhof Ankunft 08:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:39 Uhr → Ostbahnhof Ankunft 09:10 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
-      "durationBegin": "23.06.2026",
-      "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/f3006232-edd5-4ba6-933d-655691dee4c5",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.06.2026 01:35",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/550b91ea-2655-45f9-b81d-91b56b678af5",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
@@ -1015,48 +1023,108 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section"
     },
     {
-      "id": "232e63b6-a636-404f-96ee-bcc877788f47",
-      "disruptionId": "983cc01d-e282-4d59-95c9-8c14ee63a938",
-      "author": "FERNVERKEHR_AG",
+      "id": "eb17e680-02fe-4e7c-a882-1aecb5716ff1",
+      "disruptionId": "58ab0578-b54a-4f95-bfd3-f40198591d80",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "Beeinträchtigungen zwischen Duisburg und Köln",
-      "summary": "Aufgrund einer Reparatur an einem Signal zwischen Duisburg und Köln kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Haltausfällen in Düsseldorf Hbf, Düsseldorf Flughafen Köln Hbf und Köln Messe/Deutz zum Teil mit Ersatzhalten sowie Teil-Ausfällen und Umleitungen mit Zusatzverspätungen von bis zu 30 Minuten.\n",
-      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Alle IC/ICE Züge zwischen Duisburg und Köln</li><li>ICE Sprinter Züge zwischen Berlin und Köln </li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "22.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/983cc01d-e282-4d59-95c9-8c14ee63a938",
+      "headline": "S 2 Markt Schwaben ↔ Feldkirchen: Reparatur an einem Signal",
+      "summary": "Zwischen Markt Schwaben und Feldkirchen kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "23.06.2026",
+      "durationEnd": "23.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/58ab0578-b54a-4f95-bfd3-f40198591d80",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-23/3f8a6a56-ab69-47d7-9db8-38d7cc8bc28fst%25C3%25B6rungskarte_20260622-164934.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-23/3f8a6a56-ab69-47d7-9db8-38d7cc8bc28fst%25C3%25B6rungskarte_20260622-164934.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/8b4c0477-ce1d-4d82-be0e-6394d080c5c1st%25C3%25B6rungskarte_20260623-100353.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/8b4c0477-ce1d-4d82-be0e-6394d080c5c1st%25C3%25B6rungskarte_20260623-100353.png",
           "info": "",
-          "alt": "Störungskarte 22.06.2026 16:49:34",
+          "alt": "Störungskarte 23.06.2026 10:03:53",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "SBAHN"
       ],
       "states": [
-        "NW"
+        "BY"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2026 05:54",
+      "lastModified": "23.06.2026 11:38",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/232e63b6-a636-404f-96ee-bcc877788f47",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section2"
+      "detailPagePath": "/service/fahrplaene/eb17e680-02fe-4e7c-a882-1aecb5716ff1",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
+    },
+    {
+      "id": "c8a209fb-31ca-4376-8f91-1a99174dd534",
+      "disruptionId": "a2576d33-6b6d-40a9-acc5-69c7b06e5804",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Erfurt Nord ⇄ Nordhausen - Verspätungen",
+      "summary": "Der Bahnhof Straußfurt ist im Moment beeinträchtigt. Dauer der Störung bis Anfang Juli 2026. Der Grund ist die Reparatur an einer Weiche.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 55/RE 56 Erfurt - Nordhausen</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist die Reparatur an einer Weiche.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie mit Verspätungen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "23.06.2026",
+      "durationEnd": "30.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/a2576d33-6b6d-40a9-acc5-69c7b06e5804",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-23/e58d2c61-2535-4818-84eb-177ce585954dst%25C3%25B6rungskarte_20260623-075715.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-06-23/e58d2c61-2535-4818-84eb-177ce585954dst%25C3%25B6rungskarte_20260623-075715.png",
+          "info": "",
+          "alt": "Störungskarte 23.06.2026 07:57:15",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "RB 52",
+          "filterName": "RB 52",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 56",
+          "filterName": "RB 56",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 56",
+          "filterName": "RE 56",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "23.06.2026 08:00",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/c8a209fb-31ca-4376-8f91-1a99174dd534",
+      "magnoliaPath": "/aktuell/suedost/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
