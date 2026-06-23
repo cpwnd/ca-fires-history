@@ -79,6 +79,50 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "908d30a0-70e3-40ad-a81d-c81932bdc17d",
+      "disruptionId": "dbe7ed52-9881-4f1d-a0bc-e53edc0b22e7",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigungen zwischen Leipzig und Dresden ",
+      "summary": "Aufgrund einer technischen Störung an der Strecke im Raum Riesa kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge entfallen zwischen Leipzig und Dresden.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC Züge zwischen Leipzig und Dresden</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "23.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/dbe7ed52-9881-4f1d-a0bc-e53edc0b22e7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-23/e7dd4274-bcf2-49d4-95f3-7103b65d06b0st%25C3%25B6rungskarte_20260623-135726.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-23/e7dd4274-bcf2-49d4-95f3-7103b65d06b0st%25C3%25B6rungskarte_20260623-135726.png",
+          "info": "",
+          "alt": "Störungskarte 23.06.2026 13:57:26",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "23.06.2026 13:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/908d30a0-70e3-40ad-a81d-c81932bdc17d",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "b64dfb9c-9fd7-4ffa-ad17-7db4a8782913",
       "disruptionId": "fc442d55-3284-40b3-b667-c64735e86834",
       "author": "REGIO_MITTE",
@@ -410,96 +454,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "bcf4cf97-0c6b-4ed7-86b8-48ce62b5df6b",
-      "disruptionId": "a9de4fe0-2626-449c-9bdf-ddb12c546e42",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S1  Freising/Flughafen ↔ Leuchtenbergring: Defektes Stellwerk",
-      "summary": "Zwischen Freising/Flughafen und Leuchtenbergring fahren bis auf Weiteres keine S-Bahnen.",
-      "text": "<p>Wir haben einen Ersatzverkehr mit Bus und Taxis zwischen Laim ↔ Freising sowie zwischen Neufahrn ↔ Flughafen für Sie eingerichtet. Nutzen Sie bitte nur die speziell gekennzeichneten Fahrzeuge.</p><p>Für Reisende zum Flughafen ist in Neufahrn ein Umstieg in den Ersatzverkehr zum Flughafen notwendig.</p><p>Durch die verlängerten Fahrzeiten des Ersatzverkehrs nutzen Sie bitte überwiegend die S-Bahnen der Linie S 8 von / zum Flughafen.</p><p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
-      "durationBegin": "23.06.2026",
-      "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/a9de4fe0-2626-449c-9bdf-ddb12c546e42",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/0f0c571e-4813-463f-ab32-5ce21c9d2b8dst%25C3%25B6rungskarte_20260623-113631.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/0f0c571e-4813-463f-ab32-5ce21c9d2b8dst%25C3%25B6rungskarte_20260623-113631.png",
-          "info": "",
-          "alt": "Störungskarte 23.06.2026 11:36:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.06.2026 11:50",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/bcf4cf97-0c6b-4ed7-86b8-48ce62b5df6b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
-    },
-    {
-      "id": "be0765db-7d93-4aba-90bd-b6aeda0267a0",
-      "disruptionId": "7f3e37dc-6ae0-41cf-a2b4-23057c1a3512",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S 8 Herrsching: Reparatur an einer Weiche ",
-      "summary": " Zwischen 09:15 Uhr bis ca. 12:15 Uhr finden zwischen Seefeld-Hechendorf ↔ Herrsching keine Zugfahrten statt.",
-      "text": "<p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Seefeld-Hechendorf ↔ Herrsching eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte informieren Sie sich vor Fahrtantritt über Ihre Reiseverbindung auf: www.s-bahn-muenchen.de/de</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
-      "durationBegin": "22.06.2026",
-      "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/7f3e37dc-6ae0-41cf-a2b4-23057c1a3512",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/0ff17fdb-9252-466e-8453-dda90f25d798st%25C3%25B6rungskarte_20260622-144703.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/0ff17fdb-9252-466e-8453-dda90f25d798st%25C3%25B6rungskarte_20260622-144703.png",
-          "info": "",
-          "alt": "Störungskarte 22.06.2026 14:47:03",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "23.06.2026 09:24",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/be0765db-7d93-4aba-90bd-b6aeda0267a0",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section1"
-    },
-    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -585,25 +539,25 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "9fec8472-379d-4cf5-ae31-c392f8827177",
-      "disruptionId": "55ad358a-dd70-4cc6-bb4e-191df9999681",
+      "id": "bcf4cf97-0c6b-4ed7-86b8-48ce62b5df6b",
+      "disruptionId": "a9de4fe0-2626-449c-9bdf-ddb12c546e42",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "S 7 Baierbrunn ↔ Höllriegelskreuth: Reparatur an der Strecke",
-      "summary": "Zwischen Baierbrunn ↔ Höllriegelskreuth und darüber hinaus kann es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen kommen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke. Der technische Defekt an einem Bahnübergang ist behoben.</p>",
+      "headline": "S1  Freising/Flughafen ↔ Leuchtenbergring: Defektes Stellwerk behoben",
+      "summary": "Zwischen Freising/Flughafen und Leuchtenbergring sind wieder S-Bahnfahrten möglich.",
+      "text": "<p>Es kommt jedoch noch zu Folgeverspätungen, Ausfällen und Teilausfällen.</p><p>Der Grund hierfür war ein defektes Stellwerk.</p>",
       "durationBegin": "23.06.2026",
       "durationEnd": "23.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/55ad358a-dd70-4cc6-bb4e-191df9999681",
+      "mapHref": "https://karte.bahn.de/detail/a9de4fe0-2626-449c-9bdf-ddb12c546e42",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/145f6022-145b-46b0-9534-fef2c1efbbd8st%25C3%25B6rungskarte_20260623-053518.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/145f6022-145b-46b0-9534-fef2c1efbbd8st%25C3%25B6rungskarte_20260623-053518.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/2ff4c3a5-4985-4e88-9ecb-7090c13880d3st%25C3%25B6rungskarte_20260623-141623.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/2ff4c3a5-4985-4e88-9ecb-7090c13880d3st%25C3%25B6rungskarte_20260623-141623.png",
           "info": "",
-          "alt": "Störungskarte 23.06.2026 05:35:18",
+          "alt": "Störungskarte 23.06.2026 14:16:23",
           "openInNewTab": true
         }
       ],
@@ -617,17 +571,17 @@
       ],
       "lines": [
         {
-          "name": "S 7",
-          "filterName": "S 7 München",
+          "name": "S 1",
+          "filterName": "S 1 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2026 11:55",
-      "expand": false,
+      "lastModified": "23.06.2026 14:18",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9fec8472-379d-4cf5-ae31-c392f8827177",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
+      "detailPagePath": "/service/fahrplaene/bcf4cf97-0c6b-4ed7-86b8-48ce62b5df6b",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "f11dbe0e-4850-4664-9be1-67c17312d778",
@@ -638,15 +592,15 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "Beeinträchtigungen zwischen Aschaffenburg Hbf und Miltenberg",
-      "summary": "Der Streckenabschnitt zwischen Aschaffenburg Hbf und Miltenberg ist nach einer Störung an einem Stellwerk immer noch beeinträchtigt. Dauer der Beeinträchtigung ist voraussichtlich bis Dienstag, 23.06 gegen Betriebsschluss. Die Züge der Linie RB 88 verkehren zwischen Obernburg-Elsenfeld und Miltenberg. Die Zugfahrten der Linie RE 87 zwischen Miltenberg und Aschaffenburg Hbf fallen aus. Ein Ersatzverkehr mit acht Bussen im Pendelbetrieb, zwischen Obernburg-Elsenfeld  und Aschaffenburg Hbf ist eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung vor Fahrtantritt.\n",
+      "summary": "Der Streckenabschnitt zwischen Aschaffenburg Hbf und Miltenberg, ist nach einem Kabelschaden in einem Stellwerk beeinträchtigt. Dauer der Beeinträchtigung ist voraussichtlich bis Mittwoch, 24.06 gegen Betriebsschluss. Die Züge der Linie RB 88 verkehren zwischen Obernburg-Elsenfeld und Miltenberg. Die Zugfahrten der Linie RE 87 zwischen Miltenberg und Aschaffenburg Hbf fallen aus. Ein Ersatzverkehr mit acht Bussen im Pendelbetrieb, zwischen Obernburg-Elsenfeld  und Aschaffenburg Hbf ist eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung vor Fahrtantritt.\n",
       "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 87/RB 88 (Aschaffenburg – Crailsheim)</li></ul><p></p><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p><p>Eine Fahrradmitnahme in den Bussen ist nicht möglich.</p>",
       "durationBegin": "22.06.2026",
-      "durationEnd": "24.06.2026",
+      "durationEnd": "25.06.2026",
       "mapHref": "https://karte.bahn.de/detail/3f26f112-e477-4169-a49f-d3e19b6ff643",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-22/a116f14f-f1cb-41fb-935e-59f4311a003bst%25C3%25B6rungskarte_20260622-174921.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-22/a116f14f-f1cb-41fb-935e-59f4311a003bst%25C3%25B6rungskarte_20260622-174921.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-23/fcb61ffa-9eaf-425d-83e0-e6af7e7105dfst%25C3%25B6rungskarte_20260622-174921.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-06-23/fcb61ffa-9eaf-425d-83e0-e6af7e7105dfst%25C3%25B6rungskarte_20260622-174921.png",
           "info": "",
           "alt": "Störungskarte 22.06.2026 17:49:21",
           "openInNewTab": true
@@ -682,12 +636,57 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "22.06.2026 17:59",
+      "lastModified": "23.06.2026 13:58",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/f11dbe0e-4850-4664-9be1-67c17312d778",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "9fec8472-379d-4cf5-ae31-c392f8827177",
+      "disruptionId": "55ad358a-dd70-4cc6-bb4e-191df9999681",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 7 Baierbrunn ↔ Höllriegelskreuth: Reparatur an der Strecke",
+      "summary": "Zwischen Baierbrunn ↔ Höllriegelskreuth und darüber hinaus kann es zu Verspätungen von 10 bis 15 Minuten und Teilausfällen kommen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke. Der technische Defekt an einem Bahnübergang ist behoben.</p>",
+      "durationBegin": "23.06.2026",
+      "durationEnd": "23.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/55ad358a-dd70-4cc6-bb4e-191df9999681",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/5514339b-3cf4-4683-ae57-566497541750st%25C3%25B6rungskarte_20260623-053518.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/5514339b-3cf4-4683-ae57-566497541750st%25C3%25B6rungskarte_20260623-053518.png",
+          "info": "",
+          "alt": "Störungskarte 23.06.2026 05:35:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "23.06.2026 12:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9fec8472-379d-4cf5-ae31-c392f8827177",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
@@ -1038,8 +1037,8 @@
       "mapHref": "https://karte.bahn.de/detail/58ab0578-b54a-4f95-bfd3-f40198591d80",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/8b4c0477-ce1d-4d82-be0e-6394d080c5c1st%25C3%25B6rungskarte_20260623-100353.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/8b4c0477-ce1d-4d82-be0e-6394d080c5c1st%25C3%25B6rungskarte_20260623-100353.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/6d3d84fd-3784-468c-822a-945ab103755ast%25C3%25B6rungskarte_20260623-100353.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-06-23/6d3d84fd-3784-468c-822a-945ab103755ast%25C3%25B6rungskarte_20260623-100353.png",
           "info": "",
           "alt": "Störungskarte 23.06.2026 10:03:53",
           "openInNewTab": true
@@ -1060,7 +1059,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "23.06.2026 11:38",
+      "lastModified": "23.06.2026 14:39",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
