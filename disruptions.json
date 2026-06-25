@@ -230,50 +230,6 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
     },
     {
-      "id": "7902d8ab-12b2-46dc-afb5-ef0f7214d527",
-      "disruptionId": "10a3b606-a257-4e0a-bfa7-5eaee422e451",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "police_activity",
-        "label": "Entschärfung einer Fliegerbombe"
-      },
-      "headline": "Sprengstofffund in Norden",
-      "summary": "Aufgrund eines Sprengstofffundes kommt es in Norden auf der Strecke von Emden nach Norddeich Mole zu Beeinträchtigungen und Zugausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p></p><ul><li>IC-Züge der Verbindung Norddeich Mole - Emden - Münster(Westf) - Köln - Koblenz</li><li>IC-Züge der Verbindung Norddeich Mole - Emden - Bremen - Hannover - Magdeburg - Leipzig - Dresden</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "24.06.2026",
-      "mapHref": "https://karte.bahn.de/detail/10a3b606-a257-4e0a-bfa7-5eaee422e451",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-24/9c74c605-3665-4858-a346-c7dec58902fbst%25C3%25B6rungskarte_20260624-192710.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-06-24/9c74c605-3665-4858-a346-c7dec58902fbst%25C3%25B6rungskarte_20260624-192710.png",
-          "info": "",
-          "alt": "Störungskarte 24.06.2026 19:27:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "24.06.2026 19:37",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/7902d8ab-12b2-46dc-afb5-ef0f7214d527",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity"
-    },
-    {
       "id": "1e68395d-7cce-4d76-8333-e32ff1612b2e",
       "disruptionId": "2a0c9b09-9c1e-47b1-ba0f-8ee0fa4f1a43",
       "author": "REGIO_NORD",
@@ -451,6 +407,68 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "6fdaf36b-21eb-4df4-bacf-50a4fd9f969d",
+      "disruptionId": "6b378120-e87d-4d96-93b1-c862993cc239",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "S-Bahn Mitteldeutschland - CityTunnel Leipzig beeinträchtigt",
+      "summary": "Der CityTunnel Leipzig ist momentan für den Zugverkehr beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 11 Uhr. Der Grund ist eine Reparatur an der Oberleitung.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li><strong>S 1</strong> Leipzig-Stötteritz - Leipzig Hbf (tief) - Leipzig Miltitzer Allee<ul><li>Endet und Beginnt in Leipzig Hbf (oben)</li></ul></li><li><strong>S 2</strong> Leipzig Connewitz - Leipzig Hbf (tief) - Bitterfeld - Dessau Hbf/Lutherstadt Wittenberg - Zahna/Jüterbog<ul><li>Endet und Beginnt in Leipzig Hbf (oben)</li></ul></li><li><strong>S 3 </strong>Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf (tief) - Böhlen (Leipzig) - Borna - Geithain</li><li><strong>S 4 </strong>Falkenberg - Torgau - Eilenburg - Leipzig Hbf (tief) - Wurzen (- Oschatz)<ul><li>Züge werden zwischen Leipzig Hbf und Leipzig Engelsdorf umgeleitet.</li></ul></li><li><strong>S 5/S 5X</strong> Halle(Saale) Hbf - Leipzig/Halle Flughafen - Leipzig Hbf (tief) - Altenburg - Zwickau(Sachs) Hbf</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Oberleitung.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie auch andere Verkehrsmittel, um zum Leipzig Hbf zu gelangen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "25.06.2026",
+      "durationEnd": "25.06.2026",
+      "mapHref": "https://karte.bahn.de/detail/6b378120-e87d-4d96-93b1-c862993cc239",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Mitteldeutschland",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5X",
+          "filterName": "S 5X Mitteldeutschland",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.06.2026 02:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6fdaf36b-21eb-4df4-bacf-50a4fd9f969d",
+      "magnoliaPath": "/aktuell/suedost/massive_impairment_technical_problem_railway_section"
     },
     {
       "id": "d56675d2-78e5-4887-a14a-4a8caf8c3477",
