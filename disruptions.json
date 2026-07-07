@@ -558,6 +558,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "f5f05852-36b5-4266-872a-c497276d1aab",
+      "disruptionId": "574e2acb-0bae-4715-befe-4e48620935ce",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S 8 Weßling ↔ Herrsching: Polizeieinsatz",
+      "summary": "Zwischen Weßling und Herrsching sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Weßling.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen zwischen Weßling und Herrsching eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Der Grund hierfür ist ein Polizeieinsatz.</p>",
+      "durationBegin": "07.07.2026",
+      "durationEnd": "07.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/574e2acb-0bae-4715-befe-4e48620935ce",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-07/e7598e3f-b941-4320-acbd-8961356ea7cfst%25C3%25B6rungskarte_20260707-114347.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-07/e7598e3f-b941-4320-acbd-8961356ea7cfst%25C3%25B6rungskarte_20260707-114347.png",
+          "info": "",
+          "alt": "Störungskarte 07.07.2026 11:43:47",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.07.2026 13:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f5f05852-36b5-4266-872a-c497276d1aab",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity3"
+    },
+    {
       "id": "3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
       "disruptionId": "8e9951f8-cc45-466f-ab7f-a61724e18fce",
       "author": "REGIO_BY",
