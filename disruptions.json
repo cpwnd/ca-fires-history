@@ -180,6 +180,82 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "f9900b73-e407-4a79-9f7b-4a200d75e4f5",
+      "disruptionId": "0fa8ccc0-8393-4f53-9ea1-6b73c93cd8d8",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Verkehrsmeldung für die Linie(n) RB 43, RB 49, RB 93, RE 13, RE 18 und RE 2 - Cottbus Hbf",
+      "summary": " Donnerstag, 09.07.2026 13:00 Uhr bis vsl. Donnerstag, 09.07.2026 18:00 Uhr ",
+      "text": "<p>Am Donnerstag, den 09.07.26, kommt es Bereich Cottbus Hbf zu einer Entschärfung einer Fliegerbombe. Ab 13 Uhr bis vsl. 18 Uhr muss der Zugverkehr in diesem Bereich eingestellt werden.</p><p>Betroffene Linien RE2/ RE13/ RE18/ RB43/ RB49/ RB93</p><p>Weitere Informationen folgen in Kürze.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "09.07.2026",
+      "durationEnd": "09.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/0fa8ccc0-8393-4f53-9ea1-6b73c93cd8d8",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RB 43",
+          "filterName": "RB 43",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 49",
+          "filterName": "RB 49",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 93",
+          "filterName": "RB 93",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 13",
+          "filterName": "RE 13",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 18",
+          "filterName": "RE 18",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "07.07.2026 09:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f9900b73-e407-4a79-9f7b-4a200d75e4f5",
+      "magnoliaPath": "/aktuell/nordost/no_service_police_activity"
+    },
+    {
       "id": "f9953d50-cbb8-4f21-8092-eeab5d9dbb19",
       "disruptionId": "c59b1643-d00c-4126-829e-3e4ee3e87130",
       "author": "REGIO_MITTE",
@@ -482,51 +558,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "854ddf0c-a395-4777-898d-b9f392e358f1",
-      "disruptionId": "6c0126ac-0226-4971-8836-dc7caca0a183",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Die Strecke zwischen Neu-Edingen/Friedrichsfeld und Schwetzingen ist eingestellt.",
-      "summary": "Der Grund ist ein erhöhter Krankenstand beim Fahrpersonal.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Neu-Edingen/Friedrichsfeld &lt;&gt; Schwetzingen</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S12 - (Hockenheim) &lt;&gt; Schwetzingen &lt;&gt; Neu-Edingen/Friedrichsfeld &lt;&gt; (Heidelberg Hbf)</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Der Zug fällt aus.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit einem Großraumtaxi ist eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "07.07.2026",
-      "durationEnd": "07.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/6c0126ac-0226-4971-8836-dc7caca0a183",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-07/2403cf12-1fa6-4339-88b3-c0bedbc11ff8st%25C3%25B6rungskarte_20260707-055101.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-07/2403cf12-1fa6-4339-88b3-c0bedbc11ff8st%25C3%25B6rungskarte_20260707-055101.png",
-          "info": "",
-          "alt": "Störungskarte 07.07.2026 05:51:01",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 12",
-          "filterName": "S 12 Rhein-Neckar",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "07.07.2026 07:19",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/854ddf0c-a395-4777-898d-b9f392e358f1",
-      "magnoliaPath": "/aktuell/mitte/no_service_other_cause"
-    },
-    {
       "id": "3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
       "disruptionId": "8e9951f8-cc45-466f-ab7f-a61724e18fce",
       "author": "REGIO_BY",
@@ -685,8 +716,8 @@
       "mapHref": "https://karte.bahn.de/detail/e0e0fafe-f735-46b9-9faf-1bd26de17c46",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-06/0951d298-f028-4d25-8a03-02e6698f00bast%25C3%25B6rungskarte_20260706-142035.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-06/0951d298-f028-4d25-8a03-02e6698f00bast%25C3%25B6rungskarte_20260706-142035.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-07/a7dc2c5b-1469-4167-893d-54f9ed3bfd04st%25C3%25B6rungskarte_20260706-142035.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-07/a7dc2c5b-1469-4167-893d-54f9ed3bfd04st%25C3%25B6rungskarte_20260706-142035.png",
           "info": "",
           "alt": "Störungskarte 06.07.2026 14:20:35",
           "openInNewTab": true
@@ -694,7 +725,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-06/e5d70ab9-eff1-4e47-9b57-7cab1aa46102Ersatzverkehr%2BS%2B5%2Bvom%2B07.07.%2Bbis%2B15.07.2026.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-07/c1f63a47-1eea-480d-a77f-4d9fc6931bd7Ersatzverkehr%2BS%2B5%2Bvom%2B07.07.%2Bbis%2B15.07.2026.pdf",
           "label": "Ersatzverkehr S 5 vom 07.07. bis 15.07.2026.pdf",
           "info": "",
           "openInNewTab": true
@@ -704,6 +735,12 @@
         {
           "href": "https://www.s-bahn-muenchen.de/s3",
           "label": "Baustellen der S 3",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-muenchen-de/aktuell/presseinformationen/Bauarbeiten-in-Giesing-muessen-verlaengert-werden--13961252",
+          "label": "\"Bauarbeiten in Giesing müssen verlängert werden\"",
           "info": "",
           "openInNewTab": true
         },
@@ -732,7 +769,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "06.07.2026 14:23",
+      "lastModified": "07.07.2026 08:47",
       "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/aa048324-26e0-4cef-9058-66ad312cc739",
