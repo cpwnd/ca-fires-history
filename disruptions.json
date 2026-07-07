@@ -482,25 +482,25 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "a7ea9d13-f5a3-4d44-82cc-bff2424aa63a",
-      "disruptionId": "2333e657-994d-4beb-9924-2647a04bea73",
-      "author": "S_BAHN_MUC",
+      "id": "854ddf0c-a395-4777-898d-b9f392e358f1",
+      "disruptionId": "6c0126ac-0226-4971-8836-dc7caca0a183",
+      "author": "REGIO_MITTE",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
       },
-      "headline": "S 8 Ismaning ↔ Flughafen: Bauarbeiten",
-      "summary": "Aufgrund von kurzfristigen Bauarbeiten ist ab ca. 00:30 Uhr bis Betriebsende kein Zugverkehr zwischen Ismaning und Flughafen möglich. ",
-      "text": "<p>Ab den folgenden Fahrten wenden die Züge der Linie S8 in Ismaning:</p><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li>S 8 Herrsching Abfahrt 23:25 Uhr → Ismaning 00:42 Uhr → Flughafen Ankunft 00:55 Uhr</li></ul><p><strong>S 8 Flughafen ↔ Herrsching </strong></p><ul><li>S 8 Flughafen Abfahrt 01:04 Uhr → Ismaning 01:18 Uhr → Pasing Ankunft 01:53 Uhr</li></ul><p>Wir haben für Sie einen Ersatzverkehr zwischen Ismaning und Flughafen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit längere Reisezeiten.</p><p>Der Grund hierfür sind kurzfristige Bauarbeiten.</p>",
-      "durationBegin": "06.07.2026",
+      "headline": "Die Strecke zwischen Neu-Edingen/Friedrichsfeld und Schwetzingen ist eingestellt.",
+      "summary": "Der Grund ist ein erhöhter Krankenstand beim Fahrpersonal.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Neu-Edingen/Friedrichsfeld &lt;&gt; Schwetzingen</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S12 - (Hockenheim) &lt;&gt; Schwetzingen &lt;&gt; Neu-Edingen/Friedrichsfeld &lt;&gt; (Heidelberg Hbf)</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Der Zug fällt aus.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit einem Großraumtaxi ist eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "07.07.2026",
       "durationEnd": "07.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/2333e657-994d-4beb-9924-2647a04bea73",
+      "mapHref": "https://karte.bahn.de/detail/6c0126ac-0226-4971-8836-dc7caca0a183",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-06/34b009df-78e3-41d4-b408-750f2bb09092st%25C3%25B6rungskarte_20260706-222047.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-06/34b009df-78e3-41d4-b408-750f2bb09092st%25C3%25B6rungskarte_20260706-222047.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-07/2403cf12-1fa6-4339-88b3-c0bedbc11ff8st%25C3%25B6rungskarte_20260707-055101.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-07/2403cf12-1fa6-4339-88b3-c0bedbc11ff8st%25C3%25B6rungskarte_20260707-055101.png",
           "info": "",
-          "alt": "Störungskarte 06.07.2026 22:20:47",
+          "alt": "Störungskarte 07.07.2026 05:51:01",
           "openInNewTab": true
         }
       ],
@@ -510,91 +510,21 @@
         "SBAHN"
       ],
       "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "06.07.2026 23:16",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a7ea9d13-f5a3-4d44-82cc-bff2424aa63a",
-      "magnoliaPath": "/aktuell/bayern/no_service_construction"
-    },
-    {
-      "id": "13a2b780-2f64-469c-a3db-ccbcb348f606",
-      "disruptionId": "7f1f0330-b114-49d2-9c52-5811a4ac5da5",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Gaildorf West und Schwäbisch Hall-Hessental",
-      "summary": "Der Streckenabschnitt zwischen Gaildorf West und Schwäbisch Hall-Hessental ist aktuell gesperrt. Dauer der Sperrung bis vsl. Dienstag, den 7. Juli, 07:00 Uhr. Der Grund ist eine Reparatur an der Strecke. In der Folge kommt es zu Verspätungen, Ausfällen und Teilausfällen. Es ist ein Ersatzverkehr mit Bussen zwischen Gaildorf West und Schwäbisch Hall-Hessental eingerichtet. Die Abfahrtszeiten der Busse entnehmen sie bitte der Reiseauskunft. Die Abfahrtshaltestellen der Busse sind in Gaildorf West Bahnhof und Schwäbisch Hall-Hessental Bahnhof.\n\nBitte beachten Sie, dass ab dem 7. Juli, 07:00 Uhr reguläre Bauarbeiten zwischen Murrhardt und Schwäbisch Hall-Hessental/Crailsheim stattfinden.",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>MEX 90 (Stuttgart Hbf-Schwäbisch Hall-Hessental)</li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "27.06.2026",
-      "durationEnd": "07.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/7f1f0330-b114-49d2-9c52-5811a4ac5da5",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-01/48487a51-0de0-45a9-81e8-386aeee0b493st%25C3%25B6rungskarte_20260628-112914.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-01/48487a51-0de0-45a9-81e8-386aeee0b493st%25C3%25B6rungskarte_20260628-112914.png",
-          "info": "",
-          "alt": "Störungskarte 28.06.2026 11:29:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-01/cdf81fa8-87b1-42b4-8f27-07f905e89a9926037%2BBus%2BErsatzfahrplan%2B2.%2Bbis%2B7.%2BJuli%2B2026%252C%2B7%2BUhr.pdf",
-          "label": "Bus Ersatzfahrplan 2. bis 7. Juli 2026, 7 Uhr",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-01/bc364ccd-7a13-43d8-b30f-8d022b7f814826037%2BBus%2BErsatzfahrplan%2B1.%2BJuli%2B2026.pdf",
-          "label": "Bus Ersatzfahrplan 1. Juli 2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://karte.bahn.de/de/detail/669fafb7-64ff-4dc6-aeea-15f34fa062e4?f=0!mqzrgsg0!mr16wn3z!1!1!1!0!wt!1t38zd!ae85hc",
-          "label": "Baumaßnahme Murrhardt - Schwäbisch Hall-Hessental/Crailsheim ab dem 7. Juli 2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
         "BW"
       ],
       "lines": [
         {
-          "name": "RB MEX90",
-          "filterName": "RB MEX90",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE MEX90",
-          "filterName": "RE MEX90",
-          "property": "REGIONAL"
+          "name": "S 12",
+          "filterName": "S 12 Rhein-Neckar",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "01.07.2026 00:01",
+      "lastModified": "07.07.2026 07:19",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/13a2b780-2f64-469c-a3db-ccbcb348f606",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section1"
+      "detailPagePath": "/service/fahrplaene/854ddf0c-a395-4777-898d-b9f392e358f1",
+      "magnoliaPath": "/aktuell/mitte/no_service_other_cause"
     },
     {
       "id": "3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
@@ -865,6 +795,50 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/16868f25-964e-4785-84c1-e47b0534f3af",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_vehicle1"
+    },
+    {
+      "id": "38955f17-52a3-4eb7-8e9b-fd9cc8fdc680",
+      "disruptionId": "56112d06-c165-4678-8e02-aaef46c87761",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 3 Maisach ↔ Deisenhofen: verlängerte Bauarbeiten",
+      "summary": "Am Dienstag, dem 07.Juli 2026, entfallen ganztägig die S-Bahnen des 10-Minuten-Takts auf der Linie S 3:",
+      "text": "<p><strong>S 3 Maisach → Deisenhofen / Ostbahnhof</strong>&nbsp;</p><ul><li>S 3 Maisach Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:59 Uhr / Abfahrt 07:02 Uhr → Deisenhofen Ankunft 07:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 07:19 Uhr / Abfahrt 07:22 Uhr → Deisenhofen Ankunft 07:41 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:39 Uhr / Abfahrt 07:42 Uhr → Deisenhofen Ankunft 08:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:59 Uhr / Abfahrt 08:02 Uhr → Deisenhofen Ankunft 08:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 08:19 Uhr / Abfahrt 08:22 Uhr → Deisenhofen Ankunft 08:41 Uhr</li><li>S 3 Maisach Abfahrt 08:00 Uhr → Ostbahnhof Ankunft 08:39 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:20 Uhr → Ostbahnhof Ankunft 08:59 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:40 Uhr → Ostbahnhof Ankunft 09:19 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 09:00 Uhr → Ostbahnhof Ankunft 09:39 Uhr&nbsp;</li><li>S 3 <strong> </strong>Pasing Abfahrt 15:41 Uhr → Ostbahnhof Ankunft 15:59 Uhr / Abfahrt 16:02 Uhr → Deisenhofen Ankunft 16:21 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 16:01 Uhr → Ostbahnhof Ankunft 16:19 Uhr / Abfahrt 16:22 Uhr → Deisenhofen Ankunft 16:41 Uhr&nbsp;</li><li>S 3 Pasing Abfahrt 16:21 Uhr → Ostbahnhof Ankunft 16:39 Uhr / Abfahrt 16:42 Uhr → Deisenhofen Ankunft 17:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 16:20 Uhr → Ostbahnhof Ankunft 16:59 Uhr / Abfahrt 17:02 Uhr → Deisenhofen Ankunft 17:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 16:40 Uhr → Ostbahnhof Ankunft 17:19 Uhr / Abfahrt 17:22 Uhr → Deisenhofen Ankunft 17:41 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 17:00 Uhr → Ostbahnhof Ankunft 17:39 Uhr / Abfahrt 17:42 Uhr → Deisenhofen Ankunft 18:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 17:20 Uhr → Ostbahnhof Ankunft 17:59 Uhr / Abfahrt 18:02 Uhr → Deisenhofen Ankunft 18:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 17:40 Uhr → Ostbahnhof Ankunft 18:19 Uhr / Abfahrt 18:22 Uhr → Deisenhofen Ankunft 18:41 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 18:00 Uhr → Ostbahnhof Ankunft 18:39 Uhr / Abfahrt 18:42 Uhr → Deisenhofen Ankunft 19:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 18:20 Uhr → Ostbahnhof Ankunft 18:59 Uhr / Abfahrt 19:02 Uhr → Deisenhofen Ankunft 19:21 Uhr&nbsp;</li></ul><p></p><p><strong>S 3 Deisenhofen → Maisach / Pasing</strong>&nbsp;</p><ul><li>S 3 Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:35 Uhr / Abfahrt 06:37 Uhr → Maisach Ankunft 07:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 06:55 Uhr / Abfahrt 06:57 Uhr → Maisach Ankunft 07:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:15 Uhr / Abfahrt 07:17 Uhr → Maisach Ankunft 07:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:35 Uhr / Abfahrt 07:37 Uhr → Maisach Ankunft 08:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 07:55 Uhr / Abfahrt 07:57 Uhr → Maisach Ankunft 08:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:00 Uhr → Pasing Ankunft 08:35 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:20 Uhr → Pasing Ankunft 08:55 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:40 Uhr → Pasing Ankunft 09:15 Uhr</li><li>&nbsp;S 3 Ostbahnhof Abfahrt 15:17 Uhr → Maisach Ankunft 15:58 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 15:37 Uhr → Maisach Ankunft 16:18 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 15:57 Uhr → Maisach Ankunft 16:38 Uhr&nbsp;</li><li>S 3 Ostbahnhof Abfahrt 16:17 Uhr → Maisach Ankunft 16:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 16:20 Uhr → Ostbahnhof Ankunft 16:35 Uhr / Abfahrt 16:37 Uhr → Maisach Ankunft 17:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 16:40 Uhr → Ostbahnhof Ankunft 16:55 Uhr / Abfahrt 16:57 Uhr → Maisach Ankunft 17:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 17:00 Uhr → Ostbahnhof Ankunft 17:15 Uhr / Abfahrt 17:17 Uhr → Maisach Ankunft 17:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 17:20 Uhr → Ostbahnhof Ankunft 17:35 Uhr / Abfahrt 17:37 Uhr → Maisach Ankunft 18:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 17:40 Uhr → Ostbahnhof Ankunft 17:55 Uhr / Abfahrt 17:57 Uhr → Maisach Ankunft 18:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:00 Uhr → Ostbahnhof Ankunft 18:15 Uhr / Abfahrt 18:17 Uhr → Maisach Ankunft 18:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:20 Uhr → Ostbahnhof Ankunft 18:35 Uhr / Abfahrt 18:37 Uhr → Maisach Ankunft 19:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 18:40 Uhr → Ostbahnhof Ankunft 18:55 Uhr / Abfahrt 18:57 Uhr → Pasing Ankunft 19:15 Uhr&nbsp;</li></ul><p></p><p></p><p>Der Grund hierfür sind nicht rechtzeitig abgeschlossene Bauarbeiten in Giesing infolge extrem hoher Temperaturen sowie die vorübergehende Sperrung einer Güterzugstrecke, die die Anlieferung von Material und Geräten zur Baustelle beeinträchtigt hat.</p>",
+      "durationBegin": "07.07.2026",
+      "durationEnd": "15.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/56112d06-c165-4678-8e02-aaef46c87761",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-07/1b8f8ccc-351c-4dcd-a732-94cc656d3895st%25C3%25B6rungskarte_20260707-023306.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-07/1b8f8ccc-351c-4dcd-a732-94cc656d3895st%25C3%25B6rungskarte_20260707-023306.png",
+          "info": "",
+          "alt": "Störungskarte 07.07.2026 02:33:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.07.2026 03:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/38955f17-52a3-4eb7-8e9b-fd9cc8fdc680",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_construction"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
