@@ -328,6 +328,44 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_vehicle"
     },
     {
+      "id": "8eee8316-72fe-4a59-a844-41316206286e",
+      "disruptionId": "61225ef9-6ccb-4882-92f7-e55d4d233180",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S3 und S5: Verspätungen",
+      "summary": "Aktuell kommt es auf den Linien S3 und S5 zu Abweichungen vom Fahrplan und Verspätungen. Grund: Technische Störung an der Strecke. ",
+      "text": "<p>S3: Verkehrt zwischen Neugraben und Wilhelmsburg.</p><p>S5: Verkehrt zwischen Neugraben und Buxtehude/Stade.</p><p>Bitte achten Sie auch auf die Durchsagen vor Ort.</p>",
+      "durationBegin": "09.07.2026",
+      "durationEnd": "10.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/61225ef9-6ccb-4882-92f7-e55d4d233180",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.07.2026 21:53",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8eee8316-72fe-4a59-a844-41316206286e",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section"
+    },
+    {
       "id": "21d072a0-52ca-41ed-92f3-22ebd0f5955e",
       "disruptionId": "a9c41e65-dc1a-48d4-9651-afbd26f2334a",
       "author": "REGIO_SUEDOST",
