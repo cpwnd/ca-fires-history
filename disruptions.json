@@ -1602,6 +1602,96 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
     },
     {
+      "id": "cd2a4865-1e69-48a6-98e8-b00f3469619d",
+      "disruptionId": "6c60f57b-64d2-4513-896d-75b60d352e4b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Endmeldung: S 8 Johanneskirchen ↔ Flughafen",
+      "summary": "Zwischen Johanneskirchen und Flughafen kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an einem Signal wurde beendet.</p>",
+      "durationBegin": "10.07.2026",
+      "durationEnd": "10.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/6c60f57b-64d2-4513-896d-75b60d352e4b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-10/b02e9296-c661-41c1-b375-8e8a11f63c94st%25C3%25B6rungskarte_20260710-181746.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-10/b02e9296-c661-41c1-b375-8e8a11f63c94st%25C3%25B6rungskarte_20260710-181746.png",
+          "info": "",
+          "alt": "Störungskarte 10.07.2026 18:17:46",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.07.2026 19:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cd2a4865-1e69-48a6-98e8-b00f3469619d",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
+    },
+    {
+      "id": "9e207359-225f-4225-acde-4bca18a39576",
+      "disruptionId": "dadc2d03-d4ad-45dd-8c9f-4a230d3437c2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S4, S6 Trudering ↔ Ebersberg: Reparatur an einem Signal",
+      "summary": "Zwischen Trudering und Ebersberg kommt es zu Verspätungen von bis zu 25 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "10.07.2026",
+      "durationEnd": "10.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/dadc2d03-d4ad-45dd-8c9f-4a230d3437c2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-10/821a82db-c18c-4bb6-bbae-262aac9cb4e1st%25C3%25B6rungskarte_20260710-183437.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-10/821a82db-c18c-4bb6-bbae-262aac9cb4e1st%25C3%25B6rungskarte_20260710-183437.png",
+          "info": "",
+          "alt": "Störungskarte 10.07.2026 18:34:37",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.07.2026 18:36",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9e207359-225f-4225-acde-4bca18a39576",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
+    },
+    {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
       "disruptionId": "76058a00-e740-4704-8f8e-2dbe15bbcc30",
       "author": "S_BAHN_S",
