@@ -640,82 +640,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "aa048324-26e0-4cef-9058-66ad312cc739",
-      "disruptionId": "e0e0fafe-f735-46b9-9faf-1bd26de17c46",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation zu den Linien S 3 und S 5 bis 15. Juli 2026",
-      "summary": "❗❗❗ Die Bauarbeiten werden rechtzeitig beendet, somit kann der S-Bahnverkehr zum Betriebsbeginn (4:40 Uhr) am 15.07. wieder regulär aufgenommen werden. Es entfallen am Vormittag jedoch noch die S-Bahnen des 10-Minuten-Taktes auf der S3❗❗❗",
-      "text": "<p>Die Bauarbeiten der DB InfraGO in Giesing müssen bis Mittwochmorgen, 15.07. verlängert werden. Grund dafür sind die extremen Temperaturen sowie die vorübergehende Sperrung einer wichtigen Güterzugstrecke, die die Anlieferung von Material und Geräten zur Baustelle beeinträchtigt hat.</p><p>Es kommt bis Mittwoch, 15.07.2026, 4:40 Uhr zu folgenden Fahrplanänderungen:</p><p><strong>Linie S 3 Mammendorf ↔ Holzkirchen:</strong></p><ul><li>Züge aus Richtung Mammendorf enden am Ostbahnhof Gleis 4. Züge in Richtung Mammendorf beginnen am Ostbahnhof Gleis 2.</li><li>Züge in/aus Richtung Holzkirchen beginnen/enden am Ostbahnhof Gleis 3 und fahren im 40-Minuten-Takt sowie mit geänderten Fahrzeiten zwischen Ostbahnhof und Holzkirchen.</li><li>Ab 7. Juli entfallen die Züge des 10-Minuten-Takts auf der Linie S 3.</li></ul><p>Weitere Informationen finden Sie unten unter \"Baustellen der S 3\".</p><p></p><p><strong>Linie S 5 Pasing ↔ Kreuzstraße:</strong></p><ul><li>Zwischen Ostbahnhof und Perlach besteht Ersatzverkehr mit Bussen.</li><li>Züge in/aus Richtung Kreuzstraße beginnen/enden in Perlach.</li><li>Züge zwischen Perlach und Pasing/Germering-Unterpfaffenhofen/Weßling entfallen.</li></ul><p>Hinweis:</p><p>Die Fahrten des Ersatzverkehrs sind seit 07.07. nicht mehr in der Fahrplanauskunft sichtbar.<strong> </strong></p><p>Die Fahrzeiten des Ersatzverkehrs finden Sie unten unter \"Ersatzverkehr\" und \"Baustellen der S 5\".</p>",
-      "durationBegin": "07.07.2026",
-      "durationEnd": "15.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/e0e0fafe-f735-46b9-9faf-1bd26de17c46",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-14/16603ecd-dba3-4563-aedd-df7e16f9294dst%25C3%25B6rungskarte_20260706-142035.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-14/16603ecd-dba3-4563-aedd-df7e16f9294dst%25C3%25B6rungskarte_20260706-142035.png",
-          "info": "",
-          "alt": "Störungskarte 06.07.2026 14:20:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-14/61ef28dc-669c-4de2-addc-44efb7837c61Ersatzverkehr%2BS%2B5%2Bvom%2B07.07.%2Bbis%2B15.07.2026.pdf",
-          "label": "Ersatzverkehr S 5 vom 07.07. bis 15.07.2026.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.s-bahn-muenchen.de/s5",
-          "label": "Baustellen der S 5",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.deutschebahn.com/de/presse/presse-regional/pr-muenchen-de/aktuell/presseinformationen/Bauarbeiten-in-Giesing-muessen-verlaengert-werden--13961252",
-          "label": "\"Bauarbeiten in Giesing müssen verlängert werden\"",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.s-bahn-muenchen.de/s3",
-          "label": "Baustellen der S 3",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.07.2026 20:33",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/aa048324-26e0-4cef-9058-66ad312cc739",
-      "magnoliaPath": "/aktuell/bayern/impairment_construction"
-    },
-    {
       "id": "d3f164a6-5ba4-4ab1-9730-401ff72129c1",
       "disruptionId": "e2e75dff-4fd7-466e-ab16-863474774bcb",
       "author": "S_BAHN_MUC",
@@ -731,8 +655,8 @@
       "mapHref": "https://karte.bahn.de/detail/e2e75dff-4fd7-466e-ab16-863474774bcb",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-15/16aa4b84-e466-422e-8918-7947601cacbdst%25C3%25B6rungskarte_20260714-191308.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-15/16aa4b84-e466-422e-8918-7947601cacbdst%25C3%25B6rungskarte_20260714-191308.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-15/fc7a933c-16c2-4530-a3e9-4589f88d531bst%25C3%25B6rungskarte_20260714-191308.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-15/fc7a933c-16c2-4530-a3e9-4589f88d531bst%25C3%25B6rungskarte_20260714-191308.png",
           "info": "",
           "alt": "Störungskarte 14.07.2026 19:13:08",
           "openInNewTab": true
@@ -753,7 +677,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.07.2026 01:01",
+      "lastModified": "15.07.2026 03:22",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -946,88 +870,6 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
-      "id": "b34622c3-b6b0-468b-a484-9967815d54c9",
-      "disruptionId": "cb747bbb-a291-43ea-a250-251f835568b5",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation Linie Stammstrecke Nächte Dienstag/Mittwoch, 14./15.7. bis Donnerstag/Freitag, 16./17.7.2026",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke kommt es in den Nächten von Nächste Dienstag/Mittwoch, 14./15.7. bis Donnerstag/Freitag, 16./17.7.2026, jeweils von 22:15 bis 5 Uhr, zwischen Pasing ↔ Ostbahnhof zu Fahrplanänderungen mit Umleitungen, Haltausfällen.",
-      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p></p><p><strong>‼️Zwischen Ostbahnhof und Pasing fährt nur die S3 als einzige Linie im 30-Minuten-Takt.</strong></p><p>S1:</p><ul><li><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am&nbsp;<strong>Hauptbahnhof Gleis 27-35, kein Halt an der Hackerbrücke</strong></li></ul></li></ul><p>S2/S5:</p><ul><li><ul><li>Züge in/aus Richtung Petershausen beginnen/enden am<strong>&nbsp;Heimeranplatz Gleis 11</strong>&nbsp;und fahren von/bis&nbsp;<strong>Obermenzing ohne Halt im 30-Minuten-Takt</strong></li><li>Züge aus Richtung&nbsp;<strong>Erding</strong>&nbsp;fahren als&nbsp;<strong>S 5 zur Kreuzstraße</strong></li><li>Züge aus Richtung&nbsp;<strong>Kreuzstraße</strong>&nbsp;fahren als&nbsp;<strong>S 2 nach Erding</strong></li></ul></li></ul><p>S3:</p><ul><li><ul><li>Züge in/aus Richtung Mammendorf beginnen/enden am&nbsp;<strong>Ostbahnhof und fahren im 30-Minuten-Takt als einzige Linie auf der Stammstrecke</strong></li><li>Züge in/aus Richtung Holzkirchen beginnen/enden am&nbsp;<strong>Ostbahnhof Gleis 3/4</strong></li></ul></li></ul><p>S4:</p><ul><li><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in&nbsp;<strong>Pasing</strong></li><li>Züge in/aus Richtung Trudering&nbsp;<strong>fallen zwischen Trudering und Pasing aus</strong></li></ul></li></ul><p>S6:</p><p></p><ul><li><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am&nbsp;<strong>Ostbahnhof Gleis 2</strong></li><li>Züge in/aus Richtung Hauptbahnhof beginnen/enden am&nbsp;<strong>Hauptbahnhof Gleis 27-36 und fahren von/bis Pasing ohne Halt</strong></li></ul></li></ul><p>S8:</p><ul><li><ul><li>Züge in Richtung Flughafen/Airport fahren ab&nbsp;<strong>Pasing ohne Halt zum Ostbahnhof und weiter ohne Halt am Leuchtenbergring</strong>&nbsp;zum Flughafen/Airport</li><li>Züge in Richtung Herrsching fahren ab&nbsp;<strong>Daglfing ohne Halt am Leuchtenbergring zum Ostbahnhof und weiter ohne Halt bis Pasing&nbsp;</strong>nach Herrsching</li></ul></li></ul><p>➡️Fernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof.</p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "14.07.2026",
-      "durationEnd": "17.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/cb747bbb-a291-43ea-a250-251f835568b5",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-14/7209b148-fdb8-468b-a32e-fab6ef3eb669st%25C3%25B6rungskarte_20260611-003852.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-14/7209b148-fdb8-468b-a32e-fab6ef3eb669st%25C3%25B6rungskarte_20260611-003852.png",
-          "info": "",
-          "alt": "Störungskarte 11.06.2026 00:38:52",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-14/ca34b56f-fd19-405f-8b95-a8b07b3e391aFpl%252BESTW%252Beingl%252BMOP-MP%252BS%252B1-S%252B8%252B23%252BJuni-17%252BJuli%252B2026.pdf",
-          "label": "Stammstrecke S1-S8+23+Juni-17+Juli+2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "14.07.2026 20:16",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b34622c3-b6b0-468b-a484-9967815d54c9",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction0"
-    },
-    {
       "id": "71378a73-fd5f-4129-9b5f-9da39c3ccb72",
       "disruptionId": "eb18f875-86e7-4329-98e8-2dbfb0a253b5",
       "author": "REGIO_BY",
@@ -1140,108 +982,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
-    },
-    {
-      "id": "da4c21ce-9c0c-47b1-a61c-2e190b72df1a",
-      "disruptionId": "7f2be03c-826f-4c29-b290-9e6ca730cbcf",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Leinefelde ⇄ Göttingen - Ersatzverkehr",
-      "summary": "📅 Montag, 03.08.2026, 21:00 Uhr bis Montag, 03.08.2026, 23:00 Uhr",
-      "text": "<p>🚉 <strong>Linie:</strong></p><ul><li>RE 1 Göttingen – Erfurt – Gera – Glauchau</li></ul><p>❌&nbsp;<strong>Einschränkungen:</strong> Am 03.08.2026 entfällt die Leistung 3666 zwischen Leinefelde und Göttingen aufgrund von Bauarbeiten.</p><p>↪️<strong>&nbsp;Alternative:</strong> Es besteht Schienenersatzverkehr gem. dem angehängten Ersatzkonzept.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nur begrenzt möglich.</p>",
-      "durationBegin": "03.08.2026",
-      "durationEnd": "03.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/7f2be03c-826f-4c29-b290-9e6ca730cbcf",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-15/f7949040-85df-44f7-af07-759218d87faest%25C3%25B6rungskarte_20260715-012658.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-15/f7949040-85df-44f7-af07-759218d87faest%25C3%25B6rungskarte_20260715-012658.png",
-          "info": "",
-          "alt": "Störungskarte 15.07.2026 01:26:58",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-15/41e70537-2f00-43ae-b60f-4830d7cbefc9Ersatzfahrplan%2BLeinefelde%2B-%2BG%25C3%25B6ttingen_03-08-26%2Bf%25C3%25BCr%2B3666.pdf",
-          "label": "Ersatzfahrplan Leinefelde - Göttingen_03-08-26 für 3666.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.07.2026 01:52",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/da4c21ce-9c0c-47b1-a61c-2e190b72df1a",
-      "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
-    },
-    {
-      "id": "a398201b-ee90-4fe4-888f-8be9caa7718c",
-      "disruptionId": "03a659cf-9f87-49aa-97da-84c64fdd191d",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Leinefelde ⇄ Heilbad Heiligenstadt - Ersatzverkehr",
-      "summary": "📅 Mittwoch, 05.08.2026, 22:00 Uhr bis Donnerstag, 06.08.2026, 05:00 Uhr",
-      "text": "<p>🚉 <strong>Linie:</strong></p><ul><li>RE 1 Göttingen – Erfurt – Gera – Glauchau</li></ul><p>❌&nbsp;<strong>Einschränkungen:</strong> In der Nacht 05./06.08. entfallen die Leistungen 3676 und 3673 zwischen Leinefelde und Heilbad Heiligenstadt.</p><p>↪️<strong>&nbsp;Alternative:</strong> Es besteht Schienenersatzverkehr gem. dem angehängten Ersatzkonzept. </p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nur begrenzt möglich.</p>",
-      "durationBegin": "05.08.2026",
-      "durationEnd": "06.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/03a659cf-9f87-49aa-97da-84c64fdd191d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-15/c68d2cae-31c1-499e-bf4d-5e79f83c7598st%25C3%25B6rungskarte_20260715-014538.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-15/c68d2cae-31c1-499e-bf4d-5e79f83c7598st%25C3%25B6rungskarte_20260715-014538.png",
-          "info": "",
-          "alt": "Störungskarte 15.07.2026 01:45:38",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-07-15/dc80d0f6-338b-4265-9c00-00bfb0bf9f7eErsatzfahrplan%2B_Leinefelde%2B-%2BHeiligenstadt_05--06-08-26.pdf",
-          "label": "Ersatzfahrplan _Leinefelde - Heiligenstadt_05--06-08-26.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "TH"
-      ],
-      "lines": [
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.07.2026 01:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/a398201b-ee90-4fe4-888f-8be9caa7718c",
-      "magnoliaPath": "/aktuell/suedost/additional_service_construction3"
     },
     {
       "id": "10bec4fb-6393-42d9-97b6-b230bf7f8602",
