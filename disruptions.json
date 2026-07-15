@@ -418,80 +418,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "abf8c9c5-a731-41bd-b82e-140305692a9c",
-      "disruptionId": "07aa8529-5b19-4b13-99b3-747412a3073a",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Der technische Defekt an einem Stellwerk zwischen Kaiserslautern Hbf und Lauterecken-Grumbach ist behoben.",
-      "summary": "Der technische Defekt an einem Stellwerk zwischen Kaiserslautern Hbf und Lauterecken-Grumbach ist behoben. Bitte rechnen Sie noch mit Verspätungen und Teilausfällen.",
-      "text": "<p>🚉 <strong>Betroffene Linie war:</strong></p><ul><li>RB66 - Kaiserslautern – Wolfstein – Lauterecken-Grumbach </li></ul><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "15.07.2026",
-      "durationEnd": "15.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/07aa8529-5b19-4b13-99b3-747412a3073a",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 66",
-          "filterName": "RB 66",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.07.2026 13:11",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/abf8c9c5-a731-41bd-b82e-140305692a9c",
-      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section5"
-    },
-    {
-      "id": "a674addf-8b8a-4c3c-86ae-b553dc68f7df",
-      "disruptionId": "2b24cdf7-b90d-4606-83d8-2c7c20b1f547",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Der technische Defekt an einem Stellwerk zwischen Bingen(Rhein) Stadt und Worms ist behoben.",
-      "summary": "Der technische Defekt an einem Stellwerk zwischen Bingen(Rhein) Stadt und Worms ist behoben. Bitte rechnen Sie noch mit Verspätungen und Teilausfällen.",
-      "text": "<p>🚉 <strong>Betroffene Linie war:</strong></p><ul><li>RB35 - Worms &lt;&gt; Alzey &lt;&gt; Bingen </li></ul><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "15.07.2026",
-      "durationEnd": "15.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/2b24cdf7-b90d-4606-83d8-2c7c20b1f547",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 35",
-          "filterName": "RB 35",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "15.07.2026 13:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a674addf-8b8a-4c3c-86ae-b553dc68f7df",
-      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section6"
-    },
-    {
       "id": "ba2528a1-1460-4d02-a440-2d6ab1dafb8b",
       "disruptionId": "ee90dd08-6771-48dc-a4eb-2fefd15923c4",
       "author": "REGIO_MITTE",
@@ -657,6 +583,81 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section"
     },
     {
+      "id": "9d819ba5-9fdd-4604-9edc-2963cde91655",
+      "disruptionId": "556df3d4-3856-49c9-8679-e7c362de8dbf",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Endmeldung: Ersatzprogramm Stammstrecke/Gesamtnetz",
+      "summary": "Die S-Bahnen verkehren wieder auf Regelweg mit allen Halten. Es kommt noch zu Folgeverspätungen und vorzeitigen Wenden.",
+      "text": "<p>Die Reparatur an der Oberleitung wurde beendet.</p>",
+      "durationBegin": "15.07.2026",
+      "durationEnd": "15.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/556df3d4-3856-49c9-8679-e7c362de8dbf",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-15/eb123462-0bda-4026-89fd-8ee2ef1bac15st%25C3%25B6rungskarte_20260715-133824.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-15/eb123462-0bda-4026-89fd-8ee2ef1bac15st%25C3%25B6rungskarte_20260715-133824.png",
+          "info": "",
+          "alt": "Störungskarte 15.07.2026 13:38:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "15.07.2026 15:41",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9d819ba5-9fdd-4604-9edc-2963cde91655",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section4"
+    },
+    {
       "id": "584a472d-325f-4698-aad4-bb966fb8ecf5",
       "disruptionId": "3659405c-020e-4ff3-98ca-4c37d8714f54",
       "author": "REGIO_BW",
@@ -664,18 +665,18 @@
         "category": "technical_problem_railway_section",
         "label": "Streckensperrung"
       },
-      "headline": "Beeinträchtigung in  Freiburg Hbf",
-      "summary": "Der Bahnhof Freiburg(Breisgau) Hbf  ist im Moment beeinträchtigt. Die Züge der Linie RE 7 werden ohne Halt in Freiburg(Breisgau) Hbf umgeleitet. Die Züge der Linie RB 27 aus Richtung Basel beginnen und enden in Bad Krozingen. Die Züge der Linie RB 26 aus Richtung Offenburg können den Freiburger Hbf anfahren und wenden dort. Über die Dauer der Beeinträchtigung liegen uns noch keine Informationen vor.  In der Folge kommt es Verspätungen und Teilausfällen. Ein Ersatzverkehr mit Bus ist zwischen Freiburg(Breisgau) Hbf und Bad Krozingen eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RB 26 (Offenburg – Freiburg (Breisgau)) </li><li>RB 27 (Freiburg (Breisgau)/Müllheim i. M. – Basel Bad Bf/Neuenburg (Baden)) </li><li>RE 7 (Karlsruhe – Basel) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "headline": "Beeinträchtigung in Freiburg(Breisgau) Hbf",
+      "summary": "Der Bahnhof Freiburg(Breisgau) Hbf  ist im Moment beeinträchtigt.  Über die Dauer der Beeinträchtigung liegen uns noch keine Informationen vor.  In der Folge kommt es Verspätungen und Teilausfällen. Ein Ersatzverkehr mit Bus ist zwischen Freiburg(Breisgau) Hbf und Bad Krozingen eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
+      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RB 26 (Offenburg – Freiburg (Breisgau)) </li><li>RB 27 (Freiburg (Breisgau)/Müllheim i. M. – Basel Bad Bf/Neuenburg (Baden)) </li><li>RE 7 (Karlsruhe – Basel) </li></ul><p></p><ul><li>Linie RE 7 : fahren ohne Halt in Freiburg(Breisgau) Hbf und halten zusätzlich in Ebringen, Schallstadt und Norsingen.  </li><li>Linie RB 27 : aus Richtung Basel beginnen und enden in Bad Krozingen. </li><li>Linie RB 26 :  aus Richtung Offenburg können den Freiburger Hbf anfahren und wenden dort. </li></ul><p>Fahrgäste von/nach Freiburg(Breisgau) Hbf in Richtung Basel : Bitte fahren Sie nach Denzlingen und nutzen von dort die RE 7.</p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "15.07.2026",
       "durationEnd": "15.07.2026",
       "mapHref": "https://karte.bahn.de/detail/3659405c-020e-4ff3-98ca-4c37d8714f54",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-15/9c32f91d-733f-49ae-92fa-0aba542ef520st%25C3%25B6rungskarte_20260715-120842.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-15/9c32f91d-733f-49ae-92fa-0aba542ef520st%25C3%25B6rungskarte_20260715-120842.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-15/afad99f0-c0cd-48b9-a5de-69ff5670200fst%25C3%25B6rungskarte_20260715-152229.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-15/afad99f0-c0cd-48b9-a5de-69ff5670200fst%25C3%25B6rungskarte_20260715-152229.png",
           "info": "",
-          "alt": "Störungskarte 15.07.2026 12:08:42",
+          "alt": "Störungskarte 15.07.2026 15:22:29",
           "openInNewTab": true
         }
       ],
@@ -699,12 +700,17 @@
           "property": "REGIONAL"
         },
         {
+          "name": "RE 2",
+          "filterName": "RE 2",
+          "property": "REGIONAL"
+        },
+        {
           "name": "RE 7",
           "filterName": "RE 7",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "15.07.2026 13:47",
+      "lastModified": "15.07.2026 15:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1163,14 +1169,14 @@
       },
       "headline": "Bruchsal ⇄ Bretten:                                                              \nZugausfälle und Ersatzverkehr mit Bus ",
       "summary": "📅 Samstag, 18. Juli bis Sonntag, 19. Juli 2026 (jeweils 00:00 Uhr bis 03:00 Uhr)",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RB 71 (Bruchsal – Bretten – Mühlacker)</li></ul><p><strong>Zugausfälle: </strong>Bruchsal ⇄ Bretten</p><p><strong>Ersatzverkehr mit Bussen: </strong>Bruchsal ⇄ Bretten</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Grund der Bauarbeiten: </strong>Signalarbeiten</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p>",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RB 71 (Bruchsal – Bretten – Mühlacker)</li></ul><p><strong>Zugausfälle: </strong>Bruchsal ⇄ Bretten</p><p><strong>Ersatzverkehr mit Bussen: </strong>Bruchsal ⇄ Bretten</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Grund der Bauarbeiten: </strong>Signalarbeiten</p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong>✅ ab 17.7.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p>",
       "durationBegin": "18.07.2026",
       "durationEnd": "19.07.2026",
       "mapHref": "https://karte.bahn.de/detail/65a884fe-09eb-49a5-92d4-a180f3a1eb2e",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-15/af0a91c0-ff00-44e4-8dd5-d1624a8f0d2ast%25C3%25B6rungskarte_20260715-135700.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-15/af0a91c0-ff00-44e4-8dd5-d1624a8f0d2ast%25C3%25B6rungskarte_20260715-135700.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-15/9f9ca3bd-737d-4d82-8524-2b6fb733fb14st%25C3%25B6rungskarte_20260715-135700.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-15/9f9ca3bd-737d-4d82-8524-2b6fb733fb14st%25C3%25B6rungskarte_20260715-135700.png",
           "info": "",
           "alt": "Störungskarte 15.07.2026 13:57:00",
           "openInNewTab": true
@@ -1179,14 +1185,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://bahn.de",
-          "label": "Direkt zur Reiseauskunft",
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
+          "href": "https://bahn.de",
+          "label": "Direkt zur Reiseauskunft",
           "info": "",
           "openInNewTab": true
         }
@@ -1204,7 +1210,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "15.07.2026 13:58",
+      "lastModified": "15.07.2026 14:18",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1335,8 +1341,8 @@
       "mapHref": "https://karte.bahn.de/detail/6258f005-1f2c-424d-92cb-5643c3d85b07",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-15/b1c698e8-94f0-4533-904e-0c68108237ccst%25C3%25B6rungskarte_20260715-120244.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-15/b1c698e8-94f0-4533-904e-0c68108237ccst%25C3%25B6rungskarte_20260715-120244.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-15/eb8ed50f-3bd1-4099-ada0-dc21c65bb9f7st%25C3%25B6rungskarte_20260715-120244.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-15/eb8ed50f-3bd1-4099-ada0-dc21c65bb9f7st%25C3%25B6rungskarte_20260715-120244.png",
           "info": "",
           "alt": "Störungskarte 15.07.2026 12:02:44",
           "openInNewTab": true
@@ -1362,7 +1368,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "15.07.2026 13:05",
+      "lastModified": "15.07.2026 15:50",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
