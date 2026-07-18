@@ -677,6 +677,96 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "6628bd8f-83a6-48a0-9100-48756fddb149",
+      "disruptionId": "6de62ceb-5348-4528-9253-796f4eac8dcc",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S7 Höllriegelskreuth - Pullach: Technischer Defekt an einem Bahnübergang ",
+      "summary": "Die S-Bahnen fahren zwischen Höllriegelskreuth und Pullach bis auf weiteres mit verminderter Geschwindigkeit. Deswegen kommt es jetzt in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kann es auch zu Teilausfällen kommen. ",
+      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;                        ist ein technischer Defekt an einem Bahnübergang       in Pullach.</p>",
+      "durationBegin": "18.07.2026",
+      "durationEnd": "18.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/6de62ceb-5348-4528-9253-796f4eac8dcc",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-18/73474c52-704b-41c8-8d79-14de2993b408st%25C3%25B6rungskarte_20260718-190943.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-18/73474c52-704b-41c8-8d79-14de2993b408st%25C3%25B6rungskarte_20260718-190943.png",
+          "info": "",
+          "alt": "Störungskarte 18.07.2026 19:09:43",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.07.2026 19:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6628bd8f-83a6-48a0-9100-48756fddb149",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section11"
+    },
+    {
+      "id": "ce6a0f6a-8da6-4f6a-9055-9c6347ed3a78",
+      "disruptionId": "f5995776-69ac-4594-9f9a-1a20b028799f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S5 Hohenbrunn - Höhenkirchen-Siegertsbrunn: Reparatur an der Strecke",
+      "summary": "Die S-Bahnen fahren im Bereich Hohenbrunn und Höhenkirchen-Siegertsbrunn bis auf weiteres mit verminderter Geschwindigkeit. Deswegen kommt es jetzt in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
+      "text": "<p>Grund für diese Beeinträchtigungen&nbsp;                        ist eine Reparatur an der Strecke       zwischen Hohenbrunn und Höhenkirchen-Siegertsbrunn.</p>",
+      "durationBegin": "18.07.2026",
+      "durationEnd": "18.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/f5995776-69ac-4594-9f9a-1a20b028799f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-18/7d72d9bc-ca77-4598-9115-6ee2ca67b58dst%25C3%25B6rungskarte_20260718-184659.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-18/7d72d9bc-ca77-4598-9115-6ee2ca67b58dst%25C3%25B6rungskarte_20260718-184659.png",
+          "info": "",
+          "alt": "Störungskarte 18.07.2026 18:46:59",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "18.07.2026 18:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ce6a0f6a-8da6-4f6a-9055-9c6347ed3a78",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section10"
+    },
+    {
       "id": "c2268766-e8e5-49de-a54a-b06765f55bde",
       "disruptionId": "44d9c7db-81fe-4ea2-a54a-2ad74d10b0e5",
       "author": "REGIO_BW",
@@ -1153,51 +1243,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7e11a602-dcf7-44e6-b31c-4cf7ba9acdfd",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
-    },
-    {
-      "id": "56ba939c-6301-4681-bf11-7a4dd2f3e31c",
-      "disruptionId": "be108372-f3ab-4d79-85cc-393fe46a70ed",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 6 Gauting ↔ Starnberg: Reparatur an der Strecke",
-      "summary": "Zwischen Gauting und Starnberg kommt es zu Verspätungen von 10 bis 15 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "18.07.2026",
-      "durationEnd": "18.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/be108372-f3ab-4d79-85cc-393fe46a70ed",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-18/3e778ffd-2bf5-4eb5-869b-5b73005a81c9st%25C3%25B6rungskarte_20260718-160542.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-18/3e778ffd-2bf5-4eb5-869b-5b73005a81c9st%25C3%25B6rungskarte_20260718-160542.png",
-          "info": "",
-          "alt": "Störungskarte 18.07.2026 16:05:42",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "18.07.2026 17:28",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/56ba939c-6301-4681-bf11-7a4dd2f3e31c",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section21"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
