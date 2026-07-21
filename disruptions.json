@@ -2,50 +2,48 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "365f4142-6aa8-47d8-abcf-1cc93be6ecdf",
-      "disruptionId": "874e6483-cec5-40ce-ae55-fe6b6a9ac253",
-      "author": "FERNVERKEHR_AG",
+      "id": "3014c4fa-b909-4246-a366-fd8ae18b4f2e",
+      "disruptionId": "6e78f15c-49ec-4568-8b21-eeb7cc077879",
+      "author": "S_BAHN_HH",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Gegenstände auf der Strecke"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Beeinträchtigungen zwischen Koblenz und Mainz",
-      "summary": "Ein Gegenstand in der Oberleitung beeinträchtigt derzeit den Fernverkehr der Deutschen Bahn zwischen Koblenz und Mainz. Es kommt zu Ausfällen und Verspätungen..\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Bielefeld - Karlsruhe/Stuttgart fallen aus</li><li>ICE-Züge Dortmund - Wien erhalten bis zu 30 Min Verspätung</li></ul><p>Die Behebung der Störung soll vsl. bis heute abend erfolgen.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "headline": "⚠️🟣🔵S3 S5: technische Störung an der Strecke",
+      "summary": "Auf den Linien 🟣S3 und 🔵S5 kommt es aktuell aufgrund einer technischen Störung an der Strecke im Bereich Wilhelmsburg zu Ausfällen und Verspätungen. ⚠️Die Linie S5 fährt nur zwischen Neugraben und Buxtehude / Stade.",
+      "text": "<p>.</p>",
       "durationBegin": "21.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/874e6483-cec5-40ce-ae55-fe6b6a9ac253",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-21/fa038bcc-dbc5-48c3-b658-629120c62f56st%25C3%25B6rungskarte_20260721-133312.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-21/fa038bcc-dbc5-48c3-b658-629120c62f56st%25C3%25B6rungskarte_20260721-133312.png",
-          "info": "",
-          "alt": "Störungskarte 21.07.2026 13:33:12",
-          "openInNewTab": true
-        }
-      ],
+      "durationEnd": "21.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/6e78f15c-49ec-4568-8b21-eeb7cc077879",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "SBAHN"
       ],
       "states": [
-        "BW",
-        "NW",
-        "HE",
-        "RP"
+        "HH",
+        "SH",
+        "NI"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "21.07.2026 13:35",
+      "lastModified": "21.07.2026 16:02",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/365f4142-6aa8-47d8-abcf-1cc93be6ecdf",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3014c4fa-b909-4246-a366-fd8ae18b4f2e",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
     },
     {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
@@ -123,49 +121,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
-    },
-    {
-      "id": "3014c4fa-b909-4246-a366-fd8ae18b4f2e",
-      "disruptionId": "6e78f15c-49ec-4568-8b21-eeb7cc077879",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S3 S5: S5 fährt aktuell nur zwischen Neugraben und Stade",
-      "summary": "Die S5 fährt aktuell nur zwischen Neugraben und Buxtehude/Stade. Auf der S3 kann es zu Verspätungen kommen. Der Grund ist eine technische Störung an der Strecke.",
-      "text": "<p>.</p>",
-      "durationBegin": "21.07.2026",
-      "durationEnd": "21.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/6e78f15c-49ec-4568-8b21-eeb7cc077879",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.07.2026 13:00",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3014c4fa-b909-4246-a366-fd8ae18b4f2e",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section"
     },
     {
       "id": "5e7f65b0-d69b-4a81-938a-8fba4d4103c3",
@@ -349,18 +304,18 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S 3 Deisenhofen ↔ Holzkirchen: Reparatur an der Strecke",
-      "summary": "Zwischen Deisenhofen und Holzkirchen sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Deisenhofen.</p><p>Wir haben für Sie einen Ersatzverkehr mit ❗ Bussen und Großraumtaxis zwischen Deisenhofen und Holzkirchen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Bitte rechnen Sie mit längeren Reisezeiten.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "headline": "Endmeldung: S 3 Deisenhofen ↔ Holzkirchen",
+      "summary": "Die Züge können wieder zwischen Deisenhofen und Holzkirchen fahren.",
+      "text": "<p>Der Ersatzverkehr mit  Bussen und Großraumtaxis wird um 17:00 Uhr eingestellt. Beachten Sie außerdem den Ausfall des 10-Minutentaktes auf der Linie S3.</p><p>Es kommt noch zu Folgeverspätungen und vereinzelten vorzeitigen Wenden.</p><p>Die Reparatur an der Strecke wurde beendet.</p>",
       "durationBegin": "21.07.2026",
       "durationEnd": "21.07.2026",
       "mapHref": "https://karte.bahn.de/detail/ae554284-22a9-4625-a466-407117e124a1",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/ccd33c51-01ee-4ee3-8f35-51ad89de6c56st%25C3%25B6rungskarte_20260721-110047.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/ccd33c51-01ee-4ee3-8f35-51ad89de6c56st%25C3%25B6rungskarte_20260721-110047.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/4d7be7af-e18c-44b0-8380-12347164f053st%25C3%25B6rungskarte_20260721-155423.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/4d7be7af-e18c-44b0-8380-12347164f053st%25C3%25B6rungskarte_20260721-155423.png",
           "info": "",
-          "alt": "Störungskarte 21.07.2026 11:00:47",
+          "alt": "Störungskarte 21.07.2026 15:54:23",
           "openInNewTab": true
         }
       ],
@@ -379,7 +334,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.07.2026 12:58",
+      "lastModified": "21.07.2026 15:56",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1086,8 +1041,8 @@
       "mapHref": "https://karte.bahn.de/detail/6167aba4-6b97-4c67-95ad-fc1c338f77a4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/5b942c56-5bcb-4a05-9394-8cc944be9f81st%25C3%25B6rungskarte_20260721-100954.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/5b942c56-5bcb-4a05-9394-8cc944be9f81st%25C3%25B6rungskarte_20260721-100954.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/d02b0a69-803e-4f06-a3d8-df94b133a500st%25C3%25B6rungskarte_20260721-100954.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/d02b0a69-803e-4f06-a3d8-df94b133a500st%25C3%25B6rungskarte_20260721-100954.png",
           "info": "",
           "alt": "Störungskarte 21.07.2026 10:09:54",
           "openInNewTab": true
@@ -1108,7 +1063,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.07.2026 13:03",
+      "lastModified": "21.07.2026 14:36",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
