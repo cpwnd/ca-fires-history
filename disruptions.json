@@ -38,7 +38,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.07.2026 16:02",
+      "lastModified": "21.07.2026 16:52",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -297,25 +297,25 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "f4917cf5-2739-4ed7-952e-289b09064cf5",
-      "disruptionId": "ae554284-22a9-4625-a466-407117e124a1",
+      "id": "5832f7aa-03e2-4b95-9d64-7326f139a810",
+      "disruptionId": "0cac63a9-1699-48a2-a5e8-9864b5ec993c",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Unbefugte Personen auf der Strecke"
       },
-      "headline": "Endmeldung: S 3 Deisenhofen ↔ Holzkirchen",
-      "summary": "Die Züge können wieder zwischen Deisenhofen und Holzkirchen fahren.",
-      "text": "<p>Der Ersatzverkehr mit  Bussen und Großraumtaxis wird um 17:00 Uhr eingestellt. Beachten Sie außerdem den Ausfall des 10-Minutentaktes auf der Linie S3.</p><p>Es kommt noch zu Folgeverspätungen und vereinzelten vorzeitigen Wenden.</p><p>Die Reparatur an der Strecke wurde beendet.</p>",
+      "headline": "S 1 Moosach ↔ Laim: Unbefugte Personen auf der Strecke",
+      "summary": "Zwischen Moosach und Laim sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten. Bitte rechnen Sie mit Verspätungen und vorzeitigen Wenden.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
       "durationBegin": "21.07.2026",
       "durationEnd": "21.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/ae554284-22a9-4625-a466-407117e124a1",
+      "mapHref": "https://karte.bahn.de/detail/0cac63a9-1699-48a2-a5e8-9864b5ec993c",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/4d7be7af-e18c-44b0-8380-12347164f053st%25C3%25B6rungskarte_20260721-155423.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/4d7be7af-e18c-44b0-8380-12347164f053st%25C3%25B6rungskarte_20260721-155423.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/fd741c14-8730-48ba-99d2-e1eaef246d4bst%25C3%25B6rungskarte_20260721-171443.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/fd741c14-8730-48ba-99d2-e1eaef246d4bst%25C3%25B6rungskarte_20260721-171443.png",
           "info": "",
-          "alt": "Störungskarte 21.07.2026 15:54:23",
+          "alt": "Störungskarte 21.07.2026 17:14:43",
           "openInNewTab": true
         }
       ],
@@ -329,17 +329,17 @@
       ],
       "lines": [
         {
-          "name": "S 3",
-          "filterName": "S 3 München",
+          "name": "S 1",
+          "filterName": "S 1 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.07.2026 15:56",
+      "lastModified": "21.07.2026 17:34",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f4917cf5-2739-4ed7-952e-289b09064cf5",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section2"
+      "detailPagePath": "/service/fahrplaene/5832f7aa-03e2-4b95-9d64-7326f139a810",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section4"
     },
     {
       "id": "98c6c1e7-6457-4f53-97e3-e98b28f6a826",
@@ -475,8 +475,8 @@
       "mapHref": "https://karte.bahn.de/detail/8e9951f8-cc45-466f-ab7f-a61724e18fce",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-07-21/ebd38c22-256e-4193-926e-8bdb43f25c9cst%25C3%25B6rungskarte_20260629-141806.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-07-21/ebd38c22-256e-4193-926e-8bdb43f25c9cst%25C3%25B6rungskarte_20260629-141806.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-07-21/d247e780-16be-4288-861c-e8bfa45796ccst%25C3%25B6rungskarte_20260629-141806.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-07-21/d247e780-16be-4288-861c-e8bfa45796ccst%25C3%25B6rungskarte_20260629-141806.png",
           "info": "",
           "alt": "Störungskarte 29.06.2026 14:18:06",
           "openInNewTab": true
@@ -484,8 +484,8 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-07-21/8a1bc263-97a6-4c74-aadd-3de2e2820243Baufahrplan%2BZvF%2B06__KBS%2B821%2BNNRO-NESCH_29.6.-31.8.2026_Online_V2.pdf",
-          "label": "Baufahrplan Nürnberg Nordost - Eschenau 29.06.26 - 21.08.26 ",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-07-21/b8c0d331-a556-45de-8b3b-f9a90c85b82eBaufahrplan%2BRB21%2BN%25C3%25BCrnberg%2BNordost%2B-%2BEschenau%2528Mfr.%2529%2B%2B29.6.-31.8.2026.pdf",
+          "label": "Baufahrplan RB21 Nürnberg Nordost - Eschenau(Mfr.)  29.6.-31.8.2026.pdf",
           "info": "",
           "openInNewTab": true
         }
@@ -511,7 +511,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "21.07.2026 08:21",
+      "lastModified": "21.07.2026 17:19",
       "expand": true,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
@@ -1041,8 +1041,8 @@
       "mapHref": "https://karte.bahn.de/detail/6167aba4-6b97-4c67-95ad-fc1c338f77a4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/d02b0a69-803e-4f06-a3d8-df94b133a500st%25C3%25B6rungskarte_20260721-100954.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/d02b0a69-803e-4f06-a3d8-df94b133a500st%25C3%25B6rungskarte_20260721-100954.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/6291c6fa-b127-4c93-9a04-a7384724264cst%25C3%25B6rungskarte_20260721-100954.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/6291c6fa-b127-4c93-9a04-a7384724264cst%25C3%25B6rungskarte_20260721-100954.png",
           "info": "",
           "alt": "Störungskarte 21.07.2026 10:09:54",
           "openInNewTab": true
@@ -1063,12 +1063,137 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.07.2026 14:36",
+      "lastModified": "21.07.2026 17:49",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/725f770f-89d5-4bd2-8bf2-3da9a4ba858e",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section4"
+    },
+    {
+      "id": "ec937734-3af3-4942-8747-a21d3114245f",
+      "disruptionId": "cc8c0597-4271-46b4-b19a-f689ecfe5ce2",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 3 Unterhaching ↔ Ostbahnhof: Reparatur an einem Signal",
+      "summary": "Zwischen Unterhaching und Ostbahnhof kommt es zu Verspätungen von 15 bis 20 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "21.07.2026",
+      "durationEnd": "21.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/cc8c0597-4271-46b4-b19a-f689ecfe5ce2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/be17cef0-720a-45ef-abe4-0b86efb64198st%25C3%25B6rungskarte_20260721-174632.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/be17cef0-720a-45ef-abe4-0b86efb64198st%25C3%25B6rungskarte_20260721-174632.png",
+          "info": "",
+          "alt": "Störungskarte 21.07.2026 17:46:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.07.2026 17:48",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/ec937734-3af3-4942-8747-a21d3114245f",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
+    },
+    {
+      "id": "27f5c90e-479f-4bb0-be51-c3f313ecab85",
+      "disruptionId": "9f454214-eb3e-49ae-9d74-712807e8043a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Stammstrecke: Streckensperrung Laim ↔ Moosach",
+      "summary": "Auf der Stammstrecke kommt es in Richtung Pasing zu Verspätungen von 10 bis 15 Minuten.",
+      "text": "<p>Der Grund hierfür ist die Zugfolgeverspätung in Verbindung mit der Streckensperrung zwischen Laim und Moosach.</p>",
+      "durationBegin": "21.07.2026",
+      "durationEnd": "21.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/9f454214-eb3e-49ae-9d74-712807e8043a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/23aa03ce-d4c9-4451-950a-760b22275cb9st%25C3%25B6rungskarte_20260721-172817.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-21/23aa03ce-d4c9-4451-950a-760b22275cb9st%25C3%25B6rungskarte_20260721-172817.png",
+          "info": "",
+          "alt": "Störungskarte 21.07.2026 17:28:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.07.2026 17:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/27f5c90e-479f-4bb0-be51-c3f313ecab85",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
     },
     {
       "id": "ec75aa5e-cd24-4cb4-9a93-5b9dabbb11a8",
