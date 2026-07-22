@@ -2,6 +2,50 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "d5d96ebd-5a52-4889-97c1-4e4a1121dba2",
+      "disruptionId": "8c493d21-8291-44b8-a389-635e1d9b18f9",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "⚠️ 🟣 S3/🔵 S5: Verspätungen, Ausfälle und abweichende Wendungen",
+      "summary": "Auf den Linien 🟣 S3 und 🔵 S5 kommt es derzeit zu Verspätungen. Zudem können einzelne Fahrten ausfallen oder bereits vor dem im Fahrplan angegebenen Ziel enden.",
+      "text": "<p>Aktuelle Verspätung auf den Linien:</p><p>🕐 <strong>Linie S3:</strong> 30 min</p><p>🕐 <strong>Linie S5:</strong> 40 min</p><p>🔊 <strong>Bitte achten Sie auf die Ansagen an den Bahnsteigen und in den Zügen, sowie auf das an den Zügen angezeigte Zugziel.</strong></p><p>ℹ️ Grund: Stellwerksausfall und eine vorangegangene Störung zwischen Neugraben und Stade</p>",
+      "durationBegin": "22.07.2026",
+      "durationEnd": "22.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/8c493d21-8291-44b8-a389-635e1d9b18f9",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.07.2026 18:35",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d5d96ebd-5a52-4889-97c1-4e4a1121dba2",
+      "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -77,49 +121,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/39219b87-2dab-4048-826e-c3abada571ba",
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
-    },
-    {
-      "id": "f0bd8eee-52a7-4a36-bf56-344f3e6cee71",
-      "disruptionId": "36007abc-633d-46a3-844d-3ac201bd9c8d",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "⚠️🔵 S5: Aktuell fahren Züge mit Start / Ziel Buxtehude nur bis / erst ab Neugraben",
-      "summary": "🔵S5: Aktuell fahren Züge mit Start beziehungsweise Ziel in Buxtehude nur bis beziehungsweise erst ab Neugraben. Nutzen Sie zwischen Buxtehude und Neugraben die Züge von und nach Stade. Auch auf der 🟣Linie  S3 kann es zu Abweichungen vom Fahrplan und Verspätungen kommen. Grund: technische Störung an der Strecke.",
-      "text": "<p>...</p>",
-      "durationBegin": "22.07.2026",
-      "durationEnd": "22.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/36007abc-633d-46a3-844d-3ac201bd9c8d",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.07.2026 16:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f0bd8eee-52a7-4a36-bf56-344f3e6cee71",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "5e7f65b0-d69b-4a81-938a-8fba4d4103c3",
@@ -340,6 +341,56 @@
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section2"
     },
     {
+      "id": "da16ecea-ef91-43de-bf50-2969122d226e",
+      "disruptionId": "1c7d5471-2171-4aa2-90f7-2aee182d975a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Endmeldung S4/S6 Trudering - Ostbahnhof: Unbefugte Personen auf der Strecke ",
+      "summary": "Zwischen Trudering und Ostbahnhof sind wieder Zugfahrten möglich. ",
+      "text": "<p>Die unbefugten Personen auf der Strecke in Trudering wurden von der Bundespolizei in Gewahrsam genommen.</p>",
+      "durationBegin": "22.07.2026",
+      "durationEnd": "22.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/1c7d5471-2171-4aa2-90f7-2aee182d975a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/17bb551c-470e-40a1-ba7a-46578ff2125fst%25C3%25B6rungskarte_20260722-182638.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/17bb551c-470e-40a1-ba7a-46578ff2125fst%25C3%25B6rungskarte_20260722-182638.png",
+          "info": "",
+          "alt": "Störungskarte 22.07.2026 18:26:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.07.2026 18:34",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/da16ecea-ef91-43de-bf50-2969122d226e",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section4"
+    },
+    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -490,16 +541,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S3 Holzkirchen: Reparatur an einem Signal ",
-      "summary": "Auf der Linie S3 kommt es in beide Richtungen noch zu Folgeverspätungen von 15 bis 20 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
-      "text": "<p>Folgende S-Bahnen des 10-Minuten-Takts entfallen:</p><ul><li><strong>S3 München Ost Abfahrt 16:17 Uhr - Maisach Ankunft 16:58 Uhr</strong></li></ul><p></p><ul><li><strong>S3 Deisenhofen Abfahrt 16:20 Uhr -&nbsp;München Ost Abfahrt 16:35 Uhr - Maisach Ankunft 17:18 Uhr</strong></li><li><strong>S3 Deisenhofen Abfahrt 17:00 Uhr - Maisach Ankunft 17:58 Uhr</strong></li></ul><p></p><p></p><ul><li><strong>S3 Maisach Abfahrt 17:20 Uhr - Deisenhofen Ankunft 18:21 Uhr</strong></li><li><strong>S3 Maisach Abfahrt 17:40 Uhr - Deisenhofen Ankunft 18:41 Uhr</strong></li><li><strong>S3 Maisach Abfahrt 18:20 Uhr - Deisenhofen Ankunft 19:21 Uhr</strong></li></ul><p></p><p></p><p></p><p>Die Reparatur an einem Signal zwischen Holzkirchen und Otterfing wurde beendet.</p>",
+      "headline": "Endmeldung S3 Holzkirchen: Reparatur an einem Signal ",
+      "summary": "Auf der Linie S3 kommt es in beide Richtungen noch zu vereinzelten Folgeverspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
+      "text": "<p>Folgende S-Bahnen des 10-Minuten-Takts entfallen:</p><p></p><p></p><ul><li><strong>S3 Maisach Abfahrt 17:40 Uhr - Deisenhofen Ankunft 18:41 Uhr</strong></li><li><strong>S3 Maisach Abfahrt 18:20 Uhr - Deisenhofen Ankunft 19:21 Uhr</strong></li></ul><p></p><p></p><p></p><p>Die Reparatur an einem Signal zwischen Holzkirchen und Otterfing wurde beendet.</p>",
       "durationBegin": "22.07.2026",
       "durationEnd": "22.07.2026",
       "mapHref": "https://karte.bahn.de/detail/edca52af-124f-4dac-abfa-9e6fbcbcd7ee",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/435f78c4-3740-4e75-8386-e47720f0ac36st%25C3%25B6rungskarte_20260722-161239.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/435f78c4-3740-4e75-8386-e47720f0ac36st%25C3%25B6rungskarte_20260722-161239.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/0483b95c-5669-4f9d-a74e-9443dab62c82st%25C3%25B6rungskarte_20260722-161239.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/0483b95c-5669-4f9d-a74e-9443dab62c82st%25C3%25B6rungskarte_20260722-161239.png",
           "info": "",
           "alt": "Störungskarte 22.07.2026 16:12:39",
           "openInNewTab": true
@@ -520,7 +571,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "22.07.2026 17:01",
+      "lastModified": "22.07.2026 18:36",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
