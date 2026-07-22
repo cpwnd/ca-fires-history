@@ -10,8 +10,8 @@
         "label": "Defektes Stellwerk"
       },
       "headline": "⚠️ 🟣 S3/🔵 S5: Verspätungen, Ausfälle und abweichende Wendungen",
-      "summary": "Auf den Linien 🟣 S3 und 🔵 S5 kommt es derzeit zu Verspätungen. Zudem können einzelne Fahrten ausfallen oder bereits vor dem im Fahrplan angegebenen Ziel enden.",
-      "text": "<p>Aktuelle Verspätung auf den Linien:</p><p>🕐 <strong>Linie S3:</strong> 30 min</p><p>🕐 <strong>Linie S5:</strong> 40 min</p><p>🔊 <strong>Bitte achten Sie auf die Ansagen an den Bahnsteigen und in den Zügen, sowie auf das an den Zügen angezeigte Zugziel.</strong></p><p>ℹ️ Grund: Stellwerksausfall und eine vorangegangene Störung zwischen Neugraben und Stade</p>",
+      "summary": "Auf den Linien 🟣 S3 und 🔵 S5 kommt es derzeit noch zu Verspätungen. Zudem können einzelne Fahrten ausfallen oder bereits vor dem im Fahrplan angegebenen Ziel enden.",
+      "text": "<p>Aktuelle Verspätung auf den Linien:</p><p>🕐 <strong>Linie S3:</strong> 25 min</p><p>🕐 <strong>Linie S5:</strong> 15 min</p><p>🔊 <strong>Bitte achten Sie auf die Ansagen an den Bahnsteigen und in den Zügen, sowie auf das an den Zügen angezeigte Zugziel.</strong></p><p>ℹ️ Grund: vorangegangene Störungen</p>",
       "durationBegin": "22.07.2026",
       "durationEnd": "22.07.2026",
       "mapHref": "https://karte.bahn.de/detail/8c493d21-8291-44b8-a389-635e1d9b18f9",
@@ -38,7 +38,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "22.07.2026 18:35",
+      "lastModified": "22.07.2026 19:53",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -297,6 +297,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "aa51c151-983c-4368-9fe8-e2fae6042aac",
+      "disruptionId": "de516eba-6a17-4ad0-84da-8697645d1ae5",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Beschädigung einer Brücke"
+      },
+      "headline": "S6 Zorneding - Kirchseeon: Beschädigung einer Brücke ",
+      "summary": "Aktuell sind zwischen Zorneding und Grafing Bahnhof alle Gleise gesperrt. Zusätzlich kommt es zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p><strong>Wir haben einen Ersatzverkehr mit Großraumtaxis und Bus für Sie eingerichtet. </strong>Bitte nutzen Sie nur die mit \"Ersatzverkehr\" gekennzeichneten Fahrzeuge. </p><p>Grund für diese Beeinträchtigungen ist die Beschädigung einer Brücke in Eglharting.</p>",
+      "durationBegin": "22.07.2026",
+      "durationEnd": "22.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/de516eba-6a17-4ad0-84da-8697645d1ae5",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/1bbebe4e-bf16-4059-83f0-a67ca56b32a5st%25C3%25B6rungskarte_20260722-195247.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/1bbebe4e-bf16-4059-83f0-a67ca56b32a5st%25C3%25B6rungskarte_20260722-195247.png",
+          "info": "",
+          "alt": "Störungskarte 22.07.2026 19:52:47",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.07.2026 19:54",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/aa51c151-983c-4368-9fe8-e2fae6042aac",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section13"
+    },
+    {
       "id": "98c6c1e7-6457-4f53-97e3-e98b28f6a826",
       "disruptionId": "9b0a6f9a-be8b-4567-9b31-f2c8604b7de8",
       "author": "REGIO_MITTE",
@@ -339,56 +384,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/98c6c1e7-6457-4f53-97e3-e98b28f6a826",
       "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section2"
-    },
-    {
-      "id": "da16ecea-ef91-43de-bf50-2969122d226e",
-      "disruptionId": "1c7d5471-2171-4aa2-90f7-2aee182d975a",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Endmeldung S4/S6 Trudering - Ostbahnhof: Unbefugte Personen auf der Strecke ",
-      "summary": "Zwischen Trudering und Ostbahnhof sind wieder Zugfahrten möglich. ",
-      "text": "<p>Die unbefugten Personen auf der Strecke in Trudering wurden von der Bundespolizei in Gewahrsam genommen.</p>",
-      "durationBegin": "22.07.2026",
-      "durationEnd": "22.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/1c7d5471-2171-4aa2-90f7-2aee182d975a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/17bb551c-470e-40a1-ba7a-46578ff2125fst%25C3%25B6rungskarte_20260722-182638.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/17bb551c-470e-40a1-ba7a-46578ff2125fst%25C3%25B6rungskarte_20260722-182638.png",
-          "info": "",
-          "alt": "Störungskarte 22.07.2026 18:26:38",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.07.2026 18:34",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/da16ecea-ef91-43de-bf50-2969122d226e",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section4"
     },
     {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
@@ -532,51 +527,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
-    },
-    {
-      "id": "6e6487eb-d058-4cc6-b9d4-779439364441",
-      "disruptionId": "edca52af-124f-4dac-abfa-9e6fbcbcd7ee",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Endmeldung S3 Holzkirchen: Reparatur an einem Signal ",
-      "summary": "Auf der Linie S3 kommt es in beide Richtungen noch zu vereinzelten Folgeverspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
-      "text": "<p>Folgende S-Bahnen des 10-Minuten-Takts entfallen:</p><p></p><p></p><ul><li><strong>S3 Maisach Abfahrt 17:40 Uhr - Deisenhofen Ankunft 18:41 Uhr</strong></li><li><strong>S3 Maisach Abfahrt 18:20 Uhr - Deisenhofen Ankunft 19:21 Uhr</strong></li></ul><p></p><p></p><p></p><p>Die Reparatur an einem Signal zwischen Holzkirchen und Otterfing wurde beendet.</p>",
-      "durationBegin": "22.07.2026",
-      "durationEnd": "22.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/edca52af-124f-4dac-abfa-9e6fbcbcd7ee",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/0483b95c-5669-4f9d-a74e-9443dab62c82st%25C3%25B6rungskarte_20260722-161239.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/0483b95c-5669-4f9d-a74e-9443dab62c82st%25C3%25B6rungskarte_20260722-161239.png",
-          "info": "",
-          "alt": "Störungskarte 22.07.2026 16:12:39",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.07.2026 18:36",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6e6487eb-d058-4cc6-b9d4-779439364441",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
     },
     {
       "id": "c2268766-e8e5-49de-a54a-b06765f55bde",
