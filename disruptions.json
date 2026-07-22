@@ -485,51 +485,6 @@
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
     },
     {
-      "id": "1e62d4be-9a08-42d1-85d8-1a0cf9c72e00",
-      "disruptionId": "8360aaef-f03f-4787-8866-2a608ab52600",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Endmeldung: S 8 Germering-Unterpfaffenhofen ↔ Neugilching",
-      "summary": "Zwischen Germering-Unterpfaffenhofen und Neugilching kommt es noch zu Verspätungen von 15 bis 20 Minuten.",
-      "text": "<p>Der Polizeieinsatz ist beendet.</p>",
-      "durationBegin": "21.07.2026",
-      "durationEnd": "22.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/8360aaef-f03f-4787-8866-2a608ab52600",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/6681d7f6-9c70-4734-81fa-5ec4142b9cf2st%25C3%25B6rungskarte_20260721-235841.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-22/6681d7f6-9c70-4734-81fa-5ec4142b9cf2st%25C3%25B6rungskarte_20260721-235841.png",
-          "info": "",
-          "alt": "Störungskarte 21.07.2026 23:58:41",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "22.07.2026 01:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1e62d4be-9a08-42d1-85d8-1a0cf9c72e00",
-      "magnoliaPath": "/aktuell/bayern/impairment_police_activity0"
-    },
-    {
       "id": "c2268766-e8e5-49de-a54a-b06765f55bde",
       "disruptionId": "44d9c7db-81fe-4ea2-a54a-2ad74d10b0e5",
       "author": "REGIO_BW",
