@@ -279,77 +279,6 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
     },
     {
-      "id": "76032de0-ecea-493c-8693-793165ca3af1",
-      "disruptionId": "8cd5e69c-3d23-4f82-b700-75193532b8c6",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Stellwerksausfall Westerland(Sylt) ",
-      "summary": "Wegen eines Stellwerksausfalls wurde der Zugverkehr zwischen Westerland(Sylt) und Klanxbüll in beide Richtungen eingestellt. \n",
-      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 6 (Westerland(Sylt) - Hamburg-Altona: Züge fallen aus.</li></ul><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "28.07.2026",
-      "durationEnd": "28.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/8cd5e69c-3d23-4f82-b700-75193532b8c6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-28/1ca33d95-1e5c-4659-947f-c2aa19451cefst%25C3%25B6rungskarte_20260728-105925.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-28/1ca33d95-1e5c-4659-947f-c2aa19451cefst%25C3%25B6rungskarte_20260728-105925.png",
-          "info": "",
-          "alt": "Störungskarte 28.07.2026 10:59:25",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "http://bahn.de",
-          "label": "bahn.de ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator  ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE 6",
-          "filterName": "RE 6",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "28.07.2026 11:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/76032de0-ecea-493c-8693-793165ca3af1",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section5"
-    },
-    {
       "id": "987b2080-61b3-40a6-aec5-56ee8baa0475",
       "disruptionId": "6d45d19e-6c2d-4d97-bfc5-5914869d1bcf",
       "author": "REGIO_NORD",
@@ -545,6 +474,50 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "8590c2d2-c610-4453-a146-487684b4a6b4",
+      "disruptionId": "52d7c75b-754d-4c0e-8bc0-da6fdcbe0eef",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Beschädigung einer Brücke"
+      },
+      "headline": "Beeinträchtigungen zwischen Essen und Gelsenkirchen",
+      "summary": "Aufgrund von einem Brückenanfahrschaden ist die Strecke zwischen Essen und Gelsenkirchen derzeit gesperrt. Dadurch kommt es zu Umleitungen und Haltausfällen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Binz - Hamburg - Hannover/Bremen - Münster - Essen - Köln</li><li>Norddeich Mole – Emden – Münster (Westf) – Recklinghausen – Oberhausen – Düsseldorf – Köln –&nbsp;Koblenz</li></ul><p>Die Störung dauert bis vsl. 28.07.2026 Betriebsschluss.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "24.07.2026",
+      "durationEnd": "28.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/52d7c75b-754d-4c0e-8bc0-da6fdcbe0eef",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-28/27723b0b-ab33-4fab-9b0f-a71328d21998st%25C3%25B6rungskarte_20260724-232331.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-28/27723b0b-ab33-4fab-9b0f-a71328d21998st%25C3%25B6rungskarte_20260724-232331.png",
+          "info": "",
+          "alt": "Störungskarte 24.07.2026 23:23:31",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.07.2026 12:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/8590c2d2-c610-4453-a146-487684b4a6b4",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "82970e7d-6aeb-4820-9768-1818b9f77c2f",
       "disruptionId": "66056b81-f746-4d06-9cd9-9a74772ce0f6",
       "author": "REGIO_BW",
@@ -592,49 +565,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/82970e7d-6aeb-4820-9768-1818b9f77c2f",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section2"
-    },
-    {
-      "id": "8590c2d2-c610-4453-a146-487684b4a6b4",
-      "disruptionId": "52d7c75b-754d-4c0e-8bc0-da6fdcbe0eef",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Beschädigung einer Brücke"
-      },
-      "headline": "Beeinträchtigungen zwischen Essen und Gelsenkirchen",
-      "summary": "Aufgrund von einem Brückenanfahrschaden ist die Strecke zwischen Essen und Gelsenkirchen derzeit gesperrt. Dadurch kommt es zu Umleitungen und Haltausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Binz - Hamburg - Hannover/Bremen - Münster - Essen - Köln</li><li>Norddeich Mole – Emden – Münster (Westf) – Recklinghausen – Oberhausen – Düsseldorf – Köln –&nbsp;Koblenz</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "24.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/52d7c75b-754d-4c0e-8bc0-da6fdcbe0eef",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-24/a5c6407a-833c-46ef-bcda-7aa1599382dcst%25C3%25B6rungskarte_20260724-232331.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-24/a5c6407a-833c-46ef-bcda-7aa1599382dcst%25C3%25B6rungskarte_20260724-232331.png",
-          "info": "",
-          "alt": "Störungskarte 24.07.2026 23:23:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "24.07.2026 23:26",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/8590c2d2-c610-4453-a146-487684b4a6b4",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
       "id": "98c6c1e7-6457-4f53-97e3-e98b28f6a826",
@@ -1293,6 +1223,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7e11a602-dcf7-44e6-b31c-4cf7ba9acdfd",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
+    },
+    {
+      "id": "136a6eb8-2c49-48fe-a8a8-45f4970b300c",
+      "disruptionId": "7209fe17-80e3-4a7b-90b6-210fa5c4447d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 1 München-Moosach ↔ Feldmoching: Reparatur an einer Weiche",
+      "summary": "Zwischen München-Moosach und Feldmoching kommt es in Richtung Freising/Flughafen zu Verspätungen von 10 bis 15 Minuten.",
+      "text": "<p>Durch vorzeitige Zugwenden kann es auch zu Teilausfällen kommen.</p><p><strong>Alternativ </strong>können Fahrgäste mit Direktverbindung <strong>von/zum Flughafen</strong> auch die<strong> S8</strong> nutzen.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "28.07.2026",
+      "durationEnd": "28.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/7209fe17-80e3-4a7b-90b6-210fa5c4447d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-28/3c4e50f9-b163-45df-9f4d-cd8265de4262st%25C3%25B6rungskarte_20260728-121340.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-28/3c4e50f9-b163-45df-9f4d-cd8265de4262st%25C3%25B6rungskarte_20260728-121340.png",
+          "info": "",
+          "alt": "Störungskarte 28.07.2026 12:13:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.07.2026 12:53",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/136a6eb8-2c49-48fe-a8a8-45f4970b300c",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "9557f595-595f-460a-8c4e-8004b438a7ce",
