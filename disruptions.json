@@ -11,9 +11,9 @@
       },
       "headline": "Reparatur an der Strecke zwischen Köln und Aachen",
       "summary": "Aufgrund einer Reparatur bei Horrem ist die Strecke zwischen Aachen und Köln beeinträchtigt. Dadurch kommt es zu Umleitungen und Teilausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Linie (Brüssel– Aachen – Köln – Frankfurt (M))</li></ul><p>Die Züge werden zwischen Köln und Aachen umgeleitet und erhalten eine Verspätung von ca. 60 Minuten</p><p>In der Folge kann es zu Teilausfällen im restlichen Fahrtverlauf zwischen Brüssel und Frankfurt kommen.</p><p>Die Dauer der Störung soll vsl. bis 01.08.2026 andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Linie (Brüssel– Aachen – Köln – Frankfurt (M))</li></ul><p>Die Züge werden zwischen Köln und Aachen umgeleitet und erhalten eine Verspätung von ca. 60 Minuten</p><p>In der Folge kann es zu Teilausfällen im restlichen Fahrtverlauf zwischen Brüssel und Frankfurt kommen.</p><p>Die Dauer der Störung soll vsl. bis 03.08.2026 04:00 andauern.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "24.07.2026",
-      "durationEnd": "01.08.2026",
+      "durationEnd": "03.08.2026",
       "mapHref": "https://karte.bahn.de/detail/9959d965-c53c-432e-a124-a7e456100cf4",
       "images": [],
       "downloads": [],
@@ -46,7 +46,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "24.07.2026 12:12",
+      "lastModified": "28.07.2026 09:56",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -103,6 +103,52 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/166c4f41-4d1f-447f-beaa-0a666746cf78",
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_construction"
+    },
+    {
+      "id": "1bd03ce0-f101-4ded-a0ab-9c243a5659b5",
+      "disruptionId": "a5a9c376-4710-4c5f-9c22-57fc1cbda56c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Braunschweig und Magdeburg/Wolfsburg",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Braunschweig und Magdeburg/Wolfsburg kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Ausfällen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Berlin - Braunschweig - Hannover - Ruhrgebiet</li><li>ICE-Züge zwischen Berlin - Braunschweig - Kassel - Frankfurt (Main) - Schweiz/Karlsruhe/Stuttgart</li><li>IC-Züge zwischen Hannover - Braunschweig - Magdeburg - Berlin/Leipzig/Dresden</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/a5a9c376-4710-4c5f-9c22-57fc1cbda56c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-28/2aeaadd6-afb7-4743-9c3a-f8525c8b7b4est%25C3%25B6rungskarte_20260728-110217.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-07-28/2aeaadd6-afb7-4743-9c3a-f8525c8b7b4est%25C3%25B6rungskarte_20260728-110217.png",
+          "info": "",
+          "alt": "Störungskarte 28.07.2026 11:02:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "NI",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.07.2026 11:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/1bd03ce0-f101-4ded-a0ab-9c243a5659b5",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
     },
     {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
@@ -191,11 +237,19 @@
       },
       "headline": "Die Strecke zwischen Niederlahnstein und Bad Ems ist nur eingleisig befahrbar.",
       "summary": "Der Grund ist ein defektes Stellwerk.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Niederlahnstein &lt;&gt; Bad Ems</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB23 - Mayen &lt;&gt; Andernach &lt;&gt; Koblenz &lt;&gt; Bad Ems &lt;&gt; Nassau &lt;&gt; Limburg (Lahn) </li><li>RE25 - Koblenz &lt;&gt; Bad Ems &lt;&gt; Limburg &lt;&gt; Wetzlar &lt;&gt; Gießen</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Um die Strecke zu entlasten fallen die Züge der Linie RE25 zwischen Koblenz Hbf und Limburg(Lahn) aus. Züge der Linie RB23 können verkehren. Rechnen Sie dennoch mit Verspätungen und kurzfrsitigen Teilausfällen.</p><p>🚍&nbsp;<strong>Alternative:</strong> </p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Niederlahnstein &lt;&gt; Bad Ems</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB23 - Mayen &lt;&gt; Andernach &lt;&gt; Koblenz &lt;&gt; Bad Ems &lt;&gt; Nassau &lt;&gt; Limburg (Lahn) </li><li>RE25 - Koblenz &lt;&gt; Bad Ems &lt;&gt; Limburg &lt;&gt; Wetzlar &lt;&gt; Gießen</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Um die Strecke zu entlasten können die Züge der Linie RE25 zwischen Koblenz Hbf und Nassau(Lahn) oder Limburg(Lahn) ausfallen. Züge der Linie RB23 können verkehren. Rechnen Sie dennoch mit Verspätungen und kurzfristigen Teilausfällen.</p><p>🚍&nbsp;<strong>Alternative:</strong> </p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "27.07.2026",
       "durationEnd": "28.07.2026",
       "mapHref": "https://karte.bahn.de/detail/7dbf83c0-4410-458c-80b0-e80674c85c3d",
-      "images": [],
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-28/7f0925f5-2b9c-4aa6-8379-340edd30514est%25C3%25B6rungskarte_20260728-111859.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-28/7f0925f5-2b9c-4aa6-8379-340edd30514est%25C3%25B6rungskarte_20260728-111859.png",
+          "info": "",
+          "alt": "Störungskarte 28.07.2026 11:18:59",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -217,12 +271,83 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.07.2026 06:45",
+      "lastModified": "28.07.2026 11:20",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/0ea2fb04-6660-4218-bf7f-031d0069dced",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "76032de0-ecea-493c-8693-793165ca3af1",
+      "disruptionId": "8cd5e69c-3d23-4f82-b700-75193532b8c6",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Stellwerksausfall Westerland(Sylt) ",
+      "summary": "Wegen eines Stellwerksausfalls wurde der Zugverkehr zwischen Westerland(Sylt) und Klanxbüll in beide Richtungen eingestellt. \n",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 6 (Westerland(Sylt) - Hamburg-Altona: Züge fallen aus.</li></ul><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "28.07.2026",
+      "durationEnd": "28.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/8cd5e69c-3d23-4f82-b700-75193532b8c6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-28/1ca33d95-1e5c-4659-947f-c2aa19451cefst%25C3%25B6rungskarte_20260728-105925.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-28/1ca33d95-1e5c-4659-947f-c2aa19451cefst%25C3%25B6rungskarte_20260728-105925.png",
+          "info": "",
+          "alt": "Störungskarte 28.07.2026 10:59:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "http://bahn.de",
+          "label": "bahn.de ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator  ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "28.07.2026 11:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/76032de0-ecea-493c-8693-793165ca3af1",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section5"
     },
     {
       "id": "987b2080-61b3-40a6-aec5-56ee8baa0475",
@@ -428,15 +553,15 @@
         "label": "Reparatur an der Strecke"
       },
       "headline": "Streckensperrung zwischen Schwäbisch Hall-Hessental und Gaildorf West",
-      "summary": "Der Streckenabschnitt von Schwäbisch Hall-Hessental bis Gaildorf West ist im Moment gesperrt. Dauer der Sperrung bis vsl. 05. August, bis Tagesende.  Der Grund ist eine kurzfristige Reparatur an der Strecke. In der Folge kommt es zu Zugausfällen zwischen Schwäbisch Hall-Hessental und Gaildorf West. Wir haben einen Ersatzverkehr mit Bus für Sie eingerichtet, bis 31. Juli. Für die Zeit ab 01. August wird das Ersatzkonzept derzeit noch abgestimmt. Die Busse fahren in den Fahrzeiten der ausfallenden Züge. Berücksichtigen Sie bitte die längeren Fahrzeiten der Busse bei Ihrer Reiseplanung. Achten Sie bitte auf die Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
+      "summary": "Der Streckenabschnitt von Schwäbisch Hall-Hessental bis Gaildorf West ist im Moment gesperrt. Dauer der Sperrung bis vsl. 06. August, bis Tagesende. Die Reiseauskunft wird tagesaktuell aktualisiert. Der Grund ist eine kurzfristige Reparatur an der Strecke. In der Folge kommt es zu Zugausfällen zwischen Schwäbisch Hall-Hessental und Gaildorf West. Wir haben einen Ersatzverkehr mit Bus für Sie eingerichtet. Die Busse fahren in den Fahrzeiten der ausfallenden Züge. Berücksichtigen Sie bitte die längeren Fahrzeiten der Busse bei Ihrer Reiseplanung. Achten Sie bitte auf die Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
       "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>MEX 90 (Stuttgart – Schwäbisch Hall-Hessental (– Crailsheim))</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "25.07.2026",
-      "durationEnd": "05.08.2026",
+      "durationEnd": "06.08.2026",
       "mapHref": "https://karte.bahn.de/detail/66056b81-f746-4d06-9cd9-9a74772ce0f6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-28/a7874477-580a-4506-bc9b-7059c2f11653st%25C3%25B6rungskarte_20260725-121600.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-28/a7874477-580a-4506-bc9b-7059c2f11653st%25C3%25B6rungskarte_20260725-121600.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-28/2a6e8656-c743-41f2-8cf8-0595adb02f55st%25C3%25B6rungskarte_20260725-121600.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-07-28/2a6e8656-c743-41f2-8cf8-0595adb02f55st%25C3%25B6rungskarte_20260725-121600.png",
           "info": "",
           "alt": "Störungskarte 25.07.2026 12:16:00",
           "openInNewTab": true
@@ -462,7 +587,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.07.2026 06:59",
+      "lastModified": "28.07.2026 11:40",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/82970e7d-6aeb-4820-9768-1818b9f77c2f",
