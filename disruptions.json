@@ -1001,6 +1001,43 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section3"
     },
     {
+      "id": "9e253daa-9c22-4ef4-98f8-f9fd3745e052",
+      "disruptionId": "44c6388d-4733-48c1-b78f-b0a0e12d68c9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Linie S 8: Zugfolgeverspätungen wegen Bauarbeiten",
+      "summary": "Es kommt aktuell auf der Linie S 8 zu Verspätungen bis zu 30 Minuten, Umleitungen und Teilausfällen.",
+      "text": "<p>Der Grund dafür sind Bauarbeiten.</p>",
+      "durationBegin": "30.07.2026",
+      "durationEnd": "30.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/44c6388d-4733-48c1-b78f-b0a0e12d68c9",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "30.07.2026 00:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9e253daa-9c22-4ef4-98f8-f9fd3745e052",
+      "magnoliaPath": "/aktuell/bayern/impairment_construction"
+    },
+    {
       "id": "897ba879-b882-45a9-8825-5f4452b797a2",
       "disruptionId": "f61707b7-1619-4b0b-8f6c-be5aa2e25f4b",
       "author": "S_BAHN_RM",
