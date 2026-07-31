@@ -270,62 +270,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
-      "id": "0fb33e12-a5c7-4f86-84e0-8c14a0fd2659",
-      "disruptionId": "b07eee5b-f224-482a-ac8c-8561f9e58797",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "Die Strecke zwischen St Ingbert und Homburg(Saar) Hbf ist im Moment nur eingleisig befahrbar.",
-      "summary": "Der Grund ist ein Feuerwehreinsatz auf der Strecke.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>St Ingbert &lt;&gt; Homburg(Saar) Hbf</p><p>🕜<strong>Dauer der Teilsperrung bis mind. Betriebsschluss.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RE1 - Koblenz &lt;&gt; Trier &lt;&gt; Saarbrücken &lt;&gt; Kaiserslautern &lt;&gt; Neustadt &lt;&gt; Mannheim</li><li>RB70 - Kaiserslautern &lt;&gt; Homburg &lt;&gt; Saarbücken &lt;&gt; Dillingen &lt;&gt; Merzig</li><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li><li>S1 - Homburg(Saar) &lt;&gt; Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Osterburken  </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Um die Strecke zu entlasten fallen die Züge der Linie RB71 zw. St Ingbert und Homburg(Saar)Hbf aus. Züge der Linie RE1 und RB70 können je nach Gleisverfügbarkeit verkehren. Bitte rechnen Sie mit Verspätungen. Kurzfristige Zugausfälle sind möglich.Züge der Linie S1 sind nur noch vereinzelt betroffen. Es kann zu Verspätungen von ca. 10-20 Minuten kommen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bussen ist zwischen St Ingbert und Homburg eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "30.07.2026",
-      "durationEnd": "31.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/b07eee5b-f224-482a-ac8c-8561f9e58797",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-31/b52593e2-eda0-4177-bc05-0cd1dab5b186st%25C3%25B6rungskarte_20260731-132913.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-07-31/b52593e2-eda0-4177-bc05-0cd1dab5b186st%25C3%25B6rungskarte_20260731-132913.png",
-          "info": "",
-          "alt": "Störungskarte 31.07.2026 13:29:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SL",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 70",
-          "filterName": "RB 70",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 71",
-          "filterName": "RB 71",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "31.07.2026 19:35",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0fb33e12-a5c7-4f86-84e0-8c14a0fd2659",
-      "magnoliaPath": "/aktuell/mitte/massive_impairment_police_activity"
-    },
-    {
       "id": "d66b9aac-c83d-4a24-bdce-c57090fc0ec8",
       "disruptionId": "7ec0e387-d290-4945-9677-bb770f43a4ff",
       "author": "REGIO_NORD",
@@ -893,61 +837,6 @@
       "magnoliaPath": "/aktuell/mitte/no_service_other_cause"
     },
     {
-      "id": "8fded993-4aa6-4986-aa3b-3e20befb6abd",
-      "disruptionId": "5ac213cf-bbea-4466-b268-d52ffa04d75c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Ersatzprogramm Stammstrecke/Gesamtnetz",
-      "summary": "Der Verkehr auf der Stammstrecke und im Gesamtnetz der S-Bahn normalisiert sich.",
-      "text": "<p>Es kommt noch zu Folgeverspätungen vereinzelt von bis zu 15 Minuten und zusätzlich teilweise noch zu vorzeitigen Zugwenden.</p><p>Die Reparatur an einer Weiche wurde beendet.</p>",
-      "durationBegin": "31.07.2026",
-      "durationEnd": "31.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/5ac213cf-bbea-4466-b268-d52ffa04d75c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/19b92114-548a-4fb5-8671-8d58d0a50d32st%25C3%25B6rungskarte_20260731-165214.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/19b92114-548a-4fb5-8671-8d58d0a50d32st%25C3%25B6rungskarte_20260731-165214.png",
-          "info": "",
-          "alt": "Störungskarte 31.07.2026 16:52:14",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "31.07.2026 20:22",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8fded993-4aa6-4986-aa3b-3e20befb6abd",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section10"
-    },
-    {
       "id": "0f4d9298-6d61-4146-b640-b08d93108714",
       "disruptionId": "641babaf-d92f-485d-a397-1fdc8d9bceac",
       "author": "REGIO_BY",
@@ -1421,58 +1310,6 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
     },
     {
-      "id": "54294e60-f236-4ecf-9e87-e953eb172754",
-      "disruptionId": "90ed6e1f-c17c-418c-8f33-6a3fe8369033",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Dachau ↔ Petershausen: Reparatur an einem Signal",
-      "summary": "Zwischen Dachau und Petershausen kommt es in beiden Richtungen zu vereinzelten Verspätungen von 5 bis 10 Minuten und vorzeitigen Zugwenden.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "31.07.2026",
-      "durationEnd": "31.07.2026",
-      "mapHref": "https://karte.bahn.de/detail/90ed6e1f-c17c-418c-8f33-6a3fe8369033",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/bc50da22-fb05-4428-adfc-bf26f227feb7st%25C3%25B6rungskarte_20260731-143858.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/bc50da22-fb05-4428-adfc-bf26f227feb7st%25C3%25B6rungskarte_20260731-143858.png",
-          "info": "",
-          "alt": "Störungskarte 31.07.2026 14:38:58",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/b604bfe5-6ee1-40d5-94ac-1b589b0d3738st%25C3%25B6rungskarte_20260731-114818.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/b604bfe5-6ee1-40d5-94ac-1b589b0d3738st%25C3%25B6rungskarte_20260731-114818.png",
-          "info": "",
-          "alt": "Störungskarte 31.07.2026 11:48:18",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "31.07.2026 19:49",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/54294e60-f236-4ecf-9e87-e953eb172754",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
-    },
-    {
       "id": "646d374e-4b1b-4f71-8805-550af1956691",
       "disruptionId": "5a832c07-19a0-47ce-a5e7-5418a956bde8",
       "author": "S_BAHN_MUC",
@@ -1480,16 +1317,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S 7 / S 20 Höllriegelskreuth ↔ Baierbrunn: Reparatur an der Strecke",
-      "summary": "Zwischen Höllriegelskreuth und Baierbrunn kommt es in beiden Richtungen zu Verspätungen von 10 bis 15 Minuten, vereinzelt höher  und  vorzeitigen Zugwenden.",
-      "text": "<p>In diesem Bereich verkehren die Züge mit verminderter Geschwindigkeit.</p><p>Die Fahrten der S20 entfallen komplett</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "headline": "S 7 Höllriegelskreuth ↔ Baierbrunn: Reparatur an der Strecke",
+      "summary": "Zwischen Höllriegelskreuth und Baierbrunn kommt es weiterhin in beiden Richtungen zu Verspätungen von 10 bis 15 Minuten, vereinzelt höher  und  vorzeitigen Zugwenden.",
+      "text": "<p>In diesem Bereich verkehren die Züge mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "31.07.2026",
       "durationEnd": "31.07.2026",
       "mapHref": "https://karte.bahn.de/detail/5a832c07-19a0-47ce-a5e7-5418a956bde8",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/a6ac8f55-45ad-4a9b-ab41-2ad8686e4940st%25C3%25B6rungskarte_20260731-094350.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/a6ac8f55-45ad-4a9b-ab41-2ad8686e4940st%25C3%25B6rungskarte_20260731-094350.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/e7870af2-b7d5-4d02-9cbb-77da3d4527e9st%25C3%25B6rungskarte_20260731-094350.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/e7870af2-b7d5-4d02-9cbb-77da3d4527e9st%25C3%25B6rungskarte_20260731-094350.png",
           "info": "",
           "alt": "Störungskarte 31.07.2026 09:43:50",
           "openInNewTab": true
@@ -1510,12 +1347,64 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "31.07.2026 17:05",
+      "lastModified": "31.07.2026 20:59",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/646d374e-4b1b-4f71-8805-550af1956691",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section5"
+    },
+    {
+      "id": "54294e60-f236-4ecf-9e87-e953eb172754",
+      "disruptionId": "90ed6e1f-c17c-418c-8f33-6a3fe8369033",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 2 Dachau ↔ Petershausen: Reparatur an einem Signal",
+      "summary": "Zwischen Dachau und Petershausen kommt es in beiden Richtungen zu vereinzelten Verspätungen von 5 bis 10 Minuten und vorzeitigen Zugwenden.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "31.07.2026",
+      "durationEnd": "31.07.2026",
+      "mapHref": "https://karte.bahn.de/detail/90ed6e1f-c17c-418c-8f33-6a3fe8369033",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/a7fa3a71-8a3e-42ef-a386-63426ce3cd22st%25C3%25B6rungskarte_20260731-143858.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/a7fa3a71-8a3e-42ef-a386-63426ce3cd22st%25C3%25B6rungskarte_20260731-143858.png",
+          "info": "",
+          "alt": "Störungskarte 31.07.2026 14:38:58",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/56eefe19-b5cd-4e7f-9164-6b95d392b7afst%25C3%25B6rungskarte_20260731-114818.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-07-31/56eefe19-b5cd-4e7f-9164-6b95d392b7afst%25C3%25B6rungskarte_20260731-114818.png",
+          "info": "",
+          "alt": "Störungskarte 31.07.2026 11:48:18",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "31.07.2026 20:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/54294e60-f236-4ecf-9e87-e953eb172754",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section6"
     },
     {
       "id": "9557f595-595f-460a-8c4e-8004b438a7ce",
