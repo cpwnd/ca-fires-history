@@ -2,51 +2,6 @@
   "topDisruptions": [],
   "disruptions": [
     {
-      "id": "f1a77c44-982e-4733-998c-a1185254953f",
-      "disruptionId": "60b308de-038e-49b2-8ef7-254e2719a2bc",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
-      },
-      "headline": "Beeinträchtigungen zwischen Köln und Bonn ",
-      "summary": "Aufgrund einer technischen Störung an einem Güterzug zwischen Bonn und Köln kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge fallen leider aus.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC - Züge Dortmund - Köln - Bonn - Mainz - Mannheim - Stuttgart/ Karlsruhe</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p></p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "03.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/60b308de-038e-49b2-8ef7-254e2719a2bc",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-03/e23e3771-1bdd-497f-8304-d93bfac4860dst%25C3%25B6rungskarte_20260803-110627.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-03/e23e3771-1bdd-497f-8304-d93bfac4860dst%25C3%25B6rungskarte_20260803-110627.png",
-          "info": "",
-          "alt": "Störungskarte 03.08.2026 11:06:27",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "NW",
-        "HE",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "03.08.2026 12:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/f1a77c44-982e-4733-998c-a1185254953f",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_vehicle"
-    },
-    {
       "id": "39219b87-2dab-4048-826e-c3abada571ba",
       "disruptionId": "81f1fa6e-f6e1-43f7-89e7-ec28507fb318",
       "author": "S_BAHN_HH",
@@ -290,6 +245,44 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/00fa0915-34b7-483e-880c-be8a1bebc64c",
       "magnoliaPath": "/aktuell/nord/impairment_technical_problem_vehicle"
+    },
+    {
+      "id": "0d9d50b5-0c94-4b08-8305-882f0583cebd",
+      "disruptionId": "994ee8de-3718-463d-8e5a-08d171db3462",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Derzeit Verspätungen und Ausfälle auf der S1.",
+      "summary": "Auf der S1  kommt es derzeit zu Verspätungen und Ausfällen. Grund: Signalstörung. Nutzen Sie alternativ auch mögliche Linienbusverbindungen.",
+      "text": "<p>Es sind Ausfälle zwischen Blankenese und Wedel möglich. </p>",
+      "durationBegin": "03.08.2026",
+      "durationEnd": "03.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/994ee8de-3718-463d-8e5a-08d171db3462",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.08.2026 17:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0d9d50b5-0c94-4b08-8305-882f0583cebd",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "57871ce6-37c4-45d0-8d1e-a6bf170a1dfb",
@@ -753,51 +746,6 @@
       "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section"
     },
     {
-      "id": "a778d961-053f-45ab-8d8b-e827f55919c8",
-      "disruptionId": "730b9725-50ab-4543-9cf1-8f41eb267045",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Kurzfristiger Fahrzeugausfall"
-      },
-      "headline": "Ulm Hbf - Biberach(Riß) Süd",
-      "summary": "Eingeschränkte Fahrzeugverfügbarkeit am Montag, den 03. August 2026 / Vereinzelte Zugausfälle",
-      "text": "<p>Aufgrund einer <strong>eingeschränkten Fahrzeugverfügbarkeit </strong>müssen<strong> </strong>am<strong> Montag, den 03. August 2026, </strong>folgende Fahrten im Regionalverkehr der Linie <strong>RS21</strong> auf der Strecke zwischen <strong>Ulm Hbf - Biberach(Riß) Süd </strong>in beiden Richtungen ersatzlos entfallen:</p><p><strong>Richtung Biberach(Riß) Süd:</strong></p><ul><li>RS 32609 Ulm Hbf Abfahrt: 06:35 Uhr - Biberach(Riß) Süd Ankunft: 07:24 Uhr</li><li>RS 32613 Ulm Hbf Abfahrt: 08:35 Uhr - Biberach(Riß) Süd Ankunft: 09:21 Uhr</li><li>RS 32617 Ulm Hbf Abfahrt: 10:35 Uhr - Biberach(Riß) Süd Ankunft: 11:24 Uhr</li><li>RS 32621 Ulm Hbf Abfahrt: 12:35 Uhr - Biberach(Riß) Süd Ankunft: 13:24 Uhr</li><li>RS 32629 Ulm Hbf Abfahrt: 14:35 Uhr - Biberach(Riß) Süd Ankunft: 15:24 Uhr</li></ul><p><strong>Richtung Ulm Hbf:</strong></p><ul><li>RS 32612 Biberach(Riß) Süd Abfahrt: 07:32 Uhr - Ulm Hbf Ankunft: 08:23 Uhr</li><li>RS 32616 Biberach(Riß) Süd Abfahrt: 09:32 Uhr - Ulm Hbf Ankunft: 10:23 Uhr</li><li>RS 32620 Biberach(Riß) Süd Abfahrt: 11:32 Uhr - Ulm Hbf Ankunft: 12:23 Uhr</li><li>RS 32626 Biberach(Riß) Süd Abfahrt: 13:32 Uhr - Ulm Hbf Ankunft: 14:23 Uhr</li><li>RS 32630 Biberach(Riß) Süd Abfahrt: 15:32 Uhr - Ulm Hbf Ankunft: 16:23 Uhr</li></ul><p>Bitte beachten Sie, dass es kurzfristig zu weiteren Abweichungen kommen kann und nutzen Sie für die genannten ausfallenden Züge eine jeweils andere Verbindung der Linien&nbsp;<strong>RS21</strong> sowie<strong> RS2</strong>&nbsp;zwischen&nbsp;<strong>Ulm Hbf - Biberach(Riß) Süd&nbsp;</strong>und überprüfen Sie die Fahrplanauskunft noch einmal unmittelbar vor Reiseantritt.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
-      "durationBegin": "03.08.2026",
-      "durationEnd": "03.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/730b9725-50ab-4543-9cf1-8f41eb267045",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-03/69a19247-24e2-4a48-9e03-438d52ec291bst%25C3%25B6rungskarte_20260803-003622.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-03/69a19247-24e2-4a48-9e03-438d52ec291bst%25C3%25B6rungskarte_20260803-003622.png",
-          "info": "",
-          "alt": "Störungskarte 03.08.2026 00:36:22",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB RS21",
-          "filterName": "RB RS21",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "03.08.2026 02:03",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a778d961-053f-45ab-8d8b-e827f55919c8",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_vehicle"
-    },
-    {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
       "disruptionId": "dbb5e16a-a1ab-41a6-8bec-7779ad98a03b",
       "author": "S_BAHN_MUC",
@@ -1007,6 +955,176 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/7e11a602-dcf7-44e6-b31c-4cf7ba9acdfd",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
+    },
+    {
+      "id": "2950c35b-f8ca-4950-ac9e-2dca999e5ac6",
+      "disruptionId": "120fa27c-8a63-4764-b5f4-450515f7e32b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "S 7: Technische Störung an einem Zug",
+      "summary": "Auf der  Linie S 7 kommt es derzeit in beiden Richtungen zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
+      "text": "<p></p><p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
+      "durationBegin": "03.08.2026",
+      "durationEnd": "03.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/120fa27c-8a63-4764-b5f4-450515f7e32b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-03/27169cd5-2f83-4af2-a3d3-c2f934bdb8b3st%25C3%25B6rungskarte_20260803-165549.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-03/27169cd5-2f83-4af2-a3d3-c2f934bdb8b3st%25C3%25B6rungskarte_20260803-165549.png",
+          "info": "",
+          "alt": "Störungskarte 03.08.2026 16:55:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.08.2026 17:55",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2950c35b-f8ca-4950-ac9e-2dca999e5ac6",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
+    },
+    {
+      "id": "75ddb0ef-671d-4ba3-8a8f-d2c2bdb39bb2",
+      "disruptionId": "887f5da5-2dd3-46ef-b096-0d34db522f53",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 2 Dachau ↔ Karlsfeld: Reparatur an einer Weiche",
+      "summary": "Zwischen Dachau und Karlsfeld kommt es zu Verspätungen von 10 bis 15 Minuten und vereinzelten vorzeitigen Zugwenden im Außenbereich.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "03.08.2026",
+      "durationEnd": "03.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/887f5da5-2dd3-46ef-b096-0d34db522f53",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-03/c012408a-5c2d-4117-8e53-59c74b3b9c9fst%25C3%25B6rungskarte_20260803-154331.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-03/c012408a-5c2d-4117-8e53-59c74b3b9c9fst%25C3%25B6rungskarte_20260803-154331.png",
+          "info": "",
+          "alt": "Störungskarte 03.08.2026 15:43:31",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.08.2026 17:47",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/75ddb0ef-671d-4ba3-8a8f-d2c2bdb39bb2",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section"
+    },
+    {
+      "id": "9574583a-42d9-445d-9474-2100f4eb384c",
+      "disruptionId": "4fc3b18e-adc0-413d-82cd-1c003d8aed2f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "Stammstrecke Ostbahnhof ↔ Pasing: Technische Störung an einem Zug + Reparatur an der Oberleitung",
+      "summary": "Zwischen Ostbahnhof und Pasing kommt es zu Folgeverspätungen von 15 bis 20 Minuten und vereinzelten vorzeitigen Zugwenden auf den Außenästen.",
+      "text": "<p>Der Grund hierfür ist eine bereits behobene technische Störung am Zug am Karlsplatz/Stachus und ❗ kurzzeitige Reparatur an der Oberleitung zwischen Donnersbergerbrücke und Hauptbahnhof.</p>",
+      "durationBegin": "03.08.2026",
+      "durationEnd": "03.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/4fc3b18e-adc0-413d-82cd-1c003d8aed2f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-03/7409b7ad-451c-4d82-8999-2f7f90667befst%25C3%25B6rungskarte_20260803-170332.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-03/7409b7ad-451c-4d82-8999-2f7f90667befst%25C3%25B6rungskarte_20260803-170332.png",
+          "info": "",
+          "alt": "Störungskarte 03.08.2026 17:03:32",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "03.08.2026 17:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9574583a-42d9-445d-9474-2100f4eb384c",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle0"
     },
     {
       "id": "83d4aa3b-5c29-41ae-ab68-5744acdfef1e",
