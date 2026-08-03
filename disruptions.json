@@ -178,90 +178,6 @@
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_vehicle"
     },
     {
-      "id": "78bde61c-5404-4995-bb3d-8c42583b2ba2",
-      "disruptionId": "ea2b6a45-3af3-4106-ae46-8e39df271fa1",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "other_cause",
-        "label": "Kurzfristiger Personalausfall"
-      },
-      "headline": "Beeinträchtigung auf der Linie RB 37 zwischen Bremen Hbf und Uelzen",
-      "summary": "Aufgrund von kurzfristigem Personalausfall entfallen die Züge der Linie RB 37 von Samstag, den 01.08.2026, bis einschließlich Sonntag, den 02.08.2026.",
-      "text": "<p><strong>Betroffene Linie:&nbsp;</strong></p><ul><li>RB 37 (Bremen – Soltau – Uelzen): Die Züge fallen aus. Ein Ersatzverkehr mit Bussen ist eingerichtet.</li></ul><p>Die Ersatzfahrpläne finden Sie im Anhang. Die digitalen Reiseauskunftsmedien der deutschen Bahn werden sukzessive aktualisiert.</p><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von 45 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "29.07.2026",
-      "durationEnd": "03.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/ea2b6a45-3af3-4106-ae46-8e39df271fa1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-31/6a9ed796-08ae-4daf-9647-fd3bc92b6f59st%25C3%25B6rungskarte_20260729-112408.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-31/6a9ed796-08ae-4daf-9647-fd3bc92b6f59st%25C3%25B6rungskarte_20260729-112408.png",
-          "info": "",
-          "alt": "Störungskarte 29.07.2026 11:24:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-07-31/586752ee-0ac8-4f0e-8e67-c58eb95547a7RB%2B37%2BErsatzfahrplan%2B01.08.%2B-%2B02.08.2026.pdf",
-          "label": "RB 37 Ersatzfahrplan 01.08. - 02.08.2026.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
-          "label": "bahn.de/fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "http://bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HB",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "RB 37",
-          "filterName": "RB 37",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "31.07.2026 15:11",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/78bde61c-5404-4995-bb3d-8c42583b2ba2",
-      "magnoliaPath": "/aktuell/nord/impairment_other_cause"
-    },
-    {
       "id": "00fa0915-34b7-483e-880c-be8a1bebc64c",
       "disruptionId": "a75f082d-89b1-4f21-9222-c18b2f0aa8ac",
       "author": "REGIO_NORD",
@@ -654,6 +570,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "a778d961-053f-45ab-8d8b-e827f55919c8",
+      "disruptionId": "730b9725-50ab-4543-9cf1-8f41eb267045",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Kurzfristiger Fahrzeugausfall"
+      },
+      "headline": "Ulm Hbf - Biberach(Riß) Süd",
+      "summary": "Eingeschränkte Fahrzeugverfügbarkeit am Montag, den 03. August 2026 / Vereinzelte Zugausfälle",
+      "text": "<p>Aufgrund einer <strong>eingeschränkten Fahrzeugverfügbarkeit </strong>müssen<strong> </strong>am<strong> Montag, den 03. August 2026, </strong>folgende Fahrten im Regionalverkehr der Linie <strong>RS21</strong> auf der Strecke zwischen <strong>Ulm Hbf - Biberach(Riß) Süd </strong>in beiden Richtungen ersatzlos entfallen:</p><p><strong>Richtung Biberach(Riß) Süd:</strong></p><ul><li>RS 32609 Ulm Hbf Abfahrt: 06:35 Uhr - Biberach(Riß) Süd Ankunft: 07:24 Uhr</li><li>RS 32613 Ulm Hbf Abfahrt: 08:35 Uhr - Biberach(Riß) Süd Ankunft: 09:21 Uhr</li><li>RS 32617 Ulm Hbf Abfahrt: 10:35 Uhr - Biberach(Riß) Süd Ankunft: 11:24 Uhr</li><li>RS 32621 Ulm Hbf Abfahrt: 12:35 Uhr - Biberach(Riß) Süd Ankunft: 13:24 Uhr</li><li>RS 32629 Ulm Hbf Abfahrt: 14:35 Uhr - Biberach(Riß) Süd Ankunft: 15:24 Uhr</li></ul><p><strong>Richtung Ulm Hbf:</strong></p><ul><li>RS 32612 Biberach(Riß) Süd Abfahrt: 07:32 Uhr - Ulm Hbf Ankunft: 08:23 Uhr</li><li>RS 32616 Biberach(Riß) Süd Abfahrt: 09:32 Uhr - Ulm Hbf Ankunft: 10:23 Uhr</li><li>RS 32620 Biberach(Riß) Süd Abfahrt: 11:32 Uhr - Ulm Hbf Ankunft: 12:23 Uhr</li><li>RS 32626 Biberach(Riß) Süd Abfahrt: 13:32 Uhr - Ulm Hbf Ankunft: 14:23 Uhr</li><li>RS 32630 Biberach(Riß) Süd Abfahrt: 15:32 Uhr - Ulm Hbf Ankunft: 16:23 Uhr</li></ul><p>Bitte beachten Sie, dass es kurzfristig zu weiteren Abweichungen kommen kann und nutzen Sie für die genannten ausfallenden Züge eine jeweils andere Verbindung der Linien&nbsp;<strong>RS21</strong> sowie<strong> RS2</strong>&nbsp;zwischen&nbsp;<strong>Ulm Hbf - Biberach(Riß) Süd&nbsp;</strong>und überprüfen Sie die Fahrplanauskunft noch einmal unmittelbar vor Reiseantritt.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "durationBegin": "03.08.2026",
+      "durationEnd": "03.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/730b9725-50ab-4543-9cf1-8f41eb267045",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-03/69a19247-24e2-4a48-9e03-438d52ec291bst%25C3%25B6rungskarte_20260803-003622.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-08-03/69a19247-24e2-4a48-9e03-438d52ec291bst%25C3%25B6rungskarte_20260803-003622.png",
+          "info": "",
+          "alt": "Störungskarte 03.08.2026 00:36:22",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB RS21",
+          "filterName": "RB RS21",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "03.08.2026 02:03",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a778d961-053f-45ab-8d8b-e827f55919c8",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
