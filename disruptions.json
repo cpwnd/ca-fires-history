@@ -79,6 +79,57 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
+      "id": "4047eb9f-4596-4fe9-8051-48c5d550705c",
+      "disruptionId": "b3793efb-4402-4a9e-918e-549298bc92fe",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Verspätungen und Teil- sowie Zugausfälle in Gießen",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE25: Gießen - Wetzlar - Limburg(Lahn) - Koblenz Hbf</li><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Die Züge fahren mit verminderter Geschwindigkeit. Der Zugverkehr staut sich weiterhin.</li><li>Es kommt zu hohen Verspätungen.</li><li>Auf der RE25 kommt es zu Teilausfällen zwischen Gießen - Wetzlar.</li><li>Es kommt auch auf der RE30 zu diversen Teil- und Zugausfällen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "04.08.2026",
+      "durationEnd": "04.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/b3793efb-4402-4a9e-918e-549298bc92fe",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-04/4e4a9643-97a2-49ac-82ef-e7197dd4cd99st%25C3%25B6rungskarte_20260804-164711.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-04/4e4a9643-97a2-49ac-82ef-e7197dd4cd99st%25C3%25B6rungskarte_20260804-164711.png",
+          "info": "",
+          "alt": "Störungskarte 04.08.2026 16:47:11",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RE 25",
+          "filterName": "RE 25",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "04.08.2026 19:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4047eb9f-4596-4fe9-8051-48c5d550705c",
+      "magnoliaPath": "/aktuell/hessen/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "d66b9aac-c83d-4a24-bdce-c57090fc0ec8",
       "disruptionId": "7ec0e387-d290-4945-9677-bb770f43a4ff",
       "author": "REGIO_NORD",
@@ -187,14 +238,14 @@
       },
       "headline": "Verspätungen und Teil- sowie Zugausfälle zwischen Darmstadt Hbf - Bickenbach(Bergstr) - Weinheim(Bergstr)Hbf",
       "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S5: Bensheim -&nbsp;Mannheim Hbf -&nbsp;Ludwigshafen(Rh)Hbf - Worms Hbf - Mainz Hbf</li><li>RE60: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Mannheim Hbf</li><li>RB68: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Heidelberg Hbf (- Wiesloch-Walldorf)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Der Zugverkehr staut sich zur Zeit.</li><li>Es kommt auf der S5 zu Verspätungen von bis zu 15 Minuten. Es kommt auf der RE60 und RB68 zu teilweise hohen Verspätungen.</li><li>Auf der RE60 ist kein Betrieb möglich.</li><li>Es kommt auch auf der RB68 zu diversen Teil- und Zugausfällen.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Wir arbeiten an der Einrichtung eines zusätzlichen Ersatzverkehrs für die RE60 und RB68, warten aber noch auf die Bestätigung unserer Partner.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S5: Bensheim -&nbsp;Mannheim Hbf -&nbsp;Ludwigshafen(Rh)Hbf - Worms Hbf - Mainz Hbf</li><li>RE60: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Mannheim Hbf</li><li>RB68: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Heidelberg Hbf (- Wiesloch-Walldorf)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Der Zugbetrieb stabilisiert sich wieder.</li><li>Es kommt auf der S5 zu Verspätungen von bis zu 15 Minuten.</li><li>Auf der RE60 ist der Betrieb wieder möglich.</li><li>Es kommt zu teilweise hohen Verspätungen. Es kommt dennoch auf der RE60 und RB68 zu diversen Teil- und Zugausfällen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "04.08.2026",
       "durationEnd": "04.08.2026",
       "mapHref": "https://karte.bahn.de/detail/30fddda9-1385-48c6-8070-302295cd4b1f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-04/10e3d858-63e9-4226-8163-876033191291st%25C3%25B6rungskarte_20260804-171424.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-04/10e3d858-63e9-4226-8163-876033191291st%25C3%25B6rungskarte_20260804-171424.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-04/d078425f-66b8-4f0c-a682-dfbc1b362603st%25C3%25B6rungskarte_20260804-171424.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-08-04/d078425f-66b8-4f0c-a682-dfbc1b362603st%25C3%25B6rungskarte_20260804-171424.png",
           "info": "",
           "alt": "Störungskarte 04.08.2026 17:14:24",
           "openInNewTab": true
@@ -227,7 +278,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "04.08.2026 19:20",
+      "lastModified": "04.08.2026 20:44",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -727,6 +778,81 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "c5f53977-9912-41f1-aa5b-b7d46aba2230",
+      "disruptionId": "1c6cdb41-a2f6-4562-9008-dabe5500c64b",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Stammstrecke / Gesamtnetz: Reparatur an der Oberleitung",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten, Umleitungen, Ausfällen und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an der Oberleitung.</p>",
+      "durationBegin": "04.08.2026",
+      "durationEnd": "04.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/1c6cdb41-a2f6-4562-9008-dabe5500c64b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-04/dff5c804-d843-49cc-8e73-426ccbf36c10st%25C3%25B6rungskarte_20260804-184212.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-04/dff5c804-d843-49cc-8e73-426ccbf36c10st%25C3%25B6rungskarte_20260804-184212.png",
+          "info": "",
+          "alt": "Störungskarte 04.08.2026 18:42:12",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.08.2026 20:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c5f53977-9912-41f1-aa5b-b7d46aba2230",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
+    },
+    {
       "id": "5ceed6de-1b48-43e8-b813-c0fff81a63a4",
       "disruptionId": "9b70c6a6-f272-434f-b1c8-0d887556bd1b",
       "author": "S_BAHN_MUC",
@@ -742,8 +868,8 @@
       "mapHref": "https://karte.bahn.de/detail/9b70c6a6-f272-434f-b1c8-0d887556bd1b",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-04/4c5c779c-adad-43f4-9f5b-30a4b48386ffst%25C3%25B6rungskarte_20260804-184856.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-04/4c5c779c-adad-43f4-9f5b-30a4b48386ffst%25C3%25B6rungskarte_20260804-184856.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-04/7caf734e-6563-4ee2-9d60-0e9040cf0547st%25C3%25B6rungskarte_20260804-184856.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-04/7caf734e-6563-4ee2-9d60-0e9040cf0547st%25C3%25B6rungskarte_20260804-184856.png",
           "info": "",
           "alt": "Störungskarte 04.08.2026 18:48:56",
           "openInNewTab": true
@@ -764,7 +890,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "04.08.2026 18:50",
+      "lastModified": "04.08.2026 20:13",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -825,126 +951,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/8d57b8fa-3ffc-4095-87c9-17df7b3bbe17",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "c5f53977-9912-41f1-aa5b-b7d46aba2230",
-      "disruptionId": "1c6cdb41-a2f6-4562-9008-dabe5500c64b",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Stammstrecke / Gesamtnetz: Reparatur an der Oberleitung",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten, Umleitungen, Ausfällen und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an der Oberleitung.</p>",
-      "durationBegin": "04.08.2026",
-      "durationEnd": "04.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/1c6cdb41-a2f6-4562-9008-dabe5500c64b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-04/ae483b79-c0f5-4c83-af5c-7871aee57a9fst%25C3%25B6rungskarte_20260804-184212.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-04/ae483b79-c0f5-4c83-af5c-7871aee57a9fst%25C3%25B6rungskarte_20260804-184212.png",
-          "info": "",
-          "alt": "Störungskarte 04.08.2026 18:42:12",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.08.2026 18:43",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c5f53977-9912-41f1-aa5b-b7d46aba2230",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section3"
-    },
-    {
-      "id": "ea835117-c7a5-4bfa-a6b5-b7ae7d56fa5f",
-      "disruptionId": "25be07dc-4610-44b9-baae-a1de309ef3a8",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Petershausen: Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "04.08.2026",
-      "durationEnd": "04.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/25be07dc-4610-44b9-baae-a1de309ef3a8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-04/88ffe095-aae0-439b-9bcb-1b310163b8d5st%25C3%25B6rungskarte_20260804-181513.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-04/88ffe095-aae0-439b-9bcb-1b310163b8d5st%25C3%25B6rungskarte_20260804-181513.png",
-          "info": "",
-          "alt": "Störungskarte 04.08.2026 18:15:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.08.2026 18:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ea835117-c7a5-4bfa-a6b5-b7ae7d56fa5f",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section2"
     },
     {
       "id": "50b3bf68-bfe9-4c5d-8427-cfac3e5ef18b",
