@@ -291,6 +291,44 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section"
     },
     {
+      "id": "d662ffc5-6cde-4bf4-a963-58f7f8e59e94",
+      "disruptionId": "f2cd6a74-4562-474b-a879-b2b34e6095f2",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S1: Reparatur an der Strecke abgeschlossen",
+      "summary": "S1: Die dringenden Reparaturarbeiten an der Strecke zwischen Barmbek und Airport  sind beendet. Die S1 fährt wieder regulär. Es ist kein Umstieg in Ohlsdorf mehr erforderlich.",
+      "text": "<p> </p>",
+      "durationBegin": "04.08.2026",
+      "durationEnd": "04.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/f2cd6a74-4562-474b-a879-b2b34e6095f2",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.08.2026 14:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d662ffc5-6cde-4bf4-a963-58f7f8e59e94",
+      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
+    },
+    {
       "id": "82a0044e-455a-468c-819f-232c722a4bc9",
       "disruptionId": "56d2acb9-afbd-4da5-962d-64e49f722d67",
       "author": "REGIO_NORD",
@@ -814,43 +852,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
-    },
-    {
-      "id": "d662ffc5-6cde-4bf4-a963-58f7f8e59e94",
-      "disruptionId": "f2cd6a74-4562-474b-a879-b2b34e6095f2",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S1: Reparatur an der Strecke",
-      "summary": "S1: Wegen dringenden Reparaturarbeiten an der Strecke verkehren zwischen Barmbek und Airport die Züge der S1 in 20 Minuten Takt. Zusätzlich verkehrt ein Pendelzug zwischen Ohlsdorf und Poppenbüttel sowie Expressbusse zwischen Poppenbüttel und Ohlsdorf. ",
-      "text": "<p> </p>",
-      "durationBegin": "04.08.2026",
-      "durationEnd": "04.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/f2cd6a74-4562-474b-a879-b2b34e6095f2",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.08.2026 11:33",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d662ffc5-6cde-4bf4-a963-58f7f8e59e94",
-      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
     },
     {
       "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
