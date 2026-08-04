@@ -255,14 +255,15 @@
         "label": "Reparatur an der Oberleitung"
       },
       "headline": "Beeinträchtigung zwischen Köln und Aachen",
-      "summary": "Aufgrund von Bauarbeiten zwischen Köln und Düren, sowie einer Reparatur an der Oberleitung zwischen Köln und Rheydt ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Zugausfällen.\n",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge zwischen Frankfurt(M), Köln und Aachen fallen aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Zwischen Köln und Aachen wird ein Busersatzverkehr für die ausfallenden ICE-Züge eingerichtet. Zwischen Köln und Frankfurt(M) nutzen Sie bitte die verbliebenen ICE-Züge.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die heutigen Mittagsstunden erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "summary": "Aufgrund von Bauarbeiten zwischen Köln und Düren, sowie Reparaturen an der Oberleitung zwischen Köln und Rheydt ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Zugausfällen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Einzelne ICE-Züge zwischen Frankfurt(M), Köln und Aachen fallen aus.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Zwischen Köln und Aachen wird ein Busersatzverkehr für die ausfallenden ICE-Züge eingerichtet. Zwischen Köln und Frankfurt(M) nutzen Sie bitte die verbliebenen ICE-Züge.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "04.08.2026",
+      "durationEnd": "05.08.2026",
       "mapHref": "https://karte.bahn.de/detail/51c4a33e-2727-4362-9e7b-f566402a4e70",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-04/b3209c71-a1eb-4a1f-aced-28d19f42db5dst%25C3%25B6rungskarte_20260804-033325.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-04/b3209c71-a1eb-4a1f-aced-28d19f42db5dst%25C3%25B6rungskarte_20260804-033325.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-04/111bab4f-65d7-494e-b8a6-9a9de462da96st%25C3%25B6rungskarte_20260804-033325.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-04/111bab4f-65d7-494e-b8a6-9a9de462da96st%25C3%25B6rungskarte_20260804-033325.png",
           "info": "",
           "alt": "Störungskarte 04.08.2026 03:33:25",
           "openInNewTab": true
@@ -284,49 +285,11 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "04.08.2026 03:36",
+      "lastModified": "04.08.2026 17:37",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/1ddbae88-183a-4f53-9034-7f86e6d26b6e",
       "magnoliaPath": "/aktuell/fernverkehr-ag/reduced_service_technical_problem_railway_section"
-    },
-    {
-      "id": "d662ffc5-6cde-4bf4-a963-58f7f8e59e94",
-      "disruptionId": "f2cd6a74-4562-474b-a879-b2b34e6095f2",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S1: Reparatur an der Strecke abgeschlossen",
-      "summary": "S1: Die dringenden Reparaturarbeiten an der Strecke zwischen Barmbek und Airport  sind beendet. Die S1 fährt wieder regulär. Es ist kein Umstieg in Ohlsdorf mehr erforderlich.",
-      "text": "<p> </p>",
-      "durationBegin": "04.08.2026",
-      "durationEnd": "04.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/f2cd6a74-4562-474b-a879-b2b34e6095f2",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.08.2026 14:37",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d662ffc5-6cde-4bf4-a963-58f7f8e59e94",
-      "magnoliaPath": "/aktuell/nord/no_service_police_activity"
     },
     {
       "id": "82a0044e-455a-468c-819f-232c722a4bc9",
@@ -426,6 +389,68 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "c8b28069-147f-4e7f-b867-c37e5f6f9808",
+      "disruptionId": "789c631a-6278-4708-8fc9-100d868d440f",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Die Strecke zwischen Beckingen(Saar) und Dillingen(Saar) ist im Moment gesperrt.",
+      "summary": "Der Grund ist ein Notarzteinsatz auf der Strecke.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Beckingen(Saar) &lt;&gt; Dillingen(Saar)</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RE1 - Koblenz &lt;&gt; Trier &lt;&gt; Saarbrücken &lt;&gt; Kaiserslautern &lt;&gt; Neustadt &lt;&gt; Mannheim</li><li>RB70 - Kaiserslautern &lt;&gt; Homburg &lt;&gt; Saarbücken &lt;&gt; Dillingen &lt;&gt; Merzig</li><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Linie RE 1 aus Richtung Koblenz Hbf endet und beginnt in Trier Hbf und aus Richtung Homburg(Saar)Hbf in Saarbrücken Hbf. Die Linie RB 70 endet und beginnt in Saarlouis Hbf. Die Linie RB 71 aus Richtung Mettlach endet und beginnt in Merzig(Saar) und aus Richtung Bous(Saar) in Saarlouis.</p><p>🚍&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bussen zwischen Merzig(Saar) und Saarlouis Hbf für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "04.08.2026",
+      "durationEnd": "04.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/789c631a-6278-4708-8fc9-100d868d440f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-04/3298dd09-26a1-4b89-854a-3e213a90b3b4st%25C3%25B6rungskarte_20260804-152403.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-04/3298dd09-26a1-4b89-854a-3e213a90b3b4st%25C3%25B6rungskarte_20260804-152403.png",
+          "info": "",
+          "alt": "Störungskarte 04.08.2026 15:24:03",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-04/f80693e0-3f0f-4b90-89c3-513281508482st%25C3%25B6rungskarte_20260804-143912.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-04/f80693e0-3f0f-4b90-89c3-513281508482st%25C3%25B6rungskarte_20260804-143912.png",
+          "info": "",
+          "alt": "Störungskarte 04.08.2026 14:39:12",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "SL"
+      ],
+      "lines": [
+        {
+          "name": "RB 70",
+          "filterName": "RB 70",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 71",
+          "filterName": "RB 71",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "04.08.2026 17:23",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c8b28069-147f-4e7f-b867-c37e5f6f9808",
+      "magnoliaPath": "/aktuell/mitte/no_service_medical_emergency"
     },
     {
       "id": "c961d450-7b2d-4e6d-8675-ce38e30d6e2e",
@@ -707,6 +732,51 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "0add3e9a-fba5-41f7-a0c9-35cf95b42825",
+      "disruptionId": "11f4b481-d6c1-4413-981c-68c68162051e",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Behobener technischer Defekt am Zug"
+      },
+      "headline": "S 2 Altomünster: Vorangegangener technischer Defekt an einem Zug",
+      "summary": "Es kommt noch zu Folgeverspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist ein vorangegangener technischer Defekt an einem Zug.</p>",
+      "durationBegin": "04.08.2026",
+      "durationEnd": "04.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/11f4b481-d6c1-4413-981c-68c68162051e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-04/f0fca4e7-e93d-4e78-a8b4-a9df3571861bst%25C3%25B6rungskarte_20260804-160135.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-04/f0fca4e7-e93d-4e78-a8b4-a9df3571861bst%25C3%25B6rungskarte_20260804-160135.png",
+          "info": "",
+          "alt": "Störungskarte 04.08.2026 16:01:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.08.2026 16:03",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/0add3e9a-fba5-41f7-a0c9-35cf95b42825",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_vehicle"
+    },
+    {
       "id": "50b3bf68-bfe9-4c5d-8427-cfac3e5ef18b",
       "disruptionId": "9e7846fe-324e-4edc-a31b-0d38852b5b93",
       "author": "S_BAHN_RM",
@@ -747,6 +817,58 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/50b3bf68-bfe9-4c5d-8427-cfac3e5ef18b",
       "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "75e8d08c-2794-482c-9f59-ccc2a5226d00",
+      "disruptionId": "6a0d3597-3460-4968-9c3c-3b5c8d8d4218",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Magdeburg Hbf ⇄ Biederitz - Fahrtausfälle",
+      "summary": "Der Streckenabschnitt zwischen Biederitz und Magdeburg Hbf ist vom 05.08. bis 10.08.2026 beeinträchtigt.  Der Grund ist eine Reparatur an der Strecke.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RB 40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Züge der Linie RB40 fallen zwischen Biederitz und Magdeburg Hbf aus.</p><p>↪️&nbsp;<strong>Alternative:</strong> Ein Ersatzverkehr mit Bus ist zwischen Biederitz und Magdeburg Hbf eingerichtet.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "05.08.2026",
+      "durationEnd": "10.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/6a0d3597-3460-4968-9c3c-3b5c8d8d4218",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-08-04/b84ba699-0e22-4811-a7c0-450138ba9b0ast%25C3%25B6rungskarte_20260804-160859.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-08-04/b84ba699-0e22-4811-a7c0-450138ba9b0ast%25C3%25B6rungskarte_20260804-160859.png",
+          "info": "",
+          "alt": "Störungskarte 04.08.2026 16:08:59",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-08-04/c9c9ad80-1daa-4380-8a7f-fb8b7c93757fFahrplan%2BErsatzverkehr%2BRB40%2B05.08.%2B-%2B10.08.2026.pdf",
+          "label": "Fahrplan Ersatzverkehr RB40 05.08. - 10.08.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "04.08.2026 16:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/75e8d08c-2794-482c-9f59-ccc2a5226d00",
+      "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
@@ -907,6 +1029,49 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
+    },
+    {
+      "id": "390b59e9-f63a-40bc-ad9c-8166fbf5ad90",
+      "disruptionId": "ddf61794-8dc7-49a9-aa9d-4b0d96cfcafc",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Stuttgart Hbf und Böblingen",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Stuttgart Hbf und Böblingen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 20 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Stuttgart - Singen (Hohentwiel) - Zürich/Konstanz</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/ddf61794-8dc7-49a9-aa9d-4b0d96cfcafc",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-04/9103ec4e-eef5-42f1-b94d-7b2ccac20da1st%25C3%25B6rungskarte_20260804-171458.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-04/9103ec4e-eef5-42f1-b94d-7b2ccac20da1st%25C3%25B6rungskarte_20260804-171458.png",
+          "info": "",
+          "alt": "Störungskarte 04.08.2026 17:14:58",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.08.2026 17:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/390b59e9-f63a-40bc-ad9c-8166fbf5ad90",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section"
     },
     {
       "id": "83d4aa3b-5c29-41ae-ab68-5744acdfef1e",
