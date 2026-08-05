@@ -2,6 +2,56 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "a37822ce-ec3e-45f7-88b1-f2ce25c5427f",
+      "disruptionId": "2a3e65fe-c59f-40cd-9b5e-409ba4a49394",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Nürnberg und Ingolstadt",
+      "summary": "Aufgrund von Bauarbeiten zwischen Nürnberg und Ingolstadt kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Zusatzverspätungen bis zu 45 Min.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge (Rostock – Hamburg – Uelzen/Rotenburg (Wümme) – Hannover – Kassel-Wilhelmshöhe – Fulda – Würzburg/Lichtenfels – Nürnberg – München)</li><li>ICE-Züge (Kiel – Hamburg – Büchen – Wittenberge/Uelzen – Salzwedel – Stendal – Berlin – Leipzig – Erfurt – Nürnberg – München)</li><li>ICE-Züge (Berlin – Halle (Saale) – Erfurt – Nürnberg – München)</li><li>ICE-Züge (Dortmund – Essen – Köln – Frankfurt (M) – Würzburg – Nürnberg – München)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.08.2026",
+      "durationEnd": "05.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/2a3e65fe-c59f-40cd-9b5e-409ba4a49394",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-05/4217fc69-444b-4325-b342-e8fce7f5857ast%25C3%25B6rungskarte_20260805-115517.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-05/4217fc69-444b-4325-b342-e8fce7f5857ast%25C3%25B6rungskarte_20260805-115517.png",
+          "info": "",
+          "alt": "Störungskarte 05.08.2026 11:55:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "BE",
+        "TH",
+        "BY",
+        "NI",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.08.2026 11:58",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a37822ce-ec3e-45f7-88b1-f2ce25c5427f",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_construction"
+    },
+    {
       "id": "d0e1c70a-5abc-4cea-b865-f30572717605",
       "disruptionId": "681e1421-cc0c-49bf-8ba2-f46806a26875",
       "author": "FERNVERKEHR_AG",
@@ -46,6 +96,53 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d0e1c70a-5abc-4cea-b865-f30572717605",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "8f831883-54e5-49b0-be90-47cd6d56532b",
+      "disruptionId": "629059b6-1103-4cc4-98a8-ad9dcfbb3518",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Beeinträchtigungen zwischen Koblenz und Mainz",
+      "summary": "Aufgrund eines defekten Stellwerkes zwischen Koblenz und Mainz kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Teilausfällen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>ICE-Züge (Hamburg – Essen – Köln – Koblenz – Frankfurt (M) – Nürnberg – Passau) </li><li>ICE-Züge (Hamburg – Bremen – Münster (Westf) – Köln – Koblenz/Frankfurt (M) Flughafen – Mannheim – Stuttgart – München)</li><li>IC-Züge (Dresden – Leipzig – Magdeburg – Hannover – Hamm (Westf)/Münster (Westf) – Dortmund – Köln – Koblenz – Frankfurt (M)/Mannheim – Karlsruhe/Stuttgart – Oberstdorf) </li><li>ICE-Züge (Wien – Passau – Regensburg – Neumarkt (Oberpf)/Neustadt (Donau) – Ingolstadt – Nürnberg/Erfurt – Leipzig – Berlin – Hamburg – Würzburg – Frankfurt (M) – Koblenz – Köln – Dortmund) </li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "05.08.2026",
+      "durationEnd": "05.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/629059b6-1103-4cc4-98a8-ad9dcfbb3518",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-05/3150b21c-d51a-4925-9f49-81d2f5409aa9st%25C3%25B6rungskarte_20260805-112734.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-05/3150b21c-d51a-4925-9f49-81d2f5409aa9st%25C3%25B6rungskarte_20260805-112734.png",
+          "info": "",
+          "alt": "Störungskarte 05.08.2026 11:27:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "NW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "05.08.2026 11:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8f831883-54e5-49b0-be90-47cd6d56532b",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_technical_problem_railway_section"
     },
     {
       "id": "7351d824-d579-4121-bc84-caedab515bb2",
@@ -773,6 +870,82 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "bd8a01d4-8380-4f68-b864-3873828dadce",
+      "disruptionId": "c84a8316-f014-4b90-a912-a032bf270701",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Umgestürzter Baum auf der Strecke"
+      },
+      "headline": "Beeinträchtigung zwischen Hildesheim und Bodenburg",
+      "summary": "Aufgrund eines umgestürzten Baumes auf der Strecke ist der Streckenabschnitt zwischen Groß Düngen und Bodenburg gesperrt. ",
+      "text": "<p><strong>Betroffene Linie:&nbsp;</strong></p><ul><li>RB 79 (Hildesheim – Bodenburg): Züge fallen aus. Ein Ersatzverkehr mit Bussen ist zwischen Hildesheim und Bodenburg eingerichtet.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von vsl. bis zu 45 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "05.08.2026",
+      "durationEnd": "05.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/c84a8316-f014-4b90-a912-a032bf270701",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-05/571c74f8-c6c1-4654-af61-90f9e9344d18st%25C3%25B6rungskarte_20260805-074138.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-05/571c74f8-c6c1-4654-af61-90f9e9344d18st%25C3%25B6rungskarte_20260805-074138.png",
+          "info": "",
+          "alt": "Störungskarte 05.08.2026 07:41:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahnhof.de/?ct=1785917813011",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator?ct=1785917768147",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt?ct=1785917781227",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen  ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/?ct=1785917750996",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RB 79",
+          "filterName": "RB 79",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.08.2026 10:44",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/bd8a01d4-8380-4f68-b864-3873828dadce",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section0"
     },
     {
       "id": "75e8d08c-2794-482c-9f59-ccc2a5226d00",
