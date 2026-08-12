@@ -79,62 +79,6 @@
       "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_other0"
     },
     {
-      "id": "2d0780f1-48e0-4282-a020-1875e028e4f3",
-      "disruptionId": "80beb842-0054-4af0-95f2-9e403f990089",
-      "author": "REGIO_MITTE",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Die Strecke zwischen Dillingen(Saar) und Saarlouis Hbf ist im Moment beeinträchtigt. Züge fahren langsamer.",
-      "summary": "Der Grund ist ein defektes Stellwerk.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Dillingen(Saar) &lt;&gt; Saarlouis Hbf</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RE1 - Koblenz &lt;&gt; Trier &lt;&gt; Saarbrücken &lt;&gt; Kaiserslautern &lt;&gt; Neustadt &lt;&gt; Mannheim</li><li>RB70 - Kaiserslautern &lt;&gt; Homburg &lt;&gt; Saarbücken &lt;&gt; Dillingen &lt;&gt; Merzig</li><li>RB71 - Homburg &lt;&gt; Saarbrücken &lt;&gt; Dillingen &lt;&gt; Merzig &lt;&gt; Trier </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Züge der Linie RE1 und RB70 verkehren mit Verspätungen. Die Züge der Linie RB70 fallen aus. </p><p>🚍&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bussen zwischen Merzig(Saar) undSaarburg(Bz Trier) für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
-      "durationBegin": "12.08.2026",
-      "durationEnd": "12.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/80beb842-0054-4af0-95f2-9e403f990089",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-12/e208d65b-fb8d-4f80-b41b-da0579e97194st%25C3%25B6rungskarte_20260812-100913.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-12/e208d65b-fb8d-4f80-b41b-da0579e97194st%25C3%25B6rungskarte_20260812-100913.png",
-          "info": "",
-          "alt": "Störungskarte 12.08.2026 10:09:13",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "SL",
-        "RP"
-      ],
-      "lines": [
-        {
-          "name": "RB 70",
-          "filterName": "RB 70",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 71",
-          "filterName": "RB 71",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 1",
-          "filterName": "RE 1",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.08.2026 10:15",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2d0780f1-48e0-4282-a020-1875e028e4f3",
-      "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "00fa0915-34b7-483e-880c-be8a1bebc64c",
       "disruptionId": "a75f082d-89b1-4f21-9222-c18b2f0aa8ac",
       "author": "REGIO_NORD",
@@ -539,6 +483,50 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "d37c19bd-82b1-4351-9ad7-f6b14b63eec1",
+      "disruptionId": "1c7e99cb-c81e-43e4-b2ec-7452fc7cc888",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Entschärfung einer Weltkriegsbombe zwischen Berlin und Oranienburg",
+      "summary": "Aufgrund der Entschärfung einer Weltkriegsbombe am Mittwoch, 02.09.2026 kommt es in Lehnitz auf der Strecke zwischen Berlin und Rostock zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die betroffenen Züge enden und beginnen in Berlin Ostkreuz.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC 2177 Rostock - Berlin - Dresden </li><li>IC 2179 Rostock - Berlin - Dresden</li><li>IC 2270 Chemnitz - Dresden - Berlin - Rostock</li><li>IC 2271 Rostock - Berlin - Dresden - Chemnitz</li><li>IC 2272 Chemnitz - Dresden - Berlin - Rostock</li><li>IC 2274 Dresden - Berlin - Rostock</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "02.09.2026",
+      "durationEnd": "02.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/1c7e99cb-c81e-43e4-b2ec-7452fc7cc888",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-12/5b47c697-00be-4c34-897c-627ea36f97cdst%25C3%25B6rungskarte_20260812-110115.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-12/5b47c697-00be-4c34-897c-627ea36f97cdst%25C3%25B6rungskarte_20260812-110115.png",
+          "info": "",
+          "alt": "Störungskarte 12.08.2026 11:01:15",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "12.08.2026 11:03",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d37c19bd-82b1-4351-9ad7-f6b14b63eec1",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity0"
     },
     {
       "id": "056d9795-3bff-4082-abc3-86c53021535c",
