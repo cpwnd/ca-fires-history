@@ -945,51 +945,6 @@
       "magnoliaPath": "/aktuell/nordost/stop_moved_police_activity"
     },
     {
-      "id": "1d024550-11b9-4095-830d-81dafac6f3be",
-      "disruptionId": "b6fd4416-8c4d-4652-b633-f6ed6d1ed78a",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Frankfurt(M) und Kassel (über Gießen)",
-      "summary": "Aufgrund einer Störung an der Strecke zwischen Frankfurt(M) und Gießen ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Haltausfällen.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE-Züge zwischen Kassel-Wilhelmshöhe und Frankfurt(M) mit planmäßigen Halt in Wabern (Bz Kassel), Treysa, Marburg (Lahn), Gießen und Friedberg (Hess) werden in beiden Fahrtrichtungen umgeleitet. Die Halte Wabern (Bz Kassel), Treysa, Marburg (Lahn), Gießen und Friedberg (Hess) entfallen.</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Gäste von/nach Wabern (Bz Kassel), Treysa, Marburg (Lahn), Gießen und Friedberg (Hess) nutzen bitte die Züge des Nahverkehrs.</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis in die Mittagsstunden am Mi, 12.08.2026 erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "11.08.2026",
-      "durationEnd": "13.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/b6fd4416-8c4d-4652-b633-f6ed6d1ed78a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-12/184b6415-1f3a-4df5-90b0-5b63e90dff4cst%25C3%25B6rungskarte_20260811-132233.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-12/184b6415-1f3a-4df5-90b0-5b63e90dff4cst%25C3%25B6rungskarte_20260811-132233.png",
-          "info": "",
-          "alt": "Störungskarte 11.08.2026 13:22:33",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "12.08.2026 13:08",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/1d024550-11b9-4095-830d-81dafac6f3be",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/stop_moved_technical_problem_railway_section"
-    },
-    {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
       "disruptionId": "dbb5e16a-a1ab-41a6-8bec-7779ad98a03b",
       "author": "S_BAHN_MUC",
