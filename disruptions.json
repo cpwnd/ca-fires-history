@@ -93,8 +93,8 @@
       "mapHref": "https://karte.bahn.de/detail/f0e6428f-f263-47c1-a492-06a94ff80cf4",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-12/56a448fd-9fc0-48aa-8f68-fa8c001a4780st%25C3%25B6rungskarte_20260812-150240.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-12/56a448fd-9fc0-48aa-8f68-fa8c001a4780st%25C3%25B6rungskarte_20260812-150240.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-12/ad99b17e-f886-4ea2-b739-5dfb91ed0f4dst%25C3%25B6rungskarte_20260812-150240.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-08-12/ad99b17e-f886-4ea2-b739-5dfb91ed0f4dst%25C3%25B6rungskarte_20260812-150240.png",
           "info": "",
           "alt": "Störungskarte 12.08.2026 15:02:40",
           "openInNewTab": true
@@ -116,11 +116,90 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "12.08.2026 15:05",
+      "lastModified": "12.08.2026 16:14",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/7c6f3c2c-9658-462e-a838-c032413c8f0d",
       "magnoliaPath": "/aktuell/fernverkehr-ag/no_service_police_activity"
+    },
+    {
+      "id": "291d0417-5019-420c-b241-9ad51f244948",
+      "disruptionId": "81b0b26b-aa1b-4fa5-89b7-5e1890ea4cf6",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigungen im Regionalverkehr zwischen  Elmshorn und Hamburg",
+      "summary": "Aufgrund einer Reparatur an einer Weiche in Hamburg-Eidelstedt ist Regionalverkehr zwischen Elmshorn und Pinneberg bis voraussichtlich morgen Vormittag beeinträchtigt.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 7 (Flensburg/Kiel Hbf – Pinneberg): Die Züge enden/beginnen in Neumünster, zur Weiterfahrt nutzen Sie bitte die Züge der Linie RE 70 bis Pinneberg. Zwischen Pinneberg und Hamburg Hbf verkehren die Züge der S-Bahn Linie 3.</li></ul><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "12.08.2026",
+      "durationEnd": "13.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/81b0b26b-aa1b-4fa5-89b7-5e1890ea4cf6",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-12/a49856aa-ea33-46ba-bff5-7bb3920946east%25C3%25B6rungskarte_20260812-154625.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-12/a49856aa-ea33-46ba-bff5-7bb3920946east%25C3%25B6rungskarte_20260812-154625.png",
+          "info": "",
+          "alt": "Störungskarte 12.08.2026 15:46:25",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-12/2bd763ca-879b-4040-bbdd-241ce769b3d9st%25C3%25B6rungskarte_20260812-163524.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-12/2bd763ca-879b-4040-bbdd-241ce769b3d9st%25C3%25B6rungskarte_20260812-163524.png",
+          "info": "",
+          "alt": "Störungskarte 12.08.2026 16:35:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE 7",
+          "filterName": "RE 7",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.08.2026 16:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/291d0417-5019-420c-b241-9ad51f244948",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section3"
     },
     {
       "id": "00fa0915-34b7-483e-880c-be8a1bebc64c",
@@ -736,6 +815,64 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/eb7a47ed-03a3-41a2-857b-9f94e469433e",
       "magnoliaPath": "/aktuell/mitte/reduced_service_construction"
+    },
+    {
+      "id": "aaa505a8-7549-4848-8c19-075c46a13777",
+      "disruptionId": "e07fca02-288c-412f-abdd-6544b785940d",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "police_activity",
+        "label": "Behördliche Maßnahme"
+      },
+      "headline": "Verkehrsmeldung für die Linie RE 1 - Haltausfall in Holthusen",
+      "summary": "Am Donnerstag, 13.08.2026 und Freitag, 14.08.2026 , jeweils zwischen 08:30 Uhr und 19:30 Uhr",
+      "text": "<p><strong>RE1 Hamburg - Rostock</strong></p><p>Auf Anordnung des Infrastrukturbetreibers entfallen aufgrund der angekündigten hohen Temperaturen am 13. und 14.08. der Halt Holthusen der Linie RE1 und der Halt Schwerin Süd der Linie RE8, jeweils zwischen 08:30 Uhr bis 19:30 Uhr. Fahrgäste der Relation Berlin - Hamburg (RE8 - RE1) nutzen für den Umstieg bitte Schwerin Hbf. Aus Kapazitätsgründen ist die Fahrt mit der RB14 zwischen Hagenow Land und Ludwigslust nicht zu empfehlen.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
+      "durationBegin": "13.08.2026",
+      "durationEnd": "14.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/e07fca02-288c-412f-abdd-6544b785940d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-08-12/ef7deaf5-353c-439c-94f2-a873eb798cfest%25C3%25B6rungskarte_20260812-154409.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nordost/2026-08-12/ef7deaf5-353c-439c-94f2-a873eb798cfest%25C3%25B6rungskarte_20260812-154409.png",
+          "info": "",
+          "alt": "Störungskarte 12.08.2026 15:44:09",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.odeg.de/hitzebedingterausfall",
+          "label": "Informationsseite zur RE8 (ODEG)",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "MV"
+      ],
+      "lines": [
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "12.08.2026 16:12",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/aaa505a8-7549-4848-8c19-075c46a13777",
+      "magnoliaPath": "/aktuell/nordost/stop_moved_police_activity"
     },
     {
       "id": "1d024550-11b9-4095-830d-81dafac6f3be",
