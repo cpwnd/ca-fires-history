@@ -229,51 +229,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "24b8ee75-fa16-499d-adf0-a18df7797818",
-      "disruptionId": "b168fddd-df5e-4b56-8e3c-5362755f671c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Endmeldung S 3 Gröbenzell <-> Esting: Unbefugte Personen auf der Strecke",
-      "summary": "Die Züge können wieder zwischen Gröbenzell und Esting fahren.",
-      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
-      "durationBegin": "19.08.2026",
-      "durationEnd": "19.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/b168fddd-df5e-4b56-8e3c-5362755f671c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-19/04b0dcca-edf5-4590-97e7-19937e789fdfst%25C3%25B6rungskarte_20260819-230127.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-19/04b0dcca-edf5-4590-97e7-19937e789fdfst%25C3%25B6rungskarte_20260819-230127.png",
-          "info": "",
-          "alt": "Störungskarte 19.08.2026 23:01:27",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.08.2026 23:03",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/24b8ee75-fa16-499d-adf0-a18df7797818",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section7"
-    },
-    {
       "id": "82970e7d-6aeb-4820-9768-1818b9f77c2f",
       "disruptionId": "66056b81-f746-4d06-9cd9-9a74772ce0f6",
       "author": "REGIO_BW",
