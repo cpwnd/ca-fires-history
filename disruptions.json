@@ -1042,20 +1042,28 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
-      "id": "d6c554e1-c4d7-469c-b98b-721d45a22eb9",
-      "disruptionId": "78a6812e-8639-4db6-836b-3811fe8463f8",
+      "id": "8257f219-0351-46a0-8a12-eacca578740b",
+      "disruptionId": "c44eec0f-89d1-406a-8cc9-b826e1a7f102",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Endmeldung: S 7 / S 5",
-      "summary": "Auf der Linie S 7 / S 5 kommt es zu Folgeverspätungen von 5 bis 10 Minuten und Teilausfällen.",
-      "text": "<p>Der technische Defekt an einem Bahnübergang wurde behoben.</p>",
+      "headline": "S 5 / S 7 Neubiberg: Reparatur an einem Signal",
+      "summary": "Im Bereich Neubiberg kommt es zu Verspätungen von 15 bis 20 Minuten.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "20.08.2026",
       "durationEnd": "20.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/78a6812e-8639-4db6-836b-3811fe8463f8",
-      "images": [],
+      "mapHref": "https://karte.bahn.de/detail/c44eec0f-89d1-406a-8cc9-b826e1a7f102",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-20/65dd22c4-ecd0-407c-a8aa-eb98eab6db49st%25C3%25B6rungskarte_20260820-093137.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-20/65dd22c4-ecd0-407c-a8aa-eb98eab6db49st%25C3%25B6rungskarte_20260820-093137.png",
+          "info": "",
+          "alt": "Störungskarte 20.08.2026 09:31:37",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
@@ -1076,12 +1084,69 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.08.2026 08:22",
+      "lastModified": "20.08.2026 09:33",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d6c554e1-c4d7-469c-b98b-721d45a22eb9",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section1"
+      "detailPagePath": "/service/fahrplaene/8257f219-0351-46a0-8a12-eacca578740b",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
+    },
+    {
+      "id": "a44af0ff-9c2a-49f3-8f0c-84126e790954",
+      "disruptionId": "95647ca0-6011-482b-899f-763ad47cbf23",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Stammstrecke: Reparatur an einer Weiche",
+      "summary": "Auf der Stammstrecke kommt es in beiden Richtungen zu vorzeitigen Wenden und Teilausfällen. Bitte nutzen Sie ab Pasing alternativ die Züge der Regionalbahn in Richtung Hauptbahnhof.",
+      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche am Hauptbahnhof.</p>",
+      "durationBegin": "20.08.2026",
+      "durationEnd": "20.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/95647ca0-6011-482b-899f-763ad47cbf23",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.08.2026 09:22",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a44af0ff-9c2a-49f3-8f0c-84126e790954",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
     },
     {
       "id": "9557f595-595f-460a-8c4e-8004b438a7ce",
