@@ -162,6 +162,44 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section4"
     },
     {
+      "id": "af9f9a1b-8e43-401b-a64c-b93bdf9efe02",
+      "disruptionId": "0a3bddc1-2889-4426-a565-ed283dc148e4",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Derzeit Verspätungen auf der S5.",
+      "summary": "Auf der S5  kommt es derzeit zu Verspätungen. Nutzen Sie alternativ auch den RE5.",
+      "text": "<p></p>",
+      "durationBegin": "21.08.2026",
+      "durationEnd": "21.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/0a3bddc1-2889-4426-a565-ed283dc148e4",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.08.2026 18:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/af9f9a1b-8e43-401b-a64c-b93bdf9efe02",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
+    },
+    {
       "id": "0bd7f3f0-80ca-45b9-9458-1fa8ca678068",
       "disruptionId": "9879a942-a437-4e03-995a-e394e4cb5558",
       "author": "FERNVERKEHR_AG",
@@ -260,24 +298,24 @@
         "label": "Reparatur an der Oberleitung"
       },
       "headline": "S 6, S 7 Heimeranplatz ↔ Mittersendling: Reparatur an der Oberleitung",
-      "summary": "Zwischen Heimeranplatz und Mittersendling kommt es zu Verspätungen von bis zu 20 Minuten und Teilausfällen.",
-      "text": "<p>Die Züge verkehren zwischen Heimeranplatz und Mittersendling im Gegengleis.</p><p>Der Grund hierfür ist eine Reparatur an der Oberleitung.</p>",
+      "summary": "Zwischen Heimeranplatz und Mittersendling kommt es zu Verspätungen von 15 bis 20 Minuten und Teilausfällen.",
+      "text": "<p>Die Züge verkehren auf diesem Abschnitt im Gegengleis und im 40-Minuten-Takt.</p><p>Der Grund hierfür ist eine Reparatur an der Oberleitung.</p>",
       "durationBegin": "21.08.2026",
       "durationEnd": "21.08.2026",
       "mapHref": "https://karte.bahn.de/detail/a20187d2-442c-4518-853b-9c52fbde66fb",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-21/245ef673-c708-496d-8df3-1563e04e82ffst%25C3%25B6rungskarte_20260821-171534.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-21/245ef673-c708-496d-8df3-1563e04e82ffst%25C3%25B6rungskarte_20260821-171534.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-21/80fdaa8b-3cdd-4907-9732-2c9ba92ddd90st%25C3%25B6rungskarte_20260821-174625.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-21/80fdaa8b-3cdd-4907-9732-2c9ba92ddd90st%25C3%25B6rungskarte_20260821-174625.png",
           "info": "",
-          "alt": "Störungskarte 21.08.2026 17:15:34",
+          "alt": "Störungskarte 21.08.2026 17:46:25",
           "openInNewTab": true
         },
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-21/68578ab7-650d-4221-a99f-62852081a471st%25C3%25B6rungskarte_20260821-174625.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-21/68578ab7-650d-4221-a99f-62852081a471st%25C3%25B6rungskarte_20260821-174625.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-21/528e3894-6988-4ddd-a76b-9df7a43e2a71st%25C3%25B6rungskarte_20260821-171534.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-21/528e3894-6988-4ddd-a76b-9df7a43e2a71st%25C3%25B6rungskarte_20260821-171534.png",
           "info": "",
-          "alt": "Störungskarte 21.08.2026 17:46:25",
+          "alt": "Störungskarte 21.08.2026 17:15:34",
           "openInNewTab": true
         }
       ],
@@ -301,7 +339,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "21.08.2026 17:51",
+      "lastModified": "21.08.2026 18:18",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -787,43 +825,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e368a0b0-d083-4794-b999-e289086089d5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
-    },
-    {
-      "id": "af9f9a1b-8e43-401b-a64c-b93bdf9efe02",
-      "disruptionId": "0a3bddc1-2889-4426-a565-ed283dc148e4",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Derzeit keine S5 zw. Stade u. Horneburg",
-      "summary": "Derzeit fahren keine S5 zwischen Stade und Horneburg. Grund: Stellwerksstörung.",
-      "text": "<p>Nutzen Sie bitte alternativ den RE5.</p><p>Bitte achte Sie auch auf die Lautsprecheransagen am Bahnhof.</p>",
-      "durationBegin": "21.08.2026",
-      "durationEnd": "21.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/0a3bddc1-2889-4426-a565-ed283dc148e4",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.08.2026 17:48",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/af9f9a1b-8e43-401b-a64c-b93bdf9efe02",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
