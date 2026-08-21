@@ -252,56 +252,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "28902ae9-19c7-42f6-a541-07b76ee1e65f",
-      "disruptionId": "a20187d2-442c-4518-853b-9c52fbde66fb",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "S 6, S 7 Heimeranplatz ↔ Mittersendling: Reparatur an der Oberleitung",
-      "summary": "Zwischen Heimeranplatz und Mittersendling kommt es noch zu Verspätungen von bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Die Reparatur an der Oberleitung wurde beendet.</p>",
-      "durationBegin": "21.08.2026",
-      "durationEnd": "21.08.2026",
-      "mapHref": "https://karte.bahn.de/detail/a20187d2-442c-4518-853b-9c52fbde66fb",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-21/e761294f-4232-4704-8d2a-37f15a9b3a9dst%25C3%25B6rungskarte_20260821-174625.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-08-21/e761294f-4232-4704-8d2a-37f15a9b3a9dst%25C3%25B6rungskarte_20260821-174625.png",
-          "info": "",
-          "alt": "Störungskarte 21.08.2026 17:46:25",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.08.2026 18:53",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/28902ae9-19c7-42f6-a541-07b76ee1e65f",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section14"
-    },
-    {
       "id": "426b1f1d-58f1-46fa-a19a-5614f4c89843",
       "disruptionId": "64f05e48-5442-4e97-93ee-200d6dbe83e0",
       "author": "REGIO_MITTE",
@@ -401,6 +351,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/82970e7d-6aeb-4820-9768-1818b9f77c2f",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/no_service_technical_problem_railway_section2"
+    },
+    {
+      "id": "d358370b-f2b5-4855-8795-a3c84e89e92b",
+      "disruptionId": "dd397945-577a-4143-a453-795a1746c8e4",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Umgestürzter Baum auf der Strecke"
+      },
+      "headline": "Die Strecke zwischen Meckesheim und Neckargemünd ist im Moment gesperrt.",
+      "summary": "Der Grund ist ein umgestürzter Baum auf der Strecke.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Meckesheim &lt;&gt; Neckargemünd</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S7 - Heidelberg &lt;&gt; Neckargemünd &lt;&gt; Sinsheim &lt;&gt; Eppingen</li><li>S8 - Heidelberg &lt;&gt; Neckargemünd &lt;&gt; Meckesheim &lt;&gt; Aglasterhausen</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Züge der Linie S7 und S8 fallen zwischen Meckesheim und Neckargemünd aus.</p><p>🚍&nbsp;<strong>Alternative:</strong> Ersatzverkehr mit 4 Bussen ist zwischen Meckesheim und Neckargemünd eingerichtet. Bitte nutzen Sie die Züge der Linie S1 und S2 zwischen Heidelberg Hbf und Neckargemünd aus. </p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "21.08.2026",
+      "durationEnd": "21.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/dd397945-577a-4143-a453-795a1746c8e4",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-21/11362f01-cb96-4a55-b3bb-109fdb773eeast%25C3%25B6rungskarte_20260821-180604.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-21/11362f01-cb96-4a55-b3bb-109fdb773eeast%25C3%25B6rungskarte_20260821-180604.png",
+          "info": "",
+          "alt": "Störungskarte 21.08.2026 18:06:04",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 Rhein-Neckar",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 Rhein-Neckar",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.08.2026 19:37",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d358370b-f2b5-4855-8795-a3c84e89e92b",
+      "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section0"
     },
     {
       "id": "3a0e79c4-a598-4d8d-9f6e-a2573b1415f2",
