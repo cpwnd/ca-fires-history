@@ -267,15 +267,22 @@
       "mapHref": "https://karte.bahn.de/detail/64f05e48-5442-4e97-93ee-200d6dbe83e0",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-22/b1e72c15-8238-4f5d-9d10-22a112a6e251st%25C3%25B6rungskarte_20260811-063121.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-22/b1e72c15-8238-4f5d-9d10-22a112a6e251st%25C3%25B6rungskarte_20260811-063121.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-22/5845590b-e016-421b-a704-a0d16609b577st%25C3%25B6rungskarte_20260811-063121.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-08-22/5845590b-e016-421b-a704-a0d16609b577st%25C3%25B6rungskarte_20260811-063121.png",
           "info": "",
           "alt": "Störungskarte",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [],
+      "links": [
+        {
+          "href": "https://karte.bahn.de/de/detail/64f05e48-5442-4e97-93ee-200d6dbe83e0?f=0!mt3hsxs0!mt4x8sfz!1!1!1!0!wp!1ckm0g!arqo0n",
+          "label": "Störkarte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
         "REGIONAL"
       ],
@@ -294,7 +301,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "22.08.2026 12:34",
+      "lastModified": "22.08.2026 15:30",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
