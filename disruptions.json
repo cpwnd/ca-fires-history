@@ -73,6 +73,77 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other"
     },
     {
+      "id": "75bc7b50-1a3e-434c-bca8-e87d9e37bfc7",
+      "disruptionId": "d24e60d8-bc69-40f3-a901-55ab5ae705e7",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Itzehoe und Glückstadt\n",
+      "summary": "Aufgrund eines Notarzteinsatzes auf der Strecke zwischen Itzehoe und Glückstadt ist der Streckenabschnitt in beide Richtungen vsl. bis 10:00 Uhr gesperrt. Es sind keine Zugfahrten möglich.",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RE 6 (Westerland(Sylt) – Hamburg-Altona): Die Züge von/nach Westerland(Sylt) enden/beginnen in Itzehoe. Zwischen Glückstadt und Hamburg-Altona verkehren alternativ die Züge der Linie RB 61 der nordbahn.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 60 Minuten.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "25.08.2026",
+      "durationEnd": "25.08.2026",
+      "mapHref": "https://karte.bahn.de/detail/d24e60d8-bc69-40f3-a901-55ab5ae705e7",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-25/e4c59bbe-203a-4d78-8ed8-43141fac265fst%25C3%25B6rungskarte_20260825-063433.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-08-25/e4c59bbe-203a-4d78-8ed8-43141fac265fst%25C3%25B6rungskarte_20260825-063433.png",
+          "info": "",
+          "alt": "Störungskarte 25.08.2026 06:34:33",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de/",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt?ct=1785260458776",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.08.2026 06:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/75bc7b50-1a3e-434c-bca8-e87d9e37bfc7",
+      "magnoliaPath": "/aktuell/nord/impairment_medical_emergency0"
+    },
+    {
       "id": "056d9795-3bff-4082-abc3-86c53021535c",
       "disruptionId": "c0bc06ae-e0bb-4f4a-9b0c-d63dcf7212d4",
       "author": "FERNVERKEHR_AG",
