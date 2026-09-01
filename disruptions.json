@@ -370,51 +370,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "fc9fe4ce-bd87-4857-9409-93077a595741",
-      "disruptionId": "ac12932a-64f7-4602-8580-5b5043bff07a",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "accident",
-        "label": "Unfall an einem Bahnübergang"
-      },
-      "headline": "S2 Markt Schwaben - Erding: Unfall an einem Bahnübergang",
-      "summary": "Auf der S2 ist zwischen Markt Schwaben und Erding derzeit kein Zugverkehr möglich.",
-      "text": "<p>Die S-Bahnen beginnen/enden in Markt Schwaben.</p><p>Da der bestehende Ersatzverkehr (EV), der für die Haltausfälle auf der S2 verkehrt, durch Feuerwehrsperrungen nicht verkehren kann, haben wir einen zusätzlichen EV mit Großraumtaxis eingerichtet.</p><p>Die Taxis können aufgrund des Feuerwehreinsatzes nicht in Ottenhofen halten. Bitte benutzen sie nur die Fahrzeuge mit spezieller SEV-Beschilderung.</p><p>Grund ist ein Unfall an einem Bahnübergang.</p>",
-      "durationBegin": "01.09.2026",
-      "durationEnd": "01.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/ac12932a-64f7-4602-8580-5b5043bff07a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/01c9ee77-7bd1-42b8-bf7b-4b610404d955st%25C3%25B6rungskarte_20260901-182631.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/01c9ee77-7bd1-42b8-bf7b-4b610404d955st%25C3%25B6rungskarte_20260901-182631.png",
-          "info": "",
-          "alt": "Störungskarte 01.09.2026 18:26:31",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.09.2026 19:35",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/fc9fe4ce-bd87-4857-9409-93077a595741",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_accident"
-    },
-    {
       "id": "34f71421-65c7-4576-9b3e-6942a2851db3",
       "disruptionId": "75dd258a-0561-47c4-95aa-dec3903405b2",
       "author": "REGIO_MITTE",
@@ -539,6 +494,173 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
+    },
+    {
+      "id": "6ed387d0-ca08-4703-bb35-269544c87bf7",
+      "disruptionId": "fb57ba13-98bc-409f-948a-1e3410509c10",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Sperrung aufgehoben, S5 und S7 halten wieder in Sternschanze",
+      "summary": "Die Sperrung wurde aufgehoben, die S5 und S7 hält wieder in Sternschanze. Es müssen keine anderen Verkehrsmittel mehr genutzt werden.",
+      "text": "<p>//weitere_informationen_für_website</p>",
+      "durationBegin": "01.09.2026",
+      "durationEnd": "01.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/fb57ba13-98bc-409f-948a-1e3410509c10",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.09.2026 22:55",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6ed387d0-ca08-4703-bb35-269544c87bf7",
+      "magnoliaPath": "/aktuell/nord/impairment_police_activity"
+    },
+    {
+      "id": "01b8d191-b599-4dbd-98e5-1af2e1495d4b",
+      "disruptionId": "a036da1f-4a0f-4661-8998-15b721a46e41",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Stammstrecke: Feuerwehreinsatz am Marienplatz",
+      "summary": "Die S-Bahnen halten derzeit nicht am Marienplatz.",
+      "text": "<p>Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Karlsplatz oder Isartor.</p><p>Grund hierfür ist ein Feuerwehreinsatz am Marienplatz.</p>",
+      "durationBegin": "01.09.2026",
+      "durationEnd": "01.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/a036da1f-4a0f-4661-8998-15b721a46e41",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/8c8b7c12-d6a9-4168-8138-997596a73e97st%25C3%25B6rungskarte_20260901-224414.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/8c8b7c12-d6a9-4168-8138-997596a73e97st%25C3%25B6rungskarte_20260901-224414.png",
+          "info": "",
+          "alt": "Störungskarte 01.09.2026 22:44:14",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.09.2026 22:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/01b8d191-b599-4dbd-98e5-1af2e1495d4b",
+      "magnoliaPath": "/aktuell/bayern/impairment_police_activity"
+    },
+    {
+      "id": "8957e620-cde6-4c74-938f-600207734a36",
+      "disruptionId": "cf2b5afe-12d9-4ebb-b1db-262d4367ebe8",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 4, S 6 Trudering: Reparatur an einem Signal",
+      "summary": "Im Bereich Trudering kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "01.09.2026",
+      "durationEnd": "01.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/cf2b5afe-12d9-4ebb-b1db-262d4367ebe8",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/82324ef0-5173-45ce-b8ca-8d49ea4ade42st%25C3%25B6rungskarte_20260901-223400.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/82324ef0-5173-45ce-b8ca-8d49ea4ade42st%25C3%25B6rungskarte_20260901-223400.png",
+          "info": "",
+          "alt": "Störungskarte 01.09.2026 22:34:00",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.09.2026 22:35",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8957e620-cde6-4c74-938f-600207734a36",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section0"
     },
     {
       "id": "d37c19bd-82b1-4351-9ad7-f6b14b63eec1",
