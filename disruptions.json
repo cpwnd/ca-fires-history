@@ -119,6 +119,82 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other"
     },
     {
+      "id": "3485d649-9289-471b-99c9-1acc13bf90e2",
+      "disruptionId": "bcadc7a2-acfd-4682-a038-d7e44dad094c",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Streckensperrung in Seesen",
+      "summary": "Ein Notarzteinsatz auf der Strecke in Seesen beeinträchtigt den Zugverkehr. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. ",
+      "text": "<p>Aufgrund eines Notarzteinsatzes auf der Strecke in Seesen ist die Strecke zwischen Goslar und Salzgitter-Ringelheim in beide Richtungen gesperrt. Es sind keine Zugfahrten möglich.</p><p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RB 46 (Braunschweig Hbf – Herzberg(Harz): Die Züge der Linie RB 46 verkehren zwischen Herzberg(Harz) und Gittelde/Bad Grund(Harz) sowie Salzgitter-Ringelheim und Braunschweig Hbf. Es ist ein Ersatzverkehr mit Bus zwischen Gittelde/Bad Grund(Harz) und Salzgitter-Ringelheim für Sie eingerichtet</li><li>RB 82 (Göttingen – Kreiensen – Bad Harzburg): Die Züge der Linie RB 82 zwischen Göttingen und Kreiensen sowie Goslar und Bad Harzburg. Es ist ein Ersatzverkehr mit Bus zwischen Seesen und Goslar eingerichtet.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 45 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "07.09.2026",
+      "durationEnd": "07.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/bcadc7a2-acfd-4682-a038-d7e44dad094c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-09-07/32c08fe6-3852-4ab2-8557-4fcc0efca1c8st%25C3%25B6rungskarte_20260907-134136.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-09-07/32c08fe6-3852-4ab2-8557-4fcc0efca1c8st%25C3%25B6rungskarte_20260907-134136.png",
+          "info": "",
+          "alt": "Störungskarte 07.09.2026 13:41:36",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RB 46",
+          "filterName": "RB 46",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 82",
+          "filterName": "RB 82",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "07.09.2026 14:25",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3485d649-9289-471b-99c9-1acc13bf90e2",
+      "magnoliaPath": "/aktuell/nord/impairment_medical_emergency"
+    },
+    {
       "id": "b458f5eb-0643-47fc-b5a4-a51311e68715",
       "disruptionId": "7a0c4c48-d8fb-4a6e-a3f4-760d0f2e50be",
       "author": "FERNVERKEHR_AG",
@@ -830,6 +906,50 @@
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
     },
     {
+      "id": "5797685d-bd35-4cac-a99f-38dfab8843ce",
+      "disruptionId": "304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "S 2 Altomünster - Erdweg: Verminderte Geschwindigkeit auf der Strecke",
+      "summary": "Zwischen Altomünster und Erdweg kommt es zu Anpassungen im Fahrplan.",
+      "text": "<p>Die S-Bahnen in Richtung Dachau Bahnhof fahren in Altomünster und Kleinberghofen jeweils 2 Minuten früher ab. Die S-Bahnen in Richtung Altomünster kommen in Kleinberghofen und Altomünster jeweils 2 Minuten später an.</p><p>Die angepassten Fahrzeiten werden in der Fahrplanauskunft angezeigt und können dort jederzeit abgerufen werden. Die Fahrplananpassungen gelten voraussichtlich bis Dezember 2026.</p><p>Grund hierfür ist die verminderte Geschwindigkeit auf der Strecke.</p>",
+      "durationBegin": "01.09.2026",
+      "durationEnd": "30.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/6fc566fb-1691-42dc-afe9-8800815da6f4st%25C3%25B6rungskarte_20260814-093355.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/6fc566fb-1691-42dc-afe9-8800815da6f4st%25C3%25B6rungskarte_20260814-093355.png",
+          "info": "",
+          "alt": "Störungskarte 14.08.2026 09:33:55",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.09.2026 09:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/5797685d-bd35-4cac-a99f-38dfab8843ce",
+      "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section1"
+    },
+    {
       "id": "8fa67df3-1dbd-4295-9400-426ed2fa65c3",
       "disruptionId": "39f2b8ae-dd76-4ef5-a3f9-f9a4a830ca46",
       "author": "S_BAHN_RM",
@@ -879,50 +999,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/8fa67df3-1dbd-4295-9400-426ed2fa65c3",
       "magnoliaPath": "/aktuell/hessen/modified_service_technical_problem_railway_section"
-    },
-    {
-      "id": "5797685d-bd35-4cac-a99f-38dfab8843ce",
-      "disruptionId": "304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "S 2 Altomünster - Erdweg: Verminderte Geschwindigkeit auf der Strecke",
-      "summary": "Zwischen Altomünster und Erdweg kommt es zu Anpassungen im Fahrplan.",
-      "text": "<p>Die S-Bahnen in Richtung Dachau Bahnhof fahren in Altomünster und Kleinberghofen jeweils 2 Minuten früher ab. Die S-Bahnen in Richtung Altomünster kommen in Kleinberghofen und Altomünster jeweils 2 Minuten später an.</p><p>Die angepassten Fahrzeiten werden in der Fahrplanauskunft angezeigt und können dort jederzeit abgerufen werden. Die Fahrplananpassungen gelten voraussichtlich bis Dezember 2026.</p><p>Grund hierfür ist die verminderte Geschwindigkeit auf der Strecke.</p>",
-      "durationBegin": "01.09.2026",
-      "durationEnd": "30.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/a548e591-6b91-483c-8297-63aacea87c25st%25C3%25B6rungskarte_20260814-093355.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-01/a548e591-6b91-483c-8297-63aacea87c25st%25C3%25B6rungskarte_20260814-093355.png",
-          "info": "",
-          "alt": "Störungskarte 14.08.2026 09:33:55",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.09.2026 17:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/5797685d-bd35-4cac-a99f-38dfab8843ce",
-      "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section1"
     },
     {
       "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
@@ -1040,6 +1116,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2e4a74ea-ad85-405e-be73-1772d28de18d",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
+    },
+    {
+      "id": "a249c43d-6d14-4589-83ec-904164dcd18d",
+      "disruptionId": "c3cb647d-dae2-4f8b-bb37-aa1751353ffd",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7: Reparatur an einem Signal",
+      "summary": "Auf der Linie S 7 kommt es in beiden Richtungen zu Verspätungen von 10 bis 15 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p>Im Bereich Mittersendling verkehren die Züge mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal im Bereich Mittersendling.</p>",
+      "durationBegin": "07.09.2026",
+      "durationEnd": "07.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/c3cb647d-dae2-4f8b-bb37-aa1751353ffd",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/a8951b47-ae3e-440f-a5bf-82741221920dst%25C3%25B6rungskarte_20260907-103723.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/a8951b47-ae3e-440f-a5bf-82741221920dst%25C3%25B6rungskarte_20260907-103723.png",
+          "info": "",
+          "alt": "Störungskarte 07.09.2026 10:37:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 20",
+          "filterName": "S 20 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.09.2026 14:30",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a249c43d-6d14-4589-83ec-904164dcd18d",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section11"
     },
     {
       "id": "2157e527-9f54-4fa6-b96c-d5135a35325c",
