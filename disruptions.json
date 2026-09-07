@@ -119,80 +119,48 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other"
     },
     {
-      "id": "3485d649-9289-471b-99c9-1acc13bf90e2",
-      "disruptionId": "bcadc7a2-acfd-4682-a038-d7e44dad094c",
-      "author": "REGIO_NORD",
+      "id": "44dd831b-a8e1-4d2c-a65d-5ae7d0babf39",
+      "disruptionId": "8f761db0-e0ef-42f5-8295-43de1b393ef5",
+      "author": "FERNVERKEHR_AG",
       "cause": {
-        "category": "medical_emergency",
-        "label": "Notarzteinsatz auf der Strecke"
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "Streckensperrung in Seesen",
-      "summary": "Ein Notarzteinsatz auf der Strecke in Seesen beeinträchtigt den Zugverkehr. In der Folge kommt es jetzt zu Verspätungen und Teilausfällen. ",
-      "text": "<p>Aufgrund eines Notarzteinsatzes auf der Strecke in Seesen ist die Strecke zwischen Goslar und Salzgitter-Ringelheim in beide Richtungen gesperrt. Es sind keine Zugfahrten möglich.</p><p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RB 46 (Braunschweig Hbf – Herzberg(Harz): Die Züge der Linie RB 46 verkehren zwischen Herzberg(Harz) und Gittelde/Bad Grund(Harz) sowie Salzgitter-Ringelheim und Braunschweig Hbf. Es ist ein Ersatzverkehr mit Bus zwischen Gittelde/Bad Grund(Harz) und Salzgitter-Ringelheim für Sie eingerichtet</li><li>RB 82 (Göttingen – Kreiensen – Bad Harzburg): Die Züge der Linie RB 82 zwischen Göttingen und Kreiensen sowie Goslar und Bad Harzburg. Es ist ein Ersatzverkehr mit Bus zwischen Seesen und Goslar eingerichtet.</li></ul><p>Bitte rechnen Sie mit einer Reisezeitverlängerung von bis zu 45 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "headline": "Beeinträchtigung zwischen Koblenz und Bonn",
+      "summary": "Aufgrund der Reparatur an einer Weiche zwischen Koblenz und Bonn kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen und Teilausfällen von Zügen.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge Hannover - Dortmund - Köln - Koblenz - Mannheim - Stuttgart bzw. Karlsruhe fallen zwischen Dortmund und Karlsruhe bzw. Stuttgart leider aus</li><li>ICE- und IC-Züge, die zwischen Köln und Koblenz verkehren, verspäten sich um bis zu 15 Minuten</li></ul><p>Wir empfehlen Ihnen folgende Reisealternativen: Nutzen Sie nach <strong>Bonn Hbf, Koblenz Hbf </strong>und <strong>Mainz Hbf</strong> bitte die noch verbliebenen Züge des Fernverkehrs sowie die Angebote des Regionalverkehrs. Fahrgäste, deren Züge ausfallen, können auch die ICE-Verbindungen zwischen Frankfurt Flughafen Fernbf und Köln Hbf bzw. Köln Messe/Deutz nutzen.</p><p>Unser Personal vor Ort arbeitet an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die frühen Morgenstunden am Mittwoch, 09.09.2026 erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "07.09.2026",
-      "durationEnd": "07.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/bcadc7a2-acfd-4682-a038-d7e44dad094c",
+      "mapHref": "https://karte.bahn.de/detail/8f761db0-e0ef-42f5-8295-43de1b393ef5",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-09-07/32c08fe6-3852-4ab2-8557-4fcc0efca1c8st%25C3%25B6rungskarte_20260907-134136.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-09-07/32c08fe6-3852-4ab2-8557-4fcc0efca1c8st%25C3%25B6rungskarte_20260907-134136.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-07/0e54615b-a706-4a1f-bdde-b6a6eaaa0935st%25C3%25B6rungskarte_20260907-180559.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-07/0e54615b-a706-4a1f-bdde-b6a6eaaa0935st%25C3%25B6rungskarte_20260907-180559.png",
           "info": "",
-          "alt": "Störungskarte 07.09.2026 13:41:36",
+          "alt": "Störungskarte 07.09.2026 18:05:59",
           "openInNewTab": true
         }
       ],
       "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
-          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de",
-          "label": "Lageplan des Ersatzverkehrs ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator",
-          "label": "App DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "links": [],
       "properties": [
-        "REGIONAL"
+        "LONG_DISTANCE"
       ],
       "states": [
-        "HB",
-        "NI"
+        "NI",
+        "RP"
       ],
       "lines": [
         {
-          "name": "RB 46",
-          "filterName": "RB 46",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RB 82",
-          "filterName": "RB 82",
-          "property": "REGIONAL"
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "07.09.2026 14:25",
+      "lastModified": "07.09.2026 18:25",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/3485d649-9289-471b-99c9-1acc13bf90e2",
-      "magnoliaPath": "/aktuell/nord/impairment_medical_emergency"
+      "detailPagePath": "/service/fahrplaene/44dd831b-a8e1-4d2c-a65d-5ae7d0babf39",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section3"
     },
     {
       "id": "b458f5eb-0643-47fc-b5a4-a51311e68715",
@@ -310,6 +278,50 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/f3cabc80-a116-425e-83a8-2b4611856099",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction"
+    },
+    {
+      "id": "10d9b8df-c8d0-4c84-94c3-9760482b835e",
+      "disruptionId": "98d75c45-98a2-4f1e-a785-f26f5cbc2785",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Hannover und Bielefeld bzw. Osnabrück",
+      "summary": "Aufgrund der Reparatur an einer Weiche zwischen Bad Oeynhausen und Löhne(Westf) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 15 Minuten.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE- und IC-Züge, die zwischen Hannover und Bielefeld verkehren</li><li>ICE-Züge, die zwischen Hannover und Osnabrück verkehren</li></ul><p>Unser Personal vor Ort arbeitet an der Beseitigung der Störung. Die Behebung der Störung soll vsl. bis in die frühen Morgenstunden am Mittwoch, 09.09.2026&nbsp;erfolgen. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "07.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/98d75c45-98a2-4f1e-a785-f26f5cbc2785",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-07/2fb26d15-98fb-4dc0-8e72-59ef0c10cdcbst%25C3%25B6rungskarte_20260907-184852.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-07/2fb26d15-98fb-4dc0-8e72-59ef0c10cdcbst%25C3%25B6rungskarte_20260907-184852.png",
+          "info": "",
+          "alt": "Störungskarte 07.09.2026 18:48:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "07.09.2026 18:53",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/10d9b8df-c8d0-4c84-94c3-9760482b835e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -591,6 +603,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c017861e-d52f-447f-9e4a-d6f0a70101a4",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section5"
+    },
+    {
+      "id": "a60f20ce-3e94-4c40-a65b-17de7df56d01",
+      "disruptionId": "0b8a0dff-054f-4c6a-bec9-c89188987d4d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 4 Puchheim ↔ Hackerbrücke: Bauarbeiten",
+      "summary": "Aufgrund von Bauarbeiten kommt es in der Nacht zwischen 22:00 und 05:00 Uhr zu Einschränkungen auf der Linie S4.",
+      "text": "<ul><li>Zwischen <strong>Puchheim und München Hackerbrücke fährt nur jede zweite S4</strong>.</li><li>Alle anderen S-Bahnen verkehren planmäßig mit allen Halten.</li><li>Dadurch besteht zwischen <strong>Puchheim und München Hackerbrücke ein 40-Minuten-Takt</strong>.</li></ul><p>Bitte nutzen Sie die S-Bahnen anderer Linien.</p><p>Der Grund dafür sind Bauarbeiten in Pasing.</p>",
+      "durationBegin": "07.09.2026",
+      "durationEnd": "08.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/0b8a0dff-054f-4c6a-bec9-c89188987d4d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/3cc22c43-7bbd-4bae-b612-e53d2629f2f8st%25C3%25B6rungskarte_20260907-190859.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/3cc22c43-7bbd-4bae-b612-e53d2629f2f8st%25C3%25B6rungskarte_20260907-190859.png",
+          "info": "",
+          "alt": "Störungskarte 07.09.2026 19:08:59",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "07.09.2026 20:01",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a60f20ce-3e94-4c40-a65b-17de7df56d01",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_construction0"
     },
     {
       "id": "de6e39ab-0be5-416e-8d38-60639ac2ef7e",
@@ -1118,25 +1175,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
     },
     {
-      "id": "a249c43d-6d14-4589-83ec-904164dcd18d",
-      "disruptionId": "c3cb647d-dae2-4f8b-bb37-aa1751353ffd",
+      "id": "bbed793f-6d92-4285-bffa-059ab02b5e4d",
+      "disruptionId": "37b0d38d-6520-4d8f-9e89-16dd15a62ccb",
       "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
       },
-      "headline": "S 7: Reparatur an einem Signal",
-      "summary": "Auf der Linie S 7 kommt es in beiden Richtungen zu Verspätungen von 10 bis 15 Minuten und vereinzelten Teilausfällen.",
-      "text": "<p>Im Bereich Mittersendling verkehren die Züge mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an einem Signal im Bereich Mittersendling.</p>",
+      "headline": "Endmeldung: S 2, S 4, S 6 Berg am Laim",
+      "summary": "Im Bereich Berg am Laim kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
       "durationBegin": "07.09.2026",
       "durationEnd": "07.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/c3cb647d-dae2-4f8b-bb37-aa1751353ffd",
+      "mapHref": "https://karte.bahn.de/detail/37b0d38d-6520-4d8f-9e89-16dd15a62ccb",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/a8951b47-ae3e-440f-a5bf-82741221920dst%25C3%25B6rungskarte_20260907-103723.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/a8951b47-ae3e-440f-a5bf-82741221920dst%25C3%25B6rungskarte_20260907-103723.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/b788bd4b-c5bb-4700-8aeb-381f5ad4172est%25C3%25B6rungskarte_20260907-191425.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/b788bd4b-c5bb-4700-8aeb-381f5ad4172est%25C3%25B6rungskarte_20260907-191425.png",
           "info": "",
-          "alt": "Störungskarte 07.09.2026 10:37:23",
+          "alt": "Störungskarte 07.09.2026 19:14:25",
           "openInNewTab": true
         }
       ],
@@ -1150,22 +1207,27 @@
       ],
       "lines": [
         {
-          "name": "S 20",
-          "filterName": "S 20 München",
+          "name": "S 2",
+          "filterName": "S 2 München",
           "property": "SBAHN"
         },
         {
-          "name": "S 7",
-          "filterName": "S 7 München",
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "07.09.2026 14:30",
+      "lastModified": "07.09.2026 20:03",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a249c43d-6d14-4589-83ec-904164dcd18d",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section11"
+      "detailPagePath": "/service/fahrplaene/bbed793f-6d92-4285-bffa-059ab02b5e4d",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "2157e527-9f54-4fa6-b96c-d5135a35325c",
