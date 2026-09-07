@@ -614,14 +614,14 @@
       },
       "headline": "S 4 Puchheim ↔ Hackerbrücke: Bauarbeiten",
       "summary": "Aufgrund von Bauarbeiten kommt es in der Nacht zwischen 22:00 und 05:00 Uhr zu Einschränkungen auf der Linie S4.",
-      "text": "<ul><li>Zwischen <strong>Puchheim und München Hackerbrücke fährt nur jede zweite S4</strong>.</li><li>Alle anderen S-Bahnen verkehren planmäßig mit allen Halten.</li><li>Dadurch besteht zwischen <strong>Puchheim und München Hackerbrücke ein 40-Minuten-Takt</strong>.</li></ul><p>Bitte nutzen Sie die S-Bahnen anderer Linien.</p><p>Der Grund dafür sind Bauarbeiten in Pasing.</p>",
+      "text": "<ul><li>Zwischen <strong>Puchheim und München Hackerbrücke fährt nur jede zweite S4</strong>.</li><li>Alle anderen S-Bahnen verkehren planmäßig mit allen Halten.</li><li>Dadurch besteht zwischen <strong>Puchheim und München Hackerbrücke ein 40-Minuten-Takt</strong>.</li></ul><p>UPDATE: Bitte beachten Sie außerdem die geänderte Bahnsteigbelegung in Pasing:</p><ul><li>Die Linie S4 fährt in Pasing auf den Gleisen 7 und 8.</li><li>Die Linien S6 und S8 fahren in Pasing jeweils auf Gleis 6.</li></ul><p></p><p>Der Grund dafür sind Bauarbeiten in Pasing.</p>",
       "durationBegin": "07.09.2026",
       "durationEnd": "08.09.2026",
       "mapHref": "https://karte.bahn.de/detail/0b8a0dff-054f-4c6a-bec9-c89188987d4d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/3cc22c43-7bbd-4bae-b612-e53d2629f2f8st%25C3%25B6rungskarte_20260907-190859.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/3cc22c43-7bbd-4bae-b612-e53d2629f2f8st%25C3%25B6rungskarte_20260907-190859.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/2a81d49c-a179-4e92-b9e1-cf68e91e2096st%25C3%25B6rungskarte_20260907-190859.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/2a81d49c-a179-4e92-b9e1-cf68e91e2096st%25C3%25B6rungskarte_20260907-190859.png",
           "info": "",
           "alt": "Störungskarte 07.09.2026 19:08:59",
           "openInNewTab": true
@@ -642,7 +642,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "07.09.2026 20:01",
+      "lastModified": "07.09.2026 20:53",
       "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1173,61 +1173,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2e4a74ea-ad85-405e-be73-1772d28de18d",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction0"
-    },
-    {
-      "id": "bbed793f-6d92-4285-bffa-059ab02b5e4d",
-      "disruptionId": "37b0d38d-6520-4d8f-9e89-16dd15a62ccb",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "Endmeldung: S 2, S 4, S 6 Berg am Laim",
-      "summary": "Im Bereich Berg am Laim kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die technische Störung am Zug wurde behoben.</p>",
-      "durationBegin": "07.09.2026",
-      "durationEnd": "07.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/37b0d38d-6520-4d8f-9e89-16dd15a62ccb",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/b788bd4b-c5bb-4700-8aeb-381f5ad4172est%25C3%25B6rungskarte_20260907-191425.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-07/b788bd4b-c5bb-4700-8aeb-381f5ad4172est%25C3%25B6rungskarte_20260907-191425.png",
-          "info": "",
-          "alt": "Störungskarte 07.09.2026 19:14:25",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "07.09.2026 20:03",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/bbed793f-6d92-4285-bffa-059ab02b5e4d",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "2157e527-9f54-4fa6-b96c-d5135a35325c",
