@@ -73,6 +73,70 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other"
     },
     {
+      "id": "2b60a178-5b67-494f-9567-da0b1484aacc",
+      "disruptionId": "d78c70ae-84e6-4090-9ba5-9fbf64c8b36b",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
+      },
+      "headline": "Verspätungen und Teil- sowie Zugausfälle in Langen(Hess)",
+      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE60: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Mannheim Hbf</li><li>RB68: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Heidelberg Hbf (- Wiesloch-Walldorf)</li><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Der Bahnhof ist derzeit gesperrt.</li><li>Die Züge der S6 fallen aus zwischen Frankfurt(Main)Süd - Frankfurt-Louisa - Langen(Hess) - Darmstadt Hbf.</li><li>Die Züge der RE60 und RB68 fallen aus zwischen Frankfurt(Main)Hbf - Langen(Hess) - Darmstadt Hbf.</li></ul><p></p><strong>🚍 Ersatzverkehre:</strong><p><strong>Wir haben für Sie folgende Ersatzverkehre der Firma Holiday Reisen eingerichtet:</strong></p><ul><li>Für die S6 mit 9 Bussen zwischen Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf, mit allen Zwischenhalten der S6.</li><li>Für die RE60 und RB68 mit 6 Bussen zwischen Frankfurt(Main)Hbf und Darmstadt Hbf nur mit Halt in Langen(Hess).</li></ul><p>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de. Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "10.09.2026",
+      "durationEnd": "10.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/d78c70ae-84e6-4090-9ba5-9fbf64c8b36b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-10/dd1168bb-186a-4c8a-b3ce-bb0bb46399fast%25C3%25B6rungskarte_20260910-144601.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-10/dd1168bb-186a-4c8a-b3ce-bb0bb46399fast%25C3%25B6rungskarte_20260910-144601.png",
+          "info": "",
+          "alt": "Störungskarte 10.09.2026 14:46:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Umgebungsplan zum Ersatzverkehr an Ihrer Station",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN",
+        "REGIONAL"
+      ],
+      "states": [
+        "BW",
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 68",
+          "filterName": "RB 68",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 60",
+          "filterName": "RE 60",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "10.09.2026 15:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2b60a178-5b67-494f-9567-da0b1484aacc",
+      "magnoliaPath": "/aktuell/hessen/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "f3cabc80-a116-425e-83a8-2b4611856099",
       "disruptionId": "7f743e3f-d4d9-46e2-abde-2793e3430b0f",
       "author": "REGIO_SUEDOST",
@@ -323,56 +387,6 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
-      "id": "89f85e07-928d-4119-8dbd-ec840696bfff",
-      "disruptionId": "1bec3786-c26e-467b-8daf-74d9df05ba59",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 7 Ebenhausen-Schäftlarn: Defektes Stellwerk",
-      "summary": "Es kommt zu Verspätungen bis zu 15 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist ein defektes Stellwerk.</p>",
-      "durationBegin": "10.09.2026",
-      "durationEnd": "10.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/1bec3786-c26e-467b-8daf-74d9df05ba59",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/1e55f57a-349d-441d-9aad-039d1760e51fst%25C3%25B6rungskarte_20260910-061729.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/1e55f57a-349d-441d-9aad-039d1760e51fst%25C3%25B6rungskarte_20260910-061729.png",
-          "info": "",
-          "alt": "Störungskarte 10.09.2026 06:17:29",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.09.2026 10:29",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/89f85e07-928d-4119-8dbd-ec840696bfff",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section34"
-    },
-    {
       "id": "ac6730f2-fc83-4f5d-a59f-c762f1a6e80a",
       "disruptionId": "799e7fa1-1e43-49e2-8d4c-90771617c97d",
       "author": "S_BAHN_MUC",
@@ -388,8 +402,8 @@
       "mapHref": "https://karte.bahn.de/detail/799e7fa1-1e43-49e2-8d4c-90771617c97d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/0cd193be-7f30-4dc0-aa68-ba72db483837st%25C3%25B6rungskarte_20260910-062307.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/0cd193be-7f30-4dc0-aa68-ba72db483837st%25C3%25B6rungskarte_20260910-062307.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/e25c8a18-986e-488f-bae7-318ef9489cedst%25C3%25B6rungskarte_20260910-062307.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/e25c8a18-986e-488f-bae7-318ef9489cedst%25C3%25B6rungskarte_20260910-062307.png",
           "info": "",
           "alt": "Störungskarte 10.09.2026 06:23:07",
           "openInNewTab": true
@@ -415,12 +429,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.09.2026 10:28",
+      "lastModified": "10.09.2026 13:27",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/ac6730f2-fc83-4f5d-a59f-c762f1a6e80a",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section35"
+    },
+    {
+      "id": "8b0dcb8b-02d0-49e4-9858-a7e859398ca1",
+      "disruptionId": "06068cdb-0365-4675-a0a1-a2a90d7d69e2",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigungen zwischen Karlsruhe Hbf und Karlsruhe-Durlach",
+      "summary": "Aufgrund von Bauarbeiten zwischen Karlsruhe Hbf und Karlsruhe-Durlach kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Teil- und Ausfällen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>IC-Züge zwischen Karlsruhe - Stuttgart - Nürnberg - Leipzig/Halle(Saale)&nbsp;</li></ul><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "10.09.2026",
+      "durationEnd": "12.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/06068cdb-0365-4675-a0a1-a2a90d7d69e2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-10/86591010-5cbf-4cce-866e-ea1b19cee7adst%25C3%25B6rungskarte_20260910-122612.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-10/86591010-5cbf-4cce-866e-ea1b19cee7adst%25C3%25B6rungskarte_20260910-122612.png",
+          "info": "",
+          "alt": "Störungskarte 10.09.2026 12:26:12",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "10.09.2026 12:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8b0dcb8b-02d0-49e4-9858-a7e859398ca1",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_construction"
     },
     {
       "id": "e368a0b0-d083-4794-b999-e289086089d5",
@@ -1243,12 +1302,12 @@
       "summary": "Zugang zu Gleis 5 nur von der Grabenstraße möglich.",
       "text": "<p>Kein Durchgang zur der Grabenstraße. Zugang zu Gleis 1 und Gleis 2/3 von der Bahnhofsseite, sowie von der Grabenstraße zu Gleis 5 möglich. </p><p>Zum Umstieg zur RB61 nach Rudersberg bitte der Wegeleitung folgen.</p>",
       "durationBegin": "03.08.2026",
-      "durationEnd": "10.09.2026",
+      "durationEnd": "25.09.2026",
       "mapHref": "https://karte.bahn.de/detail/d5a2f810-f0fe-46d0-85c1-f15a5247e7c9",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-09-10/5f2d26c6-ecf1-467c-8af1-8ac3f5e93a3bWegeleitung%2BBahnhof%2Bab%2B11_09.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-09-10/5f2d26c6-ecf1-467c-8af1-8ac3f5e93a3bWegeleitung%2BBahnhof%2Bab%2B11_09.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-09-10/2f4571f1-f3a1-4d1c-ba3f-fb1fff306a7eWegeleitung%2BBahnhof%2Bab%2B11_09.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-09-10/2f4571f1-f3a1-4d1c-ba3f-fb1fff306a7eWegeleitung%2BBahnhof%2Bab%2B11_09.png",
           "info": "",
           "alt": "Wegeleitung Bahnhof Schorndorf",
           "openInNewTab": true
@@ -1276,10 +1335,9 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "10.09.2026 10:29",
+      "lastModified": "10.09.2026 12:42",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/23164493-dbef-4c33-a222-83e6dd801e31",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/other_effect_construction"
     },
