@@ -73,70 +73,6 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other"
     },
     {
-      "id": "2b60a178-5b67-494f-9567-da0b1484aacc",
-      "disruptionId": "d78c70ae-84e6-4090-9ba5-9fbf64c8b36b",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Verspätungen und Teil- sowie Zugausfälle in Langen(Hess)",
-      "summary": "Bei der S-Bahn Rhein-Main und im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RE60: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Mannheim Hbf</li><li>RB68: Frankfurt(Main)Hbf - Darmstadt Hbf - Bensheim - Heidelberg Hbf (- Wiesloch-Walldorf)</li><li>S6: Friedberg(Hess) - Groß Karben - Bad Vilbel - Frankfurt(Main)West - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Der Bahnhof ist derzeit gesperrt.</li><li>Die Züge der S6 fallen aus zwischen Frankfurt(Main)Süd - Frankfurt-Louisa - Langen(Hess) - Darmstadt Hbf.</li><li>Die Züge der RE60 und RB68 fallen aus zwischen Frankfurt(Main)Hbf - Langen(Hess) - Darmstadt Hbf.</li></ul><p></p><strong>🚍 Ersatzverkehre:</strong><p><strong>Wir haben für Sie folgende Ersatzverkehre der Firma Holiday Reisen eingerichtet:</strong></p><ul><li>Für die S6 mit 9 Bussen zwischen Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf, mit allen Zwischenhalten der S6.</li><li>Für die RE60 und RB68 mit 6 Bussen zwischen Frankfurt(Main)Hbf und Darmstadt Hbf nur mit Halt in Langen(Hess).</li></ul><p>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.bahnhof.de. Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "10.09.2026",
-      "durationEnd": "10.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/d78c70ae-84e6-4090-9ba5-9fbf64c8b36b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-10/dd1168bb-186a-4c8a-b3ce-bb0bb46399fast%25C3%25B6rungskarte_20260910-144601.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-10/dd1168bb-186a-4c8a-b3ce-bb0bb46399fast%25C3%25B6rungskarte_20260910-144601.png",
-          "info": "",
-          "alt": "Störungskarte 10.09.2026 14:46:01",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahnhof.de",
-          "label": "Umgebungsplan zum Ersatzverkehr an Ihrer Station",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 68",
-          "filterName": "RB 68",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 60",
-          "filterName": "RE 60",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.09.2026 15:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2b60a178-5b67-494f-9567-da0b1484aacc",
-      "magnoliaPath": "/aktuell/hessen/massive_impairment_technical_problem_railway_section"
-    },
-    {
       "id": "f3cabc80-a116-425e-83a8-2b4611856099",
       "disruptionId": "7f743e3f-d4d9-46e2-abde-2793e3430b0f",
       "author": "REGIO_SUEDOST",
@@ -385,56 +321,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/0f4d9298-6d61-4146-b640-b08d93108714",
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
-    },
-    {
-      "id": "ac6730f2-fc83-4f5d-a59f-c762f1a6e80a",
-      "disruptionId": "799e7fa1-1e43-49e2-8d4c-90771617c97d",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 5 Neubiberg: Technische Defekt an einem Bahnübergang",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "10.09.2026",
-      "durationEnd": "10.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/799e7fa1-1e43-49e2-8d4c-90771617c97d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/e25c8a18-986e-488f-bae7-318ef9489cedst%25C3%25B6rungskarte_20260910-062307.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-10/e25c8a18-986e-488f-bae7-318ef9489cedst%25C3%25B6rungskarte_20260910-062307.png",
-          "info": "",
-          "alt": "Störungskarte 10.09.2026 06:23:07",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.09.2026 13:27",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ac6730f2-fc83-4f5d-a59f-c762f1a6e80a",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section35"
     },
     {
       "id": "8b0dcb8b-02d0-49e4-9858-a7e859398ca1",
@@ -1291,6 +1177,51 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section"
     },
     {
+      "id": "9104ff9b-4cef-437e-85f1-a7c219c84bca",
+      "disruptionId": "d7a004c2-7aac-44f2-93d5-e3a1495df915",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_it",
+        "label": "IT-Störung"
+      },
+      "headline": "Information zum Zugverkehr der Linie MEX 17",
+      "summary": "Wegen eines datentechnischen Problems können derzeit mögliche Unregelmäßigkeiten im Zugverkehr der Linie MEX17 nicht angezeigt werden. Wir informieren erneut, sobald das Problem behoben ist, vsl. ab dem kommenden Samstag, den 12.09.2026.\n\nHinweis: Aufgrund von Bauarbeiten an Bahnsteig 2 in Illingen (Württ) halten die Züge in beide Richtungen an Gleis 1.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>MEX 17 (Karlsruhe/Bad Wildbad – Pforzheim – Mühlacker – Stuttgart)</li></ul><p></p>",
+      "durationBegin": "10.09.2026",
+      "durationEnd": "11.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/d7a004c2-7aac-44f2-93d5-e3a1495df915",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-10/8cd0f3fa-5ecd-403e-9b89-cca0f5b2cf3fst%25C3%25B6rungskarte_20260910-175901.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-10/8cd0f3fa-5ecd-403e-9b89-cca0f5b2cf3fst%25C3%25B6rungskarte_20260910-175901.png",
+          "info": "",
+          "alt": "Störungskarte 10.09.2026 17:59:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE MEX17",
+          "filterName": "RE MEX17",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "10.09.2026 18:03",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9104ff9b-4cef-437e-85f1-a7c219c84bca",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/other_effect_technical_problem_it"
+    },
+    {
       "id": "23164493-dbef-4c33-a222-83e6dd801e31",
       "disruptionId": "d5a2f810-f0fe-46d0-85c1-f15a5247e7c9",
       "author": "S_BAHN_S",
@@ -1340,43 +1271,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/23164493-dbef-4c33-a222-83e6dd801e31",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/other_effect_construction"
-    },
-    {
-      "id": "9104ff9b-4cef-437e-85f1-a7c219c84bca",
-      "disruptionId": "d7a004c2-7aac-44f2-93d5-e3a1495df915",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_it",
-        "label": "IT-Störung"
-      },
-      "headline": "Information zum Zugverkehr der Linie MEX 17",
-      "summary": "Update: Unregelmäßigkeiten im Zugverkehr der Linie MEX17 können wieder angezeigt werden. \n\nAusnahme: Aufgrund eines datentechnischen Problems werden die Halte in Mühlacker Rößlesweg und in Eutingen (Baden) in der digitalen Reiseauskunft als Ausfall angezeigt. Das ist nicht korrekt. Die Züge halten entgegen der Meldung an beiden Stationen.\n\nHinweis: Aufgrund von Bauarbeiten an Bahnsteig 2 in Illingen (Württ) halten die Züge in beide Richtungen an Gleis 1.",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>MEX 17 (Karlsruhe/Bad Wildbad – Pforzheim – Mühlacker – Stuttgart)</li></ul><p></p>",
-      "durationBegin": "09.09.2026",
-      "durationEnd": "10.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/d7a004c2-7aac-44f2-93d5-e3a1495df915",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE MEX17",
-          "filterName": "RE MEX17",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "09.09.2026 16:51",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9104ff9b-4cef-437e-85f1-a7c219c84bca",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/other_effect_technical_problem_it"
     },
     {
       "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
