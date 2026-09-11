@@ -346,15 +346,15 @@
         "label": "Reparatur an der Weiche"
       },
       "headline": "Beeinträchtigungen zwischen Bad Wimpfen und Bad Friedrichshall Hbf",
-      "summary": "Der Streckenabschnitt zwischen Bad Wimpfen und Bad Friedrichshall Hbf ist im Moment beeinträchtigt. Dauer der Störung bis vsl. 22:00 Uhr. Der Grund ist die Reparatur an einer Weiche. Derzeit sind keine Zugfahrten der Linie RE 10b auf dem betroffenen Streckenabschnitt möglich und werden umgeleitet. Dadurch kommt es zu Haltausfällen zwischen Bad Friedrichshall Hbf und Neckargemünd. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.",
+      "summary": "Der Streckenabschnitt zwischen Bad Wimpfen und Bad Friedrichshall Hbf ist im Moment beeinträchtigt. Über die Dauer der Störung liegen uns noch keine Informationen vor. Der Grund ist die Reparatur an einer Weiche. Derzeit sind keine Zugfahrten der Linie RE 10b auf dem betroffenen Streckenabschnitt möglich und werden umgeleitet. Dadurch kommt es zu Haltausfällen zwischen Bad Friedrichshall Hbf und Neckargemünd. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges. Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.",
       "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 10b (Mannheim – Heidelberg – Sinsheim(Elsenz) – Heilbronn)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "11.09.2026",
       "durationEnd": "11.09.2026",
       "mapHref": "https://karte.bahn.de/detail/56b5ad52-ec02-40de-bb2f-e135dd084984",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-11/b8cdec2b-2f57-49e5-9898-10a2a21957f6st%25C3%25B6rungskarte_20260911-180656.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-11/b8cdec2b-2f57-49e5-9898-10a2a21957f6st%25C3%25B6rungskarte_20260911-180656.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-11/d6ce80b1-8336-4bad-8139-549cfedd3b98st%25C3%25B6rungskarte_20260911-180656.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-11/d6ce80b1-8336-4bad-8139-549cfedd3b98st%25C3%25B6rungskarte_20260911-180656.png",
           "info": "",
           "alt": "Störungskarte 11.09.2026 18:06:56",
           "openInNewTab": true
@@ -375,7 +375,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "11.09.2026 18:10",
+      "lastModified": "11.09.2026 22:47",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -1488,53 +1488,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/eb4b635a-d54f-41e2-af3d-3ffa230e2e28",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section"
-    },
-    {
-      "id": "2ddcfc3c-3a26-4fc3-993c-0d4af145750d",
-      "disruptionId": "dbe79ab1-062d-417f-863e-34c10d1ddf33",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Feuerwehreinsatz auf der Strecke"
-      },
-      "headline": "Die S1, S3 und S7 fährt  derzeit über Dammtor u. Sternschanze.",
-      "summary": "Derzeit fährt die S1, S3 und S7  zw. Hbf und Altona abweichend über Dammtor und Sternschanze. Grund: Feuerwehreinsatz.",
-      "text": "<p></p>",
-      "durationBegin": "11.09.2026",
-      "durationEnd": "11.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/dbe79ab1-062d-417f-863e-34c10d1ddf33",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "11.09.2026 19:38",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2ddcfc3c-3a26-4fc3-993c-0d4af145750d",
-      "magnoliaPath": "/aktuell/nord/detour_police_activity"
     },
     {
       "id": "9104ff9b-4cef-437e-85f1-a7c219c84bca",
