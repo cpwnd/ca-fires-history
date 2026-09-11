@@ -415,6 +415,43 @@
       "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section2"
     },
     {
+      "id": "2ad9a6d8-8830-4675-a95b-3a6489da6f0b",
+      "disruptionId": "cda34c9a-4302-42a1-ae5b-c2d6215cf5dc",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Verspätungen, Umleitungen und Teilausfälle im Raum Mainz-Gustavsburg",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge der S8 in Richtung Wiesbaden Hbf werden von Frankfurt Hbf (tief) bis Wiesbaden Ost umgeleitet und fahren wie die Züge der S1, unter anderem über Frankfurt-Höchst und Hochheim(Main). Die Halte zwischen Frankfurt-Niederrad und Mainz Nord entfallen.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Ein Ersatzverkehr mit Bussen der Firma Holiday Reisen GmbH ist zwischen Kelsterbach - Wiesbaden Hbf eingerichtet.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "11.09.2026",
+      "durationEnd": "11.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/cda34c9a-4302-42a1-ae5b-c2d6215cf5dc",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "11.09.2026 11:06",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2ad9a6d8-8830-4675-a95b-3a6489da6f0b",
+      "magnoliaPath": "/aktuell/hessen/impairment_construction"
+    },
+    {
       "id": "8b0dcb8b-02d0-49e4-9858-a7e859398ca1",
       "disruptionId": "06068cdb-0365-4675-a0a1-a2a90d7d69e2",
       "author": "FERNVERKEHR_AG",
@@ -1294,15 +1331,15 @@
         "label": "IT-Störung"
       },
       "headline": "Information zum Zugverkehr der Linie MEX 17",
-      "summary": "Wegen eines datentechnischen Problems können derzeit mögliche Unregelmäßigkeiten im Zugverkehr der Linie MEX17 nicht angezeigt werden. Wir informieren erneut, sobald das Problem behoben ist, vsl. ab dem kommenden Samstag, den 12.09.2026.\n\nHinweis: Aufgrund von Bauarbeiten an Bahnsteig 2 in Illingen (Württ) halten die Züge in beide Richtungen an Gleis 1.",
+      "summary": "Wegen eines datentechnischen Problems können derzeit mögliche Unregelmäßigkeiten nicht bei allen Zügen der Linie MEX17 angezeigt werden. Wir informieren erneut, sobald das Problem behoben ist, vsl. ab dem kommenden Samstag, den 12.09.2026.\n\nHinweis: Aufgrund von Bauarbeiten an Bahnsteig 2 in Illingen (Württ) halten die Züge in beide Richtungen an Gleis 1.",
       "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>MEX 17 (Karlsruhe/Bad Wildbad – Pforzheim – Mühlacker – Stuttgart)</li></ul><p></p>",
       "durationBegin": "10.09.2026",
       "durationEnd": "11.09.2026",
       "mapHref": "https://karte.bahn.de/detail/d7a004c2-7aac-44f2-93d5-e3a1495df915",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-10/8cd0f3fa-5ecd-403e-9b89-cca0f5b2cf3fst%25C3%25B6rungskarte_20260910-175901.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-10/8cd0f3fa-5ecd-403e-9b89-cca0f5b2cf3fst%25C3%25B6rungskarte_20260910-175901.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-11/3837fc7a-9b91-4ffb-9edf-7ab6bebe99edst%25C3%25B6rungskarte_20260910-175901.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-11/3837fc7a-9b91-4ffb-9edf-7ab6bebe99edst%25C3%25B6rungskarte_20260910-175901.png",
           "info": "",
           "alt": "Störungskarte 10.09.2026 17:59:01",
           "openInNewTab": true
@@ -1323,7 +1360,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "10.09.2026 18:03",
+      "lastModified": "11.09.2026 08:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
