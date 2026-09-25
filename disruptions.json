@@ -590,6 +590,61 @@
       "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_vehicle"
     },
     {
+      "id": "f7457b0e-57b8-4c85-b26d-5a3b083c2f24",
+      "disruptionId": "1c71cb5c-fefa-4189-a0af-33337a0fdc21",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Haltausfälle zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund sind Unregelmäßigkeiten bei Bauarbeiten.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S6 (nachts): Frankfurt-Höchst - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Bis vsl. 28. September, 5 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Alle Züge halten nicht in Frankfurt-Griesheim.</li><li>Die S1 in Richtung Rödermark-Ober Roden hält nicht in Frankfurt-Nied.</li><li>In den Nächten halten einzelne Züge der S2 in Richtung Dietzenbach Bahnhof nicht in Frankfurt-Nied.</li></ul><p></p><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Wir haben einen Ersatzverkehr mit Bussen zwischen Frankfurt(Main)Hbf - Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst für Sie eingerichtet. Dieser verkehrt im 30-Minuten-Takt.</li><li>Nutzen Sie auch die Buslinie 54 zwischen Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst. In Frankfurt-Höchst besteht Anschluss an die S1 und S2 sowie an die anderen Züge des Regionalverkehrs von/nach Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "25.09.2026",
+      "durationEnd": "28.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/1c71cb5c-fefa-4189-a0af-33337a0fdc21",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/2916d18f-fa70-4b99-bce9-74b346bc9541st%25C3%25B6rungskarte_20260924-164325.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/2916d18f-fa70-4b99-bce9-74b346bc9541st%25C3%25B6rungskarte_20260924-164325.png",
+          "info": "",
+          "alt": "Störungskarte 24.09.2026 16:43:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "25.09.2026 20:11",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f7457b0e-57b8-4c85-b26d-5a3b083c2f24",
+      "magnoliaPath": "/aktuell/hessen/stop_moved_construction"
+    },
+    {
       "id": "325e21a1-cc8e-4a95-be8e-93d964d84aa8",
       "disruptionId": "7563e4a9-5087-4a6e-9dea-890c4ba5fff7",
       "author": "S_BAHN_HH",
@@ -625,61 +680,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/325e21a1-cc8e-4a95-be8e-93d964d84aa8",
       "magnoliaPath": "/aktuell/nord/stop_moved_technical_problem_other"
-    },
-    {
-      "id": "f7457b0e-57b8-4c85-b26d-5a3b083c2f24",
-      "disruptionId": "1c71cb5c-fefa-4189-a0af-33337a0fdc21",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Haltausfälle zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S6 (nachts): Frankfurt-Höchst - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Bis vsl. 28. September, 5 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Alle Züge halten nicht in Frankfurt-Griesheim.</li><li>Die S1 in Richtung Rödermark-Ober Roden hält nicht in Frankfurt-Nied.</li><li>In den Nächten halten einzelne Züge der S2 in Richtung Dietzenbach Bahnhof nicht in Frankfurt-Nied.</li></ul><p></p><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Wir haben einen Ersatzverkehr mit Bussen zwischen Frankfurt(Main)Hbf - Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst für Sie eingerichtet. Dieser verkehrt im 30-Minuten-Takt.</li><li>Nutzen Sie auch die Buslinie 54 zwischen Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst. In Frankfurt-Höchst besteht Anschluss an die S1 und S2 sowie an die anderen Züge des Regionalverkehrs von/nach Frankfurt(Main)Hbf.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "25.09.2026",
-      "durationEnd": "28.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/1c71cb5c-fefa-4189-a0af-33337a0fdc21",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/a9565593-4ef7-4ffe-9d17-4d4f2a9a205cst%25C3%25B6rungskarte_20260924-164325.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/a9565593-4ef7-4ffe-9d17-4d4f2a9a205cst%25C3%25B6rungskarte_20260924-164325.png",
-          "info": "",
-          "alt": "Störungskarte 24.09.2026 16:43:25",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.09.2026 16:18",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f7457b0e-57b8-4c85-b26d-5a3b083c2f24",
-      "magnoliaPath": "/aktuell/hessen/stop_moved_construction"
     },
     {
       "id": "eefb4ef4-6fe8-4f5a-8504-db80494dffe7",
