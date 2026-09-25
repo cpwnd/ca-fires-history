@@ -2,6 +2,110 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "fa555526-44b4-49a7-af1b-0e1899b4fd77",
+      "disruptionId": "5cc3f0e2-121d-493a-8538-40775aa273e6",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "police_activity",
+        "label": "Feuerwehreinsatz auf der Strecke"
+      },
+      "headline": "Streckensperrung zwischen Gotha und Erfurt",
+      "summary": "Aufgrund eines Feuerwehreinsatzes an einem Güterzug ist die Strecke zwischen Gotha und Erfurt Hbf derzeit gesperrt. Züge im Fernverkehr der Deutschen Bahn müssen umgeleitet werden und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge der Relation Wiesbaden - Frankfurt(Main) - Erfurt - Leipzig - Dresden fallen zwischen Wiesbaden Hbf und Frankfurt(Main)Hbf aus. Durch die Umleitung entfallen außerdem die Halte zwischen Fulda und Erfurt Hbf.</li><li>ICE-Züge der Relationen München - Stuttgart - Frankfurt(Main) - Erfurt - Halle(Saale) - Berlin sowie der Relation Frankfurt(Main) - Erfurt - Berlin - Stralsund/Ostseebad Binz werden umgeleitet. Die Halte zwischen Hanau und Erfurt Hbf entfallen, einzelne Züge halten zusätzlich in Würzburg Hbf.</li><li>IC-Züge der Relation Köln - Dortmund - Paderborn - Kassel-Wilhelmshöhe - Erfurt - Weimar - Gera fallen zwischen Kassel-Wilhelmshöhe und Gera aus.</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "25.09.2026",
+      "durationEnd": "25.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/5cc3f0e2-121d-493a-8538-40775aa273e6",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "25.09.2026 08:28",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fa555526-44b4-49a7-af1b-0e1899b4fd77",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_police_activity2"
+    },
+    {
+      "id": "70ebf67c-4faa-4984-accc-a2fdd4ae3326",
+      "disruptionId": "66811573-d74b-45e1-a105-531a7e7f6561",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung im Bereich Hannover Hbf",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung im Bereich Hannover Hbf kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn.\n",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge der Relation Amsterdam - Osnabrück - Hannover - Berlin werden umgeleitet. Die Halte Osnabrück Hbf bis Hannover entfallen, Ersatzhalte in Hannover-Linden/Fischerhof und Lehrte. Es kommt zu Verspätungen von bis zu 75 Minuten.</li><li>Einige ICE-Züge der Relation NRW - Bielefeld - Hannover - Berlin werden umgeleitet. Die Halte zwischen Hamm(Westf)Hbf und Hannover Hbf entfallen, Ersatzhalte in Hannover-Linden/Fischerhof und Lehrte. Es kommt zu Verspätungen von bis zu 75 Minuten.</li><li>ICE-Züge der Relation Hamburg - Hannover - Kassel-Wilhelmshöhe - Nürnberg - München werden umgeleitet. Der Halt Hannover Hbf entfällt, Ersatzhalt in Celle und Hannover Messe/Laatzen.</li><li>Bei ICE- und IC-Zügen, die weiterhin Hannover Hbf anfahren, kommt es zu Verspätungen von bis zu 30 Minuten.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "25.09.2026",
+      "durationEnd": "25.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/66811573-d74b-45e1-a105-531a7e7f6561",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "25.09.2026 08:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/70ebf67c-4faa-4984-accc-a2fdd4ae3326",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section12"
+    },
+    {
       "id": "cf025588-5a6a-4f9a-83df-b3e8b47fb784",
       "disruptionId": "8adbb59b-3821-434d-b86c-a117453ea156",
       "author": "FERNVERKEHR_AG",
@@ -344,16 +448,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "Die Strecke zwischen  und Lauterbourg ist eingestellt.",
+      "headline": "Die Strecke zwischen Wörth(Rhein) und Lauterbourg ist eingestellt.",
       "summary": "Der Grund ist eine Reparatur an der Strecke.",
-      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong> &lt;&gt; Lauterbourg</p><p>🕜<strong>Dauer der Störung bis vsl. 25.09.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB52 - Wörth &lt;&gt; Hagenbach &lt;&gt; Lauterbourg</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Der Zugverkehr auf der Linie RB 52 ist zwischen Wörth(Rhein) und Lauterbourg eingestellt.</p><p>🚍&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bussen zwischen Wörth(Rhein) und Lauterbourg für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong> &lt;&gt; Lauterbourg</p><p>🕜<strong>Dauer der Störung bis vsl. 25.09.2026.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB52 - Wörth &lt;&gt; Hagenbach &lt;&gt; Lauterbourg</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Züge der Linie RB52 fallen zwischen Wörth(Rhein) und Lauterbourg aus.</p><p>🚍&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bussen zwischen Wörth(Rhein) und Lauterbourg für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "24.09.2026",
       "durationEnd": "25.09.2026",
       "mapHref": "https://karte.bahn.de/detail/96b332bb-1ebc-4bba-8c00-0b882b1d46ea",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-09-24/4f29d311-c8d2-4057-b454-5ce46091cc81st%25C3%25B6rungskarte_20260924-122707.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-09-24/4f29d311-c8d2-4057-b454-5ce46091cc81st%25C3%25B6rungskarte_20260924-122707.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-09-25/4b79efb7-3821-4a1f-8307-d1aaef763203st%25C3%25B6rungskarte_20260924-122707.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-09-25/4b79efb7-3821-4a1f-8307-d1aaef763203st%25C3%25B6rungskarte_20260924-122707.png",
           "info": "",
           "alt": "Störungskarte 24.09.2026 12:27:07",
           "openInNewTab": true
@@ -374,7 +478,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "24.09.2026 13:15",
+      "lastModified": "25.09.2026 05:52",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
@@ -429,6 +533,101 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "a45cd3ad-1d58-420b-bd3d-efe1fb46053a",
+      "disruptionId": "1bb1a5ab-207b-4fbf-a9a6-4e0d492ccf4d",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Verspätungen und Teil- sowie Zugausfälle im Raum Neustadt(Kr Marburg)",
+      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RE30: Frankfurt(Main)Hbf - Gießen - Marburg(Lahn) - Treysa - Kassel Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Der Bahnhof ist derzeit gesperrt.</li><li>Die Halte zwischen Kirchhain(Bz Kassel) und Treysa entfallen.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Ab ca. 8:35 Uhr haben wir einen Ersatzverkehr mit einem Bus der Firma Maras zwischen Kirchhain(Bz Kassel)  - Wabern(Bz Kassel) eingerichtet. Wir arbeiten weiterhin an der Einrichtung zusätzlicher Ersatzverkehre, warten aber noch auf die Bestätigung unserer Partner.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "25.09.2026",
+      "durationEnd": "25.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/1bb1a5ab-207b-4fbf-a9a6-4e0d492ccf4d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/b37f7b72-d1d2-48ed-8b33-b91c16dc78f8st%25C3%25B6rungskarte_20260925-080141.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/b37f7b72-d1d2-48ed-8b33-b91c16dc78f8st%25C3%25B6rungskarte_20260925-080141.png",
+          "info": "",
+          "alt": "Störungskarte 25.09.2026 08:01:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RE 30",
+          "filterName": "RE 30",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.09.2026 08:07",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a45cd3ad-1d58-420b-bd3d-efe1fb46053a",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section4"
+    },
+    {
+      "id": "e28b0d41-c2ee-4c47-8e79-91eba36f611d",
+      "disruptionId": "23f7ce1f-b0cd-441a-b3ad-432a89784e75",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "Neudietendorf ⇄ Gotha - Beeinträchtigung",
+      "summary": "Die Linien RE11 und RE1 sind derzeit beeinträchtigt. Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 11 Erfurt - Bad Langensalza - Heilbad Heilgenstadt - Göttingen</li><li>RE 1 Göttingen – Erfurt – Gera – Glauchau</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist ein Feuerwehreinsatz bei Wandersleben.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Es kommt zu Umleitungen, Verspätungen und Ausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bus zwischen Gotha/Gotha Ost und Neudietendorf für Sie eingerichtet. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "25.09.2026",
+      "durationEnd": "25.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/23f7ce1f-b0cd-441a-b3ad-432a89784e75",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-25/e1f16b05-dd8f-49ce-aa54-b7f0340aa7c3st%25C3%25B6rungskarte_20260925-071340.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-25/e1f16b05-dd8f-49ce-aa54-b7f0340aa7c3st%25C3%25B6rungskarte_20260925-071340.png",
+          "info": "",
+          "alt": "Störungskarte 25.09.2026 07:13:40",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "RE 1",
+          "filterName": "RE 1",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 11",
+          "filterName": "RE 11",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "25.09.2026 07:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/e28b0d41-c2ee-4c47-8e79-91eba36f611d",
+      "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_vehicle"
     },
     {
       "id": "b593e19d-5d1b-44a4-8502-72b432d55940",
@@ -707,14 +906,14 @@
       },
       "headline": "Haltausfälle zwischen Frankfurt-Höchst - Frankfurt(Main)Hbf",
       "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S6 (nachts): Frankfurt-Höchst - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Vom 25. September., 14 Uhr bis vsl. 28. September, 5 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge halten nicht in Frankfurt-Griesheim.</li><li>Die S1 in Richtung Rödermark-Ober Roden hält auch nicht in Frankfurt-Nied.</li><li>In der Nacht halten die S1 und S2 in beiden Richtungen auch nicht in Frankfurt-Nied.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Prüfen Sie in der Frankfurter Innenstadt auch andere Verkehrsmittel wie U-Bahnen, Straßenbahnen und Busse, um an Ihr Reiseziel zu gelangen.</li><li>Nutzen Sie die Buslinie 54 zwischen Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst. In Frankfurt-Höchst besteht Anschluss an die S1 und S2 sowie an die anderen Züge des Regionalverkehrs von/nach Frankfurt(Main)Hbf.</li><li>Nutzen Sie die Straßenbahnlinien 11 und 21 zwischen Frankfurt-Nied (Nied Kirche, Frankfurt a.M.) - Frankfurt(M)Galluswarte - Frankfurt(Main)Hbf. Am 26. und 27.09. verkehrt ein Ersatzverkehr mit Bussen für die Straßenbahnlinien 11 und 21 zwischen Frankfurt-Nied - Frankfurt(M)Galluswarte.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S6 (nachts): Frankfurt-Höchst - Frankfurt Hbf (tief) - Frankfurt(Main)Süd - Langen(Hess) - Darmstadt Hbf</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Vom 25. September., 14 Uhr bis vsl. 28. September, 5 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge halten nicht in Frankfurt-Griesheim.</li><li>Die S1 in Richtung Rödermark-Ober Roden hält nicht in Frankfurt-Nied.</li><li>In der Nacht halten die S1 und S2 in beiden Richtungen nicht in Frankfurt-Nied.</li></ul><p></p><strong>↪️ Empfehlungen:</strong><ul><li>Wir haben einen Ersatzverkehr mit Bussen zwischen Frankfurt(Main)Hbf - Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst für Sie eingerichtet. Dieser verkehrt im 30-Minuten-Takt.</li><li>Nutzen Sie die Buslinie 54 zwischen Frankfurt-Griesheim - Frankfurt-Nied - Frankfurt-Höchst. In Frankfurt-Höchst besteht Anschluss an die S1 und S2 sowie an die anderen Züge des Regionalverkehrs von/nach Frankfurt(Main)Hbf.</li><li>Nutzen Sie die Straßenbahnlinien 11 und 21 zwischen Frankfurt-Nied (Nied Kirche, Frankfurt a.M.) - Frankfurt(M)Galluswarte - Frankfurt(Main)Hbf. Am 26. und 27.09. verkehrt ein Ersatzverkehr mit Bussen für die Straßenbahnlinien 11 und 21 zwischen Frankfurt-Nied - Frankfurt(M)Galluswarte.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
       "durationBegin": "25.09.2026",
       "durationEnd": "28.09.2026",
       "mapHref": "https://karte.bahn.de/detail/1c71cb5c-fefa-4189-a0af-33337a0fdc21",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-24/c48352c8-6b38-4149-8eb6-4d94fa818a64st%25C3%25B6rungskarte_20260924-164325.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-24/c48352c8-6b38-4149-8eb6-4d94fa818a64st%25C3%25B6rungskarte_20260924-164325.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/3ce6867c-6c83-4c37-a579-9acdca04c458st%25C3%25B6rungskarte_20260924-164325.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-09-25/3ce6867c-6c83-4c37-a579-9acdca04c458st%25C3%25B6rungskarte_20260924-164325.png",
           "info": "",
           "alt": "Störungskarte 24.09.2026 16:43:25",
           "openInNewTab": true
@@ -745,7 +944,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.09.2026 20:07",
+      "lastModified": "25.09.2026 06:22",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
