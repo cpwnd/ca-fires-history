@@ -77,7 +77,7 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": "Für die Übersicht bitte die Meldung aufklappen:",
-      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Landungsbrücken =&gt; Voraussichtlich bis Mitte September 2026 wegen Reparaturen außer Betrieb. </p><p></p><p>❌ Kornweg (Klein Borstel)</p><p></p><p>❌ Bergedorf - Gleis 2 / 3 =&gt; Bei Bedarf in Nettelnburg umsteigen Zwischen Nettelnburg und Bergedorf den Bus 32 nutzen.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Oktober 2026. (Verzögerung um einen Monat)</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027. (Aufgrund von bautechnischen Problemen verschiebt sich die Inbetriebnahme leider um 5 Monate). </p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Landungsbrücken =&gt; Voraussichtlich bis Mitte September 2026 wegen Reparaturen außer Betrieb.</p><p></p><p>❌ Kornweg (Klein Borstel)</p><p></p><p>❌ Hammerbrook </p><p></p><p>❌ Bergedorf - Gleis 2 / 3 =&gt; Bei Bedarf in Nettelnburg umsteigen Zwischen Nettelnburg und Bergedorf den Bus 32 nutzen.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende September 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Oktober 2026. (Verzögerung um einen Monat)</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027. (Aufgrund von bautechnischen Problemen verschiebt sich die Inbetriebnahme leider um 5 Monate).</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "24.09.2026",
       "durationEnd": "01.10.2026",
       "mapHref": "https://karte.bahn.de/detail/1729266a-4f39-47e6-a941-1be64f3b8edb",
@@ -119,9 +119,10 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.09.2026 12:37",
+      "lastModified": "27.09.2026 00:06",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c6d50ff1-9e61-46da-966c-132987bbabe2",
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other0"
     },
@@ -765,6 +766,43 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
+      "id": "99d41e56-7380-4c7e-8b38-eee79a3de7b2",
+      "disruptionId": "ec18fcce-de9e-4425-88b1-a5ca6c4f3f59",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Nächtliche Bauarbeiten zwischen Engen und Singen",
+      "summary": "Aufgrund von Bauarbeiten kommt es in der Nacht am 27.09.2026, sowie in der Nacht vom 01.10.2026 auf den 02.10.2026, jeweils im Zeitraum von 23:00 Uhr bis 00:30 Uhr zu Teilausfällen zwischen Singen Hbf und Engen.",
+      "text": "<p>Es kommt in der Nacht am 27.09.2026, sowie in der Nacht vom 01.10.2026 auf den 02.10.2026, jeweils im Zeitraum von 23:00 Uhr bis 00:30 Uhr zu Teilausfällen zwischen Singen Hbf und Engen. Ein Schienenersatzverkehr (SEV) mit Bussen ist auf dem ebengenannten Streckenabschnitt eingerichtet. </p>",
+      "durationBegin": "26.09.2026",
+      "durationEnd": "02.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/ec18fcce-de9e-4425-88b1-a5ca6c4f3f59",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "Bus S6",
+          "filterName": "Bus S6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "26.09.2026 23:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/99d41e56-7380-4c7e-8b38-eee79a3de7b2",
+      "magnoliaPath": "/aktuell/additional_service_construction"
+    },
+    {
       "id": "035fa3f7-81d8-48b8-8b2b-73d5bdec796e",
       "disruptionId": "f0886bd7-c420-4458-a1ba-6637d62f6aff",
       "author": "REGIO_SUEDOST",
@@ -824,15 +862,15 @@
         "label": "Reparatur an einem Signal"
       },
       "headline": "S 6 Haar: Reparatur an einem Signal",
-      "summary": "Im Bereich Haar kommt es zu Verspätungen von bis 10 bis 15 Minuten und vorzeitigen Zugwenden.",
-      "text": "<p><strong>Ab den folgenden Fahrten verkehren die S-Bahnen der Linie S4 nur zwischen Geltendorf ↔ Leuchtenbergring.</strong></p><p><strong>S 4 Geltendorf ↔ Trudering:</strong></p><ul><li>S 4 Geltendorf Abfahrt 20:08 Uhr → Leuchtenbergring 21:08 Uhr → Trudering Ankunft 21:13 Uhr</li></ul><p><strong>S4 Trudering ↔ Geltendorf:</strong></p><ul><li>S 4 Trudering Abfahrt 21:20 Uhr → Leuchtenbergring 21:28 Uhr → Geltendorf Ankunft 22:34 Uhr</li></ul><p>Der Grund hierfür ist eine Reparatur an einem Signal in Haar.</p>",
+      "summary": "Im Bereich Haar kommt es zu Verspätungen von bis zu 10 Minuten und vorzeitigen Zugwenden.",
+      "text": "<p><strong>Ab den folgenden Fahrten verkehren die S-Bahnen der Linie S4 planmäßig von/nach Ostbahnhof.</strong></p><p><strong>S 4 Geltendorf ↔ Ostbahnhof/Trudering:</strong></p><ul><li>S 4 Buchenau Abfahrt 22:04 Uhr → Ostbahnhof Ankunft 22:46 Uhr</li></ul><p><strong>S4 Ostbahnhof/Trudering ↔ Geltendorf:</strong></p><ul><li>S 4 Ostbahnhof Abfahrt 23:11 Uhr → Geltendorf Ankunft 00:13 Uhr</li></ul><p>Der Grund hierfür ist eine Reparatur an einem Signal in Haar.</p>",
       "durationBegin": "26.09.2026",
-      "durationEnd": "26.09.2026",
+      "durationEnd": "27.09.2026",
       "mapHref": "https://karte.bahn.de/detail/f10c31d7-a52c-4d2c-99f5-61e9ef9852c2",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/6699b3c8-04af-4b1f-893b-f5ffceccb83est%25C3%25B6rungskarte_20260926-194622.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/6699b3c8-04af-4b1f-893b-f5ffceccb83est%25C3%25B6rungskarte_20260926-194622.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/c5247429-9d2c-40b2-9995-c5db346a97a0st%25C3%25B6rungskarte_20260926-194622.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/c5247429-9d2c-40b2-9995-c5db346a97a0st%25C3%25B6rungskarte_20260926-194622.png",
           "info": "",
           "alt": "Störungskarte 26.09.2026 19:46:22",
           "openInNewTab": true
@@ -853,12 +891,57 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.09.2026 21:17",
+      "lastModified": "26.09.2026 23:38",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/52eb6183-ef93-4981-a01f-4910bb260913",
       "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section43"
+    },
+    {
+      "id": "95eb1f68-c1c4-4700-8eb0-491e40680e28",
+      "disruptionId": "5aa8df6d-868e-4d5a-b166-35f718be5156",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "S 5 Höhenkirchen-Siegertsbrunn: Technischer Defekt an einem Bahnübergang",
+      "summary": "Im Bereich Höhenkirchen-Siegertsbrunn kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten vorzeitigen Zugwenden.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
+      "durationBegin": "26.09.2026",
+      "durationEnd": "27.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/5aa8df6d-868e-4d5a-b166-35f718be5156",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/340ca5d5-ab21-4f04-b781-8b0cc9fb0f78st%25C3%25B6rungskarte_20260926-220519.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/340ca5d5-ab21-4f04-b781-8b0cc9fb0f78st%25C3%25B6rungskarte_20260926-220519.png",
+          "info": "",
+          "alt": "Störungskarte 26.09.2026 22:05:19",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "26.09.2026 23:16",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/95eb1f68-c1c4-4700-8eb0-491e40680e28",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section44"
     },
     {
       "id": "2157e527-9f54-4fa6-b96c-d5135a35325c",
