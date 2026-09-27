@@ -173,6 +173,51 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "915def9a-859c-430a-a9fa-eebdb4b7fef1",
+      "disruptionId": "0d2f906e-2f58-41b7-bca3-650c75b6690f",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "S 6 Gräfelfing ↔ Planegg: Notarzteinsatz auf der Strecke",
+      "summary": "Zwischen Gräfelfing und Planegg sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen wenden in Pasing und Gauting.</p><p>Wir haben für Sie einen Ersatzverkehr mit Großraumtaxis zwischen Pasing und Tutzing eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p><strong>Genaue Informationen zur Dauer der Sperrung liegen noch nicht vor. Erfahrungsgemäß ist jedoch mit Einschränkungen von circa 2 Stunden zu rechnen.</strong></p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein Notarzteinsatz auf der Strecke.</p>",
+      "durationBegin": "27.09.2026",
+      "durationEnd": "27.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/0d2f906e-2f58-41b7-bca3-650c75b6690f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-27/4f057439-1d18-455f-93de-30df2ae5161bst%25C3%25B6rungskarte_20260927-015004.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-27/4f057439-1d18-455f-93de-30df2ae5161bst%25C3%25B6rungskarte_20260927-015004.png",
+          "info": "",
+          "alt": "Störungskarte 27.09.2026 01:50:04",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.09.2026 02:03",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/915def9a-859c-430a-a9fa-eebdb4b7fef1",
+      "magnoliaPath": "/aktuell/bayern/no_service_medical_emergency6"
+    },
+    {
       "id": "34f71421-65c7-4576-9b3e-6942a2851db3",
       "disruptionId": "75dd258a-0561-47c4-95aa-dec3903405b2",
       "author": "REGIO_MITTE",
@@ -398,14 +443,14 @@
       },
       "headline": "🚧 Fahrplanänderung zw. Blankenese u. Othmarschen",
       "summary": "Ausfall 5-Minuten-Takt",
-      "text": "<p>Von Montag, 14.09. bis Mittwoch, 16.10. kommt es auf der S1 zwischen Othmarschen und Blankenese zu Fahrplanänderungen. In diesem Zeitraum entfällt montags bis freitags während der Hauptverkehrszeiten der 5-Minuten-Takt. Fahrgäste werden gebeten, dies bei ihrer Reiseplanung zu berücksichtigen und gegebenenfalls mehr Zeit einzuplanen.</p>",
+      "text": "<p>📅 Von Montag, 14.09. bis Mittwoch, 16.10. kommt es auf der S1 zwischen Othmarschen und Blankenese zu Fahrplanänderungen. </p><p>ℹ️ In diesem Zeitraum entfällt montags bis freitags während der Hauptverkehrszeiten der 5-Minuten-Takt. </p><p>🕐 Fahrgäste werden gebeten, dies bei ihrer Reiseplanung zu berücksichtigen und gegebenenfalls mehr Zeit einzuplanen.</p>",
       "durationBegin": "23.09.2026",
       "durationEnd": "16.10.2026",
       "mapHref": "https://karte.bahn.de/detail/5c029cf7-8ea3-4229-bd35-4249b7634b72",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-09-24/bcf8ec56-04fe-46e9-9fb3-e4f3f3793670st%25C3%25B6rungskarte_20260923-091823.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-09-24/bcf8ec56-04fe-46e9-9fb3-e4f3f3793670st%25C3%25B6rungskarte_20260923-091823.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-09-27/a80c5bee-5854-44dc-8485-0f9c226a9b82st%25C3%25B6rungskarte_20260923-091823.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-09-27/a80c5bee-5854-44dc-8485-0f9c226a9b82st%25C3%25B6rungskarte_20260923-091823.png",
           "info": "",
           "alt": "Störungskarte 23.09.2026 09:18:23",
           "openInNewTab": true
@@ -426,7 +471,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "24.09.2026 12:35",
+      "lastModified": "27.09.2026 00:49",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/646b0dd0-afc2-4532-816e-6f6678cfa256",
@@ -854,25 +899,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
     },
     {
-      "id": "52eb6183-ef93-4981-a01f-4910bb260913",
-      "disruptionId": "f10c31d7-a52c-4d2c-99f5-61e9ef9852c2",
+      "id": "d70d36c1-8122-4969-9714-e5e51362e83e",
+      "disruptionId": "90f60df4-4144-4c50-ab20-fdd6aaa9d89a",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "S 6 Haar: Reparatur an einem Signal",
-      "summary": "Im Bereich Haar kommt es zu Verspätungen von bis zu 10 Minuten und vorzeitigen Zugwenden.",
-      "text": "<p><strong>Ab den folgenden Fahrten verkehren die S-Bahnen der Linie S4 planmäßig von/nach Ostbahnhof.</strong></p><p><strong>S 4 Geltendorf ↔ Ostbahnhof/Trudering:</strong></p><ul><li>S 4 Buchenau Abfahrt 22:04 Uhr → Ostbahnhof Ankunft 22:46 Uhr</li></ul><p><strong>S4 Ostbahnhof/Trudering ↔ Geltendorf:</strong></p><ul><li>S 4 Ostbahnhof Abfahrt 23:11 Uhr → Geltendorf Ankunft 00:13 Uhr</li></ul><p>Der Grund hierfür ist eine Reparatur an einem Signal in Haar.</p>",
-      "durationBegin": "26.09.2026",
+      "headline": "S 7 Höllriegelskreuth ↔ Ebenhausen-Schäftlarn: Reparatur an der Strecke",
+      "summary": "Zwischen Höllriegelskreuth und Ebenhausen-Schäftlarn kommt es zu Verspätungen von 10 bis zu 15 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p></p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "24.09.2026",
       "durationEnd": "27.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/f10c31d7-a52c-4d2c-99f5-61e9ef9852c2",
+      "mapHref": "https://karte.bahn.de/detail/90f60df4-4144-4c50-ab20-fdd6aaa9d89a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/c5247429-9d2c-40b2-9995-c5db346a97a0st%25C3%25B6rungskarte_20260926-194622.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/c5247429-9d2c-40b2-9995-c5db346a97a0st%25C3%25B6rungskarte_20260926-194622.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-27/0b7ada77-dc0f-4989-bdf0-c1d9bdc4484cst%25C3%25B6rungskarte_20260924-104134.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-27/0b7ada77-dc0f-4989-bdf0-c1d9bdc4484cst%25C3%25B6rungskarte_20260924-104134.png",
           "info": "",
-          "alt": "Störungskarte 26.09.2026 19:46:22",
+          "alt": "Störungskarte 24.09.2026 10:41:34",
           "openInNewTab": true
         }
       ],
@@ -886,62 +931,17 @@
       ],
       "lines": [
         {
-          "name": "S 6",
-          "filterName": "S 6 München",
+          "name": "S 7",
+          "filterName": "S 7 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.09.2026 23:38",
+      "lastModified": "27.09.2026 00:29",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/52eb6183-ef93-4981-a01f-4910bb260913",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section43"
-    },
-    {
-      "id": "95eb1f68-c1c4-4700-8eb0-491e40680e28",
-      "disruptionId": "5aa8df6d-868e-4d5a-b166-35f718be5156",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Technischer Defekt an einem Bahnübergang"
-      },
-      "headline": "S 5 Höhenkirchen-Siegertsbrunn: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich Höhenkirchen-Siegertsbrunn kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten vorzeitigen Zugwenden.",
-      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
-      "durationBegin": "26.09.2026",
-      "durationEnd": "27.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/5aa8df6d-868e-4d5a-b166-35f718be5156",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/340ca5d5-ab21-4f04-b781-8b0cc9fb0f78st%25C3%25B6rungskarte_20260926-220519.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/340ca5d5-ab21-4f04-b781-8b0cc9fb0f78st%25C3%25B6rungskarte_20260926-220519.png",
-          "info": "",
-          "alt": "Störungskarte 26.09.2026 22:05:19",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.09.2026 23:16",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/95eb1f68-c1c4-4700-8eb0-491e40680e28",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section44"
+      "detailPagePath": "/service/fahrplaene/d70d36c1-8122-4969-9714-e5e51362e83e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section38"
     },
     {
       "id": "2157e527-9f54-4fa6-b96c-d5135a35325c",
