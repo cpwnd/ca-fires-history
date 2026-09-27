@@ -127,52 +127,6 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other0"
     },
     {
-      "id": "bdf70c0f-2eb8-4962-9b07-371c9465debc",
-      "disruptionId": "fdf1bd8c-a03b-4973-bfad-08204f4c3ee8",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Gegenstände auf der Strecke"
-      },
-      "headline": "Prödel ⇄ Magdeburg Hbf - Beeinträchtigung",
-      "summary": "Der Streckenabschnitt von Leipzig Hbf bis Magdeburg ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 11:00 Uhr. Der Grund ist die Beeinträchtigung durch Vandalismus.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 13 Magdeburg – Dessau – Leipzig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist die Beeinträchtigung durch Vandalismus.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie noch mit Verspätungen und Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir arbeiten an der Einrichtung eines Ersatzverkehrs mit Bus, warten aber noch auf die Bestätigung unserer Partner.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "27.09.2026",
-      "durationEnd": "27.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/fdf1bd8c-a03b-4973-bfad-08204f4c3ee8",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-27/0de85277-5f59-493a-a0d1-07f4c9f5332est%25C3%25B6rungskarte_20260927-071437.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-27/0de85277-5f59-493a-a0d1-07f4c9f5332est%25C3%25B6rungskarte_20260927-071437.png",
-          "info": "",
-          "alt": "Störungskarte 27.09.2026 07:14:37",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST",
-        "SN"
-      ],
-      "lines": [
-        {
-          "name": "RE 13",
-          "filterName": "RE 13 Mitteldeutschland",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "27.09.2026 07:36",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/bdf70c0f-2eb8-4962-9b07-371c9465debc",
-      "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section5"
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -874,6 +828,51 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
     },
     {
+      "id": "d70d36c1-8122-4969-9714-e5e51362e83e",
+      "disruptionId": "90f60df4-4144-4c50-ab20-fdd6aaa9d89a",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 7 Höllriegelskreuth ↔ Ebenhausen-Schäftlarn: Reparatur an der Strecke",
+      "summary": "Zwischen Höllriegelskreuth und Ebenhausen-Schäftlarn kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
+      "text": "<p></p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "24.09.2026",
+      "durationEnd": "27.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/90f60df4-4144-4c50-ab20-fdd6aaa9d89a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-27/92058422-e410-4286-af95-fbcf6a5cc635st%25C3%25B6rungskarte_20260924-104134.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-27/92058422-e410-4286-af95-fbcf6a5cc635st%25C3%25B6rungskarte_20260924-104134.png",
+          "info": "",
+          "alt": "Störungskarte 24.09.2026 10:41:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.09.2026 08:51",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d70d36c1-8122-4969-9714-e5e51362e83e",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section38"
+    },
+    {
       "id": "b151a0b7-e57f-43d0-b4c7-edc50142da55",
       "disruptionId": "93429481-0ae5-4091-9b6b-2cdafdb002f8",
       "author": "REGIO_SUEDOST",
@@ -917,51 +916,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b151a0b7-e57f-43d0-b4c7-edc50142da55",
       "magnoliaPath": "/aktuell/suedost/significant_delays_construction"
-    },
-    {
-      "id": "d70d36c1-8122-4969-9714-e5e51362e83e",
-      "disruptionId": "90f60df4-4144-4c50-ab20-fdd6aaa9d89a",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 7 Höllriegelskreuth ↔ Ebenhausen-Schäftlarn: Reparatur an der Strecke",
-      "summary": "Zwischen Höllriegelskreuth und Ebenhausen-Schäftlarn kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
-      "text": "<p></p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "24.09.2026",
-      "durationEnd": "27.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/90f60df4-4144-4c50-ab20-fdd6aaa9d89a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-27/18241c6a-a910-414f-b428-d6adf7904920st%25C3%25B6rungskarte_20260924-104134.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-27/18241c6a-a910-414f-b428-d6adf7904920st%25C3%25B6rungskarte_20260924-104134.png",
-          "info": "",
-          "alt": "Störungskarte 24.09.2026 10:41:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.09.2026 05:17",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d70d36c1-8122-4969-9714-e5e51362e83e",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section38"
     },
     {
       "id": "2157e527-9f54-4fa6-b96c-d5135a35325c",
