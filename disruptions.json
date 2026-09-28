@@ -68,6 +68,52 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
+      "id": "a8a09fca-8853-4761-8f23-8f269714fc83",
+      "disruptionId": "46f0272a-b2e2-4bf0-8034-b8b188545eb5",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigungen zwischen Hamm/W und Neubeckum",
+      "summary": "Aufgrund einer Oberleitungsstörung in Neubeckum ist die Strecke zwischen Hamm/W und Bielefeld derzeit gesperrt. Dadurch kommt es zu Umleitungen sowie Verspätungen im Fernverkehr der Deutschen Bahn.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Berlin - Hannover - Köln / Aachen</li><li>Dresden - Hannover - Köln</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "28.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/46f0272a-b2e2-4bf0-8034-b8b188545eb5",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-28/409d0886-3c3d-4363-9624-29f7242f4298st%25C3%25B6rungskarte_20260928-175420.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-28/409d0886-3c3d-4363-9624-29f7242f4298st%25C3%25B6rungskarte_20260928-175420.png",
+          "info": "",
+          "alt": "Störungskarte 28.09.2026 17:54:20",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "HH",
+        "BE",
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "28.09.2026 17:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/a8a09fca-8853-4761-8f23-8f269714fc83",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section14"
+    },
+    {
       "id": "c87e1850-ab86-4f84-828b-e9fdc7b3a973",
       "disruptionId": "d7ec0dbe-1ea1-42b5-809f-e509ff7a0f2f",
       "author": "FERNVERKEHR_AG",
@@ -369,6 +415,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e368a0b0-d083-4794-b999-e289086089d5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
+    },
+    {
+      "id": "4068b7a6-0223-4192-94d3-b04fce8d73ea",
+      "disruptionId": "7cb83cb0-45da-4378-8089-ea69820b16ad",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "other_cause",
+        "label": "Hohes Fahrgastaufkommen verlängert Ein- und Ausstieg"
+      },
+      "headline": "S 2 Dachau ↔ München Ost: Hohes Fahrgastaufkommen",
+      "summary": "Heute Nachmittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
+      "text": "<p><strong>S 2 Dachau → München Ost </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 16:39 Uhr <strong>→ </strong>München Ost Ankunft 17:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:39 Uhr <strong>→ </strong>München Ost Ankunft 19:10 Uhr&nbsp;</li></ul><p><strong>S 2 München Ost → Dachau </strong></p><ul><li>S 2 München Ost Abfahrt 15:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:21 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 17:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:21 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist ein hohes Fahrgastaufkommen.</p>",
+      "durationBegin": "28.09.2026",
+      "durationEnd": "28.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/7cb83cb0-45da-4378-8089-ea69820b16ad",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/9a4ce04a-4aba-4d7e-9896-8dd78de4c12cst%25C3%25B6rungskarte_20260928-153903.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/9a4ce04a-4aba-4d7e-9896-8dd78de4c12cst%25C3%25B6rungskarte_20260928-153903.png",
+          "info": "",
+          "alt": "Störungskarte 28.09.2026 15:39:03",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.09.2026 17:52",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4068b7a6-0223-4192-94d3-b04fce8d73ea",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_other_cause"
     },
     {
       "id": "646b0dd0-afc2-4532-816e-6f6678cfa256",
@@ -693,6 +784,61 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
+      "id": "c4026f7a-fa1c-489e-b9e6-c5c2a73598cd",
+      "disruptionId": "1dec0383-0695-4b8e-a272-ef9e8fd2300f",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
+      },
+      "headline": "Greußen ⇄ Sondershausen - Ersatzverkehr",
+      "summary": "Die Linien RE55 und RE56 von Greußen bis Sondershausen sind beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 04.10.2026, 15:45 Uhr. Der Grund ist eine kurzfristige Erkrankung von Personal.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE 55/RE 56 Erfurt - Nordhausen</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine kurzfristige Erkrankung von Personal.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die Fahrten entfallen im Abschnitt Greußen - Nordhausen und Sondershausen - Erfurt Nord, jeweils am 30.09.2026 (13:30 Uhr - 24:00 Uhr), 03.10.2026 ( 06:15 Uhr - 15:45 Uhr) sowie 04.10.2026 (06:15 Uhr - 24:00 Uhr).</p><p>↪️&nbsp;<strong>Alternative:</strong> Wir arbeiten an der Einrichtung eines Ersatzverkehrs mit Bus, warten aber noch auf die Bestätigung unserer Partner. Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "30.09.2026",
+      "durationEnd": "04.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/1dec0383-0695-4b8e-a272-ef9e8fd2300f",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-28/f0c6912f-9823-477a-8149-aab384b1a0d3st%25C3%25B6rungskarte_20260928-162017.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-28/f0c6912f-9823-477a-8149-aab384b1a0d3st%25C3%25B6rungskarte_20260928-162017.png",
+          "info": "",
+          "alt": "Störungskarte 28.09.2026 16:20:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "RB 52",
+          "filterName": "RB 52",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 56",
+          "filterName": "RE 56",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "28.09.2026 16:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c4026f7a-fa1c-489e-b9e6-c5c2a73598cd",
+      "magnoliaPath": "/aktuell/suedost/additional_service_other_cause"
+    },
+    {
       "id": "d9d65a68-d14a-48a6-8c9a-535791357ac8",
       "disruptionId": "e6c578e8-5bde-4ad9-9cc4-ba2c3c41e31f",
       "author": "REGIO_BW",
@@ -838,6 +984,51 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
     },
     {
+      "id": "8cb234c5-c950-4d25-94e9-7827a2c3f142",
+      "disruptionId": "3ff9c2e4-23a9-4708-85d6-6650eea4bddf",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "S2 Riem: Unbefugte Personen auf der Strecke",
+      "summary": "Im Bereich Riem kommt es zu Verspätungen von bis zu 15 Minuten, Zugausfällen und vorzeitigen Zugwenden.",
+      "text": "<p>Die Züge fahren im betroffenen Bereich langsamer.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "28.09.2026",
+      "durationEnd": "28.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/3ff9c2e4-23a9-4708-85d6-6650eea4bddf",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/8bacdde2-f286-4fb6-924c-41ab0438e903st%25C3%25B6rungskarte_20260928-174844.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/8bacdde2-f286-4fb6-924c-41ab0438e903st%25C3%25B6rungskarte_20260928-174844.png",
+          "info": "",
+          "alt": "Störungskarte 28.09.2026 17:48:44",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.09.2026 17:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8cb234c5-c950-4d25-94e9-7827a2c3f142",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section48"
+    },
+    {
       "id": "d70d36c1-8122-4969-9714-e5e51362e83e",
       "disruptionId": "90f60df4-4144-4c50-ab20-fdd6aaa9d89a",
       "author": "S_BAHN_MUC",
@@ -845,7 +1036,7 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an der Strecke"
       },
-      "headline": "S 7, S 20 Höllriegelskreuth ↔ Ebenhausen-Schäftlarn: Reparatur an der Strecke",
+      "headline": "S 7 Höllriegelskreuth ↔ Ebenhausen-Schäftlarn: Reparatur an der Strecke",
       "summary": "Zwischen Höllriegelskreuth und Ebenhausen-Schäftlarn kommt es teilweise zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
       "text": "<p></p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "24.09.2026",
@@ -853,8 +1044,8 @@
       "mapHref": "https://karte.bahn.de/detail/90f60df4-4144-4c50-ab20-fdd6aaa9d89a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/431bbc54-6795-4aa4-a46a-734c72a8aff1st%25C3%25B6rungskarte_20260924-104134.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/431bbc54-6795-4aa4-a46a-734c72a8aff1st%25C3%25B6rungskarte_20260924-104134.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/e126b2fd-395a-4d36-b072-62141a5e9794st%25C3%25B6rungskarte_20260924-104134.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/e126b2fd-395a-4d36-b072-62141a5e9794st%25C3%25B6rungskarte_20260924-104134.png",
           "info": "",
           "alt": "Störungskarte 24.09.2026 10:41:34",
           "openInNewTab": true
@@ -875,7 +1066,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.09.2026 09:37",
+      "lastModified": "28.09.2026 14:05",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
