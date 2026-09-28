@@ -68,52 +68,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
-      "id": "a8a09fca-8853-4761-8f23-8f269714fc83",
-      "disruptionId": "46f0272a-b2e2-4bf0-8034-b8b188545eb5",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen zwischen Hamm/W und Neubeckum",
-      "summary": "Aufgrund einer Oberleitungsstörung in Neubeckum ist die Strecke zwischen Hamm/W und Bielefeld derzeit gesperrt. Dadurch kommt es zu Umleitungen sowie Verspätungen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Berlin - Hannover - Köln / Aachen</li><li>Dresden - Hannover - Köln</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "28.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/46f0272a-b2e2-4bf0-8034-b8b188545eb5",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-28/409d0886-3c3d-4363-9624-29f7242f4298st%25C3%25B6rungskarte_20260928-175420.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-28/409d0886-3c3d-4363-9624-29f7242f4298st%25C3%25B6rungskarte_20260928-175420.png",
-          "info": "",
-          "alt": "Störungskarte 28.09.2026 17:54:20",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "HH",
-        "BE",
-        "NW",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "28.09.2026 17:56",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/a8a09fca-8853-4761-8f23-8f269714fc83",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section14"
-    },
-    {
       "id": "c87e1850-ab86-4f84-828b-e9fdc7b3a973",
       "disruptionId": "d7ec0dbe-1ea1-42b5-809f-e509ff7a0f2f",
       "author": "FERNVERKEHR_AG",
@@ -122,14 +76,14 @@
         "label": "Reparatur an der Oberleitung"
       },
       "headline": "Beeinträchtigung zwischen Rheine und Salzbergen",
-      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Rheine und Salzbergen  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Teilausfällen, Umleitungen und Verspätungen.\n",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Rheine und Salzbergen  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Ausfällen, Umleitungen und Verspätungen.",
       "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Verbindungen zwischen Hannover - Osnabrück - Bad Bentheim -  Hengelo - Amersfoort - Amsterdam Central</li><li>IC Verbindungen zwischen Köln - Oberhausen - Münster (Westf) - Emden </li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung.  Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "28.09.2026",
       "mapHref": "https://karte.bahn.de/detail/d7ec0dbe-1ea1-42b5-809f-e509ff7a0f2f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-28/d16b793d-d5d1-4f1b-8210-8862933618b7st%25C3%25B6rungskarte_20260928-060504.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-28/d16b793d-d5d1-4f1b-8210-8862933618b7st%25C3%25B6rungskarte_20260928-060504.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-28/cf451e0a-c99e-406d-9e24-1e29a7fc18f3st%25C3%25B6rungskarte_20260928-060504.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-09-28/cf451e0a-c99e-406d-9e24-1e29a7fc18f3st%25C3%25B6rungskarte_20260928-060504.png",
           "info": "",
           "alt": "Störungskarte 28.09.2026 06:05:04",
           "openInNewTab": true
@@ -152,7 +106,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "28.09.2026 06:08",
+      "lastModified": "28.09.2026 18:12",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c87e1850-ab86-4f84-828b-e9fdc7b3a973",
@@ -216,6 +170,83 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c6d50ff1-9e61-46da-966c-132987bbabe2",
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other0"
+    },
+    {
+      "id": "d6ba6ca7-0602-4f56-9bcb-5d2f2abfe5c9",
+      "disruptionId": "1be68a87-9e40-4676-b981-56f40c717e41",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Bauarbeiten auf der Strecke zwischen Niebüll und Klanxbüll",
+      "summary": "Aufgrund von Bauarbeiten auf der Strecke zwischen Niebüll und Klanxbüll kommt es zu Verspätungen und (Teil-) Ausfällen der Linie RE 6.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 6 (Westerland(Sylt) – Hamburg-Altona): Es kommt zu Verspätungen und (Teil-) Ausfällen. Die Züge aus Richtung Hamburg-Altona wenden in Niebüll. Die Züge aus Richtung Westerland(Sylt) wenden in Klanxbüll.</li></ul><p>Ein Ersatzverkehr mit Bussen der Firma Klaus &amp; Stefan Schmidt Busreisen verkehrt im Pendel zwischen Niebüll und Klanxbüll. Bitte rechnen Sie mit einer Reisezeitverlängerung von ca. 30 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "28.09.2026",
+      "durationEnd": "29.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/1be68a87-9e40-4676-b981-56f40c717e41",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-09-28/ae1af3e2-f432-4061-a9d2-20beabd505cbst%25C3%25B6rungskarte_20260928-221215.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-09-28/ae1af3e2-f432-4061-a9d2-20beabd505cbst%25C3%25B6rungskarte_20260928-221215.png",
+          "info": "",
+          "alt": "Störungskarte 28.09.2026 22:12:15",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt?ct=1790626453225",
+          "label": "Regionaler Kundendialog Schleswig-Holstein ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/?ct=1790626408114",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de/?ct=1790626480106",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator?ct=1790626420586",
+          "label": "DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
+          "label": "Fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "28.09.2026 23:38",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d6ba6ca7-0602-4f56-9bcb-5d2f2abfe5c9",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section12"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -417,49 +448,49 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
     },
     {
-      "id": "4068b7a6-0223-4192-94d3-b04fce8d73ea",
-      "disruptionId": "7cb83cb0-45da-4378-8089-ea69820b16ad",
-      "author": "S_BAHN_MUC",
+      "id": "81c456e0-ff9d-48c7-a932-0286d321efe7",
+      "disruptionId": "c56de59c-4310-49b8-a353-81e3aeaec99d",
+      "author": "REGIO_BW",
       "cause": {
-        "category": "other_cause",
-        "label": "Hohes Fahrgastaufkommen verlängert Ein- und Ausstieg"
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
       },
-      "headline": "S 2 Dachau ↔ München Ost: Hohes Fahrgastaufkommen",
-      "summary": "Heute Nachmittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
-      "text": "<p><strong>S 2 Dachau → München Ost </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 16:39 Uhr <strong>→ </strong>München Ost Ankunft 17:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 18:39 Uhr <strong>→ </strong>München Ost Ankunft 19:10 Uhr&nbsp;</li></ul><p><strong>S 2 München Ost → Dachau </strong></p><ul><li>S 2 München Ost Abfahrt 15:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 16:21 Uhr&nbsp;</li><li>S 2 München Ost Abfahrt 17:46 Uhr <strong>→ </strong>Dachau Bahnhof Ankunft 18:21 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist ein hohes Fahrgastaufkommen.</p>",
+      "headline": "Beeinträchtigungen zwischen Titisee und Seebrugg am 29.09.2026",
+      "summary": "Aufgrund eines kurzfristigen Fahrzeugausfalls kommt es am Dienstag, den 29. September,  ganztags zu Zugausfällen zwischen Titisee und Seebrugg. Für die ausfallenden Züge ist ein Ersatzverkehr mit Bussen für Sie eingerichtet. Beachten Sie die längere Fahrzeit von den Bussen. Bitte prüfen Sie Ihre Reiseverbindung.",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>S 1 (Breisach – Freiburg – Titisee – Seebrugg)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
       "durationBegin": "28.09.2026",
       "durationEnd": "28.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/7cb83cb0-45da-4378-8089-ea69820b16ad",
+      "mapHref": "https://karte.bahn.de/detail/c56de59c-4310-49b8-a353-81e3aeaec99d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/9a4ce04a-4aba-4d7e-9896-8dd78de4c12cst%25C3%25B6rungskarte_20260928-153903.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/9a4ce04a-4aba-4d7e-9896-8dd78de4c12cst%25C3%25B6rungskarte_20260928-153903.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-28/b3a98292-49e2-4436-a6ea-c4e0f1b9d6c6st%25C3%25B6rungskarte_20260928-212634.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-28/b3a98292-49e2-4436-a6ea-c4e0f1b9d6c6st%25C3%25B6rungskarte_20260928-212634.png",
           "info": "",
-          "alt": "Störungskarte 28.09.2026 15:39:03",
+          "alt": "Störungskarte 28.09.2026 21:26:34",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
-        "BY"
+        "BW"
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "28.09.2026 17:52",
+      "lastModified": "28.09.2026 21:28",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4068b7a6-0223-4192-94d3-b04fce8d73ea",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_other_cause"
+      "detailPagePath": "/service/fahrplaene/81c456e0-ff9d-48c7-a932-0286d321efe7",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_vehicle1"
     },
     {
       "id": "646b0dd0-afc2-4532-816e-6f6678cfa256",
@@ -984,25 +1015,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
     },
     {
-      "id": "8cb234c5-c950-4d25-94e9-7827a2c3f142",
-      "disruptionId": "3ff9c2e4-23a9-4708-85d6-6650eea4bddf",
+      "id": "28426eff-8f90-4a80-b27a-df33cdb885b0",
+      "disruptionId": "4e3e7815-b8b2-464b-9f0f-f182ce796f1d",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
+        "label": "Technischer Defekt an einem Bahnübergang"
       },
-      "headline": "S2 Riem: Unbefugte Personen auf der Strecke",
-      "summary": "Im Bereich Riem kommt es zu Verspätungen von bis zu 15 Minuten, Zugausfällen und vorzeitigen Zugwenden.",
-      "text": "<p>Die Züge fahren im betroffenen Bereich langsamer.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "headline": "S 5 Neubiberg: Technischer Defekt an einem Bahnübergang",
+      "summary": "Im Bereich Neubiberg kommt es zu Verspätungen von bis zu 10 Minuten.",
+      "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
       "durationBegin": "28.09.2026",
-      "durationEnd": "28.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/3ff9c2e4-23a9-4708-85d6-6650eea4bddf",
+      "durationEnd": "29.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/4e3e7815-b8b2-464b-9f0f-f182ce796f1d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/8bacdde2-f286-4fb6-924c-41ab0438e903st%25C3%25B6rungskarte_20260928-174844.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/8bacdde2-f286-4fb6-924c-41ab0438e903st%25C3%25B6rungskarte_20260928-174844.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/0e07572b-a31c-4ff7-8c37-4c7fdf6b1d3bst%25C3%25B6rungskarte_20260928-195925.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/0e07572b-a31c-4ff7-8c37-4c7fdf6b1d3bst%25C3%25B6rungskarte_20260928-195925.png",
           "info": "",
-          "alt": "Störungskarte 28.09.2026 17:48:44",
+          "alt": "Störungskarte 28.09.2026 19:59:25",
           "openInNewTab": true
         }
       ],
@@ -1016,17 +1047,17 @@
       ],
       "lines": [
         {
-          "name": "S 2",
-          "filterName": "S 2 München",
+          "name": "S 5",
+          "filterName": "S 5 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.09.2026 17:50",
+      "lastModified": "28.09.2026 23:35",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8cb234c5-c950-4d25-94e9-7827a2c3f142",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section48"
+      "detailPagePath": "/service/fahrplaene/28426eff-8f90-4a80-b27a-df33cdb885b0",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section50"
     },
     {
       "id": "d70d36c1-8122-4969-9714-e5e51362e83e",
@@ -1040,12 +1071,12 @@
       "summary": "Zwischen Höllriegelskreuth und Ebenhausen-Schäftlarn kommt es teilweise zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
       "text": "<p></p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
       "durationBegin": "24.09.2026",
-      "durationEnd": "28.09.2026",
+      "durationEnd": "29.09.2026",
       "mapHref": "https://karte.bahn.de/detail/90f60df4-4144-4c50-ab20-fdd6aaa9d89a",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/e126b2fd-395a-4d36-b072-62141a5e9794st%25C3%25B6rungskarte_20260924-104134.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/e126b2fd-395a-4d36-b072-62141a5e9794st%25C3%25B6rungskarte_20260924-104134.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/343ddaef-012e-4ae8-ac88-235c7ab7d1e5st%25C3%25B6rungskarte_20260924-104134.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/343ddaef-012e-4ae8-ac88-235c7ab7d1e5st%25C3%25B6rungskarte_20260924-104134.png",
           "info": "",
           "alt": "Störungskarte 24.09.2026 10:41:34",
           "openInNewTab": true
@@ -1066,7 +1097,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.09.2026 14:05",
+      "lastModified": "28.09.2026 23:32",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
