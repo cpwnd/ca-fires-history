@@ -2,6 +2,58 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "a138d4f2-db84-48e0-afb7-8e6209065ec5",
+      "disruptionId": "73c65888-4126-44b4-a623-d66ec8c4d751",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Reparatur an der Oberleitung",
+      "summary": "Der Streckenabschnitt von Köln Hbf bis Siegburg/Bonn ist im Moment beeinträchtigt. Über die Dauer der Beeinträchtigung liegen uns noch keine Informationen vor. Der Grund ist eine Reparatur an einem Signal. In der Folge kommt es zu Verspätungen.",
+      "text": "<p><strong>Betroffene Linie(n): </strong></p><ul><li>RB 1 (Zwickau Zentrum - Kraslice)</li><li>RB 2 (Hof Hbf - Zwickau (Sachs) Hbf)</li><li>RB 4 (Gera Hbf -Weischlitz)</li><li>RB 4 (Gera Hbf -Weischlitz)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "29.09.2026",
+      "durationEnd": "29.09.2026",
+      "mapHref": "https://karte.bahn.de/detail/73c65888-4126-44b4-a623-d66ec8c4d751",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "29.09.2026 09:13",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a138d4f2-db84-48e0-afb7-8e6209065ec5",
+      "magnoliaPath": "/aktuell/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "474f6207-3a4e-4e0c-8586-1a489a170217",
       "disruptionId": "9b381cb3-fc75-4aa4-adaa-54a57eb9d091",
       "author": "REGIO_SUEDOST",
@@ -242,83 +294,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c6d50ff1-9e61-46da-966c-132987bbabe2",
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other0"
-    },
-    {
-      "id": "d6ba6ca7-0602-4f56-9bcb-5d2f2abfe5c9",
-      "disruptionId": "1be68a87-9e40-4676-b981-56f40c717e41",
-      "author": "REGIO_NORD",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Bauarbeiten auf der Strecke zwischen Niebüll und Klanxbüll",
-      "summary": "Aufgrund von Bauarbeiten auf der Strecke zwischen Niebüll und Klanxbüll kommt es zu Verspätungen und (Teil-) Ausfällen der Linie RE 6.",
-      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 6 (Westerland(Sylt) – Hamburg-Altona): Es kommt zu Verspätungen und (Teil-) Ausfällen. Die Züge aus Richtung Hamburg-Altona wenden in Niebüll. Die Züge aus Richtung Westerland(Sylt) wenden in Klanxbüll.</li></ul><p>Ein Ersatzverkehr mit Bussen der Firma Klaus &amp; Stefan Schmidt Busreisen verkehrt im Pendel zwischen Niebüll und Klanxbüll. Bitte rechnen Sie mit einer Reisezeitverlängerung von ca. 30 Minuten.</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
-      "durationBegin": "28.09.2026",
-      "durationEnd": "29.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/1be68a87-9e40-4676-b981-56f40c717e41",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-09-28/ae1af3e2-f432-4061-a9d2-20beabd505cbst%25C3%25B6rungskarte_20260928-221215.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-09-28/ae1af3e2-f432-4061-a9d2-20beabd505cbst%25C3%25B6rungskarte_20260928-221215.png",
-          "info": "",
-          "alt": "Störungskarte 28.09.2026 22:12:15",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt?ct=1790626453225",
-          "label": "Regionaler Kundendialog Schleswig-Holstein ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/?ct=1790626408114",
-          "label": "bahn.de",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahnhof.de/?ct=1790626480106",
-          "label": "Lageplan des Ersatzverkehrs",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/mobile/db-navigator?ct=1790626420586",
-          "label": "DB Navigator ",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.bahn.de/service/informationen-buchung/fahrgastrechte",
-          "label": "Fahrgastrechte",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "RE 6",
-          "filterName": "RE 6",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "28.09.2026 23:38",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d6ba6ca7-0602-4f56-9bcb-5d2f2abfe5c9",
-      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section12"
     },
     {
       "id": "2dc1bf2c-9052-4879-8b8d-c9f4fd3e7c71",
@@ -1101,8 +1076,8 @@
       "mapHref": "https://karte.bahn.de/detail/4e3e7815-b8b2-464b-9f0f-f182ce796f1d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-29/714fc833-cda5-4096-9ef9-e2124fb47e3fst%25C3%25B6rungskarte_20260928-195925.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-29/714fc833-cda5-4096-9ef9-e2124fb47e3fst%25C3%25B6rungskarte_20260928-195925.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-29/63bf2f3a-9d53-44ee-9033-7ae383bb2efest%25C3%25B6rungskarte_20260928-195925.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-29/63bf2f3a-9d53-44ee-9033-7ae383bb2efest%25C3%25B6rungskarte_20260928-195925.png",
           "info": "",
           "alt": "Störungskarte 28.09.2026 19:59:25",
           "openInNewTab": true
@@ -1123,7 +1098,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "29.09.2026 02:29",
+      "lastModified": "29.09.2026 10:09",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
