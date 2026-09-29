@@ -2,6 +2,78 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "474f6207-3a4e-4e0c-8586-1a489a170217",
+      "disruptionId": "9b381cb3-fc75-4aa4-adaa-54a57eb9d091",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Halle (Saale) Hauptbahnhof ⇄ Bitterfeld - Ersatzverkehr",
+      "summary": "📅 Sonntag, 11.10.2026, 00:00 Uhr bis Montag, 02.11.2026, 23:30 Uhr",
+      "text": "<p>🚉 <strong>Linie:</strong></p><ul><li>S 8 Halle (Saale) Hbf – Bitterfeld – Dessau/Lutherstadt Wittenberg – Jüterbog</li></ul><p>❌&nbsp;<strong>Einschränkungen:</strong> Der Zug fällt zwischen Halle (Saale) Hauptbahnhof und Bitterfeld aus.</p><p>↪️<strong>&nbsp;Alternative:</strong> Zwischen Halle (Saale) Hauptbahnhof und Bitterfeld fährt ein Ersatzverkehr mit Bus. Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nur begrenzt möglich.</p>",
+      "durationBegin": "11.10.2026",
+      "durationEnd": "02.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/9b381cb3-fc75-4aa4-adaa-54a57eb9d091",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-29/29c455f0-f942-4fca-bb9e-3fe0e8b0d0d5st%25C3%25B6rungskarte_20260929-015352.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-29/29c455f0-f942-4fca-bb9e-3fe0e8b0d0d5st%25C3%25B6rungskarte_20260929-015352.png",
+          "info": "",
+          "alt": "Störungskarte 29.09.2026 01:53:52",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-29/e0a17fb5-bb73-44ed-8480-caab731cc9c2Richtung%2BHalle.pdf",
+          "label": "Richtung Halle.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-29/3a5ecaf7-f7d9-4236-b2ae-8e3fd4eb8223Richtung%2BWittenberg.pdf",
+          "label": "Richtung Wittenberg.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 Mitteldeutschland",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "29.09.2026 01:56",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/474f6207-3a4e-4e0c-8586-1a489a170217",
+      "magnoliaPath": "/aktuell/suedost/additional_service_construction3"
+    },
+    {
       "id": "cf025588-5a6a-4f9a-83df-b3e8b47fb784",
       "disruptionId": "8adbb59b-3821-434d-b86c-a117453ea156",
       "author": "FERNVERKEHR_AG",
@@ -249,6 +321,50 @@
       "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section12"
     },
     {
+      "id": "2dc1bf2c-9052-4879-8b8d-c9f4fd3e7c71",
+      "disruptionId": "1e4f0fdb-7bf8-4570-b8a0-e6f273bd4f51",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Falkenberg (Elster) unt Bf ⇄ Lutherstadt Wittenberg Hbf - Ersatzverkehr",
+      "summary": "📅 Donnerstag, 08.10.2026, 20:00 Uhr bis Sonntag, 11.10.2026, 22:10 Uhr",
+      "text": "<p>🚉 <strong>Linie:</strong></p><ul><li>RB 51 Dessau – Lutherstadt Wittenberg – Falkenberg (Elster)</li></ul><p>❌&nbsp;<strong>Einschränkungen:</strong> Der Zug fällt zwischen Lutherstadt Wittenberg Hbf und Falkenberg (Elster) unt Bf aus.</p><p>↪️<strong>&nbsp;Alternative:</strong> Zwischen Lutherstadt Wittenberg Hbf und Falkenberg (Elster) unt Bf fährt ein Ersatzverkehr mit Bus. Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nur begrenzt möglich.</p>",
+      "durationBegin": "08.10.2026",
+      "durationEnd": "11.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/1e4f0fdb-7bf8-4570-b8a0-e6f273bd4f51",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-09-29/d4e9a705-24e7-4599-90cd-fae50da68c2aEV%2BFalkenberg%2B-%2BLuWi.pdf",
+          "label": "EV Falkenberg - LuWi.pdf",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RB 51",
+          "filterName": "RB 51 Mitteldeutschland",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "29.09.2026 02:08",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/2dc1bf2c-9052-4879-8b8d-c9f4fd3e7c71",
+      "magnoliaPath": "/aktuell/suedost/additional_service_construction4"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -446,51 +562,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e368a0b0-d083-4794-b999-e289086089d5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
-    },
-    {
-      "id": "81c456e0-ff9d-48c7-a932-0286d321efe7",
-      "disruptionId": "c56de59c-4310-49b8-a353-81e3aeaec99d",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "Beeinträchtigungen zwischen Titisee und Seebrugg am 29.09.2026",
-      "summary": "Aufgrund eines kurzfristigen Fahrzeugausfalls kommt es am Dienstag, den 29. September,  ganztags zu Zugausfällen zwischen Titisee und Seebrugg. Für die ausfallenden Züge ist ein Ersatzverkehr mit Bussen für Sie eingerichtet. Beachten Sie die längere Fahrzeit von den Bussen. Bitte prüfen Sie Ihre Reiseverbindung.",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>S 1 (Breisach – Freiburg – Titisee – Seebrugg)</li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "28.09.2026",
-      "durationEnd": "28.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/c56de59c-4310-49b8-a353-81e3aeaec99d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-28/b3a98292-49e2-4436-a6ea-c4e0f1b9d6c6st%25C3%25B6rungskarte_20260928-212634.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-09-28/b3a98292-49e2-4436-a6ea-c4e0f1b9d6c6st%25C3%25B6rungskarte_20260928-212634.png",
-          "info": "",
-          "alt": "Störungskarte 28.09.2026 21:26:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE/RB",
-          "filterName": "",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "28.09.2026 21:28",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/81c456e0-ff9d-48c7-a932-0286d321efe7",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_technical_problem_vehicle1"
     },
     {
       "id": "646b0dd0-afc2-4532-816e-6f6678cfa256",
@@ -1023,15 +1094,15 @@
         "label": "Technischer Defekt an einem Bahnübergang"
       },
       "headline": "S 5 Neubiberg: Technischer Defekt an einem Bahnübergang",
-      "summary": "Im Bereich Neubiberg kommt es zu Verspätungen von bis zu 10 Minuten.",
+      "summary": "Im Bereich Neubiberg kann es zu Verspätungen von bis zu 10 Minuten kommen.",
       "text": "<p>Grund hierfür ist ein technischer Defekt an einem Bahnübergang.</p>",
       "durationBegin": "28.09.2026",
       "durationEnd": "29.09.2026",
       "mapHref": "https://karte.bahn.de/detail/4e3e7815-b8b2-464b-9f0f-f182ce796f1d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/0e07572b-a31c-4ff7-8c37-4c7fdf6b1d3bst%25C3%25B6rungskarte_20260928-195925.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-28/0e07572b-a31c-4ff7-8c37-4c7fdf6b1d3bst%25C3%25B6rungskarte_20260928-195925.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-29/714fc833-cda5-4096-9ef9-e2124fb47e3fst%25C3%25B6rungskarte_20260928-195925.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-29/714fc833-cda5-4096-9ef9-e2124fb47e3fst%25C3%25B6rungskarte_20260928-195925.png",
           "info": "",
           "alt": "Störungskarte 28.09.2026 19:59:25",
           "openInNewTab": true
@@ -1052,7 +1123,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.09.2026 23:35",
+      "lastModified": "29.09.2026 02:29",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
