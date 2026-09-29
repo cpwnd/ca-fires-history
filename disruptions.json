@@ -445,51 +445,6 @@
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section6"
     },
     {
-      "id": "b593e19d-5d1b-44a4-8502-72b432d55940",
-      "disruptionId": "198a391a-c172-45c3-9f34-551188326923",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "S 7  Icking und Hohenschäftlarn: Kabelschaden nach Bauarbeiten.",
-      "summary": "An den Bahnhöfen Icking und Hohenschäftlarn sind derzeit keine Anzeigen und Ansagen möglich.\nBitte informieren Sie sich über Ihre Verbindung auf der S-Bahn München Website oder über unsere München Navigator-App.",
-      "text": "<p>Der Grund hierfür ist ein Kabelschaden nach Bauarbeiten.</p>",
-      "durationBegin": "22.09.2026",
-      "durationEnd": "29.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/198a391a-c172-45c3-9f34-551188326923",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/6853b393-314e-424c-8b4d-88519b2cf2b5st%25C3%25B6rungskarte_20260922-210957.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-26/6853b393-314e-424c-8b4d-88519b2cf2b5st%25C3%25B6rungskarte_20260922-210957.png",
-          "info": "",
-          "alt": "Störungskarte 22.09.2026 21:09:57",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.09.2026 05:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b593e19d-5d1b-44a4-8502-72b432d55940",
-      "magnoliaPath": "/aktuell/bayern/impairment_construction0"
-    },
-    {
       "id": "e368a0b0-d083-4794-b999-e289086089d5",
       "disruptionId": "c288b98a-5ffc-4a4e-8718-3018c0ca2af3",
       "author": "REGIO_BW",
@@ -1016,54 +971,50 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
     },
     {
-      "id": "d66bcb9b-827e-4810-b26f-f651b006e027",
-      "disruptionId": "b7c04d8c-c6fa-4ad5-ab53-565915cf9409",
-      "author": "S_BAHN_MUC",
+      "id": "dd05e0ce-588e-4ed1-9d0e-0e6b26b1bdcf",
+      "disruptionId": "74c9b994-2cda-4621-ab38-06a0a85bb821",
+      "author": "REGIO_BW",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "S 3, S 5 Giesing: Reparatur an einer Weiche",
-      "summary": "Im Bereich Giesing kommt es zu Verspätungen von 10 bis 15 Minuten und vereinzelten Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
-      "durationBegin": "29.09.2026",
-      "durationEnd": "29.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/b7c04d8c-c6fa-4ad5-ab53-565915cf9409",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-29/92f750ae-a90b-4f0d-893d-7e86e83ad0cfst%25C3%25B6rungskarte_20260929-163214.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-09-29/92f750ae-a90b-4f0d-893d-7e86e83ad0cfst%25C3%25B6rungskarte_20260929-163214.png",
-          "info": "",
-          "alt": "Störungskarte 29.09.2026 16:32:14",
-          "openInNewTab": true
-        }
-      ],
+      "headline": "Beeinträchtigungen zwischen Bad Saulgau und Altshausen",
+      "summary": "Der Streckenabschnitt von Bad Saulgau bis Altshausen ist im Moment beeinträchtigt.  Die Dauer der Beeinträchtigung vsl. bis 30.10. Der Grund ist eine Reparatur an der Strecke. In der Folge kommt es zu Verspätungen und Teilausfällen. Bitte achten Sie auf Lautsprecherdurchsagen im Zug und an den Bahnsteigen.",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li><li>RB 53 (Sigmaringen – Aulendorf – Leutkirch /Wangen(Allgäu)) </li></ul><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "25.08.2026",
+      "durationEnd": "30.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/74c9b994-2cda-4621-ab38-06a0a85bb821",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
-        "BY"
+        "BW"
       ],
       "lines": [
         {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
+          "name": "RB 53",
+          "filterName": "RB 53",
+          "property": "REGIONAL"
         },
         {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
+          "name": "RB 55",
+          "filterName": "RB 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 6a",
+          "filterName": "RE 6a",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "29.09.2026 16:33",
-      "expand": false,
+      "lastModified": "29.09.2026 17:03",
+      "expand": true,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d66bcb9b-827e-4810-b26f-f651b006e027",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section56"
+      "detailPagePath": "/service/fahrplaene/dd05e0ce-588e-4ed1-9d0e-0e6b26b1bdcf",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/significant_delays_technical_problem_railway_section1"
     },
     {
       "id": "2157e527-9f54-4fa6-b96c-d5135a35325c",
