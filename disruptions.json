@@ -189,65 +189,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section1"
     },
     {
-      "id": "2c2d14ff-122d-419c-bab8-bcdbfa22b52a",
-      "disruptionId": "20c24778-3852-41c9-90f0-e01ab66b739b",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Derzeit Verspätungen und Ausfälle auf allen Linien.",
-      "summary": "Auf allen Linien kommt es derzeit zu Verspätungen und Ausfällen. Grund: Personen im Gleisbereich.",
-      "text": "<p>Die Personen haben den Gleisbereich verlassen. Der S-Bahn Verkehr im Bereich Hauptbahnhof wird wieder aufgenommen. </p>",
-      "durationBegin": "30.09.2026",
-      "durationEnd": "30.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/20c24778-3852-41c9-90f0-e01ab66b739b",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.09.2026 17:16",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2c2d14ff-122d-419c-bab8-bcdbfa22b52a",
-      "magnoliaPath": "/aktuell/nord/significant_delays_police_activity0"
-    },
-    {
       "id": "c6d50ff1-9e61-46da-966c-132987bbabe2",
       "disruptionId": "1729266a-4f39-47e6-a941-1be64f3b8edb",
       "author": "S_BAHN_HH",
@@ -305,44 +246,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c6d50ff1-9e61-46da-966c-132987bbabe2",
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other0"
-    },
-    {
-      "id": "432acbca-b4d2-4834-b156-f0cf559f4565",
-      "disruptionId": "7d2ce6e3-6dc9-42ed-bff8-0ed391e7a7ae",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "police_activity",
-        "label": "Polizeieinsatz"
-      },
-      "headline": "Von und nach Poppenbüttel derzeit mit Umstieg in Ohlsdorf.",
-      "summary": "Derzeit fährt die S1 mit allen Wagen zum Hamburg Airport, von und nach Poppenbüttel muss in Ohlsdorf umgestiegen werden.",
-      "text": "<p></p>",
-      "durationBegin": "30.09.2026",
-      "durationEnd": "30.09.2026",
-      "mapHref": "https://karte.bahn.de/detail/7d2ce6e3-6dc9-42ed-bff8-0ed391e7a7ae",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "30.09.2026 17:15",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/432acbca-b4d2-4834-b156-f0cf559f4565",
-      "magnoliaPath": "/aktuell/nord/modified_service_police_activity5"
     },
     {
       "id": "2dc1bf2c-9052-4879-8b8d-c9f4fd3e7c71",
