@@ -244,6 +244,44 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other0"
     },
     {
+      "id": "36ef4892-daf2-4fe0-b9db-f5c340419c06",
+      "disruptionId": "47a736d5-acc4-45aa-b0e5-fa7aa9be952e",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Derzeit Verspätungen auf der S5.",
+      "summary": "Auf der S5  kommt es derzeit zu Verspätungen von und nach Stade. Grund: Signalstörung. Nutzen Sie alternativ auch den RE5 mit Halt auf allen Unterwegsbahnhöfen zwischen Buxtehude und Stade.",
+      "text": "<p>Zusätzlich ist ab Buxtehude ein Busnotverkehr eingerichtet.</p><p>Bitte achten Sich auf die Anzeigen und Lautsprecherdurchsagen am Bahnsteig.</p>",
+      "durationBegin": "01.10.2026",
+      "durationEnd": "01.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/47a736d5-acc4-45aa-b0e5-fa7aa9be952e",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.10.2026 14:41",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/36ef4892-daf2-4fe0-b9db-f5c340419c06",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section4"
+    },
+    {
       "id": "2dc1bf2c-9052-4879-8b8d-c9f4fd3e7c71",
       "disruptionId": "1e4f0fdb-7bf8-4570-b8a0-e6f273bd4f51",
       "author": "REGIO_SUEDOST",
@@ -1090,39 +1128,124 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
     },
     {
-      "id": "0a81eea1-4026-4cf3-af5c-f7f9e1f2b016",
-      "disruptionId": "bc063ae7-4dfe-4410-b5c3-8a28e7f08d73",
-      "author": "DEUTSCHE_BAHN",
+      "id": "387b4597-673d-4348-9fc9-0bc529a4dc40",
+      "disruptionId": "816f45a5-a2a4-4fa5-838e-6a21cdca524c",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Endmeldung: S 6 Westkreuz ↔ Gauting",
+      "summary": "Die Züge können wieder zwischen Westkreuz und Gauting fahren.",
+      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
+      "durationBegin": "01.10.2026",
+      "durationEnd": "01.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/816f45a5-a2a4-4fa5-838e-6a21cdca524c",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/84dd255b-1d73-4d33-9778-d706afdc3d68st%25C3%25B6rungskarte_20261001-150835.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/84dd255b-1d73-4d33-9778-d706afdc3d68st%25C3%25B6rungskarte_20261001-150835.png",
+          "info": "",
+          "alt": "Störungskarte 01.10.2026 15:08:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.10.2026 15:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/387b4597-673d-4348-9fc9-0bc529a4dc40",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section50"
+    },
+    {
+      "id": "189a06f8-f440-45f0-8525-390501479f1b",
+      "disruptionId": "334a8b00-4fad-4def-9756-6a3c0b8bb399",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "Signalstörung",
-      "summary": "Signalstörung",
-      "text": "Störung beim Signal",
+      "headline": "Stammstrecke Ostbahnhof ↔ Pasing: Reparatur an einem Signal",
+      "summary": "‼️Die Linie S 8 verkehrt wieder auf dem Regelweg mit allen Halten durch die Stammstrecke. ‼️ Zwischen Ostbahnhof und Pasing kommt es in Richtung Pasing noch zu Folgeverspätungen von bis zu 10 Minuten und vereinzelten vorzeitigen Zugwenden auf den Außenästen.",
+      "text": "<p>Ab den folgenden Fahrten fahren die Züge der Linie S 8 wieder auf dem Regelweg mit allen Halten durch die Stammstrecke.</p><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li><strong>S 8 Flughafen Abfahrt 14:44 Uhr → Daglfing 15:09 Uhr → Ostbahnhof 15:15 Uhr → Pasing 15:35 Uhr → Herrsching Ankunft 16:15 Uhr</strong></li></ul><p></p><p></p><p>Der Grund hierfür war eine Reparatur an einem Signal am Karlsplatz.</p>",
       "durationBegin": "01.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/bc063ae7-4dfe-4410-b5c3-8a28e7f08d73",
-      "images": [],
+      "durationEnd": "01.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/334a8b00-4fad-4def-9756-6a3c0b8bb399",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/14147f67-4203-4051-a0d2-ed6058c61d0ast%25C3%25B6rungskarte_20261001-142349.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/14147f67-4203-4051-a0d2-ed6058c61d0ast%25C3%25B6rungskarte_20261001-142349.png",
+          "info": "",
+          "alt": "Störungskarte 01.10.2026 14:23:49",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
-        "LONG_DISTANCE"
+        "SBAHN"
       ],
       "states": [
-        "BW"
+        "BY"
       ],
       "lines": [
         {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "01.10.2026 05:38",
+      "lastModified": "01.10.2026 15:29",
       "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/0a81eea1-4026-4cf3-af5c-f7f9e1f2b016",
-      "magnoliaPath": "/aktuell/significant_delays_technical_problem_railway_section"
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/189a06f8-f440-45f0-8525-390501479f1b",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section60"
     },
     {
       "id": "dd05e0ce-588e-4ed1-9d0e-0e6b26b1bdcf",
