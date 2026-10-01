@@ -140,51 +140,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
-      "id": "7326d163-9bb7-4089-8e6f-87dc41d75a68",
-      "disruptionId": "3d313bad-51f2-438a-af5e-43dbded082ca",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technischer Defekt an einem anderen Zug"
-      },
-      "headline": "Beeinträchtigungen zwischen Fulda und Würzburg",
-      "summary": "Aufgrund einer Störung an einem Güterzug ist die Strecke zwischen Fulda und Würzburg derzeit hoch ausgelastet. Dadurch kommt es zu Verspätungen bis zu 15 Min im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/IC-Züge (Westerland (Sylt) – Hamburg – Hannover – Kassel-Wilhelmshöhe – Gießen – Frankfurt (M)/Fulda – Würzburg – Augsburg – München – Kufstein – Schwarzach-St.Veit/Innsbruck – Bludenz)</li><li>ICE-Züge (Rostock – Hamburg – Uelzen/Rotenburg (Wümme) – Hannover – Kassel-Wilhelmshöhe – Fulda – Würzburg/Lichtenfels – Nürnberg – München)</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "01.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/3d313bad-51f2-438a-af5e-43dbded082ca",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-01/ba4a7c6e-d720-4f35-951f-83c4fc74ae79st%25C3%25B6rungskarte_20261001-040743.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-01/ba4a7c6e-d720-4f35-951f-83c4fc74ae79st%25C3%25B6rungskarte_20261001-040743.png",
-          "info": "",
-          "alt": "Störungskarte 01.10.2026 04:07:43",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BY",
-        "NI",
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "01.10.2026 04:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/7326d163-9bb7-4089-8e6f-87dc41d75a68",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_vehicle"
-    },
-    {
       "id": "c6d50ff1-9e61-46da-966c-132987bbabe2",
       "disruptionId": "1729266a-4f39-47e6-a941-1be64f3b8edb",
       "author": "S_BAHN_HH",
@@ -242,44 +197,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/c6d50ff1-9e61-46da-966c-132987bbabe2",
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other0"
-    },
-    {
-      "id": "36ef4892-daf2-4fe0-b9db-f5c340419c06",
-      "disruptionId": "47a736d5-acc4-45aa-b0e5-fa7aa9be952e",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Derzeit Verspätungen auf der S5.",
-      "summary": "Auf der S5  kommt es derzeit zu Verspätungen von und nach Stade. Grund: Signalstörung. Nutzen Sie alternativ auch den RE5 mit Halt auf allen Unterwegsbahnhöfen zwischen Buxtehude und Stade.",
-      "text": "<p>Zusätzlich ist ab Buxtehude ein Busnotverkehr eingerichtet.</p><p>Bitte achten Sich auf die Anzeigen und Lautsprecherdurchsagen am Bahnsteig.</p>",
-      "durationBegin": "01.10.2026",
-      "durationEnd": "01.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/47a736d5-acc4-45aa-b0e5-fa7aa9be952e",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.10.2026 14:41",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/36ef4892-daf2-4fe0-b9db-f5c340419c06",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section4"
     },
     {
       "id": "2dc1bf2c-9052-4879-8b8d-c9f4fd3e7c71",
@@ -370,6 +287,58 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "3375c01d-0ab7-4c79-9422-309196cc9c7f",
+      "disruptionId": "88268c40-72ce-4c7e-a232-f6f886eae279",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "medical_emergency",
+        "label": "Notarzteinsatz auf der Strecke"
+      },
+      "headline": "Die Strecke zwischen Lindach und Zwingenberg(Baden) ist im Moment gesperrt.",
+      "summary": "Der Grund ist ein Notarzteinsatz auf der Strecke.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Lindach &lt;&gt; Zwingenberg(Baden)</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S1 - Homburg(Saar) &lt;&gt; Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Osterburken  </li><li>S2 - Kaiserslautern &lt;&gt; Ludwigshafen &lt;&gt; Mannheim &lt;&gt; Heidelberg &lt;&gt; Mosbach</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Die Züge aus Richtung Neckargemünd enden und beginnen in Eberbach. Aus Richtung Mosbach(Baden) enden und beginnen die Züge in Mosbach-Neckarelz.</p><p>🚍&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bussen ab ca. 20:30 Uhr zwischen Mosbach-Neckarelz und Eberbach für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "01.10.2026",
+      "durationEnd": "01.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/88268c40-72ce-4c7e-a232-f6f886eae279",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Neckar",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Neckar",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 33",
+          "filterName": "S 33 Rhein-Neckar",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 Rhein-Neckar",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.10.2026 19:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/3375c01d-0ab7-4c79-9422-309196cc9c7f",
+      "magnoliaPath": "/aktuell/mitte/no_service_medical_emergency1"
     },
     {
       "id": "83256840-dce1-4355-8511-cf6c76bb820a",
@@ -464,6 +433,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "b593e19d-5d1b-44a4-8502-72b432d55940",
+      "disruptionId": "198a391a-c172-45c3-9f34-551188326923",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 7  Icking und Hohenschäftlarn: Kabelschaden nach Bauarbeiten.",
+      "summary": "An den Bahnhöfen Icking und Hohenschäftlarn sind derzeit keine Anzeigen und Ansagen möglich.\nBitte informieren Sie sich über Ihre Verbindung auf der S-Bahn München Website oder über unsere München Navigator-App.",
+      "text": "<p>Der Grund hierfür ist ein Kabelschaden nach Bauarbeiten.</p>",
+      "durationBegin": "22.09.2026",
+      "durationEnd": "05.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/198a391a-c172-45c3-9f34-551188326923",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/6bb0ea47-9085-4c41-9184-1f0f4e4993c1st%25C3%25B6rungskarte_20260922-210957.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/6bb0ea47-9085-4c41-9184-1f0f4e4993c1st%25C3%25B6rungskarte_20260922-210957.png",
+          "info": "",
+          "alt": "Störungskarte 22.09.2026 21:09:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "01.10.2026 16:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b593e19d-5d1b-44a4-8502-72b432d55940",
+      "magnoliaPath": "/aktuell/bayern/impairment_construction0"
     },
     {
       "id": "83828b56-38ef-4bf4-b47f-586ec4c1eb70",
@@ -1128,70 +1142,25 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
     },
     {
-      "id": "387b4597-673d-4348-9fc9-0bc529a4dc40",
-      "disruptionId": "816f45a5-a2a4-4fa5-838e-6a21cdca524c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
-      },
-      "headline": "Endmeldung: S 6 Westkreuz ↔ Gauting",
-      "summary": "Die Züge können wieder zwischen Westkreuz und Gauting fahren.",
-      "text": "<p>Es kommt noch zu Folgeverspätungen und Teilausfällen.</p><p>Die unbefugte Person hat die Strecke verlassen.</p>",
-      "durationBegin": "01.10.2026",
-      "durationEnd": "01.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/816f45a5-a2a4-4fa5-838e-6a21cdca524c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/84dd255b-1d73-4d33-9778-d706afdc3d68st%25C3%25B6rungskarte_20261001-150835.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/84dd255b-1d73-4d33-9778-d706afdc3d68st%25C3%25B6rungskarte_20261001-150835.png",
-          "info": "",
-          "alt": "Störungskarte 01.10.2026 15:08:35",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.10.2026 15:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/387b4597-673d-4348-9fc9-0bc529a4dc40",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section50"
-    },
-    {
-      "id": "189a06f8-f440-45f0-8525-390501479f1b",
-      "disruptionId": "334a8b00-4fad-4def-9756-6a3c0b8bb399",
+      "id": "52131be7-a7b5-45db-a796-f5e8b5ee7bcd",
+      "disruptionId": "99eb994c-68db-4578-a232-c9c6ca82fdea",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "Stammstrecke Ostbahnhof ↔ Pasing: Reparatur an einem Signal",
-      "summary": "‼️Die Linie S 8 verkehrt wieder auf dem Regelweg mit allen Halten durch die Stammstrecke. ‼️ Zwischen Ostbahnhof und Pasing kommt es in Richtung Pasing noch zu Folgeverspätungen von bis zu 10 Minuten und vereinzelten vorzeitigen Zugwenden auf den Außenästen.",
-      "text": "<p>Ab den folgenden Fahrten fahren die Züge der Linie S 8 wieder auf dem Regelweg mit allen Halten durch die Stammstrecke.</p><p><strong>S 8 Herrsching ↔ Flughafen</strong></p><ul><li><strong>S 8 Flughafen Abfahrt 14:44 Uhr → Daglfing 15:09 Uhr → Ostbahnhof 15:15 Uhr → Pasing 15:35 Uhr → Herrsching Ankunft 16:15 Uhr</strong></li></ul><p></p><p></p><p>Der Grund hierfür war eine Reparatur an einem Signal am Karlsplatz.</p>",
+      "headline": "S 1 Oberschleißheim: Reparatur an einem Signal",
+      "summary": " Die Zugfahrten im Bereich Oberschleißheim sind in beiden Richtungen nur eingeschränkt möglich. Im Bereich Oberschleißheim kommt es zu erheblichen Verspätungen und Teilausfälle.",
+      "text": "<p><strong>‼️Die Linie S1 verkehrt zwischen Ostbahnhof/Leuchtenbergring↔ Freising/Flughafen nur noch im 60- Minuten Takt:</strong></p><p><strong>S 1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li>S 1 Leuchtenbergring Abfahrt 19:51 Uhr → Freising Ankunft 20:44 Uhr/Flughafen Ankunft 20:48 Uhr</li><li>S 1 Leuchtenbergring Abfahrt 20:51 Uhr → Freising Ankunft 21:44 Uhr/Flughafen Ankunft 21:48 Uhr</li><li>S1 Leuchtenbergring Abfahrt 21:51 Uhr → Freising Ankunft 22:44 Uhr/Flughafen Ankunft 22:48 Uhr</li></ul><p></p><p><strong>Alternativ:</strong> <strong>Reisende von und nach Flughafen bitte die S8 nutzen.</strong></p><p><strong>Busalternative auf der Linie S1:</strong></p><ul><li>X080 Moosach (U3) - Untermenzing - Lochhausen - Puchheim</li><li>X201 Oberschleißheim - Garching (U6)- Dachau</li><li>X202 Unterschleißheim - Ismaning - Haar</li><li>X206 Lohhof - (Ober)-Unterschleißheim - Feldmoching (U2)</li><li>X660 Freising – Garching (U6)</li><li>162 Moosach (U3) - Pasing</li><li>291 (Ober)-Unterschleißheim - Dachau</li><li>292 Oberschleißheim - Garching (U6)</li><li>295 Oberschleißheim - Am Hart (U2)</li><li>511 Freising - Erding</li><li>512 Flughafen - Erding</li><li>690 Eching - Neufahrn - Garching (U6)</li><li>692 Neufahrn - Hallbergmoos</li><li>710 Moosach - Dachau</li></ul><p></p><p></p><p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
       "durationBegin": "01.10.2026",
       "durationEnd": "01.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/334a8b00-4fad-4def-9756-6a3c0b8bb399",
+      "mapHref": "https://karte.bahn.de/detail/99eb994c-68db-4578-a232-c9c6ca82fdea",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/14147f67-4203-4051-a0d2-ed6058c61d0ast%25C3%25B6rungskarte_20261001-142349.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/14147f67-4203-4051-a0d2-ed6058c61d0ast%25C3%25B6rungskarte_20261001-142349.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/bf089089-04b7-4a5a-95e2-661d1a2042cdst%25C3%25B6rungskarte_20261001-175905.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/bf089089-04b7-4a5a-95e2-661d1a2042cdst%25C3%25B6rungskarte_20261001-175905.png",
           "info": "",
-          "alt": "Störungskarte 01.10.2026 14:23:49",
+          "alt": "Störungskarte 01.10.2026 17:59:05",
           "openInNewTab": true
         }
       ],
@@ -1208,44 +1177,14 @@
           "name": "S 1",
           "filterName": "S 1 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "01.10.2026 15:29",
+      "lastModified": "01.10.2026 20:32",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/189a06f8-f440-45f0-8525-390501479f1b",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section60"
+      "detailPagePath": "/service/fahrplaene/52131be7-a7b5-45db-a796-f5e8b5ee7bcd",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section61"
     },
     {
       "id": "dd05e0ce-588e-4ed1-9d0e-0e6b26b1bdcf",
