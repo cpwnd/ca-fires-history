@@ -140,6 +140,52 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
+      "id": "a7290597-69b6-48c5-b9f1-10cd94a6466b",
+      "disruptionId": "9214bcf5-7c29-4382-8847-1567b91ab898",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Hannover und Braunschweig",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Lehrte und Peine kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Hannover und Berlin</li><li>IC Züge zwischen Hannover und Magdeburg</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "04.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/9214bcf5-7c29-4382-8847-1567b91ab898",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-04/4a751402-f61d-4859-b369-ccbd457e94dast%25C3%25B6rungskarte_20261004-234027.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-04/4a751402-f61d-4859-b369-ccbd457e94dast%25C3%25B6rungskarte_20261004-234027.png",
+          "info": "",
+          "alt": "Störungskarte 04.10.2026 23:40:27",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.10.2026 23:42",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/a7290597-69b6-48c5-b9f1-10cd94a6466b",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section5"
+    },
+    {
       "id": "5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
       "disruptionId": "4e6e3071-26d5-49a0-b4e1-a3c6ea0d9bd1",
       "author": "S_BAHN_HH",
@@ -307,6 +353,81 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "b4e67c2e-2b40-4f93-8cd3-551b9778663e",
+      "disruptionId": "1372db1e-8825-423f-b134-35aa08ebba40",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Unbefugte Personen auf der Strecke"
+      },
+      "headline": "Stammstrecke Karlsplatz ↔ Hauptbahnhof: Unbefugte Personen auf der Strecke",
+      "summary": "Zwischen Karlsplatz und Hauptbahnhof sind keine Zugfahrten möglich.",
+      "text": "<p>Die S-Bahnen werden derzeit zurückgehalten oder wenden an geeigneten Bahnhöfen vorzeitig.</p><p>Es kommt zu Verspätungen von 15 bis 20 Minuten und Teilausfällen.</p><p>Der Grund hierfür sind unbefugte Personen auf der Strecke.</p>",
+      "durationBegin": "04.10.2026",
+      "durationEnd": "05.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/1372db1e-8825-423f-b134-35aa08ebba40",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-04/98ac44f3-c631-41b3-aca6-e608fbaced51st%25C3%25B6rungskarte_20261004-232247.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-04/98ac44f3-c631-41b3-aca6-e608fbaced51st%25C3%25B6rungskarte_20261004-232247.png",
+          "info": "",
+          "alt": "Störungskarte 04.10.2026 23:22:47",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "04.10.2026 23:25",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b4e67c2e-2b40-4f93-8cd3-551b9778663e",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section54"
+    },
+    {
       "id": "34f71421-65c7-4576-9b3e-6942a2851db3",
       "disruptionId": "75dd258a-0561-47c4-95aa-dec3903405b2",
       "author": "REGIO_MITTE",
@@ -354,6 +475,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "5931a042-b657-4c4c-ac62-e126399948cd",
+      "disruptionId": "ffd79289-ad89-426f-a96c-823451b972e0",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Nächtliche Bauarbeiten zwischen Lörrach-Stetten und Basel Bad Bf",
+      "summary": "Aufgrund von Bauarbeiten kommt es in den Nächten vom 04.10.2026 bis zum 10.10.2026, jeweils im Zeitraum von 22:00 Uhr bis 03:00 Uhr zu Teilausfällen zwischen Lörrach Hbf und Basel Bad Bf bzw. Basel SBB.",
+      "text": "<p>Aufgrund von Bauarbeiten kommt es in den Nächten vom 04.10.2026 bis zum 10.10.2026, jeweils im Zeitraum von 22:00 Uhr bis 03:00 Uhr zu Teilausfällen zwischen Lörrach Hbf und Basel Bad Bf bzw. Basel SBB. Ein Ersatzverkehr mit Bussen ist zwischen Lörrach Hbf und Basel Bad Bf bzw. Basel SBB eingerichtet.</p>",
+      "durationBegin": "04.10.2026",
+      "durationEnd": "10.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/ffd79289-ad89-426f-a96c-823451b972e0",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "04.10.2026 22:01",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/5931a042-b657-4c4c-ac62-e126399948cd",
+      "magnoliaPath": "/aktuell/impairment_construction"
     },
     {
       "id": "83828b56-38ef-4bf4-b47f-586ec4c1eb70",
@@ -416,43 +574,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/83828b56-38ef-4bf4-b47f-586ec4c1eb70",
       "magnoliaPath": "/aktuell/suedost/impairment_technical_problem_railway_section6"
-    },
-    {
-      "id": "5931a042-b657-4c4c-ac62-e126399948cd",
-      "disruptionId": "ffd79289-ad89-426f-a96c-823451b972e0",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Nächtliche Bauarbeiten zwischen Lörrach-Stetten und Basel Bad Bf",
-      "summary": "Aufgrund von Bauarbeiten kommt es in den Nächten vom 04.10.2026 bis zum 10.10.2026, jeweils im Zeitraum von 22:00 Uhr bis 03:00 Uhr zu Teilausfällen zwischen Lörrach Hbf und Basel Bad Bf bzw. Basel SBB.",
-      "text": "<p>Aufgrund von Bauarbeiten kommt es in den Nächten vom 04.10.2026 bis zum 10.10.2026, jeweils im Zeitraum von 22:00 Uhr bis 03:00 Uhr zu Teilausfällen zwischen Lörrach Hbf und Basel Bad Bf bzw. Basel SBB. Ein Ersatzverkehr mit Bussen ist zwischen Lörrach Hbf und Basel Bad Bf bzw. Basel SBB eingerichtet.</p>",
-      "durationBegin": "03.10.2026",
-      "durationEnd": "10.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/ffd79289-ad89-426f-a96c-823451b972e0",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "03.10.2026 23:00",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5931a042-b657-4c4c-ac62-e126399948cd",
-      "magnoliaPath": "/aktuell/impairment_construction"
     },
     {
       "id": "b593e19d-5d1b-44a4-8502-72b432d55940",
@@ -1051,51 +1172,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/035fa3f7-81d8-48b8-8b2b-73d5bdec796e",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
-    },
-    {
-      "id": "dac3e59f-489d-4c75-be0d-4010d43d368a",
-      "disruptionId": "31ccd6e7-181f-45ab-b0eb-09a5d955e68c",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Gegenstände auf der Strecke"
-      },
-      "headline": "Endmeldung: S8 Unterföhring ↔ Englschalking",
-      "summary": "Zwischen Unterföhring und Englschalking kommt es zu keinen Beeinträchtigungen mehr.",
-      "text": "<p>Die Gegenstände auf der Strecke wurden beseitigt.</p>",
-      "durationBegin": "04.10.2026",
-      "durationEnd": "04.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/31ccd6e7-181f-45ab-b0eb-09a5d955e68c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-04/45c90a9a-28b8-43de-93ec-2364a747f06ast%25C3%25B6rungskarte_20261004-190923.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-04/45c90a9a-28b8-43de-93ec-2364a747f06ast%25C3%25B6rungskarte_20261004-190923.png",
-          "info": "",
-          "alt": "Störungskarte 04.10.2026 19:09:23",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "04.10.2026 20:00",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/dac3e59f-489d-4c75-be0d-4010d43d368a",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section67"
     },
     {
       "id": "dd05e0ce-588e-4ed1-9d0e-0e6b26b1bdcf",
