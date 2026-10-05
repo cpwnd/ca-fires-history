@@ -447,96 +447,6 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "f318029d-0bce-4b85-a7ff-c97b3027251b",
-      "disruptionId": "a53ed8b6-90c4-4b43-83e8-8cde32a97a76",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 8 Johanneskirchen: Reparatur an der Strecke",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "05.10.2026",
-      "durationEnd": "05.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/a53ed8b6-90c4-4b43-83e8-8cde32a97a76",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/e5626873-ed94-4170-afb0-44d1353538e7st%25C3%25B6rungskarte_20261005-155801.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/e5626873-ed94-4170-afb0-44d1353538e7st%25C3%25B6rungskarte_20261005-155801.png",
-          "info": "",
-          "alt": "Störungskarte 05.10.2026 15:58:01",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "05.10.2026 15:59",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f318029d-0bce-4b85-a7ff-c97b3027251b",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section80"
-    },
-    {
-      "id": "8370b5a1-c620-4c58-855a-da026c385c6a",
-      "disruptionId": "7b079dc6-c098-43e2-95d8-fccdaaac5d10",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 7 Ebenhausen-Schäftlarn: Reparatur an einem Signal",
-      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "05.10.2026",
-      "durationEnd": "05.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/7b079dc6-c098-43e2-95d8-fccdaaac5d10",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/fef303bb-7ba8-49f7-baa8-2d8179e1a2fast%25C3%25B6rungskarte_20261005-152224.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/fef303bb-7ba8-49f7-baa8-2d8179e1a2fast%25C3%25B6rungskarte_20261005-152224.png",
-          "info": "",
-          "alt": "Störungskarte 05.10.2026 15:22:24",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "05.10.2026 15:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8370b5a1-c620-4c58-855a-da026c385c6a",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section79"
-    },
-    {
       "id": "b593e19d-5d1b-44a4-8502-72b432d55940",
       "disruptionId": "198a391a-c172-45c3-9f34-551188326923",
       "author": "S_BAHN_MUC",
@@ -676,43 +586,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e368a0b0-d083-4794-b999-e289086089d5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
-    },
-    {
-      "id": "4d3048d2-e07b-44db-9c40-73f2471ec664",
-      "disruptionId": "54b65d94-64c9-4fc5-8fea-d9143eee98f0",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S1 fährt aktuell abwechselnd alle 10min zum Hamburg Airport und nach Poppenbüttel. ",
-      "summary": "Derzeit fährt die S1 mit allen Wagen abwechselnd alle 10min zum Hamburg Airport und nach Poppenbüttel. Ursache: Weichenstörung",
-      "text": "<p> </p>",
-      "durationBegin": "05.10.2026",
-      "durationEnd": "05.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/54b65d94-64c9-4fc5-8fea-d9143eee98f0",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "05.10.2026 15:54",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/4d3048d2-e07b-44db-9c40-73f2471ec664",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "e0315e3b-f7c2-47f4-820c-35e3be876f3f",
@@ -1252,6 +1125,96 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/035fa3f7-81d8-48b8-8b2b-73d5bdec796e",
       "magnoliaPath": "/aktuell/suedost/additional_service_construction2"
+    },
+    {
+      "id": "862abe2f-139b-4376-94f6-59d2ce8843d7",
+      "disruptionId": "7cadf99f-d68d-42f4-a4f3-a4b0312eb169",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 2 Dachau ↔ Petershausen: Reparatur an der Strecke",
+      "summary": "Zwischen Dachau und Petershausen kommt es zu Verspätungen von 10 bis 15 Minuten und Vorzeitigen Zugwenden.",
+      "text": "<p>In diesem Bereich fahren die Züge mit verminderter Geschwindigkeit.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "05.10.2026",
+      "durationEnd": "06.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/7cadf99f-d68d-42f4-a4f3-a4b0312eb169",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/b60be2c5-94a2-46b5-b458-0d976e1a5f79st%25C3%25B6rungskarte_20261005-231854.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/b60be2c5-94a2-46b5-b458-0d976e1a5f79st%25C3%25B6rungskarte_20261005-231854.png",
+          "info": "",
+          "alt": "Störungskarte 05.10.2026 23:18:54",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.10.2026 23:21",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/862abe2f-139b-4376-94f6-59d2ce8843d7",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section71"
+    },
+    {
+      "id": "4cea13d0-3137-4c4b-9f66-7c1229174754",
+      "disruptionId": "eeddcdfb-5b22-4e45-81ea-3967009b0819",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S 4 Fürstenfeldbruck ↔ Buchenau: Reparatur an einer Weiche",
+      "summary": "Zwischen Fürstenfeldbruck und Buchenau kommt es zu Verspätungen von 15 bis 20 Minuten, vereinzelt höher und Teilausfällen.",
+      "text": "<p><strong>Im betroffenen Bereich fahren die Züge auf dem Gegengleis</strong>.</p><p>Der Grund hierfür ist die Reparatur an einer Weiche.</p>",
+      "durationBegin": "05.10.2026",
+      "durationEnd": "06.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/eeddcdfb-5b22-4e45-81ea-3967009b0819",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/dbb6d4f4-3b1d-4b97-aa46-2b002e7863b5st%25C3%25B6rungskarte_20261005-220228.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/dbb6d4f4-3b1d-4b97-aa46-2b002e7863b5st%25C3%25B6rungskarte_20261005-220228.png",
+          "info": "",
+          "alt": "Störungskarte 05.10.2026 22:02:28",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.10.2026 23:05",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4cea13d0-3137-4c4b-9f66-7c1229174754",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section70"
     },
     {
       "id": "dd05e0ce-588e-4ed1-9d0e-0e6b26b1bdcf",
