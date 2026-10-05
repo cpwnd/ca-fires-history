@@ -140,52 +140,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
-      "id": "a7290597-69b6-48c5-b9f1-10cd94a6466b",
-      "disruptionId": "9214bcf5-7c29-4382-8847-1567b91ab898",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigungen zwischen Hannover und Braunschweig",
-      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Lehrte und Peine kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE Züge zwischen Hannover und Berlin</li><li>IC Züge zwischen Hannover und Magdeburg</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "04.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/9214bcf5-7c29-4382-8847-1567b91ab898",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-04/4a751402-f61d-4859-b369-ccbd457e94dast%25C3%25B6rungskarte_20261004-234027.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-04/4a751402-f61d-4859-b369-ccbd457e94dast%25C3%25B6rungskarte_20261004-234027.png",
-          "info": "",
-          "alt": "Störungskarte 04.10.2026 23:40:27",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "ST",
-        "BE",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "04.10.2026 23:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/a7290597-69b6-48c5-b9f1-10cd94a6466b",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/significant_delays_technical_problem_railway_section5"
-    },
-    {
       "id": "5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
       "disruptionId": "4e6e3071-26d5-49a0-b4e1-a3c6ea0d9bd1",
       "author": "S_BAHN_HH",
@@ -261,6 +215,97 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other1"
+    },
+    {
+      "id": "eed4b99a-22e5-445c-9cce-de6d6d2d4fef",
+      "disruptionId": "a150f200-8c35-4025-b5e9-21e62af2d60e",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "police_activity",
+        "label": "Entschärfung einer Fliegerbombe"
+      },
+      "headline": "Bombenentschärfung im Raum Leiferde",
+      "summary": "Die Entschärfung einer Fliegerbombe in Leiferde beeinträchtigt den Zugverkehr zwischen Braunschweig Hbf und Salzgitter-Bad, -Lebenstedt sowie Schöppenstedt. In der Folge kommt es am Freitag, den 16. Oktober 2026 voraussichtlich zwischen 10 und 16 Uhr zu Verspätungen und (Teil-)Ausfällen. ",
+      "text": "<p><strong>Betroffene Linien:&nbsp;</strong></p><ul><li>RB 44 (Braunschweig – Salzgitter-Lebenstedt): Die Züge der Linie RB 44 entfallen. Erster ausfallender Zug in Richtung Braunschweig Hbf RB 14317 um 10:15 Uhr. Erster ausfallender Zug in Richtung Salzgitter-Lebenstedt RB 14370 um 10:19 Uhr.</li><li>RB 45 (Braunschweig Hbf – Schöppenstedt): Die Züge der Linie RB 45 entfallen. Erster ausfallender Zug in Richtung Schöppenstedt RB 14231 um 10:57 Uhr. Erster ausfallender Zug in Richtung Braunschweig Hbf RB 14230 um 10:34 Uhr.</li><li>RB 46 (Braunschweig Hbf – Herzberg(Harz): Die Züge der Linie RB 46 verkehren zwischen Herzberg(Harz) und Salzgitter-Bad. Erster betroffener Zug in Richtung Braunschweig RB 14312 um 09:34 Uhr. Erster betroffener Zug in Richtung Herzberg(Harz) RB 14313 um 11:05 Uhr.</li><li>RB 48 (Braunschweig–Salzgitter-Lebenstedt): Die Züge der Linie RB 48 entfallen. Erster ausfallender Zug in Richtung Braunschweig Hbf RB 14271 um 10:49 Uhr. Erster ausfallender Zug in Richtung Salzgitter-Lebenstedt RB 14270 um 09:51 Uhr. </li></ul><p>Wir arbeiten an der Einrichtung eines Ersatzverkehrs mit Bus, warten aber noch auf die Bestätigung unserer Partner. Sobald uns weitere Informationen vorliegen, wird diese Meldung aktualisiert.</p><p>Rechnen Sie mit einer Reisezeitverlängerung von bis zu 30 Minuten.&nbsp;</p><p>Informationen zu der örtlichen Lage der jeweiligen Ersatzhaltestellen finden Sie unter bahnhof.de.&nbsp;&nbsp;</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de, in der App DB Navigator oder beim regionalen Kundendialog unter 0511 45901645.</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.</p>",
+      "durationBegin": "16.10.2026",
+      "durationEnd": "16.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/a150f200-8c35-4025-b5e9-21e62af2d60e",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-10-05/0b6f5a37-2c14-490e-8557-77258a2dc5d5st%25C3%25B6rungskarte_20261005-150010.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-10-05/0b6f5a37-2c14-490e-8557-77258a2dc5d5st%25C3%25B6rungskarte_20261005-150010.png",
+          "info": "",
+          "alt": "Störungskarte 05.10.2026 15:00:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/niedersachsen-bremen/services/ran_kontakt",
+          "label": "Regionaler Kundendialog Niedersachsen und Bremen ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de/fahrgastrechte",
+          "label": "Fahrgastrechte ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahnhof.de",
+          "label": "Lageplan des Ersatzverkehrs",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HB",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RB 44",
+          "filterName": "RB 44",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 45",
+          "filterName": "RB 45",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 46",
+          "filterName": "RB 46",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 48",
+          "filterName": "RB 48",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "05.10.2026 15:29",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/eed4b99a-22e5-445c-9cce-de6d6d2d4fef",
+      "magnoliaPath": "/aktuell/nord/reduced_service_police_activity0"
     },
     {
       "id": "2dc1bf2c-9052-4879-8b8d-c9f4fd3e7c71",
@@ -402,6 +447,141 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
+      "id": "f318029d-0bce-4b85-a7ff-c97b3027251b",
+      "disruptionId": "a53ed8b6-90c4-4b43-83e8-8cde32a97a76",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 8 Johanneskirchen: Reparatur an der Strecke",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "05.10.2026",
+      "durationEnd": "05.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/a53ed8b6-90c4-4b43-83e8-8cde32a97a76",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/e5626873-ed94-4170-afb0-44d1353538e7st%25C3%25B6rungskarte_20261005-155801.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/e5626873-ed94-4170-afb0-44d1353538e7st%25C3%25B6rungskarte_20261005-155801.png",
+          "info": "",
+          "alt": "Störungskarte 05.10.2026 15:58:01",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.10.2026 15:59",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f318029d-0bce-4b85-a7ff-c97b3027251b",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section80"
+    },
+    {
+      "id": "8370b5a1-c620-4c58-855a-da026c385c6a",
+      "disruptionId": "7b079dc6-c098-43e2-95d8-fccdaaac5d10",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "S 7 Ebenhausen-Schäftlarn: Reparatur an einem Signal",
+      "summary": "Es kommt zu Verspätungen bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund dafür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "05.10.2026",
+      "durationEnd": "05.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/7b079dc6-c098-43e2-95d8-fccdaaac5d10",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/fef303bb-7ba8-49f7-baa8-2d8179e1a2fast%25C3%25B6rungskarte_20261005-152224.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/fef303bb-7ba8-49f7-baa8-2d8179e1a2fast%25C3%25B6rungskarte_20261005-152224.png",
+          "info": "",
+          "alt": "Störungskarte 05.10.2026 15:22:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.10.2026 15:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8370b5a1-c620-4c58-855a-da026c385c6a",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section79"
+    },
+    {
+      "id": "b593e19d-5d1b-44a4-8502-72b432d55940",
+      "disruptionId": "198a391a-c172-45c3-9f34-551188326923",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S 7  Icking und Hohenschäftlarn: Kabelschaden nach Bauarbeiten.",
+      "summary": "An den Bahnhöfen Icking und Hohenschäftlarn sind derzeit keine Anzeigen und Ansagen möglich.\nBitte informieren Sie sich über Ihre Verbindung auf der S-Bahn München Website oder über unsere München Navigator-App.",
+      "text": "<p>Der Grund hierfür ist ein Kabelschaden nach Bauarbeiten.</p>",
+      "durationBegin": "22.09.2026",
+      "durationEnd": "07.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/198a391a-c172-45c3-9f34-551188326923",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/7c09ad3d-2911-40b6-86e2-2ccdcad25481st%25C3%25B6rungskarte_20260922-210957.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-05/7c09ad3d-2911-40b6-86e2-2ccdcad25481st%25C3%25B6rungskarte_20260922-210957.png",
+          "info": "",
+          "alt": "Störungskarte 22.09.2026 21:09:57",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 7",
+          "filterName": "S 7 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.10.2026 14:04",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b593e19d-5d1b-44a4-8502-72b432d55940",
+      "magnoliaPath": "/aktuell/bayern/impairment_construction0"
+    },
+    {
       "id": "5931a042-b657-4c4c-ac62-e126399948cd",
       "disruptionId": "ffd79289-ad89-426f-a96c-823451b972e0",
       "author": "DEUTSCHE_BAHN",
@@ -437,51 +617,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/5931a042-b657-4c4c-ac62-e126399948cd",
       "magnoliaPath": "/aktuell/impairment_construction"
-    },
-    {
-      "id": "b593e19d-5d1b-44a4-8502-72b432d55940",
-      "disruptionId": "198a391a-c172-45c3-9f34-551188326923",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "S 7  Icking und Hohenschäftlarn: Kabelschaden nach Bauarbeiten.",
-      "summary": "An den Bahnhöfen Icking und Hohenschäftlarn sind derzeit keine Anzeigen und Ansagen möglich.\nBitte informieren Sie sich über Ihre Verbindung auf der S-Bahn München Website oder über unsere München Navigator-App.",
-      "text": "<p>Der Grund hierfür ist ein Kabelschaden nach Bauarbeiten.</p>",
-      "durationBegin": "22.09.2026",
-      "durationEnd": "05.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/198a391a-c172-45c3-9f34-551188326923",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/6bb0ea47-9085-4c41-9184-1f0f4e4993c1st%25C3%25B6rungskarte_20260922-210957.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-01/6bb0ea47-9085-4c41-9184-1f0f4e4993c1st%25C3%25B6rungskarte_20260922-210957.png",
-          "info": "",
-          "alt": "Störungskarte 22.09.2026 21:09:57",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "01.10.2026 16:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/b593e19d-5d1b-44a4-8502-72b432d55940",
-      "magnoliaPath": "/aktuell/bayern/impairment_construction0"
     },
     {
       "id": "e368a0b0-d083-4794-b999-e289086089d5",
@@ -541,6 +676,43 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e368a0b0-d083-4794-b999-e289086089d5",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section4"
+    },
+    {
+      "id": "4d3048d2-e07b-44db-9c40-73f2471ec664",
+      "disruptionId": "54b65d94-64c9-4fc5-8fea-d9143eee98f0",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "S1 fährt aktuell abwechselnd alle 10min zum Hamburg Airport und nach Poppenbüttel. ",
+      "summary": "Derzeit fährt die S1 mit allen Wagen abwechselnd alle 10min zum Hamburg Airport und nach Poppenbüttel. Ursache: Weichenstörung",
+      "text": "<p> </p>",
+      "durationBegin": "05.10.2026",
+      "durationEnd": "05.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/54b65d94-64c9-4fc5-8fea-d9143eee98f0",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.10.2026 15:54",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/4d3048d2-e07b-44db-9c40-73f2471ec664",
+      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "e0315e3b-f7c2-47f4-820c-35e3be876f3f",
@@ -828,6 +1000,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
+    },
+    {
+      "id": "d54c02dc-058d-4d6f-a8b7-e33b958ad5fc",
+      "disruptionId": "041c7fa0-6fbd-4c39-9995-c93fda344d1a",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Halle-Nietleben ⇄ Halle(Saale)Hbf - Es kommt noch zu kleineren Fahrplanabweichungen.",
+      "summary": "Die Sperrung zwischen Halle(Saale) Hauptbahnhof und Halle-Nietleben ist aufgehoben. Der S-Bahn-Verkehr normalisiert sich. Der Grund ist eine Entschärfung einer Fliegerbombe.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S3 Halle-Nietleben - Halle(Saale) Hbf - Schkeuditz - Leipzig Hbf (tief) - Borna - Geithain </li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Entschärfung einer Fliegerbombe.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Sperrung aufgehoben. S-Bahn-Verkehr normalisiert sich.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie auch andere Verkehrsmittel, um an Ihr Reiseziel zu gelangen.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
+      "durationBegin": "05.10.2026",
+      "durationEnd": "06.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/041c7fa0-6fbd-4c39-9995-c93fda344d1a",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-10-05/e7e30078-130c-482f-b691-4a352ca40055st%25C3%25B6rungskarte_20261005-134534.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-10-05/e7e30078-130c-482f-b691-4a352ca40055st%25C3%25B6rungskarte_20261005-134534.png",
+          "info": "",
+          "alt": "Störungskarte 05.10.2026 13:45:34",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Mitteldeutschland",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "05.10.2026 16:24",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d54c02dc-058d-4d6f-a8b7-e33b958ad5fc",
+      "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section3"
     },
     {
       "id": "5797685d-bd35-4cac-a99f-38dfab8843ce",
