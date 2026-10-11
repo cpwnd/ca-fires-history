@@ -68,68 +68,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
-      "id": "195c54b6-d443-401b-93cd-ee0388f68ba7",
-      "disruptionId": "c3ae7448-827f-42eb-a1da-63a28903779b",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "🟣 S3/ 🔵 S5: Die S-Bahn fährt am Wochenende fast durchgehend",
-      "summary": "Aufgrund der ungeplanten Straßensperrungen in Hammerbrook infolge des Wasserrohrbruchs hat die S-Bahn Hamburg kurzfristig das Fahrtangebot der S3 angepasst.",
-      "text": "<p>Die geplanten Arbeiten auf dem Streckenabschnitt Hammerbrook ⇄ Wilhelmsburg werden verkürzt und ausschließlich in der Nacht von Freitag auf Samstag durchgeführt.</p><p></p><p>🚆 <strong>Verkehrskonzept für den Zeitraum: Samstag 10.10., 06:00 Uhr, bis Sonntag 11.10., 04:00 Uhr:</strong></p><p><strong>Linie 🟣 S3:</strong> Fährt durchgehend zwischen Pinneberg ⇄ Neugraben</p><p><strong>Linie 🔵 S5: </strong>Fährt zwischen Elbgaustraße ⇄ Berliner Tor und Neugraben &lt;&gt; Buxtehude / Stade</p><p></p><p>🔊 Bitte achten Sie auch auf die Ansagen an den Bahnsteigen und in den S-Bahnen.</p>",
-      "durationBegin": "08.10.2026",
-      "durationEnd": "11.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/c3ae7448-827f-42eb-a1da-63a28903779b",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-10/0c8d2f90-5e5f-41b1-878f-adac5782c6de885_26_Wilhelmsburg-Hammerbrook.pdf",
-          "label": "Fahrplanänderung_Hammerbrook_Wilhelmsburg_10-10-26.pdf",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "HH",
-        "SH",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "Bus S3EV",
-          "filterName": "Bus S3EV Hamburg",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "Bus S5EV",
-          "filterName": "Bus S5EV Hamburg",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 Hamburg",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "10.10.2026 17:38",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/195c54b6-d443-401b-93cd-ee0388f68ba7",
-      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_railway_section5"
-    },
-    {
       "id": "5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
       "disruptionId": "4e6e3071-26d5-49a0-b4e1-a3c6ea0d9bd1",
       "author": "S_BAHN_HH",
