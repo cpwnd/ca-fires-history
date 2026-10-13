@@ -151,6 +151,64 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other1"
     },
     {
+      "id": "01fc8028-3217-4c0e-9709-1163f0441b12",
+      "disruptionId": "d4e83826-f74a-4724-bb1c-c494a72bb266",
+      "author": "REGIO_MITTE",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Die Strecke zwischen Bensheim und Worms Hbf ist im Moment gesperrt.",
+      "summary": "Der Grund ist die Reparatur an einer Weiche.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Bensheim &lt;&gt; Worms Hbf</p><p>🕜<strong>Über die Dauer liegt uns leider noch keine Information vor.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>RB62 - Worms &lt;&gt; Hofheim &lt;&gt; Biblis </li><li>RB63 - Worms &lt;&gt; Bürstadt &lt;&gt; Bensheim </li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> In der Folge kommt es jetzt zu Verspätungen und Teilausfällen.</p><p>🚍&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Bussen ab 06:15 Uhr zwischen Worms Hbf und Bensheim für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
+      "durationBegin": "13.10.2026",
+      "durationEnd": "13.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/d4e83826-f74a-4724-bb1c-c494a72bb266",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-10-13/31d51ee2-573d-46c6-b8f6-c6b250af3553st%25C3%25B6rungskarte_20261013-052958.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-10-13/31d51ee2-573d-46c6-b8f6-c6b250af3553st%25C3%25B6rungskarte_20261013-052958.png",
+          "info": "",
+          "alt": "Störungskarte 13.10.2026 05:29:58",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-10-13/0298356d-c9dc-4e67-a766-ea539e0da27cst%25C3%25B6rungskarte_20261013-053049.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_mitte/2026-10-13/0298356d-c9dc-4e67-a766-ea539e0da27cst%25C3%25B6rungskarte_20261013-053049.png",
+          "info": "",
+          "alt": "Störungskarte 13.10.2026 05:30:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE",
+        "RP"
+      ],
+      "lines": [
+        {
+          "name": "RB 62",
+          "filterName": "RB 62",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 63",
+          "filterName": "RB 63",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.10.2026 05:34",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/01fc8028-3217-4c0e-9709-1163f0441b12",
+      "magnoliaPath": "/aktuell/mitte/no_service_technical_problem_railway_section7"
+    },
+    {
       "id": "eed4b99a-22e5-445c-9cce-de6d6d2d4fef",
       "disruptionId": "a150f200-8c35-4025-b5e9-21e62af2d60e",
       "author": "REGIO_NORD",
@@ -429,6 +487,127 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "41286d58-7ac5-420e-a172-9be8452ea53c",
+      "disruptionId": "0f40ae34-e745-4c6d-b0c6-02e7a4e0e011",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Derzeit Verspätungen auf der S3 und S5.",
+      "summary": "Auf der S3 und S5  kommt es derzeit zu Verspätungen. Grund: Technische Störung an der Strecke.",
+      "text": "<p></p>",
+      "durationBegin": "13.10.2026",
+      "durationEnd": "13.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/0f40ae34-e745-4c6d-b0c6-02e7a4e0e011",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "13.10.2026 10:21",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/41286d58-7ac5-420e-a172-9be8452ea53c",
+      "magnoliaPath": "/aktuell/nord/impairment_technical_problem_railway_section16"
+    },
+    {
+      "id": "d36fe924-062d-4e89-800a-7fbdd332aa61",
+      "disruptionId": "05b0f63d-5263-4193-880b-7ad407ce0502",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Technischer Defekt an einem Bahnübergang"
+      },
+      "headline": "Störung auf der Strecke",
+      "summary": "Störung am Bahnübergang ",
+      "text": "<p>Aufgrund einer Störung auf der Strecke kann es derzeit zu Verspätungen kommen. Bitte informieren Sie sich vor Fahrantritt über die aktuellen Verbindungen und beachten Sie hierzu die Durchsagen und Anzeigen vor Ort.</p><p>Wir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.</p>",
+      "durationBegin": "13.10.2026",
+      "durationEnd": "13.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/05b0f63d-5263-4193-880b-7ad407ce0502",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 50",
+          "filterName": "RE 50",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.10.2026 09:39",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d36fe924-062d-4e89-800a-7fbdd332aa61",
+      "magnoliaPath": "/aktuell/impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "aa5525a7-c888-4a58-8918-41776b85d6f6",
+      "disruptionId": "2048a3ca-712c-481c-9c34-0a1f1b61d95c",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Teil- und Zugausfälle zwischen Bad Wildungen - Wabern(Bz Kassel)",
+      "summary": "Im Regionalverkehr der Kurhessenbahn kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>RB39 / RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 13. Oktober bis vsl. 14:30 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Auf der RE39 kommt es zu Teilausfällen zwischen Bad Wildungen - Wabern(Bz Kassel).</li></ul><p></p><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Auf dem jeweils ausfallenden Abschnitt haben wir für Sie einen Ersatzverkehr mit 2 Bussen eingerichtet.</li><li>Beachten Sie, dass eine Fahrradmitnahme im Bus nicht garantiert werden kann.</li><li>Nutzen Sie alternativ die Buslinien 410, 450 und 500 zwischen Bad Wildungen und Wabern(Bz Kassel).</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog der Kurhessenbahn unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "13.10.2026",
+      "durationEnd": "13.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/2048a3ca-712c-481c-9c34-0a1f1b61d95c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "RB 39",
+          "filterName": "RB 39",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 39",
+          "filterName": "RE 39",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "13.10.2026 09:05",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/aa5525a7-c888-4a58-8918-41776b85d6f6",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section10"
     },
     {
       "id": "4657e349-f923-40d5-a91d-39ee61b8774c",
@@ -797,88 +976,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
-    },
-    {
-      "id": "8df92434-7157-4e8c-8415-5112dd019856",
-      "disruptionId": "1de9a9d0-2345-4202-be37-9b19a7ef8e56",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation für die Stammstrecke  in der Nacht Montag, den 12.10. auf Dienstag, den 13.10.2026 ",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke kommt es zwischen Pasing und Ostbahnhof/Riem/Giesing/Trudering  in der Nacht von Montag, den 12.10. auf Dienstag, den 13.10.2026  von 21:20 Uhr  bis 4:40 Uhr zu Fahrplanänderungen mit Umleitungen/Haltausfälle und Ersatzverkehr mit Bussen.",
-      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>S1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li><ul><li><strong>Züge </strong>in/aus <strong>Richtung Freising/Flughafen</strong> beginnen/enden am <strong>Hauptbahnhof Gl. 27-35</strong> (<strong>kein Halt</strong> an der<strong> Hackerbrücke</strong>). ). <strong>Zwischen Neufahrn und Flughafen/Airport besteht Ersatzverkehr mit Bussen aufgrund anderer Bauarbeiten - bitte beachten Sie die gesonderten Plakate.</strong></li></ul></li></ul><p><strong>S2 Erding ↔ Petershausen/Altomünster:</strong></p><ul><li><ul><li><strong>Züge </strong>in/aus Richtung <strong>Erding</strong> beginnen/enden am <strong>Ostbahnhof</strong> und fahren von/bis <strong>Riem</strong> <strong>ohne Halt. Zwischen Markt Schwaben und Erding besteht Ersatzverkehr mit Bussen aufgrund anderer Bauarbeiten - bitte beachten Sie die gesonderten Plakate.</strong></li></ul></li><li><strong>Züge</strong> in/aus Richtung Petershausen/Altomünster beginnen/enden am <strong>Isartor</strong></li></ul><p><strong>S3 Holzkirchen ↔ Mammendorf:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung <strong>Holzkirchen </strong>beginnen/enden in <strong>Giesing</strong></li><li><strong>Züge </strong>in/aus Richtung <strong>Mammendorf </strong>beginnen/enden in<strong> Pasing</strong></li></ul><p><strong>S4 Trudering ↔ Geltendorf:</strong></p><ul><li><strong>Züge </strong>in/aus <strong>Trudering</strong> <strong>fallen </strong>zwischen <strong>Trudering </strong>und <strong>Pasing aus</strong></li><li><strong>Züge </strong>in/aus Richtung <strong>Geltendorf </strong>beginnen/enden am <strong>Heimeranplatz Gl. 11</strong></li></ul><p><strong>S5 Kreuzstraße ↔ Pasing:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung <strong>Kreuzstraße </strong>beginnen/enden in <strong>Giesing</strong></li><li><strong>Zusätzliche Bauarbeiten </strong>zwischen <strong>Aying </strong>und <strong>Kreuzstraße </strong>mit <strong>Bus-Ersatzverkehr</strong></li><li><strong>Züge </strong>in/aus Richtung <strong>Pasing</strong> <strong>fallen </strong>zwischen <strong>Giesing </strong>und <strong>Pasing aus</strong></li></ul><p><strong>S 6/S 8 Ebersberg/Flughafen ↔ Tutzing/ Herrsching:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung <strong>Ebersberg </strong>beginnen/enden in <strong>Trudering</strong>. Es besteht <strong>Ersatzverkehr </strong>mit <strong>Bussen</strong> zwischen <strong>Trudering </strong>und <strong>Ostbahnhof</strong></li><li><strong>Züge </strong>in/aus Richtung <strong>Herrsching </strong>beginnen/enden in <strong>Pasing</strong>.</li><li><strong>Züge </strong>aus Richtung <strong>Tutzing fahren</strong> zum <strong>Ismaning </strong></li><li><strong>Züge </strong>aus Richtung <strong>Ismaning fahren</strong> nach <strong>Tutzing </strong><ul><li><strong>Zwischen Ismaning und Flughafen/Airport besteht Ersatzverkehr mit Bussen aufgrund anderer Bauarbeiten - bitte beachten Sie die gesonderten Plakate.</strong></li></ul></li></ul><p><strong>S7 Hauptbahnhof Gleis 36 ↔ Wolfratshausen:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung <strong>Wolfratshausen </strong>fahren <strong>planmäßig </strong>zwischen <strong>Hauptbahnhof </strong>und <strong>Wolfratshausen</strong></li></ul><p><strong>Hinweis:</strong></p><p><strong>Auf der Stammstrecke fährt nur eine Linie zwischen Ostbahnhof und Pasing. Die S 7 fährt planmäßig.</strong></p><p><strong>Es besteht ein Ersatzverkehr mit Bussen zwischen Ostbahnhof und Trudering</strong></p><p> </p><p></p><p>Fernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof.</p>",
-      "durationBegin": "12.10.2026",
-      "durationEnd": "13.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/1de9a9d0-2345-4202-be37-9b19a7ef8e56",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-12/d873c2d4-500e-44f4-ad3f-7fbc9f937e43st%25C3%25B6rungskarte_20260910-112323.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-12/d873c2d4-500e-44f4-ad3f-7fbc9f937e43st%25C3%25B6rungskarte_20260910-112323.png",
-          "info": "",
-          "alt": "Störungskarte 10.09.2026 11:23:23",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-12/81007c3c-1ec8-4d48-b4dd-5f3a106bef9cFpl%2BS1-S%2B8%252BSEV%2B12%2B-13%2BOkt%2B2026.pdf",
-          "label": "Stammstrecke Fahrplan 12 -13 Okt 2026.",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "12.10.2026 20:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8df92434-7157-4e8c-8415-5112dd019856",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction5"
     },
     {
       "id": "e3c0d4b2-cad6-450d-af62-e52f10d041fe",
