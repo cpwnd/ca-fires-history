@@ -307,62 +307,6 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "9971c008-3a5c-4222-9c0c-70d6361629c8",
-      "disruptionId": "a9fc5956-2436-456e-a194-2ec95facc6e2",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "Weichenstörung im Bahnhof Stockach mit Zugausfällen",
-      "summary": "Der Streckenabschnitt zwischen Radolfzell und  Stockach ist im Moment beeinträchtigt. Über die Dauer der Beeinträchtigung liegen uns noch keine Informationen vor. Der Grund ist die Reparatur an einer Weiche. In der Folge kommt es zu Zugausfällen. Es ist ein Ersatzverkehr mit Bussen zwischen Radolfzell und Stockach im Pendelbetrieb eingerichtet. Die erste Abfahrt in Stockach ist um 19:45 Uhr und in Radolfzell um 20:15 Uhr. ",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 3 (Ulm – Lindau / Friedrichshafen – Basel Bad Bf)</li><li>RB 31 (Radolfzell – Friedrichshafen)</li><li>S 61 (Radolfzell – Stockach)</li></ul><p></p><p></p><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "16.10.2026",
-      "durationEnd": "17.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/a9fc5956-2436-456e-a194-2ec95facc6e2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-16/ab865876-4e5b-4ba6-ba1a-ffd8df7abf29st%25C3%25B6rungskarte_20261016-194327.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-16/ab865876-4e5b-4ba6-ba1a-ffd8df7abf29st%25C3%25B6rungskarte_20261016-194327.png",
-          "info": "",
-          "alt": "Störungskarte 16.10.2026 19:43:27",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 31",
-          "filterName": "RB 31",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 3",
-          "filterName": "RE 3",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 61",
-          "filterName": "S 61",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "16.10.2026 20:16",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9971c008-3a5c-4222-9c0c-70d6361629c8",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section64"
-    },
-    {
       "id": "c1a9c7cb-df4b-4107-976d-b5a35efeb67e",
       "disruptionId": "b4f4840d-5bfd-44bc-a2e4-78f80fc6d0d5",
       "author": "FERNVERKEHR_AG",
@@ -1217,6 +1161,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/d9d65a68-d14a-48a6-8c9a-535791357ac8",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction1"
+    },
+    {
+      "id": "6aa376c3-94b2-4cf6-b01c-7566b51dbb60",
+      "disruptionId": "8f4d0f90-d21e-4ae3-a1ae-8883c2e8a6bd",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Endmeldung: S 1 Freising ↔ Neufahrn",
+      "summary": "Zwischen Freising und Neufahrn kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an der Strecke wurde beendet.</p>",
+      "durationBegin": "16.10.2026",
+      "durationEnd": "16.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/8f4d0f90-d21e-4ae3-a1ae-8883c2e8a6bd",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-16/5193ff4e-3ef9-495a-a097-e8c7652603f7st%25C3%25B6rungskarte_20261016-222950.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-16/5193ff4e-3ef9-495a-a097-e8c7652603f7st%25C3%25B6rungskarte_20261016-222950.png",
+          "info": "",
+          "alt": "Störungskarte 16.10.2026 22:29:50",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "16.10.2026 23:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6aa376c3-94b2-4cf6-b01c-7566b51dbb60",
+      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section77"
     },
     {
       "id": "dd05e0ce-588e-4ed1-9d0e-0e6b26b1bdcf",
