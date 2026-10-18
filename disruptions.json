@@ -408,6 +408,49 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
+      "id": "d9133f9c-990a-497d-b2e8-da4725fce6a0",
+      "disruptionId": "cc6d0fc0-2e4a-4663-ba1a-eb32f2db54d9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Emmerich und Oberhausen",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Emmerich und Oberhausen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Es kommt zu Umleitungen und Ausfällen im ICE - Verkehr zwischen Deutschland und den Niederlanden",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><p>ICE Linie Amsterdam - Düsseldorf - Köln - Frankfurt (München) </p><p>ICE Linie Amsterdam - Dortmund - Hannover (Hamburg/ Berlin)</p><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "18.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/cc6d0fc0-2e4a-4663-ba1a-eb32f2db54d9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-18/4f7e8d25-1481-43b7-80a3-69562e3a3a0dst%25C3%25B6rungskarte_20261018-083249.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-18/4f7e8d25-1481-43b7-80a3-69562e3a3a0dst%25C3%25B6rungskarte_20261018-083249.png",
+          "info": "",
+          "alt": "Störungskarte 18.10.2026 08:32:49",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "NW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "18.10.2026 09:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/d9133f9c-990a-497d-b2e8-da4725fce6a0",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section20"
+    },
+    {
       "id": "c1a9c7cb-df4b-4107-976d-b5a35efeb67e",
       "disruptionId": "b4f4840d-5bfd-44bc-a2e4-78f80fc6d0d5",
       "author": "FERNVERKEHR_AG",
