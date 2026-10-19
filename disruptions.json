@@ -68,6 +68,43 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
+      "id": "f0418a6f-1bb3-4430-99e9-ad81443fc06b",
+      "disruptionId": "6d6244e8-aad6-40ba-93ce-3cc6a766fef9",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Berlin und Dresden",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Berlin und Dresden kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Die Züge verspäten sich dadurch um etwa 15 Min.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle IC- und ICE-Züge zwischen Berlin und Dresden</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "19.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/6d6244e8-aad6-40ba-93ce-3cc6a766fef9",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "BE",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "19.10.2026 13:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/f0418a6f-1bb3-4430-99e9-ad81443fc06b",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section21"
+    },
+    {
       "id": "5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
       "disruptionId": "4e6e3071-26d5-49a0-b4e1-a3c6ea0d9bd1",
       "author": "S_BAHN_HH",
@@ -307,171 +344,6 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "f4becaa0-8520-4fef-a897-4e0af41a3328",
-      "disruptionId": "484eaf07-77e6-45b1-912c-6bde31e5ae63",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "Ersatzprogramm Ostbahnhof - Giesing: Reparatur an einem Signal",
-      "summary": "Zwischen dem Ostbahnhof und Giesing sind wieder uneingeschränkt Zugfahrten möglich. Bitte rechnen Sie mit Folgeverspätungen von bis zu 15 Minuten und mit Zugausfällen. ",
-      "text": "<p><strong>Die S-Bahnen der Linie S 1 Freising/Flughafen verkehren bis Hauptbahnhof Gleis 27-36, ohne Halt an der Hackerbrücke.&nbsp;Die Halte Leuchtenbergring – Hauptbahnhof (tief) entfallen.</strong></p><p></p><p><strong>S 5 Richtung Pasing/Weßling/Germering-Unterpfaffenhofen</strong></p><p>Die S-Bahnen fahren wieder auf dem Regelweg.</p><p></p><p><strong>S 5 Richtung Aying</strong></p><p>Die S-Bahnen fallen zwischen Giesing und Pasing/Weßling/Germering-Unterpfaffenhofen aus.</p><p><strong>Alternativen:</strong></p><p></p><ul><li>Bus 54 zwischen Ostbahnhof und Giesing</li><li>U2 zwischen Hauptbahnhof und Giesing</li></ul><p></p><p></p><p></p><p></p><p><strong>S 3 Mammendorf - Holzkirchen</strong></p><p>Die S-Bahnen fahren wieder auf Regelweg.</p><p>Die S-Bahnen der<strong> Linie S8 </strong>fahren ebenfalls wieder auf dem Regelweg.</p><p></p><p></p><p>Die Reparatur an einem Signal am Ostbahnhof wurde beendet.</p>",
-      "durationBegin": "19.10.2026",
-      "durationEnd": "19.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/484eaf07-77e6-45b1-912c-6bde31e5ae63",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-19/28e746c6-1167-4b7e-b7cd-82d8ff15abd0st%25C3%25B6rungskarte_20261019-075656.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-19/28e746c6-1167-4b7e-b7cd-82d8ff15abd0st%25C3%25B6rungskarte_20261019-075656.png",
-          "info": "",
-          "alt": "Störungskarte 19.10.2026 07:56:56",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.10.2026 08:44",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f4becaa0-8520-4fef-a897-4e0af41a3328",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section117"
-    },
-    {
-      "id": "6a80e99b-b965-4c4d-b6ec-d87ea808fa4e",
-      "disruptionId": "b1faf0b7-5e64-4d4b-a6d7-e72e3a9a8ae5",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 2 Dachau ↔ Ostbahnhof: Reparatur an der Strecke",
-      "summary": "Heute Vormittag fallen folgende Züge der Linie S 2 des 10-Minuten-Takts aus:",
-      "text": "<p><strong>S 2 Ostbahnhof → Dachau&nbsp;</strong></p><ul><li>S 2 Erding Abfahrt 06:17 Uhr → Ostbahnhof Abfahrt 06:46 Uhr → Dachau Bahnhof Ankunft 07:21 Uhr&nbsp;</li><li>S 2 Erding Abfahrt 06:37 Uhr → Ostbahnhof Abfahrt 07:06 Uhr → Dachau Bahnhof Ankunft 07:41 Uhr&nbsp;</li><li>S 2 Erding Abfahrt 07:17 Uhr → Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uhr&nbsp;</li><li>S 2<strong> </strong>Ostbahnhof Abfahrt 06:06 Uhr → Dachau Bahnhof Ankunft 06:41 Uhr&nbsp;</li><li>S 2 Ostbahnhof Abfahrt 06:46 Uhr → Dachau Bahnhof Ankunft 07:21 Uhr</li><li>S 2 Ostbahnhof Abfahrt 07:06 Uhr → Dachau Bahnhof Ankunft 07:41 Uhr</li><li>S 2 Ostbahnhof Abfahrt 07:26 Uhr → Dachau Bahnhof Ankunft 08:01 Uhr</li><li>S 2 Ostbahnhof Abfahrt 07:46 Uhr → Dachau Bahnhof Ankunft 08:21 Uhr</li><li>S 2 Ostbahnhof Abfahrt 08:06 Uhr → Dachau Bahnhof Ankunft 08:41 Uhr&nbsp;</li></ul><p><strong>S 2 Dachau → Ostbahnhof </strong></p><ul><li>S 2 Dachau Bahnhof Abfahrt 05:59 Uhr → Ostbahnhof Ankunft 06:30 Uhr</li><li>S 2 Dachau Bahnhof Abfahrt 06:19 Uhr → Ostbahnhof Ankunft 06:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 06:39 Uhr → Ostbahnhof Ankunft 07:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 07:19 Uhr → Ostbahnhof Ankunft 07:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 07:39 Uhr → Ostbahnhof Ankunft 08:10 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:19 Uhr → Ostbahnhof Ankunft 08:50 Uhr&nbsp;</li><li>S 2 Dachau Bahnhof Abfahrt 08:39 Uhr → Ostbahnhof Ankunft 09:10 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 2 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann. </p><p><strong>Ebenso entfallen die S-Bahnen der Linie S2 Altomünster zwischen Dachau Bahnhof und Ostbahnhof.</strong></p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "19.10.2026",
-      "durationEnd": "19.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/b1faf0b7-5e64-4d4b-a6d7-e72e3a9a8ae5",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-19/e8ec6235-62d4-4439-a9ce-2cf6583ec7cbst%25C3%25B6rungskarte_20261019-014808.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-19/e8ec6235-62d4-4439-a9ce-2cf6583ec7cbst%25C3%25B6rungskarte_20261019-014808.png",
-          "info": "",
-          "alt": "Störungskarte 19.10.2026 01:48:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.10.2026 06:16",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6a80e99b-b965-4c4d-b6ec-d87ea808fa4e",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section114"
-    },
-    {
-      "id": "a0510345-c5a9-46e5-8f9a-4ce451590ee5",
-      "disruptionId": "987a4911-b13b-4f81-9d50-ea19b0888e0a",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 3 Maisach <->  Deisenhofen: Reparatur an der Strecke",
-      "summary": "Heute Vormittag fallen folgende Züge der Linie S 3 des 10-Minuten-Takts aus:",
-      "text": "<p><strong>S 3 Maisach → Deisenhofen / Ostbahnhof</strong>&nbsp;</p><ul><li>S 3 Maisach Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:59 Uhr / Abfahrt 07:02 Uhr → Deisenhofen Ankunft 07:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 07:19 Uhr / Abfahrt 07:22 Uhr → Deisenhofen Ankunft 07:41 Uhr&nbsp;</li><li>S 3<strong> </strong>Maisach Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:39 Uhr / Abfahrt 07:42 Uhr → Deisenhofen Ankunft 08:01 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:59 Uhr / Abfahrt 08:02 Uhr → Deisenhofen Ankunft 08:21 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 08:19 Uhr / Abfahrt 08:22 Uhr → Deisenhofen Ankunft 08:41 Uhr</li><li>S 3 Maisach Abfahrt 08:00 Uhr → Ostbahnhof Ankunft 08:39 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:20 Uhr → Ostbahnhof Ankunft 08:59 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 08:40 Uhr → Ostbahnhof Ankunft 09:19 Uhr&nbsp;</li><li>S 3 Maisach Abfahrt 09:00 Uhr → Ostbahnhof Ankunft 09:39 Uhr&nbsp;</li></ul><p><strong>S 3 Deisenhofen → Maisach / Pasing</strong>&nbsp;</p><ul><li>S 3 Deisenhofen Abfahrt 06:20 Uhr → Ostbahnhof Ankunft 06:35 Uhr / Abfahrt 06:37 Uhr → Maisach Ankunft 07:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 06:40 Uhr → Ostbahnhof Ankunft 06:55 Uhr / Abfahrt 06:57 Uhr → Maisach Ankunft 07:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 07:00 Uhr → Ostbahnhof Ankunft 07:15 Uhr / Abfahrt 07:17 Uhr → Maisach Ankunft 07:58 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 07:20 Uhr → Ostbahnhof Ankunft 07:35 Uhr / Abfahrt 07:37 Uhr → Maisach Ankunft 08:18 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 07:40 Uhr → Ostbahnhof Ankunft 07:55 Uhr / Abfahrt 07:57 Uhr → Maisach Ankunft 08:38 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:00 Uhr → Pasing Ankunft 08:35 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:20 Uhr → Pasing Ankunft 08:55 Uhr&nbsp;</li><li>S 3 Deisenhofen Abfahrt 08:40 Uhr → Pasing Ankunft 09:15 Uhr&nbsp;</li></ul><p>Bitte beachten Sie, dass es heute Vormittag auf der Linie S 3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</p><p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "19.10.2026",
-      "durationEnd": "19.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/987a4911-b13b-4f81-9d50-ea19b0888e0a",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-19/21b0672d-c580-4b7c-84e8-bdf48bf47316st%25C3%25B6rungskarte_20261019-021910.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-19/21b0672d-c580-4b7c-84e8-bdf48bf47316st%25C3%25B6rungskarte_20261019-021910.png",
-          "info": "",
-          "alt": "Störungskarte 19.10.2026 02:19:10",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "19.10.2026 02:31",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a0510345-c5a9-46e5-8f9a-4ce451590ee5",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section115"
-    },
-    {
       "id": "c1a9c7cb-df4b-4107-976d-b5a35efeb67e",
       "disruptionId": "b4f4840d-5bfd-44bc-a2e4-78f80fc6d0d5",
       "author": "FERNVERKEHR_AG",
@@ -550,6 +422,96 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cbaa0839-3064-4104-b439-6467100f9cf1",
       "magnoliaPath": "/aktuell/impairment_construction0"
+    },
+    {
+      "id": "d4c1bfa8-96b0-4d25-a7ff-d052ac68cbd8",
+      "disruptionId": "0406e127-1dac-459b-964f-3458762ef0a9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S 3 Ostbahnhof -  Deisenhofen / Maisach: Ausfall einiger Züge des 10-Minuten-Takts",
+      "summary": "Heute Nachmittag entfallen auf der Linie S3 folgende S-Bahnen des 10-Minuten-Takts:",
+      "text": "<ul><li>S3 Pasing Abfahrt 15:41 Uhr - Deisenhofen Ankunft 16:21 Uhr</li><li>S3 Pasing Abfahrt 16:01 Uhr - Deisenhofen Ankunft 16:41 Uhr</li><li>S3 Pasing Abfahrt 16:20 Uhr - München Ost Ankunft 16:39 Uhr </li></ul><p></p><ul><li>S3 Maisach Abfahrt 17:20 Uhr - Deisenhofen Ankunft 18:21 Uhr</li><li>S3 Maisach Abfahrt 17:40 Uhr - Deisenhofen Ankunft 18:41 Uhr</li><li>S3 Maisach Abfahrt 18:00 Uhr - Deisenhofen Ankunft 19:01 Uhr</li></ul><p></p><ul><li>S3 München Ost Abfahrt 15:17 Uhr - Maisach Ankunft 15:58 Uhr</li><li>S3 München Ost Abfahrt 15:37 Uhr - Maisach Ankunft 16:18 Uhr</li><li>S3 München Ost Abfahrt 15:57 Uhr - Maisach Ankunft 16:38 Uhr</li><li>S3 München Ost Abfahrt 16:17 Uhr - Maisach Ankunft 16:58 Uhr</li></ul><p></p><ul><li>S3 Deisenhofen Abfahrt 16:20 Uhr - &nbsp;München Ost Abfahrt 16:35 Uhr - Maisach Ankunft 17:18 Uhr</li><li>S3 Deisenhofen Abfahrt 16:40 Uhr - Maisach Ankunft 17:38 Uhr</li><li>S3 Deisenhofen Abfahrt 18:40 Uhr - München Pasing Ankunft 19:15 Uhr</li></ul><p>Grund dafür ist eine Reparatur an der Strecke.</p><p></p><p></p>",
+      "durationBegin": "19.10.2026",
+      "durationEnd": "19.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/0406e127-1dac-459b-964f-3458762ef0a9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-19/11a7b00c-91cc-44a7-8602-712a19e6901est%25C3%25B6rungskarte_20261019-122107.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-19/11a7b00c-91cc-44a7-8602-712a19e6901est%25C3%25B6rungskarte_20261019-122107.png",
+          "info": "",
+          "alt": "Störungskarte 19.10.2026 12:21:07",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "19.10.2026 12:23",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/d4c1bfa8-96b0-4d25-a7ff-d052ac68cbd8",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section10"
+    },
+    {
+      "id": "75edf8e5-8f5d-4eb5-9945-1720395aa364",
+      "disruptionId": "7afc8829-dd11-4a6a-88de-f5da7e09fc00",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "S2 S 2 Dachau - Ostbahnhof: Ausfall des 10-Minuten-Takts ",
+      "summary": "Heute Nachmittag entfallen auf der Linie S2 die S-Bahnen des 10-Minuten-Takts.",
+      "text": "<p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p><p>Grund dafür ist eine Reparatur an der Strecke.</p>",
+      "durationBegin": "19.10.2026",
+      "durationEnd": "19.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/7afc8829-dd11-4a6a-88de-f5da7e09fc00",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-19/345758ff-5a9a-4a65-83d4-6f4c1c22d039st%25C3%25B6rungskarte_20261019-120000.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-19/345758ff-5a9a-4a65-83d4-6f4c1c22d039st%25C3%25B6rungskarte_20261019-120000.png",
+          "info": "",
+          "alt": "Störungskarte 19.10.2026 12:00:00",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "19.10.2026 12:02",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/75edf8e5-8f5d-4eb5-9945-1720395aa364",
+      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_railway_section9"
     },
     {
       "id": "e0315e3b-f7c2-47f4-820c-35e3be876f3f",
@@ -928,41 +890,73 @@
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
-      "id": "c7ea14ff-cfab-4a99-a12f-200ade60789b",
-      "disruptionId": "6c45fb5a-f8e7-4be4-9edf-a57ace9820f9",
-      "author": "S_BAHN_HH",
+      "id": "0ef5b74f-f84e-4418-ad45-53850fb90541",
+      "disruptionId": "6d09b18f-c621-441e-a1ae-9d72ffdd27fc",
+      "author": "REGIO_BW",
       "cause": {
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "🚧Busse statt S-Bahnen zw. Bergedorf und Aumühle",
-      "summary": "Am Montag den 19.10.2026 von 08:00 Uhr bis voraussichtlich 09:30 Uhr fährt keine S7 zwischen Bergedorf und Aumühle. Grund: Dringende Reparaturarbeiten an der Strecke. Nutzen Sie alternativ den eingerichteten Ersatzverkehr mit Bussen.",
-      "text": "<p>\t\t\t\t</p>",
-      "durationBegin": "18.10.2026",
-      "durationEnd": "19.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/6c45fb5a-f8e7-4be4-9edf-a57ace9820f9",
-      "images": [],
-      "downloads": [],
-      "links": [],
+      "headline": "Stuttgart Hbf ⇄ Tübingen Hbf:                                                              \nFahrplanänderungen, Zugausfälle und Ersatzverkehr mit Bus ",
+      "summary": "📅 Mittwoch, 04. November 2026, 04:45 Uhr bis Montag, 09. November 2026, 01:00 Uhr",
+      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li><li>MEX 12 (Mosbach-Neckarelz – Heilbronn – Stuttgart – Tübingen)</li></ul><p><strong>Zugausfälle:</strong></p><ul><li>RE 6 Stuttgart Hbf ⇄ Tübingen Hbf</li><li>MEX 12 Stuttgart Hbf ⇄ Plochingen</li></ul><p><strong>Ersatzverkehr mit Schnellbussen:</strong></p><ul><li>Stuttgart Hbf Pariser Platz ⇄ Tübingen ZOB West Bussteig R mit Halt in Degerloch B27 und Tübingen Hügelschule (im 60-Minuten-Takt)</li><li>Stuttgart Hbf Pariser Platz ⇄ Reutlingen ZOB mit Halt in Degerloch B27, Tannenbergstraße, Listplatz (im 60-Minuten-Takt von 06:00-10:00 und 15:00-19:00 Uhr)</li></ul><p><strong>Alternative Reisemöglichkeit:&nbsp;</strong>Stuttgart Hbf ⇄ Plochingen</p><ul><li>S-Bahn Linie S1, RE 5, MEX 16</li></ul><p><strong>Grund der Bauarbeiten: </strong>Gleisarbeiten</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p>",
+      "durationBegin": "04.11.2026",
+      "durationEnd": "09.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/6d09b18f-c621-441e-a1ae-9d72ffdd27fc",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-19/bcbe8c93-8ce0-4c0e-9f8e-afc07ad35788st%25C3%25B6rungskarte_20261016-153642.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-19/bcbe8c93-8ce0-4c0e-9f8e-afc07ad35788st%25C3%25B6rungskarte_20261016-153642.png",
+          "info": "",
+          "alt": "Störungskarte 16.10.2026 15:36:42",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-19/f51fbda6-88cc-429c-9596-696c7b616ecf%25F0%259F%259A%258C%2BBus-Ersatzfahrplan%2B1%252B2%2B.pdf",
+          "label": "🚌 Bus-Ersatzfahrplan ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://bahn.de",
+          "label": "Direkt zur Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
       "properties": [
-        "SBAHN"
+        "REGIONAL"
       ],
       "states": [
-        "HH"
+        "BW"
       ],
       "lines": [
         {
-          "name": "S 7",
-          "filterName": "S 7 Hamburg",
-          "property": "SBAHN"
+          "name": "RE 6",
+          "filterName": "RE 6",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE MEX12",
+          "filterName": "RE MEX12",
+          "property": "REGIONAL"
         }
       ],
-      "lastModified": "18.10.2026 22:38",
+      "lastModified": "19.10.2026 15:10",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c7ea14ff-cfab-4a99-a12f-200ade60789b",
-      "magnoliaPath": "/aktuell/nord/additional_service_construction0"
+      "detailPagePath": "/service/fahrplaene/0ef5b74f-f84e-4418-ad45-53850fb90541",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction5"
     },
     {
       "id": "14ff2279-375a-4642-91c1-120cb6593e48",
@@ -1153,6 +1147,42 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/42d4dbf9-b220-419c-ae41-da7c5ac15cfa",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction2"
+    },
+    {
+      "id": "51c493dd-5cf6-4689-9de3-9f24aabc98a3",
+      "disruptionId": "95bb62bf-cb2b-478c-bcb4-32bbce3e6dc7",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Streckenstörung",
+      "summary": "Beeinträchtigungen zwischen Tübingen und Sigmaringen",
+      "text": "<p>Vorübergehend verminderte Geschwindigkeit auf der Strecke Bitte rechnen Sie mit Verspätungen.</p><p>Betroffen sind die Züge der Linie RB66</p><p>Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p>",
+      "durationBegin": "24.09.2026",
+      "durationEnd": "12.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/95bb62bf-cb2b-478c-bcb4-32bbce3e6dc7",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "19.10.2026 10:43",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/51c493dd-5cf6-4689-9de3-9f24aabc98a3",
+      "magnoliaPath": "/aktuell/significant_delays_technical_problem_railway_section0"
     },
     {
       "id": "dd05e0ce-588e-4ed1-9d0e-0e6b26b1bdcf",
