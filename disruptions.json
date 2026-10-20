@@ -151,6 +151,87 @@
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other1"
     },
     {
+      "id": "aeb0c1df-b462-4257-9fba-4ba068585408",
+      "disruptionId": "48af666d-3fa6-4aae-85fc-378593190f5d",
+      "author": "REGIO_NORD",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Beeinträchtigung zwischen Ahrensburg und Hamburg-Rahlstedt",
+      "summary": "Bauarbeiten zwischen Ahrensburg und Hamburg-Rahlstedt beeinträchtigen den Zugverkehr auf den Linien RB 81, RE 8 und RE 80. Es kommt zu Verspätungen und Teilausfällen bis voraussichtlich 13:00 Uhr. ",
+      "text": "<p><strong>Betroffene Linien:</strong></p><ul><li>RB 81 (Bad Oldesloe – Hamburg Hbf): Die Züge fallen aus.</li><li>RE 8 (Lübeck Hbf – Hamburg Hbf): Die Züge halten zusätzlich in Ahrensburg.</li></ul><p>Die Linie RB 81 fällt aus. Bitte nutzen Sie alternativ die Züge der Linien RE 8 und RE 80 diese halten in Ahrensburg.</p><p>Bitte informieren Sie sich weiterhin unmittelbar vor Reiseantritt über Ihre Reiseverbindung in der Reiseauskunft unter bahn.de in der App DB Navigator oder beim regionalen Kundendialog unter 0431 53440500.&nbsp;</p><p>Bei Verspätungen und Zugausfällen informieren Sie sich bitte über Ihre gesetzlichen Ansprüche auf bahn.de/fahrgastrechte.&nbsp;</p><p>Bei entstehenden Reisezeitverlängerungen bedanken wir uns für Ihre Geduld.&nbsp;</p>",
+      "durationBegin": "20.10.2026",
+      "durationEnd": "20.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/48af666d-3fa6-4aae-85fc-378593190f5d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-10-20/26d6526e-858b-4503-9699-25b9166f56c6st%25C3%25B6rungskarte_20261020-034743.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_nord/2026-10-20/26d6526e-858b-4503-9699-25b9166f56c6st%25C3%25B6rungskarte_20261020-034743.png",
+          "info": "",
+          "alt": "Störungskarte 20.10.2026 03:47:43",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [
+        {
+          "href": "http://bahn.de",
+          "label": "bahn.de",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/mobile/db-navigator",
+          "label": "App DB Navigator ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.bahn.de/service/buchung/fahrgastrechte",
+          "label": "bahn.de/fahrgastrechte",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/schleswig-holstein/services/kontakt",
+          "label": "Regionaler Kundendialog Schleswig-Holstein",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "SH"
+      ],
+      "lines": [
+        {
+          "name": "RB 81",
+          "filterName": "RB 81",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 8",
+          "filterName": "RE 8",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 80",
+          "filterName": "RE 80",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "20.10.2026 08:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/aeb0c1df-b462-4257-9fba-4ba068585408",
+      "magnoliaPath": "/aktuell/nord/impairment_construction3"
+    },
+    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -467,6 +548,53 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/cbaa0839-3064-4104-b439-6467100f9cf1",
       "magnoliaPath": "/aktuell/impairment_construction0"
+    },
+    {
+      "id": "092b6faa-c6d7-447c-8f46-d4cd27e14392",
+      "disruptionId": "e97e4460-f7e7-424c-8fae-4500b80a4fb0",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "Derzeit Verspätungen und Ausfälle auf der S1, S3, S5 und S7.",
+      "summary": "Auf der S1, S3, S5 und S7  kommt es derzeit zu Verspätungen und Ausfällen. Grund: Personen im Gleisbereich. Nutzen Sie alternativ auch die U-Bahnen und Linienbusse.",
+      "text": "<p></p>",
+      "durationBegin": "20.10.2026",
+      "durationEnd": "20.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/e97e4460-f7e7-424c-8fae-4500b80a4fb0",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "20.10.2026 11:20",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/092b6faa-c6d7-447c-8f46-d4cd27e14392",
+      "magnoliaPath": "/aktuell/nord/reduced_service_police_activity1"
     },
     {
       "id": "e50d0656-8452-46ee-966b-721ac2012b25",
