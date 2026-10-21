@@ -68,6 +68,46 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
+      "id": "01ee24d5-d6e9-4363-80ba-7b36ebde5cac",
+      "disruptionId": "85f70ba4-93a7-4097-b75e-7adeca8b558c",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Magdeburg und Berlin",
+      "summary": "Aufgrund einer technischen Störung an der Strecke zwischen Magdeburg und Berlin kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge werden umgeleitet und verspäten sich dadurch um etwa 30 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Berlin - Magdeburg - Hannover - Hamm(Westf.) - Wuppertal/Düsseldorf - Köln</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "21.10.2026",
+      "durationEnd": "22.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/85f70ba4-93a7-4097-b75e-7adeca8b558c",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "ST",
+        "BE",
+        "NW",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "21.10.2026 18:03",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/01ee24d5-d6e9-4363-80ba-7b36ebde5cac",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/detour_technical_problem_railway_section3"
+    },
+    {
       "id": "98093835-3f8b-45ec-ad2c-3201e2161445",
       "disruptionId": "14693f7b-11fc-4a93-8993-5545e472ccd0",
       "author": "FERNVERKEHR_AG",
@@ -77,13 +117,13 @@
       },
       "headline": "Beeinträchtigungen zwischen Berlin und Elsterwerda",
       "summary": "Aufgrund einer technischen Störung an der Strecke bei Zossen kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Einzelne Züge und verspäten sich dadurch um bis zu 15 Minuten.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/EC/RJ/IC Züge zwischen Berlin und Dresden</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.&nbsp;Die Behebung der Störung soll vsl. bis [Prognose] erfolgen.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE/EC/RJ/IC Züge zwischen Berlin und Dresden</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Störungsbeseitigung.</p><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
       "durationBegin": "20.10.2026",
       "mapHref": "https://karte.bahn.de/detail/14693f7b-11fc-4a93-8993-5545e472ccd0",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-20/8581512f-e4c0-44b7-a881-b7fab8762bcbst%25C3%25B6rungskarte_20261020-114210.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-20/8581512f-e4c0-44b7-a881-b7fab8762bcbst%25C3%25B6rungskarte_20261020-114210.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-21/ef5b733c-79d4-4119-a9b2-ca56405db22ast%25C3%25B6rungskarte_20261020-114210.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-21/ef5b733c-79d4-4119-a9b2-ca56405db22ast%25C3%25B6rungskarte_20261020-114210.png",
           "info": "",
           "alt": "Störungskarte 20.10.2026 11:42:10",
           "openInNewTab": true
@@ -106,7 +146,7 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "20.10.2026 11:44",
+      "lastModified": "21.10.2026 18:04",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/98093835-3f8b-45ec-ad2c-3201e2161445",
@@ -605,6 +645,43 @@
       "magnoliaPath": "/aktuell/impairment_construction0"
     },
     {
+      "id": "a28f18a4-fd26-4c1e-a4ba-4f814a28d48b",
+      "disruptionId": "2871416e-645c-47de-b2e9-26ad526b9abd",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "Streckensperrung",
+      "summary": "Aufgrund einer Streckensperrung kommt es es derzeit zu Ausfällen auf der Strecke Donaueschingen - Immendingen.",
+      "text": "<p>Aufgrund einer Streckensperrung kommt es es derzeit zu Verspätungen. Es kann außerdem zu Teilausfällen und Zugausfällen kommen. Bitte berücksichtigen Sie dies bei Ihrer Reiseplanung.</p><p>Wir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.</p>",
+      "durationBegin": "21.10.2026",
+      "durationEnd": "22.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/2871416e-645c-47de-b2e9-26ad526b9abd",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "21.10.2026 18:16",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/a28f18a4-fd26-4c1e-a4ba-4f814a28d48b",
+      "magnoliaPath": "/aktuell/reduced_service_technical_problem_railway_section0"
+    },
+    {
       "id": "8d4d4d41-2569-4696-9b93-3e3ca89ecb40",
       "disruptionId": "f3e43720-d949-4d06-b4ac-c07315f7b300",
       "author": "S_BAHN_RM",
@@ -653,80 +730,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/8d4d4d41-2569-4696-9b93-3e3ca89ecb40",
       "magnoliaPath": "/aktuell/hessen/reduced_service_technical_problem_railway_section0"
-    },
-    {
-      "id": "841a60bc-4dcc-433e-b125-e14f6c086cca",
-      "disruptionId": "d1e9ee98-458d-450d-90b4-b5ebc5c48e2b",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
-      },
-      "headline": "S1 heute nur zw. Poppenbüttel u. Othmarschen alle 5 Min.",
-      "summary": "Die S1 fährt heute zwischen Poppenbüttel und Othmarschen alle 5 Minuten. Grund: Weichenstörung.",
-      "text": "<p>Zwischen Othmarschen und Blankenese fahren die Züge nur alle 10 Minuten. Beachten Sie zudem den baustellenbedingten abweichenden Fahrtweg der S1-Verstärkerzüge von Altona in Richtung Hauptbahnhof über Sternschanze und Dammtor statt über Landungsbrücken und Jungfernstieg. Achten Sie hierzu auf die Anzeiger am Bahnsteig sowie in den Zügen.</p>",
-      "durationBegin": "21.10.2026",
-      "durationEnd": "21.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/d1e9ee98-458d-450d-90b4-b5ebc5c48e2b",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.10.2026 14:33",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/841a60bc-4dcc-433e-b125-e14f6c086cca",
-      "magnoliaPath": "/aktuell/nord/reduced_service_technical_problem_railway_section4"
-    },
-    {
-      "id": "a28f18a4-fd26-4c1e-a4ba-4f814a28d48b",
-      "disruptionId": "2871416e-645c-47de-b2e9-26ad526b9abd",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Streckensperrung"
-      },
-      "headline": "Streckensperrung",
-      "summary": "Aufgrund einer Streckensperrung kommt es es derzeit zu Verspätungen. Es kann außerdem zu Teilausfällen und Zugausfällen kommen. Bitte berücksichtigen Sie dies bei Ihrer Reiseplanung.\nWir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.",
-      "text": "<p>Aufgrund einer Streckensperrung kommt es es derzeit zu Verspätungen. Es kann außerdem zu Teilausfällen und Zugausfällen kommen. Bitte berücksichtigen Sie dies bei Ihrer Reiseplanung.</p><p>Wir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.</p>",
-      "durationBegin": "21.10.2026",
-      "durationEnd": "21.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/2871416e-645c-47de-b2e9-26ad526b9abd",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "21.10.2026 12:10",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a28f18a4-fd26-4c1e-a4ba-4f814a28d48b",
-      "magnoliaPath": "/aktuell/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "e0315e3b-f7c2-47f4-820c-35e3be876f3f",
@@ -867,6 +870,56 @@
       "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_vehicle"
     },
     {
+      "id": "9c55d20a-00b1-48aa-a613-2ae8a0f65360",
+      "disruptionId": "0a678d98-4a96-4d20-8243-1935215dfe81",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Biederitz ⇄ Magdeburg Hbf - Haltausfälle",
+      "summary": "Der Streckenabschnitt von Biederitz bis Magdeburg Hbf ist im Moment beeinträchtigt. Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE13 Magdeburg – Dessau – Leipzig</li><li>RB40 Genthin – Burg (Magdeburg) – Magdeburg – Helmstedt – Braunschweig</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an einem Signal.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Bitte rechnen Sie mit hohen Verspätungen und vereinzelt Teilausfällen.</p><p>↪️&nbsp;<strong>Alternative:</strong> Bitte prüfen Sie Ihre Reiseverbindung kurz vor der Abfahrt des Zuges.</p>",
+      "durationBegin": "21.10.2026",
+      "durationEnd": "21.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/0a678d98-4a96-4d20-8243-1935215dfe81",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-10-21/8e1f02f1-680a-41f2-a352-36ffcd36a383st%25C3%25B6rungskarte_20261021-210016.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-10-21/8e1f02f1-680a-41f2-a352-36ffcd36a383st%25C3%25B6rungskarte_20261021-210016.png",
+          "info": "",
+          "alt": "Störungskarte 21.10.2026 21:00:16",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "ST"
+      ],
+      "lines": [
+        {
+          "name": "RB 40",
+          "filterName": "RB 40",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 13",
+          "filterName": "RE 13 Mitteldeutschland",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.10.2026 21:02",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/9c55d20a-00b1-48aa-a613-2ae8a0f65360",
+      "magnoliaPath": "/aktuell/suedost/stop_moved_technical_problem_railway_section2"
+    },
+    {
       "id": "e974e517-b2c1-4359-825e-30042010c1a4",
       "disruptionId": "6113b569-e558-4c0a-8a80-5b9d6d68fd48",
       "author": "S_BAHN_RM",
@@ -969,6 +1022,155 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
+    },
+    {
+      "id": "6cd7d59c-f517-4306-abc0-2031a218a01d",
+      "disruptionId": "378c196c-9138-4683-8a8d-c0a70b9e758d",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die Stammstrecke in den Nächten Mittwoch/Donnerstag, 21./22.10.  und Donnerstag/Freitag, 22./23.10.2026",
+      "summary": "wegen Oberleitungsarbeiten kommt es in den Nächten Mittwoch/Donnerstag, 21./22.10.  bis Donnerstag/Freitag, 22./23.10.2026, jeweils von 23:15 Uhr bis 5:00 Uhr zwischen Pasing  ↔ Ostbahnhof zu Fahrplanänderungen mit mit Zugausfälle und geänderte Abfahrtszeiten.",
+      "text": "<p></p><p><strong>Änderung im Fahrplan:</strong></p><p></p><p><strong>❗Zwischen Ostbahnhof und Pasing fährt nur die S3 als einzige Linie im 30-Minuten-Takt ❗</strong></p><p></p><p><strong>S1 Leuchtenbergring ↔ Freising/Flughafen:</strong></p><ul><li>Züge in/aus Richtung Freising/Flughafen beginnen/enden am Hauptbahnhof (oben) und fahren von/bis Moosach ohne Halt</li></ul><p><strong>S2 Erding ↔ Petershausen/Altomünster </strong>/ <strong>S5 Kreuzstraße ↔ Pasing:</strong></p><ul><li>Züge in/aus Richtung Petershausen beginnen/enden am Heimeranplatz Gl. 11 und fahren von/bis Obermenzing ohne Halt im 30-Minuten-Takt</li><li>Züge aus Richtung Ostbahnhof/Riem fahren als S5 zur Kreuzstraße</li><li>Züge aus Richtung Kreuzstraße fahren als S2 zum Ostbahnhof bzw. nach Riem</li><li><strong>Zwischen Ostbahnhof/Riem und Erding besteht aufgrund anderer Bauarbeiten Ersatzverkehr mit Bussen</strong></li></ul><p><strong>S3 Holzkirchen ↔ Mammendorf:</strong>:</p><ul><li>Züge fahren zwischen Holzkirchen und Mammendorf im 30-Minuten-Takt</li></ul><p><strong>S4 Trudering ↔ Geltendorf:</strong></p><ul><li>Züge in/aus Richtung Geltendorf beginnen/enden in Pasing Gl. 7</li><li>Züge in/aus Richtung Trudering fallen zwischen Trudering und Pasing aus</li></ul><p><strong>S6 Ebersberg ↔ Tutzing:</strong></p><ul><li>Züge in/aus Richtung Ebersberg beginnen/enden am Ostbahnhof Gl. 2</li><li>Züge in/aus Richtung Tutzing beginnen/enden am Hauptbahnhof (oben) und fahren von/bis Pasing ohne Halt</li></ul><p><strong>S8 Flughafen ↔ Herrsching</strong>:</p><ul><li>Züge aus Richtung Herrsching fahren ab Pasing Gl. 5 ohne Halt bis Ostbahnhof Gl. 6-13 und weiter ohne Halt bis Daglfing zum Flughafen/Airport</li></ul><p></p><p><strong>❗Züge aus Richtung Flughafen/Airport fahren ab Daglfing ohne Halt bis Ostbahnhof Gl. 6-13 und weiter ohne Halt bis Pasing Gl. 2 nach Herrsching ❗</strong></p><p></p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
+      "durationBegin": "21.10.2026",
+      "durationEnd": "23.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/378c196c-9138-4683-8a8d-c0a70b9e758d",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/dbc43a26-7b49-4b25-bcdd-b8eade9fb0b7st%25C3%25B6rungskarte_20261017-073108.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/dbc43a26-7b49-4b25-bcdd-b8eade9fb0b7st%25C3%25B6rungskarte_20261017-073108.png",
+          "info": "",
+          "alt": "Störungskarte 17.10.2026 07:31:08",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/4b96bb80-9e1b-4f50-9f18-ec6c30d774c3Fpl%2BOL%2Beingl%2BMIT-MHAB%2BS%2B1-S%2B8%2B21-23%2BOkt%2B2026%2B%25284%2529.pdf",
+          "label": "Stammstrecke Fahrplan 21-23 Okt 2026 ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.10.2026 21:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/6cd7d59c-f517-4306-abc0-2031a218a01d",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction8"
+    },
+    {
+      "id": "64b774cd-1cf2-4ec6-ad95-b0288ffa3982",
+      "disruptionId": "b7a395d9-8c92-46cc-a401-c4dfa24df5b0",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Stammstrecke Baustelleninformation Pasing ↔ Ostbahnhof/Riem/ Trudering  Nächte 21./22. und 22./23. Oktober (Betriebslage)",
+      "summary": "Wegen Oberleitungsarbeiten kommt es in den Nächten Mittwoch/Donnerstag, 21./22.10. und Donnerstag/Freitag, 22./23.10.2026 bis Freitag, 22./23.10.2026, jeweils von 23:15  bis 5 Uhr zwischen Pasing ↔ Ostbahnhof/Riem/ Trudering  zu Fahrplanänderungen mit Umleitungen und Haltausfällen .",
+      "text": "<p><strong>Änderung im Fahrplan:</strong></p><p><strong>Zwischen Ostbahnhof und Pasing fährt nur die S3 als einzige Linie im 30-Minuten-Takt.</strong></p><p><strong>S1:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung<strong> Freising/Flughafen</strong> beginnen/enden am <strong>Hauptbahnhof</strong> <strong>(oben)</strong> und fahren von/bis <strong>Moosach ohne Halt.</strong></li></ul><p><strong>S2/S5:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung<strong> Petershausen</strong> beginnen/enden am <strong>Heimeranplatz Gl.</strong> <strong>11 </strong>und fahren von/bis <strong>Obermenzing ohne Halt</strong> im <strong>30-Minuten-Takt.</strong></li><li><strong>Züge </strong>aus Richtung <strong>Ostbahnhof/Riem</strong> fahren als <strong>S5 </strong>nach <strong>Aying.</strong></li><li><strong>Züge </strong>aus Richtung <strong>Aying </strong>fahren als<strong> S2</strong> zum <strong>Ostbahnhof/Riem.</strong></li><li><strong>Zwischen Ostbahnhof/Riem und Erding besteht Ersatzverkehr mit Bussen aufgrund anderer Bauarbeiten&nbsp;- bitte beachten Sie die gesonderten Plakate. </strong></li><li><strong>Zwischen Aying und Kreuzstraße besteht Ersatzverkehr mit Bussen aufgrund anderer Bauarbeiten </strong><strong>&nbsp;- bitte beachten Sie die gesonderten Plakate</strong><strong>.</strong></li></ul><p></p><p><strong>S3:</strong></p><ul><li><strong>Züge </strong>fahren zwischen <strong>Holzkirchen </strong>und <strong>Mammendorf </strong>im <strong>30-Minuten-Takt.</strong></li></ul><p><strong>S4:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung <strong>Geltendorf</strong> beginnen/enden in <strong>Pasing Gl. 7.</strong></li><li><strong>Züge </strong>in/aus Richtung <strong>Trudering fallen</strong> zwischen <strong>Trudering</strong> und <strong>Pasing aus.</strong></li></ul><p><strong>S6:</strong></p><ul><li><strong>Züge </strong>in/aus Richtung <strong>Ebersberg </strong>beginnen/enden am <strong>Ostbahnhof Gl. 2.</strong></li><li><strong>Züge </strong>in/aus Richtung <strong>Tutzing </strong>beginnen/enden am<strong> Hauptbahnhof (oben)</strong> und fahren von/bis <strong>Pasing ohne Halt.</strong></li></ul><p><strong>S8:</strong></p><ul><li><strong>Züge </strong>aus Richtung <strong>Herrsching </strong>fahren <strong>ab</strong> <strong>Pasing Gl. 5 ohne Halt</strong> bis <strong>Ostbahnhof Gl. 6-13 </strong>und weiter <strong>ohne Halt </strong>bis <strong>Daglfing</strong> zum <strong>Flughafen/Airport.</strong></li><li><strong>Züge</strong> aus Richtung<strong> Flughafen/Airport </strong>fahren ab <strong>Daglfing ohne Halt</strong> bis <strong>Ostbahnhof Gl. 6-13</strong> und weiter <strong>ohne Halt </strong>bis <strong>Pasing Gl. 2</strong> nach <strong>Herrsching.</strong></li></ul><p>Fernverkehrsfahrkarten der Deutschen Bahn und Fahrkarten nach dem Deutschland-Tarif gelten auch in den MVG-Verkehrsmitteln zur Fahrt zum nächsten Bahnhof.</p>",
+      "durationBegin": "21.10.2026",
+      "durationEnd": "23.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/b7a395d9-8c92-46cc-a401-c4dfa24df5b0",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/f70b7396-9369-42d0-988b-c71fcee57ee9st%25C3%25B6rungskarte_20261017-072800.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/f70b7396-9369-42d0-988b-c71fcee57ee9st%25C3%25B6rungskarte_20261017-072800.png",
+          "info": "",
+          "alt": "Störungskarte 17.10.2026 07:28:00",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/9ac21da2-ff85-4986-8b41-db8125dfe24aFpl%2BOL%2Beingl%2BMIT-MHAB%2BS%2B1-S%2B8%2B21-23%2BOkt%2B2026.pdf",
+          "label": "Stammstrecke Fahrplan 21-23 Okt 2026.",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "21.10.2026 21:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/64b774cd-1cf2-4ec6-ad95-b0288ffa3982",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction7"
     },
     {
       "id": "5797685d-bd35-4cac-a99f-38dfab8843ce",
