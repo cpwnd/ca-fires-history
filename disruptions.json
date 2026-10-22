@@ -162,22 +162,22 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": "Für die Übersicht bitte die Meldung aufklappen:",
-      "text": "<p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Heimfeld</p><p></p><p>❌ Alte Wöhr (Stadtpark)</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Mitte Oktober 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Oktober 2026.</p><p></p><p>🚧 Buxtehude =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Oktober 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>❌ Heimfeld</p><p></p><p>🚧 Bergedorf Aufzug B (Gleis 3 / 4) =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Oktober 2026.</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Oktober 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "02.10.2026",
-      "durationEnd": "23.10.2026",
+      "durationEnd": "30.10.2026",
       "mapHref": "https://karte.bahn.de/detail/4e6e3071-26d5-49a0-b4e1-a3c6ea0d9bd1",
       "images": [],
       "downloads": [],
       "links": [
         {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         }
@@ -228,12 +228,63 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "16.10.2026 12:16",
+      "lastModified": "22.10.2026 10:06",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other1"
+    },
+    {
+      "id": "bb75f3fa-5f31-43f0-b803-fd21158606f7",
+      "disruptionId": "5ea20589-f80d-4d5f-9000-393207ce0654",
+      "author": "REGIO_NORDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Verkehrsmeldung für die Linie RB14 ",
+      "summary": "Donnerstag, 22.10.2026 12:44 Uhr bis vsl. Donnerstag, 22.10.2026 23:59 Uhr ",
+      "text": "<p>Aufgrund Streckenstörung kommt es zu Ausfall aller Züge der RB14 bis auf Weiteres zwischen Berlin-Spandau und Nauen. Grund: Reparatur an einer Weiche. Nutzen Sie die Züge der RE2 oder RE8.</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator, auf bahn.de oder in der VBB-App \"Bus&amp;Bahn\".</p>",
+      "durationBegin": "22.10.2026",
+      "durationEnd": "22.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/5ea20589-f80d-4d5f-9000-393207ce0654",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://www.bahn.de",
+          "label": "DB-Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.vbb.de/fahrinfo/",
+          "label": "VBB-fahrinfo",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BB",
+        "BE"
+      ],
+      "lines": [
+        {
+          "name": "RB 14",
+          "filterName": "RB 14",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.10.2026 13:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/bb75f3fa-5f31-43f0-b803-fd21158606f7",
+      "magnoliaPath": "/aktuell/nordost/reduced_service_technical_problem_railway_section0"
     },
     {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
@@ -280,6 +331,51 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "cf117a97-760f-4423-b185-67c28b601431",
+      "disruptionId": "4da79f2e-e441-44fe-8591-b81650161375",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Beschädigung einer Brücke"
+      },
+      "headline": "Derzeit keine S1 zw. Ohlsdorf u. Poppenbüttel",
+      "summary": "Derzeit fährt keine S1 zwischen Ohlsdorf und Poppenbüttel. Grund: Brückenanfahrt durch einen LKW. Nutzen Sie alternativ den Ersatzverkehr mit Bussen und Taxis.",
+      "text": "<p>Ersatzverkehr mit Bussen und Taxis ist eingerichtet.</p>",
+      "durationBegin": "22.10.2026",
+      "durationEnd": "22.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/4da79f2e-e441-44fe-8591-b81650161375",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-22/c62ccdc2-48e6-45bb-b61a-df29e5fab693st%25C3%25B6rungskarte_20261022-125641.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-22/c62ccdc2-48e6-45bb-b61a-df29e5fab693st%25C3%25B6rungskarte_20261022-125641.png",
+          "info": "",
+          "alt": "Störungskarte 22.10.2026 12:56:41",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.10.2026 12:57",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/cf117a97-760f-4423-b185-67c28b601431",
+      "magnoliaPath": "/aktuell/nord/no_service_technical_problem_railway_section3"
     },
     {
       "id": "a6375cfc-0649-4236-9971-d640b5363378",
@@ -477,6 +573,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "8c45cd73-5d63-466b-82fb-3c85c6ed98d9",
+      "disruptionId": "31ef7da8-1ba0-4aad-8c86-cc168a0b7274",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S3/S5: Significantly increased ridership from October 26 to November 22, 2026 ",
+      "summary": "From October 26 to November 22, 2026, extensive track construction work will take place between the Central Station and Harburg. During this time, nearly all RE and RB trains, as well as the majority of long-distance trains, will be canceled. We expect a significant increase in ridership on the S3 and S5 lines during this time. Please allow extra travel time for your trip between the Central Station and Harburg and note the following information:",
+      "text": "<p>The S3 and S5 run every 10 minutes during the day. Please use the entire platform when boarding and exiting. After boarding, please spread out throughout the train.</p><p></p><p>After boarding, move from the door area into the aisles, stow your carry-on and checked luggage under the seats and avoid blocking empty seats with backpacks and/or bags. Also,please avoid standing near the doors while the train is stopped so that the doors can close automatically and the train can depart promptly. Information on the arrival time of the next train is displayed on the platform screens.</p><p></p><p>Passengers with orthopedic aids, wheelchairs, and strollers have priority on heavily crowded trains. Please refrain from bringing bicycles, scooters, and handcarts. Storing luggage and bicycles is not permitted in the first door area or on the appropriately marked emergency exits.</p><p></p><p>During your trip, please avoid boarding or exiting at the Central Station and use alternative stations instead. You can also reach downtown Hamburg via the Jungfernstieg or Dammtor stations, or from the direction of Harburg via the Elbbrücken station with a transfer to the U4.</p><p></p><p>Please pay attention to announcements and information, and follow the instructions of our operations and security staff.</p>",
+      "durationBegin": "22.10.2026",
+      "durationEnd": "25.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/31ef7da8-1ba0-4aad-8c86-cc168a0b7274",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-22/0d52cc95-22d6-4b74-9be2-684442b29494st%25C3%25B6rungskarte_20261022-123038.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-22/0d52cc95-22d6-4b74-9be2-684442b29494st%25C3%25B6rungskarte_20261022-123038.png",
+          "info": "",
+          "alt": "Störungskarte 22.10.2026 12:30:38",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.10.2026 12:31",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/8c45cd73-5d63-466b-82fb-3c85c6ed98d9",
+      "magnoliaPath": "/aktuell/nord/impairment_construction4"
     },
     {
       "id": "e69e6c98-2d34-4dc3-9a9f-c8d967e501be",
@@ -946,8 +1092,8 @@
       "mapHref": "https://karte.bahn.de/detail/304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-20/dbf5b364-259c-4f6a-b29e-b22bfb2a3996st%25C3%25B6rungskarte_20260814-093355.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-20/dbf5b364-259c-4f6a-b29e-b22bfb2a3996st%25C3%25B6rungskarte_20260814-093355.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/45202d44-b6c2-4f78-b086-76ed152784a2st%25C3%25B6rungskarte_20260814-093355.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/45202d44-b6c2-4f78-b086-76ed152784a2st%25C3%25B6rungskarte_20260814-093355.png",
           "info": "",
           "alt": "Störungskarte 14.08.2026 09:33:55",
           "openInNewTab": true
@@ -968,11 +1114,66 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.10.2026 17:39",
-      "expand": true,
+      "lastModified": "21.10.2026 12:10",
+      "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5797685d-bd35-4cac-a99f-38dfab8843ce",
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section1"
+    },
+    {
+      "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
+      "disruptionId": "da344a9c-595e-4d34-995d-f76ec60d5f15",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "🚧 Korridorsanierung: Obertraubling - Passau vom 14. Juni bis 12. Dezember",
+      "summary": "Am 14. Juni startet die Generalsanierung der Strecke Obertraubling - Passau und führt zu weitreichenden Änderungen im Regional- und Fernverkehr. ",
+      "text": "<p>🚉 <strong>Betroffene Linien: </strong>RE 3</p><p>❌&nbsp;<strong>Einschränkungen</strong>: Ausfälle, Fahrplanänderungen und Ersatzverkehr</p><p>↪️<strong>&nbsp;Alternative</strong>: Ersatzverkehr mit Bussen</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>✅ Auf&nbsp;<strong>www.bahn.de&nbsp;sowie in der App DB Navigator </strong>sind die aktuellen Fahrplandaten abrufbar.</p>",
+      "durationBegin": "15.06.2026",
+      "durationEnd": "12.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/da344a9c-595e-4d34-995d-f76ec60d5f15",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-21/bbcc5982-47dd-4fab-84e1-d676f4e62723EV-Minifolder-Obertraubling-Passau-85x55-4c-RZ-purpur.pdf",
+          "label": "Korridorsanierung: Obertraubling-Passau - wichtige Infos zum Ersatzverkehr ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Obertraubling-Passau",
+          "label": "Korridorsanierung Obertraubling - Passau",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus EV",
+          "filterName": "Bus EV",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus RE3",
+          "filterName": "Bus RE3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.10.2026 10:45",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "e3c0d4b2-cad6-450d-af62-e52f10d041fe",
@@ -1011,32 +1212,46 @@
       "magnoliaPath": "/aktuell/unknown_effect_other_cause"
     },
     {
-      "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
-      "disruptionId": "da344a9c-595e-4d34-995d-f76ec60d5f15",
-      "author": "REGIO_BY",
+      "id": "bb6a2527-f2e0-416c-97a1-c7572c302839",
+      "disruptionId": "b9b353b2-9c2c-4a06-a0ef-6ecb5558afa2",
+      "author": "REGIO_BW",
       "cause": {
         "category": "construction",
         "label": "Bauarbeiten"
       },
-      "headline": "🚧 Korridorsanierung: Obertraubling - Passau vom 14. Juni bis 12. Dezember",
-      "summary": "Am 14. Juni startet die Generalsanierung der Strecke Obertraubling - Passau und führt zu weitreichenden Änderungen im Regional- und Fernverkehr. ",
-      "text": "<p>🚉 <strong>Betroffene Linien: </strong>RE 3</p><p>❌&nbsp;<strong>Einschränkungen</strong>: Ausfälle, Fahrplanänderungen und Ersatzverkehr</p><p>↪️<strong>&nbsp;Alternative</strong>: Ersatzverkehr mit Bussen</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>✅ Auf&nbsp;<strong>www.bahn.de&nbsp;sowie in der App DB Navigator </strong>sind die aktuellen Fahrplandaten abrufbar.</p>",
-      "durationBegin": "15.06.2026",
-      "durationEnd": "12.12.2026",
-      "mapHref": "https://karte.bahn.de/detail/da344a9c-595e-4d34-995d-f76ec60d5f15",
-      "images": [],
+      "headline": "Ulm Hbf ⇄ Blaubeuren:                                                              \nZugausfälle und Ersatzverkehr mit Bus",
+      "summary": "📅 Freitag, 04. Dezember 2026, 23:30 Uhr bis Samstag, 05. Dezember 2026, 06:00 Uhr",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RB 55</li></ul><p><strong>Zugausfälle und Ersatzverkehr mit Bussen:</strong> Ulm Hbf ⇄ Blaubeuren</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Ersatzhaltestellen:</strong> Blaubeuren Bahnhof, Gerhausen Hauptstraße, Herrlingen Bahnhof Bussteig 3, Blaustein ZOB, Ulm Söflingen Jägerstraße, Ulm Hbf/ZOB Bussteig</p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong></p><p><strong>Grund der Bauarbeiten: </strong>Schienenerneuerung</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p><p>*66709</p>",
+      "durationBegin": "04.12.2026",
+      "durationEnd": "05.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/b9b353b2-9c2c-4a06-a0ef-6ecb5558afa2",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-22/6a112dec-69ce-4aa0-86ff-2945e1a0717fst%25C3%25B6rungskarte_20261022-081708.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-22/6a112dec-69ce-4aa0-86ff-2945e1a0717fst%25C3%25B6rungskarte_20261022-081708.png",
+          "info": "",
+          "alt": "Störungskarte 22.10.2026 08:17:08",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-06-17/93e92c92-633e-4af7-a352-cb35cce4f039EV-Minifolder-Obertraubling-Passau-85x55-4c-RZ-purpur.pdf",
-          "label": "Korridorsanierung: Obertraubling-Passau - wichtige Infos zum Ersatzverkehr ",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-22/33a9c272-a09b-4acc-ab26-a06f7a009878%25F0%259F%259A%258C%2B%2BBus%2B-%2BErsatzfahrplan.pdf",
+          "label": "🚌  Bus - Ersatzfahrplan",
           "info": "",
           "openInNewTab": true
         }
       ],
       "links": [
         {
-          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Obertraubling-Passau",
-          "label": "Korridorsanierung Obertraubling - Passau",
+          "href": "https://bahn.de",
+          "label": "Direkt zur Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
           "info": "",
           "openInNewTab": true
         }
@@ -1045,25 +1260,89 @@
         "REGIONAL"
       ],
       "states": [
-        "BY"
+        "BW"
       ],
       "lines": [
         {
-          "name": "Bus EV",
-          "filterName": "Bus EV",
+          "name": "RB 55",
+          "filterName": "RB 55",
           "property": "REGIONAL"
         },
         {
-          "name": "Bus RE3",
-          "filterName": "Bus RE3",
+          "name": "RE 55",
+          "filterName": "RE 55",
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "17.06.2026 17:52",
-      "expand": true,
+      "lastModified": "22.10.2026 13:28",
+      "expand": false,
       "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
+      "detailPagePath": "/service/fahrplaene/bb6a2527-f2e0-416c-97a1-c7572c302839",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction7"
+    },
+    {
+      "id": "36490717-c2af-48b7-b96e-d2143c8f830e",
+      "disruptionId": "8412dfb9-97ef-4aca-a43f-7958f1cf6e9b",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Wendlingen(Neckar) ⇄ Merklingen - Schwäbische Alb:                                                              \nFahrplanänderungen, Zugausfälle und Ersatzverkehr mit Bus",
+      "summary": "📅 Mittwoch, 09. Dezember 2026, 21:30 Uhr bis Donnerstag, 10. Dezember 2026, 00:30 Uhr",
+      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RE 200 (Wendlingen – Ulm) </li></ul><p><strong>Einzelne Zugausfälle: </strong>Wendlingen(Neckar) ⇄ Merklingen - Schwäbische Alb</p><p><strong>Ersatzverkehr mit Bussen: </strong>Wendlingen(Neckar) ⇄ Merklingen - Schwäbische Alb</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Ersatzhaltestellen:</strong> Informationen zu den Ersatzhaltestellen inklusive Standorten finden Sie auf der verlinkten Seite</p><p><strong>Grund der Bauarbeiten: </strong>Instandhaltungsarbeiten</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p>",
+      "durationBegin": "09.12.2026",
+      "durationEnd": "10.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/8412dfb9-97ef-4aca-a43f-7958f1cf6e9b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-22/7e78aaba-239e-45ff-aafd-acf315a8e5c8st%25C3%25B6rungskarte_20261021-165510.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-22/7e78aaba-239e-45ff-aafd-acf315a8e5c8st%25C3%25B6rungskarte_20261021-165510.png",
+          "info": "",
+          "alt": "Störungskarte 21.10.2026 16:55:10",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-22/af9c8bef-f7df-4712-9113-288eef2a262d%25F0%259F%259A%258C%2BBus-Ersatzfahrplan.pdf",
+          "label": "🚌 Bus-Ersatzfahrplan",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
+          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://bahn.de",
+          "label": "Direkt zur Reiseauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RE 200",
+          "filterName": "RE 200",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "22.10.2026 10:05",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/36490717-c2af-48b7-b96e-d2143c8f830e",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction8"
     },
     {
       "id": "3307d697-fb40-4a6c-9be0-dd482bde3081",
@@ -1529,6 +1808,56 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/6e26ade7-f5ba-49ac-a2a6-d78fc5e5b080",
       "magnoliaPath": "/aktuell/nrw/unknown_effect_construction"
+    },
+    {
+      "id": "246135ff-86ae-47a0-bd4d-25130bef3749",
+      "disruptionId": "aeb3dcd4-8d19-45d7-b214-600588f488a3",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "S3/S5: Stark erhöhtes Fahrgastaufkommen vom 26.10. bis  22.11.2026 ",
+      "summary": "Vom 26.10. bis 22.11. 2026 finden zwischen Hauptbahnhof und Harburg umfangreiche Gleisbauarbeiten statt. In dieser Zeit entfallen fast alle RE- und RB-Züge sowie ein Großteil der Fernverkehrszüge. Wir erwarten in dieser Zeit ein stark erhöhtes Fahrgastaufkommen auf den Linien S3 und S5. Bitte planen Sie für ihre Fahrt zwischen Hauptbahnhof und Harburg entsprechend mehr Reisezeit ein und beachten Sie die folgenden Hinweise:",
+      "text": "<p>Die S3 und S5 fahren tagsüber alle 10 Minuten. Bitte nutzen Sie den ganzen Bahnsteig zum Ein- und Aussteigen. Verteilen Sie sich nach dem Einsteigen im ganzen Zug.</p><p></p><p>Rücken Sie nach dem Einsteigen vom Türbereich in die Gänge auf, verstauen Sie Hand- und Reisegepäck unter den Sitzen und vermeiden Sie das Blockieren von freien Plätzen mit Rucksäcken und / oder Taschen. Vermeiden Sie zudem einen Aufenthalt während des Haltens im Türbereich, sodass sich die Türen wieder selbstständig schließen und der Zug zeitnah weiterfahren kann. Informationen zur Länge des nächsten einfahrenden Zuges erhalten Sie an den Anzeigern am Bahnsteig.</p><p></p><p>Die Mitnahme von Fahrgästen mit orthopädischen Hilfsmitteln und Rollstühlen sowie Kinderwagen haben bei stark ausgelasteten Zügen Vorrang. Bitte verzichten Sie auf die Mitnahme von Fahrrädern, Scootern und Bollerwagen. Das Unterbringen von Gepäck und Fahrrädern ist nicht gestattet im ersten Türbereich sowie auf den entsprechend gekennzeichneten Fluchtwegen.</p><p></p><p>Vermeiden Sie bei ihrer Fahrt ein Ein- und Ausstieg am Hauptbahnhof und weichen Sie auf alternative Stationen aus. Die Hamburger Innenstadt erreichen Sie auch über die Stationen Jungfernstieg bzw. Dammtor sowie aus Richtung Harburg über die Station Elbbrücken mit Übergang zur U4.</p><p></p><p>Bitte achten Sie auf die Ansagen und Informationen und folgen Sie den Anweisungen unsere Betriebs- und Sicherheitspersonales.</p>",
+      "durationBegin": "22.10.2026",
+      "durationEnd": "25.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/aeb3dcd4-8d19-45d7-b214-600588f488a3",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-22/6dcdb44b-2a7a-4f6a-8f27-f466d690e5b6st%25C3%25B6rungskarte_20261022-120956.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-22/6dcdb44b-2a7a-4f6a-8f27-f466d690e5b6st%25C3%25B6rungskarte_20261022-120956.png",
+          "info": "",
+          "alt": "Störungskarte 22.10.2026 12:09:56",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HH"
+      ],
+      "lines": [
+        {
+          "name": "S 3",
+          "filterName": "S 3 Hamburg",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 Hamburg",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "22.10.2026 13:18",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/246135ff-86ae-47a0-bd4d-25130bef3749",
+      "magnoliaPath": "/aktuell/nord/unknown_effect_construction"
     },
     {
       "id": "4e2aae8f-7674-4845-9157-77c87b6a7131",
