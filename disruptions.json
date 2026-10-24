@@ -196,56 +196,47 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "684dc437-882d-44e3-93b4-63815781fbda",
-      "disruptionId": "b427ec31-7f3c-4394-8b06-5b537f78d522",
-      "author": "REGIO_BY",
+      "id": "c7a264e1-e482-458c-b8ed-3133224a9496",
+      "disruptionId": "8ff89c60-6273-4d4f-8231-207a6f1a01d8",
+      "author": "REGIO_MITTE",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Unbefugte Personen auf der Strecke"
+        "category": "other_cause",
+        "label": "Kurzfristige Erkrankung von Personal"
       },
-      "headline": "RB16: Gaimersheim und Eitensheim",
-      "summary": "Unbefugte Personen auf der Strecke beendet / Streckensperrung aufgehoben ",
-      "text": "<p>Die <strong>Streckensperrung zwischen Eitensheim wurde aufgehoben </strong>und der Zugverkehr wieder durchgehend aufgenommen.</p><p>Bitte rechnen Sie noch mit Folgeverspätungen.</p><p>Weitere Informationen zu Verzögerungen und Zugausfällen finden Sie zudem in der Fahrplanauskunft auf&nbsp;www.bahn.de&nbsp;sowie im DB Navigator.</p>",
+      "headline": "Die Strecke zwischen Neu-Edingen/Friedrichsfeld und Schwetzingen ist eingestellt.",
+      "summary": "Der Grund ist ein kurzfristiger Personalausfall.",
+      "text": "<p>↔️ <strong>Betroffener Abschnitt: </strong>Neu-Edingen/Friedrichsfeld &lt;&gt; Schwetzingen</p><p>🕜<strong>Dauer bis Betriebsschluss.</strong></p><p>🚉 <strong>Betroffene Linien:</strong></p><ul><li>S12 - (Hockenheim) &lt;&gt; Schwetzingen &lt;&gt; Neu-Edingen/Friedrichsfeld &lt;&gt; (Heidelberg Hbf)</li></ul><p>❌<strong>&nbsp;Einschränkungen:</strong> Der Zug fällt aus.</p><p>🚍&nbsp;<strong>Alternative:</strong> Wir haben einen Ersatzverkehr mit Großraumtaxi zwischen Neu-Edingen/Friedrichsfeld und Schwetzingen für Sie eingerichtet.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Aufgrund der Kurzfristigkeit der Maßnahme und einer eingeschränkten Verfügbarkeit von Bussen, verkehren die Busse im Pendelverkehr, ohne festen Fahrplan.</p><p>🚏Bitte beachten Sie, dass die Busse nicht immer unmittelbar am Bahnhof halten können</p><p>Bitte rechnen Sie für die Dauer auf jeden Fall&nbsp;<strong>mehr Reisezeit</strong>&nbsp;ein.&nbsp;</p><p>Informieren Sie sich kurz vor der Fahrt über Ihren Zug im DB Navigator oder unter www.bahn.de.</p><p>In der Reiseauskunft werden Ihnen alternative Verbindungen angezeigt.</p><p>Zusätzlich finden Sie uns auch unter @region_mitte auf X (ehemals Twitter).</p><p>Für die Ihnen entstehenden Unannehmlichkeiten bitten wir um Entschuldigung und hoffen auf Ihr Verständnis.</p><p><strong>DB Regio AG, Region Mitte</strong></p>",
       "durationBegin": "24.10.2026",
-      "durationEnd": "24.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/b427ec31-7f3c-4394-8b06-5b537f78d522",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-24/dab0c5f4-00ca-4f5c-83dc-55a4f15ccc5est%25C3%25B6rungskarte_20261024-171500.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-24/dab0c5f4-00ca-4f5c-83dc-55a4f15ccc5est%25C3%25B6rungskarte_20261024-171500.png",
-          "info": "",
-          "alt": "Störungskarte 24.10.2026 17:15:00",
-          "openInNewTab": true
-        }
-      ],
+      "durationEnd": "25.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/8ff89c60-6273-4d4f-8231-207a6f1a01d8",
+      "images": [],
       "downloads": [],
-      "links": [
-        {
-          "href": "https://regional.bahn.de/regionen/bayern/fahrplan/aktuelle_betriebslage",
-          "label": "Aktuelle Betriebslage DB Regio Bayern ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "links": [],
       "properties": [
+        "SBAHN",
         "REGIONAL"
       ],
       "states": [
-        "BY"
+        "BW"
       ],
       "lines": [
         {
-          "name": "RB 16",
-          "filterName": "RB 16",
+          "name": "RB S12",
+          "filterName": "RB S12 Rhein-Neckar",
           "property": "REGIONAL"
+        },
+        {
+          "name": "S 12",
+          "filterName": "S 12 Rhein-Neckar",
+          "property": "SBAHN"
         }
       ],
-      "lastModified": "24.10.2026 17:31",
+      "lastModified": "24.10.2026 19:31",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/684dc437-882d-44e3-93b4-63815781fbda",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section84"
+      "detailPagePath": "/service/fahrplaene/c7a264e1-e482-458c-b8ed-3133224a9496",
+      "magnoliaPath": "/aktuell/mitte/no_service_other_cause0"
     },
     {
       "id": "b7166840-71c3-4573-8455-0b527f4a8517",
@@ -310,63 +301,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/b7166840-71c3-4573-8455-0b527f4a8517",
       "magnoliaPath": "/aktuell/bayern/no_service_construction4"
-    },
-    {
-      "id": "aa92675a-712e-4697-85c0-868cb83fa900",
-      "disruptionId": "209251cb-1e2b-4430-b7ef-d9906514602e",
-      "author": "S_BAHN_S",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "Stellwerkausfall Renningen: Verspätungen und Ausfälle auf den Linien S6/S60",
-      "summary": "Aktuell verschaffen wir uns einen Überblick über die neue Lage und aktualisieren die Fahrpläne der S6 und S60.",
-      "text": "<p>Der Streckenabschnitt zwischen <strong>Renningen </strong>und <strong>Weil der Stadt/Böblingen </strong>ist <strong>nur eingeschränkt befahrbar</strong>, es kommt zu Verspätungen und Ausfällen. Der Grund ist ein defektes Stellwerk.</p><p></p><p><strong>Momentan aktualisieren wir die Fahrpläne der S-Bahnen auf der Linie S6 und S60.</strong></p><p></p><p>Wegen der neu eingetretenen Situation sind noch nicht alle Angaben in den Online-Reiseauskünften und Anzeigen am Bahnsteig aktuell. Wir informieren Sie in Kürze über weitere Details und geben Ihnen Bescheid, sobald die Fahrpläne aktualisiert sind.</p>",
-      "durationBegin": "24.10.2026",
-      "durationEnd": "24.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/209251cb-1e2b-4430-b7ef-d9906514602e",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-10-24/84fc22ad-06a6-4efb-ae11-33248e8421abst%25C3%25B6rungskarte_20261024-172023.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_stuttgart/2026-10-24/84fc22ad-06a6-4efb-ae11-33248e8421abst%25C3%25B6rungskarte_20261024-172023.png",
-          "info": "",
-          "alt": "Störungskarte 24.10.2026 17:20:23",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.s-bahn-stuttgart.de/aktuell",
-          "label": "Betriebslage der S-Bahn Stuttgart für Informationen im Detail",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "S 6",
-          "filterName": "S 6 Stuttgart",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 60",
-          "filterName": "S 60 Stuttgart",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "24.10.2026 17:33",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/aa92675a-712e-4697-85c0-868cb83fa900",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/massive_impairment_technical_problem_railway_section17"
     },
     {
       "id": "cd60c4e7-882b-44f1-800b-2e9bc298c00d",
@@ -477,6 +411,51 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
+    },
+    {
+      "id": "727bac90-d866-4506-bb26-c621fc5ad422",
+      "disruptionId": "1da4ac98-5634-415c-9fe0-a662a72ba0e1",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "police_activity",
+        "label": "Polizeieinsatz"
+      },
+      "headline": "S1 Moosach - Oberschleißheim: Polizeieinsatz",
+      "summary": "Zwischen Moosach und Oberschleißheim sind wieder Zugfahrten möglich.",
+      "text": "<p>Es kommt auf der Linie S1 noch zu Folgeverspätungen von bis zu 25 Minuten und zu kurzfristigen Teilausfällen.</p><p>Grund für diese Beeinträchtigungen&nbsp;war ein Polizeieinsatz.</p>",
+      "durationBegin": "24.10.2026",
+      "durationEnd": "24.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/1da4ac98-5634-415c-9fe0-a662a72ba0e1",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-24/5433e753-b205-4f6b-ac8f-2707dc35e5e2st%25C3%25B6rungskarte_20261024-203235.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-24/5433e753-b205-4f6b-ac8f-2707dc35e5e2st%25C3%25B6rungskarte_20261024-203235.png",
+          "info": "",
+          "alt": "Störungskarte 24.10.2026 20:32:35",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "24.10.2026 20:34",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/727bac90-d866-4506-bb26-c621fc5ad422",
+      "magnoliaPath": "/aktuell/bayern/no_service_police_activity38"
     },
     {
       "id": "8c45cd73-5d63-466b-82fb-3c85c6ed98d9",
@@ -792,8 +771,8 @@
       "mapHref": "https://karte.bahn.de/detail/304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-20/dbf5b364-259c-4f6a-b29e-b22bfb2a3996st%25C3%25B6rungskarte_20260814-093355.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-20/dbf5b364-259c-4f6a-b29e-b22bfb2a3996st%25C3%25B6rungskarte_20260814-093355.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/45202d44-b6c2-4f78-b086-76ed152784a2st%25C3%25B6rungskarte_20260814-093355.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/45202d44-b6c2-4f78-b086-76ed152784a2st%25C3%25B6rungskarte_20260814-093355.png",
           "info": "",
           "alt": "Störungskarte 14.08.2026 09:33:55",
           "openInNewTab": true
@@ -814,11 +793,66 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.10.2026 17:39",
-      "expand": true,
+      "lastModified": "21.10.2026 12:10",
+      "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5797685d-bd35-4cac-a99f-38dfab8843ce",
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section1"
+    },
+    {
+      "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
+      "disruptionId": "da344a9c-595e-4d34-995d-f76ec60d5f15",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "🚧 Korridorsanierung: Obertraubling - Passau vom 14. Juni bis 12. Dezember",
+      "summary": "Am 14. Juni startet die Generalsanierung der Strecke Obertraubling - Passau und führt zu weitreichenden Änderungen im Regional- und Fernverkehr. ",
+      "text": "<p>🚉 <strong>Betroffene Linien: </strong>RE 3</p><p>❌&nbsp;<strong>Einschränkungen</strong>: Ausfälle, Fahrplanänderungen und Ersatzverkehr</p><p>↪️<strong>&nbsp;Alternative</strong>: Ersatzverkehr mit Bussen</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>✅ Auf&nbsp;<strong>www.bahn.de&nbsp;sowie in der App DB Navigator </strong>sind die aktuellen Fahrplandaten abrufbar.</p>",
+      "durationBegin": "15.06.2026",
+      "durationEnd": "12.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/da344a9c-595e-4d34-995d-f76ec60d5f15",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-21/bbcc5982-47dd-4fab-84e1-d676f4e62723EV-Minifolder-Obertraubling-Passau-85x55-4c-RZ-purpur.pdf",
+          "label": "Korridorsanierung: Obertraubling-Passau - wichtige Infos zum Ersatzverkehr ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Obertraubling-Passau",
+          "label": "Korridorsanierung Obertraubling - Passau",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus EV",
+          "filterName": "Bus EV",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus RE3",
+          "filterName": "Bus RE3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.10.2026 10:45",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "e3c0d4b2-cad6-450d-af62-e52f10d041fe",
@@ -855,61 +889,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e3c0d4b2-cad6-450d-af62-e52f10d041fe",
       "magnoliaPath": "/aktuell/unknown_effect_other_cause"
-    },
-    {
-      "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
-      "disruptionId": "da344a9c-595e-4d34-995d-f76ec60d5f15",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "🚧 Korridorsanierung: Obertraubling - Passau vom 14. Juni bis 12. Dezember",
-      "summary": "Am 14. Juni startet die Generalsanierung der Strecke Obertraubling - Passau und führt zu weitreichenden Änderungen im Regional- und Fernverkehr. ",
-      "text": "<p>🚉 <strong>Betroffene Linien: </strong>RE 3</p><p>❌&nbsp;<strong>Einschränkungen</strong>: Ausfälle, Fahrplanänderungen und Ersatzverkehr</p><p>↪️<strong>&nbsp;Alternative</strong>: Ersatzverkehr mit Bussen</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>✅ Auf&nbsp;<strong>www.bahn.de&nbsp;sowie in der App DB Navigator </strong>sind die aktuellen Fahrplandaten abrufbar.</p>",
-      "durationBegin": "15.06.2026",
-      "durationEnd": "12.12.2026",
-      "mapHref": "https://karte.bahn.de/detail/da344a9c-595e-4d34-995d-f76ec60d5f15",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-06-17/93e92c92-633e-4af7-a352-cb35cce4f039EV-Minifolder-Obertraubling-Passau-85x55-4c-RZ-purpur.pdf",
-          "label": "Korridorsanierung: Obertraubling-Passau - wichtige Infos zum Ersatzverkehr ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Obertraubling-Passau",
-          "label": "Korridorsanierung Obertraubling - Passau",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus EV",
-          "filterName": "Bus EV",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "Bus RE3",
-          "filterName": "Bus RE3",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2026 17:52",
-      "expand": true,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "2a1a414a-c61c-4d4e-9bc0-55b2d06724e7",
