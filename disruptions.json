@@ -415,46 +415,49 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "c6654af3-3c71-47d3-9d26-5d70e8422219",
-      "disruptionId": "d4f936bc-8480-4430-b9a6-de2c86e2ad12",
-      "author": "S_BAHN_RM",
+      "id": "a94b7013-7ea4-45e5-a436-2c1f50e41761",
+      "disruptionId": "0876f43e-d6c0-4521-bd93-7387123ebe1b",
+      "author": "S_BAHN_MUC",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
+        "category": "construction",
+        "label": "Bauarbeiten"
       },
-      "headline": "Zugausfälle in Offenbach(Main)Ost ",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 26. Oktober von 13:00 Uhr bis voraussichtlich 20:00 Uhr.</li></ul><p></p><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S1 und S2 verkehren im 30-Minuten-Takt.</li></ul><p></p><strong></strong><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "headline": "Baustelleninformation für die S 7 in den Nächten von Montag/Dienstag, 26./27. Oktober  bis Donnerstag/Freitag, 29./30. Oktober 2026",
+      "summary": "Wegen Schienenwechsel kommt es in den Nächten von Montag/Dienstag, 26./27. Oktober  bis Donnerstag/Freitag, 29./30. Oktober 2026, jeweils von 0:10 Uhr bis 4:10 Uhr zwischen Höllriegelskreuth ↔ Wolfratshausen zu Fahrplanänderungen mit Teilausfällen, geänderten Bahnsteighalten (Gleisen) und Ersatzverkehr mit Großraumtaxis.",
+      "text": "<h4><strong>Änderung im Fahrplan:</strong></h4><p><strong>S7 Hauptbahnhof Gleis 36 ↔ Wolfratshausen:</strong></p><p><strong>Folgende Züge entfallen zwischen Höllriegelskreuth und Wolfratshausen:</strong></p><ul><li>S 7 München Hbf Gl. 36 Abfahrt 23:54 Uhr → Höllriegelskreuth Ankunft 00:14 Uhr</li><li>S 7 München Hbf Gl. 36 Abfahrt 00:34 Uhr → Höllriegelskreuth Ankunft 00:54 Uhr</li><li>S 7 München Hbf Gl. 36 Abfahrt 01:34 Uhr → Höllriegelskreuth Ankunft 01:54 Uhr</li></ul><p>Bitte beachten Sie zusätzlich, dass die folgenden Züge in <strong>Höllriegelskreuth auf Gleis 2 starten </strong>und in <strong>Großhesselohe Isartalbahnhof auf Gleis 2 verkehren.</strong></p><ul><li>S 7 Höllriegelskreuth Gl. 2 Abfahrt 00:25 Uhr → Pullach Gl. 2 00:27 Uhr → München Hbf Gl. 36 Ankunft 00:45 Uhr</li><li>S 7 Höllriegelskreuth Gl. 2 Abfahrt 01:05 Uhr → Pullach Gl. 2 01:07 Uhr → München Hbf Gl. 36 Ankunft 01:25 Uhr</li></ul><p><strong>‼️ Für die im betroffenen Bereich ausfallenden Züge wird ein Ersatzverkehr mit Großraumtaxis eingerichtet.  ‼️</strong></p><p>Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
       "durationBegin": "26.10.2026",
-      "durationEnd": "26.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/d4f936bc-8480-4430-b9a6-de2c86e2ad12",
-      "images": [],
+      "durationEnd": "30.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/0876f43e-d6c0-4521-bd93-7387123ebe1b",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-26/d6ff38b4-2bb5-4355-a5f6-bba79099e469st%25C3%25B6rungskarte_20261026-163253.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-26/d6ff38b4-2bb5-4355-a5f6-bba79099e469st%25C3%25B6rungskarte_20261026-163253.png",
+          "info": "",
+          "alt": "Störungskarte 26.10.2026 16:32:53",
+          "openInNewTab": true
+        }
+      ],
       "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "HE"
+        "BY"
       ],
       "lines": [
         {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
+          "name": "S 7",
+          "filterName": "S 7 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.10.2026 13:01",
+      "lastModified": "26.10.2026 17:21",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c6654af3-3c71-47d3-9d26-5d70e8422219",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section13"
+      "detailPagePath": "/service/fahrplaene/a94b7013-7ea4-45e5-a436-2c1f50e41761",
+      "magnoliaPath": "/aktuell/bayern/impairment_construction3"
     },
     {
       "id": "49828597-97c0-4fc6-b3cd-cbe3d8a8a7ad",
@@ -819,8 +822,8 @@
       "mapHref": "https://karte.bahn.de/detail/304d9ce4-7c3f-4ae3-8287-2117e9f7b26f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-20/dbf5b364-259c-4f6a-b29e-b22bfb2a3996st%25C3%25B6rungskarte_20260814-093355.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-20/dbf5b364-259c-4f6a-b29e-b22bfb2a3996st%25C3%25B6rungskarte_20260814-093355.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/45202d44-b6c2-4f78-b086-76ed152784a2st%25C3%25B6rungskarte_20260814-093355.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-21/45202d44-b6c2-4f78-b086-76ed152784a2st%25C3%25B6rungskarte_20260814-093355.png",
           "info": "",
           "alt": "Störungskarte 14.08.2026 09:33:55",
           "openInNewTab": true
@@ -841,11 +844,66 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "20.10.2026 17:39",
-      "expand": true,
+      "lastModified": "21.10.2026 12:10",
+      "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/5797685d-bd35-4cac-a99f-38dfab8843ce",
       "magnoliaPath": "/aktuell/bayern/modified_service_technical_problem_railway_section1"
+    },
+    {
+      "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
+      "disruptionId": "da344a9c-595e-4d34-995d-f76ec60d5f15",
+      "author": "REGIO_BY",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "🚧 Korridorsanierung: Obertraubling - Passau vom 14. Juni bis 12. Dezember",
+      "summary": "Am 14. Juni startet die Generalsanierung der Strecke Obertraubling - Passau und führt zu weitreichenden Änderungen im Regional- und Fernverkehr. ",
+      "text": "<p>🚉 <strong>Betroffene Linien: </strong>RE 3</p><p>❌&nbsp;<strong>Einschränkungen</strong>: Ausfälle, Fahrplanänderungen und Ersatzverkehr</p><p>↪️<strong>&nbsp;Alternative</strong>: Ersatzverkehr mit Bussen</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>✅ Auf&nbsp;<strong>www.bahn.de&nbsp;sowie in der App DB Navigator </strong>sind die aktuellen Fahrplandaten abrufbar.</p>",
+      "durationBegin": "15.06.2026",
+      "durationEnd": "12.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/da344a9c-595e-4d34-995d-f76ec60d5f15",
+      "images": [],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-10-21/bbcc5982-47dd-4fab-84e1-d676f4e62723EV-Minifolder-Obertraubling-Passau-85x55-4c-RZ-purpur.pdf",
+          "label": "Korridorsanierung: Obertraubling-Passau - wichtige Infos zum Ersatzverkehr ",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Obertraubling-Passau",
+          "label": "Korridorsanierung Obertraubling - Passau",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "Bus EV",
+          "filterName": "Bus EV",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "Bus RE3",
+          "filterName": "Bus RE3",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "21.10.2026 10:45",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
+      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "e3c0d4b2-cad6-450d-af62-e52f10d041fe",
@@ -882,61 +940,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e3c0d4b2-cad6-450d-af62-e52f10d041fe",
       "magnoliaPath": "/aktuell/unknown_effect_other_cause"
-    },
-    {
-      "id": "3bbca3f7-c782-46fb-849f-b859a88cc0a5",
-      "disruptionId": "da344a9c-595e-4d34-995d-f76ec60d5f15",
-      "author": "REGIO_BY",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "🚧 Korridorsanierung: Obertraubling - Passau vom 14. Juni bis 12. Dezember",
-      "summary": "Am 14. Juni startet die Generalsanierung der Strecke Obertraubling - Passau und führt zu weitreichenden Änderungen im Regional- und Fernverkehr. ",
-      "text": "<p>🚉 <strong>Betroffene Linien: </strong>RE 3</p><p>❌&nbsp;<strong>Einschränkungen</strong>: Ausfälle, Fahrplanänderungen und Ersatzverkehr</p><p>↪️<strong>&nbsp;Alternative</strong>: Ersatzverkehr mit Bussen</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>✅ Auf&nbsp;<strong>www.bahn.de&nbsp;sowie in der App DB Navigator </strong>sind die aktuellen Fahrplandaten abrufbar.</p>",
-      "durationBegin": "15.06.2026",
-      "durationEnd": "12.12.2026",
-      "mapHref": "https://karte.bahn.de/detail/da344a9c-595e-4d34-995d-f76ec60d5f15",
-      "images": [],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bayern/2026-06-17/93e92c92-633e-4af7-a352-cb35cce4f039EV-Minifolder-Obertraubling-Passau-85x55-4c-RZ-purpur.pdf",
-          "label": "Korridorsanierung: Obertraubling-Passau - wichtige Infos zum Ersatzverkehr ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://generalsanierung.db-ersatzverkehr.de/ersatzverkehr/Generalsanierungen/Obertraubling-Passau",
-          "label": "Korridorsanierung Obertraubling - Passau",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "Bus EV",
-          "filterName": "Bus EV",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "Bus RE3",
-          "filterName": "Bus RE3",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "17.06.2026 17:52",
-      "expand": true,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
-      "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
     },
     {
       "id": "2a1a414a-c61c-4d4e-9bc0-55b2d06724e7",
