@@ -68,53 +68,6 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
-      "id": "57696b0d-5d79-4808-80da-8ba2f996fecd",
-      "disruptionId": "d9576bdf-3f93-413f-912c-d7bf5bbaac4c",
-      "author": "FERNVERKEHR_AG",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Beeinträchtigungen zwischen Rostock / Berlin und Binz (Rügen)",
-      "summary": "Aufgrund einer Oberleitungsstörung sind im Bahnhof Stralsund derzeit keine Zugfahrten möglich. Dadurch kommt es zu Umleitungen sowie Teilausfällen im Fernverkehr der Deutschen Bahn.",
-      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Berlin - Stralsund - Binz</li><li>Hamburg - Rostock - Stralsund - Binz</li></ul><p>Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf&nbsp;bahn.de, im&nbsp;DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
-      "durationBegin": "27.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/d9576bdf-3f93-413f-912c-d7bf5bbaac4c",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-27/43af5aec-5aa9-4956-8806-e2bb32e22eedst%25C3%25B6rungskarte_20261027-132152.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-27/43af5aec-5aa9-4956-8806-e2bb32e22eedst%25C3%25B6rungskarte_20261027-132152.png",
-          "info": "",
-          "alt": "Störungskarte 27.10.2026 13:21:52",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BB",
-        "HH",
-        "BE",
-        "MV",
-        "NI"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "27.10.2026 13:24",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/57696b0d-5d79-4808-80da-8ba2f996fecd",
-      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section12"
-    },
-    {
       "id": "5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
       "disruptionId": "4e6e3071-26d5-49a0-b4e1-a3c6ea0d9bd1",
       "author": "S_BAHN_HH",
@@ -274,8 +227,8 @@
       "mapHref": "https://karte.bahn.de/detail/a6fb163c-f9e2-4885-9202-2f8aa290aa89",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-27/01eb64dc-0492-4e4b-974f-137fa7f98af7st%25C3%25B6rungskarte_20261022-135432.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-27/01eb64dc-0492-4e4b-974f-137fa7f98af7st%25C3%25B6rungskarte_20261022-135432.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-27/d5533208-fa1d-4e9b-b43a-f2cfe6819846st%25C3%25B6rungskarte_20261022-135432.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_hamburg/2026-10-27/d5533208-fa1d-4e9b-b43a-f2cfe6819846st%25C3%25B6rungskarte_20261022-135432.png",
           "info": "",
           "alt": "Störungskarte 22.10.2026 13:54:32",
           "openInNewTab": true
@@ -302,7 +255,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "27.10.2026 14:50",
+      "lastModified": "27.10.2026 16:34",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/49828597-97c0-4fc6-b3cd-cbe3d8a8a7ad",
@@ -353,70 +306,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
-    },
-    {
-      "id": "a854a05f-7713-46ab-a875-4faeda5f20d7",
-      "disruptionId": "ccbef5c7-a061-4bb2-8745-11bb256c6ad2",
-      "author": "REGIO_NORDOST",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Oberleitung"
-      },
-      "headline": "Verkehrsmeldung für die Linie(n) RB25, RE3, RE30, RE5 und RE51 - Stralsund Hbf",
-      "summary": " Dienstag, 27.10.2026 10:41 Uhr bis vsl. Dienstag, 27.10.2026 vsl. 23:59 Uhr ",
-      "text": "<p>Aufgrund einer Oberleitungsstörung kommt es zu massiven Einschränkungen im Raum Stralsund Hbf</p><p></p><p>RE3 Stralsund - Greifswald/Schwedt(Oder) - Angermünde – Berlin – Jüterbog - Lutherst. Wittenberg </p><p>Die Züge enden und beginnen in Stralsund Rügendamm, nutzen Sie bitte den ÖPNV Bus 1 oder Bus 30 </p><p>RE5 Rostock/Stralsund – Neustrelitz – Berlin </p><p>Die Züge enden und beginnen in Demmin/Grimmen, ein Busnotverkehr wurde eingerichtet </p><p>RE51 Stralsund - Neustrelitz </p><p>Die Züge enden und beginnen in Neubrandenburg, ein Busnotverkehr wurde eingerichtet </p><p>RB25 Barth – Velgast – Stralsund </p><p>Die Züge enden und beginnen in Martensdorf, nutzen Sie bitte den ÖPNV Rufbus 712 oder den Bus 308 </p><p>RE30 Stralsund - Greifswald - Pasewalk - Angermünde </p><p>Die Züge enden und beginnen in Stralsund Rügendamm, nutzen Sie bitte den ÖPNV Bus 1 oder Bus 30</p><p>Bitte informieren Sie sich unmittelbar vor Reiseantritt über Ihre tatsächlichen Abfahrts- und Ankunftszeiten in der Reiseauskunft in der App DB Navigator und auf bahn.de.</p>",
-      "durationBegin": "27.10.2026",
-      "durationEnd": "27.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/ccbef5c7-a061-4bb2-8745-11bb256c6ad2",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.bahn.de",
-          "label": "DB-Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "MV"
-      ],
-      "lines": [
-        {
-          "name": "RB 25",
-          "filterName": "RB 25",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 3",
-          "filterName": "RE 3",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 30",
-          "filterName": "RE 30",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 5",
-          "filterName": "RE 5",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 51",
-          "filterName": "RE 51",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "27.10.2026 15:09",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/a854a05f-7713-46ab-a875-4faeda5f20d7",
-      "magnoliaPath": "/aktuell/nordost/no_service_technical_problem_railway_section13"
     },
     {
       "id": "cd60c4e7-882b-44f1-800b-2e9bc298c00d",
