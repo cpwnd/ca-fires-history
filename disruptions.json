@@ -68,6 +68,54 @@
       "magnoliaPath": "/aktuell/fernverkehr-ag/detour_construction"
     },
     {
+      "id": "c2080091-a2ee-4558-bb27-d7b5f4a16f5c",
+      "disruptionId": "d3b821e0-fe19-4147-9953-ffd8fe2e6f34",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an einem Signal"
+      },
+      "headline": "Beeinträchtigungen zwischen Hannover und Magdeburg",
+      "summary": "Aufgrund einer Reparatur an einem Signal bei Helmstedt ist der Fernverkehr der Deutschen Bahn beeinträchtigt. Es kommt zu Haltausfällen und Verspätungen.\n",
+      "text": "<p><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></p><ul><li>Die IC-Züge zwischen Hannover und Magdeburg (Ausnahme IC 2031) werden in beiden Fahrtrichtungen umgeleitet und verspäten sich um etwa 60 Minuten. Die Halte Braunschweig Hbf und Helmstedt entfallen.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Die Behebung der Störung dauert vsl. bis in die Vormittagsstunden. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/d3b821e0-fe19-4147-9953-ffd8fe2e6f34",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-27/68c05d9a-f3fe-4eb9-b330-0bb5f5e210cest%25C3%25B6rungskarte_20261027-023624.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-10-27/68c05d9a-f3fe-4eb9-b330-0bb5f5e210cest%25C3%25B6rungskarte_20261027-023624.png",
+          "info": "",
+          "alt": "Störungskarte 27.10.2026 02:36:24",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BB",
+        "ST",
+        "BE",
+        "NW",
+        "NI",
+        "SN"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "27.10.2026 02:41",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/c2080091-a2ee-4558-bb27-d7b5f4a16f5c",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section24"
+    },
+    {
       "id": "2787d444-0cd2-4461-91a0-df3f0a11ca8c",
       "disruptionId": "47443a01-08ad-4c0f-99c7-3f2dc200d145",
       "author": "FERNVERKEHR_AG",
@@ -653,63 +701,6 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/reduced_service_construction13"
     },
     {
-      "id": "e974e517-b2c1-4359-825e-30042010c1a4",
-      "disruptionId": "6113b569-e558-4c0a-8a80-5b9d6d68fd48",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Frankfurt-Höchst → Frankfurt Hbf  (nur stadteinwärts):                                                              \nHaltausfälle\n",
-      "summary": "📅 in der Nacht von Montag/Dienstag, den 26./27.10.2026, von 22 Uhr bis 1.30 Uhr",
-      "text": "<p><strong>Betroffene Linie(n): </strong></p><p>• S1 (nur stadteinwärts)</p><p>• S2 (nur stadteinwärts)</p><p>Einige Züge der Linie(n) S1 und S2 werden zwischen Frankfurt-Höchst und Frankfurt Hbf  (nur stadteinwärts) umgeleitet und halten nicht in Frankfurt-Nied und Frankfurt-Griesheim.</p><p><strong>Grund der Bauarbeiten: </strong>Instandhaltungsarbeiten</p><p><strong>Hinweis: </strong>Aufgrund zeitgleich stattfindender regelmäßiger Instandhaltungsarbeiten entfallen die Züge der S2 zwischen Niedernhausen und Frankfurt-Höchst. Ein Ersatzverkehr mit Bussen ist eingerichtet. Zusätzlich entfallen die Züge der S1 zwischen Wiesbaden Hbf und Frankfurt-Höchst wegen Bauarbeiten für das Elektronische Stellwerk Flörsheim. Bitte die entsprechende Ankündigung für Informationen zum Ersatzverkehr beachten.</p><p>Die Fahrplanänderungen sind in der digitalen Reiseauskunft verfügbar.</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise.</p><p>Noch Fragen? Sie erreichen den Kundendialog der S-Bahn Rhein-Main unter der Rufnummer 069 24445710 oder per E-Mail an kundendialog.hessen@deutschebahn.com.</p>",
-      "durationBegin": "26.10.2026",
-      "durationEnd": "27.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/6113b569-e558-4c0a-8a80-5b9d6d68fd48",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-10-21/71d3b7f6-ddac-4e04-8673-58f4c2f1b5cfst%25C3%25B6rungskarte_20261012-102519.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-10-21/71d3b7f6-ddac-4e04-8673-58f4c2f1b5cfst%25C3%25B6rungskarte_20261012-102519.png",
-          "info": "",
-          "alt": "S1, S2 Störungskarte in der Nacht vom 26./27.10.2026",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-10-21/311e1187-5565-40b2-b133-2c51901a503eS1_S2_Plakat_53435_korr.pdf",
-          "label": "S1, S2 Fahrplanänderungen in der Nacht vom 26./27.10.2026",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.10.2026 15:37",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/e974e517-b2c1-4359-825e-30042010c1a4",
-      "magnoliaPath": "/aktuell/hessen/stop_moved_construction0"
-    },
-    {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "disruptionId": "70d794c3-fc73-4af7-a16a-8a496bf69bcd",
       "author": "REGIO_SUEDOST",
@@ -755,56 +746,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
-    },
-    {
-      "id": "0e5139a2-2a96-409f-927a-eb6c4b00f1a4",
-      "disruptionId": "734e8f73-b121-4ad5-b480-fe0286899ffd",
-      "author": "REGIO_SUEDOST",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Wernigerode Hbf ⇄ Goslar - Änderungen",
-      "summary": "Wernigerode Ilsenburger Straße Dauer der Beeinträchtigung bis vsl. 27.10.2026.",
-      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>RE4 Halle - Goslar</li><li>RE21 Magdeburg - Goslar</li></ul><p>ℹ️ <strong>Grund:</strong> Straßenbauarbeiten</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Aufgrund von Straßenbauarbeiten kann die Haltestelle Wernigerode Ilsenburger Straße nicht angefahren werden. Die Ersatzhaltestelle befindet sich im Gießerweg.</p><p>↪️&nbsp;<strong>Alternative:</strong></p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
-      "durationBegin": "25.10.2026",
-      "durationEnd": "27.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/734e8f73-b121-4ad5-b480-fe0286899ffd",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-10-25/04ed48fe-f5cb-4bfe-8cf8-28ddc4df1d18st%25C3%25B6rungskarte_20261025-095434.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-10-25/04ed48fe-f5cb-4bfe-8cf8-28ddc4df1d18st%25C3%25B6rungskarte_20261025-095434.png",
-          "info": "",
-          "alt": "Störungskarte 25.10.2026 09:54:34",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "ST"
-      ],
-      "lines": [
-        {
-          "name": "RE 21",
-          "filterName": "RE 21",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 4",
-          "filterName": "RE 4",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "25.10.2026 11:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0e5139a2-2a96-409f-927a-eb6c4b00f1a4",
-      "magnoliaPath": "/aktuell/suedost/modified_service_construction"
     },
     {
       "id": "5797685d-bd35-4cac-a99f-38dfab8843ce",
