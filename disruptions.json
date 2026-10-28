@@ -262,44 +262,6 @@
       "magnoliaPath": "/aktuell/nord/impairment_construction5"
     },
     {
-      "id": "9b8ce1b6-e6c1-4c01-82e1-b1db3a7e345b",
-      "disruptionId": "125df8fa-65da-4fdf-8853-ce854f07bb53",
-      "author": "S_BAHN_HH",
-      "cause": {
-        "category": "medical_emergency",
-        "label": "Ärztliche Versorgung eines Fahrgastes"
-      },
-      "headline": "⚠️ Derzeit Verspätungen und Ausfälle auf der S1.",
-      "summary": "Auf der S1  kommt es derzeit zu Verspätungen und Ausfällen. Grund: ärztliche Versorgung eines Fahrgastes.",
-      "text": "<p>Der Rettungwageneinsatz ist beendet, es kommt aber in der Folge noch zu Verspätungen, Taktlücken und abweichenden Wendungen.</p>",
-      "durationBegin": "28.10.2026",
-      "durationEnd": "28.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/125df8fa-65da-4fdf-8853-ce854f07bb53",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HH",
-        "SH"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Hamburg",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.10.2026 16:43",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/9b8ce1b6-e6c1-4c01-82e1-b1db3a7e345b",
-      "magnoliaPath": "/aktuell/nord/significant_delays_medical_emergency2"
-    },
-    {
       "id": "29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "author": "REGIO_NORDOST",
       "cause": {
@@ -386,6 +348,76 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/339d0ace-c17d-49d2-93c2-6a735c9f7d33",
       "magnoliaPath": "/aktuell/mitte/no_service_other_cause1"
+    },
+    {
+      "id": "fd91c08f-696a-4377-bec5-6b4b7d4cc11f",
+      "disruptionId": "956332b5-db31-4be9-99ab-65e1a4b309e9",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Ersatzprogramm Stammstrecke/Gesamtnetz: Reparatur an der Oberleitung",
+      "summary": "zwischen Pasing und Ostbahnhof sind ab ca. 19:30 Uhr bis auf weiteres aufgrund einer Reparatur an der Oberleitung nur sehr eingeschränkt Zugfahrten möglich. Es kommt zu Verspätungen und Zugausfällen.",
+      "text": "<p><strong>Die S-Bahnen verkehren abweichend der regulären Linienführung wie folgt:</strong></p><p></p><p><strong>S 1 Freising / Flughafen&nbsp;</strong></p><p>Die S-Bahnen beginnen/enden in Moosach.</p><p><strong>Alternativen:</strong></p><ul><li>U 2 ab Hauptbahnhof bis Feldmoching oder U 3 ab Marienplatz bis Moosach und dort Umstieg zur Linie S 1 Freising/Flughafen.<strong>&nbsp;</strong>In die Gegenrichtung sinngemäß umsteigen.</li><li>Fahrgäste vom/zum Flughafen nutzen bitte von/nach Ostbahnhof auch die Linie S8.</li><li>Bus 162 verkehrt zwischen Moosach und Pasing.</li></ul><p></p><p></p><p><strong>⚠️ ÄNDERUNG S 2 Petershausen / Altomünster - Erding</strong></p><ul><li>Die S-Bahnen in Richtung Erding fahren auf Regelweg.</li><li>Die S-Bahnen in Richtung Petershausen/Altomünster werden zwischen Riem und Obermenzing <strong>über den Ostbahnhof Gleis 6 umgeleitet, </strong>und die Stammstrecke nicht angefahren. Die Halte Berg am Laim und Leuchtenbergring entfallen.&nbsp;</li></ul><p><strong>Alternativen:</strong></p><ul><li>Ostbahnhof ↔ Leuchtenbergring: <strong>S6 und S8</strong></li><li>Ostbahnhof ↔ Berg am Laim:<strong> S6</strong></li></ul><p></p><p></p><p><strong>S 3 Mammendorf</strong></p><p>Die S-Bahnen beginnen/enden in Pasing auf Gleis 7.</p><p><strong>S 3 Holzkirchen&nbsp;</strong></p><p>Die S-Bahnen beginnen/enden am Ostbahnhof.</p><p></p><p><strong>S 4 Geltendorf&nbsp;</strong></p><p>Die S-Bahnen beginnen/enden am Hauptbahnhof Gleis 27 – 36 ohne Halt zwischen Pasing und Hauptbahnhof.</p><p></p><p><strong>S5 Kreuzstraße – Pasing</strong></p><p>Die S-Bahnen zwischen Pasing und Ostbahnhof fallen aus.</p><p></p><p><strong>S 6 Tutzing&nbsp;- Ebersberg</strong></p><p>Die S-Bahnen beginnen/enden in Pasing und fahren nach Baustellenfahrplan.</p><p>⚠️ <strong>Gleisänderung von Isartor bis Hackerbrücke: Gleis 1 statt 2</strong></p><p></p><p></p><p></p><p></p><p></p><p><strong>S 7 Wolfratshausen</strong></p><p>Die S-Bahnen verkehren auf dem Regelweg.</p><p></p><p></p><p><strong>S 8 Herrsching - Flughafen&nbsp;</strong></p><p>Die S-Bahnen beginnen/enden in Pasing und fahren nach Baustellenfahrplan.</p><p>⚠️ <strong>Gleisänderung von Isartor bis Hackerbrücke: Gleis 1 statt 2</strong></p><p></p><p></p><p></p><p>&nbsp;<strong>Bitte beachten Sie für weitere mögliche Gleisänderungen die Ansagen und Anzeigen am Bahnsteig.&nbsp;</strong></p><p></p><p>&nbsp;</p><p><strong>Alternativen zwischen Pasing und München Ostbahnhof für beide Richtungen:</strong></p><ul><li>Nutzen Sie zwischen Pasing (Gl. 3 und 9) und dem Hauptbahnhof auch die Regionalzüge, sowie die Tram 19.</li><li>Alternativ verkehrt ab Pasing der Linienbus 57 bis Laimer Platz und von dort die U 5.&nbsp;</li><li>Fahrgäste in/aus Richtung Laim und Sendling können auch den Bus 130/157 (Harras) nutzen.</li><li>Zwischen Hauptbahnhof (Gl. 6 und 11) und Ostbahnhof nutzen Sie bitte die Regionalzüge, sowie die U-Bahnlinie U5.</li><li>Fahrgäste vom Hauptbahnhof in die Innenstadt nutzen die Tram Linien 16, 17, 18, 19, 20 und 21.</li></ul><p></p><p><strong>Informieren Sie sich wegen eventueller Beeinträchtigungen bei den alternativen Reisemöglichkeiten unter mvg.de.&nbsp;</strong></p><p>&nbsp;</p>",
+      "durationBegin": "28.10.2026",
+      "durationEnd": "28.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/956332b5-db31-4be9-99ab-65e1a4b309e9",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/34415394-9d84-4600-ab57-216d3fb05d35st%25C3%25B6rungskarte_20261028-185417.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/34415394-9d84-4600-ab57-216d3fb05d35st%25C3%25B6rungskarte_20261028-185417.png",
+          "info": "",
+          "alt": "Störungskarte 28.10.2026 18:54:17",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.10.2026 21:33",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/fd91c08f-696a-4377-bec5-6b4b7d4cc11f",
+      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section65"
     },
     {
       "id": "55fef4b0-b3b7-4052-8c68-98d12670e6a3",
@@ -533,25 +565,25 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "ddbc10ea-de6b-4951-b017-94ce0dbafd22",
-      "disruptionId": "eb46e454-dffa-4013-a1dc-7caa59450885",
+      "id": "d120eefb-9ce8-467a-8362-58b22f6bb732",
+      "disruptionId": "d1f80600-10d8-458b-9a2c-65641b41d91f",
       "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
+        "label": "Reparatur an der Weiche"
       },
-      "headline": "S1 Neufahrn - Oberschleißheim: Reparatur an der Strecke ",
-      "summary": "Derzeit kommt es auf der Linie S1 in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
-      "text": "<p>Grund für diese Beeinträchtigungen                         ist eine Reparatur an der Strecke       zwischen Eching und Neufahrn.</p>",
+      "headline": "S2 Feldkirchen - Leuchtenbergring: Reparatur an einer Weiche",
+      "summary": "Derzeit kommt es auf der Linie S2 in beide Richtungen zu Verspätungen von 10 bis 15 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
+      "text": "<p>Grund für diese Beeinträchtigungen                         ist die Reparatur an einer Weiche       in Riem.</p>",
       "durationBegin": "28.10.2026",
       "durationEnd": "28.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/eb46e454-dffa-4013-a1dc-7caa59450885",
+      "mapHref": "https://karte.bahn.de/detail/d1f80600-10d8-458b-9a2c-65641b41d91f",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/59fef9b3-0c09-4b97-905b-7b58423d9f76st%25C3%25B6rungskarte_20261028-161130.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/59fef9b3-0c09-4b97-905b-7b58423d9f76st%25C3%25B6rungskarte_20261028-161130.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/65290223-cc92-4807-8d44-3ed8403181d9st%25C3%25B6rungskarte_20261028-213827.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/65290223-cc92-4807-8d44-3ed8403181d9st%25C3%25B6rungskarte_20261028-213827.png",
           "info": "",
-          "alt": "Störungskarte 28.10.2026 16:11:30",
+          "alt": "Störungskarte 28.10.2026 21:38:27",
           "openInNewTab": true
         }
       ],
@@ -564,88 +596,18 @@
         "BY"
       ],
       "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.10.2026 16:54",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/ddbc10ea-de6b-4951-b017-94ce0dbafd22",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section156"
-    },
-    {
-      "id": "efb4d1b7-25a0-4131-b655-52cc41a45c65",
-      "disruptionId": "6d2bf2d1-1d19-4396-8acb-94d69cfe8945",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Stammstrecke: Reparatur an der Oberleitung ",
-      "summary": "Es kommt auf der Stammstrecke in beide Richtungen zu Verspätungen von 10 bis 15 Minuten.",
-      "text": "<p></p><p>Durch vorzeitige Zugwenden im Außenbereich kommt es auch zu Teilausfällen.</p><p></p><p>Grund für diese Beeinträchtigungen ist eine Reparatur an der Oberleitung zwischen Marienplatz und Karlsplatz (Stachus).</p>",
-      "durationBegin": "28.10.2026",
-      "durationEnd": "28.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/6d2bf2d1-1d19-4396-8acb-94d69cfe8945",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/03e9c57c-784d-4156-80c3-f579dda663dest%25C3%25B6rungskarte_20261028-162224.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/03e9c57c-784d-4156-80c3-f579dda663dest%25C3%25B6rungskarte_20261028-162224.png",
-          "info": "",
-          "alt": "Störungskarte 28.10.2026 16:22:24",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
         {
           "name": "S 2",
           "filterName": "S 2 München",
           "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
         }
       ],
-      "lastModified": "28.10.2026 16:23",
-      "expand": true,
+      "lastModified": "28.10.2026 21:40",
+      "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/efb4d1b7-25a0-4131-b655-52cc41a45c65",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section157"
+      "detailPagePath": "/service/fahrplaene/d120eefb-9ce8-467a-8362-58b22f6bb732",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section158"
     },
     {
       "id": "148c6832-8ed5-4ec0-81e7-b1d5497f6e8e",
@@ -659,12 +621,12 @@
       "summary": "Die S-Bahnen fahren im Bereich Baierbrunn bis auf weiteres mit verminderter Geschwindigkeit. Deswegen kommt es jetzt in beide Richtungen zu Verspätungen von 5 bis 10 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
       "text": "<p>Grund für diese Beeinträchtigungen                         ist die Reparatur an einer Weiche       in Baierbrunn.</p>",
       "durationBegin": "28.10.2026",
-      "durationEnd": "28.10.2026",
+      "durationEnd": "29.10.2026",
       "mapHref": "https://karte.bahn.de/detail/0b354b3a-0fe8-4c5c-aad4-9bca254c2c6d",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/7d0557ff-4fe5-4755-9327-390c65034202st%25C3%25B6rungskarte_20261028-153157.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/7d0557ff-4fe5-4755-9327-390c65034202st%25C3%25B6rungskarte_20261028-153157.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/7bc0e0e1-6228-4701-b7db-0167ec1c0d74st%25C3%25B6rungskarte_20261028-153157.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/7bc0e0e1-6228-4701-b7db-0167ec1c0d74st%25C3%25B6rungskarte_20261028-153157.png",
           "info": "",
           "alt": "Störungskarte 28.10.2026 15:31:57",
           "openInNewTab": true
@@ -685,12 +647,54 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "28.10.2026 15:33",
+      "lastModified": "28.10.2026 19:53",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/148c6832-8ed5-4ec0-81e7-b1d5497f6e8e",
       "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section155"
+    },
+    {
+      "id": "300b64f9-6a40-44b7-bd6f-cc71ddae1ed8",
+      "disruptionId": "e3d855df-2a69-476e-a131-4ffd7334977d",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Einschränkungen auf der Strecke"
+      },
+      "headline": "Zugausfälle im Raum Frankfurt(Main)",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeiträume:</strong><ul><li>Am 28. Oktober bis voraussichtlich 20:00 Uhr.</li><li>Am 29. Oktober zwischen ca. 05:30 Uhr bis ca. 11:00 Uhr.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S1 und S2 verkehren im 30-Minuten-Takt.</li></ul><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "28.10.2026",
+      "durationEnd": "29.10.2026",
+      "mapHref": "https://karte.bahn.de/detail/e3d855df-2a69-476e-a131-4ffd7334977d",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "28.10.2026 18:09",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/300b64f9-6a40-44b7-bd6f-cc71ddae1ed8",
+      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section14"
     },
     {
       "id": "a94b7013-7ea4-45e5-a436-2c1f50e41761",
@@ -736,48 +740,6 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/a94b7013-7ea4-45e5-a436-2c1f50e41761",
       "magnoliaPath": "/aktuell/bayern/impairment_construction3"
-    },
-    {
-      "id": "300b64f9-6a40-44b7-bd6f-cc71ddae1ed8",
-      "disruptionId": "e3d855df-2a69-476e-a131-4ffd7334977d",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Zugausfälle im Raum Frankfurt(Main)",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen. Der Grund ist ein Personalausfall im Stellwerk.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am 28. Oktober zwischen 13:00 Uhr und 20:00 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die S1 und S2 verkehrt im 30-Minuten-Takt.</li></ul><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:&nbsp;</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "28.10.2026",
-      "durationEnd": "28.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/e3d855df-2a69-476e-a131-4ffd7334977d",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "27.10.2026 14:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/300b64f9-6a40-44b7-bd6f-cc71ddae1ed8",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section14"
     },
     {
       "id": "cbaa0839-3064-4104-b439-6467100f9cf1",
@@ -859,76 +821,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/c1a9c7cb-df4b-4107-976d-b5a35efeb67e",
       "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section16"
-    },
-    {
-      "id": "aa40480b-7199-4762-b027-e3a84502c48b",
-      "disruptionId": "890dc1b3-33ea-4e78-8bbe-54deb7b167b2",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "S 3 Ostbahnhof ◄► Deisenhofen / Maisach: Ausfall einiger Züge des 10-Minuten-Takts",
-      "summary": "Aufgrund einer technischen Störung an einem Fahrzeug entfallen heute Nachmittag auf der Linie S3 folgende S-Bahnen des 10-Minuten-Takts:",
-      "text": "<ul><li>S3 Maisach Abfahrt 16:40 Uhr - Deisenhofen Ankunft 17:41 Uhr</li></ul><p></p><p></p><p></p><ul><li>S3 München Ost Abfahrt 15:37 Uhr - Maisach Ankunft 16:18 Uhr</li></ul><p></p><p></p><ul><li>S3 Deisenhofen Abfahrt 18:00 Uhr - München Ost Ankunft 18:15 Uhr</li></ul><p></p><p></p><p></p><p><strong>Bitte beachten Sie, dass es heute Nachmittag auf der Linie S3 zu weiteren Ausfällen der S-Bahnen des 10-Minuten-Takts kommen kann.</strong></p>",
-      "durationBegin": "28.10.2026",
-      "durationEnd": "28.10.2026",
-      "mapHref": "https://karte.bahn.de/detail/890dc1b3-33ea-4e78-8bbe-54deb7b167b2",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/d961fd2f-6114-44c2-9cda-d583a9b7d287st%25C3%25B6rungskarte_20261028-151425.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-10-28/d961fd2f-6114-44c2-9cda-d583a9b7d287st%25C3%25B6rungskarte_20261028-151425.png",
-          "info": "",
-          "alt": "Störungskarte 28.10.2026 15:14:25",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.10.2026 16:07",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/aa40480b-7199-4762-b027-e3a84502c48b",
-      "magnoliaPath": "/aktuell/bayern/reduced_service_technical_problem_vehicle5"
     },
     {
       "id": "e0315e3b-f7c2-47f4-820c-35e3be876f3f",
