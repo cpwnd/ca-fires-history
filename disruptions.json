@@ -425,6 +425,101 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
+      "id": "c3a39f6a-e805-4789-8a39-5f04bfa21024",
+      "disruptionId": "96776095-f200-404c-bcd9-399d744bf3db",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Streckensperrung"
+      },
+      "headline": "S2 Altomünster: Verlängerung der Bauarbeiten",
+      "summary": "Die Bauarbeiten der DB InfraGO zwischen Erdweg und Altomünster verlängern sich voraussichtlich bis zum 2. Dezember 2026. Der Grund sind zusätzlich notwendige Arbeiten auf weiteren Streckenabschnitten, damit die S-Bahnen wieder mit voller Geschwindigkeit fahren können und neuen Langsamfahrstellen vorgebeugt wird.",
+      "text": "<p>❗Auf dem Streckenabschnitt <strong>Altomünster </strong>↔ <strong>Erdweg </strong>besteht weiterhin Ersatzverkehr mit Bussen.❗</p><p><strong>Hinweise:</strong></p><ul><li>Beachten sie, dass es im verlängerten Bauzeitraum aufgrund begrenzter Kapazitäten zu einer hohen Auslastung der Busse in den Stoßzeiten kommen kann.</li><li>Die Fahrpläne werden sukzessive in die online-Fahrplanauskünfte eingearbeitet und sind bereits jetzt auf der Baustellenseite der S-Bahn-München (Link im Anhang) veröffentlicht.</li></ul><p>Die ausführliche Pressemitteilung finden sie im Anhang.</p><p>Wir bedauern die Einschränkungen und bitten um Entschuldigung.</p>",
+      "durationBegin": "05.11.2026",
+      "durationEnd": "03.12.2026",
+      "mapHref": "https://karte.bahn.de/detail/96776095-f200-404c-bcd9-399d744bf3db",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-09/84c617a5-5a7e-4492-86e6-278355c7ab88st%25C3%25B6rungskarte_20261105-175504.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-09/84c617a5-5a7e-4492-86e6-278355c7ab88st%25C3%25B6rungskarte_20261105-175504.png",
+          "info": "",
+          "alt": "Störungskarte 05.11.2026 17:55:04",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-09/df5d37b4-782d-4809-857b-c81cccbfb50bFpl%2BBNV%2BMEWG-MAMT%2B09.11.-13.11.2026.pdf",
+          "label": "Fahrplan Altomünster - Erdweg 09.11.-13.11.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-09/91a945b1-441f-41ee-97a3-6dd7c7d8413bFpl%2BEV%2BMDA-MAMT%2B01.11.-09.11.2026.pdf",
+          "label": "Fahrplan Altomünster - Erdweg 01.11.-09.11.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-09/c432d2a1-6242-4b58-96d5-8b0a92d3d318Fpl%2BBNV%2BMEWG-MAMT%2B21.11.-22.11.2026%2B%25281%2529.pdf",
+          "label": "Fahrplan Altomünster - Erdweg 21.11.-22.11.2026 ",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-09/971ef9aa-10ce-48b2-bf43-5bb59f9ea2ebFpl%2BBNV%2BMEWG-MAMT%2B23.11.2026.pdf",
+          "label": "Fahrplan Altomünster - Erdweg (Dachau) 23.11.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-09/26a1f818-f6fd-4902-ac10-5c2f89362684Fpl%2BBNV%2BMEWG-MAMT%2B14.11.-15.11.2026.pdf",
+          "label": "Fahrplan Altomünster - Erdweg  14.11.-15.11.2026.pdf",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-09/2e471c3b-e92d-4117-b512-e5b40c5e2f88Fpl%2BBNV%2BMEWG-MAMT%2B16.11.-20.11.2026.pdf",
+          "label": "Fahrplan Altomünster - Erdweg 16.11.-20.11.2026.",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [
+        {
+          "href": "https://t1p.de/0izvn",
+          "label": "Pressemitteilung Bauarbeiten Altomünster-Erdweg verlängert",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.s-bahn-muenchen.de/de/fahren/baustellen/s2",
+          "label": "Baustellen S 2",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "09.11.2026 13:32",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/c3a39f6a-e805-4789-8a39-5f04bfa21024",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
+    },
+    {
       "id": "55fef4b0-b3b7-4052-8c68-98d12670e6a3",
       "disruptionId": "c1d91fe2-8cac-4287-bf5c-2d391039b910",
       "author": "FERNVERKEHR_AG",
@@ -466,67 +561,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/55fef4b0-b3b7-4052-8c68-98d12670e6a3",
       "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section13"
-    },
-    {
-      "id": "cd60c4e7-882b-44f1-800b-2e9bc298c00d",
-      "disruptionId": "7f2cf13d-f7f2-4d14-9120-91ab92272a1d",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustellenbedingte Streckensperrungen auf den Linien S6 und S5 Wiesental",
-      "summary": "Aufgrund von Bauarbeiten an der Schieneninfrastruktur kommt es vom 23.10.2026 bis 02.11.2026 zu Streckensperrungen auf den Linien S6 zwischen Riehen und Zell (Wiesental) und der S5 zwischen Weil am Rhein und Zell (Wiesental).",
-      "text": "<p>Aufgrund von Bauarbeiten ist im Zeitraum Freitag, 23. Oktober 2026, 21:00 Uhr bis Montag, 02. November 2026, 03:00 Uhr mit Einschränkungen auf den folgender Linie zu rechnen:</p><p>S6 Wiesentalbahn ( Basel SBB - Basel Bad - Lörrach - Zell i. Wiesental)</p><p>S5 Gartenbahn (Weil am Rhein - Lörrach - Steinen (- Schopfheim - Zell i. Wiesental)</p><p>Betroffene Stationen: Fahrnau, Hausen-Raitbach, Lörrach Dammstraße, Lörrach Hbf, Lörrach Museum/Burghof, Lörrach Schwarzwaldstraße, Lörrach-Brombach/Hauingen, Lörrach-Haagen/Messe, Lörrach-Stetten, Maulburg, Riehen, Schopfheim, Schopfheim West, Schopfheim-Schlattholz, Steinen, Weil am Rhein, Weil am Rhein Ost, Weil am Rhein-Gartenstadt, Weil am Rhein-Pfädlistraße und Zell(Wiesental) der SBBS5 und SBBS6</p><p>Bitte prüfen Sie Ihre Verbindung vor Fahrtantritt auf Änderungen und rechnen Sie mit Reisezeitverlängerung. Ein Ersatzverkehr mit Bussen ist eingerichtet. Bitte beachten Sie die Fahrpläne des Ersatzverkehrs.</p>",
-      "durationBegin": "23.10.2026",
-      "durationEnd": "02.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/7f2cf13d-f7f2-4d14-9120-91ab92272a1d",
-      "images": [],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.sbb-deutschland.de/content/dam/internet/sbb-deutschland/downloads/de/baustellenposter/Fahrplantabelle%20SEV%20Poster%20S6%2015102026.pdf",
-          "label": "SBB-Deutschland/SEV Fahrplan S6",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.sbb-deutschland.de/content/dam/internet/sbb-deutschland/downloads/de/baustellenposter/Fahrplantabelle%20SEV%20Poster%20S5%2015102026.pdf",
-          "label": "SBB-Deutschland/SEV Fahrplan S5",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.sbb-deutschland.de/de/unternehmen/aktuelles-presse/bauarbeiten-wiesentalbahn-gartenbahn-24102026-30112026.html",
-          "label": "SBB-Deutschland/Bauarbeiten",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://www.sbb-deutschland.de/content/dam/internet/sbb-deutschland/downloads/de/baustellenposter/Konzept%20SEV%20Poster%2024.10.-01.11.2026_14102026.pdf",
-          "label": "SBB-Deutschland/SEV Linienplan S5/S6",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "23.10.2026 18:37",
-      "expand": true,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/cd60c4e7-882b-44f1-800b-2e9bc298c00d",
-      "magnoliaPath": "/aktuell/massive_impairment_construction"
     },
     {
       "id": "34f71421-65c7-4576-9b3e-6942a2851db3",
@@ -578,226 +612,85 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "8158deac-9402-4e52-af6d-3bedecbc0a04",
-      "disruptionId": "8052fc47-eaed-4e84-87ef-6efb8cc46244",
-      "author": "S_BAHN_MUC",
+      "id": "2011406e-3a64-4cfe-b696-ec3e138e1c6a",
+      "disruptionId": "c13ce608-ecb4-4c6c-8b6d-518caed4b279",
+      "author": "DEUTSCHE_BAHN",
       "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
+        "category": "technical_problem_railway_section",
+        "label": "Defektes Stellwerk"
       },
-      "headline": "Baustelleninformation für die S1, S2, S4, S6, S8 und S20 vom Dienstag, 3. November bis Freitag, 6. November 2026",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke am Leuchtenbergring kommt es zwischen Pasing ↔ Ostbahnhof/Trudering/Leuchtenbergring/Riem von Dienstag, 3. November, ab 4:00 Uhr, durchgehend bis Freitag, 6. November 2026, 3:30 Uhr zu Änderungen im Fahrplan.",
-      "text": "<p>Die S-Bahnen fahren wie folgt:</p><p><strong>S1 Freising/Flughafen ↔ Leuchtenbergring (Beginn der Abweichungen erst am 03.11. ab ca. 14 Uhr):</strong></p><ul><li>Züge in/aus Richtung <strong>Freising</strong>/<strong>Flughafen </strong>beginnen/enden am <strong>Hauptbahnhof </strong>Gl. 26-35, ohne Halt an der <strong>Hackerbrücke</strong></li><li>Züge der S1 fallen zwischen <strong>Hauptbahnhof </strong>und <strong>Leuchtenbergring </strong>aus.</li></ul><p><strong>S2 Petershausen/Altomünster ↔ Markt Schwaben:</strong></p><ul><li>Züge in/aus Richtung <strong>Petershausen </strong>beginnen/enden am <strong>Heimeranplatz </strong>Gl. 11 und fahren von/bis <strong>Obermenzing </strong>ohne Halt</li><li>Zwischen<strong> Altomünster </strong>und <strong>Erdweg/Dachau</strong> besteht wegen anderer Bauarbeiten Ersatzverkehr mit<strong> Bussen. I</strong>n <strong>Dachau</strong> ist ein Umstieg von/zur <strong>S2 </strong>möglich.</li><li>Züge in/aus Richtung <strong>Markt Schwaben </strong>beginnen/enden am <strong>Ostbahnhof </strong>Gl. 6-13 und fahren von/bis <strong>Riem </strong>ohne Halt. Beachten Sie den zwischen <strong>Markt Schwaben </strong>und <strong>Erding </strong>bestehenden Ersatzverkehr mit Bussen wegen anderer Bauarbeiten.</li></ul><p><strong>S4 Geltendorf ↔ Trudering/Zorneding:</strong></p><ul><li>Züge in/aus Richtung <strong>Geltendorf </strong>beginnen/enden in <strong>Pasing.</strong></li><li>Züge in/aus Richtung <strong>Zorneding/Trudering</strong> fallen zwischen <strong>Pasing </strong>und <strong>Trudering/Zorneding</strong> aus.</li></ul><p><strong>S6 Tutzing ↔ Ebersberg:</strong></p><ul><li>Züge in/aus Richtung <strong>Tutzing </strong>beginnen/enden in Gauting. Beachten sie den <strong>Pasing </strong>und <strong>Gauting </strong>bestehenden <strong>Ersatzverkehr </strong>mit Bussen wegen anderer Bauarbeiten.</li><li>Züge in/aus Richtung <strong>Ebersberg </strong>beginnen/enden in <strong>Trudering.</strong></li><li>Züge der S6 fallen zwischen <strong>Trudering </strong>und <strong>Gauting</strong> aus.</li></ul><p><strong>S8 Herrsching ↔ Flughafen (Beginn der Abweichungen erst am 03.11. ab ca.. 14 Uhr):</strong></p><ul><li>Züge in/aus Richtung <strong>Herrsching </strong>beginnen/enden in <strong>Deisenhofen </strong>(zwischen <strong>21 </strong>und <strong>3 Uhr </strong>entfällt die <strong>S8 </strong>zwischen <strong>Pasing </strong>und <strong>Deisenhofen</strong>!).</li><li>Züge in/aus Richtung <strong>Flughafen/Airport </strong>beginnen/enden in <strong>Johanneskirchen</strong>. Beachten sie den zwischen <strong>Ostbahnhof </strong>und <strong>Johanneskirchen </strong>bestehenden Ersatzverkehr mit Bussen wegen anderer Bauarbeiten.</li></ul><p><strong>S20 Pasing ↔ Höllriegelskreuth </strong></p><ul><li>Züge der Linie S20 fallen aus.</li></ul><p><strong>Hinweis:</strong></p><p><strong>🔴Aufgrund des reduzierten Angebots&nbsp;auf der Stammstrecke kann es in den Stoßzeiten voll werden. Bitte nutzen Sie auch alternative MVV-Verbindungen oder fahren Sie, wenn möglich, außerhalb der Hauptverkehrszeiten.</strong></p><p>Wegen <strong>Bauarbeiten </strong>zur <strong>U5</strong> ist der<strong> Fahrradtunnel (Wolkentunnel)</strong> in <strong>Pasing </strong>vom <strong>2.11. - 23.12.26, </strong>und vom <strong>4.1. - 6.2.27, gesperrt. </strong> Der <strong>Zugang </strong>zu den <strong>Bahnsteigen </strong>ist <strong>von Norden </strong>weiterhin <strong>möglich.</strong> Details dazu ➡️&nbsp;Baustellen mit Verkehrseinschränkungen – Landeshauptstadt München</p>",
+      "headline": "Störung auf der Strecke",
+      "summary": "Störung auf der Strecke",
+      "text": "<p>Aufgrund einer Störung auf der Strecke (Weiche) kann es derzeit zu Verspätungen kommen. Bitte informieren Sie sich vor Fahrantritt über die aktuellen Verbindungen und beachten Sie hierzu die Durchsagen und Anzeigen vor Ort.</p><p>Wir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.</p>",
+      "durationBegin": "09.11.2026",
+      "durationEnd": "09.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/c13ce608-ecb4-4c6c-8b6d-518caed4b279",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "09.11.2026 16:01",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/2011406e-3a64-4cfe-b696-ec3e138e1c6a",
+      "magnoliaPath": "/aktuell/reduced_service_technical_problem_railway_section"
+    },
+    {
+      "id": "af81edc9-c7be-452f-9b0e-c4543324059c",
+      "disruptionId": "8c9e264a-d037-4a24-a0e3-f5a4173bafe6",
+      "author": "REGIO_SUEDOST",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Taucha(Leipzig) ⇄ Eilenburg Ost - Fahrtausfälle",
+      "summary": "Die Linie S4 ist im Moment beeinträchtigt. Dauer der Beeinträchtigung bis vsl. 27.11.2026, ganztägig. Der Grund ist eine Reparatur an der Strecke.",
+      "text": "<p>🚉 <strong>Linie: </strong></p><ul><li>S4 Falkenberg - Torgau - Eilenburg - Leipzig Hbf (tief) - Wurzen (- Oschatz)</li></ul><p>ℹ️ <strong>Grund:</strong> Der Grund ist eine Reparatur an der Strecke.</p><p>❌&nbsp;<strong>Einschränkungen:</strong> Die S4 verkehrt derzeit nur im Stundentakt bis Eilenburg Ost, mit Halt in Pönitz, Jesewitz und Eilenburg (sowie Gegenrichtung). Bitte beachten Sie, dass es aufgrund der nur eingleisig befahrbaren Strecke zu Verspätungen kommen kann.</p><p>↪️&nbsp;<strong>Alternative:</strong> Reisende aus Richtung Leipzig können ebenfalls die Linie<strong> S2 bis Delitzsch unt. Bahnhof</strong> nutzen. Ab<strong> Delitzsch ob. Bahnhof </strong>verkehrt anschließend die<strong> Linie S9</strong> bis Eilenburg. Gleiches ist auch aus der Gegenrichtung ( aus Eilenburg kommend) möglich.</p><p>✅ Wir empfehlen Ihnen, sich vor Reiseantritt über Ihre Verbindung auf www.bahn.de oder in der App DB Navigator zu informieren.</p>",
       "durationBegin": "03.11.2026",
-      "durationEnd": "06.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/8052fc47-eaed-4e84-87ef-6efb8cc46244",
+      "durationEnd": "27.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/8c9e264a-d037-4a24-a0e3-f5a4173bafe6",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-03/5217fec4-19f2-4d48-998c-a9253c259998st%25C3%25B6rungskarte_20261102-101152.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-03/5217fec4-19f2-4d48-998c-a9253c259998st%25C3%25B6rungskarte_20261102-101152.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-09/3b7e58dd-9f93-498a-a656-8606ea737dc5st%25C3%25B6rungskarte_20261103-141150.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-09/3b7e58dd-9f93-498a-a656-8606ea737dc5st%25C3%25B6rungskarte_20261103-141150.png",
           "info": "",
-          "alt": "Störungskarte 02.11.2026 10:11:52",
+          "alt": "Störungskarte 03.11.2026 14:11:50",
           "openInNewTab": true
         }
       ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-03/8100b965-13dc-430e-89ab-50955fb25a2fLinienplan3zu1.pdf",
-          "label": "Linienplan Stammstrecke ab 03.11.26.pdf",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-03/3e390f27-3c50-4d22-b3af-8924047a88cfFpl%2BS%2B1-S%2B8%2B3-6%2BNov.pdf",
-          "label": "Fahrplan S1-S8 vom 3.11. ab 4 Uhr durchgehend bis  6.11.2026 um 3:30 Uhr",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
+      "downloads": [],
       "links": [],
       "properties": [
         "SBAHN"
       ],
       "states": [
-        "BY"
+        "SN"
       ],
       "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 20",
-          "filterName": "S 20 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
         {
           "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
+          "filterName": "S 4 Mitteldeutschland",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "03.11.2026 07:18",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/8158deac-9402-4e52-af6d-3bedecbc0a04",
-      "magnoliaPath": "/aktuell/bayern/impairment_construction"
-    },
-    {
-      "id": "6c5d1193-f209-4df4-8e94-6480c02e5558",
-      "disruptionId": "9b08a459-2f6f-4610-acbb-65dd48ba156f",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Personalausfall im Stellwerk Strecke Bad Wildungen - Wabern (RB 39)",
-      "summary": "Personalausfall im Stellwerk betrifft die Züge auf der Strecke zwischen Wabern und Bad Wildungen. ",
-      "text": "<p>Die Frühschicht des Stellwerks für die Strecke Wabern - Bad Wildungen (RB 39) ist heute nicht besetzt. Aus diesem Grund müssen alle Züge auf dem Abschnitt bis 03.11.2026; 13 Uhr entfallen. Es ist ein Ersatzverkehr mit einem Bus eingerichtet. Dieser pendelt ohne feste Fahrzeiten zwischen Wabern und Bad Wildungen und bedient auch die Unterwegsstationen. Weichen Sie bitte auch auf die NVV-Buslinie 500 von Kassel nach Fritzlar und Bad Wildungen aus.</p>",
-      "durationBegin": "03.11.2026",
-      "durationEnd": "03.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/9b08a459-2f6f-4610-acbb-65dd48ba156f",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 39",
-          "filterName": "RB 39",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 39",
-          "filterName": "RE 39",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "03.11.2026 06:08",
+      "lastModified": "09.11.2026 13:06",
       "expand": false,
       "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6c5d1193-f209-4df4-8e94-6480c02e5558",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section"
-    },
-    {
-      "id": "d69e4c60-1ba6-483d-a03d-5d06cd8b2df5",
-      "disruptionId": "4f13deff-76c1-410c-916b-f40413b7a23e",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Einschränkungen auf der Strecke"
-      },
-      "headline": "Teil- und Zugausfälle zwischen Bad Wildungen - Fritzlar - Wabern(Bz Kassel)",
-      "summary": "Im Regionalverkehr der Kurhessenbahn kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB39 / RE39: Kassel Hbf - Wabern(Bz Kassel) - Fritzlar - Bad Wildungen</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Am Dienstag, 3. November bis vsl. 13:15 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Die Züge fallen aus zwischen Bad Wildungen - Fritzlar - Wabern(Bz Kassel).</li></ul><p></p><strong>↪️ Empfehlung und 🚍 Ersatzverkehr:</strong><ul><li>Ein Ersatzverkehr mit einem Bus der Firma Omnibusreisen Schwarz Fischer ist eingerichtet. Leider können wir keine weiteren Busse anbieten, da keine zur Verfügung stehen. Beachten Sie, dass eine Fahrradmitnahme im Bus nicht garantiert werden kann.</li><li>Nutzen Sie alternativ zwischen Kassel - Fritzlar - Bad Wildungen auch die Buslinie 500 zwischen den Haltestellen Bahnhof Wilhelmshöhe, Kassel - Hauptbahnhof, Kassel - Allee, Fritzlar (Ortsmitte) - Wega Ostlandsiedlung, Bad Wildungen - Bahnhof, Bad Wildungen.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog der Kurhessenbahn unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "03.11.2026",
-      "durationEnd": "03.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/4f13deff-76c1-410c-916b-f40413b7a23e",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 39",
-          "filterName": "RB 39",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 39",
-          "filterName": "RE 39",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "03.11.2026 06:18",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/d69e4c60-1ba6-483d-a03d-5d06cd8b2df5",
-      "magnoliaPath": "/aktuell/hessen/reduced_service_technical_problem_railway_section"
-    },
-    {
-      "id": "0e2455e5-975f-4340-8c84-36415d9e4334",
-      "disruptionId": "1b046a24-a9f3-45c8-a4a5-a657ec183a2d",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Baustelleninformation für die S 1 in der Nacht Montag, 02.11. bis Dienstag, 03.11",
-      "summary": "Wegen Bauarbeiten zur 2. Stammstrecke am Leuchtenbergring kommt es in der Nacht Montag, 02.11. bis Dienstag, 03.11, von 4 Uhr bis 14 Uhr zwischen Leuchtenbergring ◄► Ostbahnhof zu Fahrplanänderungen mit Ausfällen der S1 zwischen Leuchtenbergring und Ostbahnhof. Züge in/aus Richtung Freising/Flughafen beginnen/enden daher am Ostbahnhof.",
-      "text": "<p>Alle unsere Baustellen finden Sie unter: www.s-bahn-muenchen.de/baustellen</p>",
-      "durationBegin": "02.11.2026",
-      "durationEnd": "03.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/1b046a24-a9f3-45c8-a4a5-a657ec183a2d",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-02/55fb815b-7e79-48f7-982c-4cfc41391515st%25C3%25B6rungskarte_20261027-091530.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-02/55fb815b-7e79-48f7-982c-4cfc41391515st%25C3%25B6rungskarte_20261027-091530.png",
-          "info": "",
-          "alt": "Störungskarte 27.10.2026 09:15:30",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "02.11.2026 04:01",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/0e2455e5-975f-4340-8c84-36415d9e4334",
-      "magnoliaPath": "/aktuell/bayern/stop_moved_construction1"
+      "detailPagePath": "/service/fahrplaene/af81edc9-c7be-452f-9b0e-c4543324059c",
+      "magnoliaPath": "/aktuell/suedost/reduced_service_technical_problem_railway_section"
     },
     {
       "id": "2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
@@ -980,6 +873,47 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
+    },
+    {
+      "id": "e9c6b410-a009-459c-b2b4-66944e49a1b4",
+      "disruptionId": "08eb23c5-af1b-4035-97b2-5d9c0cb0a343",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "WICHTIGE FAHRGASTINFORMATION",
+      "summary": "SEV - BUS",
+      "text": "<p>Liebe Fährgäste,</p><p>aufgrund von Bauarbeiten kommt es auf der Donautalbahn zu Einschränkungen im Zugverkehr. Für den betroffenen Streckenabschnitte zwischen Schelklingen &gt;&lt; Schmiechen ist ein Schienenersatzverkehr (SEV) mit Bussen eingerichtet.</p><p>Bitte beachten Sie:</p><p>- Achten Sie auf die Beschilderung zu den Ersatzhaltestellen.</p><p>- Informieren Sie sich über die geänderten Abfahrtszeiten.</p><p>- Planen Sie für Ihre Reise ausreichend zusätzliche Zeit ein.</p><p>- Beachten Sie die Hinweise des Fahrpersonals.</p><p>Wir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.</p>",
+      "durationBegin": "09.11.2026",
+      "durationEnd": "23.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/08eb23c5-af1b-4035-97b2-5d9c0cb0a343",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 55",
+          "filterName": "RB 55",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 55",
+          "filterName": "RE 55",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "09.11.2026 12:14",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/e9c6b410-a009-459c-b2b4-66944e49a1b4",
+      "magnoliaPath": "/aktuell/additional_service_construction"
     },
     {
       "id": "2a1a414a-c61c-4d4e-9bc0-55b2d06724e7",
@@ -1165,253 +1099,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3307d697-fb40-4a6c-9be0-dd482bde3081",
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction6"
-    },
-    {
-      "id": "0ef5b74f-f84e-4418-ad45-53850fb90541",
-      "disruptionId": "6d09b18f-c621-441e-a1ae-9d72ffdd27fc",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Stuttgart Hbf ⇄ Tübingen Hbf:                                                              \nFahrplanänderungen, Zugausfälle und Ersatzverkehr mit Bus ",
-      "summary": "📅 Mittwoch, 04. November 2026, 04:45 Uhr bis Montag, 09. November 2026, 01:00 Uhr",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf /Rottenburg(Neckar))</li><li>MEX 12 (Mosbach-Neckarelz – Heilbronn – Stuttgart – Tübingen)</li></ul><p><strong>Zugausfälle:</strong></p><ul><li>RE 6 Stuttgart Hbf ⇄ Tübingen Hbf</li><li>MEX 12 Stuttgart Hbf ⇄ Plochingen</li></ul><p><strong>Ersatzverkehr mit Schnellbussen:</strong></p><ul><li>Stuttgart Hbf Pariser Platz ⇄ Tübingen ZOB West Bussteig R mit Halt in Degerloch B27 und Tübingen Hügelschule (im 60-Minuten-Takt)</li><li>Stuttgart Hbf Pariser Platz ⇄ Reutlingen ZOB mit Halt in Degerloch B27, Tannenbergstraße, Listplatz (im 60-Minuten-Takt von 06:00-10:00 und 15:00-19:00 Uhr)</li></ul><p><strong>Alternative Reisemöglichkeit:&nbsp;</strong>Stuttgart Hbf ⇄ Plochingen</p><ul><li>S-Bahn Linie S1, RE 5, MEX 16</li></ul><p><strong>Grund der Bauarbeiten: </strong>Gleisarbeiten</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p>",
-      "durationBegin": "04.11.2026",
-      "durationEnd": "09.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/6d09b18f-c621-441e-a1ae-9d72ffdd27fc",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-19/bcbe8c93-8ce0-4c0e-9f8e-afc07ad35788st%25C3%25B6rungskarte_20261016-153642.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-19/bcbe8c93-8ce0-4c0e-9f8e-afc07ad35788st%25C3%25B6rungskarte_20261016-153642.png",
-          "info": "",
-          "alt": "Störungskarte 16.10.2026 15:36:42",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-19/f51fbda6-88cc-429c-9596-696c7b616ecf%25F0%259F%259A%258C%2BBus-Ersatzfahrplan%2B1%252B2%2B.pdf",
-          "label": "🚌 Bus-Ersatzfahrplan ",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://bahn.de",
-          "label": "Direkt zur Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE 6",
-          "filterName": "RE 6",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE MEX12",
-          "filterName": "RE MEX12",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "19.10.2026 15:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/0ef5b74f-f84e-4418-ad45-53850fb90541",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction5"
-    },
-    {
-      "id": "14ff2279-375a-4642-91c1-120cb6593e48",
-      "disruptionId": "72b99d21-3d50-4b87-8777-037b6282efcd",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Heilbronn Hbf ⇄ Öhringen Hbf:                                                              \nFahrplanänderungen, Zugausfälle und Ersatzverkehr mit Bus",
-      "summary": "📅 Samstag, 24. Oktober bis Freitag, 06. November 2026",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 80 (Heilbronn – Crailsheim)</li><li>RB 83 (Heilbronn – Schwäbisch Hall-Hessental)</li></ul><p><strong>Zugausfälle: </strong>Heilbronn Hbf ⇄ Öhringen Hbf</p><p><strong>Alternative Reisemöglichkeit: </strong>AVG: S-Bahn Line S4 Heilbronn Hbf ⇄ Öhringen Hbf</p><p><strong>Ersatzverkehr mit Bussen: </strong>Heilbronn Hbf ⇄ Öhringen</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Ersatzhaltestellen:</strong> Informationen zu den Ersatzhaltestellen inklusive Standorten finden Sie auf der verlinkten Seite</p><p><strong>Grund der Bauarbeiten: </strong>Bauarbeiten</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p>",
-      "durationBegin": "24.10.2026",
-      "durationEnd": "06.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/72b99d21-3d50-4b87-8777-037b6282efcd",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-12/4a016984-1ef1-48f5-b45a-9561ce72c8b0st%25C3%25B6rungskarte_20261012-101043.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-12/4a016984-1ef1-48f5-b45a-9561ce72c8b0st%25C3%25B6rungskarte_20261012-101043.png",
-          "info": "",
-          "alt": "Störungskarte 12.10.2026 10:10:43",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-12/10f63c82-015e-4e29-8f17-0e1234028238%25F0%259F%259A%258C%2BBus%2BErsatzfahrplan%2BHeilbronn-%25C3%2596hringen.pdf",
-          "label": "🚌 Bus Ersatzfahrplan Heilbronn-Öhringen",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://www.westfrankenbahn.de/fahrplan/sev-haltestellen",
-          "label": "Alle Ersatzhaltestellen der Westfrankenbahn",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://bahn.de",
-          "label": "Direkt zur Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB 83",
-          "filterName": "RB 83",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "RE 80",
-          "filterName": "RE 80",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "12.10.2026 11:10",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/14ff2279-375a-4642-91c1-120cb6593e48",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction4"
-    },
-    {
-      "id": "42d4dbf9-b220-419c-ae41-da7c5ac15cfa",
-      "disruptionId": "408978e9-234a-40a2-b7cd-d4832a447d17",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Laupheim West ⇄ Laupheim Stadt:                                                              \nZugausfälle und Ersatzverkehr mit Bus",
-      "summary": "📅 Mittwoch, 04. November 2026, 22:30 Uhr bis Donnerstag, 05. November 2026, 02:00 Uhr",
-      "text": "<p><strong>Betroffene Linie: </strong></p><ul><li>RS 2 / RS 21</li></ul><p><strong>Zugausfälle und Ersatzverkehr mit Bussen:</strong> Laupheim West ⇄ Laupheim Stadt</p><p>Bitte beachten Sie die vom Zugverkehr abweichenden Fahrzeiten der Busse.</p><p><strong>Ersatzhaltestellen:</strong> Laupheim West Westbahnhof, Laupheim ZOB Stadtbahnhof, </p><p><strong>Änderungen in der digitalen Reiseauskunft verfügbar: </strong></p><p><strong>Grund der Bauarbeiten: </strong>Gleisarbeiten</p><p>Um keine kurzfristigen Änderungen zu verpassen, informieren Sie sich bitte unmittelbar vor Fahrtantritt in den digitalen Reiseauskunftsmedien unter bahn.de oder in der App DB Navigator. Hier erhalten Sie über die Auswahl des jeweiligen Bahnhofs wichtige Informationen für Ihre Reise. Bitte beachten Sie, dass die Haltestellen des Ersatzverkehrs nicht immer direkt an den jeweiligen Bahnhöfen liegen.</p><p>🚳 Die Mitnahme von Fahrrädern ist in den Bussen aus Platz- und Sicherheitsgründen nicht möglich.</p><p>*67063</p>",
-      "durationBegin": "04.11.2026",
-      "durationEnd": "05.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/408978e9-234a-40a2-b7cd-d4832a447d17",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-08/c9bbf792-c302-4bee-9933-045ee8f1260ast%25C3%25B6rungskarte_20261008-073105.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-08/c9bbf792-c302-4bee-9933-045ee8f1260ast%25C3%25B6rungskarte_20261008-073105.png",
-          "info": "",
-          "alt": "Störungskarte 08.10.2026 07:31:05",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-10-08/e9084f5f-8d79-436e-b94a-2e5bb2f950e4%25F0%259F%259A%258C%2BBus-Ersatzfahrplan%2B.pdf",
-          "label": "🚌 Bus-Ersatzfahrplan",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "links": [
-        {
-          "href": "https://bahn.de",
-          "label": "Direkt zur Reiseauskunft",
-          "info": "",
-          "openInNewTab": true
-        },
-        {
-          "href": "https://regional.bahn.de/regionen/baden-wuerttemberg/fahrplan/sev",
-          "label": "Alle Ersatzhaltestellen der DB Regio Baden-Württemberg",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RB RS21",
-          "filterName": "RB RS21",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "08.10.2026 07:34",
-      "expand": false,
-      "topDisruption": false,
-      "detailPagePath": "/service/fahrplaene/42d4dbf9-b220-419c-ae41-da7c5ac15cfa",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction2"
-    },
-    {
-      "id": "75f2c4d3-74e1-44f1-96bf-25b04056f959",
-      "disruptionId": "3dcf5501-6255-4dc4-8e1e-726ba2be9d53",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S 2 Ostbahnhof ↔ Markt Schwaben: Reparatur an einem Signal",
-      "summary": "Zwischen Ostbahnhof und Markt Schwaben kommt es zu Verspätungen von bis zu 20 Minuten. Bitte beachten Sie die aktuell bestehenden Bauarbeiten im S-Bahn Gesamtnetz. ",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "03.11.2026",
-      "durationEnd": "03.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/3dcf5501-6255-4dc4-8e1e-726ba2be9d53",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-03/cdd6b863-b0de-4ab2-99da-f0732826c8dcst%25C3%25B6rungskarte_20261103-111916.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-03/cdd6b863-b0de-4ab2-99da-f0732826c8dcst%25C3%25B6rungskarte_20261103-111916.png",
-          "info": "",
-          "alt": "Störungskarte 03.11.2026 11:19:16",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "03.11.2026 11:23",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/75f2c4d3-74e1-44f1-96bf-25b04056f959",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section3"
     },
     {
       "id": "51c493dd-5cf6-4689-9de3-9f24aabc98a3",
