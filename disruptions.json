@@ -612,19 +612,19 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "2011406e-3a64-4cfe-b696-ec3e138e1c6a",
-      "disruptionId": "c13ce608-ecb4-4c6c-8b6d-518caed4b279",
+      "id": "b30e435f-2769-496b-8436-d66503a0e1bd",
+      "disruptionId": "43689a6c-86db-4490-b02a-32c025584f12",
       "author": "DEUTSCHE_BAHN",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
+        "label": "Reparatur an der Strecke"
       },
-      "headline": "Störung auf der Strecke",
-      "summary": "Störung auf der Strecke",
-      "text": "<p>Aufgrund einer Störung auf der Strecke (Weiche) kann es derzeit zu Verspätungen kommen. Bitte informieren Sie sich vor Fahrantritt über die aktuellen Verbindungen und beachten Sie hierzu die Durchsagen und Anzeigen vor Ort.</p><p>Wir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.</p>",
+      "headline": "Störung Infrastruktur",
+      "summary": "es kommt zu verspätungen und teilausfällen",
+      "text": "bitte prüfen sie ihre verbindung",
       "durationBegin": "09.11.2026",
-      "durationEnd": "09.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/c13ce608-ecb4-4c6c-8b6d-518caed4b279",
+      "durationEnd": "11.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/43689a6c-86db-4490-b02a-32c025584f12",
       "images": [],
       "downloads": [],
       "links": [],
@@ -641,12 +641,12 @@
           "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "09.11.2026 16:01",
-      "expand": false,
+      "lastModified": "09.11.2026 20:45",
+      "expand": true,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/2011406e-3a64-4cfe-b696-ec3e138e1c6a",
-      "magnoliaPath": "/aktuell/reduced_service_technical_problem_railway_section"
+      "detailPagePath": "/service/fahrplaene/b30e435f-2769-496b-8436-d66503a0e1bd",
+      "magnoliaPath": "/aktuell/reduced_service_construction"
     },
     {
       "id": "af81edc9-c7be-452f-9b0e-c4543324059c",
