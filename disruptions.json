@@ -1425,56 +1425,6 @@
       "magnoliaPath": "/aktuell/baden-wuerttemberg/additional_service_construction6"
     },
     {
-      "id": "6c093336-3a8b-481f-9652-a6a43705ab4f",
-      "disruptionId": "b9a7be7a-37dc-4769-8dcc-4430bdd13b36",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
-      },
-      "headline": "S3 / S5 Ostbahnhof ↔ Giesing: Reparatur an einem Signal",
-      "summary": "Zwischen Ostbahnhof und Giesing kommt es zusätzlich zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
-      "durationBegin": "11.11.2026",
-      "durationEnd": "11.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/b9a7be7a-37dc-4769-8dcc-4430bdd13b36",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-11/1ec04eea-7abf-410f-b867-5c96c4dad22ast%25C3%25B6rungskarte_20261111-161246.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-11/1ec04eea-7abf-410f-b867-5c96c4dad22ast%25C3%25B6rungskarte_20261111-161246.png",
-          "info": "",
-          "alt": "Störungskarte 11.11.2026 16:12:46",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "11.11.2026 17:04",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6c093336-3a8b-481f-9652-a6a43705ab4f",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
-    },
-    {
       "id": "1cdbcc75-25d4-4ef5-a45c-3e648c902970",
       "disruptionId": "118deee3-a1ca-4879-ae01-61cacc8e31ed",
       "author": "S_BAHN_MUC",
@@ -1482,16 +1432,16 @@
         "category": "technical_problem_railway_section",
         "label": "Reparatur an einem Signal"
       },
-      "headline": "S3 Deisenhofen ↔ Holzkirchen: Reparatur an einem Signal",
-      "summary": "Zwischen Deisenhofen und Holzkirchen kommt es zu Verspätungen von bis zu 10 Minuten und vereinzelten Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Endmeldung: S3 Deisenhofen ↔ Holzkirchen",
+      "summary": "Zwischen Deisenhofen und Holzkirchen kommt es zu keinen Beeinträchtigungen mehr.",
+      "text": "<p>Die Reparatur an der Strecke wurde beendet.</p>",
       "durationBegin": "11.11.2026",
       "durationEnd": "11.11.2026",
       "mapHref": "https://karte.bahn.de/detail/118deee3-a1ca-4879-ae01-61cacc8e31ed",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-11/e019138a-96cc-4116-9039-5e43c8860495st%25C3%25B6rungskarte_20261111-155954.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-11/e019138a-96cc-4116-9039-5e43c8860495st%25C3%25B6rungskarte_20261111-155954.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-11/d5b63b0d-3630-4416-b8af-f1573cdf3a0dst%25C3%25B6rungskarte_20261111-155954.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-11/d5b63b0d-3630-4416-b8af-f1573cdf3a0dst%25C3%25B6rungskarte_20261111-155954.png",
           "info": "",
           "alt": "Störungskarte 11.11.2026 15:59:54",
           "openInNewTab": true
@@ -1512,7 +1462,7 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "11.11.2026 17:04",
+      "lastModified": "11.11.2026 23:36",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
