@@ -617,6 +617,43 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
+      "id": "1e7c85a3-276d-4d73-8dc5-72340db70032",
+      "disruptionId": "ba212ede-6b50-4094-b93b-016b72766325",
+      "author": "DEUTSCHE_BAHN",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": " ",
+      "summary": " ",
+      "text": "<p>Der Streckenabschnitt zwischen Albstadt-Ebingen und Balingen ist  beeinträchtigt Der Grund ist eine Reparatur an der Strecke. Die Züge fahren langsamer. In der Folge kommt es zu Verspätungen von 10 bis 15 Minuten.</p><p>Betroffen sind die Züge der Linie </p><p>Bitte prüfen Sie Ihre Reiseverbindung</p>",
+      "durationBegin": "20.11.2026",
+      "durationEnd": "20.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/ba212ede-6b50-4094-b93b-016b72766325",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "20.11.2026 07:46",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/1e7c85a3-276d-4d73-8dc5-72340db70032",
+      "magnoliaPath": "/aktuell/impairment_construction"
+    },
+    {
       "id": "af81edc9-c7be-452f-9b0e-c4543324059c",
       "disruptionId": "8c9e264a-d037-4a24-a0e3-f5a4173bafe6",
       "author": "REGIO_SUEDOST",
@@ -984,8 +1021,8 @@
       "mapHref": "https://karte.bahn.de/detail/4b6ff305-865d-4355-a462-95e0fb7ae6da",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-18/778027b4-4447-4106-af8a-3d978c612c3bst%25C3%25B6rungskarte_20261118-184755.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-18/778027b4-4447-4106-af8a-3d978c612c3bst%25C3%25B6rungskarte_20261118-184755.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-20/ae65d792-ae03-4c71-b9b1-d12fef81cf0ast%25C3%25B6rungskarte_20261118-184755.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-20/ae65d792-ae03-4c71-b9b1-d12fef81cf0ast%25C3%25B6rungskarte_20261118-184755.png",
           "info": "",
           "alt": "Störungskarte 18.11.2026 18:47:55",
           "openInNewTab": true
@@ -993,7 +1030,7 @@
       ],
       "downloads": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-18/c3f16579-ca92-49c6-a240-6a2c1c9d27d9Ersatzverkehr%2BRE55%2Bund%2BRE56%2B-%2Bbeide%2BRichtungen%2B-%2Bg%25C3%25BCltig%2Ban%2Bden%2BWochenenden%2Bvom%2B21.11.%2Bbis%2B12.12.2026.pdf",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_suedost/2026-11-20/ab010fa4-d760-46ea-a420-f621499f4877Ersatzverkehr%2BRE55%2Bund%2BRE56%2B-%2Bbeide%2BRichtungen%2B-%2Bg%25C3%25BCltig%2Ban%2Bden%2BWochenenden%2Bvom%2B21.11.%2Bbis%2B12.12.2026.pdf",
           "label": "Ersatzverkehr RE55 und RE56 - beide Richtungen - gültig an den Wochenenden vom 21.11. bis 12.12.2026.pdf",
           "info": "",
           "openInNewTab": true
@@ -1018,7 +1055,7 @@
           "property": "REGIONAL"
         }
       ],
-      "lastModified": "18.11.2026 18:52",
+      "lastModified": "20.11.2026 10:04",
       "expand": false,
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/52a20e8d-2339-4415-9769-5ebc18e1a22f",
