@@ -280,7 +280,7 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": "Für die Übersicht bitte die Meldung aufklappen:",
-      "text": "<p></p><p>❌ Krupunder</p><p></p><p>❌ Nettelnburg =&gt; Voraussichtlich bis Ende Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Alte Wöhr (Stadtpark) =&gt; Voraussichtlich bis Ende Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Dezember 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p></p><p>❌ Krupunder</p><p></p><p>❌Hauptbahnhof Gleis 1/2</p><p></p><p>❌ Nettelnburg =&gt; Voraussichtlich bis Ende Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Alte Wöhr (Stadtpark) =&gt; Voraussichtlich bis Ende Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Dezember 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "02.10.2026",
       "durationEnd": "27.11.2026",
       "mapHref": "https://karte.bahn.de/detail/4e6e3071-26d5-49a0-b4e1-a3c6ea0d9bd1",
@@ -288,14 +288,14 @@
       "downloads": [],
       "links": [
         {
-          "href": "https://www.hvv.de/de/aufzuege",
-          "label": "Aufzugsplan des hvv",
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft",
           "info": "",
           "openInNewTab": true
         },
         {
-          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
-          "label": "Barrierefreie Verbindungssuche in der hvv Fahrplanauskunft",
+          "href": "https://www.hvv.de/de/aufzuege",
+          "label": "Aufzugsplan des hvv",
           "info": "",
           "openInNewTab": true
         }
@@ -351,9 +351,10 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "19.11.2026 13:44",
+      "lastModified": "21.11.2026 23:03",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other1"
     },
@@ -703,67 +704,6 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "6c9a794e-c927-448c-8f5e-a08bc43214d6",
-      "disruptionId": "37ad9bd6-5562-4725-b491-bdb8127029cf",
-      "author": "REGIO_BW",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "Beeinträchtigung zwischen Himmelreich und Hinterzarten beendet",
-      "summary": "Der Streckenabschnitt zwischen Himmelreich und Hinterzarten ist nicht mehr gesperrt.  Der Grund war eine Reparatur an der Oberleitung. Der Zugverkehr auf dem Streckenabschnitt zwischen Himmelreich und Hinterzarten wird am 22.11.2026 ab Betriebsbeginn (ca. 05:00 Uhr) wieder aufgenommen. Die Linien S1/S11 und S10 verkehren damit wieder planmäßig.",
-      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>S 1 (Breisach – Freiburg – Titisee – Seebrugg)</li><li>S 10 (Freiburg – Titisee – Villingen(Schwarzw)) </li><li>S 11 (Endingen – Freiburg – Titisee – Neustadt(Schwarzw)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
-      "durationBegin": "20.11.2026",
-      "durationEnd": "22.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/37ad9bd6-5562-4725-b491-bdb8127029cf",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-11-21/9d2afa1f-d7d2-4ba8-ae11-384cf9e9b8cast%25C3%25B6rungskarte_20261120-214208.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_bw/2026-11-21/9d2afa1f-d7d2-4ba8-ae11-384cf9e9b8cast%25C3%25B6rungskarte_20261120-214208.png",
-          "info": "",
-          "alt": "Störungskarte 20.11.2026 21:42:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN",
-        "REGIONAL"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "RE S1",
-          "filterName": "RE S1",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 10",
-          "filterName": "S 10",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 11",
-          "filterName": "S 11",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "21.11.2026 22:27",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6c9a794e-c927-448c-8f5e-a08bc43214d6",
-      "magnoliaPath": "/aktuell/baden-wuerttemberg/impairment_technical_problem_railway_section9"
-    },
-    {
       "id": "af81edc9-c7be-452f-9b0e-c4543324059c",
       "disruptionId": "8c9e264a-d037-4a24-a0e3-f5a4173bafe6",
       "author": "REGIO_SUEDOST",
@@ -1069,43 +1009,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/3bbca3f7-c782-46fb-849f-b859a88cc0a5",
       "magnoliaPath": "/aktuell/bayern/modified_service_construction1"
-    },
-    {
-      "id": "048ca034-4df3-4df6-bb92-465bd99c211c",
-      "disruptionId": "e6882a9c-300c-4878-bead-cb9f728be6df",
-      "author": "DEUTSCHE_BAHN",
-      "cause": {
-        "category": "construction",
-        "label": "Bauarbeiten"
-      },
-      "headline": "Streckensperrung",
-      "summary": "Streckensperrung",
-      "text": "<p>Aufgrund einer Streckensperrung kommt es es derzeit zu Verspätungen. Es kommt des weiteren zu Teilausfällen und Zugausfällen. Bitte berücksichtigen Sie dies bei Ihrer Reiseplanung.</p><p>Es wurde ein Schienenersatzverkehr mit Bussen eingerichtet.</p><p>Wir bitten um Ihr Verständnis und entschuldigen uns für die entstandenen Unannehmlichkeiten.</p>",
-      "durationBegin": "21.11.2026",
-      "durationEnd": "22.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/e6882a9c-300c-4878-bead-cb9f728be6df",
-      "images": [],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "LONG_DISTANCE"
-      ],
-      "states": [
-        "BW"
-      ],
-      "lines": [
-        {
-          "name": "ICE/IC",
-          "filterName": "",
-          "property": "LONG_DISTANCE"
-        }
-      ],
-      "lastModified": "21.11.2026 18:13",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/048ca034-4df3-4df6-bb92-465bd99c211c",
-      "magnoliaPath": "/aktuell/additional_service_construction0"
     },
     {
       "id": "52a20e8d-2339-4415-9769-5ebc18e1a22f",
