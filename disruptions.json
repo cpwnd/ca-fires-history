@@ -380,51 +380,6 @@
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
     },
     {
-      "id": "5e646f4f-410c-4487-8951-ddb6a6e5d096",
-      "disruptionId": "2b178de6-a3de-4d67-8c56-1ec3d1b11436",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S 8 Johanneskirchen ↔ Flughafen: Defektes Stellwerk",
-      "summary": "Zwischen Johanneskirchen und Flughafen sind keine Zugfahrten möglich.",
-      "text": "<p>Die S-Bahnen wenden in Johanneskirchen.</p><p>Wir haben für Sie einen Ersatzverkehr mit Bussen und Großraumtaxis zwischen Johanneskirchen und Flughafen eingerichtet. Bitte nutzen Sie nur die Fahrzeuge mit speziell gekennzeichneter \"Ersatzverkehr\" Beschilderung.</p><p>Fahrgäste mit Ziel Flughafen nutzen ab der Innenstadt bitte die Linie S1.</p><p>Es kommt zu Verspätungen und Teilausfällen.</p><p>Der Grund hierfür ist ein defektes Stellwerk.</p>",
-      "durationBegin": "25.11.2026",
-      "durationEnd": "25.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/2b178de6-a3de-4d67-8c56-1ec3d1b11436",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-25/67620da5-ce4f-469a-a87e-3a01ea323086st%25C3%25B6rungskarte_20261125-133916.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-25/67620da5-ce4f-469a-a87e-3a01ea323086st%25C3%25B6rungskarte_20261125-133916.png",
-          "info": "",
-          "alt": "Störungskarte 25.11.2026 13:39:16",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.11.2026 13:42",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/5e646f4f-410c-4487-8951-ddb6a6e5d096",
-      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section1"
-    },
-    {
       "id": "c3a39f6a-e805-4789-8a39-5f04bfa21024",
       "disruptionId": "96776095-f200-404c-bcd9-399d744bf3db",
       "author": "S_BAHN_MUC",
@@ -519,51 +474,6 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
     },
     {
-      "id": "f37314c6-7a4c-4d8c-86c2-ba3bcfec3dae",
-      "disruptionId": "259bcd59-9e88-467b-a4ff-4acbfbcc17a6",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Defektes Stellwerk"
-      },
-      "headline": "S1 Feldmoching - Neufahrn: Defektes Stellwerk ",
-      "summary": "Derzeit kommt es auf der Linie S1 in beide Richtungen zu Verspätungen von 20 bis 25 Minuten. Durch vorzeitige Zugwenden kommt es auch zu Teilausfällen. ",
-      "text": "<p>Grund für diese Beeinträchtigungen                         ist ein defektes Stellwerk       in Feldmoching.</p>",
-      "durationBegin": "25.11.2026",
-      "durationEnd": "25.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/259bcd59-9e88-467b-a4ff-4acbfbcc17a6",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-25/e53f8b8c-5a4c-4fa8-b915-a3eea11538cast%25C3%25B6rungskarte_20261125-141459.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-25/e53f8b8c-5a4c-4fa8-b915-a3eea11538cast%25C3%25B6rungskarte_20261125-141459.png",
-          "info": "",
-          "alt": "Störungskarte 25.11.2026 14:14:59",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "25.11.2026 14:16",
-      "expand": true,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/f37314c6-7a4c-4d8c-86c2-ba3bcfec3dae",
-      "magnoliaPath": "/aktuell/bayern/massive_impairment_technical_problem_railway_section4"
-    },
-    {
       "id": "55fef4b0-b3b7-4052-8c68-98d12670e6a3",
       "disruptionId": "c1d91fe2-8cac-4287-bf5c-2d391039b910",
       "author": "FERNVERKEHR_AG",
@@ -654,58 +564,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/34f71421-65c7-4576-9b3e-6942a2851db3",
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
-    },
-    {
-      "id": "072264e7-733b-477e-83dc-976c0fb3c681",
-      "disruptionId": "ca850c16-6ce0-4ca2-8738-01176f482ae9",
-      "author": "S_BAHN_RM",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "Zugausfälle zwischen Friedrichsdorf(Taunus) - Friedberg(Hess)",
-      "summary": "Im Regionalverkehr der Deutschen Bahn in Hessen kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linie:</strong><ul><li>RB16: Friedberg(Hess) - Friedrichsdorf(Taunus)</li></ul><p></p><strong>🗓️ Zeitraum:</strong><ul><li>Über die Dauer der Beeinträchtigung liegen uns leider noch keine Informationen vor.</li></ul><p></p><strong>⚠️ Beeinträchtigung:</strong><ul><li>Einzelne Züge stehen wieder zur Verfügung und fahren wieder auf der geplanten Strecke mit allen geplanten Halten. Es kommt aber weiterhin zu einzelnen Zugausfällen.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Ein Ersatzverkehr mit sechs Bussen verkehrt zusätzlich für Sie zwischen Friedrichsdorf(Taunus) - Friedberg(Hess). Die Busse verkehren im 30-Minuten-Takt.</li></ul><p>Den Umgebungsplan zum Ersatzverkehr an Ihrer Station finden Sie auch auf www.dbinfo.de. Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</p><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "25.11.2026",
-      "durationEnd": "25.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/ca850c16-6ce0-4ca2-8738-01176f482ae9",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-11-25/41b0b5b7-8d8a-41e8-ac62-c1783c0df526st%25C3%25B6rungskarte_20261125-081308.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-11-25/41b0b5b7-8d8a-41e8-ac62-c1783c0df526st%25C3%25B6rungskarte_20261125-081308.png",
-          "info": "",
-          "alt": "Störungskarte 25.11.2026 08:13:08",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [
-        {
-          "href": "https://www.dbinfo.de",
-          "label": "Umgebungsplan zum Ersatzverkehr an Ihrer Station",
-          "info": "",
-          "openInNewTab": true
-        }
-      ],
-      "properties": [
-        "REGIONAL"
-      ],
-      "states": [
-        "HE"
-      ],
-      "lines": [
-        {
-          "name": "RB 16",
-          "filterName": "RB 16",
-          "property": "REGIONAL"
-        }
-      ],
-      "lastModified": "25.11.2026 13:37",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/072264e7-733b-477e-83dc-976c0fb3c681",
-      "magnoliaPath": "/aktuell/hessen/reduced_service_technical_problem_vehicle"
     },
     {
       "id": "7a58f0db-e04a-4318-9c82-539222fa9274",
