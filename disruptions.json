@@ -1357,70 +1357,49 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "18fc928c-d729-4edf-87c4-39bc6cea7382",
-      "disruptionId": "15262407-c0d8-49d2-a7c3-bfbcfaeb4168",
-      "author": "S_BAHN_RM",
+      "id": "c7072a86-ff91-43f3-9d3f-9dd052bed8c3",
+      "disruptionId": "cdca3193-2e17-4f9f-9969-f0f5ea3f745b",
+      "author": "S_BAHN_MUC",
       "cause": {
         "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Weiche"
+        "label": "Reparatur an einem Signal"
       },
-      "headline": "Verspätungen und Teil- sowie Zugausfälle in Offenbach(Main)Ost",
-      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
-      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li><li>S8: Wiesbaden Hbf - Mainz Hbf - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost (- Hanau Hbf)</li><li>S9: Wiesbaden Hbf - Mainz Kastel - Frankfurt Flughafen Regionalbahnhof - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Hanau Hbf</li></ul><p></p><strong>🗓️ Zeiträume:</strong><ul><li>Am 26. November bis vsl. Betriebsende</li><li>Am 26. November zwischen ca. 22:00 und 23:50 Uhr</li></ul><p></p><strong>⚠️ Beeinträchtigungen / 🔀Abweichender Linienverlauf:</strong><ul><li>Es kommt zu Verspätungen von bis zu 15 Minuten.</li><li>Zeitweise kann sich der Zugverkehr stauen. In diesem Fall sind auch höhere Verspätungen von bis zu 30 Minuten möglich.</li><li>Einzelne Züge der S9 halten nicht in Offenbach(Main)Ost.</li><li>Achten Sie auf mögliche Gleisänderungen.</li><li>Zwischen ca. 22:00 und 23:50 Uhr entfallen die Züge der S2 zwischen Frankfurt(M)Konstablerwache - Dietzenbach Bahnhof.</li><li>Die S8 entfällt zwischen Offenbach(Main) Marktplatz - Offenbach(Main)Ost.</li></ul><p></p><strong>🚍 Ersatzverkehr:</strong><ul><li>Wir haben für Sie einen Ersatzverkehr mit 4 Bussen der Firma Kuh-Bus zwischen Offenbach(Main)Ost und Dietzenbach Bahnhof eingerichtet.</li><li>Bitte auf die Beschilderung zur Ersatzverkehrs-Haltestelle achten.</li><li>Beachten Sie, dass eine Fahrradmitnahme im Bus nicht möglich ist.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
-      "durationBegin": "26.11.2026",
+      "headline": "S 6 Deisenhofen ↔ Holzkirchen: Reparatur an einem Signal",
+      "summary": "Zwischen Deisenhofen und Holzkirchen kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
+      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "durationBegin": "27.11.2026",
       "durationEnd": "27.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/15262407-c0d8-49d2-a7c3-bfbcfaeb4168",
+      "mapHref": "https://karte.bahn.de/detail/cdca3193-2e17-4f9f-9969-f0f5ea3f745b",
       "images": [
         {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-11-26/52ea711b-755c-4922-a706-542a99055fe9st%25C3%25B6rungskarte_20261126-170145.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-11-26/52ea711b-755c-4922-a706-542a99055fe9st%25C3%25B6rungskarte_20261126-170145.png",
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-27/7a005ef5-ed9c-40b4-bf17-7aee1825d08dst%25C3%25B6rungskarte_20261127-061542.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-27/7a005ef5-ed9c-40b4-bf17-7aee1825d08dst%25C3%25B6rungskarte_20261127-061542.png",
           "info": "",
-          "alt": "Störungskarte 26.11.2026 17:01:45",
+          "alt": "Störungskarte 27.11.2026 06:15:42",
           "openInNewTab": true
         }
       ],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN",
-        "REGIONAL"
+        "SBAHN"
       ],
       "states": [
-        "HE"
+        "BY"
       ],
       "lines": [
         {
-          "name": "Bus S2",
-          "filterName": "Bus S2",
-          "property": "REGIONAL"
-        },
-        {
-          "name": "S 1",
-          "filterName": "S 1 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 Rhein-Main",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 9",
-          "filterName": "S 9 Rhein-Main",
+          "name": "S 3",
+          "filterName": "S 3 München",
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.11.2026 17:03",
+      "lastModified": "27.11.2026 06:17",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/18fc928c-d729-4edf-87c4-39bc6cea7382",
-      "magnoliaPath": "/aktuell/hessen/impairment_technical_problem_railway_section1"
+      "detailPagePath": "/service/fahrplaene/c7072a86-ff91-43f3-9d3f-9dd052bed8c3",
+      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section11"
     },
     {
       "id": "d5ae99bf-9e2c-4fbb-953d-619a1df42496",
@@ -2201,81 +2180,6 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/52a20e8d-2339-4415-9769-5ebc18e1a22f",
       "magnoliaPath": "/aktuell/suedost/additional_service_technical_problem_railway_section0"
-    },
-    {
-      "id": "45589e12-abf3-4dd5-8db6-9bd7ab460b0f",
-      "disruptionId": "b17e8051-8f7b-40da-a53b-dfa516df9ef1",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_vehicle",
-        "label": "Technische Störung am Zug"
-      },
-      "headline": "Stammstrecke: Technische Störung an einem Zug",
-      "summary": "Auf der Stammstrecke kommt es in Richtung Ostbahnhof zu Verspätungen von bis zu 40 Minuten, Zugausfällen, Umleitungen und vorzeitigen Zugwenden.",
-      "text": "<p>Der Grund hierfür ist eine technische Störung am Zug.</p>",
-      "durationBegin": "26.11.2026",
-      "durationEnd": "27.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/b17e8051-8f7b-40da-a53b-dfa516df9ef1",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/095b51cb-80fe-4a8f-b1ac-7223d976843fst%25C3%25B6rungskarte_20261126-220743.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-26/095b51cb-80fe-4a8f-b1ac-7223d976843fst%25C3%25B6rungskarte_20261126-220743.png",
-          "info": "",
-          "alt": "Störungskarte 26.11.2026 22:07:43",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 1",
-          "filterName": "S 1 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 2",
-          "filterName": "S 2 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 4",
-          "filterName": "S 4 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 5",
-          "filterName": "S 5 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 6",
-          "filterName": "S 6 München",
-          "property": "SBAHN"
-        },
-        {
-          "name": "S 8",
-          "filterName": "S 8 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "26.11.2026 23:50",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/45589e12-abf3-4dd5-8db6-9bd7ab460b0f",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_vehicle"
     },
     {
       "id": "51c493dd-5cf6-4689-9de3-9f24aabc98a3",
