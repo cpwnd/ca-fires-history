@@ -2,6 +2,122 @@
   "topDisruptions": [],
   "disruptions": [
     {
+      "id": "ccf09162-59d8-41e0-8fa3-82e263b4235d",
+      "disruptionId": "c8091f01-38bb-48cd-a59b-b29c2ac43b94",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Oberleitung"
+      },
+      "headline": "Beeinträchtigung zwischen Siegburg/Bonn und Montabaur",
+      "summary": "Aufgrund einer Reparatur an der Oberleitung zwischen Siegburg/Bonn und Montabaur  kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>Alle ICE Züge die über die Schnellfahrstrecke Köln – Rhein/Main zwischen Köln und Frankfurt(M) fahren.</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/c8091f01-38bb-48cd-a59b-b29c2ac43b94",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-11-27/608b3512-4c5d-49ad-a414-eddbe6ce8703st%25C3%25B6rungskarte_20261127-130706.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-11-27/608b3512-4c5d-49ad-a414-eddbe6ce8703st%25C3%25B6rungskarte_20261127-130706.png",
+          "info": "",
+          "alt": "Störungskarte 27.11.2026 13:07:06",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "27.11.2026 13:14",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/ccf09162-59d8-41e0-8fa3-82e263b4235d",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/massive_impairment_technical_problem_railway_section"
+    },
+    {
+      "id": "e6ca7693-9819-44af-891b-cd49525d911e",
+      "disruptionId": "d1f4946c-08d0-4e97-a0bb-0e5c277a1187",
+      "author": "FERNVERKEHR_AG",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigung zwischen Verden (Aller) und Rotenburg (Wümme)",
+      "summary": "Aufgrund einer Reparatur an der Weiche zwischen Verden (Aller) und Rotenburg (Wümme) kommt es derzeit zu Beeinträchtigungen im Fernverkehr der Deutschen Bahn. Dadurch kommt es zu Verspätungen bis zu 15 Minuten.",
+      "text": "<strong><strong>Betroffen sind folgende Verbindungen im Fernverkehr:</strong></strong><ul><li>ICE-Züge zwischen Hamburg - Kassel - Würzburg - Nürnberg - München</li><li>ICE-Züge zwischen Hamburg - Kassel - Frankfurt (Main) - Stuttgart</li><li>ICE-Züge zwischen Hamburg - Kassel - Frankfurt (Main) - Wiesbaden/Mannheim - Basel - Zürich - Chur</li></ul><p>Unser Personal vor Ort arbeitet unter Hochdruck an der Beseitigung der Störung. Sobald uns neue Informationen vorliegen, werden wir Sie an dieser Stelle auf dem Laufenden halten.&nbsp;</p><p>Bitte informieren Sie sich nochmals vor Reiseantritt über Ihre Verbindung auf bahn.de, im DB Navigator&nbsp;oder bei der telefonischen Reiseauskunft 030/2970.</p>",
+      "durationBegin": "27.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/d1f4946c-08d0-4e97-a0bb-0e5c277a1187",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-11-27/e07011bd-a23c-4225-ae38-68e12b28bbf1st%25C3%25B6rungskarte_20261127-143904.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/db_fernverkehr/2026-11-27/e07011bd-a23c-4225-ae38-68e12b28bbf1st%25C3%25B6rungskarte_20261127-143904.png",
+          "info": "",
+          "alt": "Störungskarte 27.11.2026 14:39:04",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "LONG_DISTANCE"
+      ],
+      "states": [
+        "BW",
+        "BY",
+        "BE",
+        "BB",
+        "HB",
+        "HH",
+        "HE",
+        "MV",
+        "NI",
+        "NW",
+        "RP",
+        "SL",
+        "SN",
+        "ST",
+        "SH",
+        "TH"
+      ],
+      "lines": [
+        {
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
+        }
+      ],
+      "lastModified": "27.11.2026 14:46",
+      "expand": true,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/e6ca7693-9819-44af-891b-cd49525d911e",
+      "magnoliaPath": "/aktuell/fernverkehr-ag/impairment_technical_problem_railway_section"
+    },
+    {
       "id": "cf025588-5a6a-4f9a-83df-b3e8b47fb784",
       "disruptionId": "8adbb59b-3821-434d-b86c-a117453ea156",
       "author": "FERNVERKEHR_AG",
@@ -194,7 +310,7 @@
       },
       "headline": "⚠️ Aktuell sind folgende Aufzüge im Netz der S-Bahn Hamburg außer Betrieb*:",
       "summary": "Für die Übersicht bitte die Meldung aufklappen:",
-      "text": "<p></p><p>❌ Alte Wöhr (Stadtpark) =&gt; Voraussichtlich bis Ende Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Dezember 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
+      "text": "<p></p><p>❌ Hauptbahnhof (S-Bahn) - Gleis 1 / 2</p><p></p><p>❌ Alte Wöhr (Stadtpark) =&gt; Voraussichtlich bis Ende Nov.2026 wegen Reparaturen außer Betrieb.&nbsp;</p><p></p><p>❌ Neugraben - Gleis 2 / 3</p><p></p><p>🚧 Reinbek =&gt; Beide Aufzüge werden vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Dezember 2026.</p><p></p><p>🚧 Allermöhe =&gt; Aufzug wird vollständig erneuert. Wiederinbetriebnahme voraussichtlich Ende Februar 2027.</p><p></p><p>*In dieser Übersicht sind alle Aufzüge gelistet, welche für einen Zeitraum länger als 48h Stunden gestört sind. Der aktuelle Betriebsstatus aller Aufzüge kann jederzeit im Aufzugsplan des hvv unter hvv.de/aufzuege abgerufen werden.</p><p></p><p>Alternative, stufenfreie Verbindungen finden Sie auch jederzeit in der hvv-Fahrplanauskunft unter hvv.de sowie in der hvv App, Suchoption Rollstuhl / Kinderwagen.</p>",
       "durationBegin": "02.10.2026",
       "durationEnd": "04.12.2026",
       "mapHref": "https://karte.bahn.de/detail/4e6e3071-26d5-49a0-b4e1-a3c6ea0d9bd1",
@@ -265,9 +381,10 @@
           "property": "SBAHN"
         }
       ],
-      "lastModified": "26.11.2026 08:57",
+      "lastModified": "27.11.2026 14:40",
       "expand": false,
       "topDisruption": false,
+      "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/5b87f029-c245-4e5f-8e1d-fcf062c0a8a2",
       "magnoliaPath": "/aktuell/nord/unknown_effect_technical_problem_other1"
     },
@@ -332,6 +449,57 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/e832109c-11f8-4e4a-b87f-1397f2a317a7",
       "magnoliaPath": "/aktuell/nord/massive_impairment_technical_problem_railway_section4"
+    },
+    {
+      "id": "b900700e-fd04-4e37-a9f5-4c88705f291b",
+      "disruptionId": "b12a3a64-8c60-47e4-a103-258d6a27ec6a",
+      "author": "S_BAHN_HH",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "Derzeit Verspätungen auf der S5.",
+      "summary": "Auf der S5  kommt es derzeit zu Verspätungen. Grund: Technische Störung am Zug. Nutzen Sie alternativ den RE5.",
+      "text": "<p></p>",
+      "durationBegin": "27.11.2026",
+      "durationEnd": "27.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/b12a3a64-8c60-47e4-a103-258d6a27ec6a",
+      "images": [],
+      "downloads": [],
+      "links": [
+        {
+          "href": "https://geofox.de/web/de/connections?anyHandicap=5&extraFare=0",
+          "label": "Barrierefreie Verbindungssuche in der Fahrplanauskunft",
+          "info": "",
+          "openInNewTab": true
+        },
+        {
+          "href": "https://www.hvv.de/de/fahrplanauskunft-47242",
+          "label": "Verbindungssuche in der Fahrplanauskunft",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "HH",
+        "NI"
+      ],
+      "lines": [
+        {
+          "name": "RE/RB",
+          "filterName": "",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "27.11.2026 16:10",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/b900700e-fd04-4e37-a9f5-4c88705f291b",
+      "magnoliaPath": "/aktuell/nord/modified_service_technical_problem_vehicle0"
     },
     {
       "id": "9c2a34b5-145f-4669-a125-09e7c30c3037",
@@ -486,6 +654,132 @@
       "detailPageRel": "nofollow",
       "detailPagePath": "/service/fahrplaene/29be079d-dfea-41ee-aa33-c2b1ddcc0220",
       "magnoliaPath": "/aktuell/nordost/s-bahn-berlin"
+    },
+    {
+      "id": "17d1d8e0-c773-402d-86b9-974c851c70d4",
+      "disruptionId": "64c1536a-cabb-4168-bf5f-778c3f9f2a23",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "technical_problem_vehicle",
+        "label": "Technische Störung am Zug"
+      },
+      "headline": "Stammstrecke: Technische Störung an einem Zug ",
+      "summary": "Auf der Stammstrecke in Richtung Pasing sind bis auf weiteres keine Zugfahrten möglich ‼️ Zusätzlich kommt es zu Verspätungen von 10 bis 15 Minuten.",
+      "text": "<p>Grund für diese Beeinträchtigungen                         ist eine technische Störung an einer S-Bahn       am Marienplatz.</p>",
+      "durationBegin": "27.11.2026",
+      "durationEnd": "27.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/64c1536a-cabb-4168-bf5f-778c3f9f2a23",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-27/799fdbf8-58ef-4075-a7e4-1ca2a120f0f8st%25C3%25B6rungskarte_20261127-162125.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-27/799fdbf8-58ef-4075-a7e4-1ca2a120f0f8st%25C3%25B6rungskarte_20261127-162125.png",
+          "info": "",
+          "alt": "Störungskarte 27.11.2026 16:21:25",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 3",
+          "filterName": "S 3 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 4",
+          "filterName": "S 4 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 6",
+          "filterName": "S 6 München",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 8",
+          "filterName": "S 8 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.11.2026 16:23",
+      "expand": true,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/17d1d8e0-c773-402d-86b9-974c851c70d4",
+      "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_vehicle"
+    },
+    {
+      "id": "e0b72d01-5461-4859-862f-e3b3fc2a5df5",
+      "disruptionId": "cc52ecba-d5a1-4160-8aaa-26f6d6305c47",
+      "author": "S_BAHN_MUC",
+      "cause": {
+        "category": "construction",
+        "label": "Bauarbeiten"
+      },
+      "headline": "Baustelleninformation für die S 5 in der Nacht vom 28. Januar auf 29. Januar",
+      "summary": "Es kommt zu folgenden Einschränkungen:",
+      "text": "<p>📅 <strong>Zeitraum: </strong>28. Januar auf 29. Januar von 21:30 Uhr bis 03:30 Uhr</p><p><strong>🚈</strong> <strong>Linie:</strong> S 5</p><p>🚧 <strong>Streckenabschnitt:</strong> Ostbahnhof ↔ Höhenkirchen-Siegertsbrunn (Vereinzelt auch bis Aying bzw. Kreuzstraße.)</p><p>❌ <strong>Einschränkungen: </strong>Kein S-Bahn-Verkehr</p><p>↪️<strong>&nbsp;Alternative: </strong>Ersatzverkehr mit Bussen</p><p>ℹ️&nbsp;<strong>Grund: </strong>Instandhaltungsarbeiten</p><p>🚳 <strong>Fahrrad: </strong>Die Mitnahme von Fahrrädern ist in den Bussen aus Platzgründen nicht möglich.</p><p>Bitte informieren Sie sich unmittelbar vor Fahrtantritt über mögliche Änderungen in den digitalen Reiseauskunftsmedien.</p>",
+      "durationBegin": "28.01.2027",
+      "durationEnd": "29.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/cc52ecba-d5a1-4160-8aaa-26f6d6305c47",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-27/3c5111c6-4a25-4f08-ae4d-34d7cabef9bcst%25C3%25B6rungskarte_20261127-124823.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-27/3c5111c6-4a25-4f08-ae4d-34d7cabef9bcst%25C3%25B6rungskarte_20261127-124823.png",
+          "info": "",
+          "alt": "Störungskarte 27.11.2026 12:48:23",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-27/777f8c1c-34bc-4b7d-8ba6-2e1b0c1b0b19Fpl%2BSEV%2BMGI-MHSB%2B28-29%2BJan%2B2027.pdf",
+          "label": "Ersatzverkehr Bauarbeiten S 5",
+          "info": "",
+          "openInNewTab": true
+        }
+      ],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "BY"
+      ],
+      "lines": [
+        {
+          "name": "S 5",
+          "filterName": "S 5 München",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.11.2026 14:40",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/e0b72d01-5461-4859-862f-e3b3fc2a5df5",
+      "magnoliaPath": "/aktuell/bayern/no_service_construction14"
     },
     {
       "id": "df6ce20b-2fe3-4a10-9d4c-2a43ed771262",
@@ -1265,6 +1559,56 @@
       "magnoliaPath": "/aktuell/bayern/no_service_technical_problem_railway_section"
     },
     {
+      "id": "f6aa820d-7b41-498f-bbb0-cb0b19490dec",
+      "disruptionId": "128b024e-0a66-4a4f-9f26-9725de295a86",
+      "author": "S_BAHN_RM",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Weiche"
+      },
+      "headline": "Beeinträchtigungen zwischen Offenbach(Main)Ost - Rödermark-Ober Roden sowie in Frankfurt-Griesheim",
+      "summary": "Bei der S-Bahn Rhein-Main kommt es zu Einschränkungen.",
+      "text": "<strong>🚆 Betroffene Linien:</strong><ul><li>S1: Wiesbaden Hbf - Hochheim(Main) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Rödermark-Ober Roden</li><li>S2: Niedernhausen(Taunus) - Hofheim(Taunus) - Frankfurt Hbf (tief) - Offenbach(Main)Ost - Dietzenbach Bahnhof</li></ul><p></p><strong>⚠️ Beeinträchtigungen:</strong><ul><li>Es kommt zu Verspätungen von bis zu 20 Minuten.</li><li>Die S1 verkehrt im 30-Minuten-Takt. Dadurch halten in Frankfurt-Griesheim keine Züge in Richtung der Frankfurter Innenstadt.</li><li>Die S2 mit Fahrtziel und -beginn in Frankfurt-Höchst und Hofheim(Taunus) fallen aus. Die S2 verkehrt somit auch im 30-Minuten-Takt.</li><li>Es kommt auch zu weiteren Teil- und Zugausfällen.</li></ul><p></p><strong>↪️ Empfehlung von/nach Frankfurt-Griesheim:</strong><ul><li>Nutzen Sie die Züge der Gegenrichtung. Um nach Frankfurt-Griesheim zu gelangen, fahren Sie bis Frankfurt Hbf (tief) und steigen dort auf die Züge um in Richtung Frankfurt-Höchst / Wiesbaden Hbf / Niedernhausen(Taunus). Um von Frankfurt-Griesheim in die Züge in Richtung Rödermark-Ober Roden bzw. der Frankfurter Innenstadt zu gelangen, fahren Sie bis Frankfurt-Nied oder Frankfurt-Höchst und steigen dort um.</li></ul><p></p><p>Bitte informieren Sie sich kurz vor Abfahrt Ihrer Fahrt über die aktuelle&nbsp;Betriebslage unter bahn.de oder in der DB Navigator-App.</p><p>Achten Sie bitte auch auf die Ansagen und Anzeigen an den Stationen&nbsp;und Zügen.&nbsp;</p><p></p><p>📞 Telefonisch erreichen Sie den Kundendialog in Hessen unter:</p><p><strong>069 244-45710</strong></p>",
+      "durationBegin": "27.11.2026",
+      "durationEnd": "27.11.2026",
+      "mapHref": "https://karte.bahn.de/detail/128b024e-0a66-4a4f-9f26-9725de295a86",
+      "images": [
+        {
+          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-11-27/96b373ca-0952-4c6f-9430-ee010ba4fd6est%25C3%25B6rungskarte_20261127-114443.png",
+          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_rheinmain/2026-11-27/96b373ca-0952-4c6f-9430-ee010ba4fd6est%25C3%25B6rungskarte_20261127-114443.png",
+          "info": "",
+          "alt": "Störungskarte 27.11.2026 11:44:43",
+          "openInNewTab": true
+        }
+      ],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "SBAHN"
+      ],
+      "states": [
+        "HE"
+      ],
+      "lines": [
+        {
+          "name": "S 1",
+          "filterName": "S 1 Rhein-Main",
+          "property": "SBAHN"
+        },
+        {
+          "name": "S 2",
+          "filterName": "S 2 Rhein-Main",
+          "property": "SBAHN"
+        }
+      ],
+      "lastModified": "27.11.2026 11:50",
+      "expand": false,
+      "topDisruption": false,
+      "detailPageRel": "nofollow",
+      "detailPagePath": "/service/fahrplaene/f6aa820d-7b41-498f-bbb0-cb0b19490dec",
+      "magnoliaPath": "/aktuell/hessen/massive_impairment_technical_problem_railway_section"
+    },
+    {
       "id": "55fef4b0-b3b7-4052-8c68-98d12670e6a3",
       "disruptionId": "c1d91fe2-8cac-4287-bf5c-2d391039b910",
       "author": "FERNVERKEHR_AG",
@@ -1357,49 +1701,41 @@
       "magnoliaPath": "/aktuell/mitte/massive_impairment_technical_problem_railway_section1"
     },
     {
-      "id": "c7072a86-ff91-43f3-9d3f-9dd052bed8c3",
-      "disruptionId": "cdca3193-2e17-4f9f-9969-f0f5ea3f745b",
-      "author": "S_BAHN_MUC",
+      "id": "1ccb2d13-f912-492f-9ee4-ef9da7e56d09",
+      "disruptionId": "ca439174-e520-40d8-a1dc-2bb4dbffbace",
+      "author": "DEUTSCHE_BAHN",
       "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an einem Signal"
+        "category": "other_cause",
+        "label": "Kurzfristiger Personalausfall"
       },
-      "headline": "S 6 Deisenhofen ↔ Holzkirchen: Reparatur an einem Signal",
-      "summary": "Zwischen Deisenhofen und Holzkirchen kommt es zu Verspätungen von bis zu 10 Minuten und Teilausfällen.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an einem Signal.</p>",
+      "headline": "Kurzfristiger Personalausfall",
+      "summary": "Zugausfälle wegen Personalausfall",
+      "text": "Auf Grund von kurzfristigen Personalausfall kommt zu Zugausfällen ein Busersatzverkehr ist eingerichtet.",
       "durationBegin": "27.11.2026",
       "durationEnd": "27.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/cdca3193-2e17-4f9f-9969-f0f5ea3f745b",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-27/7a005ef5-ed9c-40b4-bf17-7aee1825d08dst%25C3%25B6rungskarte_20261127-061542.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-27/7a005ef5-ed9c-40b4-bf17-7aee1825d08dst%25C3%25B6rungskarte_20261127-061542.png",
-          "info": "",
-          "alt": "Störungskarte 27.11.2026 06:15:42",
-          "openInNewTab": true
-        }
-      ],
+      "mapHref": "https://karte.bahn.de/detail/ca439174-e520-40d8-a1dc-2bb4dbffbace",
+      "images": [],
       "downloads": [],
       "links": [],
       "properties": [
-        "SBAHN"
+        "LONG_DISTANCE"
       ],
       "states": [
-        "BY"
+        "BW"
       ],
       "lines": [
         {
-          "name": "S 3",
-          "filterName": "S 3 München",
-          "property": "SBAHN"
+          "name": "ICE/IC",
+          "filterName": "",
+          "property": "LONG_DISTANCE"
         }
       ],
-      "lastModified": "27.11.2026 06:17",
+      "lastModified": "27.11.2026 15:06",
       "expand": false,
       "topDisruption": false,
       "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/c7072a86-ff91-43f3-9d3f-9dd052bed8c3",
-      "magnoliaPath": "/aktuell/bayern/impairment_technical_problem_railway_section11"
+      "detailPagePath": "/service/fahrplaene/1ccb2d13-f912-492f-9ee4-ef9da7e56d09",
+      "magnoliaPath": "/aktuell/reduced_service_other_cause"
     },
     {
       "id": "d5ae99bf-9e2c-4fbb-953d-619a1df42496",
@@ -1968,6 +2304,52 @@
       "topDisruption": false,
       "detailPagePath": "/service/fahrplaene/2c29d1c0-3500-46f8-9e90-12e6d20e74f1",
       "magnoliaPath": "/aktuell/suedost/stop_moved_construction"
+    },
+    {
+      "id": "eccba712-198d-428c-8c18-86af11d94428",
+      "disruptionId": "b99fca38-11de-432e-9446-3fc23fd6f3cd",
+      "author": "REGIO_BW",
+      "cause": {
+        "category": "technical_problem_railway_section",
+        "label": "Reparatur an der Strecke"
+      },
+      "headline": "Beeinträchtigungen zwischen Tübingen und Aulendorf: Angepasstes Fahrplankonzept bis 17. Januar verlängert",
+      "summary": "Aufgrund mehrerer Schäden an der Infrastruktur kommt es auf der Strecke zwischen Tübingen und Aulendorf weiterhin zu Einschränkungen im Zugverkehr.\n\nDas bereits bestehende angepasste Fahrplankonzept wird daher über den Fahrplanwechsel hinaus bis einschließlich 17. Januar verlängert.\n\nDie Züge der Linie RE 6a aus Richtung Tübingen und Aulendorf beginnen und enden weiterhin in Sigmaringen. Durch diese Anpassung soll ein möglichst stabiler und verlässlicher Zugverkehr gewährleistet werden.\n\nIm anschließenden Zeitraum von 18. Januar bis 26. Februar sind auf der Strecke planmäßig Bauarbeiten vorgesehen.",
+      "text": "<p><strong>Betroffene Linien: </strong></p><ul><li>RE 6 (Stuttgart – Tübingen - Aulendorf)</li><li>RB 53 (Sigmaringen – Aulendorf – Leutkirch /Wangen(Allgäu)) </li></ul><p>Bitte berücksichtigen Sie die Änderungen im Zugverkehr bei Ihrer Reiseplanung und rechnen Sie für die Dauer der Störung mehr Reisezeit ein.</p>",
+      "durationBegin": "13.12.2026",
+      "durationEnd": "17.01.2027",
+      "mapHref": "https://karte.bahn.de/detail/b99fca38-11de-432e-9446-3fc23fd6f3cd",
+      "images": [],
+      "downloads": [],
+      "links": [],
+      "properties": [
+        "REGIONAL"
+      ],
+      "states": [
+        "BW"
+      ],
+      "lines": [
+        {
+          "name": "RB 53",
+          "filterName": "RB 53",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RB 6a",
+          "filterName": "RB 6a",
+          "property": "REGIONAL"
+        },
+        {
+          "name": "RE 6a",
+          "filterName": "RE 6a",
+          "property": "REGIONAL"
+        }
+      ],
+      "lastModified": "27.11.2026 13:32",
+      "expand": false,
+      "topDisruption": false,
+      "detailPagePath": "/service/fahrplaene/eccba712-198d-428c-8c18-86af11d94428",
+      "magnoliaPath": "/aktuell/baden-wuerttemberg/modified_service_technical_problem_railway_section"
     },
     {
       "id": "e3c0d4b2-cad6-450d-af62-e52f10d041fe",
