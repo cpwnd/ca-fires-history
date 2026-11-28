@@ -2658,51 +2658,6 @@
       "magnoliaPath": "/aktuell/suedost/additional_service_technical_problem_railway_section0"
     },
     {
-      "id": "6306e4da-4f8e-4157-b4eb-510412bc21e0",
-      "disruptionId": "08d68786-57fc-4932-9e18-bef31605958f",
-      "author": "S_BAHN_MUC",
-      "cause": {
-        "category": "technical_problem_railway_section",
-        "label": "Reparatur an der Strecke"
-      },
-      "headline": "S 7 Ebenhausen-Schäftlarn ↔ Wolfratshausen: Reparatur an der Strecke",
-      "summary": "Zwischen Ebenhausen-Schäftlarn und Wolfratshausen kommt es zu Verspätungen von 15 bis 20 Minuten.",
-      "text": "<p>Der Grund hierfür ist eine Reparatur an der Strecke.</p>",
-      "durationBegin": "28.11.2026",
-      "durationEnd": "28.11.2026",
-      "mapHref": "https://karte.bahn.de/detail/08d68786-57fc-4932-9e18-bef31605958f",
-      "images": [
-        {
-          "href": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-28/bf3ec9b8-b0be-491b-ba03-e7fc28007b6dst%25C3%25B6rungskarte_20261128-000521.png",
-          "label": "https://assets-ri.extranet.deutschebahn.com/regio_sbahn_muenchen/2026-11-28/bf3ec9b8-b0be-491b-ba03-e7fc28007b6dst%25C3%25B6rungskarte_20261128-000521.png",
-          "info": "",
-          "alt": "Störungskarte 28.11.2026 00:05:21",
-          "openInNewTab": true
-        }
-      ],
-      "downloads": [],
-      "links": [],
-      "properties": [
-        "SBAHN"
-      ],
-      "states": [
-        "BY"
-      ],
-      "lines": [
-        {
-          "name": "S 7",
-          "filterName": "S 7 München",
-          "property": "SBAHN"
-        }
-      ],
-      "lastModified": "28.11.2026 00:06",
-      "expand": false,
-      "topDisruption": false,
-      "detailPageRel": "nofollow",
-      "detailPagePath": "/service/fahrplaene/6306e4da-4f8e-4157-b4eb-510412bc21e0",
-      "magnoliaPath": "/aktuell/bayern/significant_delays_technical_problem_railway_section2"
-    },
-    {
       "id": "51c493dd-5cf6-4689-9de3-9f24aabc98a3",
       "disruptionId": "95bb62bf-cb2b-478c-bcb4-32bbce3e6dc7",
       "author": "DEUTSCHE_BAHN",
